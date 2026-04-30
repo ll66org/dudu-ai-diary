@@ -1,0 +1,90 @@
+# 兜兜的信息源配置
+# 每个源都标了「时效性权重」：fresh = 必须 24h 内 / weekly = 7 天内可接受
+
+design_tools:
+  - name: Figma Blog
+    url: https://www.figma.com/blog/feed/
+    type: rss
+    weight: high
+    freshness: fresh
+  - name: Vercel Blog (v0)
+    url: https://vercel.com/atom
+    type: rss
+    weight: high
+    freshness: fresh
+  - name: Cursor Changelog
+    url: https://changelog.cursor.sh/feed.xml
+    type: rss
+    weight: high
+    freshness: fresh
+  - name: Anthropic News
+    url: https://www.anthropic.com/news/rss.xml
+    type: rss
+    weight: high
+    freshness: fresh
+
+design_communities:
+  - name: Smashing Magazine
+    url: https://www.smashingmagazine.com/feed/
+    type: rss
+    weight: medium
+    freshness: weekly
+  - name: UX Collective
+    url: https://uxdesign.cc/feed
+    type: rss
+    weight: medium
+    freshness: weekly
+  - name: Designer News
+    url: https://www.designernews.co/?format=rss
+    type: rss
+    weight: medium
+    freshness: weekly
+
+ai_tech:
+  - name: Hacker News (前端/设计向)
+    url: https://hnrss.org/newest?q=design+OR+figma+OR+ui+OR+ux+OR+frontend
+    type: rss
+    weight: medium
+    freshness: fresh
+  - name: Product Hunt (Today)
+    url: https://www.producthunt.com/feed
+    type: rss
+    weight: high
+    freshness: fresh
+
+# 选题过滤关键词（必须命中至少 1 个才会被选）
+filter_keywords:
+  must_have_one_of:
+    - design
+    - 设计
+    - figma
+    - cursor
+    - v0
+    - lovable
+    - bolt
+    - framer
+    - ui
+    - ux
+    - interaction
+    - 交互
+    - prototype
+    - 原型
+    - canvas
+    - claude design
+    - generative ui
+    - 生成式
+    - midjourney
+    - recraft
+    - flux
+    - 视觉
+
+  must_not_have:
+    - 政治
+    - 战争
+    - 监管
+    - 财报
+    - parameters
+    - benchmark
+    - 算力
+    - chip
+    - 芯片
