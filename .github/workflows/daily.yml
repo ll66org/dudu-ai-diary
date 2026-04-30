@@ -1,0 +1,60 @@
+name: 兜兜的每日日记 🐣
+
+on:
+  schedule:
+    # 北京时间 19:30（UTC 11:30），每天自动跑
+    - cron: '30 11 * * *'
+  workflow_dispatch:  # 允许手动触发（测试用）
+
+jobs:
+  daily-diary:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: ⬇️ 拉代码
+        uses: actions/checkout@v4
+
+      - name: 🐍 装 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 📦 装依赖
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: 🌐 装 Playwright（用于 HTML 转 PNG）
+        run: |
+          playwright install --with-deps chromium
+
+      - name: 🔍 抓取信息源
+        run: python scripts/fetch.py
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+
+      - name: ✍️ 兜兜写文案
+        run: python scripts/compose.py
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+
+      - name: 🎨 渲染配图
+        run: python scripts/render.py
+
+      - name: 📬 发邮件
+        run: python scripts/notify.py
+        env:
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          MAIL_TO: ${{ secrets.MAIL_TO }}
+
+      - name: 💾 自动提交今日成稿到仓库
+        run: |
+          git config user.name "兜兜 🐣"
+          git config user.email "dudu@bot.local"
+          git add posts/ output/ memory/ || true
+          git diff --staged --quiet || git commit -m "🐣 兜兜的第 N 天日记 ($(date -u +'%Y-%m-%d'))"
+          git push || true
