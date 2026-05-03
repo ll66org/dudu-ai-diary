@@ -1,5 +1,6 @@
-# 兜兜的信息源配置
+# 兜兜的信息源配置 v2
 # 每个源都标了「时效性权重」：fresh = 必须 24h 内 / weekly = 7 天内可接受
+# v2 更新：扩充到 18 个源，增加降级策略
 
 design_tools:
   - name: Figma Blog
@@ -22,6 +23,21 @@ design_tools:
     type: rss
     weight: high
     freshness: fresh
+  - name: Framer Blog
+    url: https://www.framer.com/blog/rss.xml
+    type: rss
+    weight: medium
+    freshness: fresh
+  - name: Lovable Blog
+    url: https://lovable.dev/blog/rss.xml
+    type: rss
+    weight: medium
+    freshness: fresh
+  - name: Bolt (StackBlitz) Blog
+    url: https://blog.stackblitz.com/rss.xml
+    type: rss
+    weight: medium
+    freshness: fresh
 
 design_communities:
   - name: Smashing Magazine
@@ -39,17 +55,32 @@ design_communities:
     type: rss
     weight: medium
     freshness: weekly
+  - name: CSS-Tricks
+    url: https://css-tricks.com/feed/
+    type: rss
+    weight: low
+    freshness: weekly
+  - name: A List Apart
+    url: https://alistapart.com/main/feed/
+    type: rss
+    weight: low
+    freshness: weekly
 
 ai_tech:
-  - name: Hacker News (前端/设计向)
-    url: https://hnrss.org/newest?q=design+OR+figma+OR+ui+OR+ux+OR+frontend
+  - name: Hacker News (设计向)
+    url: https://hnrss.org/newest?q=design+OR+figma+OR+ui+OR+ux+OR+frontend+OR+cursor+OR+ai+design
     type: rss
-    weight: medium
+    weight: high
     freshness: fresh
-  - name: Product Hunt (Today)
+  - name: Product Hunt
     url: https://www.producthunt.com/feed
     type: rss
     weight: high
+    freshness: fresh
+  - name: Designer News (AI Design)
+    url: https://www.designernews.co/stories/ai-design?format=rss
+    type: rss
+    weight: medium
     freshness: fresh
 
 # 选题过滤关键词（必须命中至少 1 个才会被选）
@@ -77,6 +108,17 @@ filter_keywords:
     - recraft
     - flux
     - 视觉
+    - claude
+    - artifact
+    - windsurf
+    - replit
+    - stackblitz
+    - v0.dev
+    - design tool
+    - design system
+    - design token
+    - interaction design
+    - user interface
 
   must_not_have:
     - 政治
@@ -88,3 +130,38 @@ filter_keywords:
     - 算力
     - chip
     - 芯片
+    - gpu
+    - nvidia
+
+# 降级策略：当日历没有新内容时，自动切换到此模式
+fallback_tools:
+  - name: Figma
+    description: 设计工具，从原型到生产力的全流程
+    recent_focus: "新功能发布、插件生态、设计系统更新"
+  - name: Cursor
+    description: AI代码编辑器，设计师写代码的好帮手
+    recent_focus: "AI功能迭代、规则配置、代码生成能力"
+  - name: v0 (Vercel)
+    description: AI生成UI工具，快速出稿
+    recent_focus: "生成质量提升、组件定制、React生态"
+  - name: Framer
+    description: 无代码建站+AI，让设计师快速做动效网站
+    recent_focus: "AI建站能力、动画效果、响应式设计"
+  - name: Claude (Anthropic)
+    description: AI助手，Design Mode开启设计新范式
+    recent_focus: "Design模式、对话式UI、原型生成"
+  - name: Midjourney
+    description: AI图像生成，设计师的灵感引擎
+    recent_focus: "新模型、风格迁移、精细控制"
+  - name: Recraft
+    description: AI矢量图生成，设计师专用
+    recent_focus: "矢量生成、图标库、风格一致性"
+  - name: Lovable
+    description: AI全栈应用构建，不用写代码
+    recent_focus: "产品迭代、模板更新、集成能力"
+  - name: Bolt (StackBlitz)
+    description: AI快速原型，秒级出可运行应用
+    recent_focus: "原型速度、模板库、部署集成"
+  - name: Windsurf
+    description: AI代码助手，Flow新范式
+    recent_focus: "Agent能力、上下文理解、协作流程"
