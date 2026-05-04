@@ -1,0 +1,139 @@
+# 兜兜的选题池 v1
+# 当 RSS 没抓到新内容时，从这里按"视角维度"轮换，保证每天都不一样
+# 关键：不是按"工具"轮换，是按"视角 × 工具"矩阵轮换
+# 每天根据 day_count % 7 选一个栏目，再从该栏目的主题里按 已用历史 过滤
+
+# ========== 栏目 1：设计工具更新挖掘 ==========
+tool_updates:
+  description: "挖掘某个设计/AI 工具的最新更新点，告诉设计师怎么用"
+  angles:
+    - "Figma 最近有没有藏着没大推广的小更新？"
+    - "Cursor 的 .cursorrules 能玩出哪些花样？"
+    - "v0 最近在组件生成上有什么新能力？"
+    - "Framer 的 AI 建站到底值不值得上手？"
+    - "Lovable vs Bolt vs v0 三家谁更适合设计师？"
+    - "Claude 的 Artifacts 能不能当半个 Figma 用？"
+    - "Recraft 的矢量 AI 对比 Midjourney 差在哪？"
+    - "Windsurf 的 Cascade 模式对设计还原有帮助吗？"
+    - "Replit Agent 能做出来能用的 UI 吗？"
+    - "Perplexity 的 Comet 浏览器对设计师有用吗？"
+    - "Linear 最近加的 AI 功能对设计协作怎么样？"
+    - "Notion AI 做设计文档比 Figjam 好用吗？"
+    - "Arc Browser 的 Max 功能对设计师有什么启发？"
+
+# ========== 栏目 2：新兴 AI 工具发现 ==========
+emerging_tools:
+  description: "介绍最近冒出来的设计向新 AI 工具"
+  angles:
+    - "Galileo AI 到底是被 Google 收了之后变好了还是变慢了？"
+    - "Magic Patterns 这个小众 AI UI 工具兜兜试了一下"
+    - "Uizard 从老前辈到现在还跟得上吗？"
+    - "Relume 的 AI 建站被设计师推爆了兜兜去看看"
+    - "Krea 的实时生成对设计师到底有没有用？"
+    - "Ideogram 3.0 对比 Midjourney 做海报哪个好看？"
+    - "Runway 的 Gen-3 对设计师来说意味着什么？"
+    - "Spline AI 的 3D 生成兜兜测试了一下"
+    - "Designer (Microsoft) 免费但是设计师会用它吗？"
+    - "Canva Magic Studio 进化到哪一步了？"
+    - "Napkin AI 做可视化图表真的好看吗？"
+    - "Readdy.ai 这种新 AI 建站工具能打吗？"
+    - "Dora AI 的 3D 网站兜兜想聊聊"
+    - "Durable 的 30 秒建站怎么看？"
+    - "Mobbin AI 搜索能替代灵感收集吗？"
+
+# ========== 栏目 3：交互设计新范式 ==========
+interaction_paradigms:
+  description: "AI 带来的新交互模式和范式"
+  angles:
+    - "对话式 UI 做得好的到底长什么样？"
+    - "Agent 界面的设计难题兜兜想聊聊"
+    - "生成式 UI (Generative UI) 到底是噱头还是真方向？"
+    - "AI 让空状态设计变成什么样了？"
+    - "Chat 输入框变成产品主入口，好还是坏？"
+    - "AI 产品的 Loading 设计兜兜看了 10 个"
+    - "流式输出 (Streaming) 的体验设计要点"
+    - "AI 产品的错误提示/拒答设计怎么做才不尴尬"
+    - "多模态输入的界面该怎么设计？"
+    - "AI 的记忆/上下文在 UI 上怎么呈现"
+    - "Voice UI 在 AI 时代会回来吗？"
+    - "AI 生成 × 用户编辑的混合交互设计"
+
+# ========== 栏目 4：视觉与生成式 ==========
+visual_generative:
+  description: "AI 视觉、配色、字体、品牌"
+  angles:
+    - "Midjourney v7 对设计师来说最重要的 3 个变化"
+    - "Flux 1.1 Pro 做品牌视觉比 MJ 强在哪？"
+    - "AI 配色工具推荐 (Huemint / Khroma) 哪个好用"
+    - "AI 字体生成 (Monotype / Fontshare) 兜兜试了一下"
+    - "AI 做 logo 设计：Looka vs Logo Diffusion vs Brandmark"
+    - "AI 生成 moodboard 的 3 个诀窍"
+    - "Style Transfer 在品牌设计里还能玩什么？"
+    - "ControlNet 在设计工作流里怎么用"
+    - "AI 做插画的设计师们都在用什么工具栈"
+    - "3D 生成的 AI 工具现在到什么水平了"
+    - "AI 做图标：Recraft vs Iconify AI vs Midjourney"
+    - "AI 对扁平化设计的复兴还是颠覆？"
+
+# ========== 栏目 5：设计师 × 代码 ==========
+design_to_code:
+  description: "D2C、AI 写前端、Tailwind × AI"
+  angles:
+    - "Anima / Locofy / Builder.io 设计转代码哪个真能用？"
+    - "v0 生成的代码能直接交付吗？兜兜看了看"
+    - "Cursor + Figma MCP 真的能做 D2C 吗？"
+    - "Tailwind v4 对设计师意味着什么？"
+    - "shadcn/ui 设计师要不要了解"
+    - "AI 生成的组件怎么保证设计系统一致性？"
+    - "Design Token 在 AI 时代怎么做"
+    - "从 Figma 到 React：AI 工作流全景"
+    - "AI 写 CSS 动画：Framer Motion vs 纯 CSS"
+    - "设计师要不要学 Next.js？兜兜的纠结"
+
+# ========== 栏目 6：设计哲学与趋势 ==========
+design_philosophy:
+  description: "AI 时代的设计思考和原则"
+  angles:
+    - "AI 让设计师焦虑的 3 件事和破局方法"
+    - "'Vibe Coding' 对设计师意味着什么？"
+    - "兜兜对 'AI 替代设计师' 的真实想法"
+    - "设计系统在 AI 时代会消失还是变得更重要？"
+    - "AI 产品的可信度设计 (Trust UX)"
+    - "为什么 AI 产品大多长得差不多？"
+    - "从工具到 Agent：设计师该学什么"
+    - "AI 时代，设计师的差异化在哪里"
+    - "'好设计' 的定义正在被 AI 重写吗"
+    - "设计师要不要训练自己的 AI 审美"
+
+# ========== 栏目 7：动效与原型 ==========
+motion_prototype:
+  description: "AI 动效、原型、微交互"
+  angles:
+    - "Rive 加了 AI 能力之后兜兜重新看了一下"
+    - "LottieFiles 的 AI 动画生成试了试"
+    - "Framer Motion + AI 能搞出来什么？"
+    - "AI 做微交互的时代要来了吗"
+    - "ProtoPie 的 AI 能力到哪了"
+    - "Origami Studio 还有人用吗？"
+    - "After Effects × AI 工作流"
+    - "Spline AI 做 3D 原型的潜力"
+    - "设计师必学的 10 个动效原则在 AI 时代还适用吗"
+
+# ========== 每日轮换映射 ==========
+# day_count 对 7 取模，决定当天从哪个栏目挑角度
+# 0: tool_updates
+# 1: emerging_tools
+# 2: interaction_paradigms
+# 3: visual_generative
+# 4: design_to_code
+# 5: design_philosophy
+# 6: motion_prototype
+
+weekly_rotation:
+  0: tool_updates
+  1: emerging_tools
+  2: interaction_paradigms
+  3: visual_generative
+  4: design_to_code
+  5: design_philosophy
+  6: motion_prototype
