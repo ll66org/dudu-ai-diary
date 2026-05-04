@@ -1,0 +1,34 @@
+{
+  "meta": {"day": 3, "mode": "fallback", "generated_at": "2026-05-04T12:00:00Z"},
+  "selected_topic": {
+    "title": "Agent 界面的设计难题兜兜想聊聊",
+    "source": "Claude / Devin",
+    "url": "https://claude.ai/new",
+    "why_picked": "AI Agent 时代来了，但 99% 的 Agent 界面还在用聊天框，兜兜觉得这不对劲。",
+    "designer_angle": "对话式 UI 是 Agent 的起点，不该是终点 —— 设计师的舞台才刚开始。"
+  },
+  "post": {
+    "title": "🐣 Agent 界面不该只有聊天框",
+    "body": "兜兜今天测试了 5 个 AI Agent 产品：Claude、Devin、Perplexity、v0、Manus。\n\n发现一个扎眼的问题 —— 它们长得太像了。都是一个对话框 + 流式输出 + 几个按钮。像 20 年前的 BBS 换了个壳。\n\n但 Agent 不是聊天机器人啊！它能:\n▸ 同时做 3 件事（设计师也想看到并行进度）\n▸ 要用户授权（不该只是蓝色确认按钮）\n▸ 有长期记忆（不该埋在对话历史里翻）\n\n💭 兜兜的小思考：设计师别再把 AI Agent 当 ChatGPT 设计了。它更像一个有生命的团队成员 —— 你会给团队成员设计什么界面？看板？时间轴？能力面板？\n\n你最近用过体验最好的 Agent 产品是哪个？兜兜想抄作业 👀\n\n—— 兜兜的第 3 天",
+    "tags": ["#Agent设计", "#对话式UI", "#交互设计", "#AI产品"]
+  },
+  "visuals": {
+    "cover_kicker": "INTERACTION DESIGN",
+    "cover_main_text": "Agent 不该只有聊天框",
+    "cover_sub_text": "兜兜测了 5 个 Agent 产品，发现它们长得都一样",
+    "cover_quote_en": "The interface is the product.",
+    "compare_headline": "一张图看懂 Agent 界面的错觉",
+    "compare_left_label": "CHATBOT",
+    "compare_left_title": "聊天框幻觉",
+    "compare_left_desc": "所有 Agent 都长成 ChatGPT 样，用户只能一句一句问",
+    "compare_left_metric": "1 条线程",
+    "compare_right_label": "AGENT",
+    "compare_right_title": "多任务剧场",
+    "compare_right_desc": "并行进度 + 能力面板 + 授权流，像团队成员",
+    "compare_right_metric": "N 条并行",
+    "compare_insight": "别把 Agent 当 ChatGPT 设计，它更像你的 AI 员工。",
+    "highlight_emoji": "🤖",
+    "accent_color": "ocean"
+  },
+  "dudu_voice": "对话式 UI 是 Agent 的脚手架，不该是它的骨骼。"
+}

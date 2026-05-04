@@ -73,13 +73,22 @@
     "tags": ["#标签1", "#标签2", "..."]
   },
   "visuals": {
-    "cover_main_text": "封面主标题（最多 12 字）",
-    "cover_sub_text": "封面副标题（最多 20 字）",
-    "compare_left_label": "对比左侧标题（旧）",
-    "compare_left_desc": "对比左侧描述",
-    "compare_right_label": "对比右侧标题（新）",
-    "compare_right_desc": "对比右侧描述",
-    "highlight_emoji": "1个表达情绪的 emoji"
+    "cover_kicker": "封面顶部小字（英文栏目名，如 TOOL UPDATE / DEEP DIVE / NEW DISCOVERY，4-14 字符）",
+    "cover_main_text": "封面主标题（最多 12 字，中文）",
+    "cover_sub_text": "封面副标题（最多 20 字，中文，是主标题的补充解释）",
+    "cover_quote_en": "封面左下角的英文短句，6-10 个单词，有设计感",
+    "compare_headline": "对比图顶部小标题，6-10字，如'一张图看懂区别'",
+    "compare_left_label": "对比左侧标签（英文大写，2-10 字符，如 BEFORE / MANUAL / 2023）",
+    "compare_left_title": "对比左侧标题（中文 4-8 字，如'手动调 30 版'）",
+    "compare_left_desc": "对比左侧具体描述（中文 12-22 字，有具体场景/痛点/数据）",
+    "compare_left_metric": "对比左侧关键数据（如'耗时 2h' / '成本 ¥800'，4-8 字）",
+    "compare_right_label": "对比右侧标签（英文大写，2-10 字符，如 AFTER / AI / NOW）",
+    "compare_right_title": "对比右侧标题（中文 4-8 字，如'一句话出稿'）",
+    "compare_right_desc": "对比右侧具体描述（中文 12-22 字，要有 AI 怎么做到的）",
+    "compare_right_metric": "对比右侧关键数据（如'耗时 3min' / '成本 ¥0'，4-8 字）",
+    "compare_insight": "对比下方的一句洞察总结（中文 16-28 字，要有态度、要点明设计师该警惕或拥抱什么）",
+    "highlight_emoji": "1个表达情绪的 emoji",
+    "accent_color": "封面主色调，从以下 6 个中选一个最贴合选题情绪：sunset(暖橙) / ocean(深蓝) / forest(墨绿) / plum(紫色) / mono(黑白高级灰) / coral(珊瑚红)"
   },
   "dudu_voice": "兜兜对今天选题的真心话（1-2 句，给 Dustin 看的）"
 }
