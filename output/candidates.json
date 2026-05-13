@@ -1,16 +1,16 @@
 [
   {
-    "title": "Show HN: An open source tool for generating macOS app icons with AI",
-    "summary": "<p>I’m Vladimir. I’m a software engineer. In our company we often develop desktop apps for internal needs and prototyping. And every time I bump into the same problem: <i>how do I make an icon for the macOS app I have just built</i>?<p>I could use the existing icon generators, but they are basically just image converters. You upload an existing image, and the tool generates the required icon sizes and formats from it.<p>But I don’t have an image, and I’m not a designer. Asking designers to creat",
-    "url": "https://github.com/TeamDev-IP/MoBrowser-App-Icon-Maker",
-    "published": "Wed, 13 May 2026 13:03:01 +0000",
+    "title": "Claude's Constitution; or love as the solution to the AI alignment problem",
+    "summary": "<p>Article URL: <a href=\"https://nintil.com/claude-constitution/\">https://nintil.com/claude-constitution/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48121669\">https://news.ycombinator.com/item?id=48121669</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://nintil.com/claude-constitution/",
+    "published": "Wed, 13 May 2026 13:30:05 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
     "title": "I built an email client for AI agents",
-    "summary": "<p>Article URL: <a href=\"https://yuzu-hub.github.io/inb/\">https://yuzu-hub.github.io/inb/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48121351\">https://news.ycombinator.com/item?id=48121351</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "summary": "<p>Article URL: <a href=\"https://yuzu-hub.github.io/inb/\">https://yuzu-hub.github.io/inb/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48121351\">https://news.ycombinator.com/item?id=48121351</a></p>\n<p>Points: 2</p>\n<p># Comments: 1</p>",
     "url": "https://yuzu-hub.github.io/inb/",
     "published": "Wed, 13 May 2026 13:01:44 +0000",
     "source": "Hacker News (设计向)",
@@ -22,33 +22,6 @@
     "summary": "<p>Article URL: <a href=\"https://status.claude.com/incidents/yn24rtdnf77b\">https://status.claude.com/incidents/yn24rtdnf77b</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48121140\">https://news.ycombinator.com/item?id=48121140</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
     "url": "https://status.claude.com/incidents/yn24rtdnf77b",
     "published": "Wed, 13 May 2026 12:39:21 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Authorization Bypass in AWS's Agentic AI for Enterprise: Amazon Quick",
-    "summary": "<p>Article URL: <a href=\"https://www.fogsecurity.io/blog/authorization-bypass-in-amazon-quick-ai-agents\">https://www.fogsecurity.io/blog/authorization-bypass-in-amazon-quick-ai-agents</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48120918\">https://news.ycombinator.com/item?id=48120918</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
-    "url": "https://www.fogsecurity.io/blog/authorization-bypass-in-amazon-quick-ai-agents",
-    "published": "Wed, 13 May 2026 12:14:57 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Choosing the Right Agentic Design Pattern: A Decision-Tree Approach",
-    "summary": "<p>Article URL: <a href=\"https://machinelearningmastery.com/choosing-the-right-agentic-design-pattern-a-decision-tree-approach/\">https://machinelearningmastery.com/choosing-the-right-agentic-design-pattern-a-decision-tree-approach/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48120825\">https://news.ycombinator.com/item?id=48120825</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
-    "url": "https://machinelearningmastery.com/choosing-the-right-agentic-design-pattern-a-decision-tree-approach/",
-    "published": "Wed, 13 May 2026 12:05:50 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "We Built a Custom Transport for Vercel's AI SDK",
-    "summary": "<p>Article URL: <a href=\"https://ably.com/blog/custom-transport-vercel-ai-sdk\">https://ably.com/blog/custom-transport-vercel-ai-sdk</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48120782\">https://news.ycombinator.com/item?id=48120782</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://ably.com/blog/custom-transport-vercel-ai-sdk",
-    "published": "Wed, 13 May 2026 12:00:42 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
@@ -198,28 +171,55 @@
     "category": "ai_tech"
   },
   {
-    "title": "Termux Lite",
-    "summary": "<p>\n            A powerful SSH terminal with FTP & SFTP support\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/termux-lite?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1145530?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/termux-lite",
-    "published": "2026-05-12T12:04:47-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Pipecat",
-    "summary": "<p>\n            Build AI workflows and assistants for your business\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/pipecat-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1145403?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/pipecat-2",
-    "published": "2026-05-12T08:59:14-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
     "title": "What do you do if your best design work is a small project?",
     "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/what-do-you-do-if-your-best-design-work-is-a-small-project-6d57e619d866?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*LSDuhhubPkxyC5SizquZSA.jpeg\" width=\"3024\" /></a></p><p class=\"medium-feed-snippet\">What 6 emojis can teach you about translating your impact</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/what-do-you-do-if-your-best-design-work-is-a-small-proj",
     "url": "https://uxdesign.cc/what-do-you-do-if-your-best-design-work-is-a-small-project-6d57e619d866?source=rss----138adf9c44c---4",
     "published": "Tue, 12 May 2026 22:14:34 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Low cortisol solution to big problems",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/low-cortisol-solution-to-big-problems-1b71f9f35ee8?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*qGTsZH9_MwX_egmL.jpg\" width=\"2600\" /></a></p><p class=\"medium-feed-snippet\">The strange details we only notice when we slow down.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/low-cortisol-solution-to-big-problems-1b71f9f35ee8?source=rss----138adf9c44c---4\">Conti",
+    "url": "https://uxdesign.cc/low-cortisol-solution-to-big-problems-1b71f9f35ee8?source=rss----138adf9c44c---4",
+    "published": "Tue, 12 May 2026 22:14:30 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Be like water: Rethinking the design process with AI",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/be-like-water-rethinking-design-process-and-ai-experimentation-5db3c32eff7a?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1672/1*lgZsVS8O8CrGQyrOt4D4HQ.png\" width=\"1672\" /></a></p><p class=\"medium-feed-snippet\">What Bruce Lee can teach us about structure, flow, and intention.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/be-like-water-rethinking-design-process-and-",
+    "url": "https://uxdesign.cc/be-like-water-rethinking-design-process-and-ai-experimentation-5db3c32eff7a?source=rss----138adf9c44c---4",
+    "published": "Tue, 12 May 2026 08:55:34 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "How I use AI to partner on design problems",
+    "summary": "<h4>A design workflow where AI holds the context, I do the thinking: from brainstorm to prototype</h4><p>Working through a complex design problem means holding a lot in my head. Research synthesis, product metrics, a Slack thread with stakeholder feedback, Figma comments, decisions made in the last iteration. Multiply that across iterations, and it’s hard to keep up.</p><p>Most AI tools push toward visual generation. Faster UI, pretty mockups, vibe-coded prototypes. It’s fast, and it looks good.",
+    "url": "https://uxdesign.cc/how-i-use-ai-to-think-through-design-problems-4a484080484b?source=rss----138adf9c44c---4",
+    "published": "Tue, 12 May 2026 08:54:23 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "The left-handed rope",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-left-handed-rope-1875c30ad62e?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*SpjPFOg1_zo2XIGkVIvFyA.jpeg\" width=\"3418\" /></a></p><p class=\"medium-feed-snippet\">On a sacred design pattern, and the long reach of small reversals</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/the-left-handed-rope-1875c30ad62e?source=rss----138adf9c44c---4\">Continue reading on ",
+    "url": "https://uxdesign.cc/the-left-handed-rope-1875c30ad62e?source=rss----138adf9c44c---4",
+    "published": "Sat, 09 May 2026 09:48:25 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Rethinking design with your hands in the AI world",
+    "summary": "<h4>Why design isn’t found in a prompt, but in toil and the creator’s “thinking hand.”</h4><figure><img alt=\"In a world of automated perfection, the “thinking hand” reclaims the grit, soul, and human conviction that make design truly come alive. (image source: jonmiura)\" src=\"https://cdn-images-1.medium.com/max/1024/0*OAGxk657a0vDlfcA.jpg\" /><figcaption>In a world of automated perfection, the “thinking hand” reclaims the grit, soul, and human conviction that make design truly come alive. (image ",
+    "url": "https://uxdesign.cc/rethinking-design-with-your-hands-in-the-ai-world-b8d4adf3322c?source=rss----138adf9c44c---4",
+    "published": "Mon, 11 May 2026 22:03:13 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"

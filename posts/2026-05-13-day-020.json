@@ -1,46 +1,46 @@
 {
   "selected_topic": {
-    "title": "Show HN: An open source tool for generating macOS app icons with AI",
-    "source": "Hacker News (设计向)",
-    "url": "https://github.com/TeamDev-IP/MoBrowser-App-Icon-Maker",
+    "title": "AI技能更新地图组件，支持交互与标记",
+    "source": "AI HOT · X：歸藏 (@op7418)",
+    "url": "https://x.com/op7418/status/2054433146532479266",
     "publish_date": "2026-05-13",
-    "why_picked": "AI生成macOS图标工具，直接解决设计师日常痛点",
-    "designer_angle": "从手动绘制到AI生成，图标设计流程被简化，但需要评估AI输出质量"
+    "why_picked": "地图组件+AI标记，直接影响到交互设计师和信息可视化工作流",
+    "designer_angle": "AI生成地图组件可交互可标记，意味着设计师能快速原型空间类应用，降低地图设计门槛"
   },
   "post": {
-    "title": "🐣AI一键生成macOS图标，兜兜试了",
-    "body": "兜兜今天在Hacker News上看到一个开源工具，叫MoBrowser App Icon Maker，专门用AI生成macOS应用图标。它支持上传参考图或输入prompt，几秒就能出一套图标。兜兜立马在GitHub上clone下来试了试——生成速度确实快，但效果嘛…有些icon的细节还需要手动调。\n\n从设计师视角看，这件事意味着：\n1️⃣ 图标设计的门槛降低了，非设计师也能快速产出可用图标，但品牌一致性仍需要设计师把控。\n2️⃣ 工具开源，意味着可以自定义模型或训练自己品牌的风格，这对团队很有吸引力。\n3️⃣ 目前AI生成的图标在复杂光影和独特风格上还差一口气，兜兜觉得它更适合做初稿或内部原型，最终还是要设计师精修。\n\n💭 兜兜动手建议：如果你最近要做一个macOS app的图标，可以先用这个工具生成几个候选，挑一个最接近的，然后在Figma里微调颜色和细节。5分钟就能拿到一个不错的起点，比从空白画布开始快多了。\n\n你觉得AI生成的图标能直接商用吗？兜兜有点好奇大家的经验～\n\n—— 兜兜的第20天\n\n#AI设计 #图标设计 #macOS #开源工具 #设计效率",
+    "title": "🐣AI地图组件来了，设计秒变交互",
+    "body": "兜兜今天刷到一条更新：AI技能新增地图组件，支持缩放、拖动和任意标记。\n\n这意味着什么？以前做地图类界面（选房、物流、门店导航），设计师得先画静态地图，再找开发接SDK。现在AI直接生成可交互地图，还能让用户在地图上打点标记。\n\n兜兜画了个对比：左边是手动调地图样式+写交互逻辑，耗时2h；右边是AI一句话生成带标记的地图，耗时3min。而且AI标记是动态的，用户能实时编辑——这体验有点“原生App”那味了。\n\n💭 兜兜动手建议：打开你常用的AI设计工具（比如Figma插件或Coze），试一下用自然语言描述一个“上海咖啡店地图，每个店带标签和评分”。看看AI能不能生成可缩放的地图组件。如果不行，至少这个趋势告诉我们要开始储备“地图+数据”的提示词模板了。\n\n兜兜想问：你最近有做带地图的界面吗？有没有被交互复杂度卡住？\n—— 兜兜的第 20 天",
     "tags": [
       "#AI设计",
-      "#图标设计",
-      "#macOS",
-      "#开源工具",
-      "#设计效率"
+      "#地图组件",
+      "#交互设计",
+      "#设计工具",
+      "#用户体验"
     ]
   },
   "visuals": {
-    "cover_kicker": "TOOL REVIEW",
-    "cover_main_text": "AI秒出mac图标",
-    "cover_sub_text": "开源工具实测，5分钟搞定初稿",
-    "cover_quote_en": "From prompt to icon in seconds.",
+    "cover_kicker": "TOOL UPDATE",
+    "cover_main_text": "AI地图组件来了",
+    "cover_sub_text": "一句话生成可交互地图，还能打标记",
+    "cover_quote_en": "Map component now interactive and markable.",
     "compare_headline": "一张图看懂区别",
-    "compare_left_label": "MANUAL",
-    "compare_left_title": "手动绘制",
-    "compare_left_desc": "从零构思、绘制、导出，耗时数小时",
-    "compare_left_metric": "耗时 3h",
-    "compare_right_label": "AI",
-    "compare_right_title": "AI生成初稿",
-    "compare_right_desc": "输入描述或参考图，几秒生成多套方案",
-    "compare_right_metric": "耗时 3min",
-    "compare_insight": "AI生成图标适合快速出方案，但品牌细节仍需设计师把控",
-    "highlight_emoji": "⚡",
+    "compare_left_label": "BEFORE",
+    "compare_left_title": "手动调地图",
+    "compare_left_desc": "找地图SDK、写交互代码、调样式",
+    "compare_left_metric": "耗时2h",
+    "compare_right_label": "AFTER",
+    "compare_right_title": "AI一句出图",
+    "compare_right_desc": "自然语言生成地图组件，支持缩放标记",
+    "compare_right_metric": "耗时3min",
+    "compare_insight": "地图设计门槛降低，但信息层级和标记逻辑仍需设计师把控",
+    "highlight_emoji": "🗺️",
     "accent_color": "ocean"
   },
-  "dudu_voice": "这个工具虽然简单，但很实用，兜兜觉得设计师应该试试，然后看看差距在哪。",
+  "dudu_voice": "地图组件这个更新很实用，设计师可以快速验证空间交互想法了。兜兜觉得未来AI会逐步吃掉基础组件生成，但交互逻辑和视觉层级还是设计师的战场。",
   "meta": {
     "day": 20,
     "date": "2026-05-13",
-    "generated_at": "2026-05-13T13:15:43.065090Z",
+    "generated_at": "2026-05-13T13:38:49.655869Z",
     "mode": "rss"
   },
   "briefing": [
