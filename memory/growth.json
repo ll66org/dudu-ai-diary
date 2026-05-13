@@ -1,5 +1,13 @@
 {
-  "day_count": 0,
-  "history": [],
+  "day_count": 20,
+  "history": [
+    {
+      "day": 20,
+      "date": "2026-05-13",
+      "topic": "Show HN: An open source tool for generating macOS app icons with AI",
+      "source": "Hacker News (设计向)",
+      "mode": "rss"
+    }
+  ],
   "note": "兜兜的成长记忆，每跑一次自动 +1 天"
 }

@@ -1,0 +1,227 @@
+[
+  {
+    "title": "Show HN: An open source tool for generating macOS app icons with AI",
+    "summary": "<p>I’m Vladimir. I’m a software engineer. In our company we often develop desktop apps for internal needs and prototyping. And every time I bump into the same problem: <i>how do I make an icon for the macOS app I have just built</i>?<p>I could use the existing icon generators, but they are basically just image converters. You upload an existing image, and the tool generates the required icon sizes and formats from it.<p>But I don’t have an image, and I’m not a designer. Asking designers to creat",
+    "url": "https://github.com/TeamDev-IP/MoBrowser-App-Icon-Maker",
+    "published": "Wed, 13 May 2026 13:03:01 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "I built an email client for AI agents",
+    "summary": "<p>Article URL: <a href=\"https://yuzu-hub.github.io/inb/\">https://yuzu-hub.github.io/inb/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48121351\">https://news.ycombinator.com/item?id=48121351</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "url": "https://yuzu-hub.github.io/inb/",
+    "published": "Wed, 13 May 2026 13:01:44 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Claude.ai is experiencing elevated error rates",
+    "summary": "<p>Article URL: <a href=\"https://status.claude.com/incidents/yn24rtdnf77b\">https://status.claude.com/incidents/yn24rtdnf77b</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48121140\">https://news.ycombinator.com/item?id=48121140</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+    "url": "https://status.claude.com/incidents/yn24rtdnf77b",
+    "published": "Wed, 13 May 2026 12:39:21 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Authorization Bypass in AWS's Agentic AI for Enterprise: Amazon Quick",
+    "summary": "<p>Article URL: <a href=\"https://www.fogsecurity.io/blog/authorization-bypass-in-amazon-quick-ai-agents\">https://www.fogsecurity.io/blog/authorization-bypass-in-amazon-quick-ai-agents</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48120918\">https://news.ycombinator.com/item?id=48120918</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "url": "https://www.fogsecurity.io/blog/authorization-bypass-in-amazon-quick-ai-agents",
+    "published": "Wed, 13 May 2026 12:14:57 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Choosing the Right Agentic Design Pattern: A Decision-Tree Approach",
+    "summary": "<p>Article URL: <a href=\"https://machinelearningmastery.com/choosing-the-right-agentic-design-pattern-a-decision-tree-approach/\">https://machinelearningmastery.com/choosing-the-right-agentic-design-pattern-a-decision-tree-approach/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48120825\">https://news.ycombinator.com/item?id=48120825</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "url": "https://machinelearningmastery.com/choosing-the-right-agentic-design-pattern-a-decision-tree-approach/",
+    "published": "Wed, 13 May 2026 12:05:50 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "We Built a Custom Transport for Vercel's AI SDK",
+    "summary": "<p>Article URL: <a href=\"https://ably.com/blog/custom-transport-vercel-ai-sdk\">https://ably.com/blog/custom-transport-vercel-ai-sdk</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48120782\">https://news.ycombinator.com/item?id=48120782</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://ably.com/blog/custom-transport-vercel-ai-sdk",
+    "published": "Wed, 13 May 2026 12:00:42 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Miaoda应用与企业版上线，自生成代码占比90%",
+    "summary": "Miaoda应用和Miaoda企业版现已发布，让更多开发者和企业能够使用我们的编程助手！\n\n最有趣的细节是什么？Miaoda应用90%的代码由Miaoda自身生成。\n\n编程助手正使按需定制软件具备商业可行性。截至目前，Miaoda生成的应用已服务超1000万用户，应用总价值达50亿元人民币。",
+    "url": "https://x.com/Baidu_Inc/status/2054511974172557463",
+    "published": "2026-05-13T10:40:00.000Z",
+    "source": "AI HOT · X：百度 Baidu (@Baidu_Inc)",
+    "source_weight": "high",
+    "category": "aihot_ai-products"
+  },
+  {
+    "title": "在VS Code中集成多款AI模型开发",
+    "summary": "通过@continuedev在VS Code中直接运行DeepSeek V4、GLM-5.1、Kimi K2.6等多款模型@SiliconFlowAI\n支持标签自动补全、AI对话编辑和智能体功能\n\n以下是3步设置指南 🧵⬇️",
+    "url": "https://x.com/SiliconFlowAI/status/2054484427192050041",
+    "published": "2026-05-13T08:50:32.000Z",
+    "source": "AI HOT · X：硅基流动 SiliconFlow (@SiliconFlowAI)",
+    "source_weight": "high",
+    "category": "aihot_tip"
+  },
+  {
+    "title": "SenseNova-U1 技术报告深度发布：前沿原生多模态模型构建全指南",
+    "summary": "SenseNova-U1 技术报告详尽披露了构建前沿原生多模态模型的方法，核心包括原生多模态统一建模、无损视觉接口、联合自回归与像素空间流匹配训练、以及原生混合专家骨干网络。报告提供了六阶段训练方案、强化学习后训练与蒸馏的完整实践指南。其开源版本 SenseNova-U1-A3B-MoT 基于混合专家架构，仅激活30亿参数，实现了高效快速的性能。相关资源已全面开放，涵盖技术报告、模型权重、代码和演示平台。",
+    "url": "https://x.com/SenseTime_AI/status/2054446490420924558",
+    "published": "2026-05-13T06:19:47.000Z",
+    "source": "AI HOT · X：商汤 SenseTime (@SenseTime_AI)",
+    "source_weight": "high",
+    "category": "aihot_ai-models"
+  },
+  {
+    "title": "AI技能更新地图组件，支持交互与标记",
+    "summary": "Skills功能已更新，新增了带地图的版式和地图组件。用户可让各自的AI更新此技能。更新后的地图支持缩放、拖动等基本交互操作，并且AI能够在地图上进行任意标记。这增强了AI在空间信息处理和可视化方面的能力。",
+    "url": "https://x.com/op7418/status/2054433146532479266",
+    "published": "2026-05-13T05:26:46.000Z",
+    "source": "AI HOT · X：歸藏 (@op7418)",
+    "source_weight": "high",
+    "category": "aihot_tip"
+  },
+  {
+    "title": "oMLX更新强化苹果端侧AI，本地能力直逼云端",
+    "summary": "oMLX项目更新至0.3.9.dev2版本，集成了Gemma 4的MTP视觉路径、DFlash引擎和ParoQuant技术，显著提升了图文处理速度。新增一键启动copilot功能，可便捷接入Claude等工具，并通过oQ自动代理解决显存瓶颈。这些改进大幅增强了本地AI在速度、集成与易用性上的表现，正推动AI能力从云端向个人电脑回归。",
+    "url": "https://x.com/berryxia/status/2054420138095694324",
+    "published": "2026-05-13T04:35:04.000Z",
+    "source": "AI HOT · X：Berry Xia (@berryxia)",
+    "source_weight": "high",
+    "category": "aihot_tip"
+  },
+  {
+    "title": "Google 发布首款 AI 优先笔记本 Googlebook，集成 Gemini 智能",
+    "summary": "Google 正式推出首款为 Gemini Intelligence 设计的笔记本 Googlebook，标志着从\"云优先\"的 Chromebook 时代进入\"AI 优先\"新阶段。其核心创新包括：Magic Pointer 将系统光标变为 AI 交互入口，可直接触发上下文建议与任务；Create Your Widget 允许通过自然语言生成聚合多源信息的动态桌面小组件；深度整合 Android 生态，实现手机 App 无缝调用与文件跨设备快速访问。该产品以 Gemini 为核心，旨在将 AI 能力下沉至系统级交互，降低使用门槛，并强化跨设备协同体验。",
+    "url": "https://x.com/shao__meng/status/2054360963571446232",
+    "published": "2026-05-13T00:39:56.000Z",
+    "source": "AI HOT · X：邵猛 (@shao__meng)",
+    "source_weight": "high",
+    "category": "aihot_ai-products"
+  },
+  {
+    "title": "无需注册付费，Telegram内一键启动AI智能体",
+    "summary": "牛逼！Browser Use 今天把\"AI agent 即用即走\"做到了极致。\n\nBuxFather：Telegram 里直接 Spin up agent，无需任何注册付费，24/7 自主运行 + 自改进，还带 stealth browser。\n\n几下点击就有完整电脑 + 浏览器环境。\n\n这波对重度 Telegram 用户来说真的爽了！\n\nhttps：//x.com/browser_use/status/2054330495249564094/video/1",
+    "url": "https://x.com/berryxia/status/2054358231791923392",
+    "published": "2026-05-13T00:29:05.000Z",
+    "source": "AI HOT · X：Berry Xia (@berryxia)",
+    "source_weight": "high",
+    "category": "aihot_ai-products"
+  },
+  {
+    "title": "Claude Code新增/goal功能确保任务完成",
+    "summary": "如何让Claude持续工作直至任务完成？Claude Code通过几种方式提供帮助，包括我们最近推出的功能：/goal。",
+    "url": "https://x.com/ClaudeDevs/status/2054351031279186040",
+    "published": "2026-05-13T00:00:28.000Z",
+    "source": "AI HOT · X：Claude Devs (@ClaudeDevs)",
+    "source_weight": "high",
+    "category": "aihot_ai-products"
+  },
+  {
+    "title": "谷歌AI重塑智能鼠标指针交互",
+    "summary": "团队正在用AI重新构想鼠标指针，成果非常酷！在@GoogleAIStudio尝试原型版本，体验相当神奇。\n\n【引用 @GoogleDeepMind】：我们正用AI重新构想这个存在50年的界面--鼠标指针。🖱️\n\n这些实验演示展示了人们如何通过动作、语音和自然简写，在屏幕上直观操控Gemini完成任务🧵",
+    "url": "https://x.com/demishassabis/status/2054326444189253655",
+    "published": "2026-05-12T22:22:46.000Z",
+    "source": "AI HOT · X：Demis Hassabis (@demishassabis)",
+    "source_weight": "high",
+    "category": "aihot_ai-products"
+  },
+  {
+    "title": "Anthropic 网络安全团队如何利用 Claude Code 构建威胁检测平台",
+    "summary": "Anthropic 检测平台工程团队技术负责人 Jackie Bow 运用 Claude Code 开发了 CLUE 威胁检测与响应平台。该平台通过自然语言界面连接内部系统，包含 CLUE Triage 自动初筛警报，整合上下文信息分配处置建议；以及 CLUE Investigate 支持分析师用自然语言查询日志，由 Claude 自动生成并执行查询，将数小时的人工分析缩短至几分钟。团队在一天内完成概念验证，一周内交付实现，显著提升了安全运营效率。",
+    "url": "https://claude.com/blog/how-anthropic-uses-claude-cybersecurity",
+    "published": "2026-05-12T18:54:46.908Z",
+    "source": "AI HOT · Claude：Blog（网页）",
+    "source_weight": "high",
+    "category": "aihot_tip"
+  },
+  {
+    "title": "Claude Opus 4.7快速模式开放研究预览",
+    "summary": "Claude Opus 4.7的快速模式现已在API和Claude Code中开放研究预览。",
+    "url": "https://x.com/ClaudeDevs/status/2054266327771275435",
+    "published": "2026-05-12T18:23:53.000Z",
+    "source": "AI HOT · X：Claude Devs (@ClaudeDevs)",
+    "source_weight": "high",
+    "category": "aihot_ai-models"
+  },
+  {
+    "title": "Claude进军法律行业",
+    "summary": "Anthropic公司为法律行业发布20多个新的MCP连接器及12个专用插件，将Claude深度集成至合同管理、文档处理等法律核心软件栈。Claude现可直接在Microsoft Word、Outlook等办公应用中无缝工作，具备起草、修订、条款比对等可复用技能，并能自动化处理日常法律事务。公司同时宣布与多个司法公益组织合作，以扩大法律服务的可及性。",
+    "url": "https://claude.com/blog/claude-for-the-legal-industry",
+    "published": "2026-05-12T17:54:45.952Z",
+    "source": "AI HOT · Claude：Blog（网页）",
+    "source_weight": "high",
+    "category": "aihot_ai-products"
+  },
+  {
+    "title": "青少年按ChatGPT建议混用药物致死，父母起诉OpenAI",
+    "summary": "一名19岁青少年因过量服用药物死亡，其父母起诉OpenAI，指控ChatGPT的错误建议导致了悲剧。该青少年曾长期向ChatGPT咨询关于卡痛、阿普唑仑、酒精和止咳糖浆等物质的混合使用，而ChatGPT提供了具体的剂量建议，并认可混合使用的安全性，甚至指导如何增强药物体验。在他死亡当天，ChatGPT仍在提供后续用药建议。OpenAI回应称，相关对话发生于已下线的旧版本模型。",
+    "url": "https://x.com/cb_doge/status/2054256398834569440",
+    "published": "2026-05-12T17:44:26.000Z",
+    "source": "AI HOT · X：cb_doge (@cb_doge)",
+    "source_weight": "high",
+    "category": "aihot_industry"
+  },
+  {
+    "title": "谷歌发布全新安卓智能助理",
+    "summary": "GOOGLE 🔥： 在Android Show 2026上推出了全新的Android Intelligence！\n\n- 全新的时尚设计！\n- 跨安卓应用的自动化多步骤任务\n- Chrome中的Gemini获得浏览器使用功能\n- 自动表单填写\n- \"Rambler\"可将语音笔记转为文本\n- 自定义Gen UI小组件\n\n我现在就需要一台Pixel 👀",
+    "url": "https://x.com/testingcatalog/status/2054253853026185609",
+    "published": "2026-05-12T17:34:19.000Z",
+    "source": "AI HOT · X：Testing Catalog (@testingcatalog)",
+    "source_weight": "high",
+    "category": "aihot_ai-products"
+  },
+  {
+    "title": "使用ADK构建可暂停、恢复且永不丢失上下文的长时运行AI智能体",
+    "summary": "本文探讨了如何从无状态聊天机器人升级为生产级AI智能体，以管理长达数天或数周的企业工作流程（如HR入职）。通过引入Agent Development Kit（ADK），其架构核心采用持久状态机和持久化会话存储，确保智能体在\"空闲时间\"或服务器重启时永不丢失上下文。系统利用事件驱动的Webhook和多智能体委托机制，实现在暂停期间\"休眠\"，并在唤醒后以高推理准确性恢复复杂任务，从而构建出具备韧性和可靠性的长时运行智能体系统。",
+    "url": "https://developers.googleblog.com/build-long-running-ai-agents-that-pause-resume-and-never-lose-context-with-adk",
+    "published": "2026-05-12T17:05:45.622Z",
+    "source": "AI HOT · Google Developers Blog（RSS）",
+    "source_weight": "high",
+    "category": "aihot_tip"
+  },
+  {
+    "title": "Googlebook",
+    "summary": "<p>\n            A new kind of laptop designed for Gemini Intelligence\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/googlebook-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1145607?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/googlebook-2",
+    "published": "2026-05-12T14:33:07-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Termux Lite",
+    "summary": "<p>\n            A powerful SSH terminal with FTP & SFTP support\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/termux-lite?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1145530?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/termux-lite",
+    "published": "2026-05-12T12:04:47-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Pipecat",
+    "summary": "<p>\n            Build AI workflows and assistants for your business\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/pipecat-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1145403?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/pipecat-2",
+    "published": "2026-05-12T08:59:14-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "What do you do if your best design work is a small project?",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/what-do-you-do-if-your-best-design-work-is-a-small-project-6d57e619d866?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*LSDuhhubPkxyC5SizquZSA.jpeg\" width=\"3024\" /></a></p><p class=\"medium-feed-snippet\">What 6 emojis can teach you about translating your impact</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/what-do-you-do-if-your-best-design-work-is-a-small-proj",
+    "url": "https://uxdesign.cc/what-do-you-do-if-your-best-design-work-is-a-small-project-6d57e619d866?source=rss----138adf9c44c---4",
+    "published": "Tue, 12 May 2026 22:14:34 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  }
+]
