@@ -1,34 +1,86 @@
 {
-  "meta": {"day": 3, "mode": "fallback", "generated_at": "2026-05-04T12:00:00Z"},
+  "meta": {
+    "day": 20,
+    "date": "2026-05-13",
+    "mode": "rss",
+    "generated_at": "2026-05-13T11:30:00Z"
+  },
   "selected_topic": {
-    "title": "Agent 界面的设计难题兜兜想聊聊",
-    "source": "Claude / Devin",
-    "url": "https://claude.ai/new",
-    "why_picked": "AI Agent 时代来了，但 99% 的 Agent 界面还在用聊天框，兜兜觉得这不对劲。",
-    "designer_angle": "对话式 UI 是 Agent 的起点，不该是终点 —— 设计师的舞台才刚开始。"
+    "title": "Miaoda 90% 代码由自己生成，AI 自举时代来了？",
+    "source": "百度 Miaoda",
+    "url": "https://miaoda.baidu.com",
+    "why_picked": "一个 AI 编程产品，90% 的代码竟然是它自己写的——这件事比 GPT 自我训练更值得设计师关注。",
+    "designer_angle": "AI 自举意味着工具从'被用'变成'共建'，设计师的角色从'画稿子'变成'编排能力'。"
   },
   "post": {
-    "title": "🐣 Agent 界面不该只有聊天框",
-    "body": "兜兜今天测试了 5 个 AI Agent 产品：Claude、Devin、Perplexity、v0、Manus。\n\n发现一个扎眼的问题 —— 它们长得太像了。都是一个对话框 + 流式输出 + 几个按钮。像 20 年前的 BBS 换了个壳。\n\n但 Agent 不是聊天机器人啊！它能:\n▸ 同时做 3 件事（设计师也想看到并行进度）\n▸ 要用户授权（不该只是蓝色确认按钮）\n▸ 有长期记忆（不该埋在对话历史里翻）\n\n💭 兜兜的小思考：设计师别再把 AI Agent 当 ChatGPT 设计了。它更像一个有生命的团队成员 —— 你会给团队成员设计什么界面？看板？时间轴？能力面板？\n\n你最近用过体验最好的 Agent 产品是哪个？兜兜想抄作业 👀\n\n—— 兜兜的第 3 天",
-    "tags": ["#Agent设计", "#对话式UI", "#交互设计", "#AI产品"]
+    "title": "🐣 AI 自己写自己，设计师还有没有事做？",
+    "body": "兜兜今天看到一条扎眼的新闻：百度 Miaoda 应用版上线，90% 的代码由它自己生成。这不是 demo，是商用产品 🤯\n\n💡 兜兜的设计师视角看到了 3 件事：\n▸ 工具不再是工具，是合作者 —— 你需要给它写'指令架构'而不是 mockup\n▸ 设计师的输出物变了：从 PSD/Figma 文件，变成 prompts + 决策原则\n▸ 'design system' 重新成为兵家必争之地 —— 没有 token 的设计 AI 还原不出来\n\n💭 兜兜动手建议：今晚花 5 分钟，把你最常画的 1 个组件，用一段话描述给 v0 / Lovable，看 AI 还原度多少 —— 这就是你和 AI 协作的'第一次握手'。\n\n你愿意把多少决策交给 AI？兜兜想听你说 👀\n\n—— 兜兜的第 20 天",
+    "tags": [
+      "#AI编程",
+      "#设计师转型",
+      "#AI自举",
+      "#百度Miaoda"
+    ]
   },
   "visuals": {
-    "cover_kicker": "INTERACTION DESIGN",
-    "cover_main_text": "Agent 不该只有聊天框",
-    "cover_sub_text": "兜兜测了 5 个 Agent 产品，发现它们长得都一样",
-    "cover_quote_en": "The interface is the product.",
-    "compare_headline": "一张图看懂 Agent 界面的错觉",
-    "compare_left_label": "CHATBOT",
-    "compare_left_title": "聊天框幻觉",
-    "compare_left_desc": "所有 Agent 都长成 ChatGPT 样，用户只能一句一句问",
-    "compare_left_metric": "1 条线程",
-    "compare_right_label": "AGENT",
-    "compare_right_title": "多任务剧场",
-    "compare_right_desc": "并行进度 + 能力面板 + 授权流，像团队成员",
-    "compare_right_metric": "N 条并行",
-    "compare_insight": "别把 Agent 当 ChatGPT 设计，它更像你的 AI 员工。",
+    "cover_kicker": "PRODUCT WATCH",
+    "cover_main_text": "AI 自己写自己",
+    "cover_sub_text": "Miaoda 90% 代码由它自身生成 - 设计师该慌吗？",
+    "cover_quote_en": "When tools start writing themselves.",
+    "compare_headline": "AI 协作的第一次握手",
+    "compare_left_label": "BEFORE",
+    "compare_left_title": "工具被使用",
+    "compare_left_desc": "设计师画 mockup，工程师抄代码",
+    "compare_left_metric": "10% 自动",
+    "compare_right_label": "AFTER",
+    "compare_right_title": "工具会编写",
+    "compare_right_desc": "AI 写自己代码，设计师做编排",
+    "compare_right_metric": "90% 自动",
+    "compare_insight": "你的设计文件没价值了，你的设计原则才有。",
     "highlight_emoji": "🤖",
     "accent_color": "ocean"
   },
-  "dudu_voice": "对话式 UI 是 Agent 的脚手架，不该是它的骨骼。"
+  "dudu_voice": "AI 自举不是替代，是把判断的舞台还给设计师。",
+  "briefing": [
+    {
+      "title": "Miaoda应用与企业版上线，自生成代码占比90%",
+      "summary": "Miaoda应用和Miaoda企业版现已发布，让更多开发者和企业能够使用我们的编程助手！\n\n最有趣的细节是什么？Miaoda应用90%的代码由Miaoda自身生成。\n\n编程助手正使按需定制软件具备商业可行性。截至目前，Miaoda生成的应用已服务超1000万用户，应用总价值达50亿元人民币。",
+      "source": "X：百度 Baidu (@Baidu_Inc)",
+      "url": "https://x.com/Baidu_Inc/status/2054511974172557463",
+      "published_at": "2026-05-13T10:40:00.000Z",
+      "category": "ai-products"
+    },
+    {
+      "title": "在VS Code中集成多款AI模型开发",
+      "summary": "通过@continuedev在VS Code中直接运行DeepSeek V4、GLM-5.1、Kimi K2.6等多款模型@SiliconFlowAI\n支持标签自动补全、AI对话编辑和智能体功能\n\n以下是3步设置指南 🧵⬇️",
+      "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
+      "url": "https://x.com/SiliconFlowAI/status/2054484427192050041",
+      "published_at": "2026-05-13T08:50:32.000Z",
+      "category": "tip"
+    },
+    {
+      "title": "SenseNova-U1 技术报告深度发布：前沿原生多模态模型构建全指南",
+      "summary": "SenseNova-U1 技术报告详尽披露了构建前沿原生多模态模型的方法，核心包括原生多模态统一建模、无损视觉接口、联合自回归与像素空间流匹配训练、以及原生混合专家骨干网络。报告提供了六阶段训练方案、强化学习后训练与蒸馏的完整实践指南。其开源版本 SenseNova-U1-A3B-MoT 基于混合专家架构，仅激活30亿",
+      "source": "X：商汤 SenseTime (@SenseTime_AI)",
+      "url": "https://x.com/SenseTime_AI/status/2054446490420924558",
+      "published_at": "2026-05-13T06:19:47.000Z",
+      "category": "ai-models"
+    },
+    {
+      "title": "AI技能更新地图组件，支持交互与标记",
+      "summary": "Skills功能已更新，新增了带地图的版式和地图组件。用户可让各自的AI更新此技能。更新后的地图支持缩放、拖动等基本交互操作，并且AI能够在地图上进行任意标记。这增强了AI在空间信息处理和可视化方面的能力。",
+      "source": "X：歸藏 (@op7418)",
+      "url": "https://x.com/op7418/status/2054433146532479266",
+      "published_at": "2026-05-13T05:26:46.000Z",
+      "category": "tip"
+    },
+    {
+      "title": "oMLX更新强化苹果端侧AI，本地能力直逼云端",
+      "summary": "oMLX项目更新至0.3.9.dev2版本，集成了Gemma 4的MTP视觉路径、DFlash引擎和ParoQuant技术，显著提升了图文处理速度。新增一键启动copilot功能，可便捷接入Claude等工具，并通过oQ自动代理解决显存瓶颈。这些改进大幅增强了本地AI在速度、集成与易用性上的表现，正推动AI能力从云端向",
+      "source": "X：Berry Xia (@berryxia)",
+      "url": "https://x.com/berryxia/status/2054420138095694324",
+      "published_at": "2026-05-13T04:35:04.000Z",
+      "category": "tip"
+    }
+  ]
 }

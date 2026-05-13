@@ -6,6 +6,11 @@ on:
     - cron: '30 11 * * *'
   workflow_dispatch:  # 允许手动触发（测试用）
 
+# 关键：必须显式声明 contents: write，否则 GITHUB_TOKEN 默认只读
+# 这是 memory 没保存、每天显示"第 1 天"的根因
+permissions:
+  contents: write
+
 jobs:
   daily-diary:
     runs-on: ubuntu-latest
@@ -55,17 +60,16 @@ jobs:
         run: |
           git config user.name "兜兜 🐣"
           git config user.email "dudu@bot.local"
-          # 关键：memory/growth.json 必须推上去，否则下次跑还是 day_count=0，会重复
           git add posts/ output/ memory/ || true
           if git diff --staged --quiet; then
             echo "[git] 没有变更，跳过提交"
           else
-            DAY_NUM=$(python -c "import json; d=json.load(open('memory/growth.json')); print(d.get('day_count','?'))" 2>/dev/null || echo "?")
+            # 用 fetch_meta.json 里的物理 day（最可靠）
+            DAY_NUM=$(python -c "import json; d=json.load(open('output/fetch_meta.json')); print(d.get('dudu_day','?'))" 2>/dev/null || echo "?")
             git commit -m "🐣 兜兜的第 ${DAY_NUM} 天日记 ($(date -u +'%Y-%m-%d'))"
-            # 带重试的 push，避免因为并发冲突导致 memory 丢失
             for i in 1 2 3; do
               if git pull --rebase origin main && git push origin main; then
-                echo "[git] push 成功"
+                echo "[git] push 成功 ✅"
                 break
               fi
               echo "[git] push 失败，第 $i 次重试..."

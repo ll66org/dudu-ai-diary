@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Miaoda应用与企业版上线，自生成代码占比90%",
+    "summary": "Miaoda应用和Miaoda企业版现已发布，让更多开发者和企业能够使用我们的编程助手！\n\n最有趣的细节是什么？Miaoda应用90%的代码由Miaoda自身生成。\n\n编程助手正使按需定制软件具备商业可行性。截至目前，Miaoda生成的应用已服务超1000万用户，应用总价值达50亿元人民币。",
+    "source": "X：百度 Baidu (@Baidu_Inc)",
+    "url": "https://x.com/Baidu_Inc/status/2054511974172557463",
+    "published_at": "2026-05-13T10:40:00.000Z",
+    "category": "ai-products"
+  },
+  {
+    "title": "在VS Code中集成多款AI模型开发",
+    "summary": "通过@continuedev在VS Code中直接运行DeepSeek V4、GLM-5.1、Kimi K2.6等多款模型@SiliconFlowAI\n支持标签自动补全、AI对话编辑和智能体功能\n\n以下是3步设置指南 🧵⬇️",
+    "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
+    "url": "https://x.com/SiliconFlowAI/status/2054484427192050041",
+    "published_at": "2026-05-13T08:50:32.000Z",
+    "category": "tip"
+  },
+  {
+    "title": "SenseNova-U1 技术报告深度发布：前沿原生多模态模型构建全指南",
+    "summary": "SenseNova-U1 技术报告详尽披露了构建前沿原生多模态模型的方法，核心包括原生多模态统一建模、无损视觉接口、联合自回归与像素空间流匹配训练、以及原生混合专家骨干网络。报告提供了六阶段训练方案、强化学习后训练与蒸馏的完整实践指南。其开源版本 SenseNova-U1-A3B-MoT 基于混合专家架构，仅激活30亿",
+    "source": "X：商汤 SenseTime (@SenseTime_AI)",
+    "url": "https://x.com/SenseTime_AI/status/2054446490420924558",
+    "published_at": "2026-05-13T06:19:47.000Z",
+    "category": "ai-models"
+  },
+  {
+    "title": "AI技能更新地图组件，支持交互与标记",
+    "summary": "Skills功能已更新，新增了带地图的版式和地图组件。用户可让各自的AI更新此技能。更新后的地图支持缩放、拖动等基本交互操作，并且AI能够在地图上进行任意标记。这增强了AI在空间信息处理和可视化方面的能力。",
+    "source": "X：歸藏 (@op7418)",
+    "url": "https://x.com/op7418/status/2054433146532479266",
+    "published_at": "2026-05-13T05:26:46.000Z",
+    "category": "tip"
+  },
+  {
+    "title": "oMLX更新强化苹果端侧AI，本地能力直逼云端",
+    "summary": "oMLX项目更新至0.3.9.dev2版本，集成了Gemma 4的MTP视觉路径、DFlash引擎和ParoQuant技术，显著提升了图文处理速度。新增一键启动copilot功能，可便捷接入Claude等工具，并通过oQ自动代理解决显存瓶颈。这些改进大幅增强了本地AI在速度、集成与易用性上的表现，正推动AI能力从云端向",
+    "source": "X：Berry Xia (@berryxia)",
+    "url": "https://x.com/berryxia/status/2054420138095694324",
+    "published_at": "2026-05-13T04:35:04.000Z",
+    "category": "tip"
+  }
+]

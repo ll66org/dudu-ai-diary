@@ -1,7 +1,8 @@
-"""dudu notify - magazine-style email v2 (typography refined)"""
+"""dudu notify v3 - 杂志邮件 + 干货快讯 + 物理日期"""
 import os
 import smtplib
 import json
+from datetime import date
 from email.mime.text import MIMEText
 from email.mime.image import MIMEImage
 from email.mime.multipart import MIMEMultipart
@@ -12,17 +13,71 @@ from pathlib import Path
 ROOT = Path(__file__).parent.parent
 OUTPUT = ROOT / "output"
 
-# 苹方字体堆叠（优先苹方，回退到其他无衬线）
+# 兜兜诞生日（与 fetch.py / compose.py 保持一致）
+DUDU_BIRTHDAY = date(2026, 4, 24)
+
+# 苹方字体堆叠
 FONT_SANS = "'PingFang SC','PingFangSC-Regular','苹方-简','苹方',-apple-system,BlinkMacSystemFont,'Helvetica Neue','Microsoft YaHei',sans-serif"
 FONT_SERIF = "'Times New Roman',Georgia,serif"
 
 
+def get_dudu_day():
+    return max(1, (date.today() - DUDU_BIRTHDAY).days + 1)
+
+
+def category_label(cat):
+    mapping = {
+        "ai-models": "模型",
+        "ai-products": "产品",
+        "industry": "行业",
+        "paper": "论文",
+        "tip": "技巧",
+        "general": "动态",
+    }
+    # 兼容 aihot_ 前缀
+    if cat and cat.startswith("aihot_"):
+        cat = cat[6:]
+    return mapping.get(cat, "动态")
+
+
+def build_briefing_html(briefing):
+    """渲染今日 5 条干货快讯卡片"""
+    if not briefing:
+        return ""
+
+    cards = ""
+    for i, b in enumerate(briefing[:5], 1):
+        title = b.get("title", "")[:80]
+        summary = b.get("summary", "")[:120]
+        source = b.get("source", "")[:30]
+        url = b.get("url", "#")
+        cat_label = category_label(b.get("category", ""))
+
+        cards += f'''
+        <div style="background:#fff;border:1px solid #F0E4D8;border-radius:14px;padding:20px 22px;margin-bottom:12px;">
+          <div style="display:flex;align-items:center;gap:10px;margin-bottom:10px;">
+            <div class="serif" style="font-size:18px;font-weight:800;color:#C04A2E;line-height:1;font-style:italic;min-width:24px;">{i:02d}</div>
+            <div style="font-size:10px;font-weight:700;color:#fff;background:#C04A2E;padding:3px 9px;border-radius:100px;letter-spacing:1px;">{cat_label}</div>
+            <div style="font-size:11px;color:#999;font-weight:500;letter-spacing:.3px;">{source}</div>
+          </div>
+          <div style="font-size:15px;font-weight:700;color:#2D1108;line-height:1.5;letter-spacing:.2px;margin-bottom:6px;">{title}</div>
+          <div style="font-size:13px;color:#666;line-height:1.7;letter-spacing:.2px;">{summary}</div>
+          <div style="margin-top:10px;">
+            <a href="{url}" style="font-size:11px;color:#5B7FFF;text-decoration:none;letter-spacing:.3px;">↗ 看原文</a>
+          </div>
+        </div>'''
+    return cards
+
+
 def build_email(post_data):
-    day = post_data["meta"]["day"]
+    # 关键改动 1：使用物理日期计算的 day（不再依赖 memory.day_count）
+    # 优先用 meta.day（fetch/compose 写入的物理日期），兜底用现算
+    day = post_data.get("meta", {}).get("day") or get_dudu_day()
     topic = post_data["selected_topic"]
     post = post_data["post"]
     voice = post_data.get("dudu_voice", "")
-    date_str = post_data["meta"]["generated_at"][:10]
+    date_str = post_data.get("meta", {}).get("date") or post_data.get("meta", {}).get("generated_at", "")[:10]
+    briefing = post_data.get("briefing", [])
 
     # 加载历史
     history = []
@@ -33,7 +88,9 @@ def build_email(post_data):
             history = mem.get("history", [])
     except Exception:
         history = []
-    total_days = len(history)
+    total_days = len(history) if history else 1
+    # 兜兜活了多少天（物理日期），可能 > 实际发文天数
+    dudu_days_alive = day
 
     subject = f"Vol.{day:03d} | {post['title']}"
 
@@ -59,6 +116,23 @@ def build_email(post_data):
             <div style="font-family:{FONT_SANS};font-size:11px;font-weight:700;color:#B8593C;letter-spacing:3px;margin-bottom:14px;">DUDU·RECENT</div>
             <div style="display:flex;">{cards}</div>
             </div>'''
+
+    # 今日干货快讯（aihot 拉的真实 AI 资讯）
+    briefing_html = build_briefing_html(briefing)
+    briefing_section = ""
+    if briefing_html:
+        briefing_section = f"""
+  <!-- ========== 00 · 今日干货 ========== -->
+  <div style="padding:56px 40px 0;">
+    <div style="display:flex;align-items:center;gap:14px;margin-bottom:18px;">
+      <div style="width:36px;height:1px;background:#C04A2E;"></div>
+      <div class="serif" style="font-size:11px;font-weight:700;color:#C04A2E;letter-spacing:4px;">00 · TODAY&#39;S BRIEFING</div>
+    </div>
+    <h2 style="font-size:24px;font-weight:800;color:#2D1108;margin:0 0 6px;letter-spacing:-0.6px;line-height:1.3;">今日 AI 圈 · {len(briefing)} 条干货</h2>
+    <div style="font-size:12px;font-weight:300;color:#999;margin-bottom:22px;letter-spacing:0.3px;">来自 aihot.virxact.com 精选 · 兜兜从设计师视角挑的</div>
+    {briefing_html}
+  </div>
+"""
 
     html_body = f"""<!DOCTYPE html>
 <html>
@@ -111,11 +185,13 @@ def build_email(post_data):
       </div>
       <div style="width:1px;background:rgba(92,42,26,0.2);"></div>
       <div>
-        <div class="serif" style="font-size:10px;font-weight:700;color:#8B4A35;letter-spacing:2px;">STREAK</div>
-        <div style="font-size:13px;font-weight:600;color:#5C2A1A;margin-top:6px;letter-spacing:0.2px;">已连更 {total_days} 天</div>
+        <div class="serif" style="font-size:10px;font-weight:700;color:#8B4A35;letter-spacing:2px;">DUDU AGE</div>
+        <div style="font-size:13px;font-weight:600;color:#5C2A1A;margin-top:6px;letter-spacing:0.2px;">兜兜已经 {dudu_days_alive} 天大啦</div>
       </div>
     </div>
   </div>
+
+  {briefing_section}
 
   <!-- ========== 01 · WHY ========== -->
   <div style="padding:56px 40px 0;">
