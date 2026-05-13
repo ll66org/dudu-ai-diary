@@ -145,7 +145,7 @@ def compose():
         print(f"[topic] {post_result['selected_topic']['title']}")
         return
 
-    # ========== RSS / AI HOT 主流程 ==========
+    # ========== 主流程：今日精选 / RSS ==========
     print(f"[compose] 主模式 day {dudu_day}，候选 {len(candidates)} 条")
 
     candidates_brief = [
@@ -159,18 +159,25 @@ def compose():
         for c in candidates[:12]
     ]
 
-    # 把今日快讯也告诉 LLM，让它在选题时倾向选择和快讯有关联的
-    briefing_brief = ""
+    # ★ 关键改动：主题必须从今日 briefing 头部挑选，保证邮件「今日干货」和「主题」是一体的
+    # briefing 是已经按设计师相关度排序的真实新闻，主题就在 top-3 里选
+    briefing_for_prompt = ""
+    locked_topic_hint = ""
     if briefing:
         items_text = "\n".join([
-            f"  {i+1}. [{b['category']}] {b['title']} | {b['source']}"
+            f"  [{i+1}] {b['title']}\n      来源: {b['source']}\n      链接: {b['url']}\n      摘要: {b.get('summary','')[:160]}"
             for i, b in enumerate(briefing[:5])
         ])
-        briefing_brief = f"""
-【今日 AI 圈干货快讯（来自 AI HOT）】
+        briefing_for_prompt = f"""
+【今日 AI 圈 5 条真实快讯（已按设计师相关度排序，必读）】
 {items_text}
-
-兜兜可以选择"围绕其中某条快讯做深度解读"，也可以从候选池里选另一个角度，但要保证今天的内容有"事实层"——不要写成纯感受贴。
+"""
+        locked_topic_hint = """
+【选题硬约束 — 务必遵守】
+今天的主题（selected_topic）必须从上面 5 条快讯的 [1]、[2]、[3] 中三选一。
+- 优先选 [1]，除非 [1] 和最近 7 天选题重复
+- 主题的 title / source / url 必须直接复用快讯中的对应字段（保持事实一致性）
+- 这样做的目的：邮件首屏 "今日 5 条干货" 和正文主题形成一体，用户先扫快讯再看深度解读
 """
 
     user_prompt = f"""今天是兜兜的第 {dudu_day} 天（兜兜诞生于 2026-04-24）。
@@ -178,22 +185,22 @@ def compose():
 【兜兜最近 7 天写过的选题（绝对不能重复）】
 {history_brief}
 
-{briefing_brief}
+{briefing_for_prompt}
 
-下面是兜兜今天的备选选题池（共 {len(candidates_brief)} 条），请按"设计向 AI"的标准，
-从中选出 1 条作为今天的日记主题，然后按系统提示词的要求输出完整的小红书帖子 JSON。
+{locked_topic_hint}
 
-候选池：
-{json.dumps(candidates_brief, ensure_ascii=False, indent=2)}
+【备用候选池（仅当上面 5 条快讯全部和历史重复时才用，正常情况不要碰）】
+{json.dumps(candidates_brief[:6], ensure_ascii=False, indent=2)}
 
 【内容硬性要求】
-1. 选题必须和最近 7 天历史"没有任何语义重合"
+1. selected_topic 必须直接来自今日 5 条快讯之一（优先 [1]）—— title / source / url 字段照搬
 2. 正文 body 必须用三段式结构：
-   - 第一段（钩子+事实）：直接说今天 AI 圈发生了什么具体的事，带产品名/数据/链接锚点
-   - 第二段（兜兜解读）：从设计师视角看这件事意味着什么，给出 2-3 个具体观察
-   - 第三段（💭 兜兜动手建议）：1 个具体可操作的建议（5 分钟试一下 / 立刻改你的工作流的某一步）
-3. 不要写成"我感觉""我觉得 AI 真有意思"这种空话。每段都要有具体名词
-4. body 字段签名档替换为"—— 兜兜的第 {dudu_day} 天"
+   - 第一段（钩子+事实）：直接说今天 AI 圈这件具体的事（要带原文里出现的产品名/数据/场景）
+   - 第二段（兜兜解读）：从设计师视角看这件事意味着什么，给出 2-3 个具体观察（用 ▸ 列出）
+   - 第三段（💭 兜兜动手建议）：1 个 5 分钟可试的具体动作
+3. 不要写成"我感觉""我觉得 AI 真有意思"这种空话，每段都要有具体名词
+4. visuals.compare_left/right 也要紧扣今日选题（不要用通用的"以前/现在"模板）
+5. body 字段签名档替换为"—— 兜兜的第 {dudu_day} 天"
 
 输出严格合法的 JSON，不要额外说明。"""
 
@@ -219,6 +226,25 @@ def compose():
         "generated_at": datetime.utcnow().isoformat() + "Z",
         "mode": meta.get("mode", "rss"),
     }
+
+    # ★ 兜底校验：主题必须在今日 briefing 里。如果 LLM 自由发挥跑偏了，强制纠正
+    if briefing:
+        briefing_urls = {b.get("url", "") for b in briefing if b.get("url")}
+        briefing_titles = {b.get("title", "") for b in briefing if b.get("title")}
+        chosen_url = result.get("selected_topic", {}).get("url", "")
+        chosen_title = result.get("selected_topic", {}).get("title", "")
+        if chosen_url not in briefing_urls and chosen_title not in briefing_titles:
+            print(f"[warn] LLM 选题脱离 briefing，强制纠正为 briefing[0]")
+            print(f"       原选题: {chosen_title[:50]}")
+            print(f"       新选题: {briefing[0].get('title', '')[:50]}")
+            top = briefing[0]
+            result["selected_topic"]["title"] = top.get("title", "")
+            result["selected_topic"]["source"] = top.get("source", "")
+            result["selected_topic"]["url"] = top.get("url", "")
+            # 提示用户：why_picked / designer_angle 仍由 LLM 写，但事实层用 briefing 真实数据
+            if not result["selected_topic"].get("why_picked"):
+                result["selected_topic"]["why_picked"] = f"今天 AI 圈最值得设计师关注的一条 — {top.get('source','')}发的"
+
     result["briefing"] = briefing
 
     post_file = POSTS_DIR / f"{today}-day-{dudu_day:03d}.json"

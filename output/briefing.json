@@ -1,5 +1,13 @@
 [
   {
+    "title": "全球首个全AI运营的在线广播电台上线，24小时不间断播报AI动态",
+    "summary": "全球首个完全由AI运营的在线广播电台在X平台正式开播，专为创业者、开发者和建设者提供全天候AI领域资讯。该电台由五名具备独立编辑判断、记忆和个性的AI主播主持，不仅能实时播报几分钟内的突发新闻，还提供每30分钟一次的新闻综述、初创公司融资追踪、GitHub等平台的工具趋势分析，并整合社区讨论与行业真实观点。AI主播会主",
+    "source": "X：Kim (@kimmonismus)",
+    "url": "https://x.com/kimmonismus/status/2054562237684051974",
+    "published_at": "2026-05-13T13:59:44.000Z",
+    "category": "ai-products"
+  },
+  {
     "title": "Miaoda应用与企业版上线，自生成代码占比90%",
     "summary": "Miaoda应用和Miaoda企业版现已发布，让更多开发者和企业能够使用我们的编程助手！\n\n最有趣的细节是什么？Miaoda应用90%的代码由Miaoda自身生成。\n\n编程助手正使按需定制软件具备商业可行性。截至目前，Miaoda生成的应用已服务超1000万用户，应用总价值达50亿元人民币。",
     "source": "X：百度 Baidu (@Baidu_Inc)",
@@ -29,14 +37,6 @@
     "source": "X：歸藏 (@op7418)",
     "url": "https://x.com/op7418/status/2054433146532479266",
     "published_at": "2026-05-13T05:26:46.000Z",
-    "category": "tip"
-  },
-  {
-    "title": "oMLX更新强化苹果端侧AI，本地能力直逼云端",
-    "summary": "oMLX项目更新至0.3.9.dev2版本，集成了Gemma 4的MTP视觉路径、DFlash引擎和ParoQuant技术，显著提升了图文处理速度。新增一键启动copilot功能，可便捷接入Claude等工具，并通过oQ自动代理解决显存瓶颈。这些改进大幅增强了本地AI在速度、集成与易用性上的表现，正推动AI能力从云端向",
-    "source": "X：Berry Xia (@berryxia)",
-    "url": "https://x.com/berryxia/status/2054420138095694324",
-    "published_at": "2026-05-13T04:35:04.000Z",
     "category": "tip"
   }
 ]

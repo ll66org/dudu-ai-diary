@@ -1,4 +1,4 @@
-"""dudu fetch v4 - 物理日期 + AI HOT 干货源 + 多级降级"""
+"""dudu fetch v4 - 物理日期 + 干货源 + 多级降级"""
 import os
 import sys
 import json
@@ -115,9 +115,9 @@ def dedupe_against_history(candidates, used_titles):
 
 # ====================================================
 # 主流程：三级数据源
-# 优先级 1: AI HOT 精选（最新干货） ← 新增
+# 优先级 1: 实时干货精选（aihot_fetcher） ← 新增
 # 优先级 2: RSS 候选池
-# 优先级 3: topic_pool 降级（只用栏目轮换）
+# 优先级 3: topic_pool 降级（栏目轮换）
 # ====================================================
 
 def fetch_all():
@@ -129,12 +129,12 @@ def fetch_all():
     print(f"[dudu] 兜兜的第 {dudu_day} 天（基于物理日期 {DUDU_BIRTHDAY} 起算）")
     print(f"[dudu] 最近 7 天已用选题 {len(used_titles)} 个，已用工具 {len(used_tools)} 个")
 
-    # ========== Step 1: 拉 AI HOT 精选（必拉）==========
+    # ========== Step 1: 拉今日精选（必拉）==========
     aihot_result = None
     try:
         aihot_result = fetch_aihot_selected(days=3, take=80)
     except Exception as e:
-        print(f"[aihot] 拉取异常（不影响主流程）: {e}")
+        print(f"[briefing] 拉取异常（不影响主流程）: {e}")
 
     today_briefing = []
     if aihot_result:
@@ -143,14 +143,14 @@ def fetch_all():
         for i, b in enumerate(today_briefing, 1):
             print(f"  {i}. [{b['category']}] {b['title'][:50]} | {b['source']}")
 
-    # ========== Step 2: 用 aihot 优先选主题（如果有设计相关）==========
+    # ========== Step 2: 用精选优先选主题（如果有设计相关）==========
     aihot_main = None
     if aihot_result and aihot_result.get("design_items"):
         aihot_main = pick_main_topic(aihot_result, used_titles)
         if aihot_main:
-            print(f"[dudu] 从 AI HOT 选定主题: {aihot_main.get('title', '')[:60]}")
+            print(f"[dudu] 已锁定主题: {aihot_main.get('title', '')[:60]}")
 
-    # ========== Step 3: 拉 RSS（作为 aihot 的补充）==========
+    # ========== Step 3: 拉 RSS（作为补充候选）==========
     must_one = config["filter_keywords"]["must_have_one_of"]
     must_not = config["filter_keywords"]["must_not_have"]
 
@@ -190,7 +190,7 @@ def fetch_all():
                 source_stats[src_name] = {"error": str(e)}
                 print(f"  [warn] {src_name} failed: {e}")
 
-    # 把 aihot 设计相关条目也并入 candidates（让 LLM 多一些选择）
+    # 把今日精选设计相关条目也并入 candidates（让 LLM 多一些选择）
     if aihot_result:
         for it in aihot_result.get("design_items", [])[:15]:
             candidates.append({
@@ -198,9 +198,9 @@ def fetch_all():
                 "summary": (it.get("summary") or "")[:500],
                 "url": it.get("url", ""),
                 "published": it.get("publishedAt", ""),
-                "source": f"AI HOT · {it.get('source', '')}",
+                "source": it.get("source", ""),  # 直接用真实出处，不加任何前缀
                 "source_weight": "high",
-                "category": f"aihot_{it.get('category', 'general')}",
+                "category": it.get("category", "general"),
             })
 
     before_dedupe = len(candidates)
@@ -231,8 +231,8 @@ def fetch_all():
         "today_date": date.today().isoformat(),
         "used_titles": used_titles,
         "used_tools": used_tools,
-        "aihot_total": len(aihot_result["items"]) if aihot_result else 0,
-        "aihot_design": len(aihot_result["design_items"]) if aihot_result else 0,
+        "briefing_total": len(aihot_result["items"]) if aihot_result else 0,
+        "briefing_design": len(aihot_result["design_items"]) if aihot_result else 0,
         "briefing_count": len(today_briefing),
     }
 

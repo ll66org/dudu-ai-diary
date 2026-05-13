@@ -1,4 +1,4 @@
-"""兜兜的 AI HOT 抓取器 - 接入 aihot.virxact.com 拿真实 AI 资讯"""
+"""兜兜的实时干货抓取器 - 拉真实 AI 资讯的精选池"""
 import os
 import json
 import urllib.request
@@ -37,10 +37,9 @@ DESIGN_KEYWORDS = [
 
 
 def http_get(path, params=None, timeout=15):
-    """带 UA 调 aihot API"""
+    """带 UA 调 API"""
     url = BASE + path
     if params:
-        # 过滤掉 None
         params = {k: v for k, v in params.items() if v is not None}
         url += "?" + urllib.parse.urlencode(params)
     req = urllib.request.Request(url, headers={"User-Agent": UA})
@@ -48,10 +47,10 @@ def http_get(path, params=None, timeout=15):
         with urllib.request.urlopen(req, timeout=timeout) as resp:
             return json.loads(resp.read().decode("utf-8"))
     except urllib.error.HTTPError as e:
-        print(f"  [aihot] HTTP {e.code}: {url}")
+        print(f"  [briefing] HTTP {e.code}: {url}")
         return None
     except Exception as e:
-        print(f"  [aihot] error: {e} ({url})")
+        print(f"  [briefing] error: {e} ({url})")
         return None
 
 
@@ -69,28 +68,28 @@ def is_design_relevant(item):
 
 def fetch_aihot_selected(days=3, take=80):
     """
-    拉最近 N 天的 AI HOT 精选条目
+    拉最近 N 天的精选条目
     返回：{ "items": [...], "design_items": [...], "fetched_at": "..." }
     """
     since_dt = datetime.now(timezone.utc) - timedelta(days=days)
     since = since_dt.strftime("%Y-%m-%dT%H:%M:%SZ")
 
-    print(f"[aihot] 拉取最近 {days} 天精选（since={since}, take={take}）...")
+    print(f"[briefing] 拉取最近 {days} 天精选（since={since}, take={take}）...")
     data = http_get(
         "/api/public/items",
         {"mode": "selected", "since": since, "take": take},
     )
 
     if not data or "items" not in data:
-        print("[aihot] 拉取失败或无数据")
+        print("[briefing] 拉取失败或无数据")
         return None
 
     items = data["items"]
-    print(f"[aihot] 共拿到 {len(items)} 条精选")
+    print(f"[briefing] 共拿到 {len(items)} 条精选")
 
     # 二次过滤出设计师可能感兴趣的
     design_items = [it for it in items if is_design_relevant(it)]
-    print(f"[aihot] 其中设计相关 {len(design_items)} 条")
+    print(f"[briefing] 其中设计相关 {len(design_items)} 条")
 
     return {
         "items": items,
@@ -102,11 +101,11 @@ def fetch_aihot_selected(days=3, take=80):
 
 def fetch_aihot_daily():
     """拉最新一期日报（5 个版块结构）"""
-    print("[aihot] 拉取最新日报...")
+    print("[briefing] 拉取最新日报...")
     data = http_get("/api/public/daily")
     if not data:
         return None
-    print(f"[aihot] 日报日期: {data.get('date')}, 版块数: {len(data.get('sections', []))}")
+    print(f"[briefing] 日报日期: {data.get('date')}, 版块数: {len(data.get('sections', []))}")
     return data
 
 

@@ -34,14 +34,16 @@ def category_label(cat):
         "tip": "技巧",
         "general": "动态",
     }
-    # 兼容 aihot_ 前缀
+    # 兼容旧数据中的内部前缀
     if cat and cat.startswith("aihot_"):
         cat = cat[6:]
+    if cat and cat.startswith("briefing_"):
+        cat = cat[9:]
     return mapping.get(cat, "动态")
 
 
 def build_briefing_html(briefing):
-    """渲染今日 5 条干货快讯卡片"""
+    """渲染今日 5 条干货快讯卡片 — 突出真实出处"""
     if not briefing:
         return ""
 
@@ -49,21 +51,24 @@ def build_briefing_html(briefing):
     for i, b in enumerate(briefing[:5], 1):
         title = b.get("title", "")[:80]
         summary = b.get("summary", "")[:120]
-        source = b.get("source", "")[:30]
+        source = b.get("source", "")[:40] or "未知来源"
         url = b.get("url", "#")
         cat_label = category_label(b.get("category", ""))
 
         cards += f'''
         <div style="background:#fff;border:1px solid #F0E4D8;border-radius:14px;padding:20px 22px;margin-bottom:12px;">
-          <div style="display:flex;align-items:center;gap:10px;margin-bottom:10px;">
+          <div style="display:flex;align-items:center;gap:10px;margin-bottom:12px;">
             <div class="serif" style="font-size:18px;font-weight:800;color:#C04A2E;line-height:1;font-style:italic;min-width:24px;">{i:02d}</div>
             <div style="font-size:10px;font-weight:700;color:#fff;background:#C04A2E;padding:3px 9px;border-radius:100px;letter-spacing:1px;">{cat_label}</div>
-            <div style="font-size:11px;color:#999;font-weight:500;letter-spacing:.3px;">{source}</div>
           </div>
-          <div style="font-size:15px;font-weight:700;color:#2D1108;line-height:1.5;letter-spacing:.2px;margin-bottom:6px;">{title}</div>
-          <div style="font-size:13px;color:#666;line-height:1.7;letter-spacing:.2px;">{summary}</div>
-          <div style="margin-top:10px;">
-            <a href="{url}" style="font-size:11px;color:#5B7FFF;text-decoration:none;letter-spacing:.3px;">↗ 看原文</a>
+          <div style="font-size:15px;font-weight:700;color:#2D1108;line-height:1.5;letter-spacing:.2px;margin-bottom:8px;">{title}</div>
+          <div style="font-size:13px;color:#666;line-height:1.7;letter-spacing:.2px;margin-bottom:14px;">{summary}</div>
+          <div style="display:flex;justify-content:space-between;align-items:center;padding-top:12px;border-top:1px dashed #F0D4C8;">
+            <div style="display:flex;align-items:center;gap:6px;font-size:11px;color:#8B6D5A;font-weight:600;letter-spacing:.3px;">
+              <span style="display:inline-block;width:4px;height:4px;border-radius:50%;background:#C04A2E;"></span>
+              来源 · {source}
+            </div>
+            <a href="{url}" style="font-size:11px;color:#5B7FFF;text-decoration:none;letter-spacing:.3px;font-weight:600;">↗ 看原文</a>
           </div>
         </div>'''
     return cards
@@ -129,7 +134,7 @@ def build_email(post_data):
       <div class="serif" style="font-size:11px;font-weight:700;color:#C04A2E;letter-spacing:4px;">00 · TODAY&#39;S BRIEFING</div>
     </div>
     <h2 style="font-size:24px;font-weight:800;color:#2D1108;margin:0 0 6px;letter-spacing:-0.6px;line-height:1.3;">今日 AI 圈 · {len(briefing)} 条干货</h2>
-    <div style="font-size:12px;font-weight:300;color:#999;margin-bottom:22px;letter-spacing:0.3px;">来自 aihot.virxact.com 精选 · 兜兜从设计师视角挑的</div>
+    <div style="font-size:12px;font-weight:300;color:#999;margin-bottom:22px;letter-spacing:0.3px;">兜兜从设计师视角挑的今日速览 · 每条都标了原文出处</div>
     {briefing_html}
   </div>
 """
