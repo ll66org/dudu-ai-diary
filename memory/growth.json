@@ -1,5 +1,5 @@
 {
-  "day_count": 20,
+  "day_count": 21,
   "history": [
     {
       "day": 20,
@@ -13,6 +13,13 @@
       "date": "2026-05-13",
       "topic": "AI技能更新地图组件，支持交互与标记",
       "source": "AI HOT · X：歸藏 (@op7418)",
+      "mode": "rss"
+    },
+    {
+      "day": 21,
+      "date": "2026-05-14",
+      "topic": "在 Windows 上构建安全有效的沙箱以启用 Codex",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
       "mode": "rss"
     }
   ],

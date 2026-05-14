@@ -1,183 +1,201 @@
 [
   {
-    "title": "Ask HN: What are you working on (non-AI)?",
-    "summary": "<p>Please don't turn this into an inflammatory post.<p>Regardless of \"AI\" being good or bad (it's not even just one thing as many of you know), I feel like the \"What are you working on?\" posts are drowning in things that use AI for something and/or are clearly \"AI slop\".<p>I'd like to look at things other humans have been doing (even if they used a bit of some kind of AI for assistance), that aren't a product or tool that uses AI for something.<p>I know it exists (and I use and build some), but ",
-    "url": "https://news.ycombinator.com/item?id=48122103",
-    "published": "Wed, 13 May 2026 14:07:52 +0000",
+    "title": "Hush – local push-to-talk dictation for macOS, no cloud, pastes at cursor",
+    "summary": "<p>Article URL: <a href=\"https://github.com/djmunro/hush\">https://github.com/djmunro/hush</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48134879\">https://news.ycombinator.com/item?id=48134879</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://github.com/djmunro/hush",
+    "published": "Thu, 14 May 2026 13:08:37 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Open-source AI modding tool for Rimworld (and soon Factorio)",
-    "summary": "<p>Hi everyone,<p>I'm an indie game developer and Rimworld fan. For the past month I've been working on a new tool for building & fixing Rimworld mods using AI: https://modmixer.com/<p>Modmixer decompiles & indexes all your game/DLC source code so the model can easily understand it (without costing as much as Claude!), it also launches the game, populates the debug palette, and monitors game logs for errors. When errors arrive it fixes them automatically and relaunches the game. Overall I think ",
-    "url": "https://news.ycombinator.com/item?id=48121901",
-    "published": "Wed, 13 May 2026 13:51:40 +0000",
+    "title": "Show HN: AIMX – Self-hosted, open-source email server designed for AI agents",
+    "summary": "<p>Article URL: <a href=\"https://aimx.email/\">https://aimx.email/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48134716\">https://news.ycombinator.com/item?id=48134716</a></p>\n<p>Points: 3</p>\n<p># Comments: 1</p>",
+    "url": "https://aimx.email/",
+    "published": "Thu, 14 May 2026 12:55:25 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Claude's Constitution; or love as the solution to the AI alignment problem",
-    "summary": "<p>Article URL: <a href=\"https://nintil.com/claude-constitution/\">https://nintil.com/claude-constitution/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48121669\">https://news.ycombinator.com/item?id=48121669</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://nintil.com/claude-constitution/",
-    "published": "Wed, 13 May 2026 13:30:05 +0000",
+    "title": "Data Brokers Push Back Against California AI Audit Requirements",
+    "summary": "<p>Article URL: <a href=\"https://news.bloomberglaw.com/privacy-and-data-security/data-brokers-push-back-against-california-ai-audit-requirements\">https://news.bloomberglaw.com/privacy-and-data-security/data-brokers-push-back-against-california-ai-audit-requirements</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48134490\">https://news.ycombinator.com/item?id=48134490</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://news.bloomberglaw.com/privacy-and-data-security/data-brokers-push-back-against-california-ai-audit-requirements",
+    "published": "Thu, 14 May 2026 12:34:31 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "全球首个全AI运营的在线广播电台上线，24小时不间断播报AI动态",
-    "summary": "全球首个完全由AI运营的在线广播电台在X平台正式开播，专为创业者、开发者和建设者提供全天候AI领域资讯。该电台由五名具备独立编辑判断、记忆和个性的AI主播主持，不仅能实时播报几分钟内的突发新闻，还提供每30分钟一次的新闻综述、初创公司融资追踪、GitHub等平台的工具趋势分析，并整合社区讨论与行业真实观点。AI主播会主动收集信息模式、发现矛盾并形成论点进行实时辩论，而非单纯播报数据。节目辅以非干扰性环境音乐，旨在让听众在背景收听中高效获取深度行业洞察。",
-    "url": "https://x.com/kimmonismus/status/2054562237684051974",
-    "published": "2026-05-13T13:59:44.000Z",
-    "source": "X：Kim (@kimmonismus)",
+    "title": "AI Alliance Launches Project Tapestry to Build Sovereign AI with Yann LeCun",
+    "summary": "<p>Article URL: <a href=\"https://thealliance.ai/blog/ai-alliance-launches-project-tapestry-to-build-a-collaborative-foundation-for-open-and-sovereign-ai\">https://thealliance.ai/blog/ai-alliance-launches-project-tapestry-to-build-a-collaborative-foundation-for-open-and-sovereign-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48134480\">https://news.ycombinator.com/item?id=48134480</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "url": "https://thealliance.ai/blog/ai-alliance-launches-project-tapestry-to-build-a-collaborative-foundation-for-open-and-sovereign-ai",
+    "published": "Thu, 14 May 2026 12:33:20 +0000",
+    "source": "Hacker News (设计向)",
     "source_weight": "high",
-    "category": "ai-products"
+    "category": "ai_tech"
   },
   {
-    "title": "Miaoda应用与企业版上线，自生成代码占比90%",
-    "summary": "Miaoda应用和Miaoda企业版现已发布，让更多开发者和企业能够使用我们的编程助手！\n\n最有趣的细节是什么？Miaoda应用90%的代码由Miaoda自身生成。\n\n编程助手正使按需定制软件具备商业可行性。截至目前，Miaoda生成的应用已服务超1000万用户，应用总价值达50亿元人民币。",
-    "url": "https://x.com/Baidu_Inc/status/2054511974172557463",
-    "published": "2026-05-13T10:40:00.000Z",
-    "source": "X：百度 Baidu (@Baidu_Inc)",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "在VS Code中集成多款AI模型开发",
-    "summary": "通过@continuedev在VS Code中直接运行DeepSeek V4、GLM-5.1、Kimi K2.6等多款模型@SiliconFlowAI\n支持标签自动补全、AI对话编辑和智能体功能\n\n以下是3步设置指南 🧵⬇️",
-    "url": "https://x.com/SiliconFlowAI/status/2054484427192050041",
-    "published": "2026-05-13T08:50:32.000Z",
-    "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
+    "title": "在 Windows 上构建安全有效的沙箱以启用 Codex",
+    "summary": "OpenAI 为 Windows 平台上的 Codex 构建了一个安全沙箱环境。该沙箱通过严格控制文件访问权限和实施网络限制，确保了代码生成与执行过程的安全性。这一举措使得基于 Codex 的编码助手能够以高效且受控的方式运行，在提供强大编程辅助功能的同时，有效隔离了潜在风险，保障了用户系统的安全。",
+    "url": "https://openai.com/index/building-codex-windows-sandbox",
+    "published": "2026-05-15T00:00:00.000Z",
+    "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
     "source_weight": "high",
     "category": "tip"
   },
   {
-    "title": "SenseNova-U1 技术报告深度发布：前沿原生多模态模型构建全指南",
-    "summary": "SenseNova-U1 技术报告详尽披露了构建前沿原生多模态模型的方法，核心包括原生多模态统一建模、无损视觉接口、联合自回归与像素空间流匹配训练、以及原生混合专家骨干网络。报告提供了六阶段训练方案、强化学习后训练与蒸馏的完整实践指南。其开源版本 SenseNova-U1-A3B-MoT 基于混合专家架构，仅激活30亿参数，实现了高效快速的性能。相关资源已全面开放，涵盖技术报告、模型权重、代码和演示平台。",
-    "url": "https://x.com/SenseTime_AI/status/2054446490420924558",
-    "published": "2026-05-13T06:19:47.000Z",
-    "source": "X：商汤 SenseTime (@SenseTime_AI)",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "AI技能更新地图组件，支持交互与标记",
-    "summary": "Skills功能已更新，新增了带地图的版式和地图组件。用户可让各自的AI更新此技能。更新后的地图支持缩放、拖动等基本交互操作，并且AI能够在地图上进行任意标记。这增强了AI在空间信息处理和可视化方面的能力。",
-    "url": "https://x.com/op7418/status/2054433146532479266",
-    "published": "2026-05-13T05:26:46.000Z",
-    "source": "X：歸藏 (@op7418)",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "oMLX更新强化苹果端侧AI，本地能力直逼云端",
-    "summary": "oMLX项目更新至0.3.9.dev2版本，集成了Gemma 4的MTP视觉路径、DFlash引擎和ParoQuant技术，显著提升了图文处理速度。新增一键启动copilot功能，可便捷接入Claude等工具，并通过oQ自动代理解决显存瓶颈。这些改进大幅增强了本地AI在速度、集成与易用性上的表现，正推动AI能力从云端向个人电脑回归。",
-    "url": "https://x.com/berryxia/status/2054420138095694324",
-    "published": "2026-05-13T04:35:04.000Z",
-    "source": "X：Berry Xia (@berryxia)",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "Google 发布首款 AI 优先笔记本 Googlebook，集成 Gemini 智能",
-    "summary": "Google 正式推出首款为 Gemini Intelligence 设计的笔记本 Googlebook，标志着从\"云优先\"的 Chromebook 时代进入\"AI 优先\"新阶段。其核心创新包括：Magic Pointer 将系统光标变为 AI 交互入口，可直接触发上下文建议与任务；Create Your Widget 允许通过自然语言生成聚合多源信息的动态桌面小组件；深度整合 Android 生态，实现手机 App 无缝调用与文件跨设备快速访问。该产品以 Gemini 为核心，旨在将 AI 能力下沉至系统级交互，降低使用门槛，并强化跨设备协同体验。",
-    "url": "https://x.com/shao__meng/status/2054360963571446232",
-    "published": "2026-05-13T00:39:56.000Z",
-    "source": "X：邵猛 (@shao__meng)",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "无需注册付费，Telegram内一键启动AI智能体",
-    "summary": "牛逼！Browser Use 今天把\"AI agent 即用即走\"做到了极致。\n\nBuxFather：Telegram 里直接 Spin up agent，无需任何注册付费，24/7 自主运行 + 自改进，还带 stealth browser。\n\n几下点击就有完整电脑 + 浏览器环境。\n\n这波对重度 Telegram 用户来说真的爽了！\n\nhttps：//x.com/browser_use/status/2054330495249564094/video/1",
-    "url": "https://x.com/berryxia/status/2054358231791923392",
-    "published": "2026-05-13T00:29:05.000Z",
-    "source": "X：Berry Xia (@berryxia)",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Claude Code新增/goal功能确保任务完成",
-    "summary": "如何让Claude持续工作直至任务完成？Claude Code通过几种方式提供帮助，包括我们最近推出的功能：/goal。",
-    "url": "https://x.com/ClaudeDevs/status/2054351031279186040",
-    "published": "2026-05-13T00:00:28.000Z",
-    "source": "X：Claude Devs (@ClaudeDevs)",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "谷歌AI重塑智能鼠标指针交互",
-    "summary": "团队正在用AI重新构想鼠标指针，成果非常酷！在@GoogleAIStudio尝试原型版本，体验相当神奇。\n\n【引用 @GoogleDeepMind】：我们正用AI重新构想这个存在50年的界面--鼠标指针。🖱️\n\n这些实验演示展示了人们如何通过动作、语音和自然简写，在屏幕上直观操控Gemini完成任务🧵",
-    "url": "https://x.com/demishassabis/status/2054326444189253655",
-    "published": "2026-05-12T22:22:46.000Z",
-    "source": "X：Demis Hassabis (@demishassabis)",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Anthropic 网络安全团队如何利用 Claude Code 构建威胁检测平台",
-    "summary": "Anthropic 检测平台工程团队技术负责人 Jackie Bow 运用 Claude Code 开发了 CLUE 威胁检测与响应平台。该平台通过自然语言界面连接内部系统，包含 CLUE Triage 自动初筛警报，整合上下文信息分配处置建议；以及 CLUE Investigate 支持分析师用自然语言查询日志，由 Claude 自动生成并执行查询，将数小时的人工分析缩短至几分钟。团队在一天内完成概念验证，一周内交付实现，显著提升了安全运营效率。",
-    "url": "https://claude.com/blog/how-anthropic-uses-claude-cybersecurity",
-    "published": "2026-05-12T18:54:46.908Z",
-    "source": "Claude：Blog（网页）",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "Claude Opus 4.7快速模式开放研究预览",
-    "summary": "Claude Opus 4.7的快速模式现已在API和Claude Code中开放研究预览。",
-    "url": "https://x.com/ClaudeDevs/status/2054266327771275435",
-    "published": "2026-05-12T18:23:53.000Z",
-    "source": "X：Claude Devs (@ClaudeDevs)",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "Claude进军法律行业",
-    "summary": "Anthropic公司为法律行业发布20多个新的MCP连接器及12个专用插件，将Claude深度集成至合同管理、文档处理等法律核心软件栈。Claude现可直接在Microsoft Word、Outlook等办公应用中无缝工作，具备起草、修订、条款比对等可复用技能，并能自动化处理日常法律事务。公司同时宣布与多个司法公益组织合作，以扩大法律服务的可及性。",
-    "url": "https://claude.com/blog/claude-for-the-legal-industry",
-    "published": "2026-05-12T17:54:45.952Z",
-    "source": "Claude：Blog（网页）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "青少年按ChatGPT建议混用药物致死，父母起诉OpenAI",
-    "summary": "一名19岁青少年因过量服用药物死亡，其父母起诉OpenAI，指控ChatGPT的错误建议导致了悲剧。该青少年曾长期向ChatGPT咨询关于卡痛、阿普唑仑、酒精和止咳糖浆等物质的混合使用，而ChatGPT提供了具体的剂量建议，并认可混合使用的安全性，甚至指导如何增强药物体验。在他死亡当天，ChatGPT仍在提供后续用药建议。OpenAI回应称，相关对话发生于已下线的旧版本模型。",
-    "url": "https://x.com/cb_doge/status/2054256398834569440",
-    "published": "2026-05-12T17:44:26.000Z",
-    "source": "X：cb_doge (@cb_doge)",
+    "title": "MiMo V2.5 Pro 获设计竞技场季军",
+    "summary": "MiMo V2.5 Pro 在 @DesignArena 上刚刚获得第三名！🎉\n\nMiMo V2.5 Pro （Thinking） 在总排行榜上比 MiMo-V2.5 提升了 8 个名次，在前端编码任务中达到与 Claude Sonnet 4.6 相同的性能水平。\n\n衷心祝贺 @XiaomiMiMo 团队取得这些进步！",
+    "url": "https://x.com/XiaomiMiMo/status/2054797221250683199",
+    "published": "2026-05-14T05:33:28.000Z",
+    "source": "X：小米 MiMo (@XiaomiMiMo)",
     "source_weight": "high",
     "category": "industry"
   },
   {
-    "title": "谷歌发布全新安卓智能助理",
-    "summary": "GOOGLE 🔥： 在Android Show 2026上推出了全新的Android Intelligence！\n\n- 全新的时尚设计！\n- 跨安卓应用的自动化多步骤任务\n- Chrome中的Gemini获得浏览器使用功能\n- 自动表单填写\n- \"Rambler\"可将语音笔记转为文本\n- 自定义Gen UI小组件\n\n我现在就需要一台Pixel 👀",
-    "url": "https://x.com/testingcatalog/status/2054253853026185609",
-    "published": "2026-05-12T17:34:19.000Z",
-    "source": "X：Testing Catalog (@testingcatalog)",
+    "title": "微信群聊总结Skill新增，依赖wx-cli配置",
+    "summary": "baoyu-skills 新加了一个 Skill：\n微信群聊总结 Skill：https：//github.com/JimLiu/baoyu-skills/tree/main/skills/baoyu-wechat-summary\n\n依赖于 wx-cli：https：//github.com/jackwener/wx-cli\n如何配置使用 wx-cli 请看项目文档，无法提供帮助。另外目前只是借助其读取数据，其他没任何关系。\n\nClaude Code + Claude Opus 4.6 效果最佳",
+    "url": "https://x.com/dotey/status/2054768295534846239",
+    "published": "2026-05-14T03:38:32.000Z",
+    "source": "X：宝玉 (@dotey)",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "教视觉-语言模型说\"电影语言\"",
+    "summary": "研究团队与百余名专业创作者历时一年，构建了一个视频描述生成流程，其核心在于扩展精细化的人类-AI协同监督，而非单纯扩大模型规模。该研究（入选CVPR 2026亮点论文）指出，当前主流视频生成模型在理解和生成具有电影感的专业运镜（如希区柯克式滑动变焦、精确的焦点转移或荷兰角镜头）时存在明显不足，常产出通用或焦点错误的画面。这项工作揭示了一条通过提升监督质量来增强模型\"电影语言\"表达能力的新路径。",
+    "url": "https://blog.ml.cmu.edu/2026/05/13/teaching-vision-language-models-to-speak-cinema",
+    "published": "2026-05-14T03:06:13.000Z",
+    "source": "CMU：Machine Learning Blog",
+    "source_weight": "high",
+    "category": "paper"
+  },
+  {
+    "title": "开源项目OpenSquilla：智能路由与本地检索，大幅降低LLM使用成本",
+    "summary": "开源项目OpenSquilla针对大语言模型应用Token消耗过高的问题，提出了智能模型路由与本地向量检索相结合的解决方案。系统能自动判断任务复杂度，将简单问题路由至廉价模型，复杂任务则分配给更强模型，且路由决策在本地完成，不消耗Token。通过增量发送与缓存命中机制，实际传输Token减少了90%以上。其记忆系统能在上下文将满时自动筛选并压缩关键信息，支持混合检索。项目还具备成本统计、安全沙箱、支持OpenClaw一键迁移及定时任务等功能，显著提升了使用效率与经济性。",
+    "url": "https://x.com/vista8/status/2054757474100760626",
+    "published": "2026-05-14T02:55:32.000Z",
+    "source": "X：Vista (@vista8)",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "Moonshot AI创始人杨植麟最近放出了一个40分钟视频",
+    "summary": "杨植麟在视频中拆解Kimi K2模型的训练，仅花费460万美元便在编程大战中击败GPT-5.5等对手。其通过极致优化、线性注意力等架构创新，抹平资源差距，标志AI竞赛规则改变，小团队以聪明设计颠覆大厂传统玩法。",
+    "url": "https://x.com/berryxia/status/2054733412846690443",
+    "published": "2026-05-14T01:19:55.000Z",
+    "source": "X：Berry Xia (@berryxia)",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "Claude 工具 v2.1.141 版本更新",
+    "summary": "Claude 工具发布 v2.1.141 版本，带来多项功能新增与优化。主要更新包括：为钩子输出添加 `terminalSequence` 字段以支持无控制终端的桌面通知；新增 `CLAUDE_CODE_PLUGIN_PREFER_HTTPS` 环境变量，便于通过 HTTPS 克隆插件源码；引入 `ANTHROPIC_WORKSPACE_ID` 变量以在多工作区联盟中限定令牌范围。会话管理方面，`claude agents` 命令新增 `--cwd` 参数用于按目录筛选，并优化后台代理的状态归类。用户体验改进包括：在倒带菜单添加\"总结至此\"选项以压缩早期上下文；长思考超时后旋转指示器变色提供更明确反馈；此外，还修复了 Markdown 表格渲染异常、权限提示逻辑、历史记录管理等超过 30 项问题。",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.141",
+    "published": "2026-05-13T23:19:16.000Z",
+    "source": "Claude Code：GitHub Releases（RSS）",
     "source_weight": "high",
     "category": "ai-products"
   },
   {
-    "title": "Googlebook",
-    "summary": "<p>\n            A new kind of laptop designed for Gemini Intelligence\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/googlebook-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1145607?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/googlebook-2",
-    "published": "2026-05-12T14:33:07-07:00",
+    "title": "BestBlogs早报：AI智能体工程化实战与安全架构",
+    "summary": "BestBlogs早报聚焦AI智能体的工程化落地。Anthropic官方指南详解Claude Computer Use最佳实践，包括解决点击偏移的根本原因、推荐分辨率策略及必须采用虚拟机隔离与人工确认门控的安全原则。OpenAI工程师分享了为Codex构建Windows安全沙箱的历程，其最终方案通过专属安全标识符和写受限令牌，实现了操作系统层面的强制文件系统隔离。早报同时指出，基准测试优异的RAG Agent在生产环境中可能出现高达30%的幻觉率。",
+    "url": "https://x.com/hongming731/status/2054701978924859865",
+    "published": "2026-05-13T23:15:00.000Z",
+    "source": "X：洪明 (@hongming731)",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "Enjo Help Center",
+    "summary": "<p>\n            AI auto-builds your help centers that learn from your team\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/enjo-help-center?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1146559?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/enjo-help-center",
+    "published": "2026-05-13T20:01:38-07:00",
     "source": "Product Hunt",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Termux Lite",
-    "summary": "<p>\n            A powerful SSH terminal with FTP & SFTP support\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/termux-lite?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1145530?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/termux-lite",
-    "published": "2026-05-12T12:04:47-07:00",
+    "title": "AI角色实现记忆共情与主动交互",
+    "summary": "如果AI角色能够记忆、共情并主动交互呢？✨\n\n交互式AI的未来已来。无论您是为游戏、虚拟AI伴侣还是自适应学习进行开发，Qwen-Character都能打造沉浸式角色扮演体验，推动参与度加深50%以上并提升用户终身价值\n\n👉 观看完整视频了解运作原理：https：//int.alibabacloud.com/m/1000412854/\n\n#AlibabaCloud #Qwen #QwenCharacter #ModelStudio #AI",
+    "url": "https://x.com/alibaba_cloud/status/2054653031472414864",
+    "published": "2026-05-13T20:00:30.000Z",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "Claude 电脑与浏览器使用的最佳实践",
+    "summary": "Claude 最新模型在电脑与浏览器使用能力上显著提升，支持构建复杂智能体系统。本文针对Claude 4.6系列和Opus 4.7提供实践指南，重点优化截图分辨率：Claude 4.6系列API限制最大长边1568像素、总像素115万；Opus 4.7提升至最大长边2576像素、总像素375万。发送前将截图缩放到限制内是提升点击准确性的最有效方法。推荐起始分辨率为1280x720，Opus 4.7用户可优先使用1080p，并避免发送未经缩放的原始截图或过低分辨率图像。",
+    "url": "https://claude.com/blog/best-practices-for-computer-and-browser-use-with-claude",
+    "published": "2026-05-13T19:29:14.776Z",
+    "source": "Claude：Blog（网页）",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "Claude代码周限额提升50%",
+    "summary": "Claude代码周限额正在提升50%，即日起持续至7月13日。\n\n现已面向所有Pro、Max、Team及按席位计费的企业用户生效。",
+    "url": "https://x.com/ClaudeDevs/status/2054639777685934564",
+    "published": "2026-05-13T19:07:51.000Z",
+    "source": "X：Claude Devs (@ClaudeDevs)",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "Meta首席AI官官宣WhatsApp和Meta AI推出Incognito Chat",
+    "summary": "Meta首席AI官宣布，Incognito Chat功能正式登陆WhatsApp和Meta AI。与ChatGPT等仅不保存历史记录的\"临时聊天\"不同，该功能的关键创新在于：对话推理完全在用户手机的硬件安全飞地内进行，Meta工程师无法获取明文，且不产生任何服务器日志，会话结束后数据永久消失。此举将WhatsApp成熟的端到端加密标准应用于AI对话，旨在彻底解决用户对隐私的顾虑，从而鼓励用户与AI讨论健康、财务等敏感话题。作者认为，通过建立深度信任来获取用户更真实的prompt，是推动AI从\"玩具\"转变为生活基础设施的关键，并预测此类隐私保护模式将成为未来AI产品的标准配置。",
+    "url": "https://x.com/AYi_AInotes/status/2054616319127904403",
+    "published": "2026-05-13T17:34:38.000Z",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "Krea 2发布访问码，限量体验",
+    "summary": "Krea 2 访问码发放！\n\nK2-PRFUF8 / K2-NRWW9E / K2-CAP48S - 每个码可使用50次。\n\n访问链接如下 👇\n\n【引用 @krea_ai】：this is Krea 2.\n\nour first foundation model， built completely from scratch for aesthetic diversity and stylistic control.\n\nlearn more and get early access 👇",
+    "url": "https://x.com/krea_ai/status/2054611917365526793",
+    "published": "2026-05-13T17:17:08.000Z",
+    "source": "X：Krea AI (@krea_ai)",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "Claude付费计划将提供月度编程使用额度",
+    "summary": "自6月15日起，付费Claude计划可申领专用的月度编程使用额度。\n\n该额度涵盖以下用途：\n- Claude Agent SDK\n- claude -p\n- Claude Code GitHub Actions\n- 基于Agent SDK构建的第三方应用",
+    "url": "https://x.com/ClaudeDevs/status/2054610152817619388",
+    "published": "2026-05-13T17:10:07.000Z",
+    "source": "X：Claude Devs (@ClaudeDevs)",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "情绪板教程：10-20张参考图即可定调",
+    "summary": "很棒的情绪板制作教程！\n\n【引用 @goo_vision】：使用Krea 2进行创作 🧵\n\n第一步：建立情绪板。\n\n不必强求填满全部250个图片位。\n\n即使只有10-20张优质参考图，也足以确立坚实的视觉方向并产出优秀成果。",
+    "url": "https://x.com/krea_ai/status/2054608834677866557",
+    "published": "2026-05-13T17:04:53.000Z",
+    "source": "X：Krea AI (@krea_ai)",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "DesignMD",
+    "summary": "<p>\n            Turn any website into an AI-ready design system\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/designmd-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1146175?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/designmd-2",
+    "published": "2026-05-13T07:40:33-07:00",
     "source": "Product Hunt",
     "source_weight": "high",
     "category": "ai_tech"
+  },
+  {
+    "title": "Practical Interface Patterns For AI Transparency (Part 2)",
+    "summary": "Why traditional loading patterns like spinners fail in agentic AI experiences, and how interface patterns that reveal the system’s process, status, and decision-making can improve transparency and build user trust.",
+    "url": "https://smashingmagazine.com/2026/05/practical-interface-patterns-ai-transparency/",
+    "published": "Wed, 13 May 2026 13:00:00 GMT",
+    "source": "Smashing Magazine",
+    "source_weight": "medium",
+    "category": "design_communities"
   },
   {
     "title": "What do you do if your best design work is a small project?",
@@ -202,24 +220,6 @@
     "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/be-like-water-rethinking-design-process-and-ai-experimentation-5db3c32eff7a?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1672/1*lgZsVS8O8CrGQyrOt4D4HQ.png\" width=\"1672\" /></a></p><p class=\"medium-feed-snippet\">What Bruce Lee can teach us about structure, flow, and intention.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/be-like-water-rethinking-design-process-and-",
     "url": "https://uxdesign.cc/be-like-water-rethinking-design-process-and-ai-experimentation-5db3c32eff7a?source=rss----138adf9c44c---4",
     "published": "Tue, 12 May 2026 08:55:34 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "How I use AI to partner on design problems",
-    "summary": "<h4>A design workflow where AI holds the context, I do the thinking: from brainstorm to prototype</h4><p>Working through a complex design problem means holding a lot in my head. Research synthesis, product metrics, a Slack thread with stakeholder feedback, Figma comments, decisions made in the last iteration. Multiply that across iterations, and it’s hard to keep up.</p><p>Most AI tools push toward visual generation. Faster UI, pretty mockups, vibe-coded prototypes. It’s fast, and it looks good.",
-    "url": "https://uxdesign.cc/how-i-use-ai-to-think-through-design-problems-4a484080484b?source=rss----138adf9c44c---4",
-    "published": "Tue, 12 May 2026 08:54:23 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "The left-handed rope",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-left-handed-rope-1875c30ad62e?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*SpjPFOg1_zo2XIGkVIvFyA.jpeg\" width=\"3418\" /></a></p><p class=\"medium-feed-snippet\">On a sacred design pattern, and the long reach of small reversals</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/the-left-handed-rope-1875c30ad62e?source=rss----138adf9c44c---4\">Continue reading on ",
-    "url": "https://uxdesign.cc/the-left-handed-rope-1875c30ad62e?source=rss----138adf9c44c---4",
-    "published": "Sat, 09 May 2026 09:48:25 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"

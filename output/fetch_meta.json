@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-13T14:57:59.329982Z",
+  "fetched_at": "2026-05-14T13:17:41.403587Z",
   "total_candidates": 25,
   "source_stats": {
     "Figma Blog": {
@@ -8,7 +8,7 @@
     },
     "Vercel Blog (v0)": {
       "found": 0,
-      "total": 1153
+      "total": 1154
     },
     "Cursor Changelog": {
       "found": 0,
@@ -31,7 +31,7 @@
       "total": 66
     },
     "Smashing Magazine": {
-      "found": 0,
+      "found": 1,
       "total": 40
     },
     "UX Collective": {
@@ -43,7 +43,7 @@
       "total": 0
     },
     "CSS-Tricks": {
-      "found": 2,
+      "found": 1,
       "total": 15
     },
     "A List Apart": {
@@ -51,7 +51,7 @@
       "total": 20
     },
     "Hacker News (设计向)": {
-      "found": 3,
+      "found": 4,
       "total": 20
     },
     "Product Hunt": {
@@ -64,11 +64,17 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 20,
-  "today_date": "2026-05-13",
-  "used_titles": [],
-  "used_tools": [],
+  "dudu_day": 21,
+  "today_date": "2026-05-14",
+  "used_titles": [
+    "Show HN: An open source tool for generating macOS app icons with AI",
+    "AI技能更新地图组件，支持交互与标记"
+  ],
+  "used_tools": [
+    "Hacker News (设计向)",
+    "AI HOT · X：歸藏 (@op7418)"
+  ],
   "briefing_total": 80,
-  "briefing_design": 40,
+  "briefing_design": 37,
   "briefing_count": 5
 }

@@ -1,42 +1,42 @@
 [
   {
-    "title": "全球首个全AI运营的在线广播电台上线，24小时不间断播报AI动态",
-    "summary": "全球首个完全由AI运营的在线广播电台在X平台正式开播，专为创业者、开发者和建设者提供全天候AI领域资讯。该电台由五名具备独立编辑判断、记忆和个性的AI主播主持，不仅能实时播报几分钟内的突发新闻，还提供每30分钟一次的新闻综述、初创公司融资追踪、GitHub等平台的工具趋势分析，并整合社区讨论与行业真实观点。AI主播会主",
-    "source": "X：Kim (@kimmonismus)",
-    "url": "https://x.com/kimmonismus/status/2054562237684051974",
-    "published_at": "2026-05-13T13:59:44.000Z",
-    "category": "ai-products"
-  },
-  {
-    "title": "Miaoda应用与企业版上线，自生成代码占比90%",
-    "summary": "Miaoda应用和Miaoda企业版现已发布，让更多开发者和企业能够使用我们的编程助手！\n\n最有趣的细节是什么？Miaoda应用90%的代码由Miaoda自身生成。\n\n编程助手正使按需定制软件具备商业可行性。截至目前，Miaoda生成的应用已服务超1000万用户，应用总价值达50亿元人民币。",
-    "source": "X：百度 Baidu (@Baidu_Inc)",
-    "url": "https://x.com/Baidu_Inc/status/2054511974172557463",
-    "published_at": "2026-05-13T10:40:00.000Z",
-    "category": "ai-products"
-  },
-  {
-    "title": "在VS Code中集成多款AI模型开发",
-    "summary": "通过@continuedev在VS Code中直接运行DeepSeek V4、GLM-5.1、Kimi K2.6等多款模型@SiliconFlowAI\n支持标签自动补全、AI对话编辑和智能体功能\n\n以下是3步设置指南 🧵⬇️",
-    "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
-    "url": "https://x.com/SiliconFlowAI/status/2054484427192050041",
-    "published_at": "2026-05-13T08:50:32.000Z",
+    "title": "在 Windows 上构建安全有效的沙箱以启用 Codex",
+    "summary": "OpenAI 为 Windows 平台上的 Codex 构建了一个安全沙箱环境。该沙箱通过严格控制文件访问权限和实施网络限制，确保了代码生成与执行过程的安全性。这一举措使得基于 Codex 的编码助手能够以高效且受控的方式运行，在提供强大编程辅助功能的同时，有效隔离了潜在风险，保障了用户系统的安全。",
+    "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+    "url": "https://openai.com/index/building-codex-windows-sandbox",
+    "published_at": "2026-05-15T00:00:00.000Z",
     "category": "tip"
   },
   {
-    "title": "SenseNova-U1 技术报告深度发布：前沿原生多模态模型构建全指南",
-    "summary": "SenseNova-U1 技术报告详尽披露了构建前沿原生多模态模型的方法，核心包括原生多模态统一建模、无损视觉接口、联合自回归与像素空间流匹配训练、以及原生混合专家骨干网络。报告提供了六阶段训练方案、强化学习后训练与蒸馏的完整实践指南。其开源版本 SenseNova-U1-A3B-MoT 基于混合专家架构，仅激活30亿",
-    "source": "X：商汤 SenseTime (@SenseTime_AI)",
-    "url": "https://x.com/SenseTime_AI/status/2054446490420924558",
-    "published_at": "2026-05-13T06:19:47.000Z",
-    "category": "ai-models"
+    "title": "MiMo V2.5 Pro 获设计竞技场季军",
+    "summary": "MiMo V2.5 Pro 在 @DesignArena 上刚刚获得第三名！🎉\n\nMiMo V2.5 Pro （Thinking） 在总排行榜上比 MiMo-V2.5 提升了 8 个名次，在前端编码任务中达到与 Claude Sonnet 4.6 相同的性能水平。\n\n衷心祝贺 @XiaomiMiMo 团队取得这些进步！",
+    "source": "X：小米 MiMo (@XiaomiMiMo)",
+    "url": "https://x.com/XiaomiMiMo/status/2054797221250683199",
+    "published_at": "2026-05-14T05:33:28.000Z",
+    "category": "industry"
   },
   {
-    "title": "AI技能更新地图组件，支持交互与标记",
-    "summary": "Skills功能已更新，新增了带地图的版式和地图组件。用户可让各自的AI更新此技能。更新后的地图支持缩放、拖动等基本交互操作，并且AI能够在地图上进行任意标记。这增强了AI在空间信息处理和可视化方面的能力。",
-    "source": "X：歸藏 (@op7418)",
-    "url": "https://x.com/op7418/status/2054433146532479266",
-    "published_at": "2026-05-13T05:26:46.000Z",
+    "title": "微信群聊总结Skill新增，依赖wx-cli配置",
+    "summary": "baoyu-skills 新加了一个 Skill：\n微信群聊总结 Skill：https：//github.com/JimLiu/baoyu-skills/tree/main/skills/baoyu-wechat-summary\n\n依赖于 wx-cli：https：//github.com/jackwener/wx-",
+    "source": "X：宝玉 (@dotey)",
+    "url": "https://x.com/dotey/status/2054768295534846239",
+    "published_at": "2026-05-14T03:38:32.000Z",
+    "category": "tip"
+  },
+  {
+    "title": "教视觉-语言模型说\"电影语言\"",
+    "summary": "研究团队与百余名专业创作者历时一年，构建了一个视频描述生成流程，其核心在于扩展精细化的人类-AI协同监督，而非单纯扩大模型规模。该研究（入选CVPR 2026亮点论文）指出，当前主流视频生成模型在理解和生成具有电影感的专业运镜（如希区柯克式滑动变焦、精确的焦点转移或荷兰角镜头）时存在明显不足，常产出通用或焦点错误的画面",
+    "source": "CMU：Machine Learning Blog",
+    "url": "https://blog.ml.cmu.edu/2026/05/13/teaching-vision-language-models-to-speak-cinema",
+    "published_at": "2026-05-14T03:06:13.000Z",
+    "category": "paper"
+  },
+  {
+    "title": "开源项目OpenSquilla：智能路由与本地检索，大幅降低LLM使用成本",
+    "summary": "开源项目OpenSquilla针对大语言模型应用Token消耗过高的问题，提出了智能模型路由与本地向量检索相结合的解决方案。系统能自动判断任务复杂度，将简单问题路由至廉价模型，复杂任务则分配给更强模型，且路由决策在本地完成，不消耗Token。通过增量发送与缓存命中机制，实际传输Token减少了90%以上。其记忆系统能在",
+    "source": "X：Vista (@vista8)",
+    "url": "https://x.com/vista8/status/2054757474100760626",
+    "published_at": "2026-05-14T02:55:32.000Z",
     "category": "tip"
   }
 ]
