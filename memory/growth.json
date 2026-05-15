@@ -1,5 +1,5 @@
 {
-  "day_count": 21,
+  "day_count": 22,
   "history": [
     {
       "day": 20,
@@ -20,6 +20,13 @@
       "date": "2026-05-14",
       "topic": "在 Windows 上构建安全有效的沙箱以启用 Codex",
       "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "mode": "rss"
+    },
+    {
+      "day": 22,
+      "date": "2026-05-15",
+      "topic": "克劳德（法律事务）",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "mode": "rss"
     }
   ],

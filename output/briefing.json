@@ -1,42 +1,42 @@
 [
   {
+    "title": "克劳德（法律事务）",
+    "summary": "Anthropic公司在GitHub上开源了专为法律领域优化的AI模型\"Claude for Legal\"。该模型能更准确地处理法律文本、合同及案例摘要，旨在提升法律从业者效率。此消息在Hacker News上获得105个投票点数，显示出技术社区对其在法律科技领域应用潜力的关注。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "url": "https://github.com/anthropics/claude-for-legal",
+    "published_at": "2026-05-15T11:12:14.182Z",
+    "category": "tip"
+  },
+  {
+    "title": "普华永道全球部署Claude，助力客户构建技术、执行交易并重塑企业职能",
+    "summary": "普华永道与Anthropic宣布扩大战略联盟，将在全球数十万员工中部署Claude AI工具。双方将联合建立卓越中心，并培训认证3万名专业人员。合作聚焦三大高杠杆领域：智能体技术构建、AI原生交易执行以及企业职能重塑。普华永道已率先成立基于Claude的财务业务组。实际应用显示，Claude在保险承保、网络安全等多个领",
+    "source": "Anthropic：Newsroom（网页）",
+    "url": "https://www.anthropic.com/news/pwc-expanded-partnership",
+    "published_at": "2026-05-15T01:30:09.354Z",
+    "category": "industry"
+  },
+  {
+    "title": "牛津大学博士后开源视频翻译工具Violin，支持多语言翻译与视频对话",
+    "summary": "牛津大学博士后Kevin Lin开源视频翻译工具Violin，旨在打破高质量视频内容的语言壁垒。该工具将语音识别、大语言模型翻译与语音合成整合为自动化流水线，支持多语言互译与个性化翻译风格调整，例如将学术报告转化为儿童易懂版本。用户还能直接与视频内容进行对话并获取相关答案。Violin提供Web应用、命令行界面和Age",
+    "source": "X：Berry Xia (@berryxia)",
+    "url": "https://x.com/berryxia/status/2055093068085547507",
+    "published_at": "2026-05-15T01:09:03.000Z",
+    "category": "tip"
+  },
+  {
+    "title": "开源3D生成工具包：单张图片快速构建可交互3D世界",
+    "summary": "开发者@neilsonks开源了一套专为Claude Code设计的完整3D生成工具包。该工具能将输入的单张图片自动拆解，生成包含环境、网格、物理、灯光和音频的全套可交互3D场景。其流程首先利用图像与3D生成技术提取物体并生成高质量网格，随后移除物体以得到静态背景，最后为整个场景添加物理模拟、实时灯光和环境音效。配套查",
+    "source": "X：Berry Xia (@berryxia)",
+    "url": "https://x.com/berryxia/status/2055086814009180316",
+    "published_at": "2026-05-15T00:44:12.000Z",
+    "category": "ai-products"
+  },
+  {
     "title": "在 Windows 上构建安全有效的沙箱以启用 Codex",
     "summary": "OpenAI 为 Windows 平台上的 Codex 构建了一个安全沙箱环境。该沙箱通过严格控制文件访问权限和实施网络限制，确保了代码生成与执行过程的安全性。这一举措使得基于 Codex 的编码助手能够以高效且受控的方式运行，在提供强大编程辅助功能的同时，有效隔离了潜在风险，保障了用户系统的安全。",
     "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
     "url": "https://openai.com/index/building-codex-windows-sandbox",
     "published_at": "2026-05-15T00:00:00.000Z",
-    "category": "tip"
-  },
-  {
-    "title": "MiMo V2.5 Pro 获设计竞技场季军",
-    "summary": "MiMo V2.5 Pro 在 @DesignArena 上刚刚获得第三名！🎉\n\nMiMo V2.5 Pro （Thinking） 在总排行榜上比 MiMo-V2.5 提升了 8 个名次，在前端编码任务中达到与 Claude Sonnet 4.6 相同的性能水平。\n\n衷心祝贺 @XiaomiMiMo 团队取得这些进步！",
-    "source": "X：小米 MiMo (@XiaomiMiMo)",
-    "url": "https://x.com/XiaomiMiMo/status/2054797221250683199",
-    "published_at": "2026-05-14T05:33:28.000Z",
-    "category": "industry"
-  },
-  {
-    "title": "微信群聊总结Skill新增，依赖wx-cli配置",
-    "summary": "baoyu-skills 新加了一个 Skill：\n微信群聊总结 Skill：https：//github.com/JimLiu/baoyu-skills/tree/main/skills/baoyu-wechat-summary\n\n依赖于 wx-cli：https：//github.com/jackwener/wx-",
-    "source": "X：宝玉 (@dotey)",
-    "url": "https://x.com/dotey/status/2054768295534846239",
-    "published_at": "2026-05-14T03:38:32.000Z",
-    "category": "tip"
-  },
-  {
-    "title": "教视觉-语言模型说\"电影语言\"",
-    "summary": "研究团队与百余名专业创作者历时一年，构建了一个视频描述生成流程，其核心在于扩展精细化的人类-AI协同监督，而非单纯扩大模型规模。该研究（入选CVPR 2026亮点论文）指出，当前主流视频生成模型在理解和生成具有电影感的专业运镜（如希区柯克式滑动变焦、精确的焦点转移或荷兰角镜头）时存在明显不足，常产出通用或焦点错误的画面",
-    "source": "CMU：Machine Learning Blog",
-    "url": "https://blog.ml.cmu.edu/2026/05/13/teaching-vision-language-models-to-speak-cinema",
-    "published_at": "2026-05-14T03:06:13.000Z",
-    "category": "paper"
-  },
-  {
-    "title": "开源项目OpenSquilla：智能路由与本地检索，大幅降低LLM使用成本",
-    "summary": "开源项目OpenSquilla针对大语言模型应用Token消耗过高的问题，提出了智能模型路由与本地向量检索相结合的解决方案。系统能自动判断任务复杂度，将简单问题路由至廉价模型，复杂任务则分配给更强模型，且路由决策在本地完成，不消耗Token。通过增量发送与缓存命中机制，实际传输Token减少了90%以上。其记忆系统能在",
-    "source": "X：Vista (@vista8)",
-    "url": "https://x.com/vista8/status/2054757474100760626",
-    "published_at": "2026-05-14T02:55:32.000Z",
     "category": "tip"
   }
 ]
