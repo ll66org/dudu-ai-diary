@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-15T13:17:01.927157Z",
+  "fetched_at": "2026-05-16T12:41:19.446584Z",
   "total_candidates": 25,
   "source_stats": {
     "Figma Blog": {
@@ -8,7 +8,7 @@
     },
     "Vercel Blog (v0)": {
       "found": 0,
-      "total": 1154
+      "total": 1157
     },
     "Cursor Changelog": {
       "found": 0,
@@ -55,7 +55,7 @@
       "total": 0
     },
     "Product Hunt": {
-      "found": 5,
+      "found": 1,
       "total": 50
     },
     "Designer News (AI Design)": {
@@ -64,19 +64,21 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 22,
-  "today_date": "2026-05-15",
+  "dudu_day": 23,
+  "today_date": "2026-05-16",
   "used_titles": [
     "Show HN: An open source tool for generating macOS app icons with AI",
     "AI技能更新地图组件，支持交互与标记",
-    "在 Windows 上构建安全有效的沙箱以启用 Codex"
+    "在 Windows 上构建安全有效的沙箱以启用 Codex",
+    "克劳德（法律事务）"
   ],
   "used_tools": [
     "Hacker News (设计向)",
     "AI HOT · X：歸藏 (@op7418)",
-    "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+    "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+    "Hacker News 热门（buzzing.cc 中文翻译）"
   ],
   "briefing_total": 80,
-  "briefing_design": 37,
+  "briefing_design": 28,
   "briefing_count": 5
 }

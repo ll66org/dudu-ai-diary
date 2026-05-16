@@ -1,5 +1,5 @@
 {
-  "day_count": 22,
+  "day_count": 23,
   "history": [
     {
       "day": 20,
@@ -27,6 +27,13 @@
       "date": "2026-05-15",
       "topic": "克劳德（法律事务）",
       "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "mode": "rss"
+    },
+    {
+      "day": 23,
+      "date": "2026-05-16",
+      "topic": "研究人员利用Anthropic Mythos工具构建macOS内核漏洞，绕过苹果M5芯片内存完整性执行安全系统",
+      "source": "X：Kim (@kimmonismus)",
       "mode": "rss"
     }
   ],

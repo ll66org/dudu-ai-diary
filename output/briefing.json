@@ -1,42 +1,42 @@
 [
   {
-    "title": "克劳德（法律事务）",
-    "summary": "Anthropic公司在GitHub上开源了专为法律领域优化的AI模型\"Claude for Legal\"。该模型能更准确地处理法律文本、合同及案例摘要，旨在提升法律从业者效率。此消息在Hacker News上获得105个投票点数，显示出技术社区对其在法律科技领域应用潜力的关注。",
-    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-    "url": "https://github.com/anthropics/claude-for-legal",
-    "published_at": "2026-05-15T11:12:14.182Z",
-    "category": "tip"
-  },
-  {
-    "title": "普华永道全球部署Claude，助力客户构建技术、执行交易并重塑企业职能",
-    "summary": "普华永道与Anthropic宣布扩大战略联盟，将在全球数十万员工中部署Claude AI工具。双方将联合建立卓越中心，并培训认证3万名专业人员。合作聚焦三大高杠杆领域：智能体技术构建、AI原生交易执行以及企业职能重塑。普华永道已率先成立基于Claude的财务业务组。实际应用显示，Claude在保险承保、网络安全等多个领",
-    "source": "Anthropic：Newsroom（网页）",
-    "url": "https://www.anthropic.com/news/pwc-expanded-partnership",
-    "published_at": "2026-05-15T01:30:09.354Z",
+    "title": "研究人员利用Anthropic Mythos工具构建macOS内核漏洞，绕过苹果M5芯片内存完整性执行安全系统",
+    "summary": "三名研究人员借助Anthropic的Mythos工具，成功开发出一个可绕过苹果M5芯片内存完整性执行（MIE）安全机制的macOS内核漏洞利用程序。MIE是苹果耗时五年、投入巨资为M5和A19芯片打造的旗舰安全功能，旨在彻底消除内存损坏漏洞。研究团队于4月25日发现漏洞，5月1日即完成开发，并亲自前往苹果园区提交报告。",
+    "source": "X：Kim (@kimmonismus)",
+    "url": "https://x.com/kimmonismus/status/2055571960260645125",
+    "published_at": "2026-05-16T08:52:00.000Z",
     "category": "industry"
   },
   {
-    "title": "牛津大学博士后开源视频翻译工具Violin，支持多语言翻译与视频对话",
-    "summary": "牛津大学博士后Kevin Lin开源视频翻译工具Violin，旨在打破高质量视频内容的语言壁垒。该工具将语音识别、大语言模型翻译与语音合成整合为自动化流水线，支持多语言互译与个性化翻译风格调整，例如将学术报告转化为儿童易懂版本。用户还能直接与视频内容进行对话并获取相关答案。Violin提供Web应用、命令行界面和Age",
+    "title": "智能体驱动系统Articraft实现3D资产生成自动化，开源万件数据集降低门槛",
+    "summary": "剑桥大学团队推出Articraft，这是一个由智能体驱动的编码系统，能全自动生成带关节、可运动的交互式3D资产。系统通过AI智能体自主编写代码、执行并接收物理反馈迭代优化，将以往需数日甚至数周的创作过程极大简化。团队同时开源了Articraft-10K数据集，包含超1万个物体，覆盖250个类别，所有资产均仿真就绪。此举",
     "source": "X：Berry Xia (@berryxia)",
-    "url": "https://x.com/berryxia/status/2055093068085547507",
-    "published_at": "2026-05-15T01:09:03.000Z",
-    "category": "tip"
+    "url": "https://x.com/berryxia/status/2055444087684407505",
+    "published_at": "2026-05-16T00:23:53.000Z",
+    "category": "paper"
   },
   {
-    "title": "开源3D生成工具包：单张图片快速构建可交互3D世界",
-    "summary": "开发者@neilsonks开源了一套专为Claude Code设计的完整3D生成工具包。该工具能将输入的单张图片自动拆解，生成包含环境、网格、物理、灯光和音频的全套可交互3D场景。其流程首先利用图像与3D生成技术提取物体并生成高质量网格，随后移除物体以得到静态背景，最后为整个场景添加物理模拟、实时灯光和环境音效。配套查",
-    "source": "X：Berry Xia (@berryxia)",
-    "url": "https://x.com/berryxia/status/2055086814009180316",
-    "published_at": "2026-05-15T00:44:12.000Z",
+    "title": "Claude Code v2.1.143 版本更新：插件管理与用户体验增强",
+    "summary": "Claude Code 发布 v2.1.143 版本，重点增强了插件管理功能，包括强制执行插件依赖关系，并新增了插件市场的预估上下文成本显示。为方便直接编辑工作副本，增加了 `worktree.bgIsolation： \"none\"` 设置。多项体验得到改进：后台会话唤醒后保留模型与努力级别设置；Windows Pow",
+    "source": "Claude Code：GitHub Releases（RSS）",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.143",
+    "published_at": "2026-05-15T22:28:22.000Z",
     "category": "ai-products"
   },
   {
-    "title": "在 Windows 上构建安全有效的沙箱以启用 Codex",
-    "summary": "OpenAI 为 Windows 平台上的 Codex 构建了一个安全沙箱环境。该沙箱通过严格控制文件访问权限和实施网络限制，确保了代码生成与执行过程的安全性。这一举措使得基于 Codex 的编码助手能够以高效且受控的方式运行，在提供强大编程辅助功能的同时，有效隔离了潜在风险，保障了用户系统的安全。",
-    "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-    "url": "https://openai.com/index/building-codex-windows-sandbox",
-    "published_at": "2026-05-15T00:00:00.000Z",
+    "title": "英伟达CEO称技工前景优于计算机科学毕业生",
+    "summary": "英伟达CEO Jensen Huang在卡内基梅隆大学告诉2026届计算机科学毕业生，电工、水管工等技工比他们更有前景。数据支持这一观点：Randstad分析显示技工需求增长是白领职位的三倍，机器人技术员职位增长107%，而斯坦福研究发现AI相关职位早期就业下降16%。顶级电工年薪超10.6万美元，无需学位负债。科技公",
+    "source": "X：Kim (@kimmonismus)",
+    "url": "https://x.com/kimmonismus/status/2055403142913884288",
+    "published_at": "2026-05-15T21:41:11.000Z",
+    "category": "tip"
+  },
+  {
+    "title": "AI助手Sai化身虚拟同事，自主完成深度研究",
+    "summary": "AI工具Sai被设计为拥有独立桌面的\"虚拟同事\"，而非仅提供聊天窗口。用户可向其下达\"深度研究某主题\"等指令后离线，Sai会在安全的工作空间内自主操作：打开标签页、点击应用、阅读并交叉引用资料、做笔记，其工作方式类似人类研究员。任务完成后，它会整理好引用来源，并在执行任何潜在风险操作前请求用户批准。这展示了\"始终在线\"",
+    "source": "X：Kim (@kimmonismus)",
+    "url": "https://x.com/kimmonismus/status/2055351198467911769",
+    "published_at": "2026-05-15T18:14:46.000Z",
     "category": "tip"
   }
 ]

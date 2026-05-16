@@ -1,30 +1,93 @@
 [
   {
-    "title": "克劳德（法律事务）",
-    "summary": "Anthropic公司在GitHub上开源了专为法律领域优化的AI模型\"Claude for Legal\"。该模型能更准确地处理法律文本、合同及案例摘要，旨在提升法律从业者效率。此消息在Hacker News上获得105个投票点数，显示出技术社区对其在法律科技领域应用潜力的关注。",
-    "url": "https://github.com/anthropics/claude-for-legal",
-    "published": "2026-05-15T11:12:14.182Z",
-    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "title": "研究人员利用Anthropic Mythos工具构建macOS内核漏洞，绕过苹果M5芯片内存完整性执行安全系统",
+    "summary": "三名研究人员借助Anthropic的Mythos工具，成功开发出一个可绕过苹果M5芯片内存完整性执行（MIE）安全机制的macOS内核漏洞利用程序。MIE是苹果耗时五年、投入巨资为M5和A19芯片打造的旗舰安全功能，旨在彻底消除内存损坏漏洞。研究团队于4月25日发现漏洞，5月1日即完成开发，并亲自前往苹果园区提交报告。该攻击采用纯数据攻击方式，无需操纵指针，仅通过非特权用户的标准系统调用即可获取根权限。完整技术报告将在苹果发布补丁后公开。",
+    "url": "https://x.com/kimmonismus/status/2055571960260645125",
+    "published": "2026-05-16T08:52:00.000Z",
+    "source": "X：Kim (@kimmonismus)",
+    "source_weight": "high",
+    "category": "industry"
+  },
+  {
+    "title": "智能体驱动系统Articraft实现3D资产生成自动化，开源万件数据集降低门槛",
+    "summary": "剑桥大学团队推出Articraft，这是一个由智能体驱动的编码系统，能全自动生成带关节、可运动的交互式3D资产。系统通过AI智能体自主编写代码、执行并接收物理反馈迭代优化，将以往需数日甚至数周的创作过程极大简化。团队同时开源了Articraft-10K数据集，包含超1万个物体，覆盖250个类别，所有资产均仿真就绪。此举显著降低了机器人训练和物理AI领域对高质量3D资产的数据门槛，为解决\"数据饥渴\"问题提供了高效的自动化方案。",
+    "url": "https://x.com/berryxia/status/2055444087684407505",
+    "published": "2026-05-16T00:23:53.000Z",
+    "source": "X：Berry Xia (@berryxia)",
+    "source_weight": "high",
+    "category": "paper"
+  },
+  {
+    "title": "Claude Code v2.1.143 版本更新：插件管理与用户体验增强",
+    "summary": "Claude Code 发布 v2.1.143 版本，重点增强了插件管理功能，包括强制执行插件依赖关系，并新增了插件市场的预估上下文成本显示。为方便直接编辑工作副本，增加了 `worktree.bgIsolation： \"none\"` 设置。多项体验得到改进：后台会话唤醒后保留模型与努力级别设置；Windows PowerShell 工具默认绕过执行策略；`claude agents` 命令新增多个参数以配置默认会话。此外，本次更新修复了大量错误，包括修复损坏的 `.credentials.json` 文件导致 CLI 启动卡住、Windows Terminal 中的右键粘贴问题、后台会话错误捕获 IDE 文件引用，以及 macOS 上后台作业读取特定目录文件的权限错误等。",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.143",
+    "published": "2026-05-15T22:28:22.000Z",
+    "source": "Claude Code：GitHub Releases（RSS）",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "英伟达CEO称技工前景优于计算机科学毕业生",
+    "summary": "英伟达CEO Jensen Huang在卡内基梅隆大学告诉2026届计算机科学毕业生，电工、水管工等技工比他们更有前景。数据支持这一观点：Randstad分析显示技工需求增长是白领职位的三倍，机器人技术员职位增长107%，而斯坦福研究发现AI相关职位早期就业下降16%。顶级电工年薪超10.6万美元，无需学位负债。科技公司今年投资7000亿美元建设数据中心，全球到2030年预计达7万亿美元，这些基础设施依赖人力完成，但制造业面临劳动力短缺，每100名新工人进入就有102人离开。AI时代最大赢家是能建设数据中心的技工，而非提示工程师。",
+    "url": "https://x.com/kimmonismus/status/2055403142913884288",
+    "published": "2026-05-15T21:41:11.000Z",
+    "source": "X：Kim (@kimmonismus)",
     "source_weight": "high",
     "category": "tip"
   },
   {
-    "title": "Tiny World Builder",
-    "summary": "<p>\n            Click and build tiny worlds\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/tiny-world-builder?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1147683?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/tiny-world-builder",
-    "published": "2026-05-15T05:33:27-07:00",
+    "title": "AI助手Sai化身虚拟同事，自主完成深度研究",
+    "summary": "AI工具Sai被设计为拥有独立桌面的\"虚拟同事\"，而非仅提供聊天窗口。用户可向其下达\"深度研究某主题\"等指令后离线，Sai会在安全的工作空间内自主操作：打开标签页、点击应用、阅读并交叉引用资料、做笔记，其工作方式类似人类研究员。任务完成后，它会整理好引用来源，并在执行任何潜在风险操作前请求用户批准。这展示了\"始终在线\"的计算机使用代理的实际形态。",
+    "url": "https://x.com/kimmonismus/status/2055351198467911769",
+    "published": "2026-05-15T18:14:46.000Z",
+    "source": "X：Kim (@kimmonismus)",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "在法律行业全面部署Claude：产品指南与实施路线图",
+    "summary": "2026年报告显示，法律团队生成式AI使用率已从44%跃升至87%。为应对日益复杂的工作，法律行业正将Claude应用于合同审阅、并购尽调及诉讼准备等核心流程，并通过多款产品组合提升效率：Chat用于即时研究，Claude Cowork处理跨文件协作，Microsoft 365插件集成办公套件，Platform支持定制应用开发。Anthropic同步发布法律行业部署指南，涵盖产品矩阵、12个预设业务领域插件及三阶段实施路线图，并解答数据托管与权限保护等关键问题。",
+    "url": "https://claude.com/blog/deploying-claude-across-the-legal-industry",
+    "published": "2026-05-15T17:01:02.568Z",
+    "source": "Claude：Blog（网页）",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "Eric Jang - 从零开始构建 AlphaGo",
+    "summary": "文章以AlphaGo为例，阐述了智能的基本构成要素。AlphaGo至今仍是最清晰、最完整的范例，它融合了三大核心基础：搜索技术、从经验中学习以及自我对弈。这三大要素共同构成了其实现超越人类棋艺的关键路径。",
+    "url": "https://www.dwarkesh.com/p/eric-jang",
+    "published": "2026-05-15T16:04:58.000Z",
+    "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "SenseNova发布增强版信息图表生成模型SenseNova-U1-8B-MoT-Infographic",
+    "summary": "SenseNova近日推出专为信息图表生成设计的增强模型SenseNova-U1-8B-MoT-Infographic。该模型能够根据指令生成多种视觉格式内容，包括海报、图表、食谱卡、明信片以及学术风格的arXiv页面等。在性能方面，模型在BizGenEval（困难版）和IGenBench（Q-ACC）两项基准测试上表现突出，相比其基础U1模型分别提升了6.8分和18.2分。目前，该模型已在Hugging Face平台开源，并提供了超过100个多样化的生成示例，供开发者和研究者参考与试用。",
+    "url": "https://x.com/SenseTime_AI/status/2055315819165597702",
+    "published": "2026-05-15T15:54:11.000Z",
+    "source": "X：商汤 SenseTime (@SenseTime_AI)",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "开源项目OpenSquilla：智能路由降低AI成本近十倍，兼容多平台与模型",
+    "summary": "开源项目OpenSquilla通过智能路由架构，在保持与OpenClaw相近性能（0.9251分）的同时，将复杂AI任务处理成本从6美元大幅降至0.68美元。其核心是将简单任务分配给廉价模型，仅复杂任务调用Opus等顶级模型。系统具备四层记忆结构模拟人脑认知，支持按需加载16种工具，并设有三档代码沙箱安全防护。项目提供统一后端，支持网页、命令行及Slack、飞书等平台接入，兼容OpenAI、Claude、Gemini、DeepSeek等20余家主流模型。",
+    "url": "https://x.com/xiaohu/status/2055299820215300380",
+    "published": "2026-05-15T14:50:37.000Z",
+    "source": "X：小互 (@xiaohu)",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "ChatGPT for Personal Finance",
+    "summary": "<p>\n            Personal finance guidance powered by ChatGPT\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/openai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1147936?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/openai",
+    "published": "2026-05-15T12:16:51-07:00",
     "source": "Product Hunt",
     "source_weight": "high",
     "category": "ai_tech"
-  },
-  {
-    "title": "普华永道全球部署Claude，助力客户构建技术、执行交易并重塑企业职能",
-    "summary": "普华永道与Anthropic宣布扩大战略联盟，将在全球数十万员工中部署Claude AI工具。双方将联合建立卓越中心，并培训认证3万名专业人员。合作聚焦三大高杠杆领域：智能体技术构建、AI原生交易执行以及企业职能重塑。普华永道已率先成立基于Claude的财务业务组。实际应用显示，Claude在保险承保、网络安全等多个领域能将交付时间缩短最高达70%，例如将保险承保周期从十周压缩至十天。",
-    "url": "https://www.anthropic.com/news/pwc-expanded-partnership",
-    "published": "2026-05-15T01:30:09.354Z",
-    "source": "Anthropic：Newsroom（网页）",
-    "source_weight": "high",
-    "category": "industry"
   },
   {
     "title": "牛津大学博士后开源视频翻译工具Violin，支持多语言翻译与视频对话",
@@ -45,6 +108,15 @@
     "category": "ai-products"
   },
   {
+    "title": "将Grok接入Hermes智能体",
+    "summary": "xAI宣布，用户现可将Grok订阅账户接入Nous Research的开源自改进智能体Hermes Agent。该集成对所有订阅层级开放，允许用户在Hermes环境中直接使用Grok 4.3进行文本对话与高级推理、调用其文本转语音功能生成语音回复，并利用Grok Imagine创建图像与视频。Hermes Agent可持久运行于电脑、沙盒或VPS，具备跨会话长期记忆能力，并能连接WhatsApp、Discord等通讯平台。用户通过安装Hermes Agent并选择Grok提供商即可完成配置。",
+    "url": "https://x.ai/news/grok-hermes",
+    "published": "2026-05-15T00:00:00.000Z",
+    "source": "xAI：News（网页）",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
     "title": "AI自主研究实现突破：智能体在nanoGPT优化赛道上超越人类基准",
     "summary": "Prime Intellect 近期在AI研究自动化领域取得重要进展。他们让Claude Code与Codex智能体完全自主运行于nanoGPT速度挑战的优化器赛道，利用闲置算力完成了近万次实验，消耗约1.4万H200小时。最终，Claude Code将记录提升至2930步，超越了2990步的人类基准。实验显示，智能体在系统整合社区主流优化方法、进行超参数扫描和策略组合方面效率极高，但在要求真正创新的\"新颖性检查\"环节未能突破基线。该项目将所有实验记录、日志和代码开源，使得AI自主研究从概念转化为可复现的现实。",
     "url": "https://x.com/berryxia/status/2055074608261578949",
@@ -52,123 +124,6 @@
     "source": "X：Berry Xia (@berryxia)",
     "source_weight": "high",
     "category": "paper"
-  },
-  {
-    "title": "API提示预缓存加速首令牌生成",
-    "summary": "减少API长提示首令牌生成时间的实用技巧：预热提示缓存。\n\n在用户提示前发送系统提示。Claude会将其写入缓存，但跳过生成任何输出。\n\n当真实用户请求到达时，将直接命中预热缓存。",
-    "url": "https://x.com/ClaudeDevs/status/2055069548672631218",
-    "published": "2026-05-14T23:35:36.000Z",
-    "source": "X：Claude Devs (@ClaudeDevs)",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "Mobius",
-    "summary": "<p>\n            Describe a trade and Mobius builds, backtests, and runs it\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/mobius-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1147436?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/mobius-3",
-    "published": "2026-05-14T23:07:23-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Claude 代理工具 v2.1.142 版本更新",
-    "summary": "Claude 代理工具发布 v2.1.142 版本。本次更新新增了 `--add-dir`、`--settings`、`--model` 等 8 个用于配置后台会话的命令行标志，并将 Fast 模式的默认模型升级为 Opus 4.7。插件功能得到增强，拥有根目录 `SKILL.md` 的插件现可被识别为技能，插件详情面板会显示其提供的 LSP 服务器。此外，版本修复了超过 15 项问题，包括 MCP 工具超时设置失效、后台会话在系统休眠后异常断开、守护进程升级后无法正常退出、Windows 网络驱动器工作目录下死锁等关键错误，并改进了响应式压缩和钩子配置错误提示。",
-    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.142",
-    "published": "2026-05-14T22:55:10.000Z",
-    "source": "Claude Code：GitHub Releases（RSS）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Nimbus",
-    "summary": "<p>\n            Agentic Browser with Claude Code UX\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/nimbus-10?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1147415?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/nimbus-10",
-    "published": "2026-05-14T21:58:07-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Codex推出自动化钩子与程序化令牌",
-    "summary": "Codex正变得更易于围绕用户代码实现自动化与定制。其核心更新包括\"钩子\"功能，允许在任务关键节点运行脚本，以进行工作验证、扫描密钥、记录对话或按仓库定制行为。同时，面向商业和企业团队推出\"程序化访问令牌\"，提供范围化凭证，可从ChatGPT工作区设置创建，用于CI/CD、发布流程和内部自动化，支持设置过期或撤销，并将使用情况关联回工作区。",
-    "url": "https://x.com/OpenAIDevs/status/2055032115964870838",
-    "published": "2026-05-14T21:06:51.000Z",
-    "source": "X：OpenAI Developers (@OpenAIDevs)",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "SuperGrok Heavy限时六折，Grok Build开放测试",
-    "summary": "SuperGrok Heavy 现提供约67%的半年折扣，即每月仅需99美元（原价300美元）。\n\n强烈建议升级至Heavy版本，并试用Grok Build的测试版。",
-    "url": "https://x.com/cb_doge/status/2055017857352913319",
-    "published": "2026-05-14T20:10:12.000Z",
-    "source": "X：cb_doge (@cb_doge)",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "在大型代码库中高效运用Claude Code：最佳实践与入门指南",
-    "summary": "Claude Code已成功部署于数百万行的单体仓库、遗留系统及分布式架构中。其核心在于围绕模型构建的\"工具套件\"，而非仅依赖模型本身。该套件包含五个关键扩展点：提供代码库概览的CLAUDE.md文件、实现持续改进的钩子、按需加载专业知识的技能、插件以及MCP服务器。它采用智能体搜索模式，直接在开发者本地实时代码库上操作，无需构建和维护集中式索引，从而避免了传统RAG系统在活跃大型代码库中索引过时的问题。团队对代码库设置的投入程度直接决定了其导航效果。",
-    "url": "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start",
-    "published": "2026-05-14T18:00:00.200Z",
-    "source": "Claude：Blog（网页）",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "创始人手册：构建AI原生初创公司",
-    "summary": "Anthropic公司发布了一份面向AI原生初创企业的实用指南，旨在重塑2026年创业生命周期的构思、最小可行产品、发布和规模化四个核心阶段。该手册为每个阶段提供了具体目标、退出标准、常见失败模式及AI驱动练习，涵盖如何利用Claude进行问题验证与客户发现、避免AI生成代码的技术债务、区分真实产品市场契合度与早期炒作，并引入智能工作流替代创始人手动操作。指南还整合了多家初创企业的实践案例，为从零开始围绕AI构建公司的创始人提供架构、范围与安全方面的最佳实践。",
-    "url": "https://claude.com/blog/the-founders-playbook",
-    "published": "2026-05-14T18:00:00.200Z",
-    "source": "Claude：Blog（网页）",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "Genkit 推出中间件系统：增强智能体AI应用的可控性与可靠性",
-    "summary": "Google开源框架Genkit近日推出其核心中间件系统，旨在提升智能体AI应用的可靠性与可控性。该系统允许开发者在生成调用、模型及工具层进行拦截，以注入自定义行为，如重试机制、模型回退以及人工介入的工具审批流程。通过创建并堆叠自定义中间件，开发者能够实现对模型输出的确定性控制。所有中间件的执行流程均可通过专用的开发者界面进行实时查看与调试，有效支持使用TypeScript、Go、Dart和Python构建生产就绪的智能体应用。",
-    "url": "https://developers.googleblog.com/announcing-genkit-middleware-intercept-extend-and-harden-your-agentic-apps",
-    "published": "2026-05-14T17:09:17.667Z",
-    "source": "Google Developers Blog（RSS）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Recraft AI V4.1上线OpenRouter平台",
-    "summary": "现已在 OpenRouter 上线：@recraftai V4.1！\n\n包含六款新图像生成模型：追求高美学的 V4.1 和 V4.1 Pro，用于 SVG 插画的 V4.1 Vector 和 V4.1 Pro Vector，以及优先考虑克制风格的产品图像的 V4.1 Utility 和 V4.1 Utility Pro。\n\n照片级真实感更自然，渐变更平滑，简短提示词能更准确地命中目标，无需过多手动调整。",
-    "url": "https://x.com/OpenRouter/status/2054957185982177504",
-    "published": "2026-05-14T16:09:07.000Z",
-    "source": "X：OpenRouter (@OpenRouter)",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Anthropic与盖茨基金会达成2亿美元合作，聚焦全球健康与教育",
-    "summary": "Anthropic与盖茨基金会建立为期四年、总额2亿美元的合作，通过资金、Claude使用额度及技术支持，共同推进全球健康、生命科学、教育及经济流动项目。合作重点包括改善中低收入国家约46亿人口的基本医疗，利用AI加速疫苗与疗法研发，并开发公共卫生数据集等公共产品。在教育领域，双方将为美国、撒哈拉以南非洲和印度的K-12学生开发AI教学工具。经济流动方面则关注提升小农户生产力及美国职业技能认证。首批成果预计今年晚些时候发布。",
-    "url": "https://www.anthropic.com/news/gates-foundation-partnership",
-    "published": "2026-05-14T15:29:57.112Z",
-    "source": "Anthropic：Newsroom（网页）",
-    "source_weight": "high",
-    "category": "industry"
-  },
-  {
-    "title": "Mantel",
-    "summary": "<p>\n            Stop confusing your Claude Code sessions & terminal windows\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/mantel-color-coded-macos-terminal?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1147163?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/mantel-color-coded-macos-terminal",
-    "published": "2026-05-14T11:46:16-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Glance",
-    "summary": "<p>\n            Preview .md files instantly with quick look\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/glance-native-macos-markdown-viewer?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1146969?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/glance-native-macos-markdown-viewer",
-    "published": "2026-05-14T07:10:53-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
   },
   {
     "title": "Practical Interface Patterns For AI Transparency (Part 2)",
@@ -222,6 +177,51 @@
     "published": "Thu, 14 May 2026 23:03:44 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Can a typeface be safe?",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/can-a-typeface-be-safe-2e0720052013?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2000/0*s0pM-xh1N3SgzNJL.jpg\" width=\"2000\" /></a></p><p class=\"medium-feed-snippet\">How Volvo&#x2019;s typeface enhances safety for drivers</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/can-a-typeface-be-safe-2e0720052013?source=rss----138adf9c44c---4\">Continue reading on UX Collective",
+    "url": "https://uxdesign.cc/can-a-typeface-be-safe-2e0720052013?source=rss----138adf9c44c---4",
+    "published": "Thu, 14 May 2026 05:57:24 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Rethinking design with your hands in the AI world",
+    "summary": "<h4>Why design isn’t found in a prompt, but in toil and the creator’s “thinking hand.”</h4><figure><img alt=\"In a world of automated perfection, the “thinking hand” reclaims the grit, soul, and human conviction that make design truly come alive. (image source: jonmiura)\" src=\"https://cdn-images-1.medium.com/max/1024/0*OAGxk657a0vDlfcA.jpg\" /><figcaption>In a world of automated perfection, the “thinking hand” reclaims the grit, soul, and human conviction that make design truly come alive. (image ",
+    "url": "https://uxdesign.cc/rethinking-design-with-your-hands-in-the-ai-world-b8d4adf3322c?source=rss----138adf9c44c---4",
+    "published": "Mon, 11 May 2026 22:03:13 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "The thinking was never just mine",
+    "summary": "<h4>Maybe “mine” was never about origin. Maybe it was about what gets carried forward.</h4><figure><img alt=\"Minimal line illustration of a person standing at a screen, facing a five-tier stepped structure whose shapes progress from triangle to square, pentagon, hexagon, and finally a circle on a dark top block\" src=\"https://cdn-images-1.medium.com/max/1024/1*T1ORkiQDH7Mg5Ci5pYr2UQ.png\" /></figure><p>I’ve been trying to figure out when, exactly, an idea becomes mine.</p><p>Recently, I was workin",
+    "url": "https://uxdesign.cc/the-thinking-was-never-just-mine-9b73cc04c837?source=rss----138adf9c44c---4",
+    "published": "Mon, 11 May 2026 22:03:11 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Ten Data-Backed Truths Of User Experience ROI",
+    "summary": "Every extra second of friction has a measurable business cost. Carrie Webster shares ten data-backed UX facts that link user experience directly to revenue, retention, and long-term growth.",
+    "url": "https://smashingmagazine.com/2026/05/data-backed-truths-user-experience-roi/",
+    "published": "Fri, 15 May 2026 10:00:00 GMT",
+    "source": "Smashing Magazine",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Soon We Can Finally Banish JavaScript to the ShadowRealm",
+    "summary": "<p>The proposed ShadowRealm API introduces a new kind of realm specifically designed for isolation, and <em>only</em> that.</p>\n<hr />\n<p><small><a href=\"https://css-tricks.com/soon-we-can-finally-banish-javascript-to-the-shadowrealm/\" rel=\"nofollow\">Soon We Can Finally Banish JavaScript to the ShadowRealm</a> originally handwritten and published with love on <a href=\"https://css-tricks.com\" rel=\"nofollow\">CSS-Tricks</a>. You should really <a href=\"https://css-tricks.com/newsletters/\">get the ne",
+    "url": "https://css-tricks.com/soon-we-can-finally-banish-javascript-to-the-shadowrealm/",
+    "published": "Tue, 12 May 2026 13:59:35 +0000",
+    "source": "CSS-Tricks",
+    "source_weight": "low",
     "category": "design_communities"
   }
 ]
