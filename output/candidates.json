@@ -1,12 +1,111 @@
 [
   {
-    "title": "研究人员利用Anthropic Mythos工具构建macOS内核漏洞，绕过苹果M5芯片内存完整性执行安全系统",
-    "summary": "三名研究人员借助Anthropic的Mythos工具，成功开发出一个可绕过苹果M5芯片内存完整性执行（MIE）安全机制的macOS内核漏洞利用程序。MIE是苹果耗时五年、投入巨资为M5和A19芯片打造的旗舰安全功能，旨在彻底消除内存损坏漏洞。研究团队于4月25日发现漏洞，5月1日即完成开发，并亲自前往苹果园区提交报告。该攻击采用纯数据攻击方式，无需操纵指针，仅通过非特权用户的标准系统调用即可获取根权限。完整技术报告将在苹果发布补丁后公开。",
-    "url": "https://x.com/kimmonismus/status/2055571960260645125",
-    "published": "2026-05-16T08:52:00.000Z",
-    "source": "X：Kim (@kimmonismus)",
+    "title": "Show HN: GDD–36 MCP tools to run N isolated Chromium browsers from Claude/Cursor",
+    "summary": "<p>Article URL: <a href=\"https://github.com/Cap-of-tea/GDD\">https://github.com/Cap-of-tea/GDD</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48167299\">https://news.ycombinator.com/item?id=48167299</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://github.com/Cap-of-tea/GDD",
+    "published": "Sun, 17 May 2026 09:18:28 +0000",
+    "source": "Hacker News (设计向)",
     "source_weight": "high",
-    "category": "industry"
+    "category": "ai_tech"
+  },
+  {
+    "title": "Team-memory – your team's shared brain, auto-built from Claude Code CLI or UI",
+    "summary": "<p>Article URL: <a href=\"https://github.com/AndrewSkea/team-memory\">https://github.com/AndrewSkea/team-memory</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48166634\">https://news.ycombinator.com/item?id=48166634</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "url": "https://github.com/AndrewSkea/team-memory",
+    "published": "Sun, 17 May 2026 06:56:35 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Grok Imagine图像生成功能正式发布",
+    "summary": "Grok Imagine\n现已正式发布\n所有人都可使用\n\n基于我们最新的文本到图像模型\n能够生成逼真、高质量的图像\n支持多种宽高比\n\n现在可在 X 上使用",
+    "url": "https://x.com/elonmusk/status/2055912040481599793",
+    "published": "2026-05-17T07:23:22.000Z",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "手机端ChatGPT应用集成Codex构建功能",
+    "summary": "你可以在手机端通过ChatGPT应用中的Codex直接构建项目",
+    "url": "https://x.com/gdb/status/2055882172884763012",
+    "published": "2026-05-17T05:24:41.000Z",
+    "source": "X：Greg Brockman (@gdb)",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "微信读书Skill安装与使用指南",
+    "summary": "❤️\n\n【引用 @vista8】：微信读书Cli安装和配置教程。\n\n1. 官方指令，复制发给Codex或Claude Code\n\n下载 https：//cdn.weread.qq.com/skills/weread-skills.zip 安装 skill\n\n2. 或者用 X 上网友 @eviljer 做的优化版Skill\n\nnpx skills add jerlinn/jerlin-weread\n\n3. 如果需要API key，访问微信官方这个页面获取\nhttps：//weread.qq.com/r/weread-skills\n\n4. 使用案例\n\n直接跟AI说：\"调用微信读书skill 查看被讨厌勇气的高亮划线\"",
+    "url": "https://x.com/berryxia/status/2055865005271314528",
+    "published": "2026-05-17T04:16:28.000Z",
+    "source": "X：Berry Xia (@berryxia)",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "Zerostack--一款采用纯Rust语言编写、受Unix启发的编程代理",
+    "summary": "Zerostack是一款采用纯Rust语言编写、受Unix哲学启发的编程代理工具，已正式发布1.0.0版本并在Rust包管理平台crates.io上提供。该发布在技术社区Hacker News上获得115点关注，反映出开发者对其的高度兴趣。Rust语言以内存安全和性能见称，Unix设计强调简洁与模块化，Zerostack结合两者优势，旨在提升编程效率，为代码辅助领域带来新选择。",
+    "url": "https://crates.io/crates/zerostack/1.0.0",
+    "published": "2026-05-17T00:46:13.673Z",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "MagicPath与Codex深度整合，设计开发流程合二为一",
+    "summary": "MagicPath AI CEO @skirano 演示了其产品与Codex的深度整合。用户现可将MagicPath作为原生画布直接在Codex中运行，通过拖拽设计UI，Codex能实时感知项目并自动生成、编辑代码，实现设计与开发的无缝衔接，无需在Figma和IDE间切换。安装简便，只需在Codex中粘贴一条命令即可完成配置。此举将\"设计-开发-迭代\"流程整合于单一窗口，显著缩短了从创意到可运行应用的距离。",
+    "url": "https://x.com/berryxia/status/2055766210512560416",
+    "published": "2026-05-16T21:43:53.000Z",
+    "source": "X：Berry Xia (@berryxia)",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "最新开源成果（#21）：开源模型盛宴！Gemma 4、DeepSeek V4、Kimi K2.6、MiMo 2.5、GLM-5.1 等。基于CAISI的V4评估。",
+    "summary": "本月开源AI模型领域迎来密集发布，包括Gemma 4、DeepSeek V4、Kimi K2.6、MiMo 2.5和GLM-5.1等一系列重要新版本。这些模型均在CAISI的V4评估框架下进行了性能评测。多个团队几乎同期推出旗舰级更新，反映出开源社区当前高速迭代的竞争态势。",
+    "url": "https://www.interconnects.ai/p/latest-open-artifacts-21-open-model",
+    "published": "2026-05-16T17:00:11.000Z",
+    "source": "Nathan Lambert：Interconnects（RSS）",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "Ring-2.6-1T开源并上线OpenRouter，专为智能体工作流设计",
+    "summary": "Ring-2.6-1T模型现已开源，并上线OpenRouter平台，5月底前享有75%折扣。该模型由AntLingAGI开发，是一个为现实世界智能体构建的万亿级推理模型，其核心设计目标不仅是回答问题，更是执行任务。它专注于规划步骤、使用工具、维持上下文和完成复杂工作流，具备强大的智能体执行能力和高推理模式，并采用了Async RL与IcePop训练方法。",
+    "url": "https://x.com/AntLingAGI/status/2055681163033997815",
+    "published": "2026-05-16T16:05:56.000Z",
+    "source": "X：蚂蚁百灵 (@AntLingAGI)",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "SANA-WM：一个用于生成1分钟720p视频的26亿级开源世界模型",
+    "summary": "NVIDIA研究团队发布了SANA-WM，这是一个参数规模达26亿的开源世界模型，专门用于生成长达1分钟、分辨率为720p的视频。该模型已在GitHub页面开源，旨在推动高质量长视频生成的研发。其在Hacker News社区获得了107点热度，显示出业界对该技术进展的关注。",
+    "url": "https://nvlabs.github.io/Sana/WM",
+    "published": "2026-05-16T15:25:59.778Z",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "Δ-Mem：适用于大型语言模型的高效在线内存",
+    "summary": "研究人员提出了Δ-Mem，一种专为大型语言模型设计的高效在线内存系统。该系统通过仅存储和更新模型激活的增量变化，而非完整的激活状态，显著降低了内存占用。实验表明，Δ-Mem能将内存使用量减少高达70%，同时保持模型输出的质量基本无损。这一方法有助于在资源受限的环境中部署和运行大规模语言模型，提升其在线推理和持续学习场景下的可行性。",
+    "url": "https://arxiv.org/abs/2605.12357",
+    "published": "2026-05-16T13:49:59.872Z",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "source_weight": "high",
+    "category": "paper"
+  },
+  {
+    "title": "Anthropic《Founder's Playbook》：AI提高创业失败率的警示",
+    "summary": "Anthropic发布内部手册《Founder's Playbook》，核心观点是AI（如Claude Code）将提高创业失败率，而非降低。手册指出，AI能快速生成原型，易使创始人混淆\"能运行\"与\"有市场需求\"，并通过确认偏误和研究引擎强化错误想法。它将创业分为Idea、MVP、Launch、Scale四阶段，剖析AI放大的风险：如原型不等于验证、Agentic技术债、创始人成为决策瓶颈等。最终结论是，AI极大降低执行成本，使得判断力成为最稀缺资源，真正护城河在于将垂直领域知识结构化沉淀为专属Skills。",
+    "url": "https://x.com/berryxia/status/2055635826462130227",
+    "published": "2026-05-16T13:05:47.000Z",
+    "source": "X：Berry Xia (@berryxia)",
+    "source_weight": "high",
+    "category": "tip"
   },
   {
     "title": "智能体驱动系统Articraft实现3D资产生成自动化，开源万件数据集降低门槛",
@@ -45,87 +144,6 @@
     "category": "tip"
   },
   {
-    "title": "在法律行业全面部署Claude：产品指南与实施路线图",
-    "summary": "2026年报告显示，法律团队生成式AI使用率已从44%跃升至87%。为应对日益复杂的工作，法律行业正将Claude应用于合同审阅、并购尽调及诉讼准备等核心流程，并通过多款产品组合提升效率：Chat用于即时研究，Claude Cowork处理跨文件协作，Microsoft 365插件集成办公套件，Platform支持定制应用开发。Anthropic同步发布法律行业部署指南，涵盖产品矩阵、12个预设业务领域插件及三阶段实施路线图，并解答数据托管与权限保护等关键问题。",
-    "url": "https://claude.com/blog/deploying-claude-across-the-legal-industry",
-    "published": "2026-05-15T17:01:02.568Z",
-    "source": "Claude：Blog（网页）",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "Eric Jang - 从零开始构建 AlphaGo",
-    "summary": "文章以AlphaGo为例，阐述了智能的基本构成要素。AlphaGo至今仍是最清晰、最完整的范例，它融合了三大核心基础：搜索技术、从经验中学习以及自我对弈。这三大要素共同构成了其实现超越人类棋艺的关键路径。",
-    "url": "https://www.dwarkesh.com/p/eric-jang",
-    "published": "2026-05-15T16:04:58.000Z",
-    "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "SenseNova发布增强版信息图表生成模型SenseNova-U1-8B-MoT-Infographic",
-    "summary": "SenseNova近日推出专为信息图表生成设计的增强模型SenseNova-U1-8B-MoT-Infographic。该模型能够根据指令生成多种视觉格式内容，包括海报、图表、食谱卡、明信片以及学术风格的arXiv页面等。在性能方面，模型在BizGenEval（困难版）和IGenBench（Q-ACC）两项基准测试上表现突出，相比其基础U1模型分别提升了6.8分和18.2分。目前，该模型已在Hugging Face平台开源，并提供了超过100个多样化的生成示例，供开发者和研究者参考与试用。",
-    "url": "https://x.com/SenseTime_AI/status/2055315819165597702",
-    "published": "2026-05-15T15:54:11.000Z",
-    "source": "X：商汤 SenseTime (@SenseTime_AI)",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "开源项目OpenSquilla：智能路由降低AI成本近十倍，兼容多平台与模型",
-    "summary": "开源项目OpenSquilla通过智能路由架构，在保持与OpenClaw相近性能（0.9251分）的同时，将复杂AI任务处理成本从6美元大幅降至0.68美元。其核心是将简单任务分配给廉价模型，仅复杂任务调用Opus等顶级模型。系统具备四层记忆结构模拟人脑认知，支持按需加载16种工具，并设有三档代码沙箱安全防护。项目提供统一后端，支持网页、命令行及Slack、飞书等平台接入，兼容OpenAI、Claude、Gemini、DeepSeek等20余家主流模型。",
-    "url": "https://x.com/xiaohu/status/2055299820215300380",
-    "published": "2026-05-15T14:50:37.000Z",
-    "source": "X：小互 (@xiaohu)",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "ChatGPT for Personal Finance",
-    "summary": "<p>\n            Personal finance guidance powered by ChatGPT\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/openai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1147936?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/openai",
-    "published": "2026-05-15T12:16:51-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "牛津大学博士后开源视频翻译工具Violin，支持多语言翻译与视频对话",
-    "summary": "牛津大学博士后Kevin Lin开源视频翻译工具Violin，旨在打破高质量视频内容的语言壁垒。该工具将语音识别、大语言模型翻译与语音合成整合为自动化流水线，支持多语言互译与个性化翻译风格调整，例如将学术报告转化为儿童易懂版本。用户还能直接与视频内容进行对话并获取相关答案。Violin提供Web应用、命令行界面和Agent Skill三种使用方式，所有功能基于MIT协议开源，由Together Compute提供技术支持，适用于内容创作、教育及多模态智能体开发等领域。",
-    "url": "https://x.com/berryxia/status/2055093068085547507",
-    "published": "2026-05-15T01:09:03.000Z",
-    "source": "X：Berry Xia (@berryxia)",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "开源3D生成工具包：单张图片快速构建可交互3D世界",
-    "summary": "开发者@neilsonks开源了一套专为Claude Code设计的完整3D生成工具包。该工具能将输入的单张图片自动拆解，生成包含环境、网格、物理、灯光和音频的全套可交互3D场景。其流程首先利用图像与3D生成技术提取物体并生成高质量网格，随后移除物体以得到静态背景，最后为整个场景添加物理模拟、实时灯光和环境音效。配套查看器支持对生成物体的点击编辑与一键导出。此工具将以往需数天的2D转3D工作流程缩短至几分钟，适用于游戏开发、世界构建和产品可视化等项目。项目已在GitHub开源。",
-    "url": "https://x.com/berryxia/status/2055086814009180316",
-    "published": "2026-05-15T00:44:12.000Z",
-    "source": "X：Berry Xia (@berryxia)",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "将Grok接入Hermes智能体",
-    "summary": "xAI宣布，用户现可将Grok订阅账户接入Nous Research的开源自改进智能体Hermes Agent。该集成对所有订阅层级开放，允许用户在Hermes环境中直接使用Grok 4.3进行文本对话与高级推理、调用其文本转语音功能生成语音回复，并利用Grok Imagine创建图像与视频。Hermes Agent可持久运行于电脑、沙盒或VPS，具备跨会话长期记忆能力，并能连接WhatsApp、Discord等通讯平台。用户通过安装Hermes Agent并选择Grok提供商即可完成配置。",
-    "url": "https://x.ai/news/grok-hermes",
-    "published": "2026-05-15T00:00:00.000Z",
-    "source": "xAI：News（网页）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "AI自主研究实现突破：智能体在nanoGPT优化赛道上超越人类基准",
-    "summary": "Prime Intellect 近期在AI研究自动化领域取得重要进展。他们让Claude Code与Codex智能体完全自主运行于nanoGPT速度挑战的优化器赛道，利用闲置算力完成了近万次实验，消耗约1.4万H200小时。最终，Claude Code将记录提升至2930步，超越了2990步的人类基准。实验显示，智能体在系统整合社区主流优化方法、进行超参数扫描和策略组合方面效率极高，但在要求真正创新的\"新颖性检查\"环节未能突破基线。该项目将所有实验记录、日志和代码开源，使得AI自主研究从概念转化为可复现的现实。",
-    "url": "https://x.com/berryxia/status/2055074608261578949",
-    "published": "2026-05-14T23:55:42.000Z",
-    "source": "X：Berry Xia (@berryxia)",
-    "source_weight": "high",
-    "category": "paper"
-  },
-  {
     "title": "Practical Interface Patterns For AI Transparency (Part 2)",
     "summary": "Why traditional loading patterns like spinners fail in agentic AI experiences, and how interface patterns that reveal the system’s process, status, and decision-making can improve transparency and build user trust.",
     "url": "https://smashingmagazine.com/2026/05/practical-interface-patterns-ai-transparency/",
@@ -153,24 +171,6 @@
     "category": "design_communities"
   },
   {
-    "title": "Be like water: Rethinking the design process with AI",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/be-like-water-rethinking-design-process-and-ai-experimentation-5db3c32eff7a?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1672/1*lgZsVS8O8CrGQyrOt4D4HQ.png\" width=\"1672\" /></a></p><p class=\"medium-feed-snippet\">What Bruce Lee can teach us about structure, flow, and intention.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/be-like-water-rethinking-design-process-and-",
-    "url": "https://uxdesign.cc/be-like-water-rethinking-design-process-and-ai-experimentation-5db3c32eff7a?source=rss----138adf9c44c---4",
-    "published": "Tue, 12 May 2026 08:55:34 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "How I use AI to partner on design problems",
-    "summary": "<h4>A design workflow where AI holds the context, I do the thinking: from brainstorm to prototype</h4><p>Working through a complex design problem means holding a lot in my head. Research synthesis, product metrics, a Slack thread with stakeholder feedback, Figma comments, decisions made in the last iteration. Multiply that across iterations, and it’s hard to keep up.</p><p>Most AI tools push toward visual generation. Faster UI, pretty mockups, vibe-coded prototypes. It’s fast, and it looks good.",
-    "url": "https://uxdesign.cc/how-i-use-ai-to-think-through-design-problems-4a484080484b?source=rss----138adf9c44c---4",
-    "published": "Tue, 12 May 2026 08:54:23 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
     "title": "The one-dimensional pipe between two high-dimensional minds",
     "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-one-dimensional-pipe-between-two-high-dimensional-minds-7bc81c49627e?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*BaYlAoeVq4OIucPC9spiWQ.jpeg\" width=\"3500\" /></a></p><p class=\"medium-feed-snippet\">On AI, prompts, and the strange new asymmetry between two high-dimensional minds</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/the-one-dimensional-pipe-betwee",
     "url": "https://uxdesign.cc/the-one-dimensional-pipe-between-two-high-dimensional-minds-7bc81c49627e?source=rss----138adf9c44c---4",
@@ -189,19 +189,28 @@
     "category": "design_communities"
   },
   {
-    "title": "Rethinking design with your hands in the AI world",
-    "summary": "<h4>Why design isn’t found in a prompt, but in toil and the creator’s “thinking hand.”</h4><figure><img alt=\"In a world of automated perfection, the “thinking hand” reclaims the grit, soul, and human conviction that make design truly come alive. (image source: jonmiura)\" src=\"https://cdn-images-1.medium.com/max/1024/0*OAGxk657a0vDlfcA.jpg\" /><figcaption>In a world of automated perfection, the “thinking hand” reclaims the grit, soul, and human conviction that make design truly come alive. (image ",
-    "url": "https://uxdesign.cc/rethinking-design-with-your-hands-in-the-ai-world-b8d4adf3322c?source=rss----138adf9c44c---4",
-    "published": "Mon, 11 May 2026 22:03:13 GMT",
+    "title": "Should we be kind to machines (for our own sake, really)?",
+    "summary": "<h4><em>We know AI isn’t conscious. We know it has no feelings, no preferences, no skin in the game. We say “please” and “thank you” anyway.</em></h4><figure><img alt=\"Two speech bubbles overlapping. One is large, terracotta and rounded with a wavy texture inside. The other is smaller, cream-coloured, angular and geometric. Both are outlined in navy on a pale grey background.\" src=\"https://cdn-images-1.medium.com/max/1024/1*E1cjITdSdZLaJlQQgUIuDw.png\" /><figcaption>The machine’s half of the conv",
+    "url": "https://uxdesign.cc/should-we-be-kind-to-machines-for-our-own-sake-really-26acf222af29?source=rss----138adf9c44c---4",
+    "published": "Sat, 16 May 2026 19:11:51 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
   },
   {
-    "title": "The thinking was never just mine",
-    "summary": "<h4>Maybe “mine” was never about origin. Maybe it was about what gets carried forward.</h4><figure><img alt=\"Minimal line illustration of a person standing at a screen, facing a five-tier stepped structure whose shapes progress from triangle to square, pentagon, hexagon, and finally a circle on a dark top block\" src=\"https://cdn-images-1.medium.com/max/1024/1*T1ORkiQDH7Mg5Ci5pYr2UQ.png\" /></figure><p>I’ve been trying to figure out when, exactly, an idea becomes mine.</p><p>Recently, I was workin",
-    "url": "https://uxdesign.cc/the-thinking-was-never-just-mine-9b73cc04c837?source=rss----138adf9c44c---4",
-    "published": "Mon, 11 May 2026 22:03:11 GMT",
+    "title": "How to write a DESIGN.md file Claude can actually use",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/how-to-write-a-design-md-file-claude-can-actually-use-2d89d183f823?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*Pu4j11iI1GWB5kCNfLbCfQ.png\" width=\"4800\" /></a></p><p class=\"medium-feed-snippet\">Your DESIGN.md should tell a story of your product</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/how-to-write-a-design-md-file-claude-can-actually-use-2d89d183f823?s",
+    "url": "https://uxdesign.cc/how-to-write-a-design-md-file-claude-can-actually-use-2d89d183f823?source=rss----138adf9c44c---4",
+    "published": "Sat, 16 May 2026 19:11:22 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Opening your place to the street",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/opening-your-place-to-the-street-cf6519afefca?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1497/1*bBweZM9VrHRYLChi5N5nnw.png\" width=\"1497\" /></a></p><p class=\"medium-feed-snippet\">On opening a channel to the upstream conversation &#x2500; notes for designers thinking through the age of AI</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/opening-your-place-to-the-stre",
+    "url": "https://uxdesign.cc/opening-your-place-to-the-street-cf6519afefca?source=rss----138adf9c44c---4",
+    "published": "Sat, 16 May 2026 19:10:46 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
@@ -213,15 +222,6 @@
     "published": "Fri, 15 May 2026 10:00:00 GMT",
     "source": "Smashing Magazine",
     "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Soon We Can Finally Banish JavaScript to the ShadowRealm",
-    "summary": "<p>The proposed ShadowRealm API introduces a new kind of realm specifically designed for isolation, and <em>only</em> that.</p>\n<hr />\n<p><small><a href=\"https://css-tricks.com/soon-we-can-finally-banish-javascript-to-the-shadowrealm/\" rel=\"nofollow\">Soon We Can Finally Banish JavaScript to the ShadowRealm</a> originally handwritten and published with love on <a href=\"https://css-tricks.com\" rel=\"nofollow\">CSS-Tricks</a>. You should really <a href=\"https://css-tricks.com/newsletters/\">get the ne",
-    "url": "https://css-tricks.com/soon-we-can-finally-banish-javascript-to-the-shadowrealm/",
-    "published": "Tue, 12 May 2026 13:59:35 +0000",
-    "source": "CSS-Tricks",
-    "source_weight": "low",
     "category": "design_communities"
   }
 ]

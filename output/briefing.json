@@ -1,42 +1,42 @@
 [
   {
-    "title": "研究人员利用Anthropic Mythos工具构建macOS内核漏洞，绕过苹果M5芯片内存完整性执行安全系统",
-    "summary": "三名研究人员借助Anthropic的Mythos工具，成功开发出一个可绕过苹果M5芯片内存完整性执行（MIE）安全机制的macOS内核漏洞利用程序。MIE是苹果耗时五年、投入巨资为M5和A19芯片打造的旗舰安全功能，旨在彻底消除内存损坏漏洞。研究团队于4月25日发现漏洞，5月1日即完成开发，并亲自前往苹果园区提交报告。",
-    "source": "X：Kim (@kimmonismus)",
-    "url": "https://x.com/kimmonismus/status/2055571960260645125",
-    "published_at": "2026-05-16T08:52:00.000Z",
-    "category": "industry"
-  },
-  {
-    "title": "智能体驱动系统Articraft实现3D资产生成自动化，开源万件数据集降低门槛",
-    "summary": "剑桥大学团队推出Articraft，这是一个由智能体驱动的编码系统，能全自动生成带关节、可运动的交互式3D资产。系统通过AI智能体自主编写代码、执行并接收物理反馈迭代优化，将以往需数日甚至数周的创作过程极大简化。团队同时开源了Articraft-10K数据集，包含超1万个物体，覆盖250个类别，所有资产均仿真就绪。此举",
-    "source": "X：Berry Xia (@berryxia)",
-    "url": "https://x.com/berryxia/status/2055444087684407505",
-    "published_at": "2026-05-16T00:23:53.000Z",
-    "category": "paper"
-  },
-  {
-    "title": "Claude Code v2.1.143 版本更新：插件管理与用户体验增强",
-    "summary": "Claude Code 发布 v2.1.143 版本，重点增强了插件管理功能，包括强制执行插件依赖关系，并新增了插件市场的预估上下文成本显示。为方便直接编辑工作副本，增加了 `worktree.bgIsolation： \"none\"` 设置。多项体验得到改进：后台会话唤醒后保留模型与努力级别设置；Windows Pow",
-    "source": "Claude Code：GitHub Releases（RSS）",
-    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.143",
-    "published_at": "2026-05-15T22:28:22.000Z",
+    "title": "Grok Imagine图像生成功能正式发布",
+    "summary": "Grok Imagine\n现已正式发布\n所有人都可使用\n\n基于我们最新的文本到图像模型\n能够生成逼真、高质量的图像\n支持多种宽高比\n\n现在可在 X 上使用",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "url": "https://x.com/elonmusk/status/2055912040481599793",
+    "published_at": "2026-05-17T07:23:22.000Z",
     "category": "ai-products"
   },
   {
-    "title": "英伟达CEO称技工前景优于计算机科学毕业生",
-    "summary": "英伟达CEO Jensen Huang在卡内基梅隆大学告诉2026届计算机科学毕业生，电工、水管工等技工比他们更有前景。数据支持这一观点：Randstad分析显示技工需求增长是白领职位的三倍，机器人技术员职位增长107%，而斯坦福研究发现AI相关职位早期就业下降16%。顶级电工年薪超10.6万美元，无需学位负债。科技公",
-    "source": "X：Kim (@kimmonismus)",
-    "url": "https://x.com/kimmonismus/status/2055403142913884288",
-    "published_at": "2026-05-15T21:41:11.000Z",
+    "title": "手机端ChatGPT应用集成Codex构建功能",
+    "summary": "你可以在手机端通过ChatGPT应用中的Codex直接构建项目",
+    "source": "X：Greg Brockman (@gdb)",
+    "url": "https://x.com/gdb/status/2055882172884763012",
+    "published_at": "2026-05-17T05:24:41.000Z",
+    "category": "ai-products"
+  },
+  {
+    "title": "微信读书Skill安装与使用指南",
+    "summary": "❤️\n\n【引用 @vista8】：微信读书Cli安装和配置教程。\n\n1. 官方指令，复制发给Codex或Claude Code\n\n下载 https：//cdn.weread.qq.com/skills/weread-skills.zip 安装 skill\n\n2. 或者用 X 上网友 @eviljer 做的优化版Skil",
+    "source": "X：Berry Xia (@berryxia)",
+    "url": "https://x.com/berryxia/status/2055865005271314528",
+    "published_at": "2026-05-17T04:16:28.000Z",
     "category": "tip"
   },
   {
-    "title": "AI助手Sai化身虚拟同事，自主完成深度研究",
-    "summary": "AI工具Sai被设计为拥有独立桌面的\"虚拟同事\"，而非仅提供聊天窗口。用户可向其下达\"深度研究某主题\"等指令后离线，Sai会在安全的工作空间内自主操作：打开标签页、点击应用、阅读并交叉引用资料、做笔记，其工作方式类似人类研究员。任务完成后，它会整理好引用来源，并在执行任何潜在风险操作前请求用户批准。这展示了\"始终在线\"",
-    "source": "X：Kim (@kimmonismus)",
-    "url": "https://x.com/kimmonismus/status/2055351198467911769",
-    "published_at": "2026-05-15T18:14:46.000Z",
+    "title": "Zerostack--一款采用纯Rust语言编写、受Unix启发的编程代理",
+    "summary": "Zerostack是一款采用纯Rust语言编写、受Unix哲学启发的编程代理工具，已正式发布1.0.0版本并在Rust包管理平台crates.io上提供。该发布在技术社区Hacker News上获得115点关注，反映出开发者对其的高度兴趣。Rust语言以内存安全和性能见称，Unix设计强调简洁与模块化，Zerostac",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "url": "https://crates.io/crates/zerostack/1.0.0",
+    "published_at": "2026-05-17T00:46:13.673Z",
+    "category": "ai-products"
+  },
+  {
+    "title": "MagicPath与Codex深度整合，设计开发流程合二为一",
+    "summary": "MagicPath AI CEO @skirano 演示了其产品与Codex的深度整合。用户现可将MagicPath作为原生画布直接在Codex中运行，通过拖拽设计UI，Codex能实时感知项目并自动生成、编辑代码，实现设计与开发的无缝衔接，无需在Figma和IDE间切换。安装简便，只需在Codex中粘贴一条命令即可完",
+    "source": "X：Berry Xia (@berryxia)",
+    "url": "https://x.com/berryxia/status/2055766210512560416",
+    "published_at": "2026-05-16T21:43:53.000Z",
     "category": "tip"
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "day_count": 23,
+  "day_count": 24,
   "history": [
     {
       "day": 20,
@@ -34,6 +34,13 @@
       "date": "2026-05-16",
       "topic": "研究人员利用Anthropic Mythos工具构建macOS内核漏洞，绕过苹果M5芯片内存完整性执行安全系统",
       "source": "X：Kim (@kimmonismus)",
+      "mode": "rss"
+    },
+    {
+      "day": 24,
+      "date": "2026-05-17",
+      "topic": "Grok Imagine图像生成功能正式发布",
+      "source": "X：Elon Musk (@elonmusk, xAI)",
       "mode": "rss"
     }
   ],
