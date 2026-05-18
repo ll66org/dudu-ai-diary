@@ -1,42 +1,42 @@
 [
   {
-    "title": "Grok Imagine图像生成功能正式发布",
-    "summary": "Grok Imagine\n现已正式发布\n所有人都可使用\n\n基于我们最新的文本到图像模型\n能够生成逼真、高质量的图像\n支持多种宽高比\n\n现在可在 X 上使用",
-    "source": "X：Elon Musk (@elonmusk, xAI)",
-    "url": "https://x.com/elonmusk/status/2055912040481599793",
-    "published_at": "2026-05-17T07:23:22.000Z",
+    "title": "腾讯 AI 设计智能体 Ardot 公测：一句话生成可编辑设计稿，一键转代码",
+    "summary": "腾讯云正式公测自研AI设计智能体平台Ardot。该平台核心功能包括：用户通过一句话指令即可生成App页面、官网、海报等可编辑设计稿；支持调用团队自有组件库生成规范稿，并能直接导入Figma文件保留原有设计。同时，Ardot具备设计稿一键转换为代码的能力，可对接CodeBuddy等开发工具实现代码还原。平台还提供多人在线",
+    "source": "IT之家（RSS）",
+    "url": "https://www.ithome.com/0/951/677.htm",
+    "published_at": "2026-05-18T02:43:58.000Z",
     "category": "ai-products"
   },
   {
-    "title": "手机端ChatGPT应用集成Codex构建功能",
-    "summary": "你可以在手机端通过ChatGPT应用中的Codex直接构建项目",
-    "source": "X：Greg Brockman (@gdb)",
-    "url": "https://x.com/gdb/status/2055882172884763012",
-    "published_at": "2026-05-17T05:24:41.000Z",
+    "title": "阿里云推出HappyHorse视频生成模型",
+    "summary": "电影级AI现已到来。🐎💨\n\nHappyHorse现已登陆Model Studio。从原始提示词到1080p多镜头现实感画面--在统一工作流中体验视频生成的未来。没有阻碍。只有纯粹性能。\n\n🔥 限时优惠：8折。观看演示并立即开始创作。\n\n立即访问：https：//int.alibabacloud.com/m/100041",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "url": "https://x.com/alibaba_cloud/status/2056182152681644176",
+    "published_at": "2026-05-18T01:16:41.000Z",
     "category": "ai-products"
   },
   {
-    "title": "微信读书Skill安装与使用指南",
-    "summary": "❤️\n\n【引用 @vista8】：微信读书Cli安装和配置教程。\n\n1. 官方指令，复制发给Codex或Claude Code\n\n下载 https：//cdn.weread.qq.com/skills/weread-skills.zip 安装 skill\n\n2. 或者用 X 上网友 @eviljer 做的优化版Skil",
-    "source": "X：Berry Xia (@berryxia)",
-    "url": "https://x.com/berryxia/status/2055865005271314528",
-    "published_at": "2026-05-17T04:16:28.000Z",
+    "title": "Hermes 可配置的国内外 AI 模型及使用方法",
+    "summary": "Hermes 支持配置多种国内外主流 AI 模型，包括 OpenAI GPT-5.5、xAI Grok-4.3、谷歌 Gemini 系列、DeepSeek V4 系列、智谱 GLM-5 系列、Kimi K2.6 以及小米 Mimo V2.5-pro。用户需通过相应服务的订阅或 API 进行配置，完成后可使用 /mode",
+    "source": "X：Vista (@vista8)",
+    "url": "https://x.com/vista8/status/2056170241147977741",
+    "published_at": "2026-05-18T00:29:21.000Z",
     "category": "tip"
   },
   {
-    "title": "Zerostack--一款采用纯Rust语言编写、受Unix启发的编程代理",
-    "summary": "Zerostack是一款采用纯Rust语言编写、受Unix哲学启发的编程代理工具，已正式发布1.0.0版本并在Rust包管理平台crates.io上提供。该发布在技术社区Hacker News上获得115点关注，反映出开发者对其的高度兴趣。Rust语言以内存安全和性能见称，Unix设计强调简洁与模块化，Zerostac",
-    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-    "url": "https://crates.io/crates/zerostack/1.0.0",
-    "published_at": "2026-05-17T00:46:13.673Z",
-    "category": "ai-products"
+    "title": "Anthropic Claude 5天攻破Apple M5 macOS内核漏洞：5年数十亿防线，被AI一举击穿",
+    "summary": "Anthropic的Claude Mythos Preview在5天内，协助安全团队Calif成功构建并演示了首个公开的、针对Apple M5芯片macOS内核的内存破坏提权利用链。该攻击绕过了苹果耗时5年、投入数十亿美元打造的MIE硬件级内存完整性防护，从普通用户权限通过纯数据操作即可获得root权限。苹果已在后续更",
+    "source": "X：Berry Xia (@berryxia)",
+    "url": "https://x.com/berryxia/status/2056043674446995887",
+    "published_at": "2026-05-17T16:06:26.000Z",
+    "category": "paper"
   },
   {
-    "title": "MagicPath与Codex深度整合，设计开发流程合二为一",
-    "summary": "MagicPath AI CEO @skirano 演示了其产品与Codex的深度整合。用户现可将MagicPath作为原生画布直接在Codex中运行，通过拖拽设计UI，Codex能实时感知项目并自动生成、编辑代码，实现设计与开发的无缝衔接，无需在Figma和IDE间切换。安装简便，只需在Codex中粘贴一条命令即可完",
-    "source": "X：Berry Xia (@berryxia)",
-    "url": "https://x.com/berryxia/status/2055766210512560416",
-    "published_at": "2026-05-16T21:43:53.000Z",
+    "title": "让 Codex 自己做了一条视频介绍了一下这个视频生成方案",
+    "summary": "该方案整合了藏师傅的PPT Skill（视觉与动效）、HyperFrames（时间线与渲染）、Listenhub Skill（配音）以及即梦CLI（补充片段）。核心在于，用户可通过Codex直接基于文本提示生成带动效的解释视频，并能在聊天界面内预览，极大提升了制作效率，特别适合产品介绍等视频内容。",
+    "source": "X：歸藏 (@op7418)",
+    "url": "https://x.com/op7418/status/2056021133477163298",
+    "published_at": "2026-05-17T14:36:51.000Z",
     "category": "tip"
   }
 ]

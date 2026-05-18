@@ -1,5 +1,5 @@
 {
-  "day_count": 24,
+  "day_count": 25,
   "history": [
     {
       "day": 20,
@@ -41,6 +41,13 @@
       "date": "2026-05-17",
       "topic": "Grok Imagine图像生成功能正式发布",
       "source": "X：Elon Musk (@elonmusk, xAI)",
+      "mode": "rss"
+    },
+    {
+      "day": 25,
+      "date": "2026-05-18",
+      "topic": "腾讯 AI 设计智能体 Ardot 公测：一句话生成可编辑设计稿，一键转代码",
+      "source": "IT之家（RSS）",
       "mode": "rss"
     }
   ],

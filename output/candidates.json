@@ -1,30 +1,84 @@
 [
   {
-    "title": "Show HN: GDD–36 MCP tools to run N isolated Chromium browsers from Claude/Cursor",
-    "summary": "<p>Article URL: <a href=\"https://github.com/Cap-of-tea/GDD\">https://github.com/Cap-of-tea/GDD</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48167299\">https://news.ycombinator.com/item?id=48167299</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://github.com/Cap-of-tea/GDD",
-    "published": "Sun, 17 May 2026 09:18:28 +0000",
+    "title": "Building a Solidarity Ecosystem for AI",
+    "summary": "<p>Article URL: <a href=\"https://ssir.org/articles/entry/artificial-intelligence-solidarity-ecosystem\">https://ssir.org/articles/entry/artificial-intelligence-solidarity-ecosystem</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48179664\">https://news.ycombinator.com/item?id=48179664</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://ssir.org/articles/entry/artificial-intelligence-solidarity-ecosystem",
+    "published": "Mon, 18 May 2026 13:32:30 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Team-memory – your team's shared brain, auto-built from Claude Code CLI or UI",
-    "summary": "<p>Article URL: <a href=\"https://github.com/AndrewSkea/team-memory\">https://github.com/AndrewSkea/team-memory</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48166634\">https://news.ycombinator.com/item?id=48166634</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
-    "url": "https://github.com/AndrewSkea/team-memory",
-    "published": "Sun, 17 May 2026 06:56:35 +0000",
+    "title": "Show HN: I built a marketplace where AI agents can hire humans (& other agents)",
+    "summary": "<p>Data is “the new oil” for AI.<p>What if you could “plug in” to an oil well, and get royalties forever whenever that well’s oil was used?<p>Right now, the people who build those datasets get paid once, if at all. There's no recurring model. The oil flows; the drillers move on.<p>Meanwhile, AI agents continue to improve… but at the end of the day, they’re “stuck behind a screen.” The smartest agent in the world still needs eyes, ears, and hands in the real world if it wants to accomplish \"real ",
+    "url": "https://gigiac.com/",
+    "published": "Mon, 18 May 2026 13:02:49 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Grok Imagine图像生成功能正式发布",
-    "summary": "Grok Imagine\n现已正式发布\n所有人都可使用\n\n基于我们最新的文本到图像模型\n能够生成逼真、高质量的图像\n支持多种宽高比\n\n现在可在 X 上使用",
-    "url": "https://x.com/elonmusk/status/2055912040481599793",
-    "published": "2026-05-17T07:23:22.000Z",
-    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "title": "腾讯 AI 设计智能体 Ardot 公测：一句话生成可编辑设计稿，一键转代码",
+    "summary": "腾讯云正式公测自研AI设计智能体平台Ardot。该平台核心功能包括：用户通过一句话指令即可生成App页面、官网、海报等可编辑设计稿；支持调用团队自有组件库生成规范稿，并能直接导入Figma文件保留原有设计。同时，Ardot具备设计稿一键转换为代码的能力，可对接CodeBuddy等开发工具实现代码还原。平台还提供多人在线实时评论、标注反馈和版本对比等协作功能，其微信小程序即将上线。",
+    "url": "https://www.ithome.com/0/951/677.htm",
+    "published": "2026-05-18T02:43:58.000Z",
+    "source": "IT之家（RSS）",
     "source_weight": "high",
     "category": "ai-products"
+  },
+  {
+    "title": "阿里云推出HappyHorse视频生成模型",
+    "summary": "电影级AI现已到来。🐎💨\n\nHappyHorse现已登陆Model Studio。从原始提示词到1080p多镜头现实感画面--在统一工作流中体验视频生成的未来。没有阻碍。只有纯粹性能。\n\n🔥 限时优惠：8折。观看演示并立即开始创作。\n\n立即访问：https：//int.alibabacloud.com/m/1000412936/",
+    "url": "https://x.com/alibaba_cloud/status/2056182152681644176",
+    "published": "2026-05-18T01:16:41.000Z",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "Hermes 可配置的国内外 AI 模型及使用方法",
+    "summary": "Hermes 支持配置多种国内外主流 AI 模型，包括 OpenAI GPT-5.5、xAI Grok-4.3、谷歌 Gemini 系列、DeepSeek V4 系列、智谱 GLM-5 系列、Kimi K2.6 以及小米 Mimo V2.5-pro。用户需通过相应服务的订阅或 API 进行配置，完成后可使用 /model 指令指定模型及提供者来切换对话模型，例如输入\"/model gpt-5.5 --provider openai-codex\"即可切换至对应模型。该功能方便用户根据需求灵活调用不同模型的优势。",
+    "url": "https://x.com/vista8/status/2056170241147977741",
+    "published": "2026-05-18T00:29:21.000Z",
+    "source": "X：Vista (@vista8)",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "Krea 2",
+    "summary": "<p>\n            An image model built for style control and moodboards\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/krea?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1149496?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/krea",
+    "published": "2026-05-17T21:49:16-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "M1 by Montage",
+    "summary": "<p>\n            Agentic UI that scales on demand\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/montage-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1149482?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/montage-3",
+    "published": "2026-05-17T21:05:57-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Anthropic Claude 5天攻破Apple M5 macOS内核漏洞：5年数十亿防线，被AI一举击穿",
+    "summary": "Anthropic的Claude Mythos Preview在5天内，协助安全团队Calif成功构建并演示了首个公开的、针对Apple M5芯片macOS内核的内存破坏提权利用链。该攻击绕过了苹果耗时5年、投入数十亿美元打造的MIE硬件级内存完整性防护，从普通用户权限通过纯数据操作即可获得root权限。苹果已在后续更新中修复漏洞并致谢。此事件标志着AI驱动的安全研究能力已能极速突破顶尖硬件防护，显著改变了攻防的速度与平衡。",
+    "url": "https://x.com/berryxia/status/2056043674446995887",
+    "published": "2026-05-17T16:06:26.000Z",
+    "source": "X：Berry Xia (@berryxia)",
+    "source_weight": "high",
+    "category": "paper"
+  },
+  {
+    "title": "让 Codex 自己做了一条视频介绍了一下这个视频生成方案",
+    "summary": "该方案整合了藏师傅的PPT Skill（视觉与动效）、HyperFrames（时间线与渲染）、Listenhub Skill（配音）以及即梦CLI（补充片段）。核心在于，用户可通过Codex直接基于文本提示生成带动效的解释视频，并能在聊天界面内预览，极大提升了制作效率，特别适合产品介绍等视频内容。",
+    "url": "https://x.com/op7418/status/2056021133477163298",
+    "published": "2026-05-17T14:36:51.000Z",
+    "source": "X：歸藏 (@op7418)",
+    "source_weight": "high",
+    "category": "tip"
   },
   {
     "title": "手机端ChatGPT应用集成Codex构建功能",
@@ -108,65 +162,11 @@
     "category": "tip"
   },
   {
-    "title": "智能体驱动系统Articraft实现3D资产生成自动化，开源万件数据集降低门槛",
-    "summary": "剑桥大学团队推出Articraft，这是一个由智能体驱动的编码系统，能全自动生成带关节、可运动的交互式3D资产。系统通过AI智能体自主编写代码、执行并接收物理反馈迭代优化，将以往需数日甚至数周的创作过程极大简化。团队同时开源了Articraft-10K数据集，包含超1万个物体，覆盖250个类别，所有资产均仿真就绪。此举显著降低了机器人训练和物理AI领域对高质量3D资产的数据门槛，为解决\"数据饥渴\"问题提供了高效的自动化方案。",
-    "url": "https://x.com/berryxia/status/2055444087684407505",
-    "published": "2026-05-16T00:23:53.000Z",
-    "source": "X：Berry Xia (@berryxia)",
-    "source_weight": "high",
-    "category": "paper"
-  },
-  {
-    "title": "Claude Code v2.1.143 版本更新：插件管理与用户体验增强",
-    "summary": "Claude Code 发布 v2.1.143 版本，重点增强了插件管理功能，包括强制执行插件依赖关系，并新增了插件市场的预估上下文成本显示。为方便直接编辑工作副本，增加了 `worktree.bgIsolation： \"none\"` 设置。多项体验得到改进：后台会话唤醒后保留模型与努力级别设置；Windows PowerShell 工具默认绕过执行策略；`claude agents` 命令新增多个参数以配置默认会话。此外，本次更新修复了大量错误，包括修复损坏的 `.credentials.json` 文件导致 CLI 启动卡住、Windows Terminal 中的右键粘贴问题、后台会话错误捕获 IDE 文件引用，以及 macOS 上后台作业读取特定目录文件的权限错误等。",
-    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.143",
-    "published": "2026-05-15T22:28:22.000Z",
-    "source": "Claude Code：GitHub Releases（RSS）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "英伟达CEO称技工前景优于计算机科学毕业生",
-    "summary": "英伟达CEO Jensen Huang在卡内基梅隆大学告诉2026届计算机科学毕业生，电工、水管工等技工比他们更有前景。数据支持这一观点：Randstad分析显示技工需求增长是白领职位的三倍，机器人技术员职位增长107%，而斯坦福研究发现AI相关职位早期就业下降16%。顶级电工年薪超10.6万美元，无需学位负债。科技公司今年投资7000亿美元建设数据中心，全球到2030年预计达7万亿美元，这些基础设施依赖人力完成，但制造业面临劳动力短缺，每100名新工人进入就有102人离开。AI时代最大赢家是能建设数据中心的技工，而非提示工程师。",
-    "url": "https://x.com/kimmonismus/status/2055403142913884288",
-    "published": "2026-05-15T21:41:11.000Z",
-    "source": "X：Kim (@kimmonismus)",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "AI助手Sai化身虚拟同事，自主完成深度研究",
-    "summary": "AI工具Sai被设计为拥有独立桌面的\"虚拟同事\"，而非仅提供聊天窗口。用户可向其下达\"深度研究某主题\"等指令后离线，Sai会在安全的工作空间内自主操作：打开标签页、点击应用、阅读并交叉引用资料、做笔记，其工作方式类似人类研究员。任务完成后，它会整理好引用来源，并在执行任何潜在风险操作前请求用户批准。这展示了\"始终在线\"的计算机使用代理的实际形态。",
-    "url": "https://x.com/kimmonismus/status/2055351198467911769",
-    "published": "2026-05-15T18:14:46.000Z",
-    "source": "X：Kim (@kimmonismus)",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
     "title": "Practical Interface Patterns For AI Transparency (Part 2)",
     "summary": "Why traditional loading patterns like spinners fail in agentic AI experiences, and how interface patterns that reveal the system’s process, status, and decision-making can improve transparency and build user trust.",
     "url": "https://smashingmagazine.com/2026/05/practical-interface-patterns-ai-transparency/",
     "published": "Wed, 13 May 2026 13:00:00 GMT",
     "source": "Smashing Magazine",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "What do you do if your best design work is a small project?",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/what-do-you-do-if-your-best-design-work-is-a-small-project-6d57e619d866?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*LSDuhhubPkxyC5SizquZSA.jpeg\" width=\"3024\" /></a></p><p class=\"medium-feed-snippet\">What 6 emojis can teach you about translating your impact</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/what-do-you-do-if-your-best-design-work-is-a-small-proj",
-    "url": "https://uxdesign.cc/what-do-you-do-if-your-best-design-work-is-a-small-project-6d57e619d866?source=rss----138adf9c44c---4",
-    "published": "Tue, 12 May 2026 22:14:34 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Low cortisol solution to big problems",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/low-cortisol-solution-to-big-problems-1b71f9f35ee8?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*qGTsZH9_MwX_egmL.jpg\" width=\"2600\" /></a></p><p class=\"medium-feed-snippet\">The strange details we only notice when we slow down.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/low-cortisol-solution-to-big-problems-1b71f9f35ee8?source=rss----138adf9c44c---4\">Conti",
-    "url": "https://uxdesign.cc/low-cortisol-solution-to-big-problems-1b71f9f35ee8?source=rss----138adf9c44c---4",
-    "published": "Tue, 12 May 2026 22:14:30 GMT",
-    "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
   },
@@ -180,10 +180,19 @@
     "category": "design_communities"
   },
   {
-    "title": "Can a typeface be safe?",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/can-a-typeface-be-safe-2e0720052013?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2000/0*s0pM-xh1N3SgzNJL.jpg\" width=\"2000\" /></a></p><p class=\"medium-feed-snippet\">How Volvo&#x2019;s typeface enhances safety for drivers</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/can-a-typeface-be-safe-2e0720052013?source=rss----138adf9c44c---4\">Continue reading on UX Collective",
-    "url": "https://uxdesign.cc/can-a-typeface-be-safe-2e0720052013?source=rss----138adf9c44c---4",
-    "published": "Thu, 14 May 2026 05:57:24 GMT",
+    "title": "How mobile apps are reshaping screening for cognitive decline",
+    "summary": "<h4>Design lessons learned from existing research</h4><figure><img alt=\"Three older adults sit together at a table reviewing paperwork. One woman points to a document while another writes on it, as a man watches and smiles nearby.\" src=\"https://cdn-images-1.medium.com/max/1024/0*uuG_jOVI-cxBq6z8\" /><figcaption>Photo by <a href=\"https://unsplash.com/@agecymru?utm_source=medium&amp;utm_medium=referral\">Age Cymru</a> on <a href=\"https://unsplash.com?utm_source=medium&amp;utm_medium=referral\">Unspla",
+    "url": "https://uxdesign.cc/how-mobile-apps-are-reshaping-screening-for-cognitive-decline-a26391fe3ae1?source=rss----138adf9c44c---4",
+    "published": "Sun, 17 May 2026 21:39:23 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Two gears, one compass: designing at velocity while sustaining quality",
+    "summary": "<h4>How to build an AI-augmented design practice by leaning on 2 mindset shifts</h4><figure><img alt=\"Psychedelic illustration of people reading leaflet over a record player\" src=\"https://cdn-images-1.medium.com/max/1024/1*fCjyltiHkps_d5F8ECKuVw.png\" /><figcaption>Illustration by <a href=\"https://dribbble.com/roberlan\">Roberlan Borges Paresqui</a></figcaption></figure><h3><strong>Design process isn’t dead — it’s conditional</strong></h3><p>The claim “the design process is dead” has become trendy",
+    "url": "https://uxdesign.cc/two-gears-one-compass-designing-at-velocity-while-sustaining-quality-a1b6597651a9?source=rss----138adf9c44c---4",
+    "published": "Sun, 17 May 2026 21:38:38 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
@@ -212,15 +221,6 @@
     "url": "https://uxdesign.cc/opening-your-place-to-the-street-cf6519afefca?source=rss----138adf9c44c---4",
     "published": "Sat, 16 May 2026 19:10:46 GMT",
     "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Ten Data-Backed Truths Of User Experience ROI",
-    "summary": "Every extra second of friction has a measurable business cost. Carrie Webster shares ten data-backed UX facts that link user experience directly to revenue, retention, and long-term growth.",
-    "url": "https://smashingmagazine.com/2026/05/data-backed-truths-user-experience-roi/",
-    "published": "Fri, 15 May 2026 10:00:00 GMT",
-    "source": "Smashing Magazine",
     "source_weight": "medium",
     "category": "design_communities"
   }
