@@ -1,5 +1,5 @@
 {
-  "day_count": 25,
+  "day_count": 26,
   "history": [
     {
       "day": 20,
@@ -48,6 +48,13 @@
       "date": "2026-05-18",
       "topic": "腾讯 AI 设计智能体 Ardot 公测：一句话生成可编辑设计稿，一键转代码",
       "source": "IT之家（RSS）",
+      "mode": "rss"
+    },
+    {
+      "day": 26,
+      "date": "2026-05-19",
+      "topic": "AI代理集成新方案：Membrane推出单一技能连接万种API",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
       "mode": "rss"
     }
   ],

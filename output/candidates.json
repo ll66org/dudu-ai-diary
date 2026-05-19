@@ -1,165 +1,219 @@
 [
   {
-    "title": "Building a Solidarity Ecosystem for AI",
-    "summary": "<p>Article URL: <a href=\"https://ssir.org/articles/entry/artificial-intelligence-solidarity-ecosystem\">https://ssir.org/articles/entry/artificial-intelligence-solidarity-ecosystem</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48179664\">https://news.ycombinator.com/item?id=48179664</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://ssir.org/articles/entry/artificial-intelligence-solidarity-ecosystem",
-    "published": "Mon, 18 May 2026 13:32:30 +0000",
+    "title": "Show HN: Circuit Breaker – runtime cost ceilings for AI agents",
+    "summary": "<p>Article URL: <a href=\"https://github.com/MonetiseBG/circuit-breaker\">https://github.com/MonetiseBG/circuit-breaker</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48193515\">https://news.ycombinator.com/item?id=48193515</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://github.com/MonetiseBG/circuit-breaker",
+    "published": "Tue, 19 May 2026 14:07:43 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Show HN: I built a marketplace where AI agents can hire humans (& other agents)",
-    "summary": "<p>Data is “the new oil” for AI.<p>What if you could “plug in” to an oil well, and get royalties forever whenever that well’s oil was used?<p>Right now, the people who build those datasets get paid once, if at all. There's no recurring model. The oil flows; the drillers move on.<p>Meanwhile, AI agents continue to improve… but at the end of the day, they’re “stuck behind a screen.” The smartest agent in the world still needs eyes, ears, and hands in the real world if it wants to accomplish \"real ",
-    "url": "https://gigiac.com/",
-    "published": "Mon, 18 May 2026 13:02:49 +0000",
+    "title": "The Two X's Problem: Why AI-designed brands feel like AI-designed brands",
+    "summary": "<p>Article URL: <a href=\"https://blog.codeyam.com/p/the-two-xs-problem\">https://blog.codeyam.com/p/the-two-xs-problem</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48193029\">https://news.ycombinator.com/item?id=48193029</a></p>\n<p>Points: 3</p>\n<p># Comments: 2</p>",
+    "url": "https://blog.codeyam.com/p/the-two-xs-problem",
+    "published": "Tue, 19 May 2026 13:24:17 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "腾讯 AI 设计智能体 Ardot 公测：一句话生成可编辑设计稿，一键转代码",
-    "summary": "腾讯云正式公测自研AI设计智能体平台Ardot。该平台核心功能包括：用户通过一句话指令即可生成App页面、官网、海报等可编辑设计稿；支持调用团队自有组件库生成规范稿，并能直接导入Figma文件保留原有设计。同时，Ardot具备设计稿一键转换为代码的能力，可对接CodeBuddy等开发工具实现代码还原。平台还提供多人在线实时评论、标注反馈和版本对比等协作功能，其微信小程序即将上线。",
-    "url": "https://www.ithome.com/0/951/677.htm",
-    "published": "2026-05-18T02:43:58.000Z",
-    "source": "IT之家（RSS）",
+    "title": "Show HN: I built a linter for undocumented linter warnings. AI hates me now",
+    "summary": "<p>You know the feeling? AI slaps a NOLINT instead of \"thinking\" for 5 seconds and \"realising\" it could do a 4-line refactor without adding a new suppression for the linter warning. Disgusted with this technology's narrowness, I usually say to it at that moment:<p>- WTF are you doin' bro?\n- \"You are right! ^^ ...\"<p>And at that moment I realise I've just irrevocably, regrettably lost 2 minutes of my life. Shame on you, Claude!<p>That's why I dedicated 2 months of my life to automate the thing (y",
+    "url": "https://github.com/BKDDFS/shamefile",
+    "published": "Tue, 19 May 2026 13:11:04 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "I tried every AI memory tool. Here's why I built another one",
+    "summary": "<p>Article URL: <a href=\"https://runmemento.com/blogs/i-tried-every-ai-memory-tool/\">https://runmemento.com/blogs/i-tried-every-ai-memory-tool/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48192662\">https://news.ycombinator.com/item?id=48192662</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "url": "https://runmemento.com/blogs/i-tried-every-ai-memory-tool/",
+    "published": "Tue, 19 May 2026 12:54:10 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "AI代理集成新方案：Membrane推出单一技能连接万种API",
+    "summary": "AI代理在实际应用中需为每个外部服务重复构建集成逻辑，成为其发展的主要瓶颈。针对此问题，Membrane推出了一种通用\"技能\"解决方案。通过该单一技能，Claude Code、ChatGPT、Cursor等主流AI代理能够用一条指令调用超过10万个不同的API，涵盖从Stripe支付服务到NASA火星车数据等各类服务。这极大简化了开发流程，将定制化集成转变为通用的连接能力，降低了使用门槛。同时，Membrane正发起社区挑战，鼓励用户提交小众API以获得演示和免费额度激励，旨在持续扩展其连接生态。",
+    "url": "https://x.com/rohanpaul_ai/status/2056728566780547168",
+    "published": "2026-05-19T13:27:57.000Z",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "毕马威与Anthropic建立全球联盟，全面整合Claude AI模型",
+    "summary": "毕马威宣布与Anthropic建立全球联盟，将Claude人工智能模型全面整合至其核心业务与数字平台。此举将向毕马威全球超过27.6万名员工开放Claude访问权限，并率先应用于税务与法律等领域的客户工具开发。双方还将合作开发面向私募股权投资组合公司及网络安全漏洞检测的新产品。毕马威强调此次合作基于其可信AI框架，旨在通过负责任、可治理的AI部署，加速企业数字化转型。",
+    "url": "https://www.anthropic.com/news/anthropic-kpmg",
+    "published": "2026-05-19T12:57:47.968Z",
+    "source": "Anthropic：Newsroom（网页）",
+    "source_weight": "high",
+    "category": "industry"
+  },
+  {
+    "title": "我真的要吹爆HTML！",
+    "summary": "作者通过向Claude Code提供精确的提示词，仅用2分钟就生成了一个功能完整的交互式HTML项目计划页面。该页面为单文件、无外部依赖，包含暗色主题、时间线、可折叠表格等丰富交互，可直接交付。相比过去在Notion中耗费30-40分钟制作模板，效率提升了近20倍。其核心在于使用明确的提示词来规范视觉、内容结构与交互细节，确保AI一次性交付完整产物。这充分展示了在AI时代，HTML作为轻量、高保真生产力工具的巨大潜力。",
+    "url": "https://x.com/AYi_AInotes/status/2056685348156055980",
+    "published": "2026-05-19T10:36:13.000Z",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "Claude智能体托管平台新增自托管沙箱与MCP隧道功能",
+    "summary": "Anthropic为其Claude智能体托管平台推出两项更新：自托管沙箱允许用户在自有基础设施或合作云平台上运行工具，确保敏感数据与服务保留在用户控制范围内；MCP隧道则通过轻量网关，使智能体能安全连接企业私有网络内的数据库与API，无需暴露于公网。目前沙箱功能已进入公测，隧道处于研究预览阶段。这两项更新进一步增强了企业用户对智能体执行环境与内部资源访问的安全管控能力。",
+    "url": "https://claude.com/blog/claude-managed-agents-updates",
+    "published": "2026-05-19T09:09:26.458Z",
+    "source": "Claude：Blog（网页）",
     "source_weight": "high",
     "category": "ai-products"
   },
   {
-    "title": "阿里云推出HappyHorse视频生成模型",
-    "summary": "电影级AI现已到来。🐎💨\n\nHappyHorse现已登陆Model Studio。从原始提示词到1080p多镜头现实感画面--在统一工作流中体验视频生成的未来。没有阻碍。只有纯粹性能。\n\n🔥 限时优惠：8折。观看演示并立即开始创作。\n\n立即访问：https：//int.alibabacloud.com/m/1000412936/",
-    "url": "https://x.com/alibaba_cloud/status/2056182152681644176",
-    "published": "2026-05-18T01:16:41.000Z",
+    "title": "地平线开源 HoloMotion-1 4 亿参数机器人小脑大模型，可实现舞蹈、健身、搬箱子等动作",
+    "summary": "地平线机器人实验室发布了其开源的人形机器人全身控制模型 HoloMotion-1。这是一个拥有 4 亿参数的\"小脑\"大模型，通过 MoE 稀疏激活与 KV-cache 推理机制，在端侧实现了约 300FPS 的实时推理能力。该模型利用互联网视频、光学动捕、VR 遥操作等多种来源的动作数据进行训练，并在真实机器人上成功展示了舞蹈、爬行、健身、搬箱子等复杂动作的零样本迁移能力。相关代码与技术报告已公开。",
+    "url": "https://www.ithome.com/0/952/354.htm",
+    "published": "2026-05-19T08:08:57.000Z",
+    "source": "IT之家（RSS）",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "Claude推出自托管沙箱与MCP隧道功能",
+    "summary": "来自Code with Claude伦敦现场：我们正在Claude Managed Agents中推出自托管沙箱（公测版）和MCP隧道（研究预览版）。\n在您自己的安全边界内运行代理，默认应用您的安全控制。",
+    "url": "https://x.com/claudeai/status/2056645485696315581",
+    "published": "2026-05-19T07:57:49.000Z",
+    "source": "X：Claude (@claudeai)",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "Kimi最新融资获国资与央企加注，估值半年翻四倍",
+    "summary": "月之暗面旗下AI助手Kimi正在进行20亿美元新融资，国智投、中国移动等国资机构及央企已加入股东名单，该轮融资已进入收尾阶段。今年1月和2月，Kimi已密集完成3轮融资，累计融资超39亿美元（约376亿元人民币），最新估值相比去年11月已翻4倍有余，成为大模型创业公司中融资最多的企业。产品层面，基于Kimi K2.5模型的Composer 2.5已集成至编程应用Cursor，公司近期也发布了开源模型Kimi K2.6。",
+    "url": "https://www.ithome.com/0/952/336.htm",
+    "published": "2026-05-19T07:39:15.000Z",
+    "source": "IT之家（RSS）",
+    "source_weight": "high",
+    "category": "industry"
+  },
+  {
+    "title": "Cursor 推出 Composer 2.5",
+    "summary": "Cursor 发布 Composer 2.5，这是其开发工具 Cursor 的更新版本，版本号从2.0迭代至2.5。此次更新提升了代码补全效率并引入协作功能，以优化开发体验。该发布在 Hacker News 上获得 100 个投票点，显示开发者社区对此次升级的关注。",
+    "url": "https://cursor.com/blog/composer-2-5",
+    "published": "2026-05-19T06:28:07.551Z",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "QoderWork推出Design Desk无限画布AI工作区",
+    "summary": "🎨 介绍QoderWork的Design Desk。一个将语言转化为可运行代码的无限画布AI工作区。\n💡 用自然语言描述你的需求--即可在无限画布上获得可运行的React + Vite项目。设计师迭代，开发者交付相同文件。无缝交接。\n⏬立即下载QoderWork\nhttps：//www.qoderwork.ai\n#AI #Qoder #QoderWork #DesignDesk",
+    "url": "https://x.com/alibaba_cloud/status/2056581373301788747",
+    "published": "2026-05-19T03:43:03.000Z",
     "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
     "source_weight": "high",
     "category": "ai-products"
   },
   {
-    "title": "Hermes 可配置的国内外 AI 模型及使用方法",
-    "summary": "Hermes 支持配置多种国内外主流 AI 模型，包括 OpenAI GPT-5.5、xAI Grok-4.3、谷歌 Gemini 系列、DeepSeek V4 系列、智谱 GLM-5 系列、Kimi K2.6 以及小米 Mimo V2.5-pro。用户需通过相应服务的订阅或 API 进行配置，完成后可使用 /model 指令指定模型及提供者来切换对话模型，例如输入\"/model gpt-5.5 --provider openai-codex\"即可切换至对应模型。该功能方便用户根据需求灵活调用不同模型的优势。",
-    "url": "https://x.com/vista8/status/2056170241147977741",
-    "published": "2026-05-18T00:29:21.000Z",
-    "source": "X：Vista (@vista8)",
+    "title": "Qwen3.7预览版登陆竞技场，阿里视觉排名升至第五",
+    "summary": "🚀🚀Qwen3.7预览版登陆竞技场！\n\n⚡️⚡️Qwen3.7-Plus-Preview来了。阿里巴巴现在在视觉领域排名第五。🎨\n\n迫不及待要发布Qwen3.7系列模型了！敬请期待！@arena",
+    "url": "https://x.com/alibaba_cloud/status/2056570869548478592",
+    "published": "2026-05-19T03:01:19.000Z",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "开源古代汉字视觉感知评估基准Chronicles-OCR",
+    "summary": "开源了评估视觉大语言模型（VLLM）对古代汉字视觉感知能力的基准测试Chronicles-OCR。该数据集覆盖了从甲骨文到草书的3000年演变历程，包含7种历史书体与2800张均衡图像。评估涵盖字形定位、细粒度识别、古代文本解析和字体分类四项核心任务，旨在探究视觉分布随时间的变化如何影响模型感知。相关论文与代码已开源。",
+    "url": "https://x.com/TencentHunyuan/status/2056567125205270882",
+    "published": "2026-05-19T02:46:26.000Z",
+    "source": "X：腾讯混元 (@TencentHunyuan)",
+    "source_weight": "high",
+    "category": "paper"
+  },
+  {
+    "title": "Cursor发布Composer 2.5模型，号称目前最强",
+    "summary": "Cursor正式推出Composer 2.5模型，宣称其为当前最强大的AI模型。该模型在智能性、长任务持续执行及复杂指令遵循等方面均有显著提升，并声称在同等能力下效率提升10倍。此次升级主要基于扩大训练规模、构建更复杂的强化学习环境以及引入文本反馈机制。值得注意的是，Composer 2.5的底层架构与Moonshot的Kimi K2.5同源。同时，Cursor正与SpaceXAI合作，计划用十倍算力训练下一代更大模型。未来一周内，该模型的包含用量将翻倍。",
+    "url": "https://x.com/berryxia/status/2056549740393947627",
+    "published": "2026-05-19T01:37:21.000Z",
+    "source": "X：Berry Xia (@berryxia)",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "Claude AI助手v2.1.144版本更新",
+    "summary": "Claude AI助手发布了v2.1.144版本。此次更新主要新增了对后台会话的`/resume`支持，并将\"extra usage\"更名为\"usage credits\"。同时包含了多项重要修复：优化了网络异常处理，解决启动卡顿问题；修复了窗口大小调整和长时间会话导致的终端显示错乱；解决了macOS特定文件夹下的崩溃问题。此外，还改进了模型选择持久化、文件读取、工具调用以及MCP服务器分页工具列表的处理，并减少了在VS Code中的渲染故障。本次更新显著提升了工具的稳定性和用户体验。",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.144",
+    "published": "2026-05-19T00:48:51.000Z",
+    "source": "Claude Code：GitHub Releases（RSS）",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "「开发日志」提示词：让AI编码决策可审计",
+    "summary": "针对AI协作编码中\"规格永难完整\"与\"决策无法追踪\"的核心矛盾，此提示词提出了第三条路径。它要求AI在实现需求时同步维护一份结构化文档，明确记录设计决策、对规格的偏离、考虑过的权衡以及待确认的开放性问题。这种方法的关键在于将AI执行过程中的隐性判断显式化、文档化，从而让Code Review可直接对照决策笔记，而非逆向工程代码。它不仅降低了模型的过度澄清倾向，更通过提供结构化产物，建立了一种可审计、可协作的人机开发新范式。",
+    "url": "https://x.com/shao__meng/status/2056535561540948056",
+    "published": "2026-05-19T00:41:01.000Z",
+    "source": "X：邵猛 (@shao__meng)",
     "source_weight": "high",
     "category": "tip"
   },
   {
-    "title": "Krea 2",
-    "summary": "<p>\n            An image model built for style control and moodboards\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/krea?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1149496?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/krea",
-    "published": "2026-05-17T21:49:16-07:00",
+    "title": "Claude Design大升级：Token限制翻倍",
+    "summary": "Anthropic宣布Claude Design所有计划的Token限制翻倍。这解决了以往在处理完整UI设计、多页设计稿或复杂Agent工作流时频繁出现的token不足问题。翻倍后的空间显著提升了连续创作的体验，让该工具在vibe coding、原型制作等任务中实用性大增，从\"能用\"跃升至\"真香\"。这体现了Anthropic为提升竞争力而对创作工具的持续优化。",
+    "url": "https://x.com/berryxia/status/2056525311635026398",
+    "published": "2026-05-19T00:00:17.000Z",
+    "source": "X：Berry Xia (@berryxia)",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "Thinnest AI",
+    "summary": "<p>\n            Build Voice AI Agents in 100+ languages for ₹1.5/min\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/thinnest-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1150406?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/thinnest-ai",
+    "published": "2026-05-18T22:09:58-07:00",
     "source": "Product Hunt",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "M1 by Montage",
-    "summary": "<p>\n            Agentic UI that scales on demand\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/montage-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1149482?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/montage-3",
-    "published": "2026-05-17T21:05:57-07:00",
+    "title": "Composer 2.5",
+    "summary": "<p>\n            Cursor’s most powerful model yet\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/cursor?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1150337?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/cursor",
+    "published": "2026-05-18T19:39:57-07:00",
     "source": "Product Hunt",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Anthropic Claude 5天攻破Apple M5 macOS内核漏洞：5年数十亿防线，被AI一举击穿",
-    "summary": "Anthropic的Claude Mythos Preview在5天内，协助安全团队Calif成功构建并演示了首个公开的、针对Apple M5芯片macOS内核的内存破坏提权利用链。该攻击绕过了苹果耗时5年、投入数十亿美元打造的MIE硬件级内存完整性防护，从普通用户权限通过纯数据操作即可获得root权限。苹果已在后续更新中修复漏洞并致谢。此事件标志着AI驱动的安全研究能力已能极速突破顶尖硬件防护，显著改变了攻防的速度与平衡。",
-    "url": "https://x.com/berryxia/status/2056043674446995887",
-    "published": "2026-05-17T16:06:26.000Z",
-    "source": "X：Berry Xia (@berryxia)",
+    "title": "Run Claude Managed Agents with Vercel Sandbox",
+    "summary": "<p>You can now run <a href=\"https://platform.claude.com/docs/en/managed-agents/overview\">Claude Managed Agents</a> with <a href=\"https://vercel.com/docs/vercel-sandbox\">Vercel Sandbox</a>.</p><p>Claude Managed Agents handles the model, harness, tools, and session state. Self-hosting lets you bring the execution environment, so an agent's tool calls run on your existing Vercel infrastructure with your private APIs, internal services, and customer data.</p><p>Each agent session runs in its own iso",
+    "url": "https://vercel.com/changelog/run-claude-managed-agents-with-vercel-sandbox",
+    "published": "",
+    "source": "Vercel Blog (v0)",
     "source_weight": "high",
-    "category": "paper"
+    "category": "design_tools"
   },
   {
-    "title": "让 Codex 自己做了一条视频介绍了一下这个视频生成方案",
-    "summary": "该方案整合了藏师傅的PPT Skill（视觉与动效）、HyperFrames（时间线与渲染）、Listenhub Skill（配音）以及即梦CLI（补充片段）。核心在于，用户可通过Codex直接基于文本提示生成带动效的解释视频，并能在聊天界面内预览，极大提升了制作效率，特别适合产品介绍等视频内容。",
-    "url": "https://x.com/op7418/status/2056021133477163298",
-    "published": "2026-05-17T14:36:51.000Z",
-    "source": "X：歸藏 (@op7418)",
+    "title": "Consolidated Commit Status now available on GitHub",
+    "summary": "<p>Monorepos can now opt in to a single, consolidated commit status on pull requests instead of one commit status per project. For repos with many projects, teams can configure GitHub branch protection once, then manage which Vercel projects are required for merge in each project’s settings.</p><p>Read more about <a href=\"https://vercel-docs-git-docs-gh-commit-status.vercel.sh/docs/git/vercel-for-github#commit-status\">Github Commit statuses</a> and and enable Consolidated Commit Status from your",
+    "url": "https://vercel.com/changelog/consolidated-commit-status-now-available-for-github",
+    "published": "",
+    "source": "Vercel Blog (v0)",
     "source_weight": "high",
-    "category": "tip"
+    "category": "design_tools"
   },
   {
-    "title": "手机端ChatGPT应用集成Codex构建功能",
-    "summary": "你可以在手机端通过ChatGPT应用中的Codex直接构建项目",
-    "url": "https://x.com/gdb/status/2055882172884763012",
-    "published": "2026-05-17T05:24:41.000Z",
-    "source": "X：Greg Brockman (@gdb)",
+    "title": "Firewall‑mitigated traffic is free on Vercel",
+    "summary": "<p>Vercel Firewall now waives CDN Requests and Fast Data Transfer for any traffic denied, challenged, or rate‑limited by Web Application Firewall (WAF). </p><p>Vercel has always provided unlimited DDoS mitigation at no cost. Vercel WAF, included in CDN cost, gives you custom rules, managed rules, and rate limiting for bad traffic that isn't DDoS. With this change, you don't pay for requests or bandwidth that WAF denies, challenges, or rate‑limits. </p><p>That means no surprise bill when a scrape",
+    "url": "https://vercel.com/changelog/web-application-firewall-mitigated-traffic-is-free-on-vercel",
+    "published": "",
+    "source": "Vercel Blog (v0)",
     "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "微信读书Skill安装与使用指南",
-    "summary": "❤️\n\n【引用 @vista8】：微信读书Cli安装和配置教程。\n\n1. 官方指令，复制发给Codex或Claude Code\n\n下载 https：//cdn.weread.qq.com/skills/weread-skills.zip 安装 skill\n\n2. 或者用 X 上网友 @eviljer 做的优化版Skill\n\nnpx skills add jerlinn/jerlin-weread\n\n3. 如果需要API key，访问微信官方这个页面获取\nhttps：//weread.qq.com/r/weread-skills\n\n4. 使用案例\n\n直接跟AI说：\"调用微信读书skill 查看被讨厌勇气的高亮划线\"",
-    "url": "https://x.com/berryxia/status/2055865005271314528",
-    "published": "2026-05-17T04:16:28.000Z",
-    "source": "X：Berry Xia (@berryxia)",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "Zerostack--一款采用纯Rust语言编写、受Unix启发的编程代理",
-    "summary": "Zerostack是一款采用纯Rust语言编写、受Unix哲学启发的编程代理工具，已正式发布1.0.0版本并在Rust包管理平台crates.io上提供。该发布在技术社区Hacker News上获得115点关注，反映出开发者对其的高度兴趣。Rust语言以内存安全和性能见称，Unix设计强调简洁与模块化，Zerostack结合两者优势，旨在提升编程效率，为代码辅助领域带来新选择。",
-    "url": "https://crates.io/crates/zerostack/1.0.0",
-    "published": "2026-05-17T00:46:13.673Z",
-    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "MagicPath与Codex深度整合，设计开发流程合二为一",
-    "summary": "MagicPath AI CEO @skirano 演示了其产品与Codex的深度整合。用户现可将MagicPath作为原生画布直接在Codex中运行，通过拖拽设计UI，Codex能实时感知项目并自动生成、编辑代码，实现设计与开发的无缝衔接，无需在Figma和IDE间切换。安装简便，只需在Codex中粘贴一条命令即可完成配置。此举将\"设计-开发-迭代\"流程整合于单一窗口，显著缩短了从创意到可运行应用的距离。",
-    "url": "https://x.com/berryxia/status/2055766210512560416",
-    "published": "2026-05-16T21:43:53.000Z",
-    "source": "X：Berry Xia (@berryxia)",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "最新开源成果（#21）：开源模型盛宴！Gemma 4、DeepSeek V4、Kimi K2.6、MiMo 2.5、GLM-5.1 等。基于CAISI的V4评估。",
-    "summary": "本月开源AI模型领域迎来密集发布，包括Gemma 4、DeepSeek V4、Kimi K2.6、MiMo 2.5和GLM-5.1等一系列重要新版本。这些模型均在CAISI的V4评估框架下进行了性能评测。多个团队几乎同期推出旗舰级更新，反映出开源社区当前高速迭代的竞争态势。",
-    "url": "https://www.interconnects.ai/p/latest-open-artifacts-21-open-model",
-    "published": "2026-05-16T17:00:11.000Z",
-    "source": "Nathan Lambert：Interconnects（RSS）",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "Ring-2.6-1T开源并上线OpenRouter，专为智能体工作流设计",
-    "summary": "Ring-2.6-1T模型现已开源，并上线OpenRouter平台，5月底前享有75%折扣。该模型由AntLingAGI开发，是一个为现实世界智能体构建的万亿级推理模型，其核心设计目标不仅是回答问题，更是执行任务。它专注于规划步骤、使用工具、维持上下文和完成复杂工作流，具备强大的智能体执行能力和高推理模式，并采用了Async RL与IcePop训练方法。",
-    "url": "https://x.com/AntLingAGI/status/2055681163033997815",
-    "published": "2026-05-16T16:05:56.000Z",
-    "source": "X：蚂蚁百灵 (@AntLingAGI)",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "SANA-WM：一个用于生成1分钟720p视频的26亿级开源世界模型",
-    "summary": "NVIDIA研究团队发布了SANA-WM，这是一个参数规模达26亿的开源世界模型，专门用于生成长达1分钟、分辨率为720p的视频。该模型已在GitHub页面开源，旨在推动高质量长视频生成的研发。其在Hacker News社区获得了107点热度，显示出业界对该技术进展的关注。",
-    "url": "https://nvlabs.github.io/Sana/WM",
-    "published": "2026-05-16T15:25:59.778Z",
-    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "Δ-Mem：适用于大型语言模型的高效在线内存",
-    "summary": "研究人员提出了Δ-Mem，一种专为大型语言模型设计的高效在线内存系统。该系统通过仅存储和更新模型激活的增量变化，而非完整的激活状态，显著降低了内存占用。实验表明，Δ-Mem能将内存使用量减少高达70%，同时保持模型输出的质量基本无损。这一方法有助于在资源受限的环境中部署和运行大规模语言模型，提升其在线推理和持续学习场景下的可行性。",
-    "url": "https://arxiv.org/abs/2605.12357",
-    "published": "2026-05-16T13:49:59.872Z",
-    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-    "source_weight": "high",
-    "category": "paper"
-  },
-  {
-    "title": "Anthropic《Founder's Playbook》：AI提高创业失败率的警示",
-    "summary": "Anthropic发布内部手册《Founder's Playbook》，核心观点是AI（如Claude Code）将提高创业失败率，而非降低。手册指出，AI能快速生成原型，易使创始人混淆\"能运行\"与\"有市场需求\"，并通过确认偏误和研究引擎强化错误想法。它将创业分为Idea、MVP、Launch、Scale四阶段，剖析AI放大的风险：如原型不等于验证、Agentic技术债、创始人成为决策瓶颈等。最终结论是，AI极大降低执行成本，使得判断力成为最稀缺资源，真正护城河在于将垂直领域知识结构化沉淀为专属Skills。",
-    "url": "https://x.com/berryxia/status/2055635826462130227",
-    "published": "2026-05-16T13:05:47.000Z",
-    "source": "X：Berry Xia (@berryxia)",
-    "source_weight": "high",
-    "category": "tip"
+    "category": "design_tools"
   },
   {
     "title": "Practical Interface Patterns For AI Transparency (Part 2)",
@@ -167,60 +221,6 @@
     "url": "https://smashingmagazine.com/2026/05/practical-interface-patterns-ai-transparency/",
     "published": "Wed, 13 May 2026 13:00:00 GMT",
     "source": "Smashing Magazine",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "The one-dimensional pipe between two high-dimensional minds",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-one-dimensional-pipe-between-two-high-dimensional-minds-7bc81c49627e?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*BaYlAoeVq4OIucPC9spiWQ.jpeg\" width=\"3500\" /></a></p><p class=\"medium-feed-snippet\">On AI, prompts, and the strange new asymmetry between two high-dimensional minds</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/the-one-dimensional-pipe-betwee",
-    "url": "https://uxdesign.cc/the-one-dimensional-pipe-between-two-high-dimensional-minds-7bc81c49627e?source=rss----138adf9c44c---4",
-    "published": "Thu, 14 May 2026 23:03:44 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "How mobile apps are reshaping screening for cognitive decline",
-    "summary": "<h4>Design lessons learned from existing research</h4><figure><img alt=\"Three older adults sit together at a table reviewing paperwork. One woman points to a document while another writes on it, as a man watches and smiles nearby.\" src=\"https://cdn-images-1.medium.com/max/1024/0*uuG_jOVI-cxBq6z8\" /><figcaption>Photo by <a href=\"https://unsplash.com/@agecymru?utm_source=medium&amp;utm_medium=referral\">Age Cymru</a> on <a href=\"https://unsplash.com?utm_source=medium&amp;utm_medium=referral\">Unspla",
-    "url": "https://uxdesign.cc/how-mobile-apps-are-reshaping-screening-for-cognitive-decline-a26391fe3ae1?source=rss----138adf9c44c---4",
-    "published": "Sun, 17 May 2026 21:39:23 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Two gears, one compass: designing at velocity while sustaining quality",
-    "summary": "<h4>How to build an AI-augmented design practice by leaning on 2 mindset shifts</h4><figure><img alt=\"Psychedelic illustration of people reading leaflet over a record player\" src=\"https://cdn-images-1.medium.com/max/1024/1*fCjyltiHkps_d5F8ECKuVw.png\" /><figcaption>Illustration by <a href=\"https://dribbble.com/roberlan\">Roberlan Borges Paresqui</a></figcaption></figure><h3><strong>Design process isn’t dead — it’s conditional</strong></h3><p>The claim “the design process is dead” has become trendy",
-    "url": "https://uxdesign.cc/two-gears-one-compass-designing-at-velocity-while-sustaining-quality-a1b6597651a9?source=rss----138adf9c44c---4",
-    "published": "Sun, 17 May 2026 21:38:38 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Should we be kind to machines (for our own sake, really)?",
-    "summary": "<h4><em>We know AI isn’t conscious. We know it has no feelings, no preferences, no skin in the game. We say “please” and “thank you” anyway.</em></h4><figure><img alt=\"Two speech bubbles overlapping. One is large, terracotta and rounded with a wavy texture inside. The other is smaller, cream-coloured, angular and geometric. Both are outlined in navy on a pale grey background.\" src=\"https://cdn-images-1.medium.com/max/1024/1*E1cjITdSdZLaJlQQgUIuDw.png\" /><figcaption>The machine’s half of the conv",
-    "url": "https://uxdesign.cc/should-we-be-kind-to-machines-for-our-own-sake-really-26acf222af29?source=rss----138adf9c44c---4",
-    "published": "Sat, 16 May 2026 19:11:51 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "How to write a DESIGN.md file Claude can actually use",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/how-to-write-a-design-md-file-claude-can-actually-use-2d89d183f823?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*Pu4j11iI1GWB5kCNfLbCfQ.png\" width=\"4800\" /></a></p><p class=\"medium-feed-snippet\">Your DESIGN.md should tell a story of your product</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/how-to-write-a-design-md-file-claude-can-actually-use-2d89d183f823?s",
-    "url": "https://uxdesign.cc/how-to-write-a-design-md-file-claude-can-actually-use-2d89d183f823?source=rss----138adf9c44c---4",
-    "published": "Sat, 16 May 2026 19:11:22 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Opening your place to the street",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/opening-your-place-to-the-street-cf6519afefca?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1497/1*bBweZM9VrHRYLChi5N5nnw.png\" width=\"1497\" /></a></p><p class=\"medium-feed-snippet\">On opening a channel to the upstream conversation &#x2500; notes for designers thinking through the age of AI</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/opening-your-place-to-the-stre",
-    "url": "https://uxdesign.cc/opening-your-place-to-the-street-cf6519afefca?source=rss----138adf9c44c---4",
-    "published": "Sat, 16 May 2026 19:10:46 GMT",
-    "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
   }
