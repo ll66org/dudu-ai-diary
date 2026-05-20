@@ -1,5 +1,5 @@
 {
-  "day_count": 26,
+  "day_count": 27,
   "history": [
     {
       "day": 20,
@@ -55,6 +55,13 @@
       "date": "2026-05-19",
       "topic": "AI代理集成新方案：Membrane推出单一技能连接万种API",
       "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "mode": "rss"
+    },
+    {
+      "day": 27,
+      "date": "2026-05-20",
+      "topic": "在OpenClaw中使用Grok",
+      "source": "xAI：News（网页）",
       "mode": "rss"
     }
   ],
