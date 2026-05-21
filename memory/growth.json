@@ -1,5 +1,5 @@
 {
-  "day_count": 27,
+  "day_count": 28,
   "history": [
     {
       "day": 20,
@@ -62,6 +62,13 @@
       "date": "2026-05-20",
       "topic": "在OpenClaw中使用Grok",
       "source": "xAI：News（网页）",
+      "mode": "rss"
+    },
+    {
+      "day": 28,
+      "date": "2026-05-21",
+      "topic": "游戏开发门槛被AI大幅降低",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
       "mode": "rss"
     }
   ],

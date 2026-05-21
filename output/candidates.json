@@ -1,55 +1,181 @@
 [
   {
-    "title": "Samaris OS: A Bootable Linux-Based OS with React UI, Rust Daemons and Local AI",
-    "summary": "<p>Article URL: <a href=\"https://github.com/btkhaled/SamarisOSMountainLake\">https://github.com/btkhaled/SamarisOSMountainLake</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48207826\">https://news.ycombinator.com/item?id=48207826</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://github.com/btkhaled/SamarisOSMountainLake",
-    "published": "Wed, 20 May 2026 13:53:18 +0000",
+    "title": "A Design Skill for Claude Code, Cursor, and Codex",
+    "summary": "<p>Article URL: <a href=\"https://www.usehallmark.com/\">https://www.usehallmark.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48223009\">https://news.ycombinator.com/item?id=48223009</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "url": "https://www.usehallmark.com/",
+    "published": "Thu, 21 May 2026 14:17:35 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "AI Makes Mistakes; Process Design Matters More",
-    "summary": "<p>Article URL: <a href=\"https://medium.com/@olowu.marydan/ai-makes-mistakes-that-means-process-design-matters-more-than-ever-980097b68f2a\">https://medium.com/@olowu.marydan/ai-makes-mistakes-that-means-process-design-matters-more-than-ever-980097b68f2a</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48207569\">https://news.ycombinator.com/item?id=48207569</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
-    "url": "https://medium.com/@olowu.marydan/ai-makes-mistakes-that-means-process-design-matters-more-than-ever-980097b68f2a",
-    "published": "Wed, 20 May 2026 13:38:46 +0000",
+    "title": "Show HN: We dropped Go for Rust in our real-time telephony AI media plane",
+    "summary": "<p>In building Vivik, an execution-grade telephony AI engine, we faced a brutal constraint: the human conversational loop.<p>In psychoacoustics, a delay under 250 ms feels instantaneous. At 500 ms, users notice lag. Beyond 800 ms, conversations start feeling strained, and by 1.5 seconds, the illusion of real-time interaction collapses.<p>That creates an extremely tight latency budget for voice AI:<p>• Network RTT: 50–200 ms\n• LLM inference: 200–800 ms\n• TTS synthesis: 100–400 ms\n• ASR processing",
+    "url": "https://news.ycombinator.com/item?id=48222268",
+    "published": "Thu, 21 May 2026 13:27:27 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "LLM INQUISITOR: Evaluating how AI models handle long, realistic tasks",
-    "summary": "<p>Article URL: <a href=\"https://github.com/AssimilatedHuman/LLM-Inquisitor\">https://github.com/AssimilatedHuman/LLM-Inquisitor</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48207330\">https://news.ycombinator.com/item?id=48207330</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://github.com/AssimilatedHuman/LLM-Inquisitor",
-    "published": "Wed, 20 May 2026 13:24:32 +0000",
+    "title": "Show HN: Aisbf, a self-hostable OpenAI-compatible AI proxy/router",
+    "summary": "<p>AISBF is a self-hostable AI proxy/router that exposes an OpenAI-compatible API while letting you route across different providers and model pools.<p>I built it to make multi-provider AI setups less chaotic: centralize access, add routing/failover/caching, support multi-user setups, and make it easier to scale from a small deployment to clustered infrastructure.<p>Happy to answer questions about architecture, routing logic, tradeoffs, and where it differs from simpler proxy layers.</p>\n<hr />\n",
+    "url": "https://aisbf.cloud/",
+    "published": "Thu, 21 May 2026 13:05:38 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Josef Müller-Brockmann: the father of the grid system in graphic design",
-    "summary": "<p>Article URL: <a href=\"https://moelsandco.com/stories/josef-muller-brockmann-a-pioneer-of-swiss-graphic-design\">https://moelsandco.com/stories/josef-muller-brockmann-a-pioneer-of-swiss-graphic-design</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48206770\">https://news.ycombinator.com/item?id=48206770</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://moelsandco.com/stories/josef-muller-brockmann-a-pioneer-of-swiss-graphic-design",
-    "published": "Wed, 20 May 2026 12:43:51 +0000",
+    "title": "Ask HN: Does anyone believe role-play AI is effective for training?",
+    "summary": "<p>We built Socratize, an AI-based training tool where employees practice real workplace scenarios instead of watching videos or taking quizzes.<p>Most corporate training is passive. People watch content, click through slides, pass a quiz, and forget most of it within days.<p>We wanted to try a different approach: learning through dialogue and repetition.<p>With Socratize, users enter realistic scenarios and have to respond to an AI “counterparty”.<p>For example:<p>A sales rep practices handling",
+    "url": "https://news.ycombinator.com/item?id=48221788",
+    "published": "Thu, 21 May 2026 12:46:47 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "I built an AI course creator",
-    "summary": "<p>Article URL: <a href=\"https://www.coursebox.ai\">https://www.coursebox.ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48206647\">https://news.ycombinator.com/item?id=48206647</a></p>\n<p>Points: 1</p>\n<p># Comments: 3</p>",
-    "url": "https://www.coursebox.ai",
-    "published": "Wed, 20 May 2026 12:31:24 +0000",
+    "title": "Lovable's AI built a 100% accessible site – or did it?",
+    "summary": "<p>Article URL: <a href=\"https://axesslab.com/lovable/\">https://axesslab.com/lovable/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48221739\">https://news.ycombinator.com/item?id=48221739</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://axesslab.com/lovable/",
+    "published": "Thu, 21 May 2026 12:42:57 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "在OpenClaw中使用Grok",
-    "summary": "5月22日，xAI宣布，其用户现可在开源个人助理OpenClaw中直接使用Grok模型。所有持有SuperGrok或X Premium订阅的用户均可使用该功能。OpenClaw是一个开源的、本地优先的智能助手，可在多种硬件上运行并保持跨会话记忆，同时能接入WhatsApp、Telegram等多款主流通讯平台。用户通过简单安装和登录，即可在自有设备上运行OpenClaw，并通过其界面或关联的聊天工具与Grok交互。此举进一步扩展了Grok的应用场景，未来还将推出更多开源代理与集成支持。",
-    "url": "https://x.ai/news/grok-openclaw",
-    "published": "2026-05-22T00:00:00.000Z",
-    "source": "xAI：News（网页）",
+    "title": "Designing a AI Access Layer for Systems of Record",
+    "summary": "<p>Article URL: <a href=\"https://mev.com/blog/designing-a-ai-access-layer-for-systems-of-record-a-case-study-in-team-capacity-planning\">https://mev.com/blog/designing-a-ai-access-layer-for-systems-of-record-a-case-study-in-team-capacity-planning</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48221624\">https://news.ycombinator.com/item?id=48221624</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+    "url": "https://mev.com/blog/designing-a-ai-access-layer-for-systems-of-record-a-case-study-in-team-capacity-planning",
+    "published": "Thu, 21 May 2026 12:33:18 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "游戏开发门槛被AI大幅降低",
+    "summary": "Grok展示了AI深度介入游戏开发的全新工作流。通过\"提示词生成角色图→图片转动画视频→自动拼接成Spritesheet→导入引擎\"四步流程，将传统需要美术与动画师耗时数天的工作，在几分钟内完成。这标志着AI不再仅生成静态内容，而是能实时生成可直接导入Unity或Godot等游戏引擎的可运行资产。该技术极大压缩了游戏原型的迭代周期，将反馈循环从\"天\"缩短至\"秒\"，使得独立开发者也能快速实现创意，显著降低了游戏创作的门槛。",
+    "url": "https://x.com/AYi_AInotes/status/2057371332359201103",
+    "published": "2026-05-21T08:02:04.000Z",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "Intuit将裁员逾3000人，以重新聚焦人工智能",
+    "summary": "软件公司Intuit宣布将裁员超过3000人，作为其战略重组的一部分。此次裁员旨在将公司资源重新聚焦于人工智能（AI）领域的发展，以适应技术趋势并提升长期竞争力。裁员规模约占其全球员工总数的10%。",
+    "url": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai",
+    "published": "2026-05-21T04:35:50.680Z",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "source_weight": "high",
+    "category": "industry"
+  },
+  {
+    "title": "首部100%AI生成电影亮相戛纳，剑指2026院线",
+    "summary": "AI电影项目RAPHAEL在戛纳亮相。该片由Mateo AI Studio与韩国MBC C&I的AI内容实验室联合开发，全程使用Kling AI视频模型进行制作，旨在实现独特的视觉效果与差异化的观影体验。项目计划于2026年登陆院线，其大规模制作旨在证明纯AI电影制作的工业可行性，标志着AI原生院线电影新趋势的开端。",
+    "url": "https://x.com/Kling_ai/status/2057295321831539054",
+    "published": "2026-05-21T03:00:02.000Z",
+    "source": "X：可灵 Kling AI (@Kling_ai)",
+    "source_weight": "high",
+    "category": "industry"
+  },
+  {
+    "title": "商汤连续十年领跑中国计算机视觉市场",
+    "summary": "商汤科技被IDC连续十年评为中国计算机视觉市场第一。其关键驱动因素包括：主导推进CV 2.0架构演进，原生嵌入生成式AI能力；海外市场扩展至12个国际区域，服务超500家企业客户并保持高留存率；以年度经常性收入增长为锚点实现盈利性增长；并从项目制交付转型为高度可扩展的AI平台。这一十年市场领导地位为其引领计算机视觉与生成式AI的融合浪潮奠定了基础。",
+    "url": "https://x.com/SenseTime_AI/status/2057289342654300586",
+    "published": "2026-05-21T02:36:16.000Z",
+    "source": "X：商汤 SenseTime (@SenseTime_AI)",
+    "source_weight": "high",
+    "category": "industry"
+  },
+  {
+    "title": "Grok Build现已登陆OpenCode平台",
+    "summary": "Grok Build现已在OpenCode中可用",
+    "url": "https://x.com/opencode/status/2057248292904296772",
+    "published": "2026-05-20T23:53:09.000Z",
+    "source": "X：opencode (@opencode)",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "Google Stitch更新：AI设计助手实现全流程构建",
+    "summary": "Google推出了其AI设计伙伴Stitch的多项重要更新。新功能支持实时流式构建设计，允许用户在不中断流程的情况下直接进行编辑和互动反馈。Stitch现已能够导入现有代码库或Design.md文件，基于实际生产组件进行设计以保持品牌一致性。同时，工具新增了动态界面生成功能，并可将设计项目直接导出为可分享的线上URL，简化了从原型到生产的部署流程。该工具现已面向全球用户开放。",
+    "url": "https://x.com/googleaidevs/status/2057209295763300785",
+    "published": "2026-05-20T21:18:11.000Z",
+    "source": "X：Google AI for Developers (@googleaidevs)",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "OpenClaw 2026.5.19版本发布",
+    "summary": "OpenClaw 2026.5.19 🦞\n\n📱 Android Talk Mode 实现实时化\n🍎 Mac 设置界面更清爽\n🔐 xAI 登录支持无头模式\n🧵 Telegram 话题功能更稳定\n\n大版本更新，简短公告。\nhttps：//github.com/openclaw/openclaw/releases/tag/v2026.5.19",
+    "url": "https://x.com/openclaw/status/2057202955581809093",
+    "published": "2026-05-20T20:53:00.000Z",
+    "source": "X：OpenClaw (@openclaw)",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "ZCube：超大规模大模型推理的网络优化",
+    "summary": "针对超大规模大模型推理，ZCube网络架构通过取消Spine层、将Leaf交换机分组并全互联等创新设计，有效解决了推理网络的拥塞问题。该架构在集群实测中，实现了交换机与光模块资本支出减少33%、GPU平均推理吞吐提升15%，同时将首token延迟的P99值大幅降低40.6%，在降低成本的同时显著提升了推理性能。",
+    "url": "https://www.zhipuai.cn/zh/research/160",
+    "published": "2026-05-20T19:51:00.000Z",
+    "source": "智谱：研究（网页内嵌数据）",
+    "source_weight": "high",
+    "category": "paper"
+  },
+  {
+    "title": "AlliHat",
+    "summary": "<p>\n            Claude AI in your Safari sidebar\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/allihat?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1152138?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/allihat",
+    "published": "2026-05-20T18:40:49-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Gemini与XPRIZE联合举办全球黑客松",
+    "summary": "用Gemini构建，改变世界🌍\n\n我们正与@xprize合作，发起一场全球黑客松，旨在利用我们全新的智能体工具解决现实世界的挑战。\n\n点击加入：https：//www.geminixprize.com/",
+    "url": "https://x.com/googleaidevs/status/2057166550243872920",
+    "published": "2026-05-20T18:28:20.000Z",
+    "source": "X：Google AI for Developers (@googleaidevs)",
+    "source_weight": "high",
+    "category": "industry"
+  },
+  {
+    "title": "ChatGPT移动端支持Codex，实现跨设备协作",
+    "summary": "你的笔记本电脑可以留在家里。\n通过ChatGPT移动应用使用Codex，随时随地回答问题，之后还能在电脑上继续同一对话。",
+    "url": "https://x.com/OpenAIDevs/status/2057142816497906045",
+    "published": "2026-05-20T16:54:01.000Z",
+    "source": "X：OpenAI Developers (@OpenAIDevs)",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "Anthropic销售负责人如何利用Claude Cowork管理4000个客户账户",
+    "summary": "Anthropic美国中端市场业务负责人Travis Bryant利用Claude Cowork自动化销售管理工作。该工具帮助他高效完成客户倾向性评分、每日客户简报准备及每周销售预测报告生成，每晚自动处理4000个账户数据，替代了以往跨部门团队需数百小时完成的工作。通过自动化日常任务调度，他每天节省约90分钟，并将数据整合为可交互的销售仪表板，使其能更专注于客户沟通与战略决策。",
+    "url": "https://claude.com/blog/how-an-anthropic-sales-leader-uses-claude-cowork-to-run-a-4-000-account-book",
+    "published": "2026-05-20T16:48:36.467Z",
+    "source": "Claude：Blog（网页）",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "开源插件为Codex App增添高级功能",
+    "summary": "一个开源项目允许用户增强Codex App的功能。即使通过API登录，也能通过安装插件的方式启用Computer Use特性并添加Goal指令。项目还支持界面自定义，例如调整为类似Chrome浏览器的顶部Tab样式，并可设置任务开始和完成的提醒音效。相关开源项目地址已在评论区提供。",
+    "url": "https://x.com/vista8/status/2057124658927812758",
+    "published": "2026-05-20T15:41:52.000Z",
+    "source": "X：Vista (@vista8)",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "AI视频一致性始于动作之前",
+    "summary": "AI视频的一致性始于动作之前。\n对于这个15秒的烹饪短片，我们首先在PixVerse中生成了一个清晰的角色分镜。\n然后将其用作视频的参考。\n相同的角色。清晰的故事节点。\n镜头指导。动作细节。\n转发 + 关注 + 回复 = 分镜工作流",
+    "url": "https://x.com/PixVerse_/status/2057114262145818752",
+    "published": "2026-05-20T15:00:34.000Z",
+    "source": "X：PixVerse (@PixVerse_)",
     "source_weight": "high",
     "category": "ai-products"
   },
@@ -70,114 +196,6 @@
     "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
     "source_weight": "high",
     "category": "industry"
-  },
-  {
-    "title": "欧盟委员会发布《欧盟人工智能法》高风险AI系统分类指导草案并开启公众咨询",
-    "summary": "欧盟委员会于2026年5月19日发布了关于《欧盟人工智能法》第六条项下高风险AI系统分类的指导草案。该草案旨在为AI系统的提供商、部署者及市场监管机构提供明确的分类标准，以确保在欧盟范围内执法的一致性。分类主要依据AI系统的预期用途，例如作为受监管产品的组件或用于特定高风险场景。草案也规定了部分豁免条件，例如仅执行辅助性任务时可能不被视为高风险。公众咨询期至206月23日。",
-    "url": "https://www.dataguidance.com/news/eu-commission-publishes-draft-guidelines-classifying",
-    "published": "2026-05-20T07:53:27.780Z",
-    "source": "DataGuidance：Artificial Intelligence（网页）",
-    "source_weight": "high",
-    "category": "industry"
-  },
-  {
-    "title": "开源油猴脚本实现多平台截图上传与内容处理",
-    "summary": "开源油猴脚本实现小红书、抖音、微信公众号的截图粘贴自动上传，并支持YouTube字幕复制、倍速调节及内容导出至NotebookLM、ChatGPT等工具。主推文作者表示，该工具增强了将X平台内容同步至国内平台的意愿，尽管部分平台体验欠佳。",
-    "url": "https://x.com/vista8/status/2056982823169568779",
-    "published": "2026-05-20T06:18:16.000Z",
-    "source": "X：Vista (@vista8)",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "Kling AI推出全球首个原生4K视频生成模型",
-    "summary": "4月23日，Kling AI正式推出全球首个原生4K视频生成模型，专为专业内容创作设计。该功能支持一键生成真4K画质视频，显著提升画面细节与制作效率。模型已获得好莱坞团队、动画工作室等多方采用。好莱坞制片人指出，这是其工作流中首个使用的原生4K基础模型；Wonder Studios强调，原生4K从底层生成避免了传统放大技术的角色变形问题，保持了画面一致性；动画导演则认为，该模型在保留艺术色调与复杂特效纹理方面优于同类产品。",
-    "url": "https://x.com/Kling_ai/status/2056950317712101599",
-    "published": "2026-05-20T04:09:06.000Z",
-    "source": "X：可灵 Kling AI (@Kling_ai)",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "消息称微软内部示警：GitHub 面临生存级风险，AI 编程工具削弱托管必要性",
-    "summary": "微软内部发出警告，称其代码托管平台GitHub正面临\"生存级风险\"。主要原因是Cursor、Claude Code等AI编程助手兴起，改变了开发者工作流，削弱了持续将代码上传至GitHub的必要性。为统一工具链并控制成本，微软已要求部分团队在2026年6月底前停止试用Claude Code，转而使用自有工具GitHub Copilot CLI。同时，OpenAI曾考虑自建替代平台，也加剧了对GitHub地位的潜在威胁。",
-    "url": "https://www.ithome.com/0/952/645.htm",
-    "published": "2026-05-20T02:39:19.000Z",
-    "source": "IT之家（RSS）",
-    "source_weight": "high",
-    "category": "industry"
-  },
-  {
-    "title": "Qwen3.7：智能体前沿",
-    "summary": "Qwen Studio推出Qwen3.7模型，提供覆盖聊天机器人、图像与视频理解、图像生成、文档处理、网页搜索集成、工具调用及工件生成等功能。该模型整合了当前AI智能体的关键能力，旨在推动多模态交互与实际任务执行向更综合、自主的方向发展。",
-    "url": "https://qwen.ai/blog?id=qwen3.7",
-    "published": "2026-05-20T02:00:00.000Z",
-    "source": "Qwen：Blog Retrieval（API）",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "拓宽关于前沿AI的对话",
-    "summary": "Anthropic为构建负责任的先进AI，正与全球多元群体展开对话。首轮讨论汇集了超过15个宗教、哲学及跨文化传统的学者与伦理学者，旨在为Claude等模型的道德形成与价值观对齐提供多元视角。受\"外部良知\"概念启发，团队开发并测试了伦理承诺提醒工具，初步实验显示其能有效降低模型不对齐行为。公司计划未来将对话拓展至法律、心理学及公民社会等领域，以共同应对AI对社会结构的重塑。",
-    "url": "https://www.anthropic.com/news/widening-conversation-ai",
-    "published": "2026-05-19T23:33:23.139Z",
-    "source": "Anthropic：Newsroom（网页）",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "Ramp利用Gemini API构建高级财务代理",
-    "summary": "通过使用Gemini API中的新托管代理功能，@Ramp在无需接触后端基础设施的情况下构建了其高级财务代理。\n\n了解更多 ↓",
-    "url": "https://x.com/googleaidevs/status/2056874010265485341",
-    "published": "2026-05-19T23:05:53.000Z",
-    "source": "X：Google AI for Developers (@googleaidevs)",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Claude Code的HTML输出：非凡的有效性",
-    "summary": "Claude Code团队正从Markdown转向HTML作为主要输出格式。Markdown虽简洁，但在信息密度、阅读性、分享和交互方面存在局限。HTML能支持表格、CSS样式、SVG图表和JavaScript交互，提供更清晰的视觉结构和高信息密度。由于HTML文件可通过浏览器直接打开和分享，便于团队协作审阅。Claude Code利用其广泛的上下文获取能力生成实用的HTML制品，适用于项目规划、文档编写和验证等多种场景，显著提升了AI生成内容的可读性与实用性。",
-    "url": "https://claude.com/blog/using-claude-code-the-unreasonable-effectiveness-of-html",
-    "published": "2026-05-19T21:45:38.448Z",
-    "source": "Claude：Blog（网页）",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "Claude Code v2.1.145版本更新",
-    "summary": "本次更新为Claude Code工具带来了多项功能增强与问题修复。新功能包括：新增JSON格式的会话列表命令以便脚本化操作，并在OTEL追踪中完善了Agent父子关系。插件浏览界面现可预览详细信息。在稳定性方面，修复了权限提示被绕过的安全问题、MCP参数校验错误、终端窗口调整后的显示冻结，以及非ASCII名称导致的API调用失败等问题。同时改进了Read工具的文件超限处理，并优化了任务列表排序和状态栏信息显示等交互细节，整体提升了工具的易用性与可靠性。",
-    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.145",
-    "published": "2026-05-19T21:31:07.000Z",
-    "source": "Claude Code：GitHub Releases（RSS）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "ChatGPT图像生成周使用量突破15亿次",
-    "summary": "人们每周在ChatGPT中生成超过15亿张图像。\n\n研究员 @kenjihata 与产品负责人 @adele__li 及主持人 @AndrewMayne 一起，探讨自 Images 2.0 发布以来出现的新用例和趋势。",
-    "url": "https://x.com/OpenAI/status/2056849157860831239",
-    "published": "2026-05-19T21:27:08.000Z",
-    "source": "X：OpenAI (@OpenAI)",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "谷歌推出全新AI智能搜索框，支持多模态交互",
-    "summary": "谷歌宣布推出基于Gemini 3.5模型的全新智能搜索框。该更新将AI Overviews与AI Mode整合为统一的AI搜索体验，支持对文本、图像、文件及视频进行跨模态推理查询。用户可进行多轮对话，搜索将结合上下文提供更个性化、定制化的回答。该新功能已在全球桌面和移动设备端同步上线。",
-    "url": "https://x.com/GoogleAI/status/2056845506601718271",
-    "published": "2026-05-19T21:12:37.000Z",
-    "source": "X：Google AI (@GoogleAI)",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Claude实现真实界面操作的生产实践指南",
-    "summary": "计算机使用功能使Claude成为能够操作真实用户界面的智能体。\n\n新博客文章探讨如何在生产环境中确保其可靠性：包括提高点击准确性、选择思考努力级别、在长会话中保持上下文，以及记录Claude可重放的演示操作：\n\nhttps：//claude.com/blog/best-practices-for-computer-and-browser-use-with-claude",
-    "url": "https://x.com/ClaudeDevs/status/2056835339193561170",
-    "published": "2026-05-19T20:32:13.000Z",
-    "source": "X：Claude Devs (@ClaudeDevs)",
-    "source_weight": "high",
-    "category": "tip"
   },
   {
     "title": "The case for catholic philosophy in ethical interface design",
@@ -202,24 +220,6 @@
     "summary": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*289qPpb_VfIiafLVVsSvsw.png\" /></figure><p>We’ve all lived a version of this story.</p><p>You start small — asking AI to refine an email. Then something a little harder, like writing a function in a language you barely know. Then a whole feature. Eventually you give it access to your files, your calendar, your codebase. At first it feels like an intern. Then it feels like a colleague. At some point, it even feels like the expert ",
     "url": "https://uxdesign.cc/most-ai-tools-make-users-faster-the-best-ai-tools-make-users-better-471bac7c7f86?source=rss----138adf9c44c---4",
     "published": "Tue, 19 May 2026 21:53:49 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "From faster pencil to AI Experience Architect: a designer’s path",
-    "summary": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*uvekzGuM5hGJzQyoUjrDRg.png\" /><figcaption>You can get there, but it’s about making the effort.</figcaption></figure><h4>The next decade of user experience work is not about prompting better, it’s about owning the systems, the white space, and trade-offs nobody has mapped yet.</h4><p>Most designers I talk to already use AI every day. It makes them so much faster.</p><p>Sketching faster.</p><p>Doing research faster.</p><p>Writing ",
-    "url": "https://uxdesign.cc/from-faster-pencil-to-ai-experience-architect-a-designers-path-4bec9856a785?source=rss----138adf9c44c---4",
-    "published": "Tue, 19 May 2026 07:32:58 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "How mobile apps are reshaping screening for cognitive decline",
-    "summary": "<h4>Design lessons learned from existing research</h4><figure><img alt=\"Three older adults sit together at a table reviewing paperwork. One woman points to a document while another writes on it, as a man watches and smiles nearby.\" src=\"https://cdn-images-1.medium.com/max/1024/0*uuG_jOVI-cxBq6z8\" /><figcaption>Photo by <a href=\"https://unsplash.com/@agecymru?utm_source=medium&amp;utm_medium=referral\">Age Cymru</a> on <a href=\"https://unsplash.com?utm_source=medium&amp;utm_medium=referral\">Unspla",
-    "url": "https://uxdesign.cc/how-mobile-apps-are-reshaping-screening-for-cognitive-decline-a26391fe3ae1?source=rss----138adf9c44c---4",
-    "published": "Sun, 17 May 2026 21:39:23 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"

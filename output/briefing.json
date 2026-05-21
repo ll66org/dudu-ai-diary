@@ -1,42 +1,42 @@
 [
   {
-    "title": "在OpenClaw中使用Grok",
-    "summary": "5月22日，xAI宣布，其用户现可在开源个人助理OpenClaw中直接使用Grok模型。所有持有SuperGrok或X Premium订阅的用户均可使用该功能。OpenClaw是一个开源的、本地优先的智能助手，可在多种硬件上运行并保持跨会话记忆，同时能接入WhatsApp、Telegram等多款主流通讯平台。用户通过简",
-    "source": "xAI：News（网页）",
-    "url": "https://x.ai/news/grok-openclaw",
-    "published_at": "2026-05-22T00:00:00.000Z",
-    "category": "ai-products"
-  },
-  {
-    "title": "SenseNova U1：同时思考文本与图像的AI",
-    "summary": "将你的想法转化为激发故事的视觉画面 🧨\n\n【引用 @Adamaestr0_】：大多数AI工具可以写作或生成图像。\n\n但这个能同时做这两件事。\n\n向你介绍 SenseNova U1。\n一个能同时思考文本和图像的AI。\n\n这改变了一切 🧵",
-    "source": "X：商汤 SenseTime (@SenseTime_AI)",
-    "url": "https://x.com/SenseTime_AI/status/2057049434782097851",
-    "published_at": "2026-05-20T10:42:58.000Z",
-    "category": "ai-models"
-  },
-  {
-    "title": "Qwen 2026大会：AI原生云架构蓝图发布",
-    "summary": "Qwen Conference 2026：主题演讲议程\n\nAI原生云、Agent原生云架构、推理的未来，以及多模态视觉技术发布。没有冗余内容，只有面向全球规模的工程蓝图。\n\n注册：https：//click.qwencloud.com/m/20000000190/",
-    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
-    "url": "https://x.com/alibaba_cloud/status/2057046828692934749",
-    "published_at": "2026-05-20T10:32:36.000Z",
-    "category": "industry"
-  },
-  {
-    "title": "欧盟委员会发布《欧盟人工智能法》高风险AI系统分类指导草案并开启公众咨询",
-    "summary": "欧盟委员会于2026年5月19日发布了关于《欧盟人工智能法》第六条项下高风险AI系统分类的指导草案。该草案旨在为AI系统的提供商、部署者及市场监管机构提供明确的分类标准，以确保在欧盟范围内执法的一致性。分类主要依据AI系统的预期用途，例如作为受监管产品的组件或用于特定高风险场景。草案也规定了部分豁免条件，例如仅执行辅助",
-    "source": "DataGuidance：Artificial Intelligence（网页）",
-    "url": "https://www.dataguidance.com/news/eu-commission-publishes-draft-guidelines-classifying",
-    "published_at": "2026-05-20T07:53:27.780Z",
-    "category": "industry"
-  },
-  {
-    "title": "开源油猴脚本实现多平台截图上传与内容处理",
-    "summary": "开源油猴脚本实现小红书、抖音、微信公众号的截图粘贴自动上传，并支持YouTube字幕复制、倍速调节及内容导出至NotebookLM、ChatGPT等工具。主推文作者表示，该工具增强了将X平台内容同步至国内平台的意愿，尽管部分平台体验欠佳。",
-    "source": "X：Vista (@vista8)",
-    "url": "https://x.com/vista8/status/2056982823169568779",
-    "published_at": "2026-05-20T06:18:16.000Z",
+    "title": "游戏开发门槛被AI大幅降低",
+    "summary": "Grok展示了AI深度介入游戏开发的全新工作流。通过\"提示词生成角色图→图片转动画视频→自动拼接成Spritesheet→导入引擎\"四步流程，将传统需要美术与动画师耗时数天的工作，在几分钟内完成。这标志着AI不再仅生成静态内容，而是能实时生成可直接导入Unity或Godot等游戏引擎的可运行资产。该技术极大压缩了游戏原",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "url": "https://x.com/AYi_AInotes/status/2057371332359201103",
+    "published_at": "2026-05-21T08:02:04.000Z",
     "category": "tip"
+  },
+  {
+    "title": "Intuit将裁员逾3000人，以重新聚焦人工智能",
+    "summary": "软件公司Intuit宣布将裁员超过3000人，作为其战略重组的一部分。此次裁员旨在将公司资源重新聚焦于人工智能（AI）领域的发展，以适应技术趋势并提升长期竞争力。裁员规模约占其全球员工总数的10%。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "url": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai",
+    "published_at": "2026-05-21T04:35:50.680Z",
+    "category": "industry"
+  },
+  {
+    "title": "首部100%AI生成电影亮相戛纳，剑指2026院线",
+    "summary": "AI电影项目RAPHAEL在戛纳亮相。该片由Mateo AI Studio与韩国MBC C&I的AI内容实验室联合开发，全程使用Kling AI视频模型进行制作，旨在实现独特的视觉效果与差异化的观影体验。项目计划于2026年登陆院线，其大规模制作旨在证明纯AI电影制作的工业可行性，标志着AI原生院线电影新趋势的开端。",
+    "source": "X：可灵 Kling AI (@Kling_ai)",
+    "url": "https://x.com/Kling_ai/status/2057295321831539054",
+    "published_at": "2026-05-21T03:00:02.000Z",
+    "category": "industry"
+  },
+  {
+    "title": "商汤连续十年领跑中国计算机视觉市场",
+    "summary": "商汤科技被IDC连续十年评为中国计算机视觉市场第一。其关键驱动因素包括：主导推进CV 2.0架构演进，原生嵌入生成式AI能力；海外市场扩展至12个国际区域，服务超500家企业客户并保持高留存率；以年度经常性收入增长为锚点实现盈利性增长；并从项目制交付转型为高度可扩展的AI平台。这一十年市场领导地位为其引领计算机视觉与生",
+    "source": "X：商汤 SenseTime (@SenseTime_AI)",
+    "url": "https://x.com/SenseTime_AI/status/2057289342654300586",
+    "published_at": "2026-05-21T02:36:16.000Z",
+    "category": "industry"
+  },
+  {
+    "title": "Grok Build现已登陆OpenCode平台",
+    "summary": "Grok Build现已在OpenCode中可用",
+    "source": "X：opencode (@opencode)",
+    "url": "https://x.com/opencode/status/2057248292904296772",
+    "published_at": "2026-05-20T23:53:09.000Z",
+    "category": "ai-products"
   }
 ]
