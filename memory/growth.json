@@ -1,5 +1,5 @@
 {
-  "day_count": 28,
+  "day_count": 29,
   "history": [
     {
       "day": 20,
@@ -68,6 +68,13 @@
       "day": 28,
       "date": "2026-05-21",
       "topic": "游戏开发门槛被AI大幅降低",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "mode": "rss"
+    },
+    {
+      "day": 29,
+      "date": "2026-05-22",
+      "topic": "Karpathy的CLAUDE.md四条规则让AI编程准确率飙升至94%",
       "source": "X：阿易 AI Notes (@AYi_AInotes)",
       "mode": "rss"
     }

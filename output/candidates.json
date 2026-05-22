@@ -1,201 +1,165 @@
 [
   {
-    "title": "A Design Skill for Claude Code, Cursor, and Codex",
-    "summary": "<p>Article URL: <a href=\"https://www.usehallmark.com/\">https://www.usehallmark.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48223009\">https://news.ycombinator.com/item?id=48223009</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
-    "url": "https://www.usehallmark.com/",
-    "published": "Thu, 21 May 2026 14:17:35 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Show HN: We dropped Go for Rust in our real-time telephony AI media plane",
-    "summary": "<p>In building Vivik, an execution-grade telephony AI engine, we faced a brutal constraint: the human conversational loop.<p>In psychoacoustics, a delay under 250 ms feels instantaneous. At 500 ms, users notice lag. Beyond 800 ms, conversations start feeling strained, and by 1.5 seconds, the illusion of real-time interaction collapses.<p>That creates an extremely tight latency budget for voice AI:<p>• Network RTT: 50–200 ms\n• LLM inference: 200–800 ms\n• TTS synthesis: 100–400 ms\n• ASR processing",
-    "url": "https://news.ycombinator.com/item?id=48222268",
-    "published": "Thu, 21 May 2026 13:27:27 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Show HN: Aisbf, a self-hostable OpenAI-compatible AI proxy/router",
-    "summary": "<p>AISBF is a self-hostable AI proxy/router that exposes an OpenAI-compatible API while letting you route across different providers and model pools.<p>I built it to make multi-provider AI setups less chaotic: centralize access, add routing/failover/caching, support multi-user setups, and make it easier to scale from a small deployment to clustered infrastructure.<p>Happy to answer questions about architecture, routing logic, tradeoffs, and where it differs from simpler proxy layers.</p>\n<hr />\n",
-    "url": "https://aisbf.cloud/",
-    "published": "Thu, 21 May 2026 13:05:38 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Ask HN: Does anyone believe role-play AI is effective for training?",
-    "summary": "<p>We built Socratize, an AI-based training tool where employees practice real workplace scenarios instead of watching videos or taking quizzes.<p>Most corporate training is passive. People watch content, click through slides, pass a quiz, and forget most of it within days.<p>We wanted to try a different approach: learning through dialogue and repetition.<p>With Socratize, users enter realistic scenarios and have to respond to an AI “counterparty”.<p>For example:<p>A sales rep practices handling",
-    "url": "https://news.ycombinator.com/item?id=48221788",
-    "published": "Thu, 21 May 2026 12:46:47 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Lovable's AI built a 100% accessible site – or did it?",
-    "summary": "<p>Article URL: <a href=\"https://axesslab.com/lovable/\">https://axesslab.com/lovable/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48221739\">https://news.ycombinator.com/item?id=48221739</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://axesslab.com/lovable/",
-    "published": "Thu, 21 May 2026 12:42:57 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Designing a AI Access Layer for Systems of Record",
-    "summary": "<p>Article URL: <a href=\"https://mev.com/blog/designing-a-ai-access-layer-for-systems-of-record-a-case-study-in-team-capacity-planning\">https://mev.com/blog/designing-a-ai-access-layer-for-systems-of-record-a-case-study-in-team-capacity-planning</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48221624\">https://news.ycombinator.com/item?id=48221624</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
-    "url": "https://mev.com/blog/designing-a-ai-access-layer-for-systems-of-record-a-case-study-in-team-capacity-planning",
-    "published": "Thu, 21 May 2026 12:33:18 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "游戏开发门槛被AI大幅降低",
-    "summary": "Grok展示了AI深度介入游戏开发的全新工作流。通过\"提示词生成角色图→图片转动画视频→自动拼接成Spritesheet→导入引擎\"四步流程，将传统需要美术与动画师耗时数天的工作，在几分钟内完成。这标志着AI不再仅生成静态内容，而是能实时生成可直接导入Unity或Godot等游戏引擎的可运行资产。该技术极大压缩了游戏原型的迭代周期，将反馈循环从\"天\"缩短至\"秒\"，使得独立开发者也能快速实现创意，显著降低了游戏创作的门槛。",
-    "url": "https://x.com/AYi_AInotes/status/2057371332359201103",
-    "published": "2026-05-21T08:02:04.000Z",
+    "title": "Karpathy的CLAUDE.md四条规则让AI编程准确率飙升至94%",
+    "summary": "Karpathy发布的CLAUDE.md文件以其简洁高效的AI编程指导原则引爆GitHub，获得超22万星标并登顶趋势榜。该文件仅含65行、4条核心规则，却能将AI编程的准确率从65%显著提升至94%。其核心在于强制开发者\"慢下来\"，将深度思考、追求简洁、精准修改和目标驱动等原则变为硬性编码准则，旨在对抗开发者习惯性\"先写再说\"的本能。目前大多数开发者尚未深入研读这一备受关注的效率指南。",
+    "url": "https://x.com/AYi_AInotes/status/2057791192738283669",
+    "published": "2026-05-22T11:50:26.000Z",
     "source": "X：阿易 AI Notes (@AYi_AInotes)",
     "source_weight": "high",
     "category": "tip"
   },
   {
-    "title": "Intuit将裁员逾3000人，以重新聚焦人工智能",
-    "summary": "软件公司Intuit宣布将裁员超过3000人，作为其战略重组的一部分。此次裁员旨在将公司资源重新聚焦于人工智能（AI）领域的发展，以适应技术趋势并提升长期竞争力。裁员规模约占其全球员工总数的10%。",
-    "url": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai",
-    "published": "2026-05-21T04:35:50.680Z",
-    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-    "source_weight": "high",
-    "category": "industry"
-  },
-  {
-    "title": "首部100%AI生成电影亮相戛纳，剑指2026院线",
-    "summary": "AI电影项目RAPHAEL在戛纳亮相。该片由Mateo AI Studio与韩国MBC C&I的AI内容实验室联合开发，全程使用Kling AI视频模型进行制作，旨在实现独特的视觉效果与差异化的观影体验。项目计划于2026年登陆院线，其大规模制作旨在证明纯AI电影制作的工业可行性，标志着AI原生院线电影新趋势的开端。",
-    "url": "https://x.com/Kling_ai/status/2057295321831539054",
-    "published": "2026-05-21T03:00:02.000Z",
-    "source": "X：可灵 Kling AI (@Kling_ai)",
-    "source_weight": "high",
-    "category": "industry"
-  },
-  {
-    "title": "商汤连续十年领跑中国计算机视觉市场",
-    "summary": "商汤科技被IDC连续十年评为中国计算机视觉市场第一。其关键驱动因素包括：主导推进CV 2.0架构演进，原生嵌入生成式AI能力；海外市场扩展至12个国际区域，服务超500家企业客户并保持高留存率；以年度经常性收入增长为锚点实现盈利性增长；并从项目制交付转型为高度可扩展的AI平台。这一十年市场领导地位为其引领计算机视觉与生成式AI的融合浪潮奠定了基础。",
-    "url": "https://x.com/SenseTime_AI/status/2057289342654300586",
-    "published": "2026-05-21T02:36:16.000Z",
-    "source": "X：商汤 SenseTime (@SenseTime_AI)",
-    "source_weight": "high",
-    "category": "industry"
-  },
-  {
-    "title": "Grok Build现已登陆OpenCode平台",
-    "summary": "Grok Build现已在OpenCode中可用",
-    "url": "https://x.com/opencode/status/2057248292904296772",
-    "published": "2026-05-20T23:53:09.000Z",
-    "source": "X：opencode (@opencode)",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Google Stitch更新：AI设计助手实现全流程构建",
-    "summary": "Google推出了其AI设计伙伴Stitch的多项重要更新。新功能支持实时流式构建设计，允许用户在不中断流程的情况下直接进行编辑和互动反馈。Stitch现已能够导入现有代码库或Design.md文件，基于实际生产组件进行设计以保持品牌一致性。同时，工具新增了动态界面生成功能，并可将设计项目直接导出为可分享的线上URL，简化了从原型到生产的部署流程。该工具现已面向全球用户开放。",
-    "url": "https://x.com/googleaidevs/status/2057209295763300785",
-    "published": "2026-05-20T21:18:11.000Z",
-    "source": "X：Google AI for Developers (@googleaidevs)",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "OpenClaw 2026.5.19版本发布",
-    "summary": "OpenClaw 2026.5.19 🦞\n\n📱 Android Talk Mode 实现实时化\n🍎 Mac 设置界面更清爽\n🔐 xAI 登录支持无头模式\n🧵 Telegram 话题功能更稳定\n\n大版本更新，简短公告。\nhttps：//github.com/openclaw/openclaw/releases/tag/v2026.5.19",
-    "url": "https://x.com/openclaw/status/2057202955581809093",
-    "published": "2026-05-20T20:53:00.000Z",
-    "source": "X：OpenClaw (@openclaw)",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "ZCube：超大规模大模型推理的网络优化",
-    "summary": "针对超大规模大模型推理，ZCube网络架构通过取消Spine层、将Leaf交换机分组并全互联等创新设计，有效解决了推理网络的拥塞问题。该架构在集群实测中，实现了交换机与光模块资本支出减少33%、GPU平均推理吞吐提升15%，同时将首token延迟的P99值大幅降低40.6%，在降低成本的同时显著提升了推理性能。",
-    "url": "https://www.zhipuai.cn/zh/research/160",
-    "published": "2026-05-20T19:51:00.000Z",
-    "source": "智谱：研究（网页内嵌数据）",
-    "source_weight": "high",
-    "category": "paper"
-  },
-  {
-    "title": "AlliHat",
-    "summary": "<p>\n            Claude AI in your Safari sidebar\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/allihat?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1152138?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/allihat",
-    "published": "2026-05-20T18:40:49-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Gemini与XPRIZE联合举办全球黑客松",
-    "summary": "用Gemini构建，改变世界🌍\n\n我们正与@xprize合作，发起一场全球黑客松，旨在利用我们全新的智能体工具解决现实世界的挑战。\n\n点击加入：https：//www.geminixprize.com/",
-    "url": "https://x.com/googleaidevs/status/2057166550243872920",
-    "published": "2026-05-20T18:28:20.000Z",
-    "source": "X：Google AI for Developers (@googleaidevs)",
-    "source_weight": "high",
-    "category": "industry"
-  },
-  {
-    "title": "ChatGPT移动端支持Codex，实现跨设备协作",
-    "summary": "你的笔记本电脑可以留在家里。\n通过ChatGPT移动应用使用Codex，随时随地回答问题，之后还能在电脑上继续同一对话。",
-    "url": "https://x.com/OpenAIDevs/status/2057142816497906045",
-    "published": "2026-05-20T16:54:01.000Z",
-    "source": "X：OpenAI Developers (@OpenAIDevs)",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Anthropic销售负责人如何利用Claude Cowork管理4000个客户账户",
-    "summary": "Anthropic美国中端市场业务负责人Travis Bryant利用Claude Cowork自动化销售管理工作。该工具帮助他高效完成客户倾向性评分、每日客户简报准备及每周销售预测报告生成，每晚自动处理4000个账户数据，替代了以往跨部门团队需数百小时完成的工作。通过自动化日常任务调度，他每天节省约90分钟，并将数据整合为可交互的销售仪表板，使其能更专注于客户沟通与战略决策。",
-    "url": "https://claude.com/blog/how-an-anthropic-sales-leader-uses-claude-cowork-to-run-a-4-000-account-book",
-    "published": "2026-05-20T16:48:36.467Z",
-    "source": "Claude：Blog（网页）",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "开源插件为Codex App增添高级功能",
-    "summary": "一个开源项目允许用户增强Codex App的功能。即使通过API登录，也能通过安装插件的方式启用Computer Use特性并添加Goal指令。项目还支持界面自定义，例如调整为类似Chrome浏览器的顶部Tab样式，并可设置任务开始和完成的提醒音效。相关开源项目地址已在评论区提供。",
-    "url": "https://x.com/vista8/status/2057124658927812758",
-    "published": "2026-05-20T15:41:52.000Z",
-    "source": "X：Vista (@vista8)",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "AI视频一致性始于动作之前",
-    "summary": "AI视频的一致性始于动作之前。\n对于这个15秒的烹饪短片，我们首先在PixVerse中生成了一个清晰的角色分镜。\n然后将其用作视频的参考。\n相同的角色。清晰的故事节点。\n镜头指导。动作细节。\n转发 + 关注 + 回复 = 分镜工作流",
-    "url": "https://x.com/PixVerse_/status/2057114262145818752",
-    "published": "2026-05-20T15:00:34.000Z",
+    "title": "PixVerse App上线图像生成功能",
+    "summary": "Create Image已在PixVerse App上线。\n输入提示词或参考图，在手机上即可生成。\n5月24日至31日11：00 UTC，每人可免费生成3次。\n转发+关注+回复 = 300 Creds（仅限72小时）",
+    "url": "https://x.com/PixVerse_/status/2057777743027392848",
+    "published": "2026-05-22T10:57:00.000Z",
     "source": "X：PixVerse (@PixVerse_)",
     "source_weight": "high",
     "category": "ai-products"
   },
   {
-    "title": "SenseNova U1：同时思考文本与图像的AI",
-    "summary": "将你的想法转化为激发故事的视觉画面 🧨\n\n【引用 @Adamaestr0_】：大多数AI工具可以写作或生成图像。\n\n但这个能同时做这两件事。\n\n向你介绍 SenseNova U1。\n一个能同时思考文本和图像的AI。\n\n这改变了一切 🧵",
-    "url": "https://x.com/SenseTime_AI/status/2057049434782097851",
-    "published": "2026-05-20T10:42:58.000Z",
-    "source": "X：商汤 SenseTime (@SenseTime_AI)",
+    "title": "网易有道\"子曰4\"多模态模型、语音合成模型全量开源",
+    "summary": "网易有道宣布将其\"子曰\"大模型4.0的多模态模型与语音合成模型面向全球全量开源。其中，多模态模型（27B参数）专注于教育场景，在处理高难度视觉数理问题上达到行业顶尖水平，纯文本中文数理难题准确率为81.4%。该模型通过思维链优化，将输出长度压缩43.2%，有效降低了推理成本。同时开源的语音合成模型支持跨语种音色与情感迁移克隆，3秒内即可完成零样本复制，准确度超97%，并支持包括中、英、日、韩在内的14种语言。",
+    "url": "https://www.ithome.com/0/954/124.htm",
+    "published": "2026-05-22T09:45:01.000Z",
+    "source": "IT之家（RSS）",
     "source_weight": "high",
     "category": "ai-models"
   },
   {
-    "title": "Qwen 2026大会：AI原生云架构蓝图发布",
-    "summary": "Qwen Conference 2026：主题演讲议程\n\nAI原生云、Agent原生云架构、推理的未来，以及多模态视觉技术发布。没有冗余内容，只有面向全球规模的工程蓝图。\n\n注册：https：//click.qwencloud.com/m/20000000190/",
-    "url": "https://x.com/alibaba_cloud/status/2057046828692934749",
-    "published": "2026-05-20T10:32:36.000Z",
-    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "title": "OpenAI Codex /goal功能正式发布及使用指南",
+    "summary": "OpenAI宣布Codex的/goal模式已结束实验，成为稳定功能。用户可在Codex应用、IDE扩展或CLI中使用，通过设定具体里程碑，让AI持续工作直至完成，任务可运行数小时甚至数天。过程中支持随时检查、调整方向及暂停。使用前需升级应用并启用该功能（可通过命令行指令或手动修改配置文件实现）。开启后，可在输入框管理任务，并利用侧边对话查看进度而不中断主任务。该功能旨在高效处理各类复杂任务。",
+    "url": "https://x.com/dotey/status/2057672416071987378",
+    "published": "2026-05-22T03:58:28.000Z",
+    "source": "X：宝玉 (@dotey)",
     "source_weight": "high",
-    "category": "industry"
+    "category": "tip"
+  },
+  {
+    "title": "智谱GLM-5.1高速版发布：刷新全球大模型API速度纪录",
+    "summary": "5月22日，智谱向部分企业客户推出了旗舰大模型GLM-5.1的高速版API\"GLM-5.1-highspeed\"。该版本输出速度达400 tokens/s，刷新了全球大模型API速度上限。关键突破在于，它首次在国产大模型中实现了旗舰级能力与低延迟的结合，打破了\"高速模型即轻量模型\"的传统。该版本由智谱GLM团队与TileRT团队合作，通过系统级优化确保了速度的生产级稳定性，适用于AI编程、实时语音交互等场景。",
+    "url": "https://www.ithome.com/0/953/717.htm",
+    "published": "2026-05-22T02:02:46.000Z",
+    "source": "IT之家（RSS）",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "图灵测试 76 年后首现 AI 通过实证：GPT-4.5 以 73% 判定率超越真人",
+    "summary": "加州大学圣地亚哥分校研究首次实证现代AI可通过图灵测试。研究表明，在获得特定提示后，GPT-4.5在5至15分钟的对话中被误认为人类的概率高达73%，显著超过真人。LLaMa-3.1-405B的判定率（56%）与真人相当，而GPT-4o和ELIZA仅约20%。研究指出提示词至关重要，它使AI能模仿人类语气、幽默感甚至易错性等社会行为特征。这一发现迫使人们重新思考图灵测试的意义，并凸显了大语言模型在网络信任与安全方面构成的潜在挑战。",
+    "url": "https://www.ithome.com/0/953/705.htm",
+    "published": "2026-05-22T01:22:11.000Z",
+    "source": "IT之家（RSS）",
+    "source_weight": "high",
+    "category": "paper"
+  },
+  {
+    "title": "用户好评即最佳文案，视觉呈现由AI完成",
+    "summary": "你的客户写出了你永远无法超越的文案。现在，为它匹配视觉呈现吧。\n只需粘贴评价，设定风格，Luma Agents 将处理所有推荐语图形。\n让它被听见 → http：//lumalabs.ai/app",
+    "url": "https://x.com/LumaLabsAI/status/2057628006353670163",
+    "published": "2026-05-22T01:02:00.000Z",
+    "source": "X：Luma AI (@LumaLabsAI)",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "JAMtime.ai",
+    "summary": "<p>\n            Just tell your guitar pedal how to sound\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/jamtime-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1152999?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/jamtime-ai",
+    "published": "2026-05-21T20:17:59-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Datasette Agent",
+    "summary": "Datasette Agent是Datasette推出的首个可扩展AI助手，为用户提供对话式界面以查询数据，并支持通过插件生成图表。该工具基于其LLM Python库构建，是LLM与Datasette整合的重要成果。目前提供图表生成、AI图像创建和沙箱代码执行等官方插件。它既可运行于Gemini 3.1 Flash-Lite等云端模型，也支持通过LM Studio连接本地开源模型，具备可靠的工具调用与查询能力。",
+    "url": "https://simonwillison.net/2026/May/21/datasette-agent",
+    "published": "2026-05-21T19:52:19.000Z",
+    "source": "Simon Willison 博客",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "Viggle推出3D格斗派对游戏Fight Anyone 3D",
+    "summary": "介绍Fight Anyone 3D🥊一款3D派对格斗游戏，可能是上班时玩起来最爽的游戏。\n\n上传任何人的照片 → 一个可玩的3D格斗角色，带有语音、个性+招牌动作，由Viggle自研游戏引擎+模型打造。\n\n公测期间100%免费+赠送20张礼品卡。玩得越多，赢得越多！\n\n和同事对战。和朋友对战。和任何人对战。链接+教程+更多内容见下方推文串 ↓",
+    "url": "https://x.com/ViggleAI/status/2057541072419520634",
+    "published": "2026-05-21T19:16:33.000Z",
+    "source": "X：Viggle AI (@ViggleAI)",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "Aleph 2.0 与 Edit Studio",
+    "summary": "正式发布 Aleph 2.0 及配套的 Edit Studio 创作工具。此次更新实现了创作流程的全面整合，将内容生成、编辑与后期制作集中于统一平台。新版本显著优化了多模态内容的处理效率，并提供了从构思到成品的一站式解决方案，旨在为创作者提供更流畅、集成的数字内容制作体验。",
+    "url": "https://app.runwayml.com/generate?mode=edit",
+    "published": "2026-05-21T18:36:25.024Z",
+    "source": "Runway：Changelog（网页）",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "合作伙伴如何运用Opus强化网络安全",
+    "summary": "多家企业正利用Claude Opus模型强化网络安全防御。Wiz通过其Red Agent，每周对超过15万个生产资产进行持续渗透测试，发现数千个高风险漏洞且误报率为零。Palo Alto Networks在不到三周内完成了相当于一年的渗透测试工作量。埃森哲将安全测试覆盖率从约10%提升至80%以上，涉及1600个应用和50万+个API，扫描周期从3-5天缩短至1小时内。应用主要围绕三个方向：开展大规模攻击性测试、缩短漏洞发现与修复的间隔，以及将受控AI系统部署到生产环境。",
+    "url": "https://claude.com/blog/how-our-partners-are-putting-opus-to-work-for-cybersecurity",
+    "published": "2026-05-21T17:43:01.640Z",
+    "source": "Claude：Blog（网页）",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "Claude现已支持更多安全合规工具",
+    "summary": "Anthropic宣布为Claude企业版及平台新增28项安全与合规工具集成。这些集成均通过Claude Compliance API实现，允许企业安全团队统一获取Claude的对话内容与活动事件，从而将其纳入现有的DLP、SIEM等监控与合规流程。新增合作伙伴包括Cloudflare、CrowdStrike、Microsoft Purview等28家供应商，覆盖数据安全、身份验证等多个关键领域，帮助企业快速将Claude接入现有安全平台，实现跨组织工具的统一治理与可视化监控。",
+    "url": "https://claude.com/blog/compliance-api-security-partners",
+    "published": "2026-05-21T17:43:01.640Z",
+    "source": "Claude：Blog（网页）",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "核算OpenAI和Anthropic最新动态背后的数学",
+    "summary": "OpenAI与Anthropic近期相继发布重要产品更新。Claude 3.5 Sonnet在多项基准测试中超越GPT-4o，同时宣布API价格下调50%。Anthropic披露其模型训练成本年均增长约3.2倍，而OpenAI被曝已通过企业服务实现单季度超10亿美元营收。两家公司在技术突破与商业化竞赛中，正通过精密的成本核算与性能权衡重塑行业格局。",
+    "url": "https://garymarcus.substack.com/p/checking-the-math-behind-openai-and",
+    "published": "2026-05-21T17:32:11.000Z",
+    "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "发布 Kotlin版ADK与Android版ADK 0.1.0：在Android及其他平台构建AI Agent",
+    "summary": "Google发布了面向开发者的新工具包：Kotlin版ADK与Android版ADK 0.1.0。这两个工具包旨在帮助开发者构建AI Agent。其中，Kotlin版ADK将代理工作流引入后端项目开发；Android版ADK则专注于移动端应用，提供了构建AI代理所需的特定功能。此次发布为开发者提供了在Android生态及更广泛平台创建AI应用的官方工具基础。",
+    "url": "https://developers.googleblog.com/adk-kotlin-android-building-ai-agents",
+    "published": "2026-05-21T16:33:06.339Z",
+    "source": "Google Developers Blog（RSS）",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "推出 Gemini for Home 赋能服务提供商与硬件合作伙伴",
+    "summary": "Google 通过推出全栈 Gemini AI 解决方案扩展其智能家居生态系统。该方案集成了先进的摄像头智能、自然语言查询功能和日常活动摘要能力。它为服务提供商和硬件制造商提供了现成的参考设计与API，使其无需大量研发投入即可构建主动式、品牌化的智能家居服务。该计划旨在超越基础设备控制，迈向能够理解情境并实时响应用户需求的AI原生智能家居。",
+    "url": "https://developers.googleblog.com/empowering-service-providers-and-hardware-partners-with-gemini-for-home",
+    "published": "2026-05-21T16:33:06.339Z",
+    "source": "Google Developers Blog（RSS）",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "buildpipe",
+    "summary": "<p>\n            Compose, run and automate multi step AI developer workflows\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/buildpipe?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1152848?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/buildpipe",
+    "published": "2026-05-21T13:28:41-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Shuffle Design CLI",
+    "summary": "<p>\n            Multi-AI CLI for building and redesigning websites\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/shuffle-design-cli?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1152818?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/shuffle-design-cli",
+    "published": "2026-05-21T12:18:28-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
   },
   {
     "title": "The case for catholic philosophy in ethical interface design",
@@ -220,6 +184,42 @@
     "summary": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*289qPpb_VfIiafLVVsSvsw.png\" /></figure><p>We’ve all lived a version of this story.</p><p>You start small — asking AI to refine an email. Then something a little harder, like writing a function in a language you barely know. Then a whole feature. Eventually you give it access to your files, your calendar, your codebase. At first it feels like an intern. Then it feels like a colleague. At some point, it even feels like the expert ",
     "url": "https://uxdesign.cc/most-ai-tools-make-users-faster-the-best-ai-tools-make-users-better-471bac7c7f86?source=rss----138adf9c44c---4",
     "published": "Tue, 19 May 2026 21:53:49 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "From faster pencil to AI Experience Architect: a designer’s path",
+    "summary": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*uvekzGuM5hGJzQyoUjrDRg.png\" /><figcaption>You can get there, but it’s about making the effort.</figcaption></figure><h4>The next decade of user experience work is not about prompting better, it’s about owning the systems, the white space, and trade-offs nobody has mapped yet.</h4><p>Most designers I talk to already use AI every day. It makes them so much faster.</p><p>Sketching faster.</p><p>Doing research faster.</p><p>Writing ",
+    "url": "https://uxdesign.cc/from-faster-pencil-to-ai-experience-architect-a-designers-path-4bec9856a785?source=rss----138adf9c44c---4",
+    "published": "Tue, 19 May 2026 07:32:58 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Designing the Human+AI system",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/designing-the-human-ai-system-d7f6fc8bf772?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*QCPBZxPCAe4X3bDXB2euzw.png\" width=\"2950\" /></a></p><p class=\"medium-feed-snippet\">The new product mandate.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/designing-the-human-ai-system-d7f6fc8bf772?source=rss----138adf9c44c---4\">Continue reading on UX Collective »</a></p><",
+    "url": "https://uxdesign.cc/designing-the-human-ai-system-d7f6fc8bf772?source=rss----138adf9c44c---4",
+    "published": "Thu, 21 May 2026 01:17:18 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "AI UX debt: A new bottleneck",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/ai-ux-debt-a-new-bottleneck-ed91c256b86b?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*aCb6X7_ZTeBV8K2n\" width=\"2600\" /></a></p><p class=\"medium-feed-snippet\">The illusion of completion and the birth of the ghost</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/ai-ux-debt-a-new-bottleneck-ed91c256b86b?source=rss----138adf9c44c---4\">Continue reading on UX Collec",
+    "url": "https://uxdesign.cc/ai-ux-debt-a-new-bottleneck-ed91c256b86b?source=rss----138adf9c44c---4",
+    "published": "Thu, 21 May 2026 01:16:29 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Yippee IA: Six principles for creating a successful information architecture",
+    "summary": "<h4>People do two things online. They are either consuming content or navigating to it.</h4><p>You want people to spend more time engaging with your content and less time struggling to find it. A great information architecture (IA) tells a story, creates flow, and aids discovery for the people using your products or services.</p><figure><img alt=\"A woman is looking at a map in front of a wayfinding sign with points to three directions: this way, that way, somewhere else.\" src=\"https://cdn-images",
+    "url": "https://uxdesign.cc/yippee-ia-six-principles-for-creating-a-successful-information-architecture-e4ceea39673c?source=rss----138adf9c44c---4",
+    "published": "Thu, 21 May 2026 01:15:31 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"

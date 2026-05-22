@@ -1,42 +1,42 @@
 [
   {
-    "title": "游戏开发门槛被AI大幅降低",
-    "summary": "Grok展示了AI深度介入游戏开发的全新工作流。通过\"提示词生成角色图→图片转动画视频→自动拼接成Spritesheet→导入引擎\"四步流程，将传统需要美术与动画师耗时数天的工作，在几分钟内完成。这标志着AI不再仅生成静态内容，而是能实时生成可直接导入Unity或Godot等游戏引擎的可运行资产。该技术极大压缩了游戏原",
+    "title": "Karpathy的CLAUDE.md四条规则让AI编程准确率飙升至94%",
+    "summary": "Karpathy发布的CLAUDE.md文件以其简洁高效的AI编程指导原则引爆GitHub，获得超22万星标并登顶趋势榜。该文件仅含65行、4条核心规则，却能将AI编程的准确率从65%显著提升至94%。其核心在于强制开发者\"慢下来\"，将深度思考、追求简洁、精准修改和目标驱动等原则变为硬性编码准则，旨在对抗开发者习惯性\"",
     "source": "X：阿易 AI Notes (@AYi_AInotes)",
-    "url": "https://x.com/AYi_AInotes/status/2057371332359201103",
-    "published_at": "2026-05-21T08:02:04.000Z",
+    "url": "https://x.com/AYi_AInotes/status/2057791192738283669",
+    "published_at": "2026-05-22T11:50:26.000Z",
     "category": "tip"
   },
   {
-    "title": "Intuit将裁员逾3000人，以重新聚焦人工智能",
-    "summary": "软件公司Intuit宣布将裁员超过3000人，作为其战略重组的一部分。此次裁员旨在将公司资源重新聚焦于人工智能（AI）领域的发展，以适应技术趋势并提升长期竞争力。裁员规模约占其全球员工总数的10%。",
-    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-    "url": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai",
-    "published_at": "2026-05-21T04:35:50.680Z",
-    "category": "industry"
-  },
-  {
-    "title": "首部100%AI生成电影亮相戛纳，剑指2026院线",
-    "summary": "AI电影项目RAPHAEL在戛纳亮相。该片由Mateo AI Studio与韩国MBC C&I的AI内容实验室联合开发，全程使用Kling AI视频模型进行制作，旨在实现独特的视觉效果与差异化的观影体验。项目计划于2026年登陆院线，其大规模制作旨在证明纯AI电影制作的工业可行性，标志着AI原生院线电影新趋势的开端。",
-    "source": "X：可灵 Kling AI (@Kling_ai)",
-    "url": "https://x.com/Kling_ai/status/2057295321831539054",
-    "published_at": "2026-05-21T03:00:02.000Z",
-    "category": "industry"
-  },
-  {
-    "title": "商汤连续十年领跑中国计算机视觉市场",
-    "summary": "商汤科技被IDC连续十年评为中国计算机视觉市场第一。其关键驱动因素包括：主导推进CV 2.0架构演进，原生嵌入生成式AI能力；海外市场扩展至12个国际区域，服务超500家企业客户并保持高留存率；以年度经常性收入增长为锚点实现盈利性增长；并从项目制交付转型为高度可扩展的AI平台。这一十年市场领导地位为其引领计算机视觉与生",
-    "source": "X：商汤 SenseTime (@SenseTime_AI)",
-    "url": "https://x.com/SenseTime_AI/status/2057289342654300586",
-    "published_at": "2026-05-21T02:36:16.000Z",
-    "category": "industry"
-  },
-  {
-    "title": "Grok Build现已登陆OpenCode平台",
-    "summary": "Grok Build现已在OpenCode中可用",
-    "source": "X：opencode (@opencode)",
-    "url": "https://x.com/opencode/status/2057248292904296772",
-    "published_at": "2026-05-20T23:53:09.000Z",
+    "title": "PixVerse App上线图像生成功能",
+    "summary": "Create Image已在PixVerse App上线。\n输入提示词或参考图，在手机上即可生成。\n5月24日至31日11：00 UTC，每人可免费生成3次。\n转发+关注+回复 = 300 Creds（仅限72小时）",
+    "source": "X：PixVerse (@PixVerse_)",
+    "url": "https://x.com/PixVerse_/status/2057777743027392848",
+    "published_at": "2026-05-22T10:57:00.000Z",
     "category": "ai-products"
+  },
+  {
+    "title": "网易有道\"子曰4\"多模态模型、语音合成模型全量开源",
+    "summary": "网易有道宣布将其\"子曰\"大模型4.0的多模态模型与语音合成模型面向全球全量开源。其中，多模态模型（27B参数）专注于教育场景，在处理高难度视觉数理问题上达到行业顶尖水平，纯文本中文数理难题准确率为81.4%。该模型通过思维链优化，将输出长度压缩43.2%，有效降低了推理成本。同时开源的语音合成模型支持跨语种音色与情感迁",
+    "source": "IT之家（RSS）",
+    "url": "https://www.ithome.com/0/954/124.htm",
+    "published_at": "2026-05-22T09:45:01.000Z",
+    "category": "ai-models"
+  },
+  {
+    "title": "OpenAI Codex /goal功能正式发布及使用指南",
+    "summary": "OpenAI宣布Codex的/goal模式已结束实验，成为稳定功能。用户可在Codex应用、IDE扩展或CLI中使用，通过设定具体里程碑，让AI持续工作直至完成，任务可运行数小时甚至数天。过程中支持随时检查、调整方向及暂停。使用前需升级应用并启用该功能（可通过命令行指令或手动修改配置文件实现）。开启后，可在输入框管理任",
+    "source": "X：宝玉 (@dotey)",
+    "url": "https://x.com/dotey/status/2057672416071987378",
+    "published_at": "2026-05-22T03:58:28.000Z",
+    "category": "tip"
+  },
+  {
+    "title": "智谱GLM-5.1高速版发布：刷新全球大模型API速度纪录",
+    "summary": "5月22日，智谱向部分企业客户推出了旗舰大模型GLM-5.1的高速版API\"GLM-5.1-highspeed\"。该版本输出速度达400 tokens/s，刷新了全球大模型API速度上限。关键突破在于，它首次在国产大模型中实现了旗舰级能力与低延迟的结合，打破了\"高速模型即轻量模型\"的传统。该版本由智谱GLM团队与Til",
+    "source": "IT之家（RSS）",
+    "url": "https://www.ithome.com/0/953/717.htm",
+    "published_at": "2026-05-22T02:02:46.000Z",
+    "category": "ai-models"
   }
 ]
