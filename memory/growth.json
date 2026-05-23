@@ -1,5 +1,5 @@
 {
-  "day_count": 29,
+  "day_count": 30,
   "history": [
     {
       "day": 20,
@@ -76,6 +76,13 @@
       "date": "2026-05-22",
       "topic": "Karpathy的CLAUDE.md四条规则让AI编程准确率飙升至94%",
       "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "mode": "rss"
+    },
+    {
+      "day": 30,
+      "date": "2026-05-23",
+      "topic": "飞书-Claude Code桥接开源项目",
+      "source": "X：宝玉 (@dotey)",
       "mode": "rss"
     }
   ],

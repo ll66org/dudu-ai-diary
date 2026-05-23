@@ -1,42 +1,42 @@
 [
   {
-    "title": "Karpathy的CLAUDE.md四条规则让AI编程准确率飙升至94%",
-    "summary": "Karpathy发布的CLAUDE.md文件以其简洁高效的AI编程指导原则引爆GitHub，获得超22万星标并登顶趋势榜。该文件仅含65行、4条核心规则，却能将AI编程的准确率从65%显著提升至94%。其核心在于强制开发者\"慢下来\"，将深度思考、追求简洁、精准修改和目标驱动等原则变为硬性编码准则，旨在对抗开发者习惯性\"",
-    "source": "X：阿易 AI Notes (@AYi_AInotes)",
-    "url": "https://x.com/AYi_AInotes/status/2057791192738283669",
-    "published_at": "2026-05-22T11:50:26.000Z",
+    "title": "飞书-Claude Code桥接开源项目",
+    "summary": "feishu-claude-code-bridge是一个开源项目，可实现飞书与本机Claude Code CLI的双向连接。用户能从飞书消息中直接指挥Claude Code执行任务，Claude也能读取飞书中的工作上下文并创建、编辑飞书文档。其工作原理是将飞书消息转为Prompt通过命令行调用Claude CLI，并将",
+    "source": "X：宝玉 (@dotey)",
+    "url": "https://x.com/dotey/status/2058084478459826432",
+    "published_at": "2026-05-23T07:15:51.000Z",
     "category": "tip"
   },
   {
-    "title": "PixVerse App上线图像生成功能",
-    "summary": "Create Image已在PixVerse App上线。\n输入提示词或参考图，在手机上即可生成。\n5月24日至31日11：00 UTC，每人可免费生成3次。\n转发+关注+回复 = 300 Creds（仅限72小时）",
-    "source": "X：PixVerse (@PixVerse_)",
-    "url": "https://x.com/PixVerse_/status/2057777743027392848",
-    "published_at": "2026-05-22T10:57:00.000Z",
+    "title": "动作捕捉与角色动画制作更轻松",
+    "summary": "动作捕捉和角色动画制作从未如此简单。\n\n持续构建，更多功能即将推出！",
+    "source": "X：Viggle AI (@ViggleAI)",
+    "url": "https://x.com/ViggleAI/status/2057947352195858568",
+    "published_at": "2026-05-22T22:10:58.000Z",
     "category": "ai-products"
   },
   {
-    "title": "网易有道\"子曰4\"多模态模型、语音合成模型全量开源",
-    "summary": "网易有道宣布将其\"子曰\"大模型4.0的多模态模型与语音合成模型面向全球全量开源。其中，多模态模型（27B参数）专注于教育场景，在处理高难度视觉数理问题上达到行业顶尖水平，纯文本中文数理难题准确率为81.4%。该模型通过思维链优化，将输出长度压缩43.2%，有效降低了推理成本。同时开源的语音合成模型支持跨语种音色与情感迁",
-    "source": "IT之家（RSS）",
-    "url": "https://www.ithome.com/0/954/124.htm",
-    "published_at": "2026-05-22T09:45:01.000Z",
-    "category": "ai-models"
+    "title": "v2.1.149 更新摘要",
+    "summary": "本次 v2.1.149 更新包含功能增强、企业设置和多项修复。新增 `/usage` 命令的使用量分类显示功能，可区分技能、子代理、插件及每个 MCP 服务器的消耗；`/diff` 详情视图支持键盘滚动；Markdown 输出兼容 GFM 任务列表。企业版新增 `allowAllClaudeAiMcps` 设置以加载云",
+    "source": "Claude Code：GitHub Releases（RSS）",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.149",
+    "published_at": "2026-05-22T22:09:29.000Z",
+    "category": "ai-products"
   },
   {
-    "title": "OpenAI Codex /goal功能正式发布及使用指南",
-    "summary": "OpenAI宣布Codex的/goal模式已结束实验，成为稳定功能。用户可在Codex应用、IDE扩展或CLI中使用，通过设定具体里程碑，让AI持续工作直至完成，任务可运行数小时甚至数天。过程中支持随时检查、调整方向及暂停。使用前需升级应用并启用该功能（可通过命令行指令或手动修改配置文件实现）。开启后，可在输入框管理任",
-    "source": "X：宝玉 (@dotey)",
-    "url": "https://x.com/dotey/status/2057672416071987378",
-    "published_at": "2026-05-22T03:58:28.000Z",
-    "category": "tip"
+    "title": "Claude自动模式新增Pro计划与模型支持",
+    "summary": "自动模式的两项更新：\n\n· 现已在Pro计划中提供\n· 现已支持Sonnet 4.6，以及Opus 4.7\n\n按下Shift+tab，让Claude运行。",
+    "source": "X：Claude Devs (@ClaudeDevs)",
+    "url": "https://x.com/ClaudeDevs/status/2057946803685974482",
+    "published_at": "2026-05-22T22:08:47.000Z",
+    "category": "ai-products"
   },
   {
-    "title": "智谱GLM-5.1高速版发布：刷新全球大模型API速度纪录",
-    "summary": "5月22日，智谱向部分企业客户推出了旗舰大模型GLM-5.1的高速版API\"GLM-5.1-highspeed\"。该版本输出速度达400 tokens/s，刷新了全球大模型API速度上限。关键突破在于，它首次在国产大模型中实现了旗舰级能力与低延迟的结合，打破了\"高速模型即轻量模型\"的传统。该版本由智谱GLM团队与Til",
-    "source": "IT之家（RSS）",
-    "url": "https://www.ithome.com/0/953/717.htm",
-    "published_at": "2026-05-22T02:02:46.000Z",
-    "category": "ai-models"
+    "title": "Project Glasswing：初步更新",
+    "summary": "上月启动的Project Glasswing项目，旨在利用先进AI模型保障关键软件安全。通过约50家合作伙伴使用Claude Mythos Preview模型，已在全球关键系统中发现超过10，000个高危或严重漏洞。多家合作伙伴报告漏洞发现效率提升超过十倍。例如，Cloudflare在关键路径系统发现2，000个漏洞；",
+    "source": "Anthropic：Newsroom（网页）",
+    "url": "https://www.anthropic.com/research/glasswing-initial-update",
+    "published_at": "2026-05-22T19:57:01.055Z",
+    "category": "industry"
   }
 ]
