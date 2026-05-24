@@ -1,5 +1,29 @@
 [
   {
+    "title": "Claude Code自动模式：多任务并行的关键技巧",
+    "summary": "人们常问我，用好Claude Code的最大技巧是什么。\n如今我的头号技巧是：使用自动模式。\n自动模式意味着不再有权限提示。它是实现\"多Claude并行\"的关键构件：启动一个会话，然后在其运行时，并行处理另一个会话。",
+    "source": "X：Boris Cherny (@bcherny)",
+    "url": "https://x.com/bcherny/status/2058519809214607704",
+    "published_at": "2026-05-24T12:05:42.000Z",
+    "category": "tip"
+  },
+  {
+    "title": "StepAudio 2.5实时语音发布：副语言感知与人格化交互",
+    "summary": "StepAudio 2.5 Realtime是一款实时语音模型，能够深度理解用户语音中的语气、语速、停顿乃至微表情等副语言特征。它支持通过API接入自定义人格，允许设定个性、背景故事和语言风格，并提供了上万种原生人格选项，可组合出数百万种特征。产品还内置了5个可直接体验的预设人格，并经过RLHF调优，确保在复杂的角色扮",
+    "source": "X：阶跃星辰 StepFun (@StepFun_ai)",
+    "url": "https://x.com/StepFun_ai/status/2058303294544425197",
+    "published_at": "2026-05-23T21:45:21.000Z",
+    "category": "ai-products"
+  },
+  {
+    "title": "Replit Agent与Squidler集成，实现全自动化AI质量保障",
+    "summary": "Replit Agent与Squidler已完成集成，形成一套完整的AI驱动质量保障闭环。用户可通过自然语言描述应用功能，由Replit Agent负责构建。构建完成后，Squidler会像真实用户一样对线上应用进行自动化测试，无需编写任何测试脚本。测试中发现的问题会自动反馈给Replit Agent进行修复。该流程已",
+    "source": "X：Replit (@Replit)",
+    "url": "https://x.com/Replit/status/2058261705998602548",
+    "published_at": "2026-05-23T19:00:06.000Z",
+    "category": "ai-products"
+  },
+  {
     "title": "飞书-Claude Code桥接开源项目",
     "summary": "feishu-claude-code-bridge是一个开源项目，可实现飞书与本机Claude Code CLI的双向连接。用户能从飞书消息中直接指挥Claude Code执行任务，Claude也能读取飞书中的工作上下文并创建、编辑飞书文档。其工作原理是将飞书消息转为Prompt通过命令行调用Claude CLI，并将",
     "source": "X：宝玉 (@dotey)",
@@ -14,29 +38,5 @@
     "url": "https://x.com/ViggleAI/status/2057947352195858568",
     "published_at": "2026-05-22T22:10:58.000Z",
     "category": "ai-products"
-  },
-  {
-    "title": "v2.1.149 更新摘要",
-    "summary": "本次 v2.1.149 更新包含功能增强、企业设置和多项修复。新增 `/usage` 命令的使用量分类显示功能，可区分技能、子代理、插件及每个 MCP 服务器的消耗；`/diff` 详情视图支持键盘滚动；Markdown 输出兼容 GFM 任务列表。企业版新增 `allowAllClaudeAiMcps` 设置以加载云",
-    "source": "Claude Code：GitHub Releases（RSS）",
-    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.149",
-    "published_at": "2026-05-22T22:09:29.000Z",
-    "category": "ai-products"
-  },
-  {
-    "title": "Claude自动模式新增Pro计划与模型支持",
-    "summary": "自动模式的两项更新：\n\n· 现已在Pro计划中提供\n· 现已支持Sonnet 4.6，以及Opus 4.7\n\n按下Shift+tab，让Claude运行。",
-    "source": "X：Claude Devs (@ClaudeDevs)",
-    "url": "https://x.com/ClaudeDevs/status/2057946803685974482",
-    "published_at": "2026-05-22T22:08:47.000Z",
-    "category": "ai-products"
-  },
-  {
-    "title": "Project Glasswing：初步更新",
-    "summary": "上月启动的Project Glasswing项目，旨在利用先进AI模型保障关键软件安全。通过约50家合作伙伴使用Claude Mythos Preview模型，已在全球关键系统中发现超过10，000个高危或严重漏洞。多家合作伙伴报告漏洞发现效率提升超过十倍。例如，Cloudflare在关键路径系统发现2，000个漏洞；",
-    "source": "Anthropic：Newsroom（网页）",
-    "url": "https://www.anthropic.com/research/glasswing-initial-update",
-    "published_at": "2026-05-22T19:57:01.055Z",
-    "category": "industry"
   }
 ]

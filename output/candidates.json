@@ -1,21 +1,57 @@
 [
   {
-    "title": "Did Google's AI agents build an operating system for $916?",
-    "summary": "<p>Article URL: <a href=\"https://www.normaltech.ai/p/did-googles-ai-agents-really-build\">https://www.normaltech.ai/p/did-googles-ai-agents-really-build</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48246279\">https://news.ycombinator.com/item?id=48246279</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
-    "url": "https://www.normaltech.ai/p/did-googles-ai-agents-really-build",
-    "published": "Sat, 23 May 2026 09:45:04 +0000",
+    "title": "I built a free AI travel planner for budget Europe trips",
+    "summary": "<p>Built with Next.js and Claude API. Would love \nfeedback from the HN community.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48256767\">https://news.ycombinator.com/item?id=48256767</a></p>\n<p>Points: 2</p>\n<p># Comments: 1</p>",
+    "url": "https://news.ycombinator.com/item?id=48256767",
+    "published": "Sun, 24 May 2026 12:34:34 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "飞书-Claude Code桥接开源项目",
-    "summary": "feishu-claude-code-bridge是一个开源项目，可实现飞书与本机Claude Code CLI的双向连接。用户能从飞书消息中直接指挥Claude Code执行任务，Claude也能读取飞书中的工作上下文并创建、编辑飞书文档。其工作原理是将飞书消息转为Prompt通过命令行调用Claude CLI，并将流式输出实时同步回飞书。该模式可扩展连接Codex等其他本地工具。需注意，2026年6月15日起，Claude订阅计划对`claude -p`模式将独立计费。",
-    "url": "https://x.com/dotey/status/2058084478459826432",
-    "published": "2026-05-23T07:15:51.000Z",
-    "source": "X：宝玉 (@dotey)",
+    "title": "Autotrader – paper trading AI agent for Indian equities",
+    "summary": "<p>Article URL: <a href=\"https://github.com/analyticalmonk/autotrader\">https://github.com/analyticalmonk/autotrader</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48256526\">https://news.ycombinator.com/item?id=48256526</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://github.com/analyticalmonk/autotrader",
+    "published": "Sun, 24 May 2026 11:55:38 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Supercharge Claude Code, Cursor, Codex with Semantic Code Intelligence",
+    "summary": "<p>Article URL: <a href=\"https://github.com/colbymchenry/codegraph\">https://github.com/colbymchenry/codegraph</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48256407\">https://news.ycombinator.com/item?id=48256407</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "url": "https://github.com/colbymchenry/codegraph",
+    "published": "Sun, 24 May 2026 11:25:10 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Claude Code自动模式：多任务并行的关键技巧",
+    "summary": "人们常问我，用好Claude Code的最大技巧是什么。\n如今我的头号技巧是：使用自动模式。\n自动模式意味着不再有权限提示。它是实现\"多Claude并行\"的关键构件：启动一个会话，然后在其运行时，并行处理另一个会话。",
+    "url": "https://x.com/bcherny/status/2058519809214607704",
+    "published": "2026-05-24T12:05:42.000Z",
+    "source": "X：Boris Cherny (@bcherny)",
     "source_weight": "high",
     "category": "tip"
+  },
+  {
+    "title": "StepAudio 2.5实时语音发布：副语言感知与人格化交互",
+    "summary": "StepAudio 2.5 Realtime是一款实时语音模型，能够深度理解用户语音中的语气、语速、停顿乃至微表情等副语言特征。它支持通过API接入自定义人格，允许设定个性、背景故事和语言风格，并提供了上万种原生人格选项，可组合出数百万种特征。产品还内置了5个可直接体验的预设人格，并经过RLHF调优，确保在复杂的角色扮演压力测试中也能保持角色一致性。该模型支持中文和英文。",
+    "url": "https://x.com/StepFun_ai/status/2058303294544425197",
+    "published": "2026-05-23T21:45:21.000Z",
+    "source": "X：阶跃星辰 StepFun (@StepFun_ai)",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "Replit Agent与Squidler集成，实现全自动化AI质量保障",
+    "summary": "Replit Agent与Squidler已完成集成，形成一套完整的AI驱动质量保障闭环。用户可通过自然语言描述应用功能，由Replit Agent负责构建。构建完成后，Squidler会像真实用户一样对线上应用进行自动化测试，无需编写任何测试脚本。测试中发现的问题会自动反馈给Replit Agent进行修复。该流程已通过Squidler加入Replit的MCP库正式上线，实现了从构建、测试到修复的全自动化，显著降低了应用测试与维护的门槛。",
+    "url": "https://x.com/Replit/status/2058261705998602548",
+    "published": "2026-05-23T19:00:06.000Z",
+    "source": "X：Replit (@Replit)",
+    "source_weight": "high",
+    "category": "ai-products"
   },
   {
     "title": "动作捕捉与角色动画制作更轻松",
@@ -43,15 +79,6 @@
     "source": "X：Claude Devs (@ClaudeDevs)",
     "source_weight": "high",
     "category": "ai-products"
-  },
-  {
-    "title": "Project Glasswing：初步更新",
-    "summary": "上月启动的Project Glasswing项目，旨在利用先进AI模型保障关键软件安全。通过约50家合作伙伴使用Claude Mythos Preview模型，已在全球关键系统中发现超过10，000个高危或严重漏洞。多家合作伙伴报告漏洞发现效率提升超过十倍。例如，Cloudflare在关键路径系统发现2，000个漏洞；Mozilla在Firefox 150中发现并修复271个漏洞，数量远超前代模型。项目还扫描了千余个支撑互联网的开源项目，独立验证准确率达90.6%。这标志着AI网络安全能力进入新阶段，漏洞发现速度已远超人工。",
-    "url": "https://www.anthropic.com/research/glasswing-initial-update",
-    "published": "2026-05-22T19:57:01.055Z",
-    "source": "Anthropic：Newsroom（网页）",
-    "source_weight": "high",
-    "category": "industry"
   },
   {
     "title": "ChatGPT语音模式实现表单语音填写",
@@ -126,24 +153,6 @@
     "category": "industry"
   },
   {
-    "title": "PixVerse App上线图像生成功能",
-    "summary": "Create Image已在PixVerse App上线。\n输入提示词或参考图，在手机上即可生成。\n5月24日至31日11：00 UTC，每人可免费生成3次。\n转发+关注+回复 = 300 Creds（仅限72小时）",
-    "url": "https://x.com/PixVerse_/status/2057777743027392848",
-    "published": "2026-05-22T10:57:00.000Z",
-    "source": "X：PixVerse (@PixVerse_)",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Vibedock",
-    "summary": "<p>\n            Toggle Claude Code MCP servers from your menu bar\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/vibedock?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1153399?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/vibedock",
-    "published": "2026-05-22T06:28:39-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
     "title": "The case for catholic philosophy in ethical interface design",
     "summary": "<h4>AI, metaphysics, and the search for moral grounding in design</h4><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/0*523jDKfMOonaCaMd\" /><figcaption>Photo by <a href=\"https://unsplash.com/@jhc?utm_source=medium&amp;utm_medium=referral\">James Coleman</a> on <a href=\"https://unsplash.com?utm_source=medium&amp;utm_medium=referral\">Unsplash</a></figcaption></figure><h4>A Confession</h4><p>If you had told me a year ago that I would be writing an article suggesting that Catholic p",
     "url": "https://uxdesign.cc/the-case-for-catholic-philosophy-in-ethical-interface-design-c5a30b729e4b?source=rss----138adf9c44c---4",
@@ -207,19 +216,10 @@
     "category": "design_communities"
   },
   {
-    "title": "The waiting problem in AI products",
-    "summary": "<h4><em>Productive computing has had a number since 1982. Every AI product missed it, and agents missed it by minutes.</em></h4><p><em>Editor’s note: I wrote this article from firsthand experience as a founder and engineer.</em></p><p><em>Disclosure: I co-found Chrome extensions that sit next to major AI chat products. Some of the user behaviors described below are behaviors I see across our install base, and I have a commercial interest in AI products having UX gaps that third-party tools can f",
-    "url": "https://uxdesign.cc/the-waiting-problem-in-ai-products-e7c11fd5a825?source=rss----138adf9c44c---4",
-    "published": "Mon, 18 May 2026 22:22:47 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Be like water, The death of the empty state, AI for UX",
-    "summary": "<h4>Weekly curated resources for designers — thinkers and makers.</h4><figure><a href=\"https://uxdesign.cc/be-like-water-rethinking-design-process-and-ai-experimentation-5db3c32eff7a?sk=4f33db27b9f53dbca9d3812b84a2e743\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/0*MF1Jpid_EfpRf_GJ.png\" /></a></figure><p>“You have likely seen companies quickly introduce AI mandates to keep pace with these trends. In the blink of an eye, we went from having no money for a Mural license to heavily in",
-    "url": "https://uxdesign.cc/be-like-water-the-death-of-the-empty-state-ai-for-ux-88654390e8ee?source=rss----138adf9c44c---4",
-    "published": "Mon, 18 May 2026 12:46:45 GMT",
+    "title": "Designing how designers master AI",
+    "summary": "<h4><em>Mastering an AI tool isn’t learning its correct use. It’s learning to bend it to how you already think — and that kind of mastery is personal, divergent, and never finished.</em></h4><figure><img alt=\"Five identical seeds rooted on a shared baseline, each growing into a structurally different form — a lattice, a sparse branch, a spiral, an irregular sprawl, and a gathered bundle — illustrating that mastering an AI tool is divergent and personal: the same instrument, shaped by who holds i",
+    "url": "https://uxdesign.cc/designing-how-designers-master-ai-642d8751d945?source=rss----138adf9c44c---4",
+    "published": "Sat, 23 May 2026 20:42:12 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"

@@ -1,5 +1,5 @@
 {
-  "day_count": 30,
+  "day_count": 31,
   "history": [
     {
       "day": 20,
@@ -83,6 +83,13 @@
       "date": "2026-05-23",
       "topic": "飞书-Claude Code桥接开源项目",
       "source": "X：宝玉 (@dotey)",
+      "mode": "rss"
+    },
+    {
+      "day": 31,
+      "date": "2026-05-24",
+      "topic": "Claude Code自动模式：多任务并行的关键技巧",
+      "source": "X：Boris Cherny (@bcherny)",
       "mode": "rss"
     }
   ],
