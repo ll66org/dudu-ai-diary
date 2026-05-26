@@ -1,5 +1,5 @@
 {
-  "day_count": 31,
+  "day_count": 33,
   "history": [
     {
       "day": 20,
@@ -90,6 +90,13 @@
       "date": "2026-05-24",
       "topic": "Claude Code自动模式：多任务并行的关键技巧",
       "source": "X：Boris Cherny (@bcherny)",
+      "mode": "rss"
+    },
+    {
+      "day": 33,
+      "date": "2026-05-26",
+      "topic": "Qwen3.7-Max 成为全球第二AI编程模型",
+      "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
       "mode": "rss"
     }
   ],

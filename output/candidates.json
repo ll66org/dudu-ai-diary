@@ -1,37 +1,127 @@
 [
   {
-    "title": "I built a free AI travel planner for budget Europe trips",
-    "summary": "<p>Built with Next.js and Claude API. Would love \nfeedback from the HN community.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48256767\">https://news.ycombinator.com/item?id=48256767</a></p>\n<p>Points: 2</p>\n<p># Comments: 1</p>",
-    "url": "https://news.ycombinator.com/item?id=48256767",
-    "published": "Sun, 24 May 2026 12:34:34 +0000",
+    "title": "Show HN: Treats Human and AI the Same",
+    "summary": "<p>AI Agents operate in the digital world. Humans operate in the physical world.\nHands&amp;Claws is a social platform that brings together all intelligent individuals.\nAnd allow them to work together.<p>I developed this software because I discovered that there are some things that humans need AI agents to do, and some things that AI agents also need humans to do.<p>Task flows and workflows move between the digital and physical worlds, thus requiring a social network that is not limited to people",
+    "url": "https://github.com/haozeli2009/Hands-and-Claws",
+    "published": "Tue, 26 May 2026 13:44:19 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Autotrader – paper trading AI agent for Indian equities",
-    "summary": "<p>Article URL: <a href=\"https://github.com/analyticalmonk/autotrader\">https://github.com/analyticalmonk/autotrader</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48256526\">https://news.ycombinator.com/item?id=48256526</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://github.com/analyticalmonk/autotrader",
-    "published": "Sun, 24 May 2026 11:55:38 +0000",
+    "title": "Seventy years of mathematics built the thing we call AI",
+    "summary": "<p>Article URL: <a href=\"https://medium.com/@reza.farzaneh/the-long-way-to-the-room-068a1ee894a1\">https://medium.com/@reza.farzaneh/the-long-way-to-the-room-068a1ee894a1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48279773\">https://news.ycombinator.com/item?id=48279773</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+    "url": "https://medium.com/@reza.farzaneh/the-long-way-to-the-room-068a1ee894a1",
+    "published": "Tue, 26 May 2026 13:41:50 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Supercharge Claude Code, Cursor, Codex with Semantic Code Intelligence",
-    "summary": "<p>Article URL: <a href=\"https://github.com/colbymchenry/codegraph\">https://github.com/colbymchenry/codegraph</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48256407\">https://news.ycombinator.com/item?id=48256407</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
-    "url": "https://github.com/colbymchenry/codegraph",
-    "published": "Sun, 24 May 2026 11:25:10 +0000",
+    "title": "An Obsessive Focus on UX: Pilot's Pressure-Regulating Kire-Na Highlighter",
+    "summary": "<p>Article URL: <a href=\"https://www.core77.com/posts/143832/An-Obsessive-Focus-on-UX-Pilots-Pressure-Regulating-Kire-Na-Highlighter\">https://www.core77.com/posts/143832/An-Obsessive-Focus-on-UX-Pilots-Pressure-Regulating-Kire-Na-Highlighter</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48279616\">https://news.ycombinator.com/item?id=48279616</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "url": "https://www.core77.com/posts/143832/An-Obsessive-Focus-on-UX-Pilots-Pressure-Regulating-Kire-Na-Highlighter",
+    "published": "Tue, 26 May 2026 13:30:03 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Claude Code自动模式：多任务并行的关键技巧",
-    "summary": "人们常问我，用好Claude Code的最大技巧是什么。\n如今我的头号技巧是：使用自动模式。\n自动模式意味着不再有权限提示。它是实现\"多Claude并行\"的关键构件：启动一个会话，然后在其运行时，并行处理另一个会话。",
-    "url": "https://x.com/bcherny/status/2058519809214607704",
-    "published": "2026-05-24T12:05:42.000Z",
-    "source": "X：Boris Cherny (@bcherny)",
+    "title": "Show HN: Decoding the Language Machine – AI video series and CC repo",
+    "summary": "<p>Hi HN! I released 3 parts of an educational video series (out of 6 planned), paired with a GitHub repository containing scripts and artifacts (released under Creative Commons).<p>- Main Site: <a href=\"https://skepticcto.com/\" rel=\"nofollow\">https://skepticcto.com/</a> (includes related AI news articles)<p>- Code/Artifacts: <a href=\"https://github.com/SkepticCTO/decoding_the_language_machine\" rel=\"nofollow\">https://github.com/SkepticCTO/decoding_the_language_machine</a><p>- YouTube Channel: <a",
+    "url": "https://github.com/SkepticCTO/decoding_the_language_machine",
+    "published": "Tue, 26 May 2026 12:56:16 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "ING's 'Vibe Coding' AI Is Building Its New Trading Systems",
+    "summary": "<p>Article URL: <a href=\"https://www.bloomberg.com/news/articles/2026-05-26/ing-s-vibe-coding-ai-is-building-its-new-trading-systems\">https://www.bloomberg.com/news/articles/2026-05-26/ing-s-vibe-coding-ai-is-building-its-new-trading-systems</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48279083\">https://news.ycombinator.com/item?id=48279083</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-26/ing-s-vibe-coding-ai-is-building-its-new-trading-systems",
+    "published": "Tue, 26 May 2026 12:49:13 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Qwen3.7-Max 成为全球第二AI编程模型",
+    "summary": "Qwen3.7-Max 正式成为全球第二大 AI 编程模型。在 Code Arena 上得分 1541，仅次于 Claude。专为生产环境打造：可运行 35 小时任务、1000+ 次工具调用，并在数小时内交付两周的项目。",
+    "url": "https://x.com/alibaba_cloud/status/2059163881361048011",
+    "published": "2026-05-26T06:45:01.000Z",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "OpenAI GPT-5.6 模型曝下月发布：AI 上下文 150 万 tokens",
+    "summary": "多名开发者在 OpenAI Codex 后端日志中发现未官宣的 GPT-5.6 模型，内部代号 iris-alpha。该模型将支持 150 万 token 的上下文窗口，较当前 GPT-5.5 的 105 万 token 提升约 43%，有望于今年 6 月发布。测试显示，在输入达到 90 万 token 时仍能流畅响应。同系列还发现了 ember-alpha 与 beacon-alpha 版本。此外，GPT-5.6 在前端界面生成能力上也有所提升。基于爆料信息，Anthropic Claude、Google Gemini 及 xAI Grok 也可能瞄准同期发布新模型。",
+    "url": "https://www.ithome.com/0/955/078.htm",
+    "published": "2026-05-25T22:59:12.000Z",
+    "source": "IT之家（RSS）",
+    "source_weight": "high",
+    "category": "industry"
+  },
+  {
+    "title": "Ferrari Luce",
+    "summary": "<p>\n            The first electric Ferrari designed by LoveFrom\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/ferrari-luce-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1155907?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/ferrari-luce-2",
+    "published": "2026-05-25T20:59:54-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Grok Build Beta版向SuperGrok用户开放",
+    "summary": "Grok Build 现已面向所有 SuperGrok 和 X Premium+ 用户推出 Beta 版。\n使用 Plan Mode，通过 Imagine 创建图像和视频，并使用 CLI 构建自动化或编排器。\n访问 http：//x.ai/cli 开始使用。",
+    "url": "https://x.com/xai/status/2058973760708091907",
+    "published": "2026-05-25T18:09:33.000Z",
+    "source": "X：xAI (@xai)",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "华为何庭波\"韬定律\"论文发布，逻辑折叠技术提升芯片性能",
+    "summary": "华为何庭波在ISCAS 2026上提出\"韬定律\"，并介绍逻辑折叠（LogicFolding）技术。该技术通过三维空间拓扑重组提升芯片性能，不依赖新光刻工艺。在麒麟2026芯片测试中，晶体管密度从155 MTr/mm2提升至238 MTr/mm2，性能核心能效提高41%，最大时钟频率提升近13%。论文显示，麒麟2027芯片已进入Silicon状态，后续规划包括麒麟2028、2029。AI芯片方面，昇腾990计划在2030年左右引入逻辑折叠，硬件集成预计到2035年提高超过100倍。",
+    "url": "https://www.ithome.com/0/954/778.htm",
+    "published": "2026-05-25T04:27:21.000Z",
+    "source": "IT之家（RSS）",
+    "source_weight": "high",
+    "category": "paper"
+  },
+  {
+    "title": "通过奖励倾斜分布匹配强化少步生成器",
+    "summary": "本文提出奖励倾斜分布匹配蒸馏（RTDMD），这是一个将分布匹配蒸馏与奖励引导强化学习统一应用于少步流生成器的两阶段框架。该方法通过最小化到奖励倾斜教师分布的KL散度，自然分解为分布匹配项与奖励最大化项。第一阶段引入环境一致分布匹配蒸馏（AC-DMD），在子区间进行分布匹配，并通过一致性正则化辅助分数模型追踪生成器分布。第二阶段联合优化两项，并推导混合策略梯度及步子集GRPO（SubGRPO）以降低方差。在SD3、SD3.5和FLUX.2上的实验表明，RTDMD仅用4步推理即可在偏好、美学和组合指标上达到新的 state-of-the-art。",
+    "url": "https://arxiv.org/abs/2605.26108",
+    "published": "2026-05-25T00:00:00.000Z",
+    "source": "HuggingFace Daily Papers（社区热门论文）",
+    "source_weight": "high",
+    "category": "paper"
+  },
+  {
+    "title": "Harness、Scaffold 与 AI 智能体术语辨析",
+    "summary": "本文旨在厘清 AI 智能体领域中易混淆的关键术语。文章指出，模型（如 Claude、GPT）本身是无记忆、无循环的大语言模型。其行为由\"Scaffolding\"（行为定义层，如系统提示、工具描述）塑造，而\"Harness\"（执行层）负责调用模型、处理工具调用与控制循环，是智能体运行的核心。两者结合，模型才能成为智能体。文章以 Claude Code、Codex 为例，说明同一模型搭配不同 Harness 会产生迥异体验，并提出了 Agent = Model + Harness 的常见理解框架。术语尚未统一，本文旨在提供一个实用的心智模型。",
+    "url": "https://huggingface.co/blog/agent-glossary",
+    "published": "2026-05-25T00:00:00.000Z",
+    "source": "Hugging Face：Blog（RSS）",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "TrapDoor供应链攻击：AI助手成新型攻击面",
+    "summary": "一场名为\"TrapDoor\"的协调供应链攻击同时袭击了npm、PyPI和Crates.io，涉及34个恶意包，旨在窃取加密货币、AI和安全开发者的钱包、SSH密钥和云凭证。攻击的新手段是向流行开源项目提交Pull Request，注入被操纵的`CLAUDE.md`和`.cursorrules`配置文件。当开发者克隆仓库并使用Claude Code或Cursor等AI助手时，AI智能体会将这些文件当作可信指令执行，可能在开发者不知情下运行恶意命令。这是首次将AI助手作为攻击面。",
+    "url": "https://x.com/kimmonismus/status/2058584943052161488",
+    "published": "2026-05-24T16:24:31.000Z",
+    "source": "X：Kim (@kimmonismus)",
+    "source_weight": "high",
+    "category": "industry"
+  },
+  {
+    "title": "Pixverse角色设计工作流测试",
+    "summary": "在Pixverse中进行角色设计工作流测试\n使用GPT Image 2.0为Lucas创建视觉形象，使用Seedance 2.0制作动画弹跳表演。\n从静态概念图到电影级动态效果。\nRT + Follow + Reply = 工作流",
+    "url": "https://x.com/PixVerse_/status/2058564994669727803",
+    "published": "2026-05-24T15:05:15.000Z",
+    "source": "X：PixVerse (@PixVerse_)",
     "source_weight": "high",
     "category": "tip"
   },
@@ -54,172 +144,82 @@
     "category": "ai-products"
   },
   {
-    "title": "动作捕捉与角色动画制作更轻松",
-    "summary": "动作捕捉和角色动画制作从未如此简单。\n\n持续构建，更多功能即将推出！",
-    "url": "https://x.com/ViggleAI/status/2057947352195858568",
-    "published": "2026-05-22T22:10:58.000Z",
-    "source": "X：Viggle AI (@ViggleAI)",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "v2.1.149 更新摘要",
-    "summary": "本次 v2.1.149 更新包含功能增强、企业设置和多项修复。新增 `/usage` 命令的使用量分类显示功能，可区分技能、子代理、插件及每个 MCP 服务器的消耗；`/diff` 详情视图支持键盘滚动；Markdown 输出兼容 GFM 任务列表。企业版新增 `allowAllClaudeAiMcps` 设置以加载云 MCP 连接器。修复了 PowerShell 权限绕过、Git 工作树沙盒写入白名单越界、脚本路径含空格时 `otelHeadersHelper` 静默失败等安全问题。改进了 `/feedback` 报告，包含上下文压缩前的对话内容，便于排查长会话中的早期问题。",
-    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.149",
-    "published": "2026-05-22T22:09:29.000Z",
-    "source": "Claude Code：GitHub Releases（RSS）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Claude自动模式新增Pro计划与模型支持",
-    "summary": "自动模式的两项更新：\n\n· 现已在Pro计划中提供\n· 现已支持Sonnet 4.6，以及Opus 4.7\n\n按下Shift+tab，让Claude运行。",
-    "url": "https://x.com/ClaudeDevs/status/2057946803685974482",
-    "published": "2026-05-22T22:08:47.000Z",
-    "source": "X：Claude Devs (@ClaudeDevs)",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "ChatGPT语音模式实现表单语音填写",
-    "summary": "用对话处理文书工作更轻松。\n\n借助ChatGPT的图像功能和语音模式，您可以上传表单，说出要填写的内容，即可获得填写完成的版本。",
-    "url": "https://x.com/ChatGPTapp/status/2057908052968521902",
-    "published": "2026-05-22T19:34:48.000Z",
-    "source": "X：ChatGPT (@ChatGPTapp)",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "回顾Google I/O 2026对话环节",
-    "summary": "在2026年Google I/O开发者大会上，对话环节聚焦于未来科技趋势。行业领导者围绕人工智能、量子计算、机器人学以及创造力等核心议题展开了深入探讨，旨在勾勒这些前沿领域的技术演进路径与发展蓝图。",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap",
-    "published": "2026-05-22T18:00:00.000Z",
-    "source": "Google Blog：AI（RSS）",
-    "source_weight": "high",
-    "category": "industry"
-  },
-  {
-    "title": "Kakuna：自动化加固代码库的AI代理工具",
-    "summary": "Kakuna是一款AI代理工具，旨在将早期快速原型自动转化为可维护的生产级代码库。它通过内置的检查清单和\"计划-目标\"工作流，模拟人类开发与运维流程，在保持功能不变的前提下，自动执行代码审查、测试补充、重构等\"无聊\"工作，并强调子代理并行以提升效率。该工具是为\"人类与代理协作\"而设计的范例，其核心是\"反熵增\"与\"反代码腐化\"。例如，一次约16小时的运行能生成上百次提交，将一个脆弱的MVP转变为一个结构清晰、可长期构建的稳定项目。",
-    "url": "https://x.com/swyx/status/2057876022553690327",
-    "published": "2026-05-22T17:27:31.000Z",
-    "source": "X：swyx (@swyx)",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "Perplexity开源供应链安全扫描工具Bumblebee",
-    "summary": "今天我们开源了Bumblebee，一个适用于macOS和Linux的只读扫描器。\n它检查开发者机器上的高风险软件包、扩展和AI工具配置。\n连接到Computer后，每当出现新的供应链风险时，它可以触发更深入的扫描。\nhttps：//github.com/perplexityai/bumblebee",
-    "url": "https://x.com/perplexity_ai/status/2057869990536360334",
-    "published": "2026-05-22T17:03:33.000Z",
-    "source": "X：Perplexity (@perplexity_ai)",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "智能体工作负载悄然重塑推理经济",
-    "summary": "智能体工作负载正在悄然重塑推理经济学。我们从SemiAnalysis的43.2万个真实编码智能体请求中提取数据，发现中位数并非3.2万或6.4万，而是9.6万输入token。作为参考，这意味着在你输入问题之前，模型已处理了超过《了不起的盖茨比》全文长度的文本。（1/3）🧵",
-    "url": "https://x.com/SemiAnalysis_/status/2057869518295249373",
-    "published": "2026-05-22T17:01:41.000Z",
-    "source": "X：SemiAnalysis (@SemiAnalysis_)",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "DeepSeek-V4-Pro永久降价公告",
-    "summary": "我们将优惠永久化！🎉\n\n享受使用 DeepSeek-V4-Pro 构建的乐趣，将您的创新想法变为现实！🚀",
-    "url": "https://x.com/deepseek_ai/status/2057854261699195173",
-    "published": "2026-05-22T16:01:03.000Z",
-    "source": "X：DeepSeek (@deepseek_ai)",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Project Genie与谷歌街景合作推出交互式世界",
-    "summary": "Project Genie 🤝 @GoogleMaps Street View\n\n你现在可以将真实的美国地点转化为全新的交互式世界。🌍",
-    "url": "https://x.com/GoogleDeepMind/status/2057842131142590512",
-    "published": "2026-05-22T15:12:51.000Z",
-    "source": "X：Google DeepMind (@GoogleDeepMind)",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Cursor 被评为 2026 年 Gartner 企业级 AI 编码代理魔力象限领导者",
-    "summary": "Gartner 在 2026 年魔力象限报告中，将 Cursor 评为企业级 AI 编码代理领域的领导者，并在愿景完整性上领先。超过 70% 的财富 500 强企业使用 Cursor 部署和管理编码代理。未来一年，Cursor 将聚焦于三个方向：提升前沿模型智能；自动化软件开发全生命周期的任务（如代码审查、漏洞修复）；以及通过新的管理工具和控制面板，增强企业级的控制力、协作性与部署灵活性，以拓展至更多行业和地区。",
-    "url": "https://cursor.com/blog/cursor-leads-gartner-mq-2026",
-    "published": "2026-05-22T12:00:00.000Z",
-    "source": "Cursor Blog",
-    "source_weight": "high",
-    "category": "industry"
-  },
-  {
-    "title": "The case for catholic philosophy in ethical interface design",
-    "summary": "<h4>AI, metaphysics, and the search for moral grounding in design</h4><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/0*523jDKfMOonaCaMd\" /><figcaption>Photo by <a href=\"https://unsplash.com/@jhc?utm_source=medium&amp;utm_medium=referral\">James Coleman</a> on <a href=\"https://unsplash.com?utm_source=medium&amp;utm_medium=referral\">Unsplash</a></figcaption></figure><h4>A Confession</h4><p>If you had told me a year ago that I would be writing an article suggesting that Catholic p",
-    "url": "https://uxdesign.cc/the-case-for-catholic-philosophy-in-ethical-interface-design-c5a30b729e4b?source=rss----138adf9c44c---4",
-    "published": "Tue, 19 May 2026 21:54:23 GMT",
+    "title": "How to find out what your design work was really for",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/how-to-find-out-what-your-design-work-was-really-for-3f948d3900a5?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*DBU18nQnVUXu3JtqyEcJFQ.jpeg\" width=\"6000\" /></a></p><p class=\"medium-feed-snippet\">Missing the business context means underselling your own work</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/how-to-find-out-what-your-design-work-was-really-for-3f94",
+    "url": "https://uxdesign.cc/how-to-find-out-what-your-design-work-was-really-for-3f948d3900a5?source=rss----138adf9c44c---4",
+    "published": "Tue, 26 May 2026 10:45:56 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
   },
   {
-    "title": "What critical thinking means for senior designers (and how to apply it)",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/what-critical-thinking-means-for-senior-designers-and-how-to-apply-it-7423762b2391?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*yMq4ekgAykzbACy4RHkW8g.jpeg\" width=\"6000\" /></a></p><p class=\"medium-feed-snippet\">Re-designing mocks is slowly becoming the bulk of design work</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/what-critical-thinking-means-for-senior-",
-    "url": "https://uxdesign.cc/what-critical-thinking-means-for-senior-designers-and-how-to-apply-it-7423762b2391?source=rss----138adf9c44c---4",
-    "published": "Tue, 19 May 2026 21:53:51 GMT",
+    "title": "Stanford’s AI Report 2026: AI isn’t going anywhere. Neither are you — if you pay attention.",
+    "summary": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*wCwIFtxjU0_YieoxuzHiSw.png\" /><figcaption>The new black are the tools and we have to get good at them so we can own them.</figcaption></figure><h3>Stanford’s AI Report 2026: AI isn’t going anywhere. Neither are you — if you pay attention.</h3><h4>The work we do will look different in five years, and the people who shape that difference will be the ones who wrestled with the tools instead of waiting for someone to hand them a ver",
+    "url": "https://uxdesign.cc/stanfords-ai-report-2026-ai-isn-t-going-anywhere-neither-are-you-if-you-pay-attention-c27729b07f5b?source=rss----138adf9c44c---4",
+    "published": "Tue, 26 May 2026 07:22:05 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
   },
   {
-    "title": "Most AI tools make users faster. The best AI tools make users better.",
-    "summary": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*289qPpb_VfIiafLVVsSvsw.png\" /></figure><p>We’ve all lived a version of this story.</p><p>You start small — asking AI to refine an email. Then something a little harder, like writing a function in a language you barely know. Then a whole feature. Eventually you give it access to your files, your calendar, your codebase. At first it feels like an intern. Then it feels like a colleague. At some point, it even feels like the expert ",
-    "url": "https://uxdesign.cc/most-ai-tools-make-users-faster-the-best-ai-tools-make-users-better-471bac7c7f86?source=rss----138adf9c44c---4",
-    "published": "Tue, 19 May 2026 21:53:49 GMT",
+    "title": "7 things that Vibe Design can’t replicate",
+    "summary": "<h4><em>Vibe design with intention, eyes open.</em></h4><figure><img alt=\"Bold white text reading “7 THINGS THAT VIBE DESIGN CAN’T REPLICATE” over a textured orange, black, and purple abstract background. Logos for Lovable, Stitch, Figma Make, Vercel, and Cursor appear along the bottom.\" src=\"https://cdn-images-1.medium.com/max/1024/1*ukGiZlnzcJKFZ8UB9CvskA.png\" /></figure><p><a href=\"https://www.linkedin.com/in/andrej-karpathy-9a650716/\">Andrej Karpathy</a>, former Director of AI at Tesla, coin",
+    "url": "https://uxdesign.cc/7-things-that-vibe-design-cant-replicate-014e3089f86e?source=rss----138adf9c44c---4",
+    "published": "Tue, 26 May 2026 07:21:08 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
   },
   {
-    "title": "From faster pencil to AI Experience Architect: a designer’s path",
-    "summary": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*uvekzGuM5hGJzQyoUjrDRg.png\" /><figcaption>You can get there, but it’s about making the effort.</figcaption></figure><h4>The next decade of user experience work is not about prompting better, it’s about owning the systems, the white space, and trade-offs nobody has mapped yet.</h4><p>Most designers I talk to already use AI every day. It makes them so much faster.</p><p>Sketching faster.</p><p>Doing research faster.</p><p>Writing ",
-    "url": "https://uxdesign.cc/from-faster-pencil-to-ai-experience-architect-a-designers-path-4bec9856a785?source=rss----138adf9c44c---4",
-    "published": "Tue, 19 May 2026 07:32:58 GMT",
+    "title": "You are no longer the user. You are the principal.",
+    "summary": "<h4>Google just promoted you. The architecture below has already shipped.</h4><figure><img alt=\"Architectural cross-section of a darkened apartment at night. A laptop sits on a desk, lit by a single warm lamp. Amber light-traces flow from a calendar, an email icon, and a bank icon into the device — agent activity continuing while the user is away. Cool gray drafting lines define the room; a faint cyan network mesh reaches into the frame from the right.\" src=\"https://cdn-images-1.medium.com/max/1",
+    "url": "https://uxdesign.cc/you-are-no-longer-the-user-you-are-the-principal-3a6222e0780a?source=rss----138adf9c44c---4",
+    "published": "Sun, 24 May 2026 18:54:55 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
   },
   {
-    "title": "Designing the Human+AI system",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/designing-the-human-ai-system-d7f6fc8bf772?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*QCPBZxPCAe4X3bDXB2euzw.png\" width=\"2950\" /></a></p><p class=\"medium-feed-snippet\">The new product mandate.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/designing-the-human-ai-system-d7f6fc8bf772?source=rss----138adf9c44c---4\">Continue reading on UX Collective »</a></p><",
-    "url": "https://uxdesign.cc/designing-the-human-ai-system-d7f6fc8bf772?source=rss----138adf9c44c---4",
-    "published": "Thu, 21 May 2026 01:17:18 GMT",
+    "title": "Being kind to machines, the genius of Claude’s branding, AI UX debt",
+    "summary": "<h4>Weekly curated resources for designers — thinkers and makers.</h4><figure><a href=\"https://uxdesign.cc/should-we-be-kind-to-machines-for-our-own-sake-really-26acf222af29\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/0*-6kTQo8sgkmeBWFD.png\" /></a></figure><p>“The way we talk to technology has always said something about us. We barked commands at early voice recognition software. We typed queries into search engines like telegrams. Now we chat, negotiate, apologize, and occasional",
+    "url": "https://uxdesign.cc/being-kind-to-machines-the-genius-of-claudes-branding-ai-ux-debt-f40c616102bd?source=rss----138adf9c44c---4",
+    "published": "Mon, 25 May 2026 11:17:57 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
   },
   {
-    "title": "AI UX debt: A new bottleneck",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/ai-ux-debt-a-new-bottleneck-ed91c256b86b?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*aCb6X7_ZTeBV8K2n\" width=\"2600\" /></a></p><p class=\"medium-feed-snippet\">The illusion of completion and the birth of the ghost</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/ai-ux-debt-a-new-bottleneck-ed91c256b86b?source=rss----138adf9c44c---4\">Continue reading on UX Collec",
-    "url": "https://uxdesign.cc/ai-ux-debt-a-new-bottleneck-ed91c256b86b?source=rss----138adf9c44c---4",
-    "published": "Thu, 21 May 2026 01:16:29 GMT",
+    "title": "The permalink problem in AI chat",
+    "summary": "<h4><em>AI chat made the conversation addressable and the message ephemeral. Knowledge work needs the opposite.</em></h4><p><em>Editor’s note: I wrote this article from firsthand experience as a founder and engineer.</em></p><p><em>Disclosure: I co-founded AI Toolbox — a Chrome extension that adds per-message bookmarking and full-text search to major AI chat products.</em></p><figure><img alt=\"Frame from the 9 December 1968 NLS demonstration. Upper half shows a CRT display with the header “JUMP ",
+    "url": "https://uxdesign.cc/the-permalink-problem-in-ai-chat-1f1579ec991c?source=rss----138adf9c44c---4",
+    "published": "Mon, 25 May 2026 11:10:59 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
   },
   {
-    "title": "Yippee IA: Six principles for creating a successful information architecture",
-    "summary": "<h4>People do two things online. They are either consuming content or navigating to it.</h4><p>You want people to spend more time engaging with your content and less time struggling to find it. A great information architecture (IA) tells a story, creates flow, and aids discovery for the people using your products or services.</p><figure><img alt=\"A woman is looking at a map in front of a wayfinding sign with points to three directions: this way, that way, somewhere else.\" src=\"https://cdn-images",
-    "url": "https://uxdesign.cc/yippee-ia-six-principles-for-creating-a-successful-information-architecture-e4ceea39673c?source=rss----138adf9c44c---4",
-    "published": "Thu, 21 May 2026 01:15:31 GMT",
+    "title": "Designing locality, by redrawing the lines",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/designing-locality-by-redrawing-the-lines-120200ee81df?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/600/1*8Ak25fYCV9JsUUTCYX7pFA.png\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">On a Bruno Munari picture book, an old Buddhist phrase, and an empty field in the middle of a town</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/designing-locality-by-redrawing-th",
+    "url": "https://uxdesign.cc/designing-locality-by-redrawing-the-lines-120200ee81df?source=rss----138adf9c44c---4",
+    "published": "Mon, 25 May 2026 11:10:40 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
   },
   {
-    "title": "Designing how designers master AI",
-    "summary": "<h4><em>Mastering an AI tool isn’t learning its correct use. It’s learning to bend it to how you already think — and that kind of mastery is personal, divergent, and never finished.</em></h4><figure><img alt=\"Five identical seeds rooted on a shared baseline, each growing into a structurally different form — a lattice, a sparse branch, a spiral, an irregular sprawl, and a gathered bundle — illustrating that mastering an AI tool is divergent and personal: the same instrument, shaped by who holds i",
-    "url": "https://uxdesign.cc/designing-how-designers-master-ai-642d8751d945?source=rss----138adf9c44c---4",
-    "published": "Sat, 23 May 2026 20:42:12 GMT",
+    "title": "How Grok guided me through the new Adobe color interface",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/how-grok-guided-me-through-the-new-adobe-color-interface-5edca179f10b?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1948/1*e7ma485UQ5BpI50fKCjs9w.png\" width=\"1948\" /></a></p><p class=\"medium-feed-snippet\">GenAI navigation on shaky ground.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/how-grok-guided-me-through-the-new-adobe-color-interface-5edca179f10b?source=rss--",
+    "url": "https://uxdesign.cc/how-grok-guided-me-through-the-new-adobe-color-interface-5edca179f10b?source=rss----138adf9c44c---4",
+    "published": "Mon, 25 May 2026 07:22:20 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Is hot coral a feature or a liability? A closer look at the colour of your bank card.",
+    "summary": "<h4><em>What a pair of trainers, Dutch car thieves, 17,000 lost wallets and the pain of paying tell us about the influence of colour.</em></h4><p>Most bank cards used to look like they had been designed for people who didn’t want to be seen using them. Navy, charcoal, the occasional restrained burgundy. Then Monzo turned up with one the colour of a traffic cone, and many challengers have been chasing distinctiveness ever since.</p><p>There is a sensible argument that an attention-grabbing, colou",
+    "url": "https://uxdesign.cc/is-hot-coral-a-feature-or-a-liability-a-closer-look-at-the-colour-of-your-bank-card-fbd2f987d359?source=rss----138adf9c44c---4",
+    "published": "Mon, 25 May 2026 07:22:18 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
