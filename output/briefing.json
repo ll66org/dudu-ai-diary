@@ -1,42 +1,42 @@
 [
   {
-    "title": "Qwen3.7-Max 成为全球第二AI编程模型",
-    "summary": "Qwen3.7-Max 正式成为全球第二大 AI 编程模型。在 Code Arena 上得分 1541，仅次于 Claude。专为生产环境打造：可运行 35 小时任务、1000+ 次工具调用，并在数小时内交付两周的项目。",
-    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
-    "url": "https://x.com/alibaba_cloud/status/2059163881361048011",
-    "published_at": "2026-05-26T06:45:01.000Z",
-    "category": "ai-models"
-  },
-  {
-    "title": "OpenAI GPT-5.6 模型曝下月发布：AI 上下文 150 万 tokens",
-    "summary": "多名开发者在 OpenAI Codex 后端日志中发现未官宣的 GPT-5.6 模型，内部代号 iris-alpha。该模型将支持 150 万 token 的上下文窗口，较当前 GPT-5.5 的 105 万 token 提升约 43%，有望于今年 6 月发布。测试显示，在输入达到 90 万 token 时仍能流畅响应",
-    "source": "IT之家（RSS）",
-    "url": "https://www.ithome.com/0/955/078.htm",
-    "published_at": "2026-05-25T22:59:12.000Z",
-    "category": "industry"
-  },
-  {
-    "title": "Grok Build Beta版向SuperGrok用户开放",
-    "summary": "Grok Build 现已面向所有 SuperGrok 和 X Premium+ 用户推出 Beta 版。\n使用 Plan Mode，通过 Imagine 创建图像和视频，并使用 CLI 构建自动化或编排器。\n访问 http：//x.ai/cli 开始使用。",
-    "source": "X：xAI (@xai)",
-    "url": "https://x.com/xai/status/2058973760708091907",
-    "published_at": "2026-05-25T18:09:33.000Z",
+    "title": "Runway 推出 Model Context Protocol 服务器",
+    "summary": "Runway 正式推出 Runway MCP 服务器，允许任何兼容 MCP 的 AI 智能体（如 Claude、ChatGPT、Cursor）在对话界面中直接生成图像与视频，无需切换工作流。该服务器接入了 Runway 最新的多款 SOTA 模型，包括 Gen-4.5、Seedance 2.0、GPT Image 2、",
+    "source": "Runway：News（网页）",
+    "url": "https://runwayml.com/news/mcp",
+    "published_at": "2026-05-27T14:09:52.649Z",
     "category": "ai-products"
   },
   {
-    "title": "华为何庭波\"韬定律\"论文发布，逻辑折叠技术提升芯片性能",
-    "summary": "华为何庭波在ISCAS 2026上提出\"韬定律\"，并介绍逻辑折叠（LogicFolding）技术。该技术通过三维空间拓扑重组提升芯片性能，不依赖新光刻工艺。在麒麟2026芯片测试中，晶体管密度从155 MTr/mm2提升至238 MTr/mm2，性能核心能效提高41%，最大时钟频率提升近13%。论文显示，麒麟2027芯",
-    "source": "IT之家（RSS）",
-    "url": "https://www.ithome.com/0/954/778.htm",
-    "published_at": "2026-05-25T04:27:21.000Z",
-    "category": "paper"
+    "title": "藏师傅发布小红书图文排版AI Skill，集成地图与自动配图",
+    "summary": "该推文介绍了guizang-social-card-skill，一款针对小红书图文常见类别进行优化的AI Skill。其亮点在于为旅行博主集成了地图组件，用户输入目的地和线路后，AI能自动在底图上标记并嵌入图片。根据引用，该Skill完全基于HTML和实拍图片生成内容，不会被平台标注为AI生成，并会主动从高质量图片网站",
+    "source": "X：歸藏 (@op7418)",
+    "url": "https://x.com/op7418/status/2059587983289016348",
+    "published_at": "2026-05-27T10:50:15.000Z",
+    "category": "tip"
   },
   {
-    "title": "通过奖励倾斜分布匹配强化少步生成器",
-    "summary": "本文提出奖励倾斜分布匹配蒸馏（RTDMD），这是一个将分布匹配蒸馏与奖励引导强化学习统一应用于少步流生成器的两阶段框架。该方法通过最小化到奖励倾斜教师分布的KL散度，自然分解为分布匹配项与奖励最大化项。第一阶段引入环境一致分布匹配蒸馏（AC-DMD），在子区间进行分布匹配，并通过一致性正则化辅助分数模型追踪生成器分布。",
-    "source": "HuggingFace Daily Papers（社区热门论文）",
-    "url": "https://arxiv.org/abs/2605.26108",
-    "published_at": "2026-05-25T00:00:00.000Z",
-    "category": "paper"
+    "title": "使用 Codex 构建自改进税务智能体",
+    "summary": "OpenAI、Thrive 与 Crete 合作，使用 Codex 构建了一个自改进的税务智能体。该智能体能够自动处理报税流程，提升工作准确性并加速整体工作流。",
+    "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+    "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
+    "published_at": "2026-05-27T07:00:00.000Z",
+    "category": "tip"
+  },
+  {
+    "title": "阿里云成为PyTorch基金会白金会员",
+    "summary": "阿里云宣布以白金会员身份加入PyTorch基金会。作为AI基础设施全球领导者，阿里云是开源模型家族Qwen的缔造方，已在多样化硬件上大规模运行PyTorch，将为社区带来生产级工程经验。",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "url": "https://x.com/alibaba_cloud/status/2059453607075004835",
+    "published_at": "2026-05-27T01:56:17.000Z",
+    "category": "industry"
+  },
+  {
+    "title": "Claude Code v2.1.152 更新发布",
+    "summary": "Claude Code 发布 v2.1.152 版本更新。核心改进包括：`/code-review --fix` 现在会将审查建议直接应用于工作目录；技能与斜杠命令支持通过 frontmatter 的 `disallowed-tools` 移除模型工具；新增 `/reload-skills` 命令可不重启会话重新扫描技",
+    "source": "Claude Code：GitHub Releases（RSS）",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.152",
+    "published_at": "2026-05-27T01:30:59.000Z",
+    "category": "ai-products"
   }
 ]

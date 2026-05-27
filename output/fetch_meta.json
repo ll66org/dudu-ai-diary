@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-26T14:15:05.094283Z",
+  "fetched_at": "2026-05-27T14:41:55.259570Z",
   "total_candidates": 25,
   "source_stats": {
     "Figma Blog": {
@@ -8,7 +8,7 @@
     },
     "Vercel Blog (v0)": {
       "found": 0,
-      "total": 1172
+      "total": 1175
     },
     "Cursor Changelog": {
       "found": 0,
@@ -31,7 +31,7 @@
       "total": 66
     },
     "Smashing Magazine": {
-      "found": 1,
+      "found": 2,
       "total": 40
     },
     "UX Collective": {
@@ -51,11 +51,11 @@
       "total": 20
     },
     "Hacker News (设计向)": {
-      "found": 5,
-      "total": 20
+      "found": 0,
+      "total": 0
     },
     "Product Hunt": {
-      "found": 1,
+      "found": 0,
       "total": 50
     },
     "Designer News (AI Design)": {
@@ -64,27 +64,27 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 33,
-  "today_date": "2026-05-26",
+  "dudu_day": 34,
+  "today_date": "2026-05-27",
   "used_titles": [
-    "腾讯 AI 设计智能体 Ardot 公测：一句话生成可编辑设计稿，一键转代码",
     "AI代理集成新方案：Membrane推出单一技能连接万种API",
     "在OpenClaw中使用Grok",
     "游戏开发门槛被AI大幅降低",
     "Karpathy的CLAUDE.md四条规则让AI编程准确率飙升至94%",
     "飞书-Claude Code桥接开源项目",
-    "Claude Code自动模式：多任务并行的关键技巧"
+    "Claude Code自动模式：多任务并行的关键技巧",
+    "Qwen3.7-Max 成为全球第二AI编程模型"
   ],
   "used_tools": [
-    "IT之家（RSS）",
     "X：Rohan Paul (@rohanpaul_ai)",
     "xAI：News（网页）",
     "X：阿易 AI Notes (@AYi_AInotes)",
     "X：阿易 AI Notes (@AYi_AInotes)",
     "X：宝玉 (@dotey)",
-    "X：Boris Cherny (@bcherny)"
+    "X：Boris Cherny (@bcherny)",
+    "X：阿里云 / Alibaba Cloud (@alibaba_cloud)"
   ],
-  "briefing_total": 34,
-  "briefing_design": 11,
+  "briefing_total": 58,
+  "briefing_design": 24,
   "briefing_count": 5
 }
