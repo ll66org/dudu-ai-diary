@@ -1,5 +1,5 @@
 {
-  "day_count": 34,
+  "day_count": 35,
   "history": [
     {
       "day": 20,
@@ -104,6 +104,13 @@
       "date": "2026-05-27",
       "topic": "Runway 推出 Model Context Protocol 服务器",
       "source": "Runway：News（网页）",
+      "mode": "rss"
+    },
+    {
+      "day": 35,
+      "date": "2026-05-28",
+      "topic": "AI生成短片《昨夜》探索记忆碎片中的东京之夜",
+      "source": "X：Runway (@runwayml)",
       "mode": "rss"
     }
   ],

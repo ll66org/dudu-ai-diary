@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-27T14:41:55.259570Z",
+  "fetched_at": "2026-05-28T14:54:05.773686Z",
   "total_candidates": 25,
   "source_stats": {
     "Figma Blog": {
@@ -8,7 +8,7 @@
     },
     "Vercel Blog (v0)": {
       "found": 0,
-      "total": 1175
+      "total": 1176
     },
     "Cursor Changelog": {
       "found": 0,
@@ -51,8 +51,8 @@
       "total": 20
     },
     "Hacker News (设计向)": {
-      "found": 0,
-      "total": 0
+      "found": 6,
+      "total": 20
     },
     "Product Hunt": {
       "found": 0,
@@ -64,27 +64,27 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 34,
-  "today_date": "2026-05-27",
+  "dudu_day": 35,
+  "today_date": "2026-05-28",
   "used_titles": [
-    "AI代理集成新方案：Membrane推出单一技能连接万种API",
     "在OpenClaw中使用Grok",
     "游戏开发门槛被AI大幅降低",
     "Karpathy的CLAUDE.md四条规则让AI编程准确率飙升至94%",
     "飞书-Claude Code桥接开源项目",
     "Claude Code自动模式：多任务并行的关键技巧",
-    "Qwen3.7-Max 成为全球第二AI编程模型"
+    "Qwen3.7-Max 成为全球第二AI编程模型",
+    "Runway 推出 Model Context Protocol 服务器"
   ],
   "used_tools": [
-    "X：Rohan Paul (@rohanpaul_ai)",
     "xAI：News（网页）",
     "X：阿易 AI Notes (@AYi_AInotes)",
     "X：阿易 AI Notes (@AYi_AInotes)",
     "X：宝玉 (@dotey)",
     "X：Boris Cherny (@bcherny)",
-    "X：阿里云 / Alibaba Cloud (@alibaba_cloud)"
+    "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "Runway：News（网页）"
   ],
-  "briefing_total": 58,
-  "briefing_design": 24,
+  "briefing_total": 80,
+  "briefing_design": 35,
   "briefing_count": 5
 }

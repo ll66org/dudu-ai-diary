@@ -1,129 +1,219 @@
 [
   {
-    "title": "Runway 推出 Model Context Protocol 服务器",
-    "summary": "Runway 正式推出 Runway MCP 服务器，允许任何兼容 MCP 的 AI 智能体（如 Claude、ChatGPT、Cursor）在对话界面中直接生成图像与视频，无需切换工作流。该服务器接入了 Runway 最新的多款 SOTA 模型，包括 Gen-4.5、Seedance 2.0、GPT Image 2、Kling 3.0 及 Nano Banana Pro。其应用场景涵盖为产品制作营销视频、批量生成网站视觉素材、创作角色广告以及在应用开发中集成视觉内容。用户设置简便，通过 runwayml.com/mcp 添加服务器并登录现有 Runway 账户即可使用，无需单独申请 API 密钥。",
-    "url": "https://runwayml.com/news/mcp",
-    "published": "2026-05-27T14:09:52.649Z",
-    "source": "Runway：News（网页）",
+    "title": "Occupy Wall Street co-founder built an on-device AI for activists",
+    "summary": "<p>Article URL: <a href=\"https://gizmodo.com/occupy-wall-street-co-founder-built-an-ai-app-to-help-activists-seize-the-means-of-computation-2000762031\">https://gizmodo.com/occupy-wall-street-co-founder-built-an-ai-app-to-help-activists-seize-the-means-of-computation-2000762031</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48309775\">https://news.ycombinator.com/item?id=48309775</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://gizmodo.com/occupy-wall-street-co-founder-built-an-ai-app-to-help-activists-seize-the-means-of-computation-2000762031",
+    "published": "Thu, 28 May 2026 14:50:21 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Figma Make, now on your local code",
+    "summary": "<p>Article URL: <a href=\"https://www.figma.com/blog/figma-make-now-on-your-local-code/\">https://www.figma.com/blog/figma-make-now-on-your-local-code/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48309217\">https://news.ycombinator.com/item?id=48309217</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://www.figma.com/blog/figma-make-now-on-your-local-code/",
+    "published": "Thu, 28 May 2026 14:11:29 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "AI agents get their own phone directory built atop DNS",
+    "summary": "<p>Article URL: <a href=\"https://www.theregister.com/ai-ml/2026/05/28/ai-agents-get-their-own-phone-directory-built-atop-dns/5247539\">https://www.theregister.com/ai-ml/2026/05/28/ai-agents-get-their-own-phone-directory-built-atop-dns/5247539</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48308911\">https://news.ycombinator.com/item?id=48308911</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://www.theregister.com/ai-ml/2026/05/28/ai-agents-get-their-own-phone-directory-built-atop-dns/5247539",
+    "published": "Thu, 28 May 2026 13:46:26 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Turn your PC, Mac, or Linux box into an AI server",
+    "summary": "<p>Article URL: <a href=\"https://github.com/Light-Heart-Labs/DreamServer\">https://github.com/Light-Heart-Labs/DreamServer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48308880\">https://news.ycombinator.com/item?id=48308880</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "url": "https://github.com/Light-Heart-Labs/DreamServer",
+    "published": "Thu, 28 May 2026 13:43:39 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Check our new AI developer tool and please REVIEW",
+    "summary": "<p>Article URL: <a href=\"https://github.com/pwnaxe/squick\">https://github.com/pwnaxe/squick</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48308740\">https://news.ycombinator.com/item?id=48308740</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "url": "https://github.com/pwnaxe/squick",
+    "published": "Thu, 28 May 2026 13:32:26 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "To Become a Better Designer with AI, Become a Digital Hoarder",
+    "summary": "<p>Article URL: <a href=\"https://metedata.substack.com/p/014-want-to-design-better-with-ai\">https://metedata.substack.com/p/014-want-to-design-better-with-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48308527\">https://news.ycombinator.com/item?id=48308527</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+    "url": "https://metedata.substack.com/p/014-want-to-design-better-with-ai",
+    "published": "Thu, 28 May 2026 13:13:24 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "AI生成短片《昨夜》探索记忆碎片中的东京之夜",
+    "summary": "昨夜。一部完全由AI生成的短片，通过破碎记忆的视角，探索了在东京改变人生的一个夜晚。由一人使用Runway在一天内创作完成。\n\n这是Project Luxo的一部分：一个探索AI生成视频如何跨越恐怖谷的新项目。\n\n通过下方链接了解更多关于《昨夜》和Project Luxo的信息。",
+    "url": "https://x.com/runwayml/status/2059998751742128635",
+    "published": "2026-05-28T14:02:29.000Z",
+    "source": "X：Runway (@runwayml)",
     "source_weight": "high",
     "category": "ai-products"
   },
   {
-    "title": "藏师傅发布小红书图文排版AI Skill，集成地图与自动配图",
-    "summary": "该推文介绍了guizang-social-card-skill，一款针对小红书图文常见类别进行优化的AI Skill。其亮点在于为旅行博主集成了地图组件，用户输入目的地和线路后，AI能自动在底图上标记并嵌入图片。根据引用，该Skill完全基于HTML和实拍图片生成内容，不会被平台标注为AI生成，并会主动从高质量图片网站寻找对应主题图片，以优化图文排版。",
-    "url": "https://x.com/op7418/status/2059587983289016348",
-    "published": "2026-05-27T10:50:15.000Z",
-    "source": "X：歸藏 (@op7418)",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "使用 Codex 构建自改进税务智能体",
-    "summary": "OpenAI、Thrive 与 Crete 合作，使用 Codex 构建了一个自改进的税务智能体。该智能体能够自动处理报税流程，提升工作准确性并加速整体工作流。",
-    "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
-    "published": "2026-05-27T07:00:00.000Z",
-    "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "阿里云成为PyTorch基金会白金会员",
-    "summary": "阿里云宣布以白金会员身份加入PyTorch基金会。作为AI基础设施全球领导者，阿里云是开源模型家族Qwen的缔造方，已在多样化硬件上大规模运行PyTorch，将为社区带来生产级工程经验。",
-    "url": "https://x.com/alibaba_cloud/status/2059453607075004835",
-    "published": "2026-05-27T01:56:17.000Z",
-    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
-    "source_weight": "high",
-    "category": "industry"
-  },
-  {
-    "title": "Claude Code v2.1.152 更新发布",
-    "summary": "Claude Code 发布 v2.1.152 版本更新。核心改进包括：`/code-review --fix` 现在会将审查建议直接应用于工作目录；技能与斜杠命令支持通过 frontmatter 的 `disallowed-tools` 移除模型工具；新增 `/reload-skills` 命令可不重启会话重新扫描技能目录；`SessionStart` 钩子现可返回 `reloadSkills： true` 重新扫描技能，并可通过 `hookSpecificOutput.sessionTitle` 设置会话标题；新增 `MessageDisplay` 钩子事件以变换或隐藏助手消息。其他更新涉及插件市场管理、主模型不可用时自动切换至 `--fallback-model`、会话用量统计优化等。同时修复了终端样式退化、沙箱警告显示、思考摘要、MCP 服务器去重、远程会话连接及多种会话卡顿问题。",
-    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.152",
-    "published": "2026-05-27T01:30:59.000Z",
-    "source": "Claude Code：GitHub Releases（RSS）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Code w/ Claude 伦敦活动：重塑开发体验",
-    "summary": "在Code w/ Claude 伦敦活动上，Anthropic 宣布了 Claude Managed Agents 的两项新能力：自托管沙箱（公开测试版）和 MCP 隧道（研究预览）。这两项功能使 AI 智能体的工具执行环境与企业私有网络内的 MCP 服务器连接均可运行在客户自有基础设施或指定托管服务商处。活动还介绍了如何通过 Claude Code、优化思维预算以及模型努力级别来提升开发体验。目前，包括 Spotify、Base44 和 Legora 在内的客户已在使用这些新功能。",
-    "url": "https://claude.com/blog/code-w-claude-london-2026-rethinking-how-we-build",
-    "published": "2026-05-27T01:04:42.394Z",
-    "source": "Claude：Blog（网页）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Anthropic任命KiYoung Choi为韩国代表董事",
-    "summary": "Anthropic宣布任命KiYoung Choi为韩国代表董事，以支持其即将在首尔开设的办公室。根据Anthropic的经济指数，韩国是Claude.ai全球最活跃的市场之一，其使用率超过人口规模预期的3.5倍，主要用于技术和创意领域。KiYoung Choi此前曾担任Snowflake韩国区总经理，在Google Cloud、Adobe等公司拥有超过30年的科技行业领导经验。他将在韩国领导市场战略，支持本地企业和初创公司应用Claude，例如法律科技公司Law&Company及韩国电信巨头SK Telecom均已在使用Claude构建产品。",
-    "url": "https://www.anthropic.com/news/kiyoung-choi-representative-director-anthropic-korea",
-    "published": "2026-05-26T23:34:41.030Z",
+    "title": "Anthropic 开设米兰办公室，深化意大利企业合作与 AI 安全对话",
+    "summary": "Anthropic 在米兰开设其欧洲第六家办公室，旨在与意大利企业及开发者社区合作，负责任地构建和扩展 Claude，并参与关于 AI 的对话。本地团队已与多家金融、生命科学、能源及汽车行业的公司展开合作。案例包括与 JAKALA 合作将 Claude 部署至超 3，000 席位，释放约 70% 高级团队时间；Satispay 借此将 18 个月路线图压缩至 7 个月；Bending Spoons 的大部分代码变更已与 Claude Code 共同完成。Anthropic 承诺支持意大利企业、研究及文化，通过安全的 AI 转型促进发展。",
+    "url": "https://www.anthropic.com/news/milan-office-opening",
+    "published": "2026-05-28T13:12:11.769Z",
     "source": "Anthropic：Newsroom（网页）",
     "source_weight": "high",
     "category": "industry"
   },
   {
-    "title": "Claude Code推出安全漏洞识别插件",
-    "summary": "我们为Claude Code发布了一个安全指导插件，可在编写代码时帮助识别和修复漏洞。\n所有Claude Code用户均可使用。从插件市场（/plugins）安装。",
-    "url": "https://x.com/ClaudeDevs/status/2059385239781384341",
-    "published": "2026-05-26T21:24:37.000Z",
-    "source": "X：Claude Devs (@ClaudeDevs)",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Gemini Omni 视频提示词使用指南",
-    "summary": "Google 发布了其多模态模型 Gemini Omni 的视频生成功能使用指南。该模型可通过 Gemini 应用、Google Flow 等平台体验。指南包含五项提示词技巧：利用模型已有的现实世界知识进行简洁描述；精确控制文本在视频中的渲染与排版；使用专业镜头指令（如推拉摇移）像电影摄影师一样调度画面；通过迭代编辑高效修改视频；以及在生成中直接调整角色的动作节奏或情绪。其核心在于通过精准的提示词引导模型生成复杂且可控的视频内容。",
-    "url": "https://x.com/GoogleAI/status/2059381218660270435",
-    "published": "2026-05-26T21:08:38.000Z",
-    "source": "X：Google AI (@GoogleAI)",
+    "title": "pgvector驱动的语义、混合、稀疏与量化向量搜索系统构建编码指南",
+    "summary": "本教程在Google Colab中构建一个完整的pgvector实验环境，展示PostgreSQL如何作为向量数据库服务于现代AI应用。内容涵盖安装PostgreSQL、编译pgvector扩展、通过Psycopg建立连接，并注册向量类型以实现与Python的平滑集成。最后使用SentenceTransformers创建并存储嵌入向量。",
+    "url": "https://www.marktechpost.com/2026/05/28/a-coding-guide-to-implement-a-pgvector-powered-semantic-hybrid-sparse-and-quantized-vector-search-system",
+    "published": "2026-05-28T08:07:09.000Z",
+    "source": "MarkTechPost（RSS）",
     "source_weight": "high",
     "category": "tip"
   },
   {
-    "title": "据报道Claude Mythos以\"巧妙简洁的证明\"解决了OpenAI里程碑式的Erdős问题",
-    "summary": "Anthropic工程师Sholto Douglas表示，Claude Mythos在周末期间解决了OpenAI提出的Erdős单位距离猜想问题，并给出了一个\"巧妙简洁的证明\"。这一成果被描述为人工智能在数学发现领域存在\"严重超前\"迹象。",
-    "url": "https://the-decoder.com/claude-mythos-reportedly-solves-openais-landmark-erdos-problem-with-a-cute-simple-proof",
-    "published": "2026-05-26T18:31:07.000Z",
-    "source": "The Decoder：AI News（RSS）",
+    "title": "MuleRun登陆阿里云市场，提供全天候AI劳动力",
+    "summary": "在阿里云市场遇见 MuleRun--一个全天候的AI劳动力，用于研究、报告、代码、设计等。功能强大，适合个人使用；企业就绪，适合团队协作--支持SSO、RBAC、私有网络、团队知识管理和无缝集成。\n\n想得更大。让 MuleRun 处理其余事务。\n\n方案起价 $20/月 → https：//int.alibabacloud.com/m/1000413520/\n\n#AlibabaCloud #AIAgents #AIWorkforce #FutureOfWork #EnterpriseAI",
+    "url": "https://x.com/alibaba_cloud/status/2059821825140367565",
+    "published": "2026-05-28T02:19:27.000Z",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "英伟达推出 AI 框架 Polar，让 Codex 跑分暴涨 594.74%",
+    "summary": "英伟达研究团队开源了智能体强化学习框架 Polar。该框架无需重写现有智能体执行框架（如 Codex CLI、Claude Code、Qwen Code、Pi），通过在模型 API 边界放置智能体来接入 GRPO 训练。实验显示，基于 Qwen3.5-4B 模型，Polar 将 Codex 在 SWE-Bench Verified 上的 pass@1 分数从 3.8% 提升至 26.4%（增涨 594.74%）。效率上，其 prefix_merging 技术将训练步骤从 1185 次降至 218 次，速度提升约 5.39 倍，GPU 平均利用率从 20.4% 升至 87.7%。",
+    "url": "https://www.ithome.com/0/956/293.htm",
+    "published": "2026-05-28T02:14:52.000Z",
+    "source": "IT之家（RSS）",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "用好 Coding Agent，重点是两头，尤其是开头的部分，如果一开始就走偏了后面怎么改都改不好。",
+    "summary": "用好 Coding Agent 的关键在于初始规划。方法是先将需求整理后，用最强模型（如 GPT-5.5、Claude Opus 4.7）分别在 Codex、Claude Code、Cursor 的 Plan 模式下生成设计方案，选择最优方案并借鉴其他版本。对于复杂计划，可将其拆分为多个 Phases 并明确要求与验证标准，形成 Markdown 文档。执行时按 Phases 进行，并辅以人工审核纠偏。最后的代码审核（Code Review）用 GPT-5.5 审核代码质量与设计符合度即可。应避免让多个智能体交叉 Review，否则可能导致代码越改越多。",
+    "url": "https://x.com/dotey/status/2059773942500298934",
+    "published": "2026-05-27T23:09:11.000Z",
+    "source": "X：宝玉 (@dotey)",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "社会科学中的编码智能体",
+    "summary": "一项针对1260名定量社会科学家的调查显示，虽然81%的受访者用过AI聊天机器人，但仅有20%将Claude Code、Codex等编码智能体常规应用于工作。采用率存在显著差异：以男性名字命名的研究者使用率是女性研究者的两倍；顶尖大学研究者可能性高出40%。用户产出更多工作论文和基金申请，但这可能反映早期采用者自身差异。研究者对AI助力撰写可发表论文更乐观，但对重塑整个社会科学领域持保留态度。这是一项初步调查，更深入研究仍在进行中。",
+    "url": "https://www.anthropic.com/research/coding-agents-social-sciences",
+    "published": "2026-05-27T23:07:32.187Z",
+    "source": "Anthropic：Research（发表成果 · 网页）",
+    "source_weight": "high",
+    "category": "paper"
+  },
+  {
+    "title": "使用大语言模型保障源代码安全",
+    "summary": "本文分享了使用 Claude Opus 构建威胁模型、发现代码漏洞并进行验证、分类和修复的最佳实践。其核心流程是一个六步循环：威胁建模、沙箱隔离、漏洞发现、验证、分类和修复。作者指出，漏洞发现现在易于并行化，瓶颈已转移到后续的验证与处理阶段。以他们对开源软件的扫描为例，截至2026年5月22日已披露1，596个漏洞，其中97个已修补。指南建议结合代码库文档和专家访谈来构建准确的威胁模型，以降低误报，提升发现的可利用性。",
+    "url": "https://claude.com/blog/using-llms-to-secure-source-code",
+    "published": "2026-05-27T22:07:31.048Z",
+    "source": "Claude：Blog（网页）",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "Cognition成为全球最大独立智能体实验室",
+    "summary": "Cognition宣布已成为全球最大的独立智能体实验室。公司完成超10亿美元融资，估值达260亿美元，由Lux Capital、General Catalyst等领投。其企业使用量自年初增长超10倍，年化收入增至4.92亿美元。Cognition于两年前推出Devin，定位为首个AI软件工程师。公司强调其拥有多项领先优势，包括首个编码智能体、顶级代码审查能力等，并得到了Peter Thiel的重大投资。",
+    "url": "https://x.com/swyx/status/2059717021944926238",
+    "published": "2026-05-27T19:23:00.000Z",
+    "source": "X：swyx (@swyx)",
     "source_weight": "high",
     "category": "industry"
   },
   {
-    "title": "我们如何对不同产品中的Claude进行隔离控制",
-    "summary": "Anthropic通过三重机制控制Claude智能体的部署风险，包括用户误用、模型异常行为和外部攻击。其防护策略聚焦于三个层面：通过沙箱、虚拟机和网络出口控制限制智能体运行环境；利用系统提示词和模型训练引导其行为；以及对MCP服务器、第三方插件等外部内容实施细粒度权限管理。文章以Claude Code、claude.ai和Claude Cowork为例，阐述了不同产品如何设计对应的隔离架构。",
-    "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
-    "published": "2026-05-26T18:11:06.012Z",
-    "source": "Anthropic：Engineering（事故复盘 + 工程实践 · 网页）",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "Replit 应用添加登录的两种方式",
-    "summary": "在 Replit 上为你的应用添加登录有两种方式：\n→ Replit Auth：零配置，用户使用其 Replit 账户登录\n→ Clerk Auth：你自己的品牌化登录，开发/生产环境均只需一个提示词。文档和视频见下方 👇\n\n文档：https：//docs.replit.com/learn/projects-and-artifacts/auth#auth",
-    "url": "https://x.com/Replit/status/2059303550375674139",
-    "published": "2026-05-26T16:00:01.000Z",
-    "source": "X：Replit (@Replit)",
+    "title": "Web 更新",
+    "summary": "对话模式在文本和语音输入方面进行了改进。语音会话开始时，可访问用户的图像提示、风格参考、侧边栏设置和最近任务。图像提示功能现可从托盘和侧边栏直接使用。在语音提交过程中，托盘中的图像将保持不变，直至用户手动移除。",
+    "url": "https://updates.midjourney.com/web-updates-5",
+    "published": "2026-05-27T18:44:53.000Z",
+    "source": "Midjourney：Updates（RSS）",
     "source_weight": "high",
     "category": "ai-products"
   },
   {
-    "title": "SenseNova-U1全训练代码开源，支持多模态多任务训练",
-    "summary": "OpenSenseNova开源了SenseNova-U1的完整训练代码库，支持其8B密集模型与A3B MoE架构。该代码库使用一个统一的框架，可同时训练多种多模态任务，包括文本到图像生成、图像编辑、交错生成及文本与视觉理解。工程上为大规模训练设计，支持混合并行、流式可恢复数据管线、环境变量驱动配置以及从1×8 GPUs到多节点集群的扩展能力。代码已在GitHub开源，采用Apache-2.0协议。",
-    "url": "https://x.com/SenseTime_AI/status/2059288013994406013",
-    "published": "2026-05-26T14:58:16.000Z",
-    "source": "X：商汤 SenseTime (@SenseTime_AI)",
+    "title": "开源FastVideo Dreamverse实时视频生成工具",
+    "summary": "🚀仅需7秒即可生成30秒1080p视频！\n\n我们开源了FastVideo Dreamverse：基于单张NVIDIA B200 GPU和LTX-2模型，实现实时视频生成的氛围引导工具。\n\nRepo： https：//github.com/hao-ai-lab/FastVideo/tree/main/apps/dreamverse\nBlog： https：//haoailab.com/blogs/fastvideo-dreamverse-release/",
+    "url": "https://x.com/haoailab/status/2059695648103112946",
+    "published": "2026-05-27T17:58:04.000Z",
+    "source": "X：Sky Computing Lab (@haoailab)",
     "source_weight": "high",
-    "category": "tip"
+    "category": "ai-products"
   },
   {
-    "title": "Project Luxo：跨越AI媒体的恐怖谷",
-    "summary": "Runway通过Project Luxo研究发现，AI生成视频已跨越\"恐怖谷\"。他们向创意生态从业者展示了《The Rogue》等AI短片及广告样片，评估显示观众开始关注故事本身，而非技术瑕疵。所有作品均由单人团队制作，耗时从3周到4小时不等。Runway认为，这标志着AI媒体成熟--当技术足够好以至于\"隐形\"，观众沉浸于故事时，便实现了这一跨越。",
-    "url": "https://runwayml.com/news/project-luxo",
-    "published": "2026-05-26T14:34:37.143Z",
-    "source": "Runway：News（网页）",
+    "title": "Replit入选Redpoint 2026 InfraRed 100榜单",
+    "summary": "Replit 被列入 @Redpoint 的 2026 InfraRed 100 榜单。\n这是一份构建 AI 运行基础设施的公司名单。很荣幸能入选，与 Stripe、Snowflake 和 HashiCorp 等往届入选者并列。\n致每一位在 Replit 上发布产品的构建者：这份荣誉属于你们。\nhttps：//www.redpoint.com/infrared/report/",
+    "url": "https://x.com/Replit/status/2059688584899154134",
+    "published": "2026-05-27T17:30:00.000Z",
+    "source": "X：Replit (@Replit)",
     "source_weight": "high",
-    "category": "tip"
+    "category": "industry"
+  },
+  {
+    "title": "ITBench-AA：前沿大模型在首个智能体企业IT任务基准测试中得分均低于50%",
+    "summary": "由Artificial Analysis和IBM推出的ITBench-AA SRE基准测试显示，所有前沿大模型得分均未超过50%。Claude Opus 4.7（自适应推理，最大努力）以47%领先，GPT-5.5（xhigh）和Qwen3.7 Max分别得46%和42%。该测试包含59个需要通过Shell命令调查Kubernetes事件快照并提交根因诊断的智能体任务。关键发现是模型推理轮次差异近3倍，但更长的轨迹并不转化为更高准确率，过度调查的模型会因提交误报而受罚。在成本方面，开源模型Gemma 4 31B（Reasoning）以每任务$0.14的成本获得37%得分，优于成本更高但得分更低的闭源模型。",
+    "url": "https://huggingface.co/blog/ibm-research/itbench-aa",
+    "published": "2026-05-27T17:20:29.000Z",
+    "source": "Hugging Face：Blog（RSS）",
+    "source_weight": "high",
+    "category": "paper"
+  },
+  {
+    "title": "Grok编程智能体登陆Kilo IDE平台",
+    "summary": "在 @kilocode 中使用您的 SuperGrok 或 X Premium+ 订阅。\n\n尝试 grok-build-0.1，享受高速和智能体编程智能，可在 Kilo IDE 扩展或 CLI 中使用。\n\nhttps：//x.ai/news/grok-kilocode",
+    "url": "https://x.com/xai/status/2059666227115819149",
+    "published": "2026-05-27T16:01:09.000Z",
+    "source": "X：xAI (@xai)",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "Perplexity开源Unigram分词器降低CPU占用",
+    "summary": "我们开源了重新构建的Unigram分词器，可将CPU占用降低5-6倍。\n小型重排序器和嵌入模型在GPU上运行时间仅为个位数毫秒，使得CPU分词成为总延迟的重要组成部分。\nhttp：//github.com/perplexityai/pplx-garden",
+    "url": "https://x.com/perplexity_ai/status/2059664738087469511",
+    "published": "2026-05-27T15:55:14.000Z",
+    "source": "X：Perplexity (@perplexity_ai)",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "We haven’t lost the battle for Empathy. Have we?",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/we-havent-lost-the-battle-for-empathy-have-we-af31d1226da2?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1448/1*4HZl5z1vYmSjuNR1yj371w.png\" width=\"1448\" /></a></p><p class=\"medium-feed-snippet\">A meditation on presence, AI, and the uncomfortable work of understanding people before we design for them.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/we-havent-lost-the-",
+    "url": "https://uxdesign.cc/we-havent-lost-the-battle-for-empathy-have-we-af31d1226da2?source=rss----138adf9c44c---4",
+    "published": "Wed, 27 May 2026 22:42:29 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "The trust gap between AI and humans",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-trust-gap-between-ai-and-humans-ccea4c503702?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*eXjyflG5o78drymS\" width=\"7680\" /></a></p><p class=\"medium-feed-snippet\">How designers can save brilliant AI from dying in onboarding &#x2014; before it&#x2019;s too late.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/the-trust-gap-between-ai-and-humans-ccea4c503702",
+    "url": "https://uxdesign.cc/the-trust-gap-between-ai-and-humans-ccea4c503702?source=rss----138adf9c44c---4",
+    "published": "Wed, 27 May 2026 22:42:27 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Solutions journalism needs better conflict, not less of it",
+    "summary": "<h4>But not the sort of conflict you usually see on the news</h4><figure><img alt=\"A conflict mediator tries to settle a dispute between two people sitting at a table across from eachother.\" src=\"https://cdn-images-1.medium.com/max/1024/1*djSvMlD8ncGyiNLSZD_jRA.jpeg\" /><figcaption>Most journalism doesn’t cut to the reasons behind conflicts. It only reports on the conflict and, in many cases, dramatizes that conflict. But what if journalists were trained to think about conflict differently? Photo",
+    "url": "https://uxdesign.cc/solutions-journalism-needs-better-conflict-not-less-of-it-59abd733b52d?source=rss----138adf9c44c---4",
+    "published": "Wed, 27 May 2026 22:39:18 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
   },
   {
     "title": "The book cover as a relational object",
@@ -131,96 +221,6 @@
     "url": "https://uxdesign.cc/the-book-cover-as-a-relational-object-288fb15deff1?source=rss----138adf9c44c---4",
     "published": "Tue, 26 May 2026 22:06:23 GMT",
     "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Product discovery’s quietest, most consequential decision",
-    "summary": "<h4><em>Validating a problem, an idea, or a solution is where most people begin discovery. The skipped judgment is whether to begin it at all.</em></h4><figure><img alt=\"A radar dish scanning floating signal cards on a dark background, with support ticket, feature request, survey, NPS comment, and solution idea dimmed, and one card, churn spike, glowing brightly as the signal worth pursuing.\" src=\"https://cdn-images-1.medium.com/max/1024/1*UhtxksikTJKORfP0PKx9yg.png\" /><figcaption>Generated with",
-    "url": "https://uxdesign.cc/product-discoverys-quietest-most-consequential-decision-ea697471cf6f?source=rss----138adf9c44c---4",
-    "published": "Tue, 26 May 2026 22:06:22 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "AI and cognitive delegation: the hidden cost of AI that works too well",
-    "summary": "<h4>We are all more productive, but are we still thinking?</h4><figure><img alt=\"A minimalist illustration depicting a multitude of empty beige outlines, with a single black silhouette standing out in the center, inside which a stylized white brain is depicted.\" src=\"https://cdn-images-1.medium.com/max/1024/1*bAlWV1M5lsz0wYlp_-88vQ.jpeg\" /><figcaption>Credit @<a href=\"https://stock.adobe.com/it/contributor/204618748/kovalto1?load_type=author&amp;prev_url=detail\">kovalto1 adobe.stock</a></figcapt",
-    "url": "https://uxdesign.cc/ai-and-cognitive-delegation-the-hidden-cost-of-ai-that-works-too-well-18dac6a637f5?source=rss----138adf9c44c---4",
-    "published": "Tue, 26 May 2026 22:06:20 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "How to find out what your design work was really for",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/how-to-find-out-what-your-design-work-was-really-for-3f948d3900a5?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*DBU18nQnVUXu3JtqyEcJFQ.jpeg\" width=\"6000\" /></a></p><p class=\"medium-feed-snippet\">Missing the business context means underselling your own work</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/how-to-find-out-what-your-design-work-was-really-for-3f94",
-    "url": "https://uxdesign.cc/how-to-find-out-what-your-design-work-was-really-for-3f948d3900a5?source=rss----138adf9c44c---4",
-    "published": "Tue, 26 May 2026 10:45:56 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Stanford’s AI Report 2026: AI isn’t going anywhere. Neither are you — if you pay attention.",
-    "summary": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*wCwIFtxjU0_YieoxuzHiSw.png\" /><figcaption>The new black are the tools and we have to get good at them so we can own them.</figcaption></figure><h3>Stanford’s AI Report 2026: AI isn’t going anywhere. Neither are you — if you pay attention.</h3><h4>The work we do will look different in five years, and the people who shape that difference will be the ones who wrestled with the tools instead of waiting for someone to hand them a ver",
-    "url": "https://uxdesign.cc/stanfords-ai-report-2026-ai-isn-t-going-anywhere-neither-are-you-if-you-pay-attention-c27729b07f5b?source=rss----138adf9c44c---4",
-    "published": "Tue, 26 May 2026 07:22:05 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "7 things that Vibe Design can’t replicate",
-    "summary": "<h4><em>Vibe design with intention, eyes open.</em></h4><figure><img alt=\"Bold white text reading “7 THINGS THAT VIBE DESIGN CAN’T REPLICATE” over a textured orange, black, and purple abstract background. Logos for Lovable, Stitch, Figma Make, Vercel, and Cursor appear along the bottom.\" src=\"https://cdn-images-1.medium.com/max/1024/1*ukGiZlnzcJKFZ8UB9CvskA.png\" /></figure><p><a href=\"https://www.linkedin.com/in/andrej-karpathy-9a650716/\">Andrej Karpathy</a>, former Director of AI at Tesla, coin",
-    "url": "https://uxdesign.cc/7-things-that-vibe-design-cant-replicate-014e3089f86e?source=rss----138adf9c44c---4",
-    "published": "Tue, 26 May 2026 07:21:08 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Your Prototype Is Not Being Honest With Your Users (And Here’s How To Fix It)",
-    "summary": "There’s a moment in almost every usability session where a participant pauses at the login screen, types something, and glances up: checking whether they’re “doing it right.” That pause is a clear sign. They’ve already clocked that this isn’t a real app, and every data point collected after that moment is filtered through that awareness.",
-    "url": "https://smashingmagazine.com/2026/05/prototype-users-fix-protopie/",
-    "published": "Mon, 25 May 2026 12:00:00 GMT",
-    "source": "Smashing Magazine",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Being kind to machines, the genius of Claude’s branding, AI UX debt",
-    "summary": "<h4>Weekly curated resources for designers — thinkers and makers.</h4><figure><a href=\"https://uxdesign.cc/should-we-be-kind-to-machines-for-our-own-sake-really-26acf222af29\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/0*-6kTQo8sgkmeBWFD.png\" /></a></figure><p>“The way we talk to technology has always said something about us. We barked commands at early voice recognition software. We typed queries into search engines like telegrams. Now we chat, negotiate, apologize, and occasional",
-    "url": "https://uxdesign.cc/being-kind-to-machines-the-genius-of-claudes-branding-ai-ux-debt-f40c616102bd?source=rss----138adf9c44c---4",
-    "published": "Mon, 25 May 2026 11:17:57 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "The permalink problem in AI chat",
-    "summary": "<h4><em>AI chat made the conversation addressable and the message ephemeral. Knowledge work needs the opposite.</em></h4><p><em>Editor’s note: I wrote this article from firsthand experience as a founder and engineer.</em></p><p><em>Disclosure: I co-founded AI Toolbox — a Chrome extension that adds per-message bookmarking and full-text search to major AI chat products.</em></p><figure><img alt=\"Frame from the 9 December 1968 NLS demonstration. Upper half shows a CRT display with the header “JUMP ",
-    "url": "https://uxdesign.cc/the-permalink-problem-in-ai-chat-1f1579ec991c?source=rss----138adf9c44c---4",
-    "published": "Mon, 25 May 2026 11:10:59 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Designing locality, by redrawing the lines",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/designing-locality-by-redrawing-the-lines-120200ee81df?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/600/1*8Ak25fYCV9JsUUTCYX7pFA.png\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">On a Bruno Munari picture book, an old Buddhist phrase, and an empty field in the middle of a town</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/designing-locality-by-redrawing-th",
-    "url": "https://uxdesign.cc/designing-locality-by-redrawing-the-lines-120200ee81df?source=rss----138adf9c44c---4",
-    "published": "Mon, 25 May 2026 11:10:40 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Four Levels Of Customer Understanding",
-    "summary": "What people say, feel, think, and do are often very different things. To understand the underlying reasons for user behavior, it helps to look beyond the surface and explore hidden motivations, root causes, and the different layers of reality that shape how people act. Brought to you by <a href=\"https://measure-ux.com/\">Measuring UX Impact</a>, **friendly video course on UX** and design patterns by Vitaly.",
-    "url": "https://smashingmagazine.com/2026/05/four-levels-customer-understanding/",
-    "published": "Fri, 22 May 2026 13:00:00 GMT",
-    "source": "Smashing Magazine",
     "source_weight": "medium",
     "category": "design_communities"
   }
