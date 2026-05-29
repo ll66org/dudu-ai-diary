@@ -1,5 +1,5 @@
 {
-  "day_count": 35,
+  "day_count": 36,
   "history": [
     {
       "day": 20,
@@ -111,6 +111,13 @@
       "date": "2026-05-28",
       "topic": "AI生成短片《昨夜》探索记忆碎片中的东京之夜",
       "source": "X：Runway (@runwayml)",
+      "mode": "rss"
+    },
+    {
+      "day": 36,
+      "date": "2026-05-29",
+      "topic": "Claude Code--文档中未提及的所有可配置选项",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "mode": "rss"
     }
   ],
