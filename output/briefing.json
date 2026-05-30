@@ -1,42 +1,42 @@
 [
   {
-    "title": "Claude Code--文档中未提及的所有可配置选项",
-    "summary": "该篇文章标题涉及\"Claude Code\"的可配置选项，但提供的正文内容仅包含一张图片和一个外部链接，未给出任何关于模型版本、参数、性能、价格或功能的具体信息。根据规则，无法在摘要中提及原文不存在的细节。",
-    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-    "url": "https://buildingbetter.tech/p/i-read-the-claude-code-source-code",
-    "published_at": "2026-05-29T10:37:09.818Z",
-    "category": "tip"
-  },
-  {
-    "title": "谷歌 DeepMind CEO 哈萨比斯：AGI 最快三年内到来，研发速度远超预期",
-    "summary": "谷歌 DeepMind 首席执行官德米斯·哈萨比斯预测，AGI 研发速度远超预期，最快可能在 2029 年至 2030 年前后出现。作为 AlphaGo、AlphaFold 的主导者，他认为当前 AI 智能体是未来更强智能的预演，随着多模态和自主决策能力成熟，三年内迎来 AGI 关键突破已非科幻。但他同时警示，全球社会",
-    "source": "IT之家（RSS）",
-    "url": "https://www.ithome.com/0/957/154.htm",
-    "published_at": "2026-05-29T07:18:53.000Z",
-    "category": "tip"
-  },
-  {
-    "title": "15秒动画IP预告片制作全流程分享",
-    "summary": "我们制作了一个15秒的动画IP预告片--从角色设定到最终视频。认识一下MILO和BUMBLE：地下邮政骑手\n转发+关注+回复=我们会私信发送工作流程和提示词",
-    "source": "X：PixVerse (@PixVerse_)",
-    "url": "https://x.com/PixVerse_/status/2060184048920826340",
-    "published_at": "2026-05-29T02:18:48.000Z",
-    "category": "tip"
-  },
-  {
-    "title": "Cursor 团队发布《开发者习惯报告》",
-    "summary": "报告显示，AI正深刻改变开发工作形态。开发者周均代码产出从约3.6K行增至8.6K行，更大规模的PR（千行以上）占比上升。AI智能体在单次会话中的工具调用数增加约30%，正在处理更复杂的任务。同时，被接受的AI代码在60分钟后的留存率从约76%提升至约81%，表明更多AI生成内容进入了实际代码库。这些趋势共同指向AI已",
-    "source": "X：邵猛 (@shao__meng)",
-    "url": "https://x.com/shao__meng/status/2060167182777249886",
-    "published_at": "2026-05-29T01:11:47.000Z",
-    "category": "tip"
-  },
-  {
-    "title": "阶跃星辰 Step 3.7 Flash 发布，聚焦智能体效率",
-    "summary": "阶跃星辰（Step）发布了开源大模型 Step 3.7 Flash，主打智能体（Agent）工作流的效率。该模型在 ClawEval-1.1（67.1分）和 SimpleVQA Search（79.2分）评测中排名第一。其架构为 198B 参数的 MoE，约 11B 为活跃参数，支持 256K 上下文。模型具备多模态理",
+    "title": "小即是美：开源多模态模型发布",
+    "summary": "小即是美。😌",
     "source": "X：阶跃星辰 StepFun (@StepFun_ai)",
-    "url": "https://x.com/StepFun_ai/status/2060149124117475791",
-    "published_at": "2026-05-29T00:00:01.000Z",
+    "url": "https://x.com/StepFun_ai/status/2060678753030947226",
+    "published_at": "2026-05-30T11:04:34.000Z",
     "category": "ai-models"
+  },
+  {
+    "title": "xAI放弃JAX GPU转向自研训练框架",
+    "summary": "突发新闻：JAX NVIDIA GPU & XLA：GPU最大客户刚刚宣布已放弃JAX GPU，宁愿用Grok Build\"氛围编程\"一个C训练框架。据报道xAI的JAX堆栈MFU低于10%。NVIDIA JAX团队过去两年全部主力996专注于支持xAI却失败了，我想他们现在可以休息并兑现期权了。",
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "url": "https://x.com/SemiAnalysis_/status/2060571944575963482",
+    "published_at": "2026-05-30T04:00:09.000Z",
+    "category": "industry"
+  },
+  {
+    "title": "ComfyUI现已支持OpenRouter模型直接调用",
+    "summary": "现在你可以直接在ComfyUI工作流中使用你的OpenRouter模型了！\n\n【引用 @ComfyUI】：ComfyUI刚刚添加了@OpenRouter支持。\n\n你不再局限于单一的大语言模型，现在可以直接在Comfy中访问20多个模型。\n\n更多灵活性，更少摩擦，同样的工作流。\n\n工作流链接在下方👇",
+    "source": "X：OpenRouter (@OpenRouter)",
+    "url": "https://x.com/OpenRouter/status/2060511136932315259",
+    "published_at": "2026-05-29T23:58:32.000Z",
+    "category": "ai-products"
+  },
+  {
+    "title": "这个 skill 看着不错，可将文字、URL 或文章直接生成公众号首图、小红书图文卡、教程步骤卡等视觉物料，支持 28 种布局和 10 种主题。",
+    "summary": "claude-design-card 是一款专为中文内容创作者设计的 Skill。它能将文字、URL 或文章直接转化为可发布的视觉卡片，如公众号首图、小红书图文卡、教程步骤卡等，支持 28 种布局与 10 种主题。其核心价值在于自动化了\"写完文章\"后最繁琐的流程：自动提炼重点、选择版式、生成 HTML 并截图成 PNG",
+    "source": "X：洪明 (@hongming731)",
+    "url": "https://x.com/hongming731/status/2060487110906527820",
+    "published_at": "2026-05-29T22:23:03.000Z",
+    "category": "tip"
+  },
+  {
+    "title": "Codex可自主管理对话线程与并行任务",
+    "summary": "Codex用于管理Codex界面：\n\n【引用 @guinnesschen】：如果你厌倦了管理Codex对话线程，就让Codex自己管理自己吧！Codex现在可以创建对话线程、搜索它们、整理它们、固定重要的线程，并为并行任务启动工作树。",
+    "source": "X：Greg Brockman (@gdb)",
+    "url": "https://x.com/gdb/status/2060486309886443787",
+    "published_at": "2026-05-29T22:19:52.000Z",
+    "category": "ai-products"
   }
 ]

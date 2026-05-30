@@ -1,5 +1,5 @@
 {
-  "day_count": 36,
+  "day_count": 37,
   "history": [
     {
       "day": 20,
@@ -118,6 +118,13 @@
       "date": "2026-05-29",
       "topic": "Claude Code--文档中未提及的所有可配置选项",
       "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "mode": "rss"
+    },
+    {
+      "day": 37,
+      "date": "2026-05-30",
+      "topic": "小即是美：开源多模态模型发布",
+      "source": "X：阶跃星辰 StepFun (@StepFun_ai)",
       "mode": "rss"
     }
   ],

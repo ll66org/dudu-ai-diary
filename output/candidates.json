@@ -1,84 +1,165 @@
 [
   {
-    "title": "Agents aren't the problem – Existing systems and API's were not built for AI",
-    "summary": "<p>Article URL: <a href=\"https://www.appfactor.io/blog/how-we-made-getprocinfo3-agent-readable-semantic-discovery-ai-enrichment\">https://www.appfactor.io/blog/how-we-made-getprocinfo3-agent-readable-semantic-discovery-ai-enrichment</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48323441\">https://news.ycombinator.com/item?id=48323441</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
-    "url": "https://www.appfactor.io/blog/how-we-made-getprocinfo3-agent-readable-semantic-discovery-ai-enrichment",
-    "published": "Fri, 29 May 2026 14:18:45 +0000",
+    "title": "Keeping the Cursor App Stable",
+    "summary": "<p>Article URL: <a href=\"https://cursor.com/blog/app-stability\">https://cursor.com/blog/app-stability</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48335378\">https://news.ycombinator.com/item?id=48335378</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "url": "https://cursor.com/blog/app-stability",
+    "published": "Sat, 30 May 2026 12:16:03 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "LocalizeASO, Figma plugin and dashboard for App Store localization",
-    "summary": "<p>Article URL: <a href=\"https://localizeaso.com/\">https://localizeaso.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48323315\">https://news.ycombinator.com/item?id=48323315</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://localizeaso.com/",
-    "published": "Fri, 29 May 2026 14:09:42 +0000",
+    "title": "Generalist AI – building general intelligence for the physical world",
+    "summary": "<p>Article URL: <a href=\"https://www.youtube.com/channel/UCwV9z8IGmbUQUb5D8KSv3mQ\">https://www.youtube.com/channel/UCwV9z8IGmbUQUb5D8KSv3mQ</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48334607\">https://news.ycombinator.com/item?id=48334607</a></p>\n<p>Points: 2</p>\n<p># Comments: 2</p>",
+    "url": "https://www.youtube.com/channel/UCwV9z8IGmbUQUb5D8KSv3mQ",
+    "published": "Sat, 30 May 2026 10:12:21 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Disable AI Support and Remove Connectors Screen in WordPress",
-    "summary": "<p>Article URL: <a href=\"https://gist.github.com/maddisondesigns/276af3c3781cde053c4855cd1da37cac\">https://gist.github.com/maddisondesigns/276af3c3781cde053c4855cd1da37cac</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48323291\">https://news.ycombinator.com/item?id=48323291</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://gist.github.com/maddisondesigns/276af3c3781cde053c4855cd1da37cac",
-    "published": "Fri, 29 May 2026 14:07:10 +0000",
+    "title": "AI coding agents ships at the cost of intuition and taste",
+    "summary": "<p>Article URL: <a href=\"https://shivekkhurana.com/blog/coding-agent-dopamine/\">https://shivekkhurana.com/blog/coding-agent-dopamine/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48334363\">https://news.ycombinator.com/item?id=48334363</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "url": "https://shivekkhurana.com/blog/coding-agent-dopamine/",
+    "published": "Sat, 30 May 2026 09:33:05 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Thio's Universal Agent: Let AI control anything on your computer UI, one EXE",
-    "summary": "<p>Article URL: <a href=\"https://github.com/ThioJoe/Thio-Universal-Agent\">https://github.com/ThioJoe/Thio-Universal-Agent</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48323029\">https://news.ycombinator.com/item?id=48323029</a></p>\n<p>Points: 2</p>\n<p># Comments: 1</p>",
-    "url": "https://github.com/ThioJoe/Thio-Universal-Agent",
-    "published": "Fri, 29 May 2026 13:43:58 +0000",
+    "title": "Company Blew $500M on Claude AI in One Month Due to No Usage Limit on Licenses",
+    "summary": "<p>Article URL: <a href=\"https://www.gadgetreview.com/company-blew-500m-on-claude-ai-in-one-month\">https://www.gadgetreview.com/company-blew-500m-on-claude-ai-in-one-month</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48333209\">https://news.ycombinator.com/item?id=48333209</a></p>\n<p>Points: 4</p>\n<p># Comments: 1</p>",
+    "url": "https://www.gadgetreview.com/company-blew-500m-on-claude-ai-in-one-month",
+    "published": "Sat, 30 May 2026 06:21:27 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Show HN: AISlop, a CLI for catching AI generated code smells",
-    "summary": "<p>Hi, I’m Kenny, I’ve been building aislop. I starting working on this after using Claude Code, codex and opencode several times and noticing some slops. They aren’t syntax and passes most tests, they are patterns like empty catch blocks, useless comments, duplicated helpers, dead code and many more. So I built a tool to scan and check for these patterns and wired it into hooks so after each tool call, the agent checks for the slops.<p>You can try it out with npx aislop scan.<p>It’s all local a",
-    "url": "https://github.com/scanaislop/aislop",
-    "published": "Fri, 29 May 2026 13:37:38 +0000",
+    "title": "A Weekend in Claude Design Saves 3 Weeks of Claude Code",
+    "summary": "<p>Article URL: <a href=\"https://cashandcache.substack.com/p/the-prototype-tax-how-a-weekend-in\">https://cashandcache.substack.com/p/the-prototype-tax-how-a-weekend-in</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48332954\">https://news.ycombinator.com/item?id=48332954</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "url": "https://cashandcache.substack.com/p/the-prototype-tax-how-a-weekend-in",
+    "published": "Sat, 30 May 2026 05:34:51 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Show HN: I built an AI medical-records hub after my mom's cancer diagnosis",
-    "summary": "<p>My mom was recently diagnosed with stage 4 pancreatic cancer.<p>That's both an overwhelming diagnosis but also an overwhelming flood of information, documents, appointments, options and questions.<p>I needed a place to keep track of it all and also a place to ask questions, do research and help my parents and family do the same.<p>So, naturally, I built something.<p>Not charging anything for it at the moment (and with as much AI as I've got layered into this, frankly it's gonna cost me a nice",
-    "url": "https://keptwell.org/",
-    "published": "Fri, 29 May 2026 13:25:55 +0000",
-    "source": "Hacker News (设计向)",
+    "title": "小即是美：开源多模态模型发布",
+    "summary": "小即是美。😌",
+    "url": "https://x.com/StepFun_ai/status/2060678753030947226",
+    "published": "2026-05-30T11:04:34.000Z",
+    "source": "X：阶跃星辰 StepFun (@StepFun_ai)",
     "source_weight": "high",
-    "category": "ai_tech"
+    "category": "ai-models"
   },
   {
-    "title": "Ask HN: Can you design a Python project like material flow, architect only?",
-    "summary": "<p>Article URL: <a href=\"https://github.com/Wewoc/Garmin_Local_Archive\">https://github.com/Wewoc/Garmin_Local_Archive</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48322671\">https://news.ycombinator.com/item?id=48322671</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
-    "url": "https://github.com/Wewoc/Garmin_Local_Archive",
-    "published": "Fri, 29 May 2026 13:11:11 +0000",
-    "source": "Hacker News (设计向)",
+    "title": "xAI放弃JAX GPU转向自研训练框架",
+    "summary": "突发新闻：JAX NVIDIA GPU & XLA：GPU最大客户刚刚宣布已放弃JAX GPU，宁愿用Grok Build\"氛围编程\"一个C训练框架。据报道xAI的JAX堆栈MFU低于10%。NVIDIA JAX团队过去两年全部主力996专注于支持xAI却失败了，我想他们现在可以休息并兑现期权了。",
+    "url": "https://x.com/SemiAnalysis_/status/2060571944575963482",
+    "published": "2026-05-30T04:00:09.000Z",
+    "source": "X：SemiAnalysis (@SemiAnalysis_)",
     "source_weight": "high",
-    "category": "ai_tech"
+    "category": "industry"
   },
   {
-    "title": "Hypen – A crossplatform native UI framework for TS, Rust & More",
-    "summary": "<p>Article URL: <a href=\"https://hypen.space/introducing-hypen\">https://hypen.space/introducing-hypen</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48322045\">https://news.ycombinator.com/item?id=48322045</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
-    "url": "https://hypen.space/introducing-hypen",
-    "published": "Fri, 29 May 2026 12:03:22 +0000",
-    "source": "Hacker News (设计向)",
+    "title": "ComfyUI现已支持OpenRouter模型直接调用",
+    "summary": "现在你可以直接在ComfyUI工作流中使用你的OpenRouter模型了！\n\n【引用 @ComfyUI】：ComfyUI刚刚添加了@OpenRouter支持。\n\n你不再局限于单一的大语言模型，现在可以直接在Comfy中访问20多个模型。\n\n更多灵活性，更少摩擦，同样的工作流。\n\n工作流链接在下方👇",
+    "url": "https://x.com/OpenRouter/status/2060511136932315259",
+    "published": "2026-05-29T23:58:32.000Z",
+    "source": "X：OpenRouter (@OpenRouter)",
     "source_weight": "high",
-    "category": "ai_tech"
+    "category": "ai-products"
   },
   {
-    "title": "Claude Code--文档中未提及的所有可配置选项",
-    "summary": "该篇文章标题涉及\"Claude Code\"的可配置选项，但提供的正文内容仅包含一张图片和一个外部链接，未给出任何关于模型版本、参数、性能、价格或功能的具体信息。根据规则，无法在摘要中提及原文不存在的细节。",
-    "url": "https://buildingbetter.tech/p/i-read-the-claude-code-source-code",
-    "published": "2026-05-29T10:37:09.818Z",
-    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "title": "这个 skill 看着不错，可将文字、URL 或文章直接生成公众号首图、小红书图文卡、教程步骤卡等视觉物料，支持 28 种布局和 10 种主题。",
+    "summary": "claude-design-card 是一款专为中文内容创作者设计的 Skill。它能将文字、URL 或文章直接转化为可发布的视觉卡片，如公众号首图、小红书图文卡、教程步骤卡等，支持 28 种布局与 10 种主题。其核心价值在于自动化了\"写完文章\"后最繁琐的流程：自动提炼重点、选择版式、生成 HTML 并截图成 PNG，替代了以往手动使用 Figma 或 Canva 等工具的步骤。该工具开源，适合经常撰写相关内容的创作者尝试。",
+    "url": "https://x.com/hongming731/status/2060487110906527820",
+    "published": "2026-05-29T22:23:03.000Z",
+    "source": "X：洪明 (@hongming731)",
     "source_weight": "high",
     "category": "tip"
+  },
+  {
+    "title": "Codex可自主管理对话线程与并行任务",
+    "summary": "Codex用于管理Codex界面：\n\n【引用 @guinnesschen】：如果你厌倦了管理Codex对话线程，就让Codex自己管理自己吧！Codex现在可以创建对话线程、搜索它们、整理它们、固定重要的线程，并为并行任务启动工作树。",
+    "url": "https://x.com/gdb/status/2060486309886443787",
+    "published": "2026-05-29T22:19:52.000Z",
+    "source": "X：Greg Brockman (@gdb)",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "ChatGPT对话目录功能现已上线",
+    "summary": "对于每个始于\"就问一件事\"却演变成完整长篇的ChatGPT对话：目录功能现已推出。\n适用于包含5条以上回复的对话。",
+    "url": "https://x.com/ChatGPTapp/status/2060467129066070182",
+    "published": "2026-05-29T21:03:39.000Z",
+    "source": "X：ChatGPT (@ChatGPTapp)",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "Runway API持续扩展模型与端点支持",
+    "summary": "我们持续为 Runway API 添加新模型和端点，以便您能将最佳生成能力直接集成到应用、产品和平台中。通过 Runway API，您可以在一个地方获得所需的所有模型，包括 Seedance 2.0、GPT Image 2、HappyHorse 1.0、Nano Banana Pro、Magnific Precision Upscaler V2 等更多内容。请通过下方链接开始使用。",
+    "url": "https://x.com/runwayml/status/2060453805519765548",
+    "published": "2026-05-29T20:10:43.000Z",
+    "source": "X：Runway (@runwayml)",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "LlamaIndex 团队基于 Google Agents API 构建 LlamaParse/LiteParse 智能体模板",
+    "summary": "LlamaIndex 团队基于 Google 新发布的 Agents API 构建了一个模板，使智能体能够访问 LlamaParse 和 LiteParse，从而自动处理非结构化文档。其工作流程为：配置数据与输出的 Git 仓库，将仓库克隆至智能体沙箱，安装 LiteParse CLI 与 LlamaParse SDK 及相关技能，最后通过提示词驱动智能体自主执行任务。该模板最终形成一个可直接使用 LlamaParse 和 LiteParse 处理真实世界文档的智能体。",
+    "url": "https://x.com/googleaidevs/status/2060439904929382700",
+    "published": "2026-05-29T19:15:29.000Z",
+    "source": "X：Google AI for Developers (@googleaidevs)",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "参与我们的 I/O 2026 测验：该测验由 Google AI Studio 氛围编程生成",
+    "summary": "Google 使用其开发工具 Google AI Studio，通过氛围编程（vibe coding）方式，创建了一个关于 Google I/O 2026 主要公告的在线测验。",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz",
+    "published": "2026-05-29T19:00:00.000Z",
+    "source": "Google Blog：AI（RSS）",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "亲测为实：难以置信的推理速度",
+    "summary": "Kog团队在标准数据中心GPU上实现了极高的单用户推理速度，在8× AMD MI300X GPUs上达到3，000 tokens/s，在8× NVIDIA H200上达到2，100 tokens/s。相比常规推理速度（约100-300 tokens/s），实现了10-30倍提升。其核心思路是将LLM解码视为内存流问题，通过协同设计monokernel、重建同步机制、针对性内存访问映射及采用延迟张量并行的Laneformer模型架构，消除了传统流程的阻塞点。",
+    "url": "https://x.com/rohanpaul_ai/status/2060409504693645440",
+    "published": "2026-05-29T17:14:41.000Z",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "GPIC：大规模视觉生成基准数据集发布",
+    "summary": "我对这个适用于大规模生成模型新时代的视觉生成基准数据集感到非常兴奋！🤩",
+    "url": "https://x.com/drfeifei/status/2060404846734512205",
+    "published": "2026-05-29T16:56:10.000Z",
+    "source": "X：Fei-Fei Li (@drfeifei, World Labs)",
+    "source_weight": "high",
+    "category": "paper"
+  },
+  {
+    "title": "Gemini 本月更新：全新界面与智能体助手",
+    "summary": "从全新设计的 Gemini 界面，到 Gemini Spark 提供的全天候智能体辅助，以下是本月 Gemini 更新概览。🧵",
+    "url": "https://x.com/GeminiApp/status/2060389565052096911",
+    "published": "2026-05-29T15:55:27.000Z",
+    "source": "X：Gemini (@GeminiApp)",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "Qwen-VLA：从理解世界到在其中行动",
+    "summary": "Qwen Studio提供全面功能，涵盖聊天机器人、图像与视频理解、图像生成、文档处理、网络搜索集成、工具利用及Artifacts。",
+    "url": "https://qwen.ai/blog?id=qwenvla",
+    "published": "2026-05-29T09:00:00.000Z",
+    "source": "Qwen：Blog Retrieval（API）",
+    "source_weight": "high",
+    "category": "ai-models"
   },
   {
     "title": "谷歌 DeepMind CEO 哈萨比斯：AGI 最快三年内到来，研发速度远超预期",
@@ -88,123 +169,6 @@
     "source": "IT之家（RSS）",
     "source_weight": "high",
     "category": "tip"
-  },
-  {
-    "title": "15秒动画IP预告片制作全流程分享",
-    "summary": "我们制作了一个15秒的动画IP预告片--从角色设定到最终视频。认识一下MILO和BUMBLE：地下邮政骑手\n转发+关注+回复=我们会私信发送工作流程和提示词",
-    "url": "https://x.com/PixVerse_/status/2060184048920826340",
-    "published": "2026-05-29T02:18:48.000Z",
-    "source": "X：PixVerse (@PixVerse_)",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "Cursor 团队发布《开发者习惯报告》",
-    "summary": "报告显示，AI正深刻改变开发工作形态。开发者周均代码产出从约3.6K行增至8.6K行，更大规模的PR（千行以上）占比上升。AI智能体在单次会话中的工具调用数增加约30%，正在处理更复杂的任务。同时，被接受的AI代码在60分钟后的留存率从约76%提升至约81%，表明更多AI生成内容进入了实际代码库。这些趋势共同指向AI已从个人辅助工具，演进为推动开发向更大规模任务与自动化基础设施发展的核心力量。",
-    "url": "https://x.com/shao__meng/status/2060167182777249886",
-    "published": "2026-05-29T01:11:47.000Z",
-    "source": "X：邵猛 (@shao__meng)",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "阶跃星辰 Step 3.7 Flash 发布，聚焦智能体效率",
-    "summary": "阶跃星辰（Step）发布了开源大模型 Step 3.7 Flash，主打智能体（Agent）工作流的效率。该模型在 ClawEval-1.1（67.1分）和 SimpleVQA Search（79.2分）评测中排名第一。其架构为 198B 参数的 MoE，约 11B 为活跃参数，支持 256K 上下文。模型具备多模态理解能力，能处理图像、文档并生成代码或调用工具执行任务。在工具使用方面，它致力于高可靠性，τ2-bench 得分超过 98%。Step 3.7 Flash 兼容 Claude Code、MCP 协议等工具链，并支持在 Mac Studio M4 Max 等设备上本地运行。模型权重以 Apache 2.0 许可开源。",
-    "url": "https://x.com/StepFun_ai/status/2060149124117475791",
-    "published": "2026-05-29T00:00:01.000Z",
-    "source": "X：阶跃星辰 StepFun (@StepFun_ai)",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "PyTorch 中的性能分析（第一部分）：torch.profiler 初学者指南",
-    "summary": "该指南旨在介绍如何在 PyTorch 中使用 torch.profiler 进行性能分析。文章是系列教程的第一部分，面向初学者，讲解如何通过该工具分析模型训练与推理过程的性能瓶颈。",
-    "url": "https://huggingface.co/blog/torch-profiler",
-    "published": "2026-05-29T00:00:00.000Z",
-    "source": "Hugging Face：Blog（RSS）",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "llm-anthropic 0.25.1",
-    "summary": "llm-anthropic 发布 0.25.1 版本。主要更新包括：新增 Claude Opus 4.8 （`claude-opus-4.8`） 模型；为账户启用了该功能的组织新增了 `-o fast 1` 选项以使用快速模式；调整了各模型的默认 `max_tokens` 值，使其直接使用模型的最大输出长度，而非固定的 8，192。",
-    "url": "https://simonwillison.net/2026/May/28/llm-anthropic",
-    "published": "2026-05-28T23:54:56.000Z",
-    "source": "Simon Willison 博客",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "别只看基准测试，要看全面表现",
-    "summary": "不要只依赖基准测试；要看全面情况！\n\n试试我们的新比较页面，它还能让你可视化模型性能：https：//openrouter.ai/compare/openai/gpt-5.5/anthropic/claude-opus-4.7/anthropic/claude-opus-4.8",
-    "url": "https://x.com/OpenRouter/status/2060142412408717518",
-    "published": "2026-05-28T23:33:21.000Z",
-    "source": "X：OpenRouter (@OpenRouter)",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Grok Build 0.2.7 发布，新增多项功能",
-    "summary": "Grok Build 0.2.7 现已发布，包含 /usage、/login、跨子智能体共享终端，以及改进的图像理解功能。\n所有更新请查看 https：//x.ai/build/changelog",
-    "url": "https://x.com/xai/status/2060102590122385460",
-    "published": "2026-05-28T20:55:06.000Z",
-    "source": "X：xAI (@xai)",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Replit Canvas：智能体设计工具发布",
-    "summary": "最好的设计工作不会在聊天框里发生。你需要空间来探索想法、创建变体并进行迭代。\n认识新的 Replit Canvas。\n你的智能体设计工具，用于构建精美的网站、应用、营销资产等。",
-    "url": "https://x.com/Replit/status/2060097656207413613",
-    "published": "2026-05-28T20:35:30.000Z",
-    "source": "X：Replit (@Replit)",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Anthropic 完成 650 亿美元 H 轮融资，估值达 9650 亿美元",
-    "summary": "Anthropic 宣布完成由 Altimeter Capital 等领投的 650 亿美元 H 轮融资，投后估值达 9650 亿美元。公司表示其旗舰模型 Claude 的企业部署持续增长，年化收入已突破 470 亿美元。此轮融资将用于推进 AI 安全与可解释性研究、扩展算力以满足 Claude 的需求，并规模化产品与合作伙伴关系。Anthropic 近期已显著扩大计算容量，并宣布 Claude 已登陆 AWS、Google Cloud 和 Microsoft Azure 三大云平台。",
-    "url": "https://www.anthropic.com/news/series-h",
-    "published": "2026-05-28T18:35:40.238Z",
-    "source": "Anthropic：Newsroom（网页）",
-    "source_weight": "high",
-    "category": "industry"
-  },
-  {
-    "title": "在Claude Code中引入动态工作流",
-    "summary": "Claude Code 推出\"动态工作流\"功能，使 Claude 能端到端处理复杂任务。该功能通过动态编写脚本，在单个会话中并行运行数十到数百个子智能体来完成工作，并会在结果呈现前进行验证。它适用于跨代码库的 bug 查找、大规模迁移（如将 Bun 从 Zig 移植到 Rust）等需要多角度分析的任务。该功能现已在研究预览阶段可用，支持 Claude Code CLI、桌面端、VS Code 扩展以及 API、Amazon Bedrock、Vertex AI 等平台，面向 Max、Team 及已启用的 Enterprise 计划用户。",
-    "url": "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code",
-    "published": "2026-05-28T17:21:01.868Z",
-    "source": "Claude：Blog（网页）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Claude Opus 4.8 发布：在编码、智能体技能与推理方面实现全面升级",
-    "summary": "Anthropic 发布了新一代模型 Claude Opus 4.8，作为 Opus 4.7 的升级版本，其在编码、智能体技能、推理和实用知识工作等各项基准测试中均取得进步。Claude Opus 4.8 现已可用，价格与前代相同。同步推出的新功能包括：用户可控制任务投入程度、Claude Code 新增\"动态工作流\"特性，以及 Opus 4.8 的 2.5 倍速模式价格降低为以往的三分之一。早期测试者反馈其在智能体任务中的判断力更可靠、工具调用更高效。该模型在 Online-Mind2Web 测评中得分 84%，超越了 Opus 4.7 和 GPT-5.5。此外，其诚实度与对齐表现也得到提升，代码错误漏检率降低了约 75%。",
-    "url": "https://www.anthropic.com/news/claude-opus-4-8",
-    "published": "2026-05-28T17:05:39.037Z",
-    "source": "Anthropic：Newsroom（网页）",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "SGLang 团队与 AMD 合作，使 AMD InstinctTM MI355X GPU 的大规模 DeepSeek-R1 分离式推理在总拥有成本上具备竞争力",
-    "summary": "SGLang 与 AMD 团队合作，通过一系列全栈优化，使 AMD InstinctTM MI355X GPU 在运行 DeepSeek-R1 大模型推理时实现了极具竞争力的总拥有成本。在 129 tok/s/user 的交互延迟下，其成本为每百万 token $0.169，比 NVIDIA B200（Dynamo TRT-LLM）方案低 5%，比 B200（SGLang）方案低 40%。吞吐量方面，24 块 AMD GPU 达到 2，436 tok/s/GPU，比使用 48 块 GPU 的 B200 SGLang 方案每 GPU 吞吐量高 1.25 倍。核心优化包括：MoRI 混合 FP4/FP8 量化全到全通信、MoRI-IO KV Cache 后端、两批重叠与 SDMA、ROCm 上的 Specv2 MTP 以及 CPU 流式处理优化。",
-    "url": "https://www.lmsys.org/blog/2026-05-28-mori",
-    "published": "2026-05-28T16:34:57.702Z",
-    "source": "LMSYS：Blog（Chatbot Arena 团队）",
-    "source_weight": "high",
-    "category": "paper"
-  },
-  {
-    "title": "Sesame，这家由Oculus创始人创办的对话式AI初创公司，发布其iOS应用",
-    "summary": "由Oculus创始人创办的AI初创公司Sesame发布了其iOS应用，该应用将对话式AI智能体带给公众。应用提供更自然的来回交互体验，设计上区别于传统聊天机器人，旨在让用户感觉更像在和真人对话。",
-    "url": "https://techcrunch.com/2026/05/28/sesame-the-conversational-ai-startup-from-oculus-founders-launches-its-ios-app",
-    "published": "2026-05-28T15:35:43.000Z",
-    "source": "TechCrunch：AI（RSS）",
-    "source_weight": "high",
-    "category": "ai-products"
   },
   {
     "title": "We haven’t lost the battle for Empathy. Have we?",
@@ -220,6 +184,42 @@
     "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-trust-gap-between-ai-and-humans-ccea4c503702?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*eXjyflG5o78drymS\" width=\"7680\" /></a></p><p class=\"medium-feed-snippet\">How designers can save brilliant AI from dying in onboarding &#x2014; before it&#x2019;s too late.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/the-trust-gap-between-ai-and-humans-ccea4c503702",
     "url": "https://uxdesign.cc/the-trust-gap-between-ai-and-humans-ccea4c503702?source=rss----138adf9c44c---4",
     "published": "Wed, 27 May 2026 22:42:27 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Solutions journalism needs better conflict, not less of it",
+    "summary": "<h4>But not the sort of conflict you usually see on the news</h4><figure><img alt=\"A conflict mediator tries to settle a dispute between two people sitting at a table across from eachother.\" src=\"https://cdn-images-1.medium.com/max/1024/1*djSvMlD8ncGyiNLSZD_jRA.jpeg\" /><figcaption>Most journalism doesn’t cut to the reasons behind conflicts. It only reports on the conflict and, in many cases, dramatizes that conflict. But what if journalists were trained to think about conflict differently? Photo",
+    "url": "https://uxdesign.cc/solutions-journalism-needs-better-conflict-not-less-of-it-59abd733b52d?source=rss----138adf9c44c---4",
+    "published": "Wed, 27 May 2026 22:39:18 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "The book cover as a relational object",
+    "summary": "<h4>Designing a book cover isn’t about aesthetics. It’s about anticipating the reader’s behavior throughout the entire lifecycle of the book.</h4><figure><img alt=\"A surreal collage-style illustration of a woman reading at a keyboard with an open book floating above her head. A bright yellow beam extends from her eye toward a deer in the background. The image uses deep blue tones with vivid pink outlines and a textured, high-contrast graphic style.\" src=\"https://cdn-images-1.medium.com/max/1024/",
+    "url": "https://uxdesign.cc/the-book-cover-as-a-relational-object-288fb15deff1?source=rss----138adf9c44c---4",
+    "published": "Tue, 26 May 2026 22:06:23 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Product discovery’s quietest, most consequential decision",
+    "summary": "<h4><em>Validating a problem, an idea, or a solution is where most people begin discovery. The skipped judgment is whether to begin it at all.</em></h4><figure><img alt=\"A radar dish scanning floating signal cards on a dark background, with support ticket, feature request, survey, NPS comment, and solution idea dimmed, and one card, churn spike, glowing brightly as the signal worth pursuing.\" src=\"https://cdn-images-1.medium.com/max/1024/1*UhtxksikTJKORfP0PKx9yg.png\" /><figcaption>Generated with",
+    "url": "https://uxdesign.cc/product-discoverys-quietest-most-consequential-decision-ea697471cf6f?source=rss----138adf9c44c---4",
+    "published": "Tue, 26 May 2026 22:06:22 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "AI and cognitive delegation: the hidden cost of AI that works too well",
+    "summary": "<h4>We are all more productive, but are we still thinking?</h4><figure><img alt=\"A minimalist illustration depicting a multitude of empty beige outlines, with a single black silhouette standing out in the center, inside which a stylized white brain is depicted.\" src=\"https://cdn-images-1.medium.com/max/1024/1*bAlWV1M5lsz0wYlp_-88vQ.jpeg\" /><figcaption>Credit @<a href=\"https://stock.adobe.com/it/contributor/204618748/kovalto1?load_type=author&amp;prev_url=detail\">kovalto1 adobe.stock</a></figcapt",
+    "url": "https://uxdesign.cc/ai-and-cognitive-delegation-the-hidden-cost-of-ai-that-works-too-well-18dac6a637f5?source=rss----138adf9c44c---4",
+    "published": "Tue, 26 May 2026 22:06:20 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
