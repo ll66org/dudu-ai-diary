@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-30T12:47:58.634243Z",
+  "fetched_at": "2026-05-31T13:00:33.141764Z",
   "total_candidates": 25,
   "source_stats": {
     "Figma Blog": {
@@ -31,7 +31,7 @@
       "total": 66
     },
     "Smashing Magazine": {
-      "found": 2,
+      "found": 3,
       "total": 40
     },
     "UX Collective": {
@@ -51,7 +51,7 @@
       "total": 20
     },
     "Hacker News (设计向)": {
-      "found": 5,
+      "found": 2,
       "total": 20
     },
     "Product Hunt": {
@@ -64,27 +64,27 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 37,
-  "today_date": "2026-05-30",
+  "dudu_day": 38,
+  "today_date": "2026-05-31",
   "used_titles": [
-    "Karpathy的CLAUDE.md四条规则让AI编程准确率飙升至94%",
     "飞书-Claude Code桥接开源项目",
     "Claude Code自动模式：多任务并行的关键技巧",
     "Qwen3.7-Max 成为全球第二AI编程模型",
     "Runway 推出 Model Context Protocol 服务器",
     "AI生成短片《昨夜》探索记忆碎片中的东京之夜",
-    "Claude Code--文档中未提及的所有可配置选项"
+    "Claude Code--文档中未提及的所有可配置选项",
+    "小即是美：开源多模态模型发布"
   ],
   "used_tools": [
-    "X：阿易 AI Notes (@AYi_AInotes)",
     "X：宝玉 (@dotey)",
     "X：Boris Cherny (@bcherny)",
     "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
     "Runway：News（网页）",
     "X：Runway (@runwayml)",
-    "Hacker News 热门（buzzing.cc 中文翻译）"
+    "Hacker News 热门（buzzing.cc 中文翻译）",
+    "X：阶跃星辰 StepFun (@StepFun_ai)"
   ],
-  "briefing_total": 80,
-  "briefing_design": 33,
+  "briefing_total": 79,
+  "briefing_design": 29,
   "briefing_count": 5
 }

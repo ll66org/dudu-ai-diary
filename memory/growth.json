@@ -1,5 +1,5 @@
 {
-  "day_count": 37,
+  "day_count": 38,
   "history": [
     {
       "day": 20,
@@ -125,6 +125,13 @@
       "date": "2026-05-30",
       "topic": "小即是美：开源多模态模型发布",
       "source": "X：阶跃星辰 StepFun (@StepFun_ai)",
+      "mode": "rss"
+    },
+    {
+      "day": 38,
+      "date": "2026-05-31",
+      "topic": "在浏览器中通过 Pyodide 和 Service Worker 运行 Python ASGI 应用",
+      "source": "Simon Willison 博客",
       "mode": "rss"
     }
   ],

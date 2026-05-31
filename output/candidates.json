@@ -1,57 +1,39 @@
 [
   {
-    "title": "Keeping the Cursor App Stable",
-    "summary": "<p>Article URL: <a href=\"https://cursor.com/blog/app-stability\">https://cursor.com/blog/app-stability</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48335378\">https://news.ycombinator.com/item?id=48335378</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
-    "url": "https://cursor.com/blog/app-stability",
-    "published": "Sat, 30 May 2026 12:16:03 +0000",
+    "title": "Unity AI Suite",
+    "summary": "<p>Article URL: <a href=\"https://unity.com/features/ai\">https://unity.com/features/ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48344734\">https://news.ycombinator.com/item?id=48344734</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+    "url": "https://unity.com/features/ai",
+    "published": "Sun, 31 May 2026 11:01:58 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Generalist AI – building general intelligence for the physical world",
-    "summary": "<p>Article URL: <a href=\"https://www.youtube.com/channel/UCwV9z8IGmbUQUb5D8KSv3mQ\">https://www.youtube.com/channel/UCwV9z8IGmbUQUb5D8KSv3mQ</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48334607\">https://news.ycombinator.com/item?id=48334607</a></p>\n<p>Points: 2</p>\n<p># Comments: 2</p>",
-    "url": "https://www.youtube.com/channel/UCwV9z8IGmbUQUb5D8KSv3mQ",
-    "published": "Sat, 30 May 2026 10:12:21 +0000",
+    "title": "Claude Agent SDK: Build Your Own AI Terminal in 10 Minutes",
+    "summary": "<p>Article URL: <a href=\"https://www.mager.co/blog/2026-03-14-claude-agent-sdk-tui/\">https://www.mager.co/blog/2026-03-14-claude-agent-sdk-tui/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48344693\">https://news.ycombinator.com/item?id=48344693</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "url": "https://www.mager.co/blog/2026-03-14-claude-agent-sdk-tui/",
+    "published": "Sun, 31 May 2026 10:52:42 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "AI coding agents ships at the cost of intuition and taste",
-    "summary": "<p>Article URL: <a href=\"https://shivekkhurana.com/blog/coding-agent-dopamine/\">https://shivekkhurana.com/blog/coding-agent-dopamine/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48334363\">https://news.ycombinator.com/item?id=48334363</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
-    "url": "https://shivekkhurana.com/blog/coding-agent-dopamine/",
-    "published": "Sat, 30 May 2026 09:33:05 +0000",
-    "source": "Hacker News (设计向)",
+    "title": "在浏览器中通过 Pyodide 和 Service Worker 运行 Python ASGI 应用",
+    "summary": "作者展示了如何在浏览器中通过 Pyodide 和 Service Worker 运行 Python ASGI 应用。此前的 Datasette Lite 使用 Web Workers，但无法执行 `<script>` 标签中的 JavaScript。新方案由 Claude Opus 4.8 协助完成开发，解决了这一问题。作者已展示了基础的 ASGI FastCGI 演示和运行 Datasette 1.0a31 的演示，并计划后续将此方法应用于升级 Datasette Lite。",
+    "url": "https://simonwillison.net/2026/May/30/pyodide-asgi-browser",
+    "published": "2026-05-30T21:02:16.000Z",
+    "source": "Simon Willison 博客",
     "source_weight": "high",
-    "category": "ai_tech"
+    "category": "tip"
   },
   {
-    "title": "Company Blew $500M on Claude AI in One Month Due to No Usage Limit on Licenses",
-    "summary": "<p>Article URL: <a href=\"https://www.gadgetreview.com/company-blew-500m-on-claude-ai-in-one-month\">https://www.gadgetreview.com/company-blew-500m-on-claude-ai-in-one-month</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48333209\">https://news.ycombinator.com/item?id=48333209</a></p>\n<p>Points: 4</p>\n<p># Comments: 1</p>",
-    "url": "https://www.gadgetreview.com/company-blew-500m-on-claude-ai-in-one-month",
-    "published": "Sat, 30 May 2026 06:21:27 +0000",
-    "source": "Hacker News (设计向)",
+    "title": "免费领取6个月ChatGPT Pro及AI工具思考",
+    "summary": "OpenAI为开源项目维护者提供福利，可免费领取6个月ChatGPT Pro（价值$1200），申请无硬性Star数要求，有项目链接即可。同时，文章引用讨论了AI工具的分类：一类是\"agent型\"（如Claude Code、Codex），可自主运行；另一类是\"实习生型\"（如Cursor），需人工决策，有助于使用者以术入道、培养判断力，但受限于需人在场。作者推荐了网易的UU远程工具，称其免费两年，支持4K 144帧无延迟连接Mac并可使用原生终端，解决了\"实习生型\"工具的地点限制问题。",
+    "url": "https://x.com/AYi_AInotes/status/2060740414273941874",
+    "published": "2026-05-30T15:09:36.000Z",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
     "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "A Weekend in Claude Design Saves 3 Weeks of Claude Code",
-    "summary": "<p>Article URL: <a href=\"https://cashandcache.substack.com/p/the-prototype-tax-how-a-weekend-in\">https://cashandcache.substack.com/p/the-prototype-tax-how-a-weekend-in</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48332954\">https://news.ycombinator.com/item?id=48332954</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
-    "url": "https://cashandcache.substack.com/p/the-prototype-tax-how-a-weekend-in",
-    "published": "Sat, 30 May 2026 05:34:51 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "小即是美：开源多模态模型发布",
-    "summary": "小即是美。😌",
-    "url": "https://x.com/StepFun_ai/status/2060678753030947226",
-    "published": "2026-05-30T11:04:34.000Z",
-    "source": "X：阶跃星辰 StepFun (@StepFun_ai)",
-    "source_weight": "high",
-    "category": "ai-models"
+    "category": "tip"
   },
   {
     "title": "xAI放弃JAX GPU转向自研训练框架",
@@ -153,24 +135,6 @@
     "category": "ai-products"
   },
   {
-    "title": "Qwen-VLA：从理解世界到在其中行动",
-    "summary": "Qwen Studio提供全面功能，涵盖聊天机器人、图像与视频理解、图像生成、文档处理、网络搜索集成、工具利用及Artifacts。",
-    "url": "https://qwen.ai/blog?id=qwenvla",
-    "published": "2026-05-29T09:00:00.000Z",
-    "source": "Qwen：Blog Retrieval（API）",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "谷歌 DeepMind CEO 哈萨比斯：AGI 最快三年内到来，研发速度远超预期",
-    "summary": "谷歌 DeepMind 首席执行官德米斯·哈萨比斯预测，AGI 研发速度远超预期，最快可能在 2029 年至 2030 年前后出现。作为 AlphaGo、AlphaFold 的主导者，他认为当前 AI 智能体是未来更强智能的预演，随着多模态和自主决策能力成熟，三年内迎来 AGI 关键突破已非科幻。但他同时警示，全球社会对 AGI 到来的准备严重不足，必须提前建立规则与防护机制。",
-    "url": "https://www.ithome.com/0/957/154.htm",
-    "published": "2026-05-29T07:18:53.000Z",
-    "source": "IT之家（RSS）",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
     "title": "We haven’t lost the battle for Empathy. Have we?",
     "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/we-havent-lost-the-battle-for-empathy-have-we-af31d1226da2?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1448/1*4HZl5z1vYmSjuNR1yj371w.png\" width=\"1448\" /></a></p><p class=\"medium-feed-snippet\">A meditation on presence, AI, and the uncomfortable work of understanding people before we design for them.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/we-havent-lost-the-",
     "url": "https://uxdesign.cc/we-havent-lost-the-battle-for-empathy-have-we-af31d1226da2?source=rss----138adf9c44c---4",
@@ -216,11 +180,47 @@
     "category": "design_communities"
   },
   {
-    "title": "AI and cognitive delegation: the hidden cost of AI that works too well",
-    "summary": "<h4>We are all more productive, but are we still thinking?</h4><figure><img alt=\"A minimalist illustration depicting a multitude of empty beige outlines, with a single black silhouette standing out in the center, inside which a stylized white brain is depicted.\" src=\"https://cdn-images-1.medium.com/max/1024/1*bAlWV1M5lsz0wYlp_-88vQ.jpeg\" /><figcaption>Credit @<a href=\"https://stock.adobe.com/it/contributor/204618748/kovalto1?load_type=author&amp;prev_url=detail\">kovalto1 adobe.stock</a></figcapt",
-    "url": "https://uxdesign.cc/ai-and-cognitive-delegation-the-hidden-cost-of-ai-that-works-too-well-18dac6a637f5?source=rss----138adf9c44c---4",
-    "published": "Tue, 26 May 2026 22:06:20 GMT",
+    "title": "Algorithmic Theming Engines: Building Self-Correcting Color Systems With `contrast-color()`",
+    "summary": "Seventy percent of websites still fail basic WCAG contrast checks in 2025. After years of design system tooling, accessibility linters, and JavaScript libraries, nothing moved the needle. We didn’t need better libraries. We needed better CSS. `contrast-color()` is that better CSS.",
+    "url": "https://smashingmagazine.com/2026/05/building-self-correcting-color-systems-contrast-color/",
+    "published": "Thu, 28 May 2026 13:00:00 GMT",
+    "source": "Smashing Magazine",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "AI Token Scarcity and Arcade Economics",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/ai-token-scarcity-and-arcade-economics-5d6c0f2df3b5?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1672/1*8_AZNZ5PxzNVQ52qWPF8rw.png\" width=\"1672\" /></a></p><p class=\"medium-feed-snippet\">The rising cost of computing is prompting a reevaluation of designers&apos; expectations.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/ai-token-scarcity-and-arcade-economics-5d6c0",
+    "url": "https://uxdesign.cc/ai-token-scarcity-and-arcade-economics-5d6c0f2df3b5?source=rss----138adf9c44c---4",
+    "published": "Sun, 31 May 2026 12:22:00 GMT",
     "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Who is your content actually for?",
+    "summary": "<h4><em>AI and SEO are converging. The combined pressure is reshaping how content gets made and read in ways that push the human reader further down the list of priorities.</em></h4><p>On a Tuesday morning in May 2024, Google quietly began rolling out AI Overviews to US users. The change looked small at face value: a paragraph of generated text now sat above the familiar list of blue links.</p><p><strong>The first viral reactions made the launch look like an embarrassment.</strong> Asked how to ",
+    "url": "https://uxdesign.cc/who-is-your-content-actually-for-c9e40cca3d75?source=rss----138adf9c44c---4",
+    "published": "Sun, 31 May 2026 12:22:00 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "YouTube is gonna auto-tag AI, and it makes me angry",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/youtube-is-gonna-auto-tag-ai-and-it-makes-me-angry-598bff827a68?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2560/0*M9b-f-e-DVQI_6Qt.jpeg\" width=\"2560\" /></a></p><p class=\"medium-feed-snippet\">So late to the party, so slimy, so angry.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/youtube-is-gonna-auto-tag-ai-and-it-makes-me-angry-598bff827a68?source=rss----138adf9",
+    "url": "https://uxdesign.cc/youtube-is-gonna-auto-tag-ai-and-it-makes-me-angry-598bff827a68?source=rss----138adf9c44c---4",
+    "published": "Sun, 31 May 2026 12:21:58 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "June Is For Exploring (2026 Wallpapers Edition)",
+    "summary": "Let’s kick off June — and the beginning of summer — with some fresh inspiration! Artists and designers from across the globe once again tickled their creativity to welcome the new month with a new collection of desktop wallpapers. Enjoy!",
+    "url": "https://smashingmagazine.com/2026/05/desktop-wallpaper-calendars-june-2026/",
+    "published": "Sun, 31 May 2026 08:00:00 GMT",
+    "source": "Smashing Magazine",
     "source_weight": "medium",
     "category": "design_communities"
   }
