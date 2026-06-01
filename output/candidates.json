@@ -1,138 +1,183 @@
 [
   {
-    "title": "Unity AI Suite",
-    "summary": "<p>Article URL: <a href=\"https://unity.com/features/ai\">https://unity.com/features/ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48344734\">https://news.ycombinator.com/item?id=48344734</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
-    "url": "https://unity.com/features/ai",
-    "published": "Sun, 31 May 2026 11:01:58 +0000",
+    "title": "AI Agent Guidelines for CS336 at Stanford",
+    "summary": "<p>Article URL: <a href=\"https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md\">https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48359232\">https://news.ycombinator.com/item?id=48359232</a></p>\n<p>Points: 15</p>\n<p># Comments: 1</p>",
+    "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
+    "published": "Mon, 01 Jun 2026 16:41:49 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Claude Agent SDK: Build Your Own AI Terminal in 10 Minutes",
-    "summary": "<p>Article URL: <a href=\"https://www.mager.co/blog/2026-03-14-claude-agent-sdk-tui/\">https://www.mager.co/blog/2026-03-14-claude-agent-sdk-tui/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48344693\">https://news.ycombinator.com/item?id=48344693</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
-    "url": "https://www.mager.co/blog/2026-03-14-claude-agent-sdk-tui/",
-    "published": "Sun, 31 May 2026 10:52:42 +0000",
+    "title": "OpenAI hit with lawsuit by Florida AG over AI risks",
+    "summary": "<p>Article URL: <a href=\"https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215\">https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48358667\">https://news.ycombinator.com/item?id=48358667</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+    "url": "https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215",
+    "published": "Mon, 01 Jun 2026 16:02:04 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "在浏览器中通过 Pyodide 和 Service Worker 运行 Python ASGI 应用",
-    "summary": "作者展示了如何在浏览器中通过 Pyodide 和 Service Worker 运行 Python ASGI 应用。此前的 Datasette Lite 使用 Web Workers，但无法执行 `<script>` 标签中的 JavaScript。新方案由 Claude Opus 4.8 协助完成开发，解决了这一问题。作者已展示了基础的 ASGI FastCGI 演示和运行 Datasette 1.0a31 的演示，并计划后续将此方法应用于升级 Datasette Lite。",
-    "url": "https://simonwillison.net/2026/May/30/pyodide-asgi-browser",
-    "published": "2026-05-30T21:02:16.000Z",
-    "source": "Simon Willison 博客",
+    "title": "Tamriel Rebuilt design philosophy FAQ",
+    "summary": "<p>Article URL: <a href=\"https://www.tamriel-rebuilt.org/about/frequently-asked-questions/design\">https://www.tamriel-rebuilt.org/about/frequently-asked-questions/design</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48358087\">https://news.ycombinator.com/item?id=48358087</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://www.tamriel-rebuilt.org/about/frequently-asked-questions/design",
+    "published": "Mon, 01 Jun 2026 15:24:09 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Show HN: FormProxy – form back end for AI-generated pages – MCP Ready",
+    "summary": "<p>I kept running into the same problem building with AI code tools: the generated HTML looks great, but the <form> has no backend. You either reach for Formspree, write a serverless function, or ship it broken.<p>FormProxy wires it up in one step. Drop a page URL, get a POST endpoint, and submissions route to Slack, webhooks, or Google Sheets. (Google Sheets is currently unreliable — waiting on Google's OAuth app review, which is taking longer than expected. Webhook and Slack are production-rea",
+    "url": "https://www.formproxy.com/",
+    "published": "Mon, 01 Jun 2026 15:09:46 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Anthropic 保密向 SEC 提交 S-1 草案",
+    "summary": "Anthropic， PBC 今日保密向美国证券交易委员会提交了 S-1 表格草案，计划进行普通股的首次公开发行。这使其在 SEC 完成审核后拥有上市的选择权。IPO 的具体发行股数和价格尚未确定，将取决于市场条件等因素。公司近期刚完成由 Altimeter Capital 等领投的 650 亿美元 H 轮融资，估值达 9650 亿美元，并发布了 Claude Opus 4.8 模型。",
+    "url": "https://www.anthropic.com/news/confidential-draft-s1-sec",
+    "published": "2026-06-01T16:24:52.982Z",
+    "source": "Anthropic：Newsroom（网页）",
+    "source_weight": "high",
+    "category": "industry"
+  },
+  {
+    "title": "SenseNova新模型解决AI图表生成难题",
+    "summary": "大多数AI模型在生成图表时存在数值错误（如负值显示为正）、柱状图位置偏移、元素关系混乱等问题。SenseNova-U1-8B-MoT-Infographic（SenseNova-U1）专为解决此类图表生成问题而设计，能够生成准确的图表，并支持实时调整设计和布局。项目在Hugging Face提供了模型，并在GitHub展示了效果案例。",
+    "url": "https://x.com/SenseTime_AI/status/2061465029959209106",
+    "published": "2026-06-01T15:08:57.000Z",
+    "source": "X：商汤 SenseTime (@SenseTime_AI)",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "构建每周千美元预算上限的智能体教程",
+    "summary": "视频教程：如何构建一个每周预算上限为1000美元的智能体，包含模型拒绝列表与自定义数据保留\n\n使用了新的、可堆叠的护栏架构：\n\n【引用 @OpenRouter】：OpenRouter 上的护栏是市场上最强大的：为您的 AI 流量提供集中式安全与治理\n\n预算限制、ZDR、模型与提供商限制、提示词注入防御以及 DLP / 敏感信息检测，分层为您控制的规则！🧵",
+    "url": "https://x.com/OpenRouter/status/2061452942385783050",
+    "published": "2026-06-01T14:20:56.000Z",
+    "source": "X：OpenRouter (@OpenRouter)",
     "source_weight": "high",
     "category": "tip"
   },
   {
-    "title": "免费领取6个月ChatGPT Pro及AI工具思考",
-    "summary": "OpenAI为开源项目维护者提供福利，可免费领取6个月ChatGPT Pro（价值$1200），申请无硬性Star数要求，有项目链接即可。同时，文章引用讨论了AI工具的分类：一类是\"agent型\"（如Claude Code、Codex），可自主运行；另一类是\"实习生型\"（如Cursor），需人工决策，有助于使用者以术入道、培养判断力，但受限于需人在场。作者推荐了网易的UU远程工具，称其免费两年，支持4K 144帧无延迟连接Mac并可使用原生终端，解决了\"实习生型\"工具的地点限制问题。",
-    "url": "https://x.com/AYi_AInotes/status/2060740414273941874",
-    "published": "2026-05-30T15:09:36.000Z",
+    "title": "使用Claude Opus 4.8将书籍转化为AI技能的教程",
+    "summary": "本文以《非暴力沟通》为例，提供了一个将书籍转化为可调用AI技能（Skill）的六步教程。作者使用Claude Opus 4.8模型，因其具备100万token上下文窗口、结构化输出及多步智能体（Agent）能力，能一次性处理全书逻辑。流程包含文本准备、全局结构分析、五类提炼（框架/原则/技法/反模式/作者声音）、技能生成及关键的自检步骤。生成的技能保留了书中原始框架命名（如OFNR四要素、长颈鹿语言），并将触发词优化为\"怎么提意见不像在指责\"等日常表达。整个流程耗时约45分钟，消耗约30万token，成本不到20元人民币。",
+    "url": "https://x.com/AYi_AInotes/status/2061419197154857286",
+    "published": "2026-06-01T12:06:50.000Z",
     "source": "X：阿易 AI Notes (@AYi_AInotes)",
     "source_weight": "high",
     "category": "tip"
   },
   {
-    "title": "xAI放弃JAX GPU转向自研训练框架",
-    "summary": "突发新闻：JAX NVIDIA GPU & XLA：GPU最大客户刚刚宣布已放弃JAX GPU，宁愿用Grok Build\"氛围编程\"一个C训练框架。据报道xAI的JAX堆栈MFU低于10%。NVIDIA JAX团队过去两年全部主力996专注于支持xAI却失败了，我想他们现在可以休息并兑现期权了。",
-    "url": "https://x.com/SemiAnalysis_/status/2060571944575963482",
-    "published": "2026-05-30T04:00:09.000Z",
-    "source": "X：SemiAnalysis (@SemiAnalysis_)",
+    "title": "Apache RocketMQ 发布 AI 专用消息引擎",
+    "summary": "🚀 Apache RocketMQ 为 AI 升级！推出 RocketMQ for AI--一个专为长时间会话、多智能体工作流和公平资源调度构建的新消息引擎。凭借 Lite-Topics、有序消息和智能流量整形，它解决了状态丢失、级联故障和突发负载问题。由阿里云大规模构建，现已开源。\n\n了解更多： https：//int.alibabacloud.com/m/1000413178/\n\n#RocketMQ #AI #CloudNative",
+    "url": "https://x.com/alibaba_cloud/status/2061400724018217381",
+    "published": "2026-06-01T10:53:26.000Z",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "腾讯混元发布智能体长期记忆插件Hy-Memory",
+    "summary": "腾讯混元正式发布专为OpenClaw等长期协作智能体（Agent）设计的记忆插件 Hy-Memory。它基于6层记忆框架、System1/System2双系统与三层进化链构建，旨在成为智能体的\"第二大脑\"。该插件解决了记忆碎片化问题，实现了显著性能提升：记忆数量减少70%以上，单条记忆信息密度提升45%以上，在超长上下文场景中token消耗降低35%，记忆更新速度提升20%。",
+    "url": "https://x.com/TencentHunyuan/status/2061372535267357029",
+    "published": "2026-06-01T09:01:25.000Z",
+    "source": "X：腾讯混元 (@TencentHunyuan)",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "英伟达和台积电将 AI 引入晶圆厂，推动半导体设计与制造发展",
+    "summary": "",
+    "url": "https://www.ithome.com/0/958/109.htm",
+    "published": "2026-06-01T06:13:32.000Z",
+    "source": "IT之家（RSS）",
     "source_weight": "high",
     "category": "industry"
   },
   {
-    "title": "ComfyUI现已支持OpenRouter模型直接调用",
-    "summary": "现在你可以直接在ComfyUI工作流中使用你的OpenRouter模型了！\n\n【引用 @ComfyUI】：ComfyUI刚刚添加了@OpenRouter支持。\n\n你不再局限于单一的大语言模型，现在可以直接在Comfy中访问20多个模型。\n\n更多灵活性，更少摩擦，同样的工作流。\n\n工作流链接在下方👇",
-    "url": "https://x.com/OpenRouter/status/2060511136932315259",
-    "published": "2026-05-29T23:58:32.000Z",
-    "source": "X：OpenRouter (@OpenRouter)",
+    "title": "NVIDIA与Google Cloud助力下一波AI构建者",
+    "summary": "在Google I/O大会上，NVIDIA与Google Cloud宣布深化合作，旨在支持其联合开发者社区中超过10万名开发者。合作将重点提供NVIDIA L4 Tensor Core GPU以优化AI推理与图形工作负载，并通过支持Vertex AI平台来增强Gemini模型性能。双方还将提供开源软件工具，以简化AI应用的构建与部署流程。",
+    "url": "https://blogs.nvidia.com/blog/category/enterprise/cloud-2",
+    "published": "2026-06-01T05:00:56.000Z",
+    "source": "NVIDIA Blog：Generative AI（网页）",
+    "source_weight": "high",
+    "category": "industry"
+  },
+  {
+    "title": "NVIDIA 发布工厂运营蓝图，为工厂提供自主智能管理智能体",
+    "summary": "NVIDIA 在 GTC Taipei 发布了 NVIDIA 工厂运营蓝图（FOX），这是一个用于构建自主工厂管理智能体的参考设计。该蓝图基于 NVIDIA NemoClaw、AI-Q Blueprint 和 NVIDIA Nemotron 开源模型构建，旨在为工厂提供一个统一的决策层，以连接实时机器信号、质量数据和操作警报，实现快速问题解决。蓝图针对 NVIDIA DGX Station 桌面 AI 超级计算机进行了优化。首批采用者包括富士康、和硕、研华和纬创。富士康利用 FOX 和 NemoClaw 构建了 MoMClaw 多智能体系统，预计将根源分析时间缩短 80%，劳动生产率提高 15%，机器故障率降低 10%。",
+    "url": "https://blogs.nvidia.com/blog/factory-operations-fox-blueprint-ai-brain",
+    "published": "2026-06-01T05:00:47.000Z",
+    "source": "NVIDIA Blog：Agentic AI（网页）",
     "source_weight": "high",
     "category": "ai-products"
   },
   {
-    "title": "这个 skill 看着不错，可将文字、URL 或文章直接生成公众号首图、小红书图文卡、教程步骤卡等视觉物料，支持 28 种布局和 10 种主题。",
-    "summary": "claude-design-card 是一款专为中文内容创作者设计的 Skill。它能将文字、URL 或文章直接转化为可发布的视觉卡片，如公众号首图、小红书图文卡、教程步骤卡等，支持 28 种布局与 10 种主题。其核心价值在于自动化了\"写完文章\"后最繁琐的流程：自动提炼重点、选择版式、生成 HTML 并截图成 PNG，替代了以往手动使用 Figma 或 Canva 等工具的步骤。该工具开源，适合经常撰写相关内容的创作者尝试。",
-    "url": "https://x.com/hongming731/status/2060487110906527820",
-    "published": "2026-05-29T22:23:03.000Z",
-    "source": "X：洪明 (@hongming731)",
+    "title": "如何使用 NVIDIA Alpamayo 在闭环中后训练自动驾驶模型",
+    "summary": "开发自动驾驶策略需要弥合训练与部署之间的鸿沟。现有的视觉-语言-动作模型虽然能推理更复杂的驾驶场景并产生更丰富的中间推理，但主要在开放循环中训练，即模型输出与真实行为直接比较，而不考虑其对环境产生的实际影响。NVIDIA Alpamayo 提供了一种在闭环环境中进行后训练的方法。",
+    "url": "https://developer.nvidia.com/blog/how-to-post-train-autonomous-vehicle-models-in-closed-loop-with-nvidia-alpamayo",
+    "published": "2026-06-01T04:49:15.000Z",
+    "source": "NVIDIA Technical Blog（开发者技术博客 · RSS）",
     "source_weight": "high",
     "category": "tip"
   },
   {
-    "title": "Codex可自主管理对话线程与并行任务",
-    "summary": "Codex用于管理Codex界面：\n\n【引用 @guinnesschen】：如果你厌倦了管理Codex对话线程，就让Codex自己管理自己吧！Codex现在可以创建对话线程、搜索它们、整理它们、固定重要的线程，并为并行任务启动工作树。",
-    "url": "https://x.com/gdb/status/2060486309886443787",
-    "published": "2026-05-29T22:19:52.000Z",
-    "source": "X：Greg Brockman (@gdb)",
+    "title": "NVIDIA 发布 RTX Spark 及本地 AI 智能体安全与性能更新",
+    "summary": "NVIDIA 发布了 RTX Spark，一款专为本地 AI 智能体设计的 Windows 电脑，提供 1 petaflops AI 算力与 128GB 统一内存。其推出的 OpenShell 运行时与微软合作，基于新的 Windows 安全原语，确保智能体在设备端安全私密运行。性能方面，通过在 llama.cpp 中采用多 token 预测等优化，Qwen 3.6 和 3.5 27B 模型推理吞吐量提升最高达 2 倍，35B 模型提升 1.6 倍；多 GPU 优化使 llama.cpp 和 ComfyUI 获得最高 2 倍性能提升。此外，Adobe、Blender 等应用也进行了更新。",
+    "url": "https://blogs.nvidia.com/blog/rtx-ai-garage-computex-spark-local-agents",
+    "published": "2026-06-01T04:30:11.000Z",
+    "source": "NVIDIA Blog：Agentic AI（网页）",
     "source_weight": "high",
     "category": "ai-products"
   },
   {
-    "title": "ChatGPT对话目录功能现已上线",
-    "summary": "对于每个始于\"就问一件事\"却演变成完整长篇的ChatGPT对话：目录功能现已推出。\n适用于包含5条以上回复的对话。",
-    "url": "https://x.com/ChatGPTapp/status/2060467129066070182",
-    "published": "2026-05-29T21:03:39.000Z",
-    "source": "X：ChatGPT (@ChatGPTapp)",
+    "title": "MiniMax M3：前沿编码、100万token上下文与原生多模态一体模型",
+    "summary": "MiniMax M3 是一个开源前沿模型，具备先进的编码与AI智能体能力。它支持100万token的超长上下文窗口，并采用名为MSA（MiniMax Sparse Attention）的新型稀疏注意力架构。该架构使模型在100万token上下文下的每token计算成本降至前代的1/20，预填充速度提升9倍以上，解码速度提升15倍以上。在SWE-Bench Pro编码基准上，MiniMax M3得分59.0%，超越GPT-5.5和Gemini 3.1 Pro，性能接近Opus 4.7。该模型可通过MiniMax Code、Token Plan和API服务使用。",
+    "url": "https://www.minimax.io/blog/minimax-m3",
+    "published": "2026-06-01T03:39:41.634Z",
+    "source": "MiniMax：Blog（网页）",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "NVIDIA DSX OS 提供开放、模块化软件用于规模化运营AI工厂",
+    "summary": "NVIDIA DSX 平台为设计、模拟和构建 AI 工厂提供完整解决方案，旨在应对不断增长的智能需求。该平台通过开放、模块化的软件栈，帮助运营方更快地扩展规模、提高效率，并降低从能源、芯片、基础设施、模型到应用这五层架构的整体智能成本。",
+    "url": "https://developer.nvidia.com/blog/nvidia-dsx-os-delivers-open-modular-software-for-operating-ai-factories-at-scale",
+    "published": "2026-06-01T03:36:52.000Z",
+    "source": "NVIDIA Technical Blog（开发者技术博客 · RSS）",
     "source_weight": "high",
     "category": "ai-products"
   },
   {
-    "title": "Runway API持续扩展模型与端点支持",
-    "summary": "我们持续为 Runway API 添加新模型和端点，以便您能将最佳生成能力直接集成到应用、产品和平台中。通过 Runway API，您可以在一个地方获得所需的所有模型，包括 Seedance 2.0、GPT Image 2、HappyHorse 1.0、Nano Banana Pro、Magnific Precision Upscaler V2 等更多内容。请通过下方链接开始使用。",
-    "url": "https://x.com/runwayml/status/2060453805519765548",
-    "published": "2026-05-29T20:10:43.000Z",
-    "source": "X：Runway (@runwayml)",
+    "title": "上海：支持多模态智能体开发与应用，有序推进智能驾驶在共享出行、物流运输等多场景应用",
+    "summary": "上海市人民政府办公厅印发《上海市服务业发展\"十五五\"规划》，提出发展AI软件技术及服务产业集群。规划支持多模态智能体开发与应用，推动智能客服等工具规模化；有序推进智能驾驶在共享出行、物流运输等多场景应用；做强算运存协同布局的智算云网络，推广模型即服务（MaaS）；并支持开发面向家庭、养老、文旅等场景的具身智能整机产品，加速机器人向通用智能与精细化服务跃升。",
+    "url": "https://www.ithome.com/0/957/985.htm",
+    "published": "2026-06-01T02:16:40.000Z",
+    "source": "IT之家（RSS）",
     "source_weight": "high",
-    "category": "ai-products"
+    "category": "industry"
   },
   {
-    "title": "LlamaIndex 团队基于 Google Agents API 构建 LlamaParse/LiteParse 智能体模板",
-    "summary": "LlamaIndex 团队基于 Google 新发布的 Agents API 构建了一个模板，使智能体能够访问 LlamaParse 和 LiteParse，从而自动处理非结构化文档。其工作流程为：配置数据与输出的 Git 仓库，将仓库克隆至智能体沙箱，安装 LiteParse CLI 与 LlamaParse SDK 及相关技能，最后通过提示词驱动智能体自主执行任务。该模板最终形成一个可直接使用 LlamaParse 和 LiteParse 处理真实世界文档的智能体。",
-    "url": "https://x.com/googleaidevs/status/2060439904929382700",
-    "published": "2026-05-29T19:15:29.000Z",
-    "source": "X：Google AI for Developers (@googleaidevs)",
+    "title": "OpenAI正式进军机器人领域并启动招聘",
+    "summary": "OpenAI宣布成立OpenAI Robotics团队，并开始招聘全栈硬件、系统及ML工程师，以编程和制造能服务社会的机器人。该项目由Aditya Ramesh领导，其世界模拟研究计划已演变为机器人研究，强调硬件与ML研究的协同设计。短期目标是支持技术工人构建未来基础设施，长期愿景是为每个人提供个人机器人。",
+    "url": "https://x.com/sama/status/2061117302528188712",
+    "published": "2026-05-31T16:07:13.000Z",
+    "source": "X：Sam Altman (@sama)",
     "source_weight": "high",
-    "category": "tip"
+    "category": "industry"
   },
   {
-    "title": "参与我们的 I/O 2026 测验：该测验由 Google AI Studio 氛围编程生成",
-    "summary": "Google 使用其开发工具 Google AI Studio，通过氛围编程（vibe coding）方式，创建了一个关于 Google I/O 2026 主要公告的在线测验。",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz",
-    "published": "2026-05-29T19:00:00.000Z",
-    "source": "Google Blog：AI（RSS）",
+    "title": "Paint By JSON | Figma API Client",
+    "summary": "<p>\n            Real API data in your mockups made as easy as lorem ipsum.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/paint-by-json-an-api-client-for-figma?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1160179?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/paint-by-json-an-api-client-for-figma",
+    "published": "2026-05-31T14:45:07-07:00",
+    "source": "Product Hunt",
     "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "亲测为实：难以置信的推理速度",
-    "summary": "Kog团队在标准数据中心GPU上实现了极高的单用户推理速度，在8× AMD MI300X GPUs上达到3，000 tokens/s，在8× NVIDIA H200上达到2，100 tokens/s。相比常规推理速度（约100-300 tokens/s），实现了10-30倍提升。其核心思路是将LLM解码视为内存流问题，通过协同设计monokernel、重建同步机制、针对性内存访问映射及采用延迟张量并行的Laneformer模型架构，消除了传统流程的阻塞点。",
-    "url": "https://x.com/rohanpaul_ai/status/2060409504693645440",
-    "published": "2026-05-29T17:14:41.000Z",
-    "source": "X：Rohan Paul (@rohanpaul_ai)",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "GPIC：大规模视觉生成基准数据集发布",
-    "summary": "我对这个适用于大规模生成模型新时代的视觉生成基准数据集感到非常兴奋！🤩",
-    "url": "https://x.com/drfeifei/status/2060404846734512205",
-    "published": "2026-05-29T16:56:10.000Z",
-    "source": "X：Fei-Fei Li (@drfeifei, World Labs)",
-    "source_weight": "high",
-    "category": "paper"
-  },
-  {
-    "title": "Gemini 本月更新：全新界面与智能体助手",
-    "summary": "从全新设计的 Gemini 界面，到 Gemini Spark 提供的全天候智能体辅助，以下是本月 Gemini 更新概览。🧵",
-    "url": "https://x.com/GeminiApp/status/2060389565052096911",
-    "published": "2026-05-29T15:55:27.000Z",
-    "source": "X：Gemini (@GeminiApp)",
-    "source_weight": "high",
-    "category": "ai-products"
+    "category": "ai_tech"
   },
   {
     "title": "We haven’t lost the battle for Empathy. Have we?",
@@ -148,33 +193,6 @@
     "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-trust-gap-between-ai-and-humans-ccea4c503702?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*eXjyflG5o78drymS\" width=\"7680\" /></a></p><p class=\"medium-feed-snippet\">How designers can save brilliant AI from dying in onboarding &#x2014; before it&#x2019;s too late.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/the-trust-gap-between-ai-and-humans-ccea4c503702",
     "url": "https://uxdesign.cc/the-trust-gap-between-ai-and-humans-ccea4c503702?source=rss----138adf9c44c---4",
     "published": "Wed, 27 May 2026 22:42:27 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Solutions journalism needs better conflict, not less of it",
-    "summary": "<h4>But not the sort of conflict you usually see on the news</h4><figure><img alt=\"A conflict mediator tries to settle a dispute between two people sitting at a table across from eachother.\" src=\"https://cdn-images-1.medium.com/max/1024/1*djSvMlD8ncGyiNLSZD_jRA.jpeg\" /><figcaption>Most journalism doesn’t cut to the reasons behind conflicts. It only reports on the conflict and, in many cases, dramatizes that conflict. But what if journalists were trained to think about conflict differently? Photo",
-    "url": "https://uxdesign.cc/solutions-journalism-needs-better-conflict-not-less-of-it-59abd733b52d?source=rss----138adf9c44c---4",
-    "published": "Wed, 27 May 2026 22:39:18 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "The book cover as a relational object",
-    "summary": "<h4>Designing a book cover isn’t about aesthetics. It’s about anticipating the reader’s behavior throughout the entire lifecycle of the book.</h4><figure><img alt=\"A surreal collage-style illustration of a woman reading at a keyboard with an open book floating above her head. A bright yellow beam extends from her eye toward a deer in the background. The image uses deep blue tones with vivid pink outlines and a textured, high-contrast graphic style.\" src=\"https://cdn-images-1.medium.com/max/1024/",
-    "url": "https://uxdesign.cc/the-book-cover-as-a-relational-object-288fb15deff1?source=rss----138adf9c44c---4",
-    "published": "Tue, 26 May 2026 22:06:23 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Product discovery’s quietest, most consequential decision",
-    "summary": "<h4><em>Validating a problem, an idea, or a solution is where most people begin discovery. The skipped judgment is whether to begin it at all.</em></h4><figure><img alt=\"A radar dish scanning floating signal cards on a dark background, with support ticket, feature request, survey, NPS comment, and solution idea dimmed, and one card, churn spike, glowing brightly as the signal worth pursuing.\" src=\"https://cdn-images-1.medium.com/max/1024/1*UhtxksikTJKORfP0PKx9yg.png\" /><figcaption>Generated with",
-    "url": "https://uxdesign.cc/product-discoverys-quietest-most-consequential-decision-ea697471cf6f?source=rss----138adf9c44c---4",
-    "published": "Tue, 26 May 2026 22:06:22 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
@@ -203,24 +221,6 @@
     "url": "https://uxdesign.cc/who-is-your-content-actually-for-c9e40cca3d75?source=rss----138adf9c44c---4",
     "published": "Sun, 31 May 2026 12:22:00 GMT",
     "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "YouTube is gonna auto-tag AI, and it makes me angry",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/youtube-is-gonna-auto-tag-ai-and-it-makes-me-angry-598bff827a68?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2560/0*M9b-f-e-DVQI_6Qt.jpeg\" width=\"2560\" /></a></p><p class=\"medium-feed-snippet\">So late to the party, so slimy, so angry.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/youtube-is-gonna-auto-tag-ai-and-it-makes-me-angry-598bff827a68?source=rss----138adf9",
-    "url": "https://uxdesign.cc/youtube-is-gonna-auto-tag-ai-and-it-makes-me-angry-598bff827a68?source=rss----138adf9c44c---4",
-    "published": "Sun, 31 May 2026 12:21:58 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "June Is For Exploring (2026 Wallpapers Edition)",
-    "summary": "Let’s kick off June — and the beginning of summer — with some fresh inspiration! Artists and designers from across the globe once again tickled their creativity to welcome the new month with a new collection of desktop wallpapers. Enjoy!",
-    "url": "https://smashingmagazine.com/2026/05/desktop-wallpaper-calendars-june-2026/",
-    "published": "Sun, 31 May 2026 08:00:00 GMT",
-    "source": "Smashing Magazine",
     "source_weight": "medium",
     "category": "design_communities"
   }

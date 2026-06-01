@@ -1,5 +1,5 @@
 {
-  "day_count": 38,
+  "day_count": 39,
   "history": [
     {
       "day": 20,
@@ -132,6 +132,13 @@
       "date": "2026-05-31",
       "topic": "在浏览器中通过 Pyodide 和 Service Worker 运行 Python ASGI 应用",
       "source": "Simon Willison 博客",
+      "mode": "rss"
+    },
+    {
+      "day": 39,
+      "date": "2026-06-01",
+      "topic": "SenseNova新模型解决AI图表生成难题",
+      "source": "X：商汤 SenseTime (@SenseTime_AI)",
       "mode": "rss"
     }
   ],
