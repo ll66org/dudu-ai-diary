@@ -1,42 +1,42 @@
 [
   {
-    "title": "Anthropic 保密向 SEC 提交 S-1 草案",
-    "summary": "Anthropic， PBC 今日保密向美国证券交易委员会提交了 S-1 表格草案，计划进行普通股的首次公开发行。这使其在 SEC 完成审核后拥有上市的选择权。IPO 的具体发行股数和价格尚未确定，将取决于市场条件等因素。公司近期刚完成由 Altimeter Capital 等领投的 650 亿美元 H 轮融资，估值达",
-    "source": "Anthropic：Newsroom（网页）",
-    "url": "https://www.anthropic.com/news/confidential-draft-s1-sec",
-    "published_at": "2026-06-01T16:24:52.982Z",
+    "title": "商汤开源SenseNova-Skills AI办公技能套件",
+    "summary": "商汤开源了AI办公技能套件SenseNova-Skills。这是一个为任何技能兼容智能体（如OpenClaw与HermesAgent）设计的开源技能集合，提供四大核心功能：图像信息图表生成（可镜像参考风格）、数据分析（支持多表解析、清洗与可视化）、PPT创建（生成大纲内容并智能排版，输出可编辑文件）以及深度研究（跨学术",
+    "source": "X：商汤 SenseTime (@SenseTime_AI)",
+    "url": "https://x.com/SenseTime_AI/status/2061822148076093625",
+    "published_at": "2026-06-02T14:48:01.000Z",
+    "category": "tip"
+  },
+  {
+    "title": "Nathan Lambert离开Ai2，结束2.5年OLMO等项目工作",
+    "summary": "Ai2（Allen Institute for AI）研究员Nathan Lambert宣布离职。他在Ai2工作超过2.5年，期间主导或参与了OLMO和Tulu等开源模型项目，称其为职业生涯的巅峰。他表示将暂时休息，未来仍会继续深耕开源模型与开放科学领域。",
+    "source": "X：Nathan Lambert (@natolambert)",
+    "url": "https://x.com/natolambert/status/2061813361848029631",
+    "published_at": "2026-06-02T14:13:06.000Z",
     "category": "industry"
   },
   {
-    "title": "SenseNova新模型解决AI图表生成难题",
-    "summary": "大多数AI模型在生成图表时存在数值错误（如负值显示为正）、柱状图位置偏移、元素关系混乱等问题。SenseNova-U1-8B-MoT-Infographic（SenseNova-U1）专为解决此类图表生成问题而设计，能够生成准确的图表，并支持实时调整设计和布局。项目在Hugging Face提供了模型，并在GitHub",
-    "source": "X：商汤 SenseTime (@SenseTime_AI)",
-    "url": "https://x.com/SenseTime_AI/status/2061465029959209106",
-    "published_at": "2026-06-01T15:08:57.000Z",
-    "category": "ai-models"
-  },
-  {
-    "title": "构建每周千美元预算上限的智能体教程",
-    "summary": "视频教程：如何构建一个每周预算上限为1000美元的智能体，包含模型拒绝列表与自定义数据保留\n\n使用了新的、可堆叠的护栏架构：\n\n【引用 @OpenRouter】：OpenRouter 上的护栏是市场上最强大的：为您的 AI 流量提供集中式安全与治理\n\n预算限制、ZDR、模型与提供商限制、提示词注入防御以及 DLP / ",
-    "source": "X：OpenRouter (@OpenRouter)",
-    "url": "https://x.com/OpenRouter/status/2061452942385783050",
-    "published_at": "2026-06-01T14:20:56.000Z",
-    "category": "tip"
-  },
-  {
-    "title": "使用Claude Opus 4.8将书籍转化为AI技能的教程",
-    "summary": "本文以《非暴力沟通》为例，提供了一个将书籍转化为可调用AI技能（Skill）的六步教程。作者使用Claude Opus 4.8模型，因其具备100万token上下文窗口、结构化输出及多步智能体（Agent）能力，能一次性处理全书逻辑。流程包含文本准备、全局结构分析、五类提炼（框架/原则/技法/反模式/作者声音）、技能生",
-    "source": "X：阿易 AI Notes (@AYi_AInotes)",
-    "url": "https://x.com/AYi_AInotes/status/2061419197154857286",
-    "published_at": "2026-06-01T12:06:50.000Z",
-    "category": "tip"
-  },
-  {
-    "title": "Apache RocketMQ 发布 AI 专用消息引擎",
-    "summary": "🚀 Apache RocketMQ 为 AI 升级！推出 RocketMQ for AI--一个专为长时间会话、多智能体工作流和公平资源调度构建的新消息引擎。凭借 Lite-Topics、有序消息和智能流量整形，它解决了状态丢失、级联故障和突发负载问题。由阿里云大规模构建，现已开源。\n\n了解更多： https：//in",
-    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
-    "url": "https://x.com/alibaba_cloud/status/2061400724018217381",
-    "published_at": "2026-06-01T10:53:26.000Z",
+    "title": "MiniCPM-V 4.6 现已支持 vLLM v0.22.0",
+    "summary": "MiniCPM-V 4.6 现已完全支持 vLLM v0.22.0！\n无需自定义分支，无需额外编译。\n只需拉取预构建包即可运行。\n非常感谢 @vllm_project 的顺畅集成！ 🤝\n🤗 http：//huggingface.co/openbmb/MiniCPM-V-4.6",
+    "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+    "url": "https://x.com/OpenBMB/status/2061810723169415205",
+    "published_at": "2026-06-02T14:02:37.000Z",
     "category": "ai-products"
+  },
+  {
+    "title": "Anthropic扩展Project Glasswing计划",
+    "summary": "Anthropic正将其Project Glasswing计划扩展至约150个新组织，此前首批约50个合作伙伴。新伙伴分布于十五个多国家，覆盖电力、水务、医疗、通信和硬件等关键基础设施行业。这些合作伙伴的共同点在于，其代码库若遭成功攻击，后果可能极其严重，影响或超1亿人。项目旨在利用Claude Mythos Prev",
+    "source": "Anthropic：Newsroom（网页）",
+    "url": "https://www.anthropic.com/news/expanding-project-glasswing",
+    "published_at": "2026-06-02T13:28:13.607Z",
+    "category": "industry"
+  },
+  {
+    "title": "Anthropic可解释性研究：区分因果效应相似的特征",
+    "summary": "Anthropic可解释性团队介绍了其Circuits研究的新进展。为区分那些激活模式相似但因果效应不同的模型特征，团队提出一种新方法。该方法通过分析特征的下游连接来预测其实际影响，并使用基于共激活统计的TWERA（虚拟权重）对连接进行加权排序。实验表明，借助下游连接信息能更准确地判断哪个特征会引导特定输出。此方法为识",
+    "source": "Anthropic：Transformer Circuits（可解释性研究）",
+    "url": "https://transformer-circuits.pub/2026/may-update/index.html",
+    "published_at": "2026-06-02T09:52:20.287Z",
+    "category": "paper"
   }
 ]

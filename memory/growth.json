@@ -1,5 +1,5 @@
 {
-  "day_count": 39,
+  "day_count": 40,
   "history": [
     {
       "day": 20,
@@ -138,6 +138,13 @@
       "day": 39,
       "date": "2026-06-01",
       "topic": "SenseNova新模型解决AI图表生成难题",
+      "source": "X：商汤 SenseTime (@SenseTime_AI)",
+      "mode": "rss"
+    },
+    {
+      "day": 40,
+      "date": "2026-06-02",
+      "topic": "商汤开源SenseNova-Skills AI办公技能套件",
       "source": "X：商汤 SenseTime (@SenseTime_AI)",
       "mode": "rss"
     }

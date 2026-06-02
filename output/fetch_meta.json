@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-01T17:02:32.832159Z",
+  "fetched_at": "2026-06-02T15:44:43.945709Z",
   "total_candidates": 25,
   "source_stats": {
     "Figma Blog": {
@@ -7,8 +7,8 @@
       "total": 0
     },
     "Vercel Blog (v0)": {
-      "found": 0,
-      "total": 1186
+      "found": 1,
+      "total": 1191
     },
     "Cursor Changelog": {
       "found": 0,
@@ -35,7 +35,7 @@
       "total": 40
     },
     "UX Collective": {
-      "found": 9,
+      "found": 10,
       "total": 10
     },
     "Designer News": {
@@ -51,8 +51,8 @@
       "total": 20
     },
     "Hacker News (设计向)": {
-      "found": 4,
-      "total": 20
+      "found": 0,
+      "total": 0
     },
     "Product Hunt": {
       "found": 1,
@@ -64,27 +64,27 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 39,
-  "today_date": "2026-06-01",
+  "dudu_day": 40,
+  "today_date": "2026-06-02",
   "used_titles": [
-    "Claude Code自动模式：多任务并行的关键技巧",
     "Qwen3.7-Max 成为全球第二AI编程模型",
     "Runway 推出 Model Context Protocol 服务器",
     "AI生成短片《昨夜》探索记忆碎片中的东京之夜",
     "Claude Code--文档中未提及的所有可配置选项",
     "小即是美：开源多模态模型发布",
-    "在浏览器中通过 Pyodide 和 Service Worker 运行 Python ASGI 应用"
+    "在浏览器中通过 Pyodide 和 Service Worker 运行 Python ASGI 应用",
+    "SenseNova新模型解决AI图表生成难题"
   ],
   "used_tools": [
-    "X：Boris Cherny (@bcherny)",
     "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
     "Runway：News（网页）",
     "X：Runway (@runwayml)",
     "Hacker News 热门（buzzing.cc 中文翻译）",
     "X：阶跃星辰 StepFun (@StepFun_ai)",
-    "Simon Willison 博客"
+    "Simon Willison 博客",
+    "X：商汤 SenseTime (@SenseTime_AI)"
   ],
-  "briefing_total": 69,
-  "briefing_design": 27,
+  "briefing_total": 80,
+  "briefing_design": 39,
   "briefing_count": 5
 }
