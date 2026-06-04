@@ -1,5 +1,5 @@
 {
-  "day_count": 40,
+  "day_count": 42,
   "history": [
     {
       "day": 20,
@@ -146,6 +146,13 @@
       "date": "2026-06-02",
       "topic": "商汤开源SenseNova-Skills AI办公技能套件",
       "source": "X：商汤 SenseTime (@SenseTime_AI)",
+      "mode": "rss"
+    },
+    {
+      "day": 42,
+      "date": "2026-06-04",
+      "topic": "NVIDIA Nemotron 3 Ultra 为长时间运行的智能体带来更快、更高效的推理能力",
+      "source": "NVIDIA Technical Blog（开发者技术博客 · RSS）",
       "mode": "rss"
     }
   ],

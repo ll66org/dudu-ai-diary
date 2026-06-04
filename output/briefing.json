@@ -1,42 +1,42 @@
 [
   {
-    "title": "商汤开源SenseNova-Skills AI办公技能套件",
-    "summary": "商汤开源了AI办公技能套件SenseNova-Skills。这是一个为任何技能兼容智能体（如OpenClaw与HermesAgent）设计的开源技能集合，提供四大核心功能：图像信息图表生成（可镜像参考风格）、数据分析（支持多表解析、清洗与可视化）、PPT创建（生成大纲内容并智能排版，输出可编辑文件）以及深度研究（跨学术",
-    "source": "X：商汤 SenseTime (@SenseTime_AI)",
-    "url": "https://x.com/SenseTime_AI/status/2061822148076093625",
-    "published_at": "2026-06-02T14:48:01.000Z",
+    "title": "NVIDIA Nemotron 3 Ultra 为长时间运行的智能体带来更快、更高效的推理能力",
+    "summary": "NVIDIA 发布 Nemotron 3 Ultra 模型，专为长时间运行的 AI 智能体设计。该模型能够在多轮对话中保持上下文、调用工具、调用子智能体，并高效处理复杂工作流。随着多智能体协作导致模型 token 数量快速增长，Nemotron 3 Ultra 通过优化推理流程显著提升速度并降低计算成本，使长期运行的智",
+    "source": "NVIDIA Technical Blog（开发者技术博客 · RSS）",
+    "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-ultra-powers-faster-more-efficient-reasoning-for-long-running-agents",
+    "published_at": "2026-06-04T13:02:49.000Z",
+    "category": "ai-models"
+  },
+  {
+    "title": "NVIDIA PPISP：补偿光度变化提升3D重建",
+    "summary": "辐射场的质量取决于其背后的图像。\n\nPPISP 可帮助补偿不同拍摄之间的光度变化，使 3D 重建在光照和相机设置不完全一致时更加鲁棒。\n\n🔗 项目：https：//nvda.ws/43JeJpk",
+    "source": "X：NVIDIA AI (@NVIDIAAI)",
+    "url": "https://x.com/NVIDIAAI/status/2062358080222876041",
+    "published_at": "2026-06-04T02:17:37.000Z",
+    "category": "paper"
+  },
+  {
+    "title": "世界模型的功能分类",
+    "summary": "World Labs团队与李飞飞发文，梳理\"世界模型\"这一被滥用的术语。对比语言模型学习文本统计，世界模型学习空间与时间统计（如光照、物理规律）。基于部分可观马尔可夫决策过程（POMDP）框架，智能体通过动作影响世界状态，观测是部分视图。当前被称为\"世界模型\"的不同系统本质上是同一循环的不同投影：第一类为渲染器，输出给",
+    "source": "X：Fei-Fei Li (@drfeifei, World Labs)",
+    "url": "https://x.com/drfeifei/status/2062247238143996275",
+    "published_at": "2026-06-03T18:57:10.000Z",
     "category": "tip"
   },
   {
-    "title": "Nathan Lambert离开Ai2，结束2.5年OLMO等项目工作",
-    "summary": "Ai2（Allen Institute for AI）研究员Nathan Lambert宣布离职。他在Ai2工作超过2.5年，期间主导或参与了OLMO和Tulu等开源模型项目，称其为职业生涯的巅峰。他表示将暂时休息，未来仍会继续深耕开源模型与开放科学领域。",
-    "source": "X：Nathan Lambert (@natolambert)",
-    "url": "https://x.com/natolambert/status/2061813361848029631",
-    "published_at": "2026-06-02T14:13:06.000Z",
-    "category": "industry"
-  },
-  {
-    "title": "MiniCPM-V 4.6 现已支持 vLLM v0.22.0",
-    "summary": "MiniCPM-V 4.6 现已完全支持 vLLM v0.22.0！\n无需自定义分支，无需额外编译。\n只需拉取预构建包即可运行。\n非常感谢 @vllm_project 的顺畅集成！ 🤝\n🤗 http：//huggingface.co/openbmb/MiniCPM-V-4.6",
-    "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-    "url": "https://x.com/OpenBMB/status/2061810723169415205",
-    "published_at": "2026-06-02T14:02:37.000Z",
+    "title": "黄仁勋与纳德拉共议智能体AI时代",
+    "summary": "智能体AI时代来了。\n\n从台北，黄仁勋与@satyanadella共同出席#MSBuild，展示NVIDIA与@Microsoft如何携手构建，从Windows设备到规模化AI工厂。\n\n▶️ 观看对话：https：//nvda.ws/4uefQbs",
+    "source": "X：NVIDIA (@nvidia)",
+    "url": "https://x.com/nvidia/status/2062228974273716457",
+    "published_at": "2026-06-03T17:44:36.000Z",
     "category": "ai-products"
   },
   {
-    "title": "Anthropic扩展Project Glasswing计划",
-    "summary": "Anthropic正将其Project Glasswing计划扩展至约150个新组织，此前首批约50个合作伙伴。新伙伴分布于十五个多国家，覆盖电力、水务、医疗、通信和硬件等关键基础设施行业。这些合作伙伴的共同点在于，其代码库若遭成功攻击，后果可能极其严重，影响或超1亿人。项目旨在利用Claude Mythos Prev",
-    "source": "Anthropic：Newsroom（网页）",
-    "url": "https://www.anthropic.com/news/expanding-project-glasswing",
-    "published_at": "2026-06-02T13:28:13.607Z",
-    "category": "industry"
-  },
-  {
-    "title": "Anthropic可解释性研究：区分因果效应相似的特征",
-    "summary": "Anthropic可解释性团队介绍了其Circuits研究的新进展。为区分那些激活模式相似但因果效应不同的模型特征，团队提出一种新方法。该方法通过分析特征的下游连接来预测其实际影响，并使用基于共激活统计的TWERA（虚拟权重）对连接进行加权排序。实验表明，借助下游连接信息能更准确地判断哪个特征会引导特定输出。此方法为识",
-    "source": "Anthropic：Transformer Circuits（可解释性研究）",
-    "url": "https://transformer-circuits.pub/2026/may-update/index.html",
-    "published_at": "2026-06-02T09:52:20.287Z",
-    "category": "paper"
+    "title": "Ideogram v4.0 发布：2K 分辨率和 JSON 提示支持",
+    "summary": "介绍 Ideogram v4.0。\n\n原生 2K 分辨率，出色的文字渲染，支持 JSON 提示词。\n\n立即在 Krea 中体验。",
+    "source": "X：Krea AI (@krea_ai)",
+    "url": "https://x.com/krea_ai/status/2062227837130887567",
+    "published_at": "2026-06-03T17:40:05.000Z",
+    "category": "ai-models"
   }
 ]
