@@ -1,42 +1,42 @@
 [
   {
-    "title": "NVIDIA Nemotron 3 Ultra 为长时间运行的智能体带来更快、更高效的推理能力",
-    "summary": "NVIDIA 发布 Nemotron 3 Ultra 模型，专为长时间运行的 AI 智能体设计。该模型能够在多轮对话中保持上下文、调用工具、调用子智能体，并高效处理复杂工作流。随着多智能体协作导致模型 token 数量快速增长，Nemotron 3 Ultra 通过优化推理流程显著提升速度并降低计算成本，使长期运行的智",
-    "source": "NVIDIA Technical Blog（开发者技术博客 · RSS）",
-    "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-ultra-powers-faster-more-efficient-reasoning-for-long-running-agents",
-    "published_at": "2026-06-04T13:02:49.000Z",
-    "category": "ai-models"
-  },
-  {
-    "title": "NVIDIA PPISP：补偿光度变化提升3D重建",
-    "summary": "辐射场的质量取决于其背后的图像。\n\nPPISP 可帮助补偿不同拍摄之间的光度变化，使 3D 重建在光照和相机设置不完全一致时更加鲁棒。\n\n🔗 项目：https：//nvda.ws/43JeJpk",
-    "source": "X：NVIDIA AI (@NVIDIAAI)",
-    "url": "https://x.com/NVIDIAAI/status/2062358080222876041",
-    "published_at": "2026-06-04T02:17:37.000Z",
-    "category": "paper"
-  },
-  {
-    "title": "世界模型的功能分类",
-    "summary": "World Labs团队与李飞飞发文，梳理\"世界模型\"这一被滥用的术语。对比语言模型学习文本统计，世界模型学习空间与时间统计（如光照、物理规律）。基于部分可观马尔可夫决策过程（POMDP）框架，智能体通过动作影响世界状态，观测是部分视图。当前被称为\"世界模型\"的不同系统本质上是同一循环的不同投影：第一类为渲染器，输出给",
-    "source": "X：Fei-Fei Li (@drfeifei, World Labs)",
-    "url": "https://x.com/drfeifei/status/2062247238143996275",
-    "published_at": "2026-06-03T18:57:10.000Z",
-    "category": "tip"
-  },
-  {
-    "title": "黄仁勋与纳德拉共议智能体AI时代",
-    "summary": "智能体AI时代来了。\n\n从台北，黄仁勋与@satyanadella共同出席#MSBuild，展示NVIDIA与@Microsoft如何携手构建，从Windows设备到规模化AI工厂。\n\n▶️ 观看对话：https：//nvda.ws/4uefQbs",
-    "source": "X：NVIDIA (@nvidia)",
-    "url": "https://x.com/nvidia/status/2062228974273716457",
-    "published_at": "2026-06-03T17:44:36.000Z",
+    "title": "社区基于MiniCPM-V 4.6打造财务分析工具AccountingLLM",
+    "summary": "社区开发者使用面壁智能MiniCPM-V 4.6构建了AccountingLLM（quaesto.com），用于自动化财务文档分析。该工具可上传IPO招股书、年报或审计文件，自动从复杂PDF中提取财务表格、重建跨页表格、对照会计等式检查关键数据，并标记可疑条目供人工审核。开发者已将其商业化，成为实际可用的产品。",
+    "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+    "url": "https://x.com/OpenBMB/status/2062889699056984281",
+    "published_at": "2026-06-05T13:30:05.000Z",
     "category": "ai-products"
   },
   {
-    "title": "Ideogram v4.0 发布：2K 分辨率和 JSON 提示支持",
-    "summary": "介绍 Ideogram v4.0。\n\n原生 2K 分辨率，出色的文字渲染，支持 JSON 提示词。\n\n立即在 Krea 中体验。",
-    "source": "X：Krea AI (@krea_ai)",
-    "url": "https://x.com/krea_ai/status/2062227837130887567",
-    "published_at": "2026-06-03T17:40:05.000Z",
-    "category": "ai-models"
+    "title": "PolarDB-X Zero 上线：30秒全分布式数据库",
+    "summary": "PolarDB-X Zero 上线了！\n\n无需注册。无需配置。只需一次 API 调用。\n30 秒内获得一个全分布式数据库。\n原生 HNSW 向量索引--内置兼容 MySQL 的引擎。\n关系型 + 语义搜索--一条 SQL 语句。\nAI 智能体就绪--MCP 协议、AI IDE 兼容（Cursor、Claude、Qode",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "url": "https://x.com/alibaba_cloud/status/2062781182417490310",
+    "published_at": "2026-06-05T06:18:53.000Z",
+    "category": "ai-products"
+  },
+  {
+    "title": "阿里云发布SkillClaw与Nacos的Agent技能进化循环",
+    "summary": "阿里云推出SkillClaw与Nacos结合，构建AI智能体技能进化流水线。关键特性：自动从真实对话中提取经验并封装为可复用技能（Skill）；Nacos负责集中化版本管理、审核与审计；打破本地孤岛，实现团队安全共享与分发；形成完整的\"生成-治理-分发\"持续进化闭环。目标是将个人洞察转化为团队的AI资产。",
+    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "url": "https://x.com/alibaba_cloud/status/2062777684120244656",
+    "published_at": "2026-06-05T06:04:59.000Z",
+    "category": "ai-products"
+  },
+  {
+    "title": "NVIDIA CEO 黄仁勋访问首尔：与韩国共建 AI 未来",
+    "summary": "NVIDIA 创始人兼 CEO 黄仁勋本周到访首尔，会见韩国的 AI 建造者、主权基础设施合作伙伴及游戏社区。黄仁勋表示，为应对下半年繁忙的 AI 基础设施建设，需对齐 AI 供应链。他指出 Grace Blackwell 系统表现良好，Vera Rubin 已全面投产。他还强调机器人技术将成为韩国的下一个重要产业，并",
+    "source": "NVIDIA AI Blog",
+    "url": "https://blogs.nvidia.com/blog/korea-ecosystem-2026",
+    "published_at": "2026-06-05T05:38:37.000Z",
+    "category": "industry"
+  },
+  {
+    "title": "腾讯高级执行副总裁汤道生：今年腾讯大部分代码都由 AI 生成",
+    "summary": "在 6 月 5 日的腾讯云 AI 产业应用大会上，腾讯高级执行副总裁汤道生表示，今年腾讯大部分代码都由 AI 生成，工程师将更多时间用于架构设计，定期指导与修正 AI 输出。腾讯 2026 年 Q1 财报显示，重组后的 AI 研发团队重构了基础设施，并搭建了 Hy3 preview 模型。腾讯总裁刘炽平今年 3 月透露",
+    "source": "IT之家（RSS）",
+    "url": "https://www.ithome.com/0/960/323.htm",
+    "published_at": "2026-06-05T03:04:23.000Z",
+    "category": "industry"
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "day_count": 42,
+  "day_count": 43,
   "history": [
     {
       "day": 20,
@@ -153,6 +153,13 @@
       "date": "2026-06-04",
       "topic": "NVIDIA Nemotron 3 Ultra 为长时间运行的智能体带来更快、更高效的推理能力",
       "source": "NVIDIA Technical Blog（开发者技术博客 · RSS）",
+      "mode": "rss"
+    },
+    {
+      "day": 43,
+      "date": "2026-06-05",
+      "topic": "社区基于MiniCPM-V 4.6打造财务分析工具AccountingLLM",
+      "source": "X：面壁智能 OpenBMB (@OpenBMB)",
       "mode": "rss"
     }
   ],
