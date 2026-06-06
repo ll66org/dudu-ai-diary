@@ -1,5 +1,5 @@
 {
-  "day_count": 43,
+  "day_count": 44,
   "history": [
     {
       "day": 20,
@@ -160,6 +160,13 @@
       "date": "2026-06-05",
       "topic": "社区基于MiniCPM-V 4.6打造财务分析工具AccountingLLM",
       "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+      "mode": "rss"
+    },
+    {
+      "day": 44,
+      "date": "2026-06-06",
+      "topic": "PixelDiT入选CVPR2026最佳论文决赛",
+      "source": "X：NVIDIA AI (@NVIDIAAI)",
       "mode": "rss"
     }
   ],

@@ -1,42 +1,42 @@
 [
   {
-    "title": "社区基于MiniCPM-V 4.6打造财务分析工具AccountingLLM",
-    "summary": "社区开发者使用面壁智能MiniCPM-V 4.6构建了AccountingLLM（quaesto.com），用于自动化财务文档分析。该工具可上传IPO招股书、年报或审计文件，自动从复杂PDF中提取财务表格、重建跨页表格、对照会计等式检查关键数据，并标记可疑条目供人工审核。开发者已将其商业化，成为实际可用的产品。",
-    "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-    "url": "https://x.com/OpenBMB/status/2062889699056984281",
-    "published_at": "2026-06-05T13:30:05.000Z",
-    "category": "ai-products"
+    "title": "PixelDiT入选CVPR2026最佳论文决赛",
+    "summary": "被选为 #CVPR2026 最佳论文决赛作品：来自 NVIDIA Research 的 PixelDiT\n\n在大多数图像生成模型中，预训练的自编码器会在任何扩散发生前压缩图像，导致质量损失在整个流程中累积。\n\nPixelDiT，即像素扩散变换器，完全去掉了这一步骤。它是一个单阶段模型，直接在像素空间中端到端地学习扩散过",
+    "source": "X：NVIDIA AI (@NVIDIAAI)",
+    "url": "https://x.com/NVIDIAAI/status/2063034422698389625",
+    "published_at": "2026-06-05T23:05:10.000Z",
+    "category": "paper"
   },
   {
-    "title": "PolarDB-X Zero 上线：30秒全分布式数据库",
-    "summary": "PolarDB-X Zero 上线了！\n\n无需注册。无需配置。只需一次 API 调用。\n30 秒内获得一个全分布式数据库。\n原生 HNSW 向量索引--内置兼容 MySQL 的引擎。\n关系型 + 语义搜索--一条 SQL 语句。\nAI 智能体就绪--MCP 协议、AI IDE 兼容（Cursor、Claude、Qode",
-    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
-    "url": "https://x.com/alibaba_cloud/status/2062781182417490310",
-    "published_at": "2026-06-05T06:18:53.000Z",
-    "category": "ai-products"
+    "title": "用Qwen2.5-3B构建多智能体经济体：工程报告",
+    "summary": "开发者用Qwen2.5-3B构建了五人森林生物多智能体经济体，每个智能体独立运行，通过vLLM部署在Modal，以Gradio为交互窗口。3B模型在100%调用中输出有效JSON，但经济判断能力弱。通过设计稀缺性（食物品种限制、易腐坏、冬季燃料危机）和优化提示词（禁止买入自产物品、给出示例）提升决策质量。15轮模拟中，",
+    "source": "Hugging Face：Blog（RSS）",
+    "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim",
+    "published_at": "2026-06-05T22:18:46.000Z",
+    "category": "tip"
   },
   {
-    "title": "阿里云发布SkillClaw与Nacos的Agent技能进化循环",
-    "summary": "阿里云推出SkillClaw与Nacos结合，构建AI智能体技能进化流水线。关键特性：自动从真实对话中提取经验并封装为可复用技能（Skill）；Nacos负责集中化版本管理、审核与审计；打破本地孤岛，实现团队安全共享与分发；形成完整的\"生成-治理-分发\"持续进化闭环。目标是将个人洞察转化为团队的AI资产。",
-    "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
-    "url": "https://x.com/alibaba_cloud/status/2062777684120244656",
-    "published_at": "2026-06-05T06:04:59.000Z",
-    "category": "ai-products"
+    "title": "Arena 发布真实世界 AI 智能体排行榜 Agent Arena",
+    "summary": "Arena 推出基于真实用户任务的智能体排行榜，评估模型在代码编写、应用构建、文档分析等工作中的表现，而非孤立基准。排行榜基于30万+任务、200万+工具调用和4000万行代码，综合任务成功、纠正遵从性、错误恢复、用户表扬与抱怨、工具幻觉等信号。前三名：GPT-5.5 High（+10.7%）、Claude Opus ",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "url": "https://x.com/rohanpaul_ai/status/2063018358795300982",
+    "published_at": "2026-06-05T22:01:20.000Z",
+    "category": "paper"
   },
   {
-    "title": "NVIDIA CEO 黄仁勋访问首尔：与韩国共建 AI 未来",
-    "summary": "NVIDIA 创始人兼 CEO 黄仁勋本周到访首尔，会见韩国的 AI 建造者、主权基础设施合作伙伴及游戏社区。黄仁勋表示，为应对下半年繁忙的 AI 基础设施建设，需对齐 AI 供应链。他指出 Grace Blackwell 系统表现良好，Vera Rubin 已全面投产。他还强调机器人技术将成为韩国的下一个重要产业，并",
-    "source": "NVIDIA AI Blog",
-    "url": "https://blogs.nvidia.com/blog/korea-ecosystem-2026",
-    "published_at": "2026-06-05T05:38:37.000Z",
-    "category": "industry"
+    "title": "微软Project Mosaic：micro-LED光学互连技术",
+    "summary": "微软Azure CTO Mark Russinovich在Build 2026上介绍Project Mosaic，这是微软剑桥研究院的实验性光学互连技术，采用micro-LED实现低功耗、高速数据传输。高级研究员Kaoutar Benyahya现场演示单个LED调制形成字母，证明概念具备实时响应能力。",
+    "source": "X：Microsoft Research (@MSFTResearch)",
+    "url": "https://x.com/MSFTResearch/status/2062983588606320714",
+    "published_at": "2026-06-05T19:43:10.000Z",
+    "category": "paper"
   },
   {
-    "title": "腾讯高级执行副总裁汤道生：今年腾讯大部分代码都由 AI 生成",
-    "summary": "在 6 月 5 日的腾讯云 AI 产业应用大会上，腾讯高级执行副总裁汤道生表示，今年腾讯大部分代码都由 AI 生成，工程师将更多时间用于架构设计，定期指导与修正 AI 输出。腾讯 2026 年 Q1 财报显示，重组后的 AI 研发团队重构了基础设施，并搭建了 Hy3 preview 模型。腾讯总裁刘炽平今年 3 月透露",
-    "source": "IT之家（RSS）",
-    "url": "https://www.ithome.com/0/960/323.htm",
-    "published_at": "2026-06-05T03:04:23.000Z",
-    "category": "industry"
+    "title": "Anthropic：让Claude成为化学家",
+    "summary": "Anthropic与顶尖化学家合作，提升Claude在化学领域的实用性。首个白皮书测试Claude在NMR谱图分析上的表现：在20个化合物上，对比Claude Opus 4.7、Opus 4.6、Sonnet 4.6与ChemDraw、MestReNova的正向预测（从结构预测谱图）和反向结构解析（从实验谱图推断结构）",
+    "source": "Anthropic：Research（发表成果 · 网页）",
+    "url": "https://www.anthropic.com/research/making-claude-a-chemist",
+    "published_at": "2026-06-05T19:33:26.491Z",
+    "category": "paper"
   }
 ]
