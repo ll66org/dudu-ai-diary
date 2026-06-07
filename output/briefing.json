@@ -1,42 +1,42 @@
 [
   {
-    "title": "PixelDiT入选CVPR2026最佳论文决赛",
-    "summary": "被选为 #CVPR2026 最佳论文决赛作品：来自 NVIDIA Research 的 PixelDiT\n\n在大多数图像生成模型中，预训练的自编码器会在任何扩散发生前压缩图像，导致质量损失在整个流程中累积。\n\nPixelDiT，即像素扩散变换器，完全去掉了这一步骤。它是一个单阶段模型，直接在像素空间中端到端地学习扩散过",
-    "source": "X：NVIDIA AI (@NVIDIAAI)",
-    "url": "https://x.com/NVIDIAAI/status/2063034422698389625",
-    "published_at": "2026-06-05T23:05:10.000Z",
-    "category": "paper"
-  },
-  {
-    "title": "用Qwen2.5-3B构建多智能体经济体：工程报告",
-    "summary": "开发者用Qwen2.5-3B构建了五人森林生物多智能体经济体，每个智能体独立运行，通过vLLM部署在Modal，以Gradio为交互窗口。3B模型在100%调用中输出有效JSON，但经济判断能力弱。通过设计稀缺性（食物品种限制、易腐坏、冬季燃料危机）和优化提示词（禁止买入自产物品、给出示例）提升决策质量。15轮模拟中，",
-    "source": "Hugging Face：Blog（RSS）",
-    "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim",
-    "published_at": "2026-06-05T22:18:46.000Z",
+    "title": "\"我在田里雇了一名工程师，它叫 Codex\" -- 北海道一个西兰花农的 8 个真实 AI 用法",
+    "summary": "日本北海道农民富安弘毅用 ChatGPT 和 Codex 解决农场实际问题，涵盖 8 个用法：拍照识别西兰花病害、卫星监测获取 NDVI 数据、用 ESP32 和 LINE 机器人远程控制温室卷帘、为农场群聊开发机器人管理温度与排期、从聊天记录追踪播种数量、学习 RTK-GPS 自动转向原理并评估自建成本、设计基于 A",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "url": "https://x.com/AYi_AInotes/status/2063573709672104286",
+    "published_at": "2026-06-07T10:48:06.000Z",
     "category": "tip"
   },
   {
-    "title": "Arena 发布真实世界 AI 智能体排行榜 Agent Arena",
-    "summary": "Arena 推出基于真实用户任务的智能体排行榜，评估模型在代码编写、应用构建、文档分析等工作中的表现，而非孤立基准。排行榜基于30万+任务、200万+工具调用和4000万行代码，综合任务成功、纠正遵从性、错误恢复、用户表扬与抱怨、工具幻觉等信号。前三名：GPT-5.5 High（+10.7%）、Claude Opus ",
-    "source": "X：Rohan Paul (@rohanpaul_ai)",
-    "url": "https://x.com/rohanpaul_ai/status/2063018358795300982",
-    "published_at": "2026-06-05T22:01:20.000Z",
-    "category": "paper"
+    "title": "Her · हेर - Claude Code 会话分析工具",
+    "summary": "Her（हेर）是专为 Claude Code 设计的会话分析工具。用户上传 `.jsonl` 文件后，Her 用自然语言重建每轮交互，标记部署、配置变更、秘密等高风险操作并定位到具体轮次。它展示 token 消耗、所用工具、子智能体、技能和 MCP 服务器，并结合 Anthropic 与社区最佳实践给出改进建议（仅在",
+    "source": "Hugging Face：Blog（RSS）",
+    "url": "https://huggingface.co/blog/build-small-hackathon/her-blog",
+    "published_at": "2026-06-07T10:13:41.000Z",
+    "category": "ai-products"
   },
   {
-    "title": "微软Project Mosaic：micro-LED光学互连技术",
-    "summary": "微软Azure CTO Mark Russinovich在Build 2026上介绍Project Mosaic，这是微软剑桥研究院的实验性光学互连技术，采用micro-LED实现低功耗、高速数据传输。高级研究员Kaoutar Benyahya现场演示单个LED调制形成字母，证明概念具备实时响应能力。",
-    "source": "X：Microsoft Research (@MSFTResearch)",
-    "url": "https://x.com/MSFTResearch/status/2062983588606320714",
-    "published_at": "2026-06-05T19:43:10.000Z",
-    "category": "paper"
+    "title": "Harness-1：基于强化学习训练的有状态搜索20B检索子智能体",
+    "summary": "UIUC与Chroma联合推出Harness-1，一个20B参数的检索子智能体。它通过强化学习在一个有状态搜索框架中训练，该框架维护候选池、重要性标注集、证据图和验证记录，由策略决定搜索、筛选、验证及停止的时机。Harness-1在8个基准测试上达到0.730平均curated recall，比下一个最佳开源子智能体高",
+    "source": "MarkTechPost（RSS）",
+    "url": "https://www.marktechpost.com/2026/06/06/meet-harness-1-a-20b-retrieval-subagent-trained-with-reinforcement-learning-inside-a-stateful-search-harness-on-gpt-oss-20b",
+    "published_at": "2026-06-07T06:25:18.000Z",
+    "category": "ai-models"
   },
   {
-    "title": "Anthropic：让Claude成为化学家",
-    "summary": "Anthropic与顶尖化学家合作，提升Claude在化学领域的实用性。首个白皮书测试Claude在NMR谱图分析上的表现：在20个化合物上，对比Claude Opus 4.7、Opus 4.6、Sonnet 4.6与ChemDraw、MestReNova的正向预测（从结构预测谱图）和反向结构解析（从实验谱图推断结构）",
-    "source": "Anthropic：Research（发表成果 · 网页）",
-    "url": "https://www.anthropic.com/research/making-claude-a-chemist",
-    "published_at": "2026-06-05T19:33:26.491Z",
-    "category": "paper"
+    "title": "Opus 4.8 缓存命中率与有效价格可实时查看",
+    "summary": "不同模型提供商在缓存命中率和有效价格上有什么差异？\n\n现在你可以从 Pricing 标签查看实时缓存命中率和历史流量。这里是 Opus 4.8：https：//openrouter.ai/anthropic/claude-opus-4.8/pricing",
+    "source": "X：OpenRouter (@OpenRouter)",
+    "url": "https://x.com/OpenRouter/status/2063504950429147376",
+    "published_at": "2026-06-07T06:14:52.000Z",
+    "category": "ai-products"
+  },
+  {
+    "title": "对比一下 GPT-5.5 的设计效果和 Opus 4.8 的设计效果",
+    "summary": "宝玉对比了GPT-5.5与Opus 4.8的设计能力，认为Opus 4.8效果远优于GPT-5.5。他使用了基于Cursor浏览器和元素标注的baoyu-design Skill，该Skill通过npx skills add JimLiu/baoyu-design安装，可在本地运行：描述屏幕需求即可生成精良HTML，点",
+    "source": "X：宝玉 (@dotey)",
+    "url": "https://x.com/dotey/status/2063464057647075379",
+    "published_at": "2026-06-07T03:32:23.000Z",
+    "category": "tip"
   }
 ]

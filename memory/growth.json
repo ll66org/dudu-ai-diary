@@ -1,5 +1,5 @@
 {
-  "day_count": 44,
+  "day_count": 45,
   "history": [
     {
       "day": 20,
@@ -167,6 +167,13 @@
       "date": "2026-06-06",
       "topic": "PixelDiT入选CVPR2026最佳论文决赛",
       "source": "X：NVIDIA AI (@NVIDIAAI)",
+      "mode": "rss"
+    },
+    {
+      "day": 45,
+      "date": "2026-06-07",
+      "topic": "\"我在田里雇了一名工程师，它叫 Codex\" -- 北海道一个西兰花农的 8 个真实 AI 用法",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
       "mode": "rss"
     }
   ],

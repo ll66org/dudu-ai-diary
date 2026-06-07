@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-06T12:53:07.558220Z",
+  "fetched_at": "2026-06-07T13:07:36.923534Z",
   "total_candidates": 25,
   "source_stats": {
     "Figma Blog": {
@@ -31,7 +31,7 @@
       "total": 66
     },
     "Smashing Magazine": {
-      "found": 2,
+      "found": 1,
       "total": 40
     },
     "UX Collective": {
@@ -51,7 +51,7 @@
       "total": 20
     },
     "Hacker News (设计向)": {
-      "found": 4,
+      "found": 5,
       "total": 20
     },
     "Product Hunt": {
@@ -64,27 +64,27 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 44,
-  "today_date": "2026-06-06",
+  "dudu_day": 45,
+  "today_date": "2026-06-07",
   "used_titles": [
-    "Claude Code--文档中未提及的所有可配置选项",
     "小即是美：开源多模态模型发布",
     "在浏览器中通过 Pyodide 和 Service Worker 运行 Python ASGI 应用",
     "SenseNova新模型解决AI图表生成难题",
     "商汤开源SenseNova-Skills AI办公技能套件",
     "NVIDIA Nemotron 3 Ultra 为长时间运行的智能体带来更快、更高效的推理能力",
-    "社区基于MiniCPM-V 4.6打造财务分析工具AccountingLLM"
+    "社区基于MiniCPM-V 4.6打造财务分析工具AccountingLLM",
+    "PixelDiT入选CVPR2026最佳论文决赛"
   ],
   "used_tools": [
-    "Hacker News 热门（buzzing.cc 中文翻译）",
     "X：阶跃星辰 StepFun (@StepFun_ai)",
     "Simon Willison 博客",
     "X：商汤 SenseTime (@SenseTime_AI)",
     "X：商汤 SenseTime (@SenseTime_AI)",
     "NVIDIA Technical Blog（开发者技术博客 · RSS）",
-    "X：面壁智能 OpenBMB (@OpenBMB)"
+    "X：面壁智能 OpenBMB (@OpenBMB)",
+    "X：NVIDIA AI (@NVIDIAAI)"
   ],
-  "briefing_total": 80,
+  "briefing_total": 76,
   "briefing_design": 37,
   "briefing_count": 5
 }

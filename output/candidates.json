@@ -1,48 +1,129 @@
 [
   {
-    "title": "Lessons from a weekend building local AI workflows",
-    "summary": "<p>Article URL: <a href=\"http://stefano.petrilli.xyz/building-ai-workflows/\">http://stefano.petrilli.xyz/building-ai-workflows/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48423498\">https://news.ycombinator.com/item?id=48423498</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "http://stefano.petrilli.xyz/building-ai-workflows/",
-    "published": "Sat, 06 Jun 2026 10:33:49 +0000",
+    "title": "Show HN: Version Control for AI Agents",
+    "summary": "<p>Git/GitHub did not evolve for agentic era, so we are building</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48433857\">https://news.ycombinator.com/item?id=48433857</a></p>\n<p>Points: 2</p>\n<p># Comments: 2</p>",
+    "url": "https://cognatoai.com",
+    "published": "Sun, 07 Jun 2026 11:32:21 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Microsoft Patents a Built-In Windows Toggle for AI Data Collection Control",
-    "summary": "<p>Article URL: <a href=\"https://patentlyze.com/patent/microsoft-windows-ai-data-collection-toggle/\">https://patentlyze.com/patent/microsoft-windows-ai-data-collection-toggle/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48423416\">https://news.ycombinator.com/item?id=48423416</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://patentlyze.com/patent/microsoft-windows-ai-data-collection-toggle/",
-    "published": "Sat, 06 Jun 2026 10:21:56 +0000",
+    "title": "Klarna CMO created an AI \"venting machine\" of himself",
+    "summary": "<p>Article URL: <a href=\"https://www.businessinsider.com/klarna-cmo-built-ai-replica-himself-colleagues-vent-at-2026-5\">https://www.businessinsider.com/klarna-cmo-built-ai-replica-himself-colleagues-vent-at-2026-5</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48433292\">https://news.ycombinator.com/item?id=48433292</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "url": "https://www.businessinsider.com/klarna-cmo-built-ai-replica-himself-colleagues-vent-at-2026-5",
+    "published": "Sun, 07 Jun 2026 09:41:38 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Update on Meteorra AI – Just Shipped YouTube Video Analyser",
-    "summary": "<p>Article URL: <a href=\"https://www.indiehackers.com/post/i-built-an-ai-that-tells-creators-who-will-watch-their-content-before-they-post-09997eb90b\">https://www.indiehackers.com/post/i-built-an-ai-that-tells-creators-who-will-watch-their-content-before-they-post-09997eb90b</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48422604\">https://news.ycombinator.com/item?id=48422604</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
-    "url": "https://www.indiehackers.com/post/i-built-an-ai-that-tells-creators-who-will-watch-their-content-before-they-post-09997eb90b",
-    "published": "Sat, 06 Jun 2026 08:11:26 +0000",
+    "title": "What we know about the plan to give Americans an equity stake in AI",
+    "summary": "<p>Article URL: <a href=\"https://www.ft.com/content/8559a3f9-86de-4a1c-8a75-6623e83e6a00\">https://www.ft.com/content/8559a3f9-86de-4a1c-8a75-6623e83e6a00</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48433260\">https://news.ycombinator.com/item?id=48433260</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+    "url": "https://www.ft.com/content/8559a3f9-86de-4a1c-8a75-6623e83e6a00",
+    "published": "Sun, 07 Jun 2026 09:34:06 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Bitrig – The best way to build native Swift apps with AI",
-    "summary": "<p>Article URL: <a href=\"https://bitrig.com\">https://bitrig.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48422196\">https://news.ycombinator.com/item?id=48422196</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://bitrig.com",
-    "published": "Sat, 06 Jun 2026 07:02:15 +0000",
+    "title": "Ask HN: What do you currently use for AI coding (personal or professional)?",
+    "summary": "<p>Given how quickly things evolve, it's easy to get lost in the numerous offerings and hard to get the best deal. So, what do you use? Both clients/harnesses and LLM providers or local setups would be interesting.<p>Personally, I've been using opencode with Github copilot for work. I'm currently looking for cost-effective provider for personal work. Maybe openrouter with one of the cheap models?</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48433171\">https://news.yco",
+    "url": "https://news.ycombinator.com/item?id=48433171",
+    "published": "Sun, 07 Jun 2026 09:14:50 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "PixelDiT入选CVPR2026最佳论文决赛",
-    "summary": "被选为 #CVPR2026 最佳论文决赛作品：来自 NVIDIA Research 的 PixelDiT\n\n在大多数图像生成模型中，预训练的自编码器会在任何扩散发生前压缩图像，导致质量损失在整个流程中累积。\n\nPixelDiT，即像素扩散变换器，完全去掉了这一步骤。它是一个单阶段模型，直接在像素空间中端到端地学习扩散过程。",
-    "url": "https://x.com/NVIDIAAI/status/2063034422698389625",
-    "published": "2026-06-05T23:05:10.000Z",
-    "source": "X：NVIDIA AI (@NVIDIAAI)",
+    "title": "Ask HN: Who here still codes without AI, and why?",
+    "summary": "<p>As someone who loves coding (uses vim, and has done so for ~10 years),<p>but also is amazed by AI coding tools and has embraced them recently (e.g. copilot then claude code then codex),<p>I'm curious, who out there is still not using any of these tools? And if not, why?<p>I feel it's become as common-place as autocomplete, or intellisense. Though I remember people used to hate those too.<p>I guess AI is like the modern day intellisense + docs targeted for exactly what you're doing, always \n(m",
+    "url": "https://news.ycombinator.com/item?id=48432990",
+    "published": "Sun, 07 Jun 2026 08:37:03 +0000",
+    "source": "Hacker News (设计向)",
     "source_weight": "high",
-    "category": "paper"
+    "category": "ai_tech"
+  },
+  {
+    "title": "\"我在田里雇了一名工程师，它叫 Codex\" -- 北海道一个西兰花农的 8 个真实 AI 用法",
+    "summary": "日本北海道农民富安弘毅用 ChatGPT 和 Codex 解决农场实际问题，涵盖 8 个用法：拍照识别西兰花病害、卫星监测获取 NDVI 数据、用 ESP32 和 LINE 机器人远程控制温室卷帘、为农场群聊开发机器人管理温度与排期、从聊天记录追踪播种数量、学习 RTK-GPS 自动转向原理并评估自建成本、设计基于 Airtable 的农场管理数据库。他说 AI 让传统昂贵的自动化变得低成本可及，\"如同身边有一位超级工程师\"。",
+    "url": "https://x.com/AYi_AInotes/status/2063573709672104286",
+    "published": "2026-06-07T10:48:06.000Z",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "Her · हेर - Claude Code 会话分析工具",
+    "summary": "Her（हेर）是专为 Claude Code 设计的会话分析工具。用户上传 `.jsonl` 文件后，Her 用自然语言重建每轮交互，标记部署、配置变更、秘密等高风险操作并定位到具体轮次。它展示 token 消耗、所用工具、子智能体、技能和 MCP 服务器，并结合 Anthropic 与社区最佳实践给出改进建议（仅在有明确可修复模式时）。内置\"Ask Her\"问答功能，支持单会话与跨会话项目分析。工具不调用第三方 AI API，使用 Nemotron-Mini-4B-Instruct 模型在 Hugging Face ZeroGPU 上运行，评估引擎完全确定，模型仅负责文本生成与建议。Her 内置 Homebrew、npm、PyPI 主流 CLI 工具数据库，自动识别会话中使用的工具，并对部署工具、数据库客户端等执行活动进行标记提醒。",
+    "url": "https://huggingface.co/blog/build-small-hackathon/her-blog",
+    "published": "2026-06-07T10:13:41.000Z",
+    "source": "Hugging Face：Blog（RSS）",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "Harness-1：基于强化学习训练的有状态搜索20B检索子智能体",
+    "summary": "UIUC与Chroma联合推出Harness-1，一个20B参数的检索子智能体。它通过强化学习在一个有状态搜索框架中训练，该框架维护候选池、重要性标注集、证据图和验证记录，由策略决定搜索、筛选、验证及停止的时机。Harness-1在8个基准测试上达到0.730平均curated recall，比下一个最佳开源子智能体高出11.4个百分点，仅落后于Opus-4.6。模型权重和框架代码均已公开。",
+    "url": "https://www.marktechpost.com/2026/06/06/meet-harness-1-a-20b-retrieval-subagent-trained-with-reinforcement-learning-inside-a-stateful-search-harness-on-gpt-oss-20b",
+    "published": "2026-06-07T06:25:18.000Z",
+    "source": "MarkTechPost（RSS）",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "Opus 4.8 缓存命中率与有效价格可实时查看",
+    "summary": "不同模型提供商在缓存命中率和有效价格上有什么差异？\n\n现在你可以从 Pricing 标签查看实时缓存命中率和历史流量。这里是 Opus 4.8：https：//openrouter.ai/anthropic/claude-opus-4.8/pricing",
+    "url": "https://x.com/OpenRouter/status/2063504950429147376",
+    "published": "2026-06-07T06:14:52.000Z",
+    "source": "X：OpenRouter (@OpenRouter)",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "对比一下 GPT-5.5 的设计效果和 Opus 4.8 的设计效果",
+    "summary": "宝玉对比了GPT-5.5与Opus 4.8的设计能力，认为Opus 4.8效果远优于GPT-5.5。他使用了基于Cursor浏览器和元素标注的baoyu-design Skill，该Skill通过npx skills add JimLiu/baoyu-design安装，可在本地运行：描述屏幕需求即可生成精良HTML，点击预览中任意元素即可发出修改指令。官方推荐搭配Opus 4.8以获得最佳效果。工具GitHub仓库：https：//github.com/JimLiu/baoyu-design。",
+    "url": "https://x.com/dotey/status/2063464057647075379",
+    "published": "2026-06-07T03:32:23.000Z",
+    "source": "X：宝玉 (@dotey)",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "M3与Opus代码审计13个bug：$0.07 vs $1.30",
+    "summary": "对 Claude Opus 4.8 和 MiniMax M3 进行相同的代码审计：同一代码库、同一提示词，预先植入 17 个已知 bug。MiniMax M3 以 $0.07 抓到 13 个；最便宜的 Claude 运行同样抓到 13 个，花费 $1.30。MiniMax 表示这一对比非常有趣，绝对值得一读。",
+    "url": "https://x.com/MiniMax_AI/status/2063397618034844135",
+    "published": "2026-06-06T23:08:22.000Z",
+    "source": "X：MiniMax (@MiniMax_AI)",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "五个实验室，五个心智：用小模型构建多模型金融剧情游戏",
+    "summary": "Thousand Token Wood v2使用四个不同实验室的小模型（gpt-oss-20b、MiniCPM3-4B、Nemotron-Mini-4B及微调Qwen 0.5B）驱动金融模拟游戏的智能体。核心发现是异构服务层摩擦在于vLLM 0.22.1需CUDA工具包，而非模型本身。通过容忍性JSON解析层，添加模型只需一条配置。信息隔离确保内幕标志不在提示词中，扫描测试验证无泄露。记忆用情绪摘要截断避免淹没。微调0.5B模型实现0%自成交、100%有效报价，真相防火墙零泄露。小模型是可靠格式生成器但不可靠推理器，可通过结构化、提示词和微调弥补。",
+    "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2",
+    "published": "2026-06-06T19:02:33.000Z",
+    "source": "Hugging Face：Blog（RSS）",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "GitHub 开源 Spec Kit 工具包，用产品规范引导 AI 编码",
+    "summary": "GitHub 发布开源工具包 Spec Kit，旨在解决 \"vibe coding\" 的最大弱点--AI 常在规则未明确时就开始编码。它把流程从 \"让 AI 直接构建\" 改为 \"先写产品规范，再让 AI 根据规范实现\"。当前 AI 编码模式常因松散提示直接跳入代码，导致需求薄弱、边界遗漏和反复返工。Spec Kit 推动反向流程：先定义产品功能，再澄清差距、制订技术计划、分解任务，最后让 agent 执行。规范成为可执行的开发合约，支持 Copilot、Claude Code、Codex、Gemini、Cursor、Qwen 等 30+ agent 集成。项目已获 109K+ 星标。",
+    "url": "https://x.com/rohanpaul_ai/status/2063246343842501091",
+    "published": "2026-06-06T13:07:16.000Z",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "OpenCV 5 发布：升级全新 DNN 引擎、原生支持大模型",
+    "summary": "OpenCV 5 正式发布，采用基于图的 DNN 引擎，ONNX 算子覆盖率从 4.x 的不到 23% 提升至超 80%，原生支持 Transformer、视觉语言模型（VLM）和大语言模型（LLM）。其他更新包括：更好的 Python 集成与命名参数、更紧凑核心代码、清晰硬件加速层、原生 FP16/BF16、规范化 0D/1D 张量、扩展 3D 视觉及现代化文档。该库 GitHub 拥有超 86，000 stars，每日安装量超一百万次。",
+    "url": "https://www.ithome.com/0/960/969.htm",
+    "published": "2026-06-06T12:48:12.000Z",
+    "source": "IT之家（RSS）",
+    "source_weight": "high",
+    "category": "ai-products"
   },
   {
     "title": "用Qwen2.5-3B构建多智能体经济体：工程报告",
@@ -72,15 +153,6 @@
     "category": "paper"
   },
   {
-    "title": "Anthropic：让Claude成为化学家",
-    "summary": "Anthropic与顶尖化学家合作，提升Claude在化学领域的实用性。首个白皮书测试Claude在NMR谱图分析上的表现：在20个化合物上，对比Claude Opus 4.7、Opus 4.6、Sonnet 4.6与ChemDraw、MestReNova的正向预测（从结构预测谱图）和反向结构解析（从实验谱图推断结构）能力。所有化合物选自模型训练截止日期后发布的ChemRxiv预印本，以避免选择偏差。",
-    "url": "https://www.anthropic.com/research/making-claude-a-chemist",
-    "published": "2026-06-05T19:33:26.491Z",
-    "source": "Anthropic：Research（发表成果 · 网页）",
-    "source_weight": "high",
-    "category": "paper"
-  },
-  {
     "title": "Claude 是否增加了 rsync 中的错误？",
     "summary": "一篇 Hacker News 热门帖子（105 分）提出了 Claude 是否导致 rsync 工具中 bug 增加的问题，并附有分析链接。",
     "url": "https://alexispurslane.github.io/rsync-analysis",
@@ -97,69 +169,6 @@
     "source": "X：Michael Truell (@mntruell)",
     "source_weight": "high",
     "category": "ai-products"
-  },
-  {
-    "title": "Google Colab CLI 发布",
-    "summary": "Google 推出 Colab 命令行界面（CLI），允许开发者和 AI 智能体将本地终端连接到远程 Colab 运行时，实现无摩擦执行。该轻量级 CLI 支持请求高性能 GPU、远程运行本地 Python 脚本，并检索工件日志或模型（如微调后的 Gemma 3 适配器）。工具可直接集成到标准终端环境，可被 Antigravity、Claude Code 等 AI 智能体调用以管理复杂机器学习流水线。",
-    "url": "https://developers.googleblog.com/introducing-the-google-colab-cli",
-    "published": "2026-06-05T17:12:11.075Z",
-    "source": "Google Developers Blog（RSS）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Riverflow 2.5：可控制评分标准的图像模型",
-    "summary": "在OpenRouter上线：来自@Sourceful的Riverflow 2.5。\n\n首个具有独立评分标准的图像模型，你可控制该标准以引导其思维和编辑，并具备可控的推理努力，可在速度与质量之间进行权衡。\n\n免费至6月9日（周二）。Fast和Pro见下方🧵。",
-    "url": "https://x.com/OpenRouter/status/2062944965978992935",
-    "published": "2026-06-05T17:09:42.000Z",
-    "source": "X：OpenRouter (@OpenRouter)",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "ChatGPT 网页版支持从写作块发送邮件",
-    "summary": "草拟。调整。发送。\n\n现在你可以在网页版 ChatGPT 中直接从写作块发送邮件，无需离开对话。",
-    "url": "https://x.com/ChatGPTapp/status/2062944254591430917",
-    "published": "2026-06-05T17:06:52.000Z",
-    "source": "X：ChatGPT (@ChatGPTapp)",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Google AI 本周产品更新：Nano Banana 2、Co-Scientist、dreambeans、Gemma 4 等",
-    "summary": "Google AI 本周发布多项更新：Nano Banana 2 及 Pro 正式 GA，可通过 Gemini Enterprise Agent Platform、Gemini API 和 Google AI Studio 获取；Co-Scientist 多智能体系统面向科研自动生成优化新假设；Google Labs 推出 dreambeans，根据用户 Google 应用数据每日生成个性化话题集；Gemma 4 12B 统一无编码器多模态模型可完全离线运行于笔记本；Gemma 4 系列及草稿模型引入 QAT 降低内存需求；Google Magenta RealTime 2 开源实时音乐模型，支持 MIDI 键盘、文本提示和手势演奏。",
-    "url": "https://x.com/GoogleAI/status/2062942864288387430",
-    "published": "2026-06-05T17:01:21.000Z",
-    "source": "X：Google AI (@GoogleAI)",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Meta SAM 3D 获 CVPR26 最佳论文荣誉提名",
-    "summary": "热烈祝贺我们的 SAM 3D 团队在 #CVPR26 获得最佳论文荣誉提名！这项殊荣凸显了他们在推动计算机视觉边界方面的杰出工作。\n\n论文链接：https：//arxiv.org/abs/2511.16624",
-    "url": "https://x.com/AIatMeta/status/2062920724944507095",
-    "published": "2026-06-05T15:33:22.000Z",
-    "source": "X：AI at Meta (@AIatMeta)",
-    "source_weight": "high",
-    "category": "paper"
-  },
-  {
-    "title": "Viggle_PINOC 免费动捕测试开启",
-    "summary": "Mocap 不需要套装、工作室或数千美元。\n\n使用 @Viggle_PINOC，任何人都可以简单地拍摄自己，并将该视频转换为动作捕捉。\n\n我们仍处于测试阶段，且对所有人完全免费。试试看，告诉我们你还想看什么！",
-    "url": "https://x.com/ViggleAI/status/2062904007123714329",
-    "published": "2026-06-05T14:26:56.000Z",
-    "source": "X：Viggle AI (@ViggleAI)",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "苹果新版 Siri 不会被宣传为完成品，内部将其标记为\"Beta\"版",
-    "summary": "苹果新版Siri被内部标记为\"Beta\"版，不会作为完成品宣传；可能设置等待清单供用户尝试。iOS 27细节：通知到达重新设计，通知中心手势移至左上角；\"查找\"应用视觉重设计；照片\"清理\"功能改进；大量底层安全改进。部分Siri查询将通过Google Cloud调用授权版Gemini，并使用谷歌的NVIDIA Blackwell B200集群处理。",
-    "url": "https://www.ithome.com/0/960/739.htm",
-    "published": "2026-06-05T14:21:03.000Z",
-    "source": "IT之家（RSS）",
-    "source_weight": "high",
-    "category": "industry"
   },
   {
     "title": "How To Make Your Design System AI-Ready",
@@ -194,15 +203,6 @@
     "url": "https://uxdesign.cc/the-rhetorical-mask-of-innovation-12f3abcd6120?source=rss----138adf9c44c---4",
     "published": "Thu, 04 Jun 2026 19:15:48 GMT",
     "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "June Is For Exploring (2026 Wallpapers Edition)",
-    "summary": "Let’s kick off June — and the beginning of summer — with some fresh inspiration! Artists and designers from across the globe once again tickled their creativity to welcome the new month with a new collection of desktop wallpapers. Enjoy!",
-    "url": "https://smashingmagazine.com/2026/05/desktop-wallpaper-calendars-june-2026/",
-    "published": "Sun, 31 May 2026 08:00:00 GMT",
-    "source": "Smashing Magazine",
     "source_weight": "medium",
     "category": "design_communities"
   },
