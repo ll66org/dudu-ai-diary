@@ -1,42 +1,42 @@
 [
   {
-    "title": "\"我在田里雇了一名工程师，它叫 Codex\" -- 北海道一个西兰花农的 8 个真实 AI 用法",
-    "summary": "日本北海道农民富安弘毅用 ChatGPT 和 Codex 解决农场实际问题，涵盖 8 个用法：拍照识别西兰花病害、卫星监测获取 NDVI 数据、用 ESP32 和 LINE 机器人远程控制温室卷帘、为农场群聊开发机器人管理温度与排期、从聊天记录追踪播种数量、学习 RTK-GPS 自动转向原理并评估自建成本、设计基于 A",
-    "source": "X：阿易 AI Notes (@AYi_AInotes)",
-    "url": "https://x.com/AYi_AInotes/status/2063573709672104286",
-    "published_at": "2026-06-07T10:48:06.000Z",
-    "category": "tip"
-  },
-  {
-    "title": "Her · हेर - Claude Code 会话分析工具",
-    "summary": "Her（हेर）是专为 Claude Code 设计的会话分析工具。用户上传 `.jsonl` 文件后，Her 用自然语言重建每轮交互，标记部署、配置变更、秘密等高风险操作并定位到具体轮次。它展示 token 消耗、所用工具、子智能体、技能和 MCP 服务器，并结合 Anthropic 与社区最佳实践给出改进建议（仅在",
-    "source": "Hugging Face：Blog（RSS）",
-    "url": "https://huggingface.co/blog/build-small-hackathon/her-blog",
-    "published_at": "2026-06-07T10:13:41.000Z",
-    "category": "ai-products"
-  },
-  {
-    "title": "Harness-1：基于强化学习训练的有状态搜索20B检索子智能体",
-    "summary": "UIUC与Chroma联合推出Harness-1，一个20B参数的检索子智能体。它通过强化学习在一个有状态搜索框架中训练，该框架维护候选池、重要性标注集、证据图和验证记录，由策略决定搜索、筛选、验证及停止的时机。Harness-1在8个基准测试上达到0.730平均curated recall，比下一个最佳开源子智能体高",
-    "source": "MarkTechPost（RSS）",
-    "url": "https://www.marktechpost.com/2026/06/06/meet-harness-1-a-20b-retrieval-subagent-trained-with-reinforcement-learning-inside-a-stateful-search-harness-on-gpt-oss-20b",
-    "published_at": "2026-06-07T06:25:18.000Z",
+    "title": "VoxCPM2 技术报告发布",
+    "summary": "面壁智能 OpenBMB 发布 VoxCPM2 技术报告。该模型为最新语音生成模型，拥有 2B 参数，基于超 200 万小时多语言语音数据训练，支持 30 种语言和 9 种中文方言。具备自然语言语音设计、可控及高保真延续性语音克隆能力。技术报告涵盖架构设计、统一序列公式、AudioVAE 高保真语音重建、大规模训练评估",
+    "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+    "url": "https://x.com/OpenBMB/status/2063991963133903317",
+    "published_at": "2026-06-08T14:30:05.000Z",
     "category": "ai-models"
   },
   {
-    "title": "Opus 4.8 缓存命中率与有效价格可实时查看",
-    "summary": "不同模型提供商在缓存命中率和有效价格上有什么差异？\n\n现在你可以从 Pricing 标签查看实时缓存命中率和历史流量。这里是 Opus 4.8：https：//openrouter.ai/anthropic/claude-opus-4.8/pricing",
-    "source": "X：OpenRouter (@OpenRouter)",
-    "url": "https://x.com/OpenRouter/status/2063504950429147376",
-    "published_at": "2026-06-07T06:14:52.000Z",
-    "category": "ai-products"
+    "title": "微软AI CEO：超级智能即将到来，但不会取代你的工作",
+    "summary": "微软AI CEO Mustafa Suleyman在Decoder访谈中表示，超级智能即将到来，但不会导致大规模失业。他透露微软与OpenAI于去年10月签署新合同，巩固合作关系的同时，微软获准独立追求超级智能。微软已组建超级智能团队、训练前沿模型，并于本周Build大会上发布7个全模态新模型。他批评Anthropic",
+    "source": "The Verge：AI（RSS）",
+    "url": "https://www.theverge.com/podcast/944138/microsoft-ai-ceo-mustafa-suleyman-superintelligence-agi-openai-automation",
+    "published_at": "2026-06-08T14:00:00.000Z",
+    "category": "tip"
   },
   {
-    "title": "对比一下 GPT-5.5 的设计效果和 Opus 4.8 的设计效果",
-    "summary": "宝玉对比了GPT-5.5与Opus 4.8的设计能力，认为Opus 4.8效果远优于GPT-5.5。他使用了基于Cursor浏览器和元素标注的baoyu-design Skill，该Skill通过npx skills add JimLiu/baoyu-design安装，可在本地运行：描述屏幕需求即可生成精良HTML，点",
-    "source": "X：宝玉 (@dotey)",
-    "url": "https://x.com/dotey/status/2063464057647075379",
-    "published_at": "2026-06-07T03:32:23.000Z",
+    "title": "小互开源视频翻译工具：一句话自动下载、转写、翻译、烧字幕",
+    "summary": "小互（@xiaohu）开源视频翻译工具（xiaohu-video-translate），只需说一句\"把链接翻译成中文字幕视频\"即可全自动完成下载、Whisper本地转写、AI翻译润色、烧字幕、出文稿。转写本地运行，不花API费。支持YouTube、Bilibili、抖音等链接及本地文件，英语、日语、韩语、法语、西班牙语",
+    "source": "X：小互 (@xiaohu)",
+    "url": "https://x.com/xiaohu/status/2063972223170556302",
+    "published_at": "2026-06-08T13:11:39.000Z",
+    "category": "tip"
+  },
+  {
+    "title": "五个模型经济体中消失的崩溃：控制与涌现",
+    "summary": "用五个不同实验室的AI模型（OpenAI、NVIDIA、OpenBMB及一个自微调的5亿参数模型）各自驱动一个智能体构建经济市场，试图复现此前单一模型下出现的银行挤兑式价格崩溃。结果同一场景下模型不仅不抛售反而囤积，导致价格不跌反涨。通过纯谣言、库存泛滥、加大做空三种方式均无法重现崩溃。最终在结算环节直接覆盖价格，使崩",
+    "source": "Hugging Face：Blog（RSS）",
+    "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v3",
+    "published_at": "2026-06-08T13:10:48.000Z",
+    "category": "tip"
+  },
+  {
+    "title": "Pakistan Notice Helper：一款面向本地安全问题的轻量 AI 工具",
+    "summary": "Pakistan Notice Helper 是一款安全工具，帮助巴基斯坦用户在点击链接、拨打电话、分享 OTP 或支付前识别可疑消息。它接受文本或截图输入，返回风险等级、简短解释、可见警示标志和安全下一步建议。工具支持英文和乌尔都语，乌尔都模式采用从右向左布局并全界面翻译。最终部署选用 Qwen3.5 4B Q8 模",
+    "source": "Hugging Face：Blog（RSS）",
+    "url": "https://huggingface.co/blog/build-small-hackathon/building-pakistan-notice-helper",
+    "published_at": "2026-06-08T11:46:56.000Z",
     "category": "tip"
   }
 ]
