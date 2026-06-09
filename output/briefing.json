@@ -1,42 +1,42 @@
 [
   {
-    "title": "VoxCPM2 技术报告发布",
-    "summary": "面壁智能 OpenBMB 发布 VoxCPM2 技术报告。该模型为最新语音生成模型，拥有 2B 参数，基于超 200 万小时多语言语音数据训练，支持 30 种语言和 9 种中文方言。具备自然语言语音设计、可控及高保真延续性语音克隆能力。技术报告涵盖架构设计、统一序列公式、AudioVAE 高保真语音重建、大规模训练评估",
-    "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-    "url": "https://x.com/OpenBMB/status/2063991963133903317",
-    "published_at": "2026-06-08T14:30:05.000Z",
-    "category": "ai-models"
+    "title": "全新汽车品牌AIVA发布，火山引擎助力打造AI汽车新体验",
+    "summary": "由赛力斯、宁德时代等多方产业资本组建的AI出行品牌AIVA正式发布。火山引擎提供豆包大模型、智能座舱等技术服务。概念车AIVA Origin Concept亮相，首款量产车AIVA ME7将于2026年内亮相，全系覆盖20万元以上市场。AIVA提出\"AI定义汽车\"路径，让汽车成为具身AI生命体。火山引擎副总裁表示，人与",
+    "source": "公众号：火山引擎",
+    "url": "https://mp.weixin.qq.com/s/toK_uIB9ECFHVaoCgK-w9Q",
+    "published_at": "2026-06-09T13:00:21.000Z",
+    "category": "industry"
   },
   {
-    "title": "微软AI CEO：超级智能即将到来，但不会取代你的工作",
-    "summary": "微软AI CEO Mustafa Suleyman在Decoder访谈中表示，超级智能即将到来，但不会导致大规模失业。他透露微软与OpenAI于去年10月签署新合同，巩固合作关系的同时，微软获准独立追求超级智能。微软已组建超级智能团队、训练前沿模型，并于本周Build大会上发布7个全模态新模型。他批评Anthropic",
-    "source": "The Verge：AI（RSS）",
-    "url": "https://www.theverge.com/podcast/944138/microsoft-ai-ceo-mustafa-suleyman-superintelligence-agi-openai-automation",
-    "published_at": "2026-06-08T14:00:00.000Z",
+    "title": "腾讯混元发布UniRL：统一多模态强化学习基础设施",
+    "summary": "腾讯混元推出UniRL，一个支持统一多模态模型的强化学习基础设施，并发布两个新算法DRPO和Flow-DPPO。UniRL通过单个后训练循环（生成→评分→优势→更新→同步）覆盖扩散/流匹配模型、LLM/VLM及统一多模态模型（如Hunyuan-Image 3和Bagel）。模型与算法作为独立轴，可实现模型×算法的组合覆",
+    "source": "X：腾讯混元 (@TencentHunyuan)",
+    "url": "https://x.com/TencentHunyuan/status/2064312869827809702",
+    "published_at": "2026-06-09T11:45:15.000Z",
     "category": "tip"
   },
   {
-    "title": "小互开源视频翻译工具：一句话自动下载、转写、翻译、烧字幕",
-    "summary": "小互（@xiaohu）开源视频翻译工具（xiaohu-video-translate），只需说一句\"把链接翻译成中文字幕视频\"即可全自动完成下载、Whisper本地转写、AI翻译润色、烧字幕、出文稿。转写本地运行，不花API费。支持YouTube、Bilibili、抖音等链接及本地文件，英语、日语、韩语、法语、西班牙语",
-    "source": "X：小互 (@xiaohu)",
-    "url": "https://x.com/xiaohu/status/2063972223170556302",
-    "published_at": "2026-06-08T13:11:39.000Z",
-    "category": "tip"
-  },
-  {
-    "title": "五个模型经济体中消失的崩溃：控制与涌现",
-    "summary": "用五个不同实验室的AI模型（OpenAI、NVIDIA、OpenBMB及一个自微调的5亿参数模型）各自驱动一个智能体构建经济市场，试图复现此前单一模型下出现的银行挤兑式价格崩溃。结果同一场景下模型不仅不抛售反而囤积，导致价格不跌反涨。通过纯谣言、库存泛滥、加大做空三种方式均无法重现崩溃。最终在结算环节直接覆盖价格，使崩",
+    "title": "一个Agent如何通过链式调用两个HuggingFace Space构建3D巴黎画廊",
+    "summary": "一个编码Agent调用HuggingFace上的两个Space，从零构建了展示巴黎地标3D高斯散点图的交互式画廊。Agent先用ideogram-ai/ideogram4生成每个纪念碑的黑色背景图像，再通过VAST-AI/TripoSplat从单张图像重建3D高斯散点（.ply），自动完成坐标系校正、取景、压缩为.ks",
     "source": "Hugging Face：Blog（RSS）",
-    "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v3",
-    "published_at": "2026-06-08T13:10:48.000Z",
+    "url": "https://huggingface.co/blog/mishig/spaces-agents-md",
+    "published_at": "2026-06-09T10:46:19.000Z",
     "category": "tip"
   },
   {
-    "title": "Pakistan Notice Helper：一款面向本地安全问题的轻量 AI 工具",
-    "summary": "Pakistan Notice Helper 是一款安全工具，帮助巴基斯坦用户在点击链接、拨打电话、分享 OTP 或支付前识别可疑消息。它接受文本或截图输入，返回风险等级、简短解释、可见警示标志和安全下一步建议。工具支持英文和乌尔都语，乌尔都模式采用从右向左布局并全界面翻译。最终部署选用 Qwen3.5 4B Q8 模",
+    "title": "仅凭一份文档，Qwen3.7-Max 从 0 交付双端应用",
+    "summary": "在无设计稿和后端代码的条件下，Qwen3.7-Max 仅凭一份约 15 万字的产品调研文档，于隔离环境中全自动完成移动端与 Web 端两套真实应用从 0 到 1 交付，单端耗时约 4 小时，中途无人工接管。模型不具备图像理解能力，通过像素坐标反推布局约束实现界面还原。实验采用\"分阶段注入约束→逐层验收→带错纠正\"的闭环",
+    "source": "公众号：通义实验室（千问）",
+    "url": "https://mp.weixin.qq.com/s/bYEZL9LM3daNP9tZReqNwg",
+    "published_at": "2026-06-09T09:27:47.000Z",
+    "category": "tip"
+  },
+  {
+    "title": "NeuroBait：微调AI助手，为ADHD大脑点燃多巴胺火花",
+    "summary": "NeuroBait是基于Google gemma-3-12b-it微调的AI对话助手，旨在帮助ADHD患者克服\"知道该做什么但无法开始\"的执行功能障碍。采用16-bit LoRA（r=16， alpha=16）在Unsloth上训练3个epoch，学习率2e-4，最大序列长度2048，使用单张H100 80GB GPU",
     "source": "Hugging Face：Blog（RSS）",
-    "url": "https://huggingface.co/blog/build-small-hackathon/building-pakistan-notice-helper",
-    "published_at": "2026-06-08T11:46:56.000Z",
+    "url": "https://huggingface.co/blog/build-small-hackathon/neurobait-adhd",
+    "published_at": "2026-06-09T09:04:58.000Z",
     "category": "tip"
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "day_count": 46,
+  "day_count": 47,
   "history": [
     {
       "day": 20,
@@ -181,6 +181,13 @@
       "date": "2026-06-08",
       "topic": "VoxCPM2 技术报告发布",
       "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+      "mode": "rss"
+    },
+    {
+      "day": 47,
+      "date": "2026-06-09",
+      "topic": "全新汽车品牌AIVA发布，火山引擎助力打造AI汽车新体验",
+      "source": "公众号：火山引擎",
       "mode": "rss"
     }
   ],
