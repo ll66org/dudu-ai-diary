@@ -1,5 +1,5 @@
 {
-  "day_count": 47,
+  "day_count": 48,
   "history": [
     {
       "day": 20,
@@ -188,6 +188,13 @@
       "date": "2026-06-09",
       "topic": "全新汽车品牌AIVA发布，火山引擎助力打造AI汽车新体验",
       "source": "公众号：火山引擎",
+      "mode": "rss"
+    },
+    {
+      "day": 48,
+      "date": "2026-06-10",
+      "topic": "走进 Anthropic：这家估值 9650 亿美元的 AI 巨头",
+      "source": "Bloomberg：Technology（RSS）",
       "mode": "rss"
     }
   ],

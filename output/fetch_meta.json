@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-09T14:01:49.611652Z",
+  "fetched_at": "2026-06-10T14:38:33.859797Z",
   "total_candidates": 25,
   "source_stats": {
     "Figma Blog": {
@@ -8,7 +8,7 @@
     },
     "Vercel Blog (v0)": {
       "found": 0,
-      "total": 1200
+      "total": 1203
     },
     "Cursor Changelog": {
       "found": 0,
@@ -51,8 +51,8 @@
       "total": 20
     },
     "Hacker News (设计向)": {
-      "found": 0,
-      "total": 0
+      "found": 5,
+      "total": 20
     },
     "Product Hunt": {
       "found": 2,
@@ -64,27 +64,27 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 47,
-  "today_date": "2026-06-09",
+  "dudu_day": 48,
+  "today_date": "2026-06-10",
   "used_titles": [
-    "SenseNova新模型解决AI图表生成难题",
     "商汤开源SenseNova-Skills AI办公技能套件",
     "NVIDIA Nemotron 3 Ultra 为长时间运行的智能体带来更快、更高效的推理能力",
     "社区基于MiniCPM-V 4.6打造财务分析工具AccountingLLM",
     "PixelDiT入选CVPR2026最佳论文决赛",
     "\"我在田里雇了一名工程师，它叫 Codex\" -- 北海道一个西兰花农的 8 个真实 AI 用法",
-    "VoxCPM2 技术报告发布"
+    "VoxCPM2 技术报告发布",
+    "全新汽车品牌AIVA发布，火山引擎助力打造AI汽车新体验"
   ],
   "used_tools": [
-    "X：商汤 SenseTime (@SenseTime_AI)",
     "X：商汤 SenseTime (@SenseTime_AI)",
     "NVIDIA Technical Blog（开发者技术博客 · RSS）",
     "X：面壁智能 OpenBMB (@OpenBMB)",
     "X：NVIDIA AI (@NVIDIAAI)",
     "X：阿易 AI Notes (@AYi_AInotes)",
-    "X：面壁智能 OpenBMB (@OpenBMB)"
+    "X：面壁智能 OpenBMB (@OpenBMB)",
+    "公众号：火山引擎"
   ],
   "briefing_total": 80,
-  "briefing_design": 45,
+  "briefing_design": 42,
   "briefing_count": 5
 }
