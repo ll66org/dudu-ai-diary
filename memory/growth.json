@@ -1,5 +1,5 @@
 {
-  "day_count": 49,
+  "day_count": 50,
   "history": [
     {
       "day": 20,
@@ -202,6 +202,13 @@
       "date": "2026-06-11",
       "topic": "Claude Fable 5 一句话生成桌面台球游戏",
       "source": "X：Vista (@vista8)",
+      "mode": "rss"
+    },
+    {
+      "day": 50,
+      "date": "2026-06-12",
+      "topic": "MiniMax M3 开源权重模型发布，已上架 HuggingFace",
+      "source": "X：MiniMax (@MiniMax_AI)",
       "mode": "rss"
     }
   ],

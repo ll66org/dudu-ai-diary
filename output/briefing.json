@@ -1,42 +1,42 @@
 [
   {
-    "title": "Claude Fable 5 一句话生成桌面台球游戏",
-    "summary": "Claude Fable 5 一句话生成的桌面台球！\n\n念念不忘的蝗虫群梗彻底终结。\n\n提示词：设计一个完整的能玩的3D桌球游戏，一个网页就能运行",
-    "source": "X：Vista (@vista8)",
-    "url": "https://x.com/vista8/status/2065079656324407345",
-    "published_at": "2026-06-11T14:32:12.000Z",
+    "title": "MiniMax M3 开源权重模型发布，已上架 HuggingFace",
+    "summary": "MiniMax 发布开源权重模型 M3，约 428B 总参数、23B 激活参数，已上传 HuggingFace。该模型融合三种前沿能力：编码与智能体方面达 59.0% SWE-Bench Pro、66.0% Terminal Bench 2.1、34.8% SWE-fficiency、28.8% KernelBench",
+    "source": "X：MiniMax (@MiniMax_AI)",
+    "url": "https://x.com/MiniMax_AI/status/2065436935188058208",
+    "published_at": "2026-06-12T14:11:53.000Z",
+    "category": "ai-models"
+  },
+  {
+    "title": "小互开源公众号自动排版技能组合",
+    "summary": "小互（@xiaohu）升级了公众号排版技能组合，实现一句话完成排版、封面生成并一键发送到公众号草稿箱。该工具已开源，提供20种主题颜色可选，可自动分析内容进行排版，支持非Markdown文件。用户只需在Claude Code、Codex或OpenClaw中提供文章链接或文档位置，即可获得可视化预览界面进行选择，全程无需",
+    "source": "X：小互 (@xiaohu)",
+    "url": "https://x.com/xiaohu/status/2065278092441268246",
+    "published_at": "2026-06-12T03:40:42.000Z",
     "category": "tip"
   },
   {
-    "title": "Anthropic 启动 Claude Corps 全国奖学金项目",
-    "summary": "Anthropic 推出 Claude Corps 奖学金项目，面向早期职业生涯的年轻人，培训 1，000 名研究员使用 Claude，并匹配给美国非营利组织全职工作一年。研究员年薪 85，000 美元及福利，每周接受 5 小时持续培训。Anthropic 初始投入 1.5 亿美元，合作方为 CodePath 和 So",
-    "source": "Anthropic：Newsroom（网页）",
-    "url": "https://www.anthropic.com/news/claude-corps",
-    "published_at": "2026-06-11T13:12:25.934Z",
-    "category": "industry"
-  },
-  {
-    "title": "Hermes Agent Desktop 发布，硅基流动支持一键切换",
-    "summary": "@NousResearch 发布了 Hermes Agent Desktop--现在通过 @硅基流动 SiliconFlow 使用前沿开源模型更加便捷 🔥\n\n→ 一键随时切换模型--DeepSeek-V4、GLM-5.1、Kimi-K2.6、MiniMax-M3 等，均在硅基流动上\n… …\n通过硅基流动开启你的 Her",
-    "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
-    "url": "https://x.com/SiliconFlowAI/status/2065015632215912879",
-    "published_at": "2026-06-11T10:17:47.000Z",
-    "category": "tip"
-  },
-  {
-    "title": "阿里云发布 Meoo CLI：本地 AI 编程项目可一键部署上线",
-    "summary": "阿里云今日推出 Meoo（秒悟）开源命令行工具 Meoo CLI，面向开发者，支持 Claude Code、Codex、Cursor 等本地 AI 编程助手。通过调用阿里云云端能力，可自动完成数据库接入、用户登录、文件存储及项目发布，将本地项目一键部署上线并生成可分享的访问链接。该工具定位为本地 Agent 与秒悟云端",
+    "title": "苹果 iOS 27 健康 App 大改：卡片布局、营养识别、围绝经期追踪",
+    "summary": "苹果在 iOS 27 中优化健康 App，将列表改为卡片布局并增加导航栏。新增视觉智能营养识别，用户通过相机 Siri 模式拍摄食物可获取加工程度、蛋白质、含糖量等信息及营养价值评级，不提供精确卡路里，需 iPhone 15 Pro 及以上。经期追踪扩展支持围绝经期，可分析长期周期异常模式并推送提醒与指导。Fitnes",
     "source": "IT之家（RSS）",
-    "url": "https://www.ithome.com/0/963/009.htm",
-    "published_at": "2026-06-11T08:50:49.000Z",
+    "url": "https://www.ithome.com/0/963/302.htm",
+    "published_at": "2026-06-12T02:06:41.000Z",
     "category": "ai-products"
   },
   {
-    "title": "baoyu-design skill 更新：支持导入 Figma 本地文件重建设计系统",
-    "summary": "baoyu-design skill 更新，现已支持导入 Figma 本地文件（.fig），可在本地重建设计系统，效果与 Claude Design 在线版一致。该功能依赖 Claude Fable 5 辅助（Token 不够用）。安装后提供 Figma 文件路径即可导入为 Design System，后续新建设计项目",
-    "source": "X：宝玉 (@dotey)",
-    "url": "https://x.com/dotey/status/2064959133535658144",
-    "published_at": "2026-06-11T06:33:17.000Z",
-    "category": "tip"
+    "title": "Replit 与 Databricks 集成升级，公开预览开放",
+    "summary": "Replit 与 @databricks 集成刚刚升级了。\n\n构建应用，让每个用户只看到他们应该看到的内容。你的 HR 分析师可以为 CEO 构建完整的组织视图，而无需访问底层数据。\n\n公开预览已开放注册！了解更多 →\n\nhttps：//replit.com/blog/databricksjune2026",
+    "source": "X：Replit (@Replit)",
+    "url": "https://x.com/Replit/status/2065189762365813089",
+    "published_at": "2026-06-11T21:49:43.000Z",
+    "category": "ai-products"
+  },
+  {
+    "title": "Anthropic与DXC达成全球联盟，将Claude引入关键行业系统",
+    "summary": "Anthropic与IT服务公司DXC Technology达成多年全球联盟。DXC将培训数万名获得Claude认证的前沿部署工程师（FDE），将Claude引入其为全球大型银行、航空公司、保险公司及政府机构运营的关键系统。内部部署中，Claude已成为DXC OASIS平台的默认基础模型，该平台超95%代码由Clau",
+    "source": "Anthropic：Newsroom（网页）",
+    "url": "https://www.anthropic.com/news/dxc-anthropic-alliance",
+    "published_at": "2026-06-11T18:13:16.585Z",
+    "category": "industry"
   }
 ]
