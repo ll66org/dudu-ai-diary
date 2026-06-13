@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-12T14:21:41.077231Z",
+  "fetched_at": "2026-06-13T13:08:01.456614Z",
   "total_candidates": 25,
   "source_stats": {
     "Figma Blog": {
@@ -7,8 +7,8 @@
       "total": 0
     },
     "Vercel Blog (v0)": {
-      "found": 0,
-      "total": 1212
+      "found": 1,
+      "total": 1217
     },
     "Cursor Changelog": {
       "found": 0,
@@ -44,7 +44,7 @@
     },
     "CSS-Tricks": {
       "found": 0,
-      "total": 0
+      "total": 15
     },
     "A List Apart": {
       "found": 0,
@@ -55,7 +55,7 @@
       "total": 0
     },
     "Product Hunt": {
-      "found": 1,
+      "found": 0,
       "total": 50
     },
     "Designer News (AI Design)": {
@@ -64,27 +64,27 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 50,
-  "today_date": "2026-06-12",
+  "dudu_day": 51,
+  "today_date": "2026-06-13",
   "used_titles": [
-    "社区基于MiniCPM-V 4.6打造财务分析工具AccountingLLM",
     "PixelDiT入选CVPR2026最佳论文决赛",
     "\"我在田里雇了一名工程师，它叫 Codex\" -- 北海道一个西兰花农的 8 个真实 AI 用法",
     "VoxCPM2 技术报告发布",
     "全新汽车品牌AIVA发布，火山引擎助力打造AI汽车新体验",
     "走进 Anthropic：这家估值 9650 亿美元的 AI 巨头",
-    "Claude Fable 5 一句话生成桌面台球游戏"
+    "Claude Fable 5 一句话生成桌面台球游戏",
+    "MiniMax M3 开源权重模型发布，已上架 HuggingFace"
   ],
   "used_tools": [
-    "X：面壁智能 OpenBMB (@OpenBMB)",
     "X：NVIDIA AI (@NVIDIAAI)",
     "X：阿易 AI Notes (@AYi_AInotes)",
     "X：面壁智能 OpenBMB (@OpenBMB)",
     "公众号：火山引擎",
     "Bloomberg：Technology（RSS）",
-    "X：Vista (@vista8)"
+    "X：Vista (@vista8)",
+    "X：MiniMax (@MiniMax_AI)"
   ],
   "briefing_total": 80,
-  "briefing_design": 35,
+  "briefing_design": 33,
   "briefing_count": 5
 }

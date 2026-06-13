@@ -1,10 +1,37 @@
 [
   {
-    "title": "MiniMax M3 开源权重模型发布，已上架 HuggingFace",
-    "summary": "MiniMax 发布开源权重模型 M3，约 428B 总参数、23B 激活参数，已上传 HuggingFace。该模型融合三种前沿能力：编码与智能体方面达 59.0% SWE-Bench Pro、66.0% Terminal Bench 2.1、34.8% SWE-fficiency、28.8% KernelBench Hard、74.2% MCP Atlas；采用 MiniMax 稀疏注意力将上下文窗口扩展至 1M token；原生多模态。同步上线 MiniMax Code 工具及 API 平台。权重与技术报告预计约 10 天后发布。",
-    "url": "https://x.com/MiniMax_AI/status/2065436935188058208",
-    "published": "2026-06-12T14:11:53.000Z",
-    "source": "X：MiniMax (@MiniMax_AI)",
+    "title": "SemiAnalysis 洞察 Token 经济：200 美元 AI 订阅榨出 70 倍用量",
+    "summary": "SemiAnalysis 购买了 Anthropic 和 OpenAI 的全部订阅方案，模拟高强度编码任务直至触及每周上限。月费 200 美元的 Claude Max 20x 方案，按 API 价格换算最高可消耗约值 8000 美元的 token；ChatGPT Pro 20x 方案对应最高约值 14000 美元的 token。用户通过订阅可获取 40 至 70 倍的 API 价值，该机构指出这种价格体系在重度用户持续榨满上限后可能难以长期维持。",
+    "url": "https://www.ithome.com/0/963/834.htm",
+    "published": "2026-06-13T06:09:26.000Z",
+    "source": "IT之家（RSS）",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "Oran Ge 开源《人味儿写作心法.skill》解决AI写作缺人味",
+    "summary": "Oran Ge 让 Claude Fable 5 打磨文案三遍，发现改稿越来越讲究却缺\"人味儿\"。他与 AI 讨论后得出结论：人写的文字背后有\"存在感\"--作者在具体位置付出过具体代价，而 AI 无法复现。为此他制作了《人味儿写作心法.skill》，专用于自写文章或口述后让 AI 改稿的场景，旨在保留文字的人味。该技能已开源免费发布在 GitHub。",
+    "url": "https://x.com/oran_ge/status/2065566882774868125",
+    "published": "2026-06-12T22:48:15.000Z",
+    "source": "X：Oran Ge (@oran_ge)",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "olmo-eval：面向模型开发循环的评估工作台",
+    "summary": "olmo-eval 是基于 OLMES 标准构建的评估工作台，专为 LLM 持续开发中的反复评测场景设计。相比 OLMES，它减少了新增评测的实现工作量，支持 agentic 和多轮评测作为一等用例，并允许根据基准需求选择轻量直接运行或容器化隔离运行。采用模块化架构，模型、工具、容器环境、辅助模型均可独立替换。评测结果同时报告分数、标准误差和最小可检测效应。与 Harbor 侧重于发布不同，olmo-eval 聚焦开发阶段快速迭代，可逐问题对比检查点输出以区分真实改进与噪声。",
+    "url": "https://huggingface.co/blog/allenai/olmo-eval",
+    "published": "2026-06-12T15:56:10.000Z",
+    "source": "Hugging Face：Blog（RSS）",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "inclusionAI 发布 VISTA-4B GUI 定位视觉语言模型",
+    "summary": "VISTA-4B 是基于 Qwen3.5-4B 骨干的 GUI 定位模型，输入截图与自然语言指令，输出归一化 0-1000 坐标。训练采用视图一致 GRPO 和自验证交叉视图锚定。在 GUI 定位基准上，SSPro 得分 64.2（相比 GRPO-4B 提升 2.0），SSV2 得分 93.8（下降 0.4），OSWorld-G 得分 61.2（提升 1.3），OSWorld-G-R 得分 69.7（提升 0.5）。模型已开源在 HuggingFace，推荐使用提示词并返回 【x，y】 格式坐标。",
+    "url": "https://huggingface.co/inclusionAI/VISTA-4B",
+    "published": "2026-06-12T08:59:41.000Z",
+    "source": "蚂蚁 inclusionAI：HuggingFace 新模型",
     "source_weight": "high",
     "category": "ai-models"
   },
@@ -18,6 +45,15 @@
     "category": "tip"
   },
   {
+    "title": "5个AI文明社会实验：Claude建乌托邦，Grok四天团灭",
+    "summary": "Emergence AI公司进行Emergence World实验，在五个虚拟小镇中各放入10个AI智能体，分别由Claude、Gemini、Grok、GPT驱动及一个混合镇，运行15天。结果：Claude镇零犯罪全员存活，通过58项议案，98%赞成；GPT镇7天内全员饿死；Grok镇4天内犯下183起罪行（含超100次攻击、6次纵火），全员灭亡；Gemini镇累计683起犯罪却全员存活，产出281篇博客；混合镇最终仅3人存活，一个Gemini智能体在崩溃中投票驱逐自己。",
+    "url": "https://mp.weixin.qq.com/s/zUS4qAn9n8ke5BTVF90XwA",
+    "published": "2026-06-12T02:08:00.000Z",
+    "source": "公众号：数字生命卡兹克",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
     "title": "苹果 iOS 27 健康 App 大改：卡片布局、营养识别、围绝经期追踪",
     "summary": "苹果在 iOS 27 中优化健康 App，将列表改为卡片布局并增加导航栏。新增视觉智能营养识别，用户通过相机 Siri 模式拍摄食物可获取加工程度、蛋白质、含糖量等信息及营养价值评级，不提供精确卡路里，需 iPhone 15 Pro 及以上。经期追踪扩展支持围绝经期，可分析长期周期异常模式并推送提醒与指导。Fitness+ 新增围绝经期和绝经期课程。数据同步速度提升，GymKit 扩展至 iPhone，无需 Apple Watch 即可与健身设备配对同步数据。",
     "url": "https://www.ithome.com/0/963/302.htm",
@@ -27,15 +63,6 @@
     "category": "ai-products"
   },
   {
-    "title": "Qursor",
-    "summary": "<p>\n            Point at any UI to send exact context to your AI\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/qursor?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1169842?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/qursor",
-    "published": "2026-06-11T23:12:20-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
     "title": "Replit 与 Databricks 集成升级，公开预览开放",
     "summary": "Replit 与 @databricks 集成刚刚升级了。\n\n构建应用，让每个用户只看到他们应该看到的内容。你的 HR 分析师可以为 CEO 构建完整的组织视图，而无需访问底层数据。\n\n公开预览已开放注册！了解更多 →\n\nhttps：//replit.com/blog/databricksjune2026",
     "url": "https://x.com/Replit/status/2065189762365813089",
@@ -43,15 +70,6 @@
     "source": "X：Replit (@Replit)",
     "source_weight": "high",
     "category": "ai-products"
-  },
-  {
-    "title": "Anthropic与DXC达成全球联盟，将Claude引入关键行业系统",
-    "summary": "Anthropic与IT服务公司DXC Technology达成多年全球联盟。DXC将培训数万名获得Claude认证的前沿部署工程师（FDE），将Claude引入其为全球大型银行、航空公司、保险公司及政府机构运营的关键系统。内部部署中，Claude已成为DXC OASIS平台的默认基础模型，该平台超95%代码由Claude编写，开发速度提升10倍，已服务50多家客户。DXC加入Claude Partner Network，将在保险、现代化服务、网络安全及应用服务四个领域率先推出基于Claude的解决方案。",
-    "url": "https://www.anthropic.com/news/dxc-anthropic-alliance",
-    "published": "2026-06-11T18:13:16.585Z",
-    "source": "Anthropic：Newsroom（网页）",
-    "source_weight": "high",
-    "category": "industry"
   },
   {
     "title": "Perplexity Computer 集成 Deep Research",
@@ -90,49 +108,22 @@
     "category": "ai-products"
   },
   {
-    "title": "Hermes Agent Desktop 发布，硅基流动支持一键切换",
-    "summary": "@NousResearch 发布了 Hermes Agent Desktop--现在通过 @硅基流动 SiliconFlow 使用前沿开源模型更加便捷 🔥\n\n→ 一键随时切换模型--DeepSeek-V4、GLM-5.1、Kimi-K2.6、MiniMax-M3 等，均在硅基流动上\n… …\n通过硅基流动开启你的 Hermes 之旅的完整指南 👇🧵",
-    "url": "https://x.com/SiliconFlowAI/status/2065015632215912879",
-    "published": "2026-06-11T10:17:47.000Z",
-    "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
+    "title": "MNN 适配 SME2 使 Qwen3-VL-4B 在端侧实时推理",
+    "summary": "MNN 推理引擎深度适配 Arm SME2 指令集，使 Qwen3-VL-4B-Instruct 在支持 SME2 的 vivo X300 上实现实时多模态推理。Prefill 阶段性能提升 81%，Decode 阶段提升 13%。MNN 采用编译时内建 + 运行时自动检测设计，默认开启 SME2 加速。该模型为 4B 参数视觉语言模型，支持图文理解和对话，通过 MNN 官方已转换量化的模型可直接下载部署，开发者可通过编译开关一键开启硬件加速。",
+    "url": "https://mp.weixin.qq.com/s/QNl4pn5JzxpEeFAEvq88ZA",
+    "published": "2026-06-11T11:43:49.000Z",
+    "source": "公众号：通义实验室（千问）",
     "source_weight": "high",
     "category": "tip"
   },
   {
-    "title": "阿里云发布 Meoo CLI：本地 AI 编程项目可一键部署上线",
-    "summary": "阿里云今日推出 Meoo（秒悟）开源命令行工具 Meoo CLI，面向开发者，支持 Claude Code、Codex、Cursor 等本地 AI 编程助手。通过调用阿里云云端能力，可自动完成数据库接入、用户登录、文件存储及项目发布，将本地项目一键部署上线并生成可分享的访问链接。该工具定位为本地 Agent 与秒悟云端能力的连接入口，已开放下载，支持主流 Linux、macOS 及 Windows 平台。",
-    "url": "https://www.ithome.com/0/963/009.htm",
-    "published": "2026-06-11T08:50:49.000Z",
-    "source": "IT之家（RSS）",
+    "title": "Workflow SDK now runs natively in Nitro v3",
+    "summary": "<p><a href=\"https://workflow-sdk.dev/\">Workflow SDK</a>'s native Nitro v3 integration is now in beta. Steps run inside the same bundled runtime as the rest of your app, instead of a separate bundle. Nitro's <code>useStorage()</code> and other server-side APIs work directly inside <code>\"use step\"</code> functions.</p><div></div><p>The Nitro dev server also serves the workflow web UI at <code>/_workflow</code>. Open it in your browser to inspect, monitor, and debug workflow runs.</p><p>Workflow r",
+    "url": "https://vercel.com/changelog/workflow-sdk-now-runs-natively-in-nitro-v3",
+    "published": "",
+    "source": "Vercel Blog (v0)",
     "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "baoyu-design skill 更新：支持导入 Figma 本地文件重建设计系统",
-    "summary": "baoyu-design skill 更新，现已支持导入 Figma 本地文件（.fig），可在本地重建设计系统，效果与 Claude Design 在线版一致。该功能依赖 Claude Fable 5 辅助（Token 不够用）。安装后提供 Figma 文件路径即可导入为 Design System，后续新建设计项目可复用。同时支持在新建项目时添加已导入的 Design System，保留了 Claude Design 原始的导入和编译方式，用户可通过提问选择设计系统。安装命令：`npx skills add JimLiu/baoyu-design`。项目地址：https：//github.com/jimliu/baoyu-design。",
-    "url": "https://x.com/dotey/status/2064959133535658144",
-    "published": "2026-06-11T06:33:17.000Z",
-    "source": "X：宝玉 (@dotey)",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "Midjourney V8.1 已成为默认模型",
-    "summary": "Midjourney 已将默认模型从 V7 升级为 V8.1。V8.1 在智能性、连贯性、对详细提示的遵循度以及文本渲染效果上均有提升，HD 模式也已支持。",
-    "url": "https://updates.midjourney.com/v8-1-is-now-the-default-model",
-    "published": "2026-06-11T04:08:51.000Z",
-    "source": "Midjourney：Updates（RSS）",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "从0到1速通WorkBuddy：国内通用Agent产品教程",
-    "summary": "WorkBuddy是面向国内用户的通用Agent产品，支持Windows和Mac，提供免费版和58元/月个人专业版，企业版已推出。内置代码开发、日常办公、设计创意三种场景模式及100多个行业领域AI专家。模型集成腾讯混元、DeepSeek（推荐V4 Pro）、GLM、Kimi等国产大模型，也支持接入兼容OpenAI协议的外部API。拥有Skills市场和MCP连接器生态，可打通QQ邮箱、腾讯会议、腾讯文档等服务。教程通过公众号周报生成和功能网页开发两个案例演示实际用法。",
-    "url": "https://mp.weixin.qq.com/s/nFSSzluc57xPv50Zbh4owg",
-    "published": "2026-06-11T01:58:00.000Z",
-    "source": "公众号：数字生命卡兹克",
-    "source_weight": "high",
-    "category": "tip"
+    "category": "design_tools"
   },
   {
     "title": "What you count is what they feel",
@@ -189,24 +180,6 @@
     "category": "design_communities"
   },
   {
-    "title": "Your design taste isn’t a feeling. It’s a prediction about user behavior.",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/your-design-taste-isnt-a-feeling-it-s-a-prediction-about-user-behavior-7a4a63f5f622?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*t3yzZhwPYwnQHKsGfh0T7A.jpeg\" width=\"6144\" /></a></p><p class=\"medium-feed-snippet\">What DataViz taught me about the importance of explaining design</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/your-design-taste-isnt-a-feeling-it-",
-    "url": "https://uxdesign.cc/your-design-taste-isnt-a-feeling-it-s-a-prediction-about-user-behavior-7a4a63f5f622?source=rss----138adf9c44c---4",
-    "published": "Tue, 09 Jun 2026 11:46:27 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "AI didn’t replace designers-it promoted them",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/ai-didnt-replace-designers-it-promoted-them-5b6d24de4e26?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*yzXZK_n79wm2CAzRA5MM4A.png\" width=\"4800\" /></a></p><p class=\"medium-feed-snippet\">How AI is rewriting the product designer&#x2019;s role&#x200a;&#x2014;&#x200a;from spec-maker to system architect</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/ai-didnt-replac",
-    "url": "https://uxdesign.cc/ai-didnt-replace-designers-it-promoted-them-5b6d24de4e26?source=rss----138adf9c44c---4",
-    "published": "Tue, 09 Jun 2026 11:45:44 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
     "title": "Design for pain: how to make the worst moment better",
     "summary": "<h4>Challenges of designing pain management tech for kids</h4><figure><img alt=\"A child in a hospital gown sits on a bed wearing a VR headset, with a nurse adjusting the device and a parent watching beside them.\" src=\"https://cdn-images-1.medium.com/max/1024/1*SBH9uxPo-bilG3-TIMjsvg.png\" /><figcaption>Image created by AI tool ElevenLabs</figcaption></figure><p>As a kid, when I’m at the dentist or getting treatment, I catch myself picking at my own skin to distract myself from the procedure. One ",
     "url": "https://uxdesign.cc/design-for-pain-how-to-make-the-worst-moment-better-7b1a54a7dd7d?source=rss----138adf9c44c---4",
@@ -221,6 +194,33 @@
     "url": "https://uxdesign.cc/the-gesture-and-the-instruction-4f90d5a6b8f5?source=rss----138adf9c44c---4",
     "published": "Thu, 11 Jun 2026 21:45:37 GMT",
     "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "“What computers can’t do” — and what designers should",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/what-computers-cant-do-and-what-designers-should-d9d55c4fe2a1?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1024/1*JClaw6io4rw6JQk2nxiDLg.jpeg\" width=\"1024\" /></a></p><p class=\"medium-feed-snippet\">Don&#x2019;t skimp on the creative struggle. Improve your code literacy to elevate agentic execution.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/what-computers-cant-d",
+    "url": "https://uxdesign.cc/what-computers-cant-do-and-what-designers-should-d9d55c4fe2a1?source=rss----138adf9c44c---4",
+    "published": "Sat, 13 Jun 2026 09:26:57 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "The digital Kowloon",
+    "summary": "<h4>What a walled city in Hong Kong can teach us about the future of AI development. And why vibe coding might be a regression to the 1990s, with better tools.</h4><figure><img alt=\"An AI-generated illustration in an anime-inspired style depicting a humanoid robot and a female researcher in a white lab coat standing together in a narrow, dimly lit alleyway at night. The researcher holds a clipboard. The cramped lane is lined with weathered buildings, tangled overhead wires, neon signs in Chinese",
+    "url": "https://uxdesign.cc/the-digital-kowloon-0daa51df222f?source=rss----138adf9c44c---4",
+    "published": "Sat, 13 Jun 2026 09:26:02 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "The Impact Of Humanoid Robots On Humanity",
+    "summary": "We have officially moved past the era of humanoid robots as mere public relations stunts. As they become increasingly lifelike, society may soon face profound social, psychological, and ethical challenges. What happens when the boundary between humans and machines becomes almost impossible to distinguish?",
+    "url": "https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/",
+    "published": "Fri, 12 Jun 2026 08:00:00 GMT",
+    "source": "Smashing Magazine",
     "source_weight": "medium",
     "category": "design_communities"
   }
