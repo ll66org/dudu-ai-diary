@@ -1,5 +1,13 @@
 [
   {
+    "title": "Anthropic 上市前夕",
+    "summary": "Anthropic CEO Dario Amodei透露内部模型Mythos有上千漏洞，能黑银行、窃取国家机密；预言AI一到五年内砍掉一半入门级白领工作；称Claude已被美军用于对伊朗战争，涉及女校150人死亡拷问；解释离开OpenAI因信任崩塌；回怼黄仁勋末日营销指控；给出文明崩溃概率10%-25%。",
+    "source": "X：小互 (@xiaohu)",
+    "url": "https://x.com/xiaohu/status/2065991805238497732",
+    "published_at": "2026-06-14T02:56:45.000Z",
+    "category": "tip"
+  },
+  {
     "title": "SemiAnalysis 洞察 Token 经济：200 美元 AI 订阅榨出 70 倍用量",
     "summary": "SemiAnalysis 购买了 Anthropic 和 OpenAI 的全部订阅方案，模拟高强度编码任务直至触及每周上限。月费 200 美元的 Claude Max 20x 方案，按 API 价格换算最高可消耗约值 8000 美元的 token；ChatGPT Pro 20x 方案对应最高约值 14000 美元的 t",
     "source": "IT之家（RSS）",
@@ -29,14 +37,6 @@
     "source": "X：MiniMax (@MiniMax_AI)",
     "url": "https://x.com/MiniMax_AI/status/2065436935188058208",
     "published_at": "2026-06-12T14:11:53.000Z",
-    "category": "ai-models"
-  },
-  {
-    "title": "inclusionAI 发布 VISTA-4B GUI 定位视觉语言模型",
-    "summary": "VISTA-4B 是基于 Qwen3.5-4B 骨干的 GUI 定位模型，输入截图与自然语言指令，输出归一化 0-1000 坐标。训练采用视图一致 GRPO 和自验证交叉视图锚定。在 GUI 定位基准上，SSPro 得分 64.2（相比 GRPO-4B 提升 2.0），SSV2 得分 93.8（下降 0.4），OSWo",
-    "source": "蚂蚁 inclusionAI：HuggingFace 新模型",
-    "url": "https://huggingface.co/inclusionAI/VISTA-4B",
-    "published_at": "2026-06-12T08:59:41.000Z",
     "category": "ai-models"
   }
 ]

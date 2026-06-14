@@ -1,12 +1,48 @@
 [
   {
-    "title": "SemiAnalysis 洞察 Token 经济：200 美元 AI 订阅榨出 70 倍用量",
-    "summary": "SemiAnalysis 购买了 Anthropic 和 OpenAI 的全部订阅方案，模拟高强度编码任务直至触及每周上限。月费 200 美元的 Claude Max 20x 方案，按 API 价格换算最高可消耗约值 8000 美元的 token；ChatGPT Pro 20x 方案对应最高约值 14000 美元的 token。用户通过订阅可获取 40 至 70 倍的 API 价值，该机构指出这种价格体系在重度用户持续榨满上限后可能难以长期维持。",
-    "url": "https://www.ithome.com/0/963/834.htm",
-    "published": "2026-06-13T06:09:26.000Z",
-    "source": "IT之家（RSS）",
+    "title": "Show HN: Wunjo Design as a browser vector editor with Git-style version control",
+    "summary": "<p>Article URL: <a href=\"https://wunjo.online/design\">https://wunjo.online/design</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48525975\">https://news.ycombinator.com/item?id=48525975</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "url": "https://wunjo.online/design",
+    "published": "Sun, 14 Jun 2026 10:44:15 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "General-purpose large language models outperform specialized clinical AI",
+    "summary": "<p>Article URL: <a href=\"https://www.nature.com/articles/s41591-026-04431-5?brid=YWdncwFKdLH5ne5BLVS2Tb5UQSQa&amp;utm_id=97757_v0_s00_e0_tv2_a1demone7v434p\">https://www.nature.com/articles/s41591-026-04431-5?brid=YWdncwFKdLH5ne5BLVS2Tb5UQSQa&amp;utm_id=97757_v0_s00_e0_tv2_a1demone7v434p</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48525281\">https://news.ycombinator.com/item?id=48525281</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+    "url": "https://www.nature.com/articles/s41591-026-04431-5?brid=YWdncwFKdLH5ne5BLVS2Tb5UQSQa&utm_id=97757_v0_s00_e0_tv2_a1demone7v434p",
+    "published": "Sun, 14 Jun 2026 08:19:34 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Anthropic 上市前夕",
+    "summary": "Anthropic CEO Dario Amodei透露内部模型Mythos有上千漏洞，能黑银行、窃取国家机密；预言AI一到五年内砍掉一半入门级白领工作；称Claude已被美军用于对伊朗战争，涉及女校150人死亡拷问；解释离开OpenAI因信任崩塌；回怼黄仁勋末日营销指控；给出文明崩溃概率10%-25%。",
+    "url": "https://x.com/xiaohu/status/2065991805238497732",
+    "published": "2026-06-14T02:56:45.000Z",
+    "source": "X：小互 (@xiaohu)",
     "source_weight": "high",
     "category": "tip"
+  },
+  {
+    "title": "Taste Lab",
+    "summary": "<p>\n            Extract any website's design DNA\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/taste-lab?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1170971?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/taste-lab",
+    "published": "2026-06-13T10:49:00-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Memoriq",
+    "summary": "<p>\n            Your private AI memory for ChatGPT, Claude, Gemini and Grok\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/memoriq?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1170951?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/memoriq",
+    "published": "2026-06-13T10:06:54-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
   },
   {
     "title": "Oran Ge 开源《人味儿写作心法.skill》解决AI写作缺人味",
@@ -63,6 +99,15 @@
     "category": "ai-products"
   },
   {
+    "title": "OpenRouter融合预算模型面板超越GPT-5.5和Claude Opus 4.8",
+    "summary": "通过OpenRouter融合的一组预算模型，在100个复杂研究任务上得分超过GPT-5.5和Claude Opus 4.8。",
+    "url": "https://openrouter.ai/blog/announcements/fusion-beats-frontier",
+    "published": "2026-06-12T00:00:00.000Z",
+    "source": "OpenRouter：Announcements（RSS）",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
     "title": "Replit 与 Databricks 集成升级，公开预览开放",
     "summary": "Replit 与 @databricks 集成刚刚升级了。\n\n构建应用，让每个用户只看到他们应该看到的内容。你的 HR 分析师可以为 CEO 构建完整的组织视图，而无需访问底层数据。\n\n公开预览已开放注册！了解更多 →\n\nhttps：//replit.com/blog/databricksjune2026",
     "url": "https://x.com/Replit/status/2065189762365813089",
@@ -70,6 +115,15 @@
     "source": "X：Replit (@Replit)",
     "source_weight": "high",
     "category": "ai-products"
+  },
+  {
+    "title": "WSJ：OpenAI 考虑大幅降价，同准备 ChatGPT 史上最大改版备战 IPO",
+    "summary": "WSJ 报道，OpenAI 正考虑大幅降价以应对与 Anthropic 的竞争。Anthropic 增长主要来自开发者和编码工作流，Claude Code 消耗大量 token，已让企业团队将其融入日常工作。OpenAI 虽在消费品牌上更大，但企业市场才是关键--企业为编码智能体、自动化等工具付费。同时，OpenAI 在 IPO 前准备对 ChatGPT 进行史上最大改版，将其打造成涵盖编码、AI 智能体、图像生成和商业软件的超级应用，改版将在未来几周陆续推出。OpenAI 将更多资源投入编码工具 Codex，目标实现 Codex 工程负责人所说的\"个人智能体\"。",
+    "url": "https://x.com/rohanpaul_ai/status/2065150529068769357",
+    "published": "2026-06-11T19:13:49.000Z",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "source_weight": "high",
+    "category": "industry"
   },
   {
     "title": "Perplexity Computer 集成 Deep Research",
@@ -88,42 +142,6 @@
     "source": "X：Kim (@kimmonismus)",
     "source_weight": "high",
     "category": "industry"
-  },
-  {
-    "title": "Anthropic 启动 Claude Corps 全国奖学金项目",
-    "summary": "Anthropic 推出 Claude Corps 奖学金项目，面向早期职业生涯的年轻人，培训 1，000 名研究员使用 Claude，并匹配给美国非营利组织全职工作一年。研究员年薪 85，000 美元及福利，每周接受 5 小时持续培训。Anthropic 初始投入 1.5 亿美元，合作方为 CodePath 和 Social Finance。至少 400 家非营利组织将参与接待，包括 Braven、Code the Dream、Heartland Forward 等。",
-    "url": "https://www.anthropic.com/news/claude-corps",
-    "published": "2026-06-11T13:12:25.934Z",
-    "source": "Anthropic：Newsroom（网页）",
-    "source_weight": "high",
-    "category": "industry"
-  },
-  {
-    "title": "Cursor 推出 Auto-review 机制：用分类器智能体动态管控智能体自主权限",
-    "summary": "Cursor 近日推出 Auto-review，通过一个专门的分类器智能体在工具调用前审查动作风险。该分类器根据上下文判断动作是否与用户意图一致，高风险时阻止并返回解释给父智能体，低风险时放行。分类器采用小模型，运行在智能体循环内以避免额外延迟，并能读取工作区文件辅助判断。测试基于约12小时内部开发会话生成的6122条标签数据，以及针对读取密钥、操作生产数据等危险场景的合成数据。设计目标是在不频繁阻断日常开发的前提下，拦截风险动作。",
-    "url": "https://cursor.com/blog/auto-review",
-    "published": "2026-06-11T12:00:00.000Z",
-    "source": "Cursor Blog",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "MNN 适配 SME2 使 Qwen3-VL-4B 在端侧实时推理",
-    "summary": "MNN 推理引擎深度适配 Arm SME2 指令集，使 Qwen3-VL-4B-Instruct 在支持 SME2 的 vivo X300 上实现实时多模态推理。Prefill 阶段性能提升 81%，Decode 阶段提升 13%。MNN 采用编译时内建 + 运行时自动检测设计，默认开启 SME2 加速。该模型为 4B 参数视觉语言模型，支持图文理解和对话，通过 MNN 官方已转换量化的模型可直接下载部署，开发者可通过编译开关一键开启硬件加速。",
-    "url": "https://mp.weixin.qq.com/s/QNl4pn5JzxpEeFAEvq88ZA",
-    "published": "2026-06-11T11:43:49.000Z",
-    "source": "公众号：通义实验室（千问）",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "Workflow SDK now runs natively in Nitro v3",
-    "summary": "<p><a href=\"https://workflow-sdk.dev/\">Workflow SDK</a>'s native Nitro v3 integration is now in beta. Steps run inside the same bundled runtime as the rest of your app, instead of a separate bundle. Nitro's <code>useStorage()</code> and other server-side APIs work directly inside <code>\"use step\"</code> functions.</p><div></div><p>The Nitro dev server also serves the workflow web UI at <code>/_workflow</code>. Open it in your browser to inspect, monitor, and debug workflow runs.</p><p>Workflow r",
-    "url": "https://vercel.com/changelog/workflow-sdk-now-runs-natively-in-nitro-v3",
-    "published": "",
-    "source": "Vercel Blog (v0)",
-    "source_weight": "high",
-    "category": "design_tools"
   },
   {
     "title": "What you count is what they feel",
@@ -153,33 +171,6 @@
     "category": "design_communities"
   },
   {
-    "title": "Should you really give AI your whole digital life?",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/should-you-really-give-ai-your-whole-digital-life-9b0c55df46e2?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1408/1*2Pih7DcMUONGE9DPwhTuiw.png\" width=\"1408\" /></a></p><p class=\"medium-feed-snippet\">You&#x2019;ve felt it, haven&#x2019;t you? That tiny pause.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/should-you-really-give-ai-your-whole-digital-life-9b0c55df46e2?",
-    "url": "https://uxdesign.cc/should-you-really-give-ai-your-whole-digital-life-9b0c55df46e2?source=rss----138adf9c44c---4",
-    "published": "Tue, 09 Jun 2026 23:04:27 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Dieter Rams avoids computers. His ten rules still fit designing for AI.",
-    "summary": "<h4>His principles were never about technology for its own sake. They were about restraint, honesty and most importantly clarity — exactly what the rush to ship AI keeps leaving out.</h4><figure><img alt=\"Ten rules from a designer who keeps no screens, read again for the age of AI. Most images generated by Gemini. Content AI assisted.\" src=\"https://cdn-images-1.medium.com/max/1024/1*gDI6CYhESYDZROKchVtpcw.png\" /><figcaption>Ten rules from a designer who keeps no screens, read again for the age o",
-    "url": "https://uxdesign.cc/dieter-rams-avoids-computers-his-ten-rules-still-fit-designing-for-ai-499229fd049e?source=rss----138adf9c44c---4",
-    "published": "Tue, 09 Jun 2026 23:00:33 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Strategy in the age of the machine",
-    "summary": "<h4>Moving past the myth of productivity and experimenting with your own rules for imagination.</h4><p>AI often makes me feel like I am having one big, long crisis. Like I’m in limbo or purgatory, or something. Doom and gloom, and WTF are we going to do? But then there’s the other side. When I see things people are creating, or I create in my own work (like when an agent pulls some magic out of what feels like nowhere), that makes me feel unbelievably excited.</p><p>But no matter what side of th",
-    "url": "https://uxdesign.cc/strategy-in-the-age-of-the-machine-48ac5b0e5788?source=rss----138adf9c44c---4",
-    "published": "Tue, 09 Jun 2026 11:51:11 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
     "title": "Design for pain: how to make the worst moment better",
     "summary": "<h4>Challenges of designing pain management tech for kids</h4><figure><img alt=\"A child in a hospital gown sits on a bed wearing a VR headset, with a nurse adjusting the device and a parent watching beside them.\" src=\"https://cdn-images-1.medium.com/max/1024/1*SBH9uxPo-bilG3-TIMjsvg.png\" /><figcaption>Image created by AI tool ElevenLabs</figcaption></figure><p>As a kid, when I’m at the dentist or getting treatment, I catch myself picking at my own skin to distract myself from the procedure. One ",
     "url": "https://uxdesign.cc/design-for-pain-how-to-make-the-worst-moment-better-7b1a54a7dd7d?source=rss----138adf9c44c---4",
@@ -198,29 +189,38 @@
     "category": "design_communities"
   },
   {
+    "title": "How difficult could it be to design a chatbot?",
+    "summary": "<h4>Harder than you think. And higher stakes than most people building them realise.</h4><figure><img alt=\"A creamy background with blue and orange ink spill, and a grid overlap — abstract\" src=\"https://cdn-images-1.medium.com/max/1024/1*PjMIbrcV6gmrBv1bg8qH2A.png\" /></figure><p>If you work in product, you probably care about NPS. Customer satisfaction. Retention. The usual levers. A culturally misaligned chatbot will hurt all of those — and that’s reason enough to care.</p><p>But here’s a findi",
+    "url": "https://uxdesign.cc/how-difficult-could-it-be-to-design-a-chatbot-5967e39563cc?source=rss----138adf9c44c---4",
+    "published": "Sun, 14 Jun 2026 12:18:02 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "What it really feels like to be a digital accessibility advocate",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/what-it-really-feels-like-to-be-a-digital-accessibility-advocate-07afc7e1d16f?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*dHs_YI01_J4FQm4U\" width=\"5760\" /></a></p><p class=\"medium-feed-snippet\">Why the quietest voice in the room is the one that can save your company from a multimillion-dollar lawsuit, a shattered brand reputation&#x2026;</p><p class=\"medium-feed-link\"><",
+    "url": "https://uxdesign.cc/what-it-really-feels-like-to-be-a-digital-accessibility-advocate-07afc7e1d16f?source=rss----138adf9c44c---4",
+    "published": "Sat, 13 Jun 2026 22:16:52 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "A shortlist of one: how AI became our shopping adviser",
+    "summary": "<h4><em>Search once returned a page of options. Now it delivers a verdict. That looks like convenience, but it is also a transfer of judgement, from us to a system we cannot inspect.</em></h4><p>A few years ago, buying an office chair meant suffering for it. You opened a dozen tabs, read strangers bickering about lumbar support, squinted at star ratings of dubious origin, and eventually committed to something while quietly suspecting you had chosen wrong. The work was tedious. It was also, in it",
+    "url": "https://uxdesign.cc/a-shortlist-of-one-how-ai-became-our-shopping-adviser-d55f43c411db?source=rss----138adf9c44c---4",
+    "published": "Sat, 13 Jun 2026 22:16:33 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
     "title": "“What computers can’t do” — and what designers should",
     "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/what-computers-cant-do-and-what-designers-should-d9d55c4fe2a1?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1024/1*JClaw6io4rw6JQk2nxiDLg.jpeg\" width=\"1024\" /></a></p><p class=\"medium-feed-snippet\">Don&#x2019;t skimp on the creative struggle. Improve your code literacy to elevate agentic execution.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/what-computers-cant-d",
     "url": "https://uxdesign.cc/what-computers-cant-do-and-what-designers-should-d9d55c4fe2a1?source=rss----138adf9c44c---4",
     "published": "Sat, 13 Jun 2026 09:26:57 GMT",
     "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "The digital Kowloon",
-    "summary": "<h4>What a walled city in Hong Kong can teach us about the future of AI development. And why vibe coding might be a regression to the 1990s, with better tools.</h4><figure><img alt=\"An AI-generated illustration in an anime-inspired style depicting a humanoid robot and a female researcher in a white lab coat standing together in a narrow, dimly lit alleyway at night. The researcher holds a clipboard. The cramped lane is lined with weathered buildings, tangled overhead wires, neon signs in Chinese",
-    "url": "https://uxdesign.cc/the-digital-kowloon-0daa51df222f?source=rss----138adf9c44c---4",
-    "published": "Sat, 13 Jun 2026 09:26:02 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "The Impact Of Humanoid Robots On Humanity",
-    "summary": "We have officially moved past the era of humanoid robots as mere public relations stunts. As they become increasingly lifelike, society may soon face profound social, psychological, and ethical challenges. What happens when the boundary between humans and machines becomes almost impossible to distinguish?",
-    "url": "https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/",
-    "published": "Fri, 12 Jun 2026 08:00:00 GMT",
-    "source": "Smashing Magazine",
     "source_weight": "medium",
     "category": "design_communities"
   }

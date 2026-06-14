@@ -1,5 +1,5 @@
 {
-  "day_count": 51,
+  "day_count": 52,
   "history": [
     {
       "day": 20,
@@ -216,6 +216,13 @@
       "date": "2026-06-13",
       "topic": "SemiAnalysis 洞察 Token 经济：200 美元 AI 订阅榨出 70 倍用量",
       "source": "IT之家（RSS）",
+      "mode": "rss"
+    },
+    {
+      "day": 52,
+      "date": "2026-06-14",
+      "topic": "Oran Ge 开源《人味儿写作心法.skill》解决AI写作缺人味",
+      "source": "X：Oran Ge (@oran_ge)",
       "mode": "rss"
     }
   ],
