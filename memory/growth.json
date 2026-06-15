@@ -1,5 +1,5 @@
 {
-  "day_count": 52,
+  "day_count": 53,
   "history": [
     {
       "day": 20,
@@ -223,6 +223,13 @@
       "date": "2026-06-14",
       "topic": "Oran Ge 开源《人味儿写作心法.skill》解决AI写作缺人味",
       "source": "X：Oran Ge (@oran_ge)",
+      "mode": "rss"
+    },
+    {
+      "day": 53,
+      "date": "2026-06-15",
+      "topic": "MiniMax 开源 M3 模型权重及 MSA 技术论文",
+      "source": "公众号：MiniMax（稀宇科技）",
       "mode": "rss"
     }
   ],

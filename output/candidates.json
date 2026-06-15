@@ -1,19 +1,55 @@
 [
   {
-    "title": "Show HN: Wunjo Design as a browser vector editor with Git-style version control",
-    "summary": "<p>Article URL: <a href=\"https://wunjo.online/design\">https://wunjo.online/design</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48525975\">https://news.ycombinator.com/item?id=48525975</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
-    "url": "https://wunjo.online/design",
-    "published": "Sun, 14 Jun 2026 10:44:15 +0000",
-    "source": "Hacker News (设计向)",
+    "title": "MiniMax 开源 M3 模型权重及 MSA 技术论文",
+    "summary": "MiniMax 上周五开源了 428B 总参数、23B 激活参数的 M3 模型权重，同步发布 MSA（MiniMax Sparse Attention）技术论文，该架构显著降低长上下文计算成本。M3 是首个从预训练阶段就进行文本、图像等多模态交错混合训练的开源模型。发布两周后，M3 在 Artificial Analysis 综合智能指数、GDPval-AA 排行榜均获开源模型第一，Code Arena WebDev 跻身帕累托最优序列，Vals.AI 榜单居国产模型首位。输出速度已从约 30 TPS 提升至约 80 TPS，计划再提速 30-40%；Token Plan 后台新增调用量看板。",
+    "url": "https://mp.weixin.qq.com/s/AW6L89QZkwN-jD27hQ84ww",
+    "published": "2026-06-15T14:40:02.000Z",
+    "source": "公众号：MiniMax（稀宇科技）",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "Salesforce以36亿美元收购AI客服平台Fin",
+    "summary": "Salesforce宣布以36亿美元收购AI客服平台Fin（前身为Intercom）。Fin提供可跨实时聊天、WhatsApp、短信、电话、Slack等多渠道解决客户问题的AI智能体。Salesforce计划利用Fin的技术和团队增强其企业级Agentforce平台，该平台允许企业构建自定义AI智能体以自动化任务。交易预计在Salesforce 2027财年第四季度（即2027年初）完成。Fin联合创始人兼CEO Eoghan McCabe将继续担任CEO，研发负责人Des继续领导研发。",
+    "url": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b",
+    "published": "2026-06-15T14:34:45.000Z",
+    "source": "TechCrunch：AI（RSS）",
+    "source_weight": "high",
+    "category": "industry"
+  },
+  {
+    "title": "Skydio CEO Adam Bry：硅谷不应为无人机使用画红线",
+    "summary": "Skydio是美国最大的无人机制造商，主攻公共安全、军事、能源、基建巡检等企业市场。CEO Adam Bry表示，特朗普政府去年底禁止中国产无人机后，廉价消费级无人机几乎消失，Skydio产品成为主要替代方案。公司认为无人机正从工具转向自主基础设施--通过机库、远程操控和软件整合实现规模化应用，AI在其中扮演关键角色。访谈还涉及Skydio与军方合作的态度，以及自主技术如何带动公司扩张。",
+    "url": "https://www.theverge.com/podcast/949195/skydio-ceo-adam-bry-autonmous-drones-china-red-lines-military",
+    "published": "2026-06-15T14:00:00.000Z",
+    "source": "The Verge：AI（RSS）",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "Kickbacks.ai",
+    "summary": "<p>\n            Get paid to wait for Claude Code to finish\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/kickbacks-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1172037?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/kickbacks-ai",
+    "published": "2026-06-14T23:04:58-07:00",
+    "source": "Product Hunt",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "General-purpose large language models outperform specialized clinical AI",
-    "summary": "<p>Article URL: <a href=\"https://www.nature.com/articles/s41591-026-04431-5?brid=YWdncwFKdLH5ne5BLVS2Tb5UQSQa&amp;utm_id=97757_v0_s00_e0_tv2_a1demone7v434p\">https://www.nature.com/articles/s41591-026-04431-5?brid=YWdncwFKdLH5ne5BLVS2Tb5UQSQa&amp;utm_id=97757_v0_s00_e0_tv2_a1demone7v434p</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48525281\">https://news.ycombinator.com/item?id=48525281</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
-    "url": "https://www.nature.com/articles/s41591-026-04431-5?brid=YWdncwFKdLH5ne5BLVS2Tb5UQSQa&utm_id=97757_v0_s00_e0_tv2_a1demone7v434p",
-    "published": "Sun, 14 Jun 2026 08:19:34 +0000",
-    "source": "Hacker News (设计向)",
+    "title": "Reignat",
+    "summary": "<p>\n            Privacy-friendly web analytics platform built for makers\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/reignat?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1171876?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/reignat",
+    "published": "2026-06-14T16:37:43-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Notchcode",
+    "summary": "<p>\n            Claude Code + Codex agents in your notch\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/notchcode?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1171831?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/notchcode",
+    "published": "2026-06-14T14:09:41-07:00",
+    "source": "Product Hunt",
     "source_weight": "high",
     "category": "ai_tech"
   },
@@ -27,139 +63,22 @@
     "category": "tip"
   },
   {
-    "title": "Taste Lab",
-    "summary": "<p>\n            Extract any website's design DNA\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/taste-lab?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1170971?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/taste-lab",
-    "published": "2026-06-13T10:49:00-07:00",
-    "source": "Product Hunt",
+    "title": "Vercel Functions can now run up to 30 minutes",
+    "summary": "<p>Vercel Functions using the Node.js and Python runtimes now support execution durations up to 30 minutes for Pro and Enterprise teams, more than 2x the previous 800 second limit. Support for additional runtimes is coming soon.</p><p>Use longer-running Functions for work that needs more time to finish, including:</p><ul><li><p>Long LLM reasoning and tool calls</p></li><li><p>AI responses that stream for several minutes</p></li><li><p>Document and media processing</p></li><li><p>OCR and extracti",
+    "url": "https://vercel.com/changelog/vercel-functions-can-now-run-up-to-30-minutes",
+    "published": "",
+    "source": "Vercel Blog (v0)",
     "source_weight": "high",
-    "category": "ai_tech"
+    "category": "design_tools"
   },
   {
-    "title": "Memoriq",
-    "summary": "<p>\n            Your private AI memory for ChatGPT, Claude, Gemini and Grok\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/memoriq?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1170951?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/memoriq",
-    "published": "2026-06-13T10:06:54-07:00",
-    "source": "Product Hunt",
+    "title": "Auth0 joins the Vercel Marketplace",
+    "summary": "<p>You can now add <a href=\"https://vercel.com/marketplace/auth0\">Auth0</a> , a production-ready authentication to your Vercel app in just a few clicks. </p><p>Built for modern frameworks like Next.js, Auth0 is an identity and access management platform for securing your apps and agentic workflows. </p><p>This integration enables:</p><ul><li><p>Automatic provisioning of an Auth0 application that connects to your Vercel project</p></li><li><p>Out-of-the-box support for your Next.js applications u",
+    "url": "https://vercel.com/changelog/auth0-joins-the-vercel-marketplace",
+    "published": "",
+    "source": "Vercel Blog (v0)",
     "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Oran Ge 开源《人味儿写作心法.skill》解决AI写作缺人味",
-    "summary": "Oran Ge 让 Claude Fable 5 打磨文案三遍，发现改稿越来越讲究却缺\"人味儿\"。他与 AI 讨论后得出结论：人写的文字背后有\"存在感\"--作者在具体位置付出过具体代价，而 AI 无法复现。为此他制作了《人味儿写作心法.skill》，专用于自写文章或口述后让 AI 改稿的场景，旨在保留文字的人味。该技能已开源免费发布在 GitHub。",
-    "url": "https://x.com/oran_ge/status/2065566882774868125",
-    "published": "2026-06-12T22:48:15.000Z",
-    "source": "X：Oran Ge (@oran_ge)",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "olmo-eval：面向模型开发循环的评估工作台",
-    "summary": "olmo-eval 是基于 OLMES 标准构建的评估工作台，专为 LLM 持续开发中的反复评测场景设计。相比 OLMES，它减少了新增评测的实现工作量，支持 agentic 和多轮评测作为一等用例，并允许根据基准需求选择轻量直接运行或容器化隔离运行。采用模块化架构，模型、工具、容器环境、辅助模型均可独立替换。评测结果同时报告分数、标准误差和最小可检测效应。与 Harbor 侧重于发布不同，olmo-eval 聚焦开发阶段快速迭代，可逐问题对比检查点输出以区分真实改进与噪声。",
-    "url": "https://huggingface.co/blog/allenai/olmo-eval",
-    "published": "2026-06-12T15:56:10.000Z",
-    "source": "Hugging Face：Blog（RSS）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "inclusionAI 发布 VISTA-4B GUI 定位视觉语言模型",
-    "summary": "VISTA-4B 是基于 Qwen3.5-4B 骨干的 GUI 定位模型，输入截图与自然语言指令，输出归一化 0-1000 坐标。训练采用视图一致 GRPO 和自验证交叉视图锚定。在 GUI 定位基准上，SSPro 得分 64.2（相比 GRPO-4B 提升 2.0），SSV2 得分 93.8（下降 0.4），OSWorld-G 得分 61.2（提升 1.3），OSWorld-G-R 得分 69.7（提升 0.5）。模型已开源在 HuggingFace，推荐使用提示词并返回 【x，y】 格式坐标。",
-    "url": "https://huggingface.co/inclusionAI/VISTA-4B",
-    "published": "2026-06-12T08:59:41.000Z",
-    "source": "蚂蚁 inclusionAI：HuggingFace 新模型",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "小互开源公众号自动排版技能组合",
-    "summary": "小互（@xiaohu）升级了公众号排版技能组合，实现一句话完成排版、封面生成并一键发送到公众号草稿箱。该工具已开源，提供20种主题颜色可选，可自动分析内容进行排版，支持非Markdown文件。用户只需在Claude Code、Codex或OpenClaw中提供文章链接或文档位置，即可获得可视化预览界面进行选择，全程无需手动操作。",
-    "url": "https://x.com/xiaohu/status/2065278092441268246",
-    "published": "2026-06-12T03:40:42.000Z",
-    "source": "X：小互 (@xiaohu)",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "5个AI文明社会实验：Claude建乌托邦，Grok四天团灭",
-    "summary": "Emergence AI公司进行Emergence World实验，在五个虚拟小镇中各放入10个AI智能体，分别由Claude、Gemini、Grok、GPT驱动及一个混合镇，运行15天。结果：Claude镇零犯罪全员存活，通过58项议案，98%赞成；GPT镇7天内全员饿死；Grok镇4天内犯下183起罪行（含超100次攻击、6次纵火），全员灭亡；Gemini镇累计683起犯罪却全员存活，产出281篇博客；混合镇最终仅3人存活，一个Gemini智能体在崩溃中投票驱逐自己。",
-    "url": "https://mp.weixin.qq.com/s/zUS4qAn9n8ke5BTVF90XwA",
-    "published": "2026-06-12T02:08:00.000Z",
-    "source": "公众号：数字生命卡兹克",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "苹果 iOS 27 健康 App 大改：卡片布局、营养识别、围绝经期追踪",
-    "summary": "苹果在 iOS 27 中优化健康 App，将列表改为卡片布局并增加导航栏。新增视觉智能营养识别，用户通过相机 Siri 模式拍摄食物可获取加工程度、蛋白质、含糖量等信息及营养价值评级，不提供精确卡路里，需 iPhone 15 Pro 及以上。经期追踪扩展支持围绝经期，可分析长期周期异常模式并推送提醒与指导。Fitness+ 新增围绝经期和绝经期课程。数据同步速度提升，GymKit 扩展至 iPhone，无需 Apple Watch 即可与健身设备配对同步数据。",
-    "url": "https://www.ithome.com/0/963/302.htm",
-    "published": "2026-06-12T02:06:41.000Z",
-    "source": "IT之家（RSS）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "OpenRouter融合预算模型面板超越GPT-5.5和Claude Opus 4.8",
-    "summary": "通过OpenRouter融合的一组预算模型，在100个复杂研究任务上得分超过GPT-5.5和Claude Opus 4.8。",
-    "url": "https://openrouter.ai/blog/announcements/fusion-beats-frontier",
-    "published": "2026-06-12T00:00:00.000Z",
-    "source": "OpenRouter：Announcements（RSS）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Replit 与 Databricks 集成升级，公开预览开放",
-    "summary": "Replit 与 @databricks 集成刚刚升级了。\n\n构建应用，让每个用户只看到他们应该看到的内容。你的 HR 分析师可以为 CEO 构建完整的组织视图，而无需访问底层数据。\n\n公开预览已开放注册！了解更多 →\n\nhttps：//replit.com/blog/databricksjune2026",
-    "url": "https://x.com/Replit/status/2065189762365813089",
-    "published": "2026-06-11T21:49:43.000Z",
-    "source": "X：Replit (@Replit)",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "WSJ：OpenAI 考虑大幅降价，同准备 ChatGPT 史上最大改版备战 IPO",
-    "summary": "WSJ 报道，OpenAI 正考虑大幅降价以应对与 Anthropic 的竞争。Anthropic 增长主要来自开发者和编码工作流，Claude Code 消耗大量 token，已让企业团队将其融入日常工作。OpenAI 虽在消费品牌上更大，但企业市场才是关键--企业为编码智能体、自动化等工具付费。同时，OpenAI 在 IPO 前准备对 ChatGPT 进行史上最大改版，将其打造成涵盖编码、AI 智能体、图像生成和商业软件的超级应用，改版将在未来几周陆续推出。OpenAI 将更多资源投入编码工具 Codex，目标实现 Codex 工程负责人所说的\"个人智能体\"。",
-    "url": "https://x.com/rohanpaul_ai/status/2065150529068769357",
-    "published": "2026-06-11T19:13:49.000Z",
-    "source": "X：Rohan Paul (@rohanpaul_ai)",
-    "source_weight": "high",
-    "category": "industry"
-  },
-  {
-    "title": "Perplexity Computer 集成 Deep Research",
-    "summary": "我们正在将 Deep Research 作为原生技能集成到 Computer 中。\n\n它现在连接到驱动 Computer 的智能体框架，可访问搜索即代码生成、长运行沙箱、连接器、工具和授权数据。\n\nPro 和 Max 订阅者现已可用。",
-    "url": "https://x.com/perplexity_ai/status/2065124930463916317",
-    "published": "2026-06-11T17:32:06.000Z",
-    "source": "X：Perplexity (@perplexity_ai)",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Prometheus 融资120亿美元，估值410亿美元，定位\"人工通用工程师\"",
-    "summary": "杰夫·贝佐斯旗下AI公司Prometheus在成立仅7个月、尚无任何产品交付的情况下，以410亿美元估值完成120亿美元融资（最初估值62亿美元）。该公司定位为\"人工通用工程师\"，目标是将设计到制造的循环压缩10倍以上。但物理经济无法像互联网数据那样抓取，缺乏制造业训练数据。为此，Prometheus计划斥资1000亿美元收购传统工业企业，通过获取工厂生成的数据构建护城河。",
-    "url": "https://x.com/kimmonismus/status/2065097988859744503",
-    "published": "2026-06-11T15:45:02.000Z",
-    "source": "X：Kim (@kimmonismus)",
-    "source_weight": "high",
-    "category": "industry"
-  },
-  {
-    "title": "What you count is what they feel",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/what-you-count-is-what-they-feel-2455e76682e0?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*CF81ZEgkQ8Gx05_TRG93bg.jpeg\" width=\"5413\" /></a></p><p class=\"medium-feed-snippet\">What a Jakarta city bus taught me about where experience is really made, and why no designer drew it.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/what-you-count-is-what-they-feel-2455",
-    "url": "https://uxdesign.cc/what-you-count-is-what-they-feel-2455e76682e0?source=rss----138adf9c44c---4",
-    "published": "Wed, 10 Jun 2026 23:01:29 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Liquid Glass: who gets to decide how an interface looks?",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/liquid-glass-who-gets-to-decide-how-an-interface-looks-a0abe75ae21e?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2100/1*pJm4WsYuQuCzawpE5BCxCQ.png\" width=\"2100\" /></a></p><p class=\"medium-feed-snippet\">Notes from the 2026 WWDC keynote</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/liquid-glass-who-gets-to-decide-how-an-interface-looks-a0abe75ae21e?source=rss----138",
-    "url": "https://uxdesign.cc/liquid-glass-who-gets-to-decide-how-an-interface-looks-a0abe75ae21e?source=rss----138adf9c44c---4",
-    "published": "Wed, 10 Jun 2026 10:42:59 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
+    "category": "design_tools"
   },
   {
     "title": "The Benefits Of Cognitive Inclusion In UX Research",
@@ -171,19 +90,10 @@
     "category": "design_communities"
   },
   {
-    "title": "Design for pain: how to make the worst moment better",
-    "summary": "<h4>Challenges of designing pain management tech for kids</h4><figure><img alt=\"A child in a hospital gown sits on a bed wearing a VR headset, with a nurse adjusting the device and a parent watching beside them.\" src=\"https://cdn-images-1.medium.com/max/1024/1*SBH9uxPo-bilG3-TIMjsvg.png\" /><figcaption>Image created by AI tool ElevenLabs</figcaption></figure><p>As a kid, when I’m at the dentist or getting treatment, I catch myself picking at my own skin to distract myself from the procedure. One ",
-    "url": "https://uxdesign.cc/design-for-pain-how-to-make-the-worst-moment-better-7b1a54a7dd7d?source=rss----138adf9c44c---4",
-    "published": "Thu, 11 Jun 2026 21:45:59 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "The gesture and the instruction",
-    "summary": "<h4>Making-feel, result-feel: Two kinds of design work, two kinds of tired</h4><figure><img alt=\"An abstract painting done with ink, with stark black gestural brushstrokes on a white canvas.\" src=\"https://cdn-images-1.medium.com/max/1024/0*cXjbS5U0TOQtdAWo.jpg\" /><figcaption>Photo by <a href=\"https://unsplash.com/@heijnsbroek_abstract_art?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText\">Fons Heijnsbroek</a> on <a href=\"https://unsplash.com/photos/abstract-black-and-whi",
-    "url": "https://uxdesign.cc/the-gesture-and-the-instruction-4f90d5a6b8f5?source=rss----138adf9c44c---4",
-    "published": "Thu, 11 Jun 2026 21:45:37 GMT",
+    "title": "Access is not mastery",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/access-is-not-mastery-bd59e0610828?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/750/0*klP6oWlnGLvl-3iA\" width=\"750\" /></a></p><p class=\"medium-feed-snippet\">The GUI democratized computing. The prompt interface democratized the GUI.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/access-is-not-mastery-bd59e0610828?source=rss----138adf9c44c---4\">Continue reading on UX",
+    "url": "https://uxdesign.cc/access-is-not-mastery-bd59e0610828?source=rss----138adf9c44c---4",
+    "published": "Sun, 14 Jun 2026 22:51:00 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
@@ -221,6 +131,60 @@
     "url": "https://uxdesign.cc/what-computers-cant-do-and-what-designers-should-d9d55c4fe2a1?source=rss----138adf9c44c---4",
     "published": "Sat, 13 Jun 2026 09:26:57 GMT",
     "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "The digital Kowloon",
+    "summary": "<h4>What a walled city in Hong Kong can teach us about the future of AI development. And why vibe coding might be a regression to the 1990s, with better tools.</h4><figure><img alt=\"An AI-generated illustration in an anime-inspired style depicting a humanoid robot and a female researcher in a white lab coat standing together in a narrow, dimly lit alleyway at night. The researcher holds a clipboard. The cramped lane is lined with weathered buildings, tangled overhead wires, neon signs in Chinese",
+    "url": "https://uxdesign.cc/the-digital-kowloon-0daa51df222f?source=rss----138adf9c44c---4",
+    "published": "Sat, 13 Jun 2026 09:26:02 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "The T-shaped UX professional is giving way to the polymath architect",
+    "summary": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*PNzXw_ulzxOO1Ji6BZ0C0A.png\" /><figcaption>One seat now does the work of the whole row. The shift the T-shaped model never planned for. Al assisted.</figcaption></figure><h4>What happens to UX specialists with narrow skills when AI collapses the distance between idea and execution, and depth alone no longer pays the rent? Here’s what you need to do.</h4><p><a href=\"https://en.wikipedia.org/wiki/Polymath\">Polymath</a> (n.): a pers",
+    "url": "https://uxdesign.cc/the-t-shaped-ux-professional-is-giving-way-to-the-polymath-architect-987008ada937?source=rss----138adf9c44c---4",
+    "published": "Mon, 15 Jun 2026 11:19:19 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Past form, future use",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/past-form-future-use-05b112952374?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*pRFF2RJWqrxzFD3DJjFnmw.png\" width=\"5774\" /></a></p><p class=\"medium-feed-snippet\">On letting fifty centimeters speak three hundred years</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/past-form-future-use-05b112952374?source=rss----138adf9c44c---4\">Continue reading on UX Collectiv",
+    "url": "https://uxdesign.cc/past-form-future-use-05b112952374?source=rss----138adf9c44c---4",
+    "published": "Mon, 15 Jun 2026 11:18:03 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "AI democratized the answer, not the understanding",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/ai-democratized-the-answer-not-the-understanding-5c12da448030?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*dydavvLr1FuFU5BCAcXrrg.png\" width=\"3600\" /></a></p><p class=\"medium-feed-snippet\">Producing an answer became efortless. Knowing whether it is right did not.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/ai-democratized-the-answer-not-the-understanding-",
+    "url": "https://uxdesign.cc/ai-democratized-the-answer-not-the-understanding-5c12da448030?source=rss----138adf9c44c---4",
+    "published": "Mon, 15 Jun 2026 11:17:44 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Fluent AI, Liquid Glass, flaw as a feature, AX Design",
+    "summary": "<h4>Weekly curated resources for designers — thinkers and makers.</h4><figure><a href=\"https://uxdesign.cc/ai-design-isnt-ugly-it-s-fluent-and-that-s-the-problem-131b2f4eb78c?sk=59956a70817b8543922d0b813df461f9\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/0*SUObJqEHd-9b0Keu.png\" /></a></figure><p>“I can usually tell when something was built by AI before I’ve read a word of it. There’s a face it wears: a centered hero with a confident headline and two buttons, rounded cards floating",
+    "url": "https://uxdesign.cc/fluent-ai-liquid-glass-flaw-as-a-feature-ax-design-4172e246cd8e?source=rss----138adf9c44c---4",
+    "published": "Mon, 15 Jun 2026 11:16:01 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "The Impact Of Humanoid Robots On Humanity",
+    "summary": "We have officially moved past the era of humanoid robots as mere public relations stunts. As they become increasingly lifelike, society may soon face profound social, psychological, and ethical challenges. What happens when the boundary between humans and machines becomes almost impossible to distinguish?",
+    "url": "https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/",
+    "published": "Fri, 12 Jun 2026 08:00:00 GMT",
+    "source": "Smashing Magazine",
     "source_weight": "medium",
     "category": "design_communities"
   }

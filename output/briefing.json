@@ -1,5 +1,29 @@
 [
   {
+    "title": "MiniMax 开源 M3 模型权重及 MSA 技术论文",
+    "summary": "MiniMax 上周五开源了 428B 总参数、23B 激活参数的 M3 模型权重，同步发布 MSA（MiniMax Sparse Attention）技术论文，该架构显著降低长上下文计算成本。M3 是首个从预训练阶段就进行文本、图像等多模态交错混合训练的开源模型。发布两周后，M3 在 Artificial Analy",
+    "source": "公众号：MiniMax（稀宇科技）",
+    "url": "https://mp.weixin.qq.com/s/AW6L89QZkwN-jD27hQ84ww",
+    "published_at": "2026-06-15T14:40:02.000Z",
+    "category": "ai-models"
+  },
+  {
+    "title": "Salesforce以36亿美元收购AI客服平台Fin",
+    "summary": "Salesforce宣布以36亿美元收购AI客服平台Fin（前身为Intercom）。Fin提供可跨实时聊天、WhatsApp、短信、电话、Slack等多渠道解决客户问题的AI智能体。Salesforce计划利用Fin的技术和团队增强其企业级Agentforce平台，该平台允许企业构建自定义AI智能体以自动化任务。交易",
+    "source": "TechCrunch：AI（RSS）",
+    "url": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b",
+    "published_at": "2026-06-15T14:34:45.000Z",
+    "category": "industry"
+  },
+  {
+    "title": "Skydio CEO Adam Bry：硅谷不应为无人机使用画红线",
+    "summary": "Skydio是美国最大的无人机制造商，主攻公共安全、军事、能源、基建巡检等企业市场。CEO Adam Bry表示，特朗普政府去年底禁止中国产无人机后，廉价消费级无人机几乎消失，Skydio产品成为主要替代方案。公司认为无人机正从工具转向自主基础设施--通过机库、远程操控和软件整合实现规模化应用，AI在其中扮演关键角色。",
+    "source": "The Verge：AI（RSS）",
+    "url": "https://www.theverge.com/podcast/949195/skydio-ceo-adam-bry-autonmous-drones-china-red-lines-military",
+    "published_at": "2026-06-15T14:00:00.000Z",
+    "category": "tip"
+  },
+  {
     "title": "Anthropic 上市前夕",
     "summary": "Anthropic CEO Dario Amodei透露内部模型Mythos有上千漏洞，能黑银行、窃取国家机密；预言AI一到五年内砍掉一半入门级白领工作；称Claude已被美军用于对伊朗战争，涉及女校150人死亡拷问；解释离开OpenAI因信任崩塌；回怼黄仁勋末日营销指控；给出文明崩溃概率10%-25%。",
     "source": "X：小互 (@xiaohu)",
@@ -14,29 +38,5 @@
     "url": "https://www.ithome.com/0/963/834.htm",
     "published_at": "2026-06-13T06:09:26.000Z",
     "category": "tip"
-  },
-  {
-    "title": "Oran Ge 开源《人味儿写作心法.skill》解决AI写作缺人味",
-    "summary": "Oran Ge 让 Claude Fable 5 打磨文案三遍，发现改稿越来越讲究却缺\"人味儿\"。他与 AI 讨论后得出结论：人写的文字背后有\"存在感\"--作者在具体位置付出过具体代价，而 AI 无法复现。为此他制作了《人味儿写作心法.skill》，专用于自写文章或口述后让 AI 改稿的场景，旨在保留文字的人味。该技能",
-    "source": "X：Oran Ge (@oran_ge)",
-    "url": "https://x.com/oran_ge/status/2065566882774868125",
-    "published_at": "2026-06-12T22:48:15.000Z",
-    "category": "tip"
-  },
-  {
-    "title": "olmo-eval：面向模型开发循环的评估工作台",
-    "summary": "olmo-eval 是基于 OLMES 标准构建的评估工作台，专为 LLM 持续开发中的反复评测场景设计。相比 OLMES，它减少了新增评测的实现工作量，支持 agentic 和多轮评测作为一等用例，并允许根据基准需求选择轻量直接运行或容器化隔离运行。采用模块化架构，模型、工具、容器环境、辅助模型均可独立替换。评测结果",
-    "source": "Hugging Face：Blog（RSS）",
-    "url": "https://huggingface.co/blog/allenai/olmo-eval",
-    "published_at": "2026-06-12T15:56:10.000Z",
-    "category": "ai-products"
-  },
-  {
-    "title": "MiniMax M3 开源权重模型发布，已上架 HuggingFace",
-    "summary": "MiniMax 发布开源权重模型 M3，约 428B 总参数、23B 激活参数，已上传 HuggingFace。该模型融合三种前沿能力：编码与智能体方面达 59.0% SWE-Bench Pro、66.0% Terminal Bench 2.1、34.8% SWE-fficiency、28.8% KernelBench",
-    "source": "X：MiniMax (@MiniMax_AI)",
-    "url": "https://x.com/MiniMax_AI/status/2065436935188058208",
-    "published_at": "2026-06-12T14:11:53.000Z",
-    "category": "ai-models"
   }
 ]

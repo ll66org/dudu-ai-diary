@@ -1,14 +1,14 @@
 {
-  "fetched_at": "2026-06-14T13:16:16.525290Z",
-  "total_candidates": 25,
+  "fetched_at": "2026-06-15T16:28:58.993560Z",
+  "total_candidates": 21,
   "source_stats": {
     "Figma Blog": {
       "found": 0,
       "total": 0
     },
     "Vercel Blog (v0)": {
-      "found": 0,
-      "total": 1217
+      "found": 2,
+      "total": 1219
     },
     "Cursor Changelog": {
       "found": 0,
@@ -35,7 +35,7 @@
       "total": 40
     },
     "UX Collective": {
-      "found": 9,
+      "found": 10,
       "total": 10
     },
     "Designer News": {
@@ -51,11 +51,11 @@
       "total": 20
     },
     "Hacker News (设计向)": {
-      "found": 2,
-      "total": 20
+      "found": 0,
+      "total": 0
     },
     "Product Hunt": {
-      "found": 2,
+      "found": 3,
       "total": 50
     },
     "Designer News (AI Design)": {
@@ -64,27 +64,27 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 52,
-  "today_date": "2026-06-14",
+  "dudu_day": 53,
+  "today_date": "2026-06-15",
   "used_titles": [
-    "\"我在田里雇了一名工程师，它叫 Codex\" -- 北海道一个西兰花农的 8 个真实 AI 用法",
     "VoxCPM2 技术报告发布",
     "全新汽车品牌AIVA发布，火山引擎助力打造AI汽车新体验",
     "走进 Anthropic：这家估值 9650 亿美元的 AI 巨头",
     "Claude Fable 5 一句话生成桌面台球游戏",
     "MiniMax M3 开源权重模型发布，已上架 HuggingFace",
-    "SemiAnalysis 洞察 Token 经济：200 美元 AI 订阅榨出 70 倍用量"
+    "SemiAnalysis 洞察 Token 经济：200 美元 AI 订阅榨出 70 倍用量",
+    "Oran Ge 开源《人味儿写作心法.skill》解决AI写作缺人味"
   ],
   "used_tools": [
-    "X：阿易 AI Notes (@AYi_AInotes)",
     "X：面壁智能 OpenBMB (@OpenBMB)",
     "公众号：火山引擎",
     "Bloomberg：Technology（RSS）",
     "X：Vista (@vista8)",
     "X：MiniMax (@MiniMax_AI)",
-    "IT之家（RSS）"
+    "IT之家（RSS）",
+    "X：Oran Ge (@oran_ge)"
   ],
-  "briefing_total": 51,
-  "briefing_design": 15,
+  "briefing_total": 26,
+  "briefing_design": 6,
   "briefing_count": 5
 }
