@@ -1,12 +1,201 @@
 [
   {
-    "title": "MiniMax 开源 M3 模型权重及 MSA 技术论文",
-    "summary": "MiniMax 上周五开源了 428B 总参数、23B 激活参数的 M3 模型权重，同步发布 MSA（MiniMax Sparse Attention）技术论文，该架构显著降低长上下文计算成本。M3 是首个从预训练阶段就进行文本、图像等多模态交错混合训练的开源模型。发布两周后，M3 在 Artificial Analysis 综合智能指数、GDPval-AA 排行榜均获开源模型第一，Code Arena WebDev 跻身帕累托最优序列，Vals.AI 榜单居国产模型首位。输出速度已从约 30 TPS 提升至约 80 TPS，计划再提速 30-40%；Token Plan 后台新增调用量看板。",
-    "url": "https://mp.weixin.qq.com/s/AW6L89QZkwN-jD27hQ84ww",
-    "published": "2026-06-15T14:40:02.000Z",
-    "source": "公众号：MiniMax（稀宇科技）",
+    "title": "SpaceX Purchases Cursor, a Claude Code and OpenAI Codex Competitor",
+    "summary": "<p>Article URL: <a href=\"https://9to5mac.com/2026/06/16/spacex-lands-deal-to-likely-purchase-claude-code-and-openai-codex-competitor/\">https://9to5mac.com/2026/06/16/spacex-lands-deal-to-likely-purchase-claude-code-and-openai-codex-competitor/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48557095\">https://news.ycombinator.com/item?id=48557095</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "url": "https://9to5mac.com/2026/06/16/spacex-lands-deal-to-likely-purchase-claude-code-and-openai-codex-competitor/",
+    "published": "Tue, 16 Jun 2026 15:45:19 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "A look into Ubuntu Core 26: Building a local AI inference appliance",
+    "summary": "<p>Article URL: <a href=\"https://ubuntu.com/blog/ubuntu-core-26-ai-box\">https://ubuntu.com/blog/ubuntu-core-26-ai-box</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48557018\">https://news.ycombinator.com/item?id=48557018</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+    "url": "https://ubuntu.com/blog/ubuntu-core-26-ai-box",
+    "published": "Tue, 16 Jun 2026 15:41:42 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Show HN: An AI resume tool that never invents experience you didn't have",
+    "summary": "<p>I have seen way too many people waste time tailoring their resumes to a specific Job description, practicing interview questions etc. and most of them don't trust AI tailoring and rightfully so, cuz it invents experience you never had. All it takes is the interviewer asking you one question that you do not know the answer to and the house of cards falls. So hear me out:<p>I made HiredCopilot an AI tool that helps you tailor your resume for a specific job description and I made it different. A",
+    "url": "https://hiredcopilot.com",
+    "published": "Tue, 16 Jun 2026 15:22:50 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Show HN: AI vs. AI – code and reviews only count if they survive an attack",
+    "summary": "<p>Pantheon is a technique for generating each subagent, generating code with different solutions, breaking it and writing code that ultimately survives.\nFor Pantheon-X, GPT 5.5 is broken, and GPT is broken and surviving is the last skill to write code written by Claudette.\nIn the case of Pancheon Gap, it is a technology to continue to check whether the actual review is true and to derive surviving children.<p>I'd appreciate it if you could actually use it and give me feedback through issues</p>",
+    "url": "https://github.com/lolu1032/pantheon-skills",
+    "published": "Tue, 16 Jun 2026 15:15:06 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Show HN: Infer0 – do AI apps need subscriptions?",
+    "summary": "<p>One thing that’s been bothering me about AI side projects is inference costs. With traditional software, a successful launch usually means higher profits. But with AI products, success can mean unexpectedly large bills.<p>This has pushed me toward cheaper, less capable models and made me hesitate to even explore certain ideas. I don’t want every side project to become another $20/month subscription, but I also can’t compete with VC-backed companies willing to subsidize inference costs.<p>Then",
+    "url": "https://infer0.com/",
+    "published": "Tue, 16 Jun 2026 15:12:22 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "SpaceX Acquires Cursor for $60B: What It Means for Software Security",
+    "summary": "<p>Article URL: <a href=\"https://www.pentesty.co/blog/spacex-acquires-cursor-60-billion-software-security\">https://www.pentesty.co/blog/spacex-acquires-cursor-60-billion-software-security</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48556486\">https://news.ycombinator.com/item?id=48556486</a></p>\n<p>Points: 4</p>\n<p># Comments: 1</p>",
+    "url": "https://www.pentesty.co/blog/spacex-acquires-cursor-60-billion-software-security",
+    "published": "Tue, 16 Jun 2026 15:09:47 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "AI is good at web design now",
+    "summary": "<p>Article URL: <a href=\"https://repaint.com/blog/ai-is-good-at-web-design-now\">https://repaint.com/blog/ai-is-good-at-web-design-now</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48556404\">https://news.ycombinator.com/item?id=48556404</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+    "url": "https://repaint.com/blog/ai-is-good-at-web-design-now",
+    "published": "Tue, 16 Jun 2026 15:04:22 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Four Practices for Building Better with AI Agents",
+    "summary": "<p>Article URL: <a href=\"https://twitter.com/christinetyip/status/2066890379375374474\">https://twitter.com/christinetyip/status/2066890379375374474</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48555866\">https://news.ycombinator.com/item?id=48555866</a></p>\n<p>Points: 3</p>\n<p># Comments: 1</p>",
+    "url": "https://twitter.com/christinetyip/status/2066890379375374474",
+    "published": "Tue, 16 Jun 2026 14:27:53 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "SpaceX has acquired Cursor",
+    "summary": "<p>Article URL: <a href=\"https://twitter.com/spacex/status/2066873915717136548\">https://twitter.com/spacex/status/2066873915717136548</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48555551\">https://news.ycombinator.com/item?id=48555551</a></p>\n<p>Points: 4</p>\n<p># Comments: 2</p>",
+    "url": "https://twitter.com/spacex/status/2066873915717136548",
+    "published": "Tue, 16 Jun 2026 14:06:53 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "美国司法部援引国家安全为xAI未经许可的燃气轮机辩护",
+    "summary": "美国司法部在一份驳回诉讼的动议中称，xAI的聊天机器人Grok对军事行动至关重要，以此为其在密西西比州Southaven的Colossus 2设施运行未经许可的燃气轮机辩护。NAACP已提起诉讼，指控xAI的燃气轮机数量从4月的27台增至57台，导致氮氧化物排放飙升111%。国防部首席数字与人工智能官Cameron Stanley表示，Grok是支持机密和绝密网络军事任务的四款AI模型之一，包括近期针对伊朗的打击。",
+    "url": "https://the-decoder.com/doj-invokes-national-security-to-defend-xais-unpermitted-gas-turbines-in-naacp-lawsuit",
+    "published": "2026-06-16T13:23:33.000Z",
+    "source": "The Decoder：AI News（RSS）",
+    "source_weight": "high",
+    "category": "industry"
+  },
+  {
+    "title": "SpaceX 以 600 亿美元股票收购 AI 编程公司 Cursor",
+    "summary": "SpaceX 在历史性 IPO 数天后，同意以 600 亿美元股票收购 AI 编程初创公司 Cursor，旨在帮助其围绕 xAI 构建的 AI 部门追赶主要 AI 实验室。此前 Cursor 正接近完成一轮 20 亿美元融资，估值 500 亿美元，投资方包括 Andreessen Horowitz、Thrive 和 Nvidia。SpaceX 在 IPO 期间向投资者表示，其 AI 产品可寻址市场达 26 万亿美元。交易预计于今年第三季度完成。",
+    "url": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo",
+    "published": "2026-06-16T11:21:41.000Z",
+    "source": "TechCrunch：AI（RSS）",
+    "source_weight": "high",
+    "category": "industry"
+  },
+  {
+    "title": "Google Cloud 推出 OKF v0.1：供应商中立的 Markdown 规范，为 AI 智能体提供结构化上下文",
+    "summary": "Google Cloud 发布 Open Knowledge Format （OKF） v0.1，一种供应商中立的 Markdown 规范，为 AI 智能体提供结构化上下文知识。OKF 将知识表示为带 YAML 前置元数据的 markdown 文件目录，每个概念对应一个文件，通过 `type`、`title`、`description` 等少量保留字段实现互操作。无需专有服务、SDK 或运行时，目录可托管在 GitHub、以 tarball 传输或挂载到任意文件系统。OKF 旨在解决组织内部知识碎片化问题--表结构、指标定义、runbook 等散落在不同 catalog 和 wiki 中，各厂商方案互不兼容。遵循最少意见原则，只强制 `type` 字段，生产者和消费者可独立实现。使用场景包括数据团队将 BigQuery 表定义导出为代码、为智能体存储 incident runbook、跨组织知识交换等。",
+    "url": "https://www.marktechpost.com/2026/06/16/google-cloud-introduces-open-knowledge-format-okf-a-vendor-neutral-markdown-spec-for-giving-ai-agents-curated-context",
+    "published": "2026-06-16T08:18:58.000Z",
+    "source": "MarkTechPost（RSS）",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "Cartesia 发布 Sonic 3.5 与 Ink 2 实时语音模型",
+    "summary": "Cartesia 推出 Sonic 3.5 和 Ink 2 两个模型，作为单一实时语音栈，分别负责文本转语音和语音转文本。Ink 2 在 Artificial Analysis 的流式语音转文字排行榜上排名第一。Sonic 3.5 在实时文本转语音中位列榜首，首音频延迟约 82ms。Cartesia 成为目前唯一同时拥有 #1 听与说模型的提供商。",
+    "url": "https://x.com/testingcatalog/status/2066773392527655252",
+    "published": "2026-06-16T06:42:30.000Z",
+    "source": "X：Testing Catalog (@testingcatalog)",
     "source_weight": "high",
     "category": "ai-models"
+  },
+  {
+    "title": "AI 版支付宝官宣开启邀测：右滑打开\"阿宝\"，官方放出 100 个邀请码",
+    "summary": "支付宝今日开启 AI 版邀测，用户可右滑进入新版界面，在对话框或语音中输入指令，由\"阿宝\"助手代办事项。以查询公积金为例，阿宝自动匹配对应小程序和服务入口，用户点击确认即可完成，将多步跳转折叠为一句指令。所有涉及资金变动和支付的环节均需用户本人确认。首批放出 100 个邀请码。",
+    "url": "https://www.ithome.com/0/964/691.htm",
+    "published": "2026-06-16T02:39:06.000Z",
+    "source": "IT之家（RSS）",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "毕业生陷入AI检测荒诞循环：手写摘要被判99%AI率，AI写部分0%",
+    "summary": "当前毕业生面临论文AIGC率检测荒诞困境。学生手写摘要被判定99%AI率，纯AI写部分却为0%。学校要求AIGC率不超40%，学生用Claude反复修改并花上百元检测费（维普20元/篇，知网/万方2元/千字符），最终降至36.1%。答辩时老师要求改回学术表达，AI率回升至37.21%。同一论文在不同平台检测结果差异巨大（48%、44%、59%）。部分平台提供降重收费服务，少数学校已改用AI使用声明表替代一刀切检测。",
+    "url": "https://mp.weixin.qq.com/s/DRzNIiojGLO-iqqPyJ7f8Q",
+    "published": "2026-06-16T02:06:00.000Z",
+    "source": "公众号：数字生命卡兹克",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "成本砍半，字节跳动推出 Seedance 2.0 Mini 视频生成模型",
+    "summary": "字节跳动火山引擎旗下火山方舟体验中心于 6 月 15 日上线 Seedance 2.0 Mini 视频生成模型，计划近期开放 API。该模型比 Seedance 2.0 Fast 快 2 倍，输出质量相当。图生视频定价 0.023 元/千 tokens，视频生视频 0.014 元/千 tokens，720P 规格下单秒生成成本约 0.5 元，较 Seedance 2.0 标准版降低约一半。模型面向电商内容生产、营销素材批量生成、UGC 创作及特效玩法等高频率、大规模视频生成场景。",
+    "url": "https://www.ithome.com/0/964/672.htm",
+    "published": "2026-06-16T01:49:40.000Z",
+    "source": "IT之家（RSS）",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "五角大楼将大部分日常AI工作流从Anthropic转移，目标9月前完全切断",
+    "summary": "五角大楼宣布已将超2/3日常AI工作流从Anthropic转移，目标9月前清零。起因是年初五角大楼要求Anthropic签署协议允许Claude用于大规模监控和全自动武器，CEO Dario Amodei以模型不可靠为由拒绝。五角大楼将其列为\"供应链风险\"，起诉未果。OpenAI调整立场获得订单。Polymarket预测6月底前和解概率仅9%。此事件凸显AI公司需在原则与政府合作间抉择。",
+    "url": "https://x.com/AYi_AInotes/status/2066679835607412846",
+    "published": "2026-06-16T00:30:44.000Z",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "source_weight": "high",
+    "category": "industry"
+  },
+  {
+    "title": "Qwen-RobotManip：对齐解锁机器人操作基础模型的规模化能力",
+    "summary": "Qwen-RobotManip 是通义千问基于 Qwen-VL 的视觉-语言-动作（VLA）基础模型，引入覆盖表示、运动和行为三维度的统一对齐框架。仅使用开源机器人数据集和人演示视频，构建约 38，100 小时预训练语料，涵盖 15 种机器人形态。在 LIBERO-Plus 达 91.4%，RoboTwin-C2R Hard 达 69.4%，RoboCasa365 Composite-Unseen 达 14.9%，EBench 达 45.6%，RoboTwin-IF 达 72.0%，并在 RoboChallenge Table30 v1 generalist track 夺冠。模型采用 80 维状态-动作表示、人-机器人数据合成管道（1，933 小时第一人称视频转 24，808 小时数据）及上下文策略适配。",
+    "url": "https://qwen.ai/blog?id=qwen-robotmanip",
+    "published": "2026-06-16T00:00:00.000Z",
+    "source": "Qwen：Blog Retrieval（API）",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "Qwen-RobotWorld：具身智能体的无界世界",
+    "summary": "Qwen-RobotWorld以语言为统一动作接口，采用双流Multimodal Diffusion Transformer（MMDiT）架构，将Qwen2.5-VL作为动作编码器。在4个基准测试中取得顶尖成绩，统一20余种机器人形态，基于860万跨场景训练对和1300多项操作技能。语言接口标准化500多种动作类别，支持操作、自动驾驶、室内导航的联合训练。还支持Scene2Robot人类到机器人转移及2-4路多视角几何一致视频生成。",
+    "url": "https://qwen.ai/blog?id=qwen-robotworld",
+    "published": "2026-06-16T00:00:00.000Z",
+    "source": "Qwen：Blog Retrieval（API）",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "Qwen-RobotNav：面向智能体导航系统的可扩展导航模型",
+    "summary": "Qwen 发布 Qwen-RobotNav，基于 Qwen3-VL 在 15.6M 样本上训练，统一了视觉语言导航、目标导航、目标跟踪、自动驾驶和具身问答五个领域，无需修改架构即可在推理时切换任务模式和观察参数。模型在多项基准取得 SOTA：VLN-CE RxR 成功率 76.5%，HM3Dv2 目标导航 75.6%（仅 RGB），EVT-Bench 跟踪率 90.0%，NAVSIM PDMS 91.4，以及三项 EQA 新标杆。模型暴露四个可调轴（视觉 token 预算、时间衰减、相机权重、帧采样模式）。作为智能体系统的一部分，上层规划器 Qwen3.7-Plus 在 EXPRESS-Bench 上提升 15.4%，导航步数减少 77%。模型已零样本部署在 Unitree Go2 四足机器人上，无需环境微调。",
+    "url": "https://qwen.ai/blog?id=qwen-robotnav",
+    "published": "2026-06-16T00:00:00.000Z",
+    "source": "Qwen：Blog Retrieval（API）",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "项目负责人揭秘为何苹果 AI 版 Siri 姗姗来迟：推倒重来，彻底重构",
+    "summary": "苹果AI版Siri迟迟未上线，项目负责人迈克·罗克韦尔在WWDC技术分享会上透露，去年团队曾做出在原有Siri基础上小幅改良、新增工具调用的可运行版本，但因无法达到产品愿景，最终选择推倒重来，完整从零重构系统，依托全新大模型搭建。重构后的Siri拥有独立应用程序，原生支持多模态交互，隐私保护贯穿底层架构，并覆盖iPhone、iPad、Mac、Apple Watch、Vision Pro、CarPlay、AirPods等全平台，提供统一连贯体验。",
+    "url": "https://www.ithome.com/0/964/620.htm",
+    "published": "2026-06-15T23:16:58.000Z",
+    "source": "IT之家（RSS）",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "免费LLM API比较：速率限制、模型与真实成本（2026）",
+    "summary": "13个平台提供免费LLM API，含永久免费层与试用额度。OpenRouter拥有20+免费模型，单密钥无需信用卡；Groq以约320 tokens/秒运行Llama 3.3 70B；Google AI Studio支持1M上下文；Mistral实验层约10亿token/月但需同意数据训练；Cerebras约1M token/天；GitHub Models提供GPT-4o、Claude 3.5 Sonnet等前沿模型。各免费层有速率限制、数据训练授权、上下文缩减等隐藏成本，建议早期测试2-3个方案并设置故障转移。",
+    "url": "https://openrouter.ai/blog/tutorials/free-llm-apis-compared",
+    "published": "2026-06-15T17:00:00.000Z",
+    "source": "OpenRouter：Announcements（RSS）",
+    "source_weight": "high",
+    "category": "tip"
   },
   {
     "title": "Salesforce以36亿美元收购AI客服平台Fin",
@@ -18,174 +207,21 @@
     "category": "industry"
   },
   {
-    "title": "Skydio CEO Adam Bry：硅谷不应为无人机使用画红线",
-    "summary": "Skydio是美国最大的无人机制造商，主攻公共安全、军事、能源、基建巡检等企业市场。CEO Adam Bry表示，特朗普政府去年底禁止中国产无人机后，廉价消费级无人机几乎消失，Skydio产品成为主要替代方案。公司认为无人机正从工具转向自主基础设施--通过机库、远程操控和软件整合实现规模化应用，AI在其中扮演关键角色。访谈还涉及Skydio与军方合作的态度，以及自主技术如何带动公司扩张。",
-    "url": "https://www.theverge.com/podcast/949195/skydio-ceo-adam-bry-autonmous-drones-china-red-lines-military",
-    "published": "2026-06-15T14:00:00.000Z",
-    "source": "The Verge：AI（RSS）",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "Kickbacks.ai",
-    "summary": "<p>\n            Get paid to wait for Claude Code to finish\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/kickbacks-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1172037?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/kickbacks-ai",
-    "published": "2026-06-14T23:04:58-07:00",
+    "title": "Fluxmail",
+    "summary": "<p>\n            AI email inbox and assistant\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/fluxmail?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1172649?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/fluxmail",
+    "published": "2026-06-15T11:49:36-07:00",
     "source": "Product Hunt",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Reignat",
-    "summary": "<p>\n            Privacy-friendly web analytics platform built for makers\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/reignat?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1171876?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/reignat",
-    "published": "2026-06-14T16:37:43-07:00",
+    "title": "GlassKit UI",
+    "summary": "<p>\n            AI-ready React UI for Meta's Ray-Ban Display glasses\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/glasskit-ui?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1172638?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/glasskit-ui",
+    "published": "2026-06-15T11:31:53-07:00",
     "source": "Product Hunt",
     "source_weight": "high",
     "category": "ai_tech"
-  },
-  {
-    "title": "Notchcode",
-    "summary": "<p>\n            Claude Code + Codex agents in your notch\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/notchcode?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1171831?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/notchcode",
-    "published": "2026-06-14T14:09:41-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Anthropic 上市前夕",
-    "summary": "Anthropic CEO Dario Amodei透露内部模型Mythos有上千漏洞，能黑银行、窃取国家机密；预言AI一到五年内砍掉一半入门级白领工作；称Claude已被美军用于对伊朗战争，涉及女校150人死亡拷问；解释离开OpenAI因信任崩塌；回怼黄仁勋末日营销指控；给出文明崩溃概率10%-25%。",
-    "url": "https://x.com/xiaohu/status/2065991805238497732",
-    "published": "2026-06-14T02:56:45.000Z",
-    "source": "X：小互 (@xiaohu)",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "Vercel Functions can now run up to 30 minutes",
-    "summary": "<p>Vercel Functions using the Node.js and Python runtimes now support execution durations up to 30 minutes for Pro and Enterprise teams, more than 2x the previous 800 second limit. Support for additional runtimes is coming soon.</p><p>Use longer-running Functions for work that needs more time to finish, including:</p><ul><li><p>Long LLM reasoning and tool calls</p></li><li><p>AI responses that stream for several minutes</p></li><li><p>Document and media processing</p></li><li><p>OCR and extracti",
-    "url": "https://vercel.com/changelog/vercel-functions-can-now-run-up-to-30-minutes",
-    "published": "",
-    "source": "Vercel Blog (v0)",
-    "source_weight": "high",
-    "category": "design_tools"
-  },
-  {
-    "title": "Auth0 joins the Vercel Marketplace",
-    "summary": "<p>You can now add <a href=\"https://vercel.com/marketplace/auth0\">Auth0</a> , a production-ready authentication to your Vercel app in just a few clicks. </p><p>Built for modern frameworks like Next.js, Auth0 is an identity and access management platform for securing your apps and agentic workflows. </p><p>This integration enables:</p><ul><li><p>Automatic provisioning of an Auth0 application that connects to your Vercel project</p></li><li><p>Out-of-the-box support for your Next.js applications u",
-    "url": "https://vercel.com/changelog/auth0-joins-the-vercel-marketplace",
-    "published": "",
-    "source": "Vercel Blog (v0)",
-    "source_weight": "high",
-    "category": "design_tools"
-  },
-  {
-    "title": "The Benefits Of Cognitive Inclusion In UX Research",
-    "summary": "Findings from an exploratory user research study highlighting the unique insights and practical UX recommendations shared by participants with cognitive disabilities.",
-    "url": "https://smashingmagazine.com/2026/06/benefits-cognitive-inclusion-ux-research/",
-    "published": "Wed, 10 Jun 2026 10:00:00 GMT",
-    "source": "Smashing Magazine",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Access is not mastery",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/access-is-not-mastery-bd59e0610828?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/750/0*klP6oWlnGLvl-3iA\" width=\"750\" /></a></p><p class=\"medium-feed-snippet\">The GUI democratized computing. The prompt interface democratized the GUI.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/access-is-not-mastery-bd59e0610828?source=rss----138adf9c44c---4\">Continue reading on UX",
-    "url": "https://uxdesign.cc/access-is-not-mastery-bd59e0610828?source=rss----138adf9c44c---4",
-    "published": "Sun, 14 Jun 2026 22:51:00 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "How difficult could it be to design a chatbot?",
-    "summary": "<h4>Harder than you think. And higher stakes than most people building them realise.</h4><figure><img alt=\"A creamy background with blue and orange ink spill, and a grid overlap — abstract\" src=\"https://cdn-images-1.medium.com/max/1024/1*PjMIbrcV6gmrBv1bg8qH2A.png\" /></figure><p>If you work in product, you probably care about NPS. Customer satisfaction. Retention. The usual levers. A culturally misaligned chatbot will hurt all of those — and that’s reason enough to care.</p><p>But here’s a findi",
-    "url": "https://uxdesign.cc/how-difficult-could-it-be-to-design-a-chatbot-5967e39563cc?source=rss----138adf9c44c---4",
-    "published": "Sun, 14 Jun 2026 12:18:02 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "What it really feels like to be a digital accessibility advocate",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/what-it-really-feels-like-to-be-a-digital-accessibility-advocate-07afc7e1d16f?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*dHs_YI01_J4FQm4U\" width=\"5760\" /></a></p><p class=\"medium-feed-snippet\">Why the quietest voice in the room is the one that can save your company from a multimillion-dollar lawsuit, a shattered brand reputation&#x2026;</p><p class=\"medium-feed-link\"><",
-    "url": "https://uxdesign.cc/what-it-really-feels-like-to-be-a-digital-accessibility-advocate-07afc7e1d16f?source=rss----138adf9c44c---4",
-    "published": "Sat, 13 Jun 2026 22:16:52 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "A shortlist of one: how AI became our shopping adviser",
-    "summary": "<h4><em>Search once returned a page of options. Now it delivers a verdict. That looks like convenience, but it is also a transfer of judgement, from us to a system we cannot inspect.</em></h4><p>A few years ago, buying an office chair meant suffering for it. You opened a dozen tabs, read strangers bickering about lumbar support, squinted at star ratings of dubious origin, and eventually committed to something while quietly suspecting you had chosen wrong. The work was tedious. It was also, in it",
-    "url": "https://uxdesign.cc/a-shortlist-of-one-how-ai-became-our-shopping-adviser-d55f43c411db?source=rss----138adf9c44c---4",
-    "published": "Sat, 13 Jun 2026 22:16:33 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "“What computers can’t do” — and what designers should",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/what-computers-cant-do-and-what-designers-should-d9d55c4fe2a1?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1024/1*JClaw6io4rw6JQk2nxiDLg.jpeg\" width=\"1024\" /></a></p><p class=\"medium-feed-snippet\">Don&#x2019;t skimp on the creative struggle. Improve your code literacy to elevate agentic execution.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/what-computers-cant-d",
-    "url": "https://uxdesign.cc/what-computers-cant-do-and-what-designers-should-d9d55c4fe2a1?source=rss----138adf9c44c---4",
-    "published": "Sat, 13 Jun 2026 09:26:57 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "The digital Kowloon",
-    "summary": "<h4>What a walled city in Hong Kong can teach us about the future of AI development. And why vibe coding might be a regression to the 1990s, with better tools.</h4><figure><img alt=\"An AI-generated illustration in an anime-inspired style depicting a humanoid robot and a female researcher in a white lab coat standing together in a narrow, dimly lit alleyway at night. The researcher holds a clipboard. The cramped lane is lined with weathered buildings, tangled overhead wires, neon signs in Chinese",
-    "url": "https://uxdesign.cc/the-digital-kowloon-0daa51df222f?source=rss----138adf9c44c---4",
-    "published": "Sat, 13 Jun 2026 09:26:02 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "The T-shaped UX professional is giving way to the polymath architect",
-    "summary": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*PNzXw_ulzxOO1Ji6BZ0C0A.png\" /><figcaption>One seat now does the work of the whole row. The shift the T-shaped model never planned for. Al assisted.</figcaption></figure><h4>What happens to UX specialists with narrow skills when AI collapses the distance between idea and execution, and depth alone no longer pays the rent? Here’s what you need to do.</h4><p><a href=\"https://en.wikipedia.org/wiki/Polymath\">Polymath</a> (n.): a pers",
-    "url": "https://uxdesign.cc/the-t-shaped-ux-professional-is-giving-way-to-the-polymath-architect-987008ada937?source=rss----138adf9c44c---4",
-    "published": "Mon, 15 Jun 2026 11:19:19 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Past form, future use",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/past-form-future-use-05b112952374?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*pRFF2RJWqrxzFD3DJjFnmw.png\" width=\"5774\" /></a></p><p class=\"medium-feed-snippet\">On letting fifty centimeters speak three hundred years</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/past-form-future-use-05b112952374?source=rss----138adf9c44c---4\">Continue reading on UX Collectiv",
-    "url": "https://uxdesign.cc/past-form-future-use-05b112952374?source=rss----138adf9c44c---4",
-    "published": "Mon, 15 Jun 2026 11:18:03 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "AI democratized the answer, not the understanding",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/ai-democratized-the-answer-not-the-understanding-5c12da448030?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*dydavvLr1FuFU5BCAcXrrg.png\" width=\"3600\" /></a></p><p class=\"medium-feed-snippet\">Producing an answer became efortless. Knowing whether it is right did not.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/ai-democratized-the-answer-not-the-understanding-",
-    "url": "https://uxdesign.cc/ai-democratized-the-answer-not-the-understanding-5c12da448030?source=rss----138adf9c44c---4",
-    "published": "Mon, 15 Jun 2026 11:17:44 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Fluent AI, Liquid Glass, flaw as a feature, AX Design",
-    "summary": "<h4>Weekly curated resources for designers — thinkers and makers.</h4><figure><a href=\"https://uxdesign.cc/ai-design-isnt-ugly-it-s-fluent-and-that-s-the-problem-131b2f4eb78c?sk=59956a70817b8543922d0b813df461f9\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/0*SUObJqEHd-9b0Keu.png\" /></a></figure><p>“I can usually tell when something was built by AI before I’ve read a word of it. There’s a face it wears: a centered hero with a confident headline and two buttons, rounded cards floating",
-    "url": "https://uxdesign.cc/fluent-ai-liquid-glass-flaw-as-a-feature-ax-design-4172e246cd8e?source=rss----138adf9c44c---4",
-    "published": "Mon, 15 Jun 2026 11:16:01 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "The Impact Of Humanoid Robots On Humanity",
-    "summary": "We have officially moved past the era of humanoid robots as mere public relations stunts. As they become increasingly lifelike, society may soon face profound social, psychological, and ethical challenges. What happens when the boundary between humans and machines becomes almost impossible to distinguish?",
-    "url": "https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/",
-    "published": "Fri, 12 Jun 2026 08:00:00 GMT",
-    "source": "Smashing Magazine",
-    "source_weight": "medium",
-    "category": "design_communities"
   }
 ]

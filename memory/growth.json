@@ -1,5 +1,5 @@
 {
-  "day_count": 53,
+  "day_count": 54,
   "history": [
     {
       "day": 20,
@@ -230,6 +230,13 @@
       "date": "2026-06-15",
       "topic": "MiniMax 开源 M3 模型权重及 MSA 技术论文",
       "source": "公众号：MiniMax（稀宇科技）",
+      "mode": "rss"
+    },
+    {
+      "day": 54,
+      "date": "2026-06-16",
+      "topic": "SpaceX 以 600 亿美元股票收购 AI 编程公司 Cursor",
+      "source": "TechCrunch：AI（RSS）",
       "mode": "rss"
     }
   ],

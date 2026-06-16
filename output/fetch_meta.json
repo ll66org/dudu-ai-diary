@@ -1,14 +1,14 @@
 {
-  "fetched_at": "2026-06-15T16:28:58.993560Z",
-  "total_candidates": 21,
+  "fetched_at": "2026-06-16T16:11:36.701776Z",
+  "total_candidates": 25,
   "source_stats": {
     "Figma Blog": {
       "found": 0,
       "total": 0
     },
     "Vercel Blog (v0)": {
-      "found": 2,
-      "total": 1219
+      "found": 1,
+      "total": 1221
     },
     "Cursor Changelog": {
       "found": 0,
@@ -44,15 +44,15 @@
     },
     "CSS-Tricks": {
       "found": 0,
-      "total": 15
+      "total": 0
     },
     "A List Apart": {
       "found": 0,
       "total": 20
     },
     "Hacker News (设计向)": {
-      "found": 0,
-      "total": 0
+      "found": 9,
+      "total": 20
     },
     "Product Hunt": {
       "found": 3,
@@ -64,27 +64,27 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 53,
-  "today_date": "2026-06-15",
+  "dudu_day": 54,
+  "today_date": "2026-06-16",
   "used_titles": [
-    "VoxCPM2 技术报告发布",
     "全新汽车品牌AIVA发布，火山引擎助力打造AI汽车新体验",
     "走进 Anthropic：这家估值 9650 亿美元的 AI 巨头",
     "Claude Fable 5 一句话生成桌面台球游戏",
     "MiniMax M3 开源权重模型发布，已上架 HuggingFace",
     "SemiAnalysis 洞察 Token 经济：200 美元 AI 订阅榨出 70 倍用量",
-    "Oran Ge 开源《人味儿写作心法.skill》解决AI写作缺人味"
+    "Oran Ge 开源《人味儿写作心法.skill》解决AI写作缺人味",
+    "MiniMax 开源 M3 模型权重及 MSA 技术论文"
   ],
   "used_tools": [
-    "X：面壁智能 OpenBMB (@OpenBMB)",
     "公众号：火山引擎",
     "Bloomberg：Technology（RSS）",
     "X：Vista (@vista8)",
     "X：MiniMax (@MiniMax_AI)",
     "IT之家（RSS）",
-    "X：Oran Ge (@oran_ge)"
+    "X：Oran Ge (@oran_ge)",
+    "公众号：MiniMax（稀宇科技）"
   ],
-  "briefing_total": 26,
-  "briefing_design": 6,
+  "briefing_total": 44,
+  "briefing_design": 19,
   "briefing_count": 5
 }
