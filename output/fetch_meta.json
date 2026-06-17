@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-16T16:11:36.701776Z",
+  "fetched_at": "2026-06-17T14:38:53.585103Z",
   "total_candidates": 25,
   "source_stats": {
     "Figma Blog": {
@@ -7,8 +7,8 @@
       "total": 0
     },
     "Vercel Blog (v0)": {
-      "found": 1,
-      "total": 1221
+      "found": 5,
+      "total": 1252
     },
     "Cursor Changelog": {
       "found": 0,
@@ -35,7 +35,7 @@
       "total": 40
     },
     "UX Collective": {
-      "found": 10,
+      "found": 9,
       "total": 10
     },
     "Designer News": {
@@ -43,15 +43,15 @@
       "total": 0
     },
     "CSS-Tricks": {
-      "found": 0,
-      "total": 0
+      "found": 1,
+      "total": 15
     },
     "A List Apart": {
       "found": 0,
       "total": 20
     },
     "Hacker News (设计向)": {
-      "found": 9,
+      "found": 11,
       "total": 20
     },
     "Product Hunt": {
@@ -64,27 +64,27 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 54,
-  "today_date": "2026-06-16",
+  "dudu_day": 55,
+  "today_date": "2026-06-17",
   "used_titles": [
-    "全新汽车品牌AIVA发布，火山引擎助力打造AI汽车新体验",
     "走进 Anthropic：这家估值 9650 亿美元的 AI 巨头",
     "Claude Fable 5 一句话生成桌面台球游戏",
     "MiniMax M3 开源权重模型发布，已上架 HuggingFace",
     "SemiAnalysis 洞察 Token 经济：200 美元 AI 订阅榨出 70 倍用量",
     "Oran Ge 开源《人味儿写作心法.skill》解决AI写作缺人味",
-    "MiniMax 开源 M3 模型权重及 MSA 技术论文"
+    "MiniMax 开源 M3 模型权重及 MSA 技术论文",
+    "SpaceX 以 600 亿美元股票收购 AI 编程公司 Cursor"
   ],
   "used_tools": [
-    "公众号：火山引擎",
     "Bloomberg：Technology（RSS）",
     "X：Vista (@vista8)",
     "X：MiniMax (@MiniMax_AI)",
     "IT之家（RSS）",
     "X：Oran Ge (@oran_ge)",
-    "公众号：MiniMax（稀宇科技）"
+    "公众号：MiniMax（稀宇科技）",
+    "TechCrunch：AI（RSS）"
   ],
-  "briefing_total": 44,
-  "briefing_design": 19,
+  "briefing_total": 65,
+  "briefing_design": 31,
   "briefing_count": 5
 }

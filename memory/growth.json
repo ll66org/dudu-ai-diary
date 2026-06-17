@@ -1,5 +1,5 @@
 {
-  "day_count": 54,
+  "day_count": 55,
   "history": [
     {
       "day": 20,
@@ -237,6 +237,13 @@
       "date": "2026-06-16",
       "topic": "SpaceX 以 600 亿美元股票收购 AI 编程公司 Cursor",
       "source": "TechCrunch：AI（RSS）",
+      "mode": "rss"
+    },
+    {
+      "day": 55,
+      "date": "2026-06-17",
+      "topic": "阿里云发布HappyOyster 1.0：一句话生成可实时交互的数字世界",
+      "source": "IT之家（RSS）",
       "mode": "rss"
     }
   ],
