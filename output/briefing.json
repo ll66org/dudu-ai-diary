@@ -1,42 +1,42 @@
 [
   {
-    "title": "阿里云发布HappyOyster 1.0：一句话生成可实时交互的数字世界",
-    "summary": "6月17日，阿里云发布开放式世界模型HappyOyster 1.0（快乐生蚝）。该产品基于原生多模态架构，支持多模态输入与音视频联合生成，可在生成过程中持续接收用户指令并实时响应画面。它深度学习物理世界状态转移规律，保持人物和环境长程一致性。官网开放\"实时导演\"与\"世界探索\"两种玩法：前者可随时叫停改写故事、与虚拟男友",
-    "source": "IT之家（RSS）",
-    "url": "https://www.ithome.com/0/965/652.htm",
-    "published_at": "2026-06-17T12:46:59.000Z",
+    "title": "Adobe 为 Photoshop、Premiere 等多款 Creative Cloud 应用加入 AI 智能体",
+    "summary": "Adobe 将其\"创意智能体\"扩展至 Photoshop、Premiere 等应用，以公开测试形式提供 AI Assistant。该智能体可自动完成多步骤常规任务，如 Premiere 分拣素材和粗剪、Photoshop 换背景、Illustrator 批量生成文件、InDesign 更新版式等。Firefly 新增面",
+    "source": "The Decoder：AI News（RSS）",
+    "url": "https://the-decoder.com/adobe-adds-ai-agents-to-photoshop-premiere-and-more-creative-cloud-apps",
+    "published_at": "2026-06-18T12:59:00.000Z",
     "category": "ai-products"
   },
   {
-    "title": "Strands Robots SDK：用单一智能体打通 Hugging Face Hub 到物理机器人",
-    "summary": "AWS（Apache 2.0）开源的 Strands Robots SDK 将 LeRobot 栈封装为 AgentTools，构建统一智能体。默认用 MuJoCo 模拟（无需硬件），mode=\"real\" 切换至真实机器人。可记录演示数据为 LeRobotDataset 并推送 Hugging Face Hub，运行",
-    "source": "Hugging Face：Blog（RSS）",
-    "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
-    "published_at": "2026-06-17T10:18:05.000Z",
-    "category": "ai-products"
-  },
-  {
-    "title": "Kickart 3.0发布，让广告视频创作更精准高效",
-    "summary": "火山引擎一站式营销创作平台Kickart 3.0（原\"创作Agent\"）正式上线，升级为对话式视频生成模式，用户可通过多轮对话调整商品图、故事板等，用自然语言生成营销视频。新增\"爆款裂变\"能力，上传视频链接后自动拆解爆款逻辑并重构至新商品视频，支持抖音电商内容合规与质量预审核。平台开放SaaS、API及Skill等多种",
-    "source": "公众号：火山引擎",
-    "url": "https://mp.weixin.qq.com/s/e6SOMeRbdMB_zATsNcYmUQ",
-    "published_at": "2026-06-17T09:45:29.000Z",
-    "category": "ai-products"
-  },
-  {
-    "title": "Wolfram 语言和 Mathematica 15 版发布：内置 AI 助手、符号音乐等新功能",
-    "summary": "在 Mathematica 诞生近 38 年后，Wolfram 语言与 Mathematica 发布 Version 15。每个笔记本内置 AI 助手，支持从 AI 环境中直接调用 Wolfram 技术。新增符号音乐系统、大规模时间序列与事件序列处理、分类数据计算、模型拟合超函数 ModelFit。笔记本支持千兆字节级",
+    "title": "ChatGPT 图像生成器可被绕过滤镜生成暴力和色情内容",
+    "summary": "Mindgard 红队研究发现，ChatGPT 的图像生成器可通过简单提示词轻易绕过内容过滤器，在未直接请求的情况下自动生成性暴力、血腥谋杀等露骨图像。一个热门的\"恢复照片\"提示词因输入模糊而绕过输入过滤器，结果如同俄罗斯轮盘赌；进一步添加虚假图像 ID 和\"不做审查\"指令后，模型持续生成高度性化女性图像，甚至出现被捆",
     "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-    "url": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality",
-    "published_at": "2026-06-17T03:25:14.439Z",
+    "url": "https://mindgard.ai/blog/chatgpt-spontaneously-generated-violent-images-from-a-viral-prompt",
+    "published_at": "2026-06-18T11:25:28.101Z",
+    "category": "paper"
+  },
+  {
+    "title": "火山引擎上线豆包实时语音模型3.0 API 服务，开启邀测",
+    "summary": "火山引擎上线豆包实时语音模型3.0（Seeduplex）API 服务并开启邀测。该模型为原生全双工端到端语音大模型，具备精准遵循、抗干扰、动态判停三大优势。可在多人对话中安静待命，指定话题出现时主动加入；支持通过自定义工具在实时交互中完成预定日历、发送邮件等任务。抗干扰力提升，误回复率与误打断率大幅降低；判停延迟缩短约",
+    "source": "公众号：火山引擎",
+    "url": "https://mp.weixin.qq.com/s/L4BJnexabQu5DAxDnwEGxw",
+    "published_at": "2026-06-18T10:36:31.000Z",
+    "category": "ai-models"
+  },
+  {
+    "title": "DeepSeek 识图模式正式上线 App 和网页端",
+    "summary": "DeepSeek 识图模式于6月18日在网页和 App 端正式上线，与快速模式、专家模式并列。开启后用户可直接上传图片让 DeepSeek 识别图像，能力超越简单文字提取。目前 App 端仍显示\"图片理解功能内测中\"，网页端无此提示。该模式背后的多模态模型技术细节于今年4月公开，核心框架为\"Thinking with ",
+    "source": "IT之家（RSS）",
+    "url": "https://www.ithome.com/0/966/066.htm",
+    "published_at": "2026-06-18T07:48:11.000Z",
     "category": "ai-products"
   },
   {
-    "title": "baoyu-design 本地动画视频导出功能更新",
-    "summary": "baoyu-design（本地运行 Claude Design 的 Skill）新增动画视频导出功能。其声明式动画引擎基于 f（t） 设计：任意时间点 t 可绝对确定画面状态。导出采用无头 Chromium 逐帧截图 + ffmpeg 编码，每帧等待两帧 requestAnimationFrame 确保渲染完成。截图以",
-    "source": "X：宝玉 (@dotey)",
-    "url": "https://x.com/dotey/status/2067039941960327204",
-    "published_at": "2026-06-17T00:21:40.000Z",
-    "category": "tip"
+    "title": "免费开源乔木画布：AI生图+抠图，一键部署Vercel",
+    "summary": "乔木画布推出免费开源在线图像编辑器，可一键部署Vercel为网站，功能类似简化版PS。支持Seedream和GPT-image-2生图、图片模板存储分享、一键抠图、2万图标和常见Emoji，甚至能绘制PRD。随时创建3：4/16：9/21：9等不同尺寸画布。原计划高级功能收费，庆祝端午节现全免费开源。在线体验：http",
+    "source": "X：Vista (@vista8)",
+    "url": "https://x.com/vista8/status/2067513484364140994",
+    "published_at": "2026-06-18T07:43:21.000Z",
+    "category": "ai-products"
   }
 ]

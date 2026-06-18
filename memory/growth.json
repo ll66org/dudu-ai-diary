@@ -1,5 +1,5 @@
 {
-  "day_count": 55,
+  "day_count": 56,
   "history": [
     {
       "day": 20,
@@ -244,6 +244,13 @@
       "date": "2026-06-17",
       "topic": "阿里云发布HappyOyster 1.0：一句话生成可实时交互的数字世界",
       "source": "IT之家（RSS）",
+      "mode": "rss"
+    },
+    {
+      "day": 56,
+      "date": "2026-06-18",
+      "topic": "Adobe 为 Photoshop、Premiere 等多款 Creative Cloud 应用加入 AI 智能体",
+      "source": "The Decoder：AI News（RSS）",
       "mode": "rss"
     }
   ],
