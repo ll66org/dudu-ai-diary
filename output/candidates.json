@@ -1,57 +1,156 @@
 [
   {
-    "title": "Show HN: Gorchestra – resume local AI coding sessions from your phone",
-    "summary": "<p>i've been dogfooding some version of this idea for a few weeks now and i'd thought i'd share my re-implementation from this weekend. basically it's a webserver that controls and unlimited amount of codex (preferred) or claude agents. it allows me to context switch more easily, as well as kick off tasks and instruct agents while i'm away from my desk. the storage is sqlite and persistent, regardless of agent status. for codex you can upload images and queue messages just like the CLI. i'm on m",
-    "url": "https://github.com/jgennari/gorchestra",
-    "published": "Thu, 18 Jun 2026 14:18:43 +0000",
+    "title": "Sashiko: AI code review system for the Linux kernel",
+    "summary": "<p>Article URL: <a href=\"https://www.theregister.com/software/2026/03/20/linux-kernel-engineer-introduces-sashiko-code-review-system/5223725\">https://www.theregister.com/software/2026/03/20/linux-kernel-engineer-introduces-sashiko-code-review-system/5223725</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48598499\">https://news.ycombinator.com/item?id=48598499</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+    "url": "https://www.theregister.com/software/2026/03/20/linux-kernel-engineer-introduces-sashiko-code-review-system/5223725",
+    "published": "Fri, 19 Jun 2026 13:43:02 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "PostFast MCP – schedule social posts to 11 platforms from Claude/Cursor/ChatGPT",
-    "summary": "<p>Article URL: <a href=\"https://github.com/peturgeorgievv-factory/postfast-mcp\">https://github.com/peturgeorgievv-factory/postfast-mcp</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48584837\">https://news.ycombinator.com/item?id=48584837</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
-    "url": "https://github.com/peturgeorgievv-factory/postfast-mcp",
-    "published": "Thu, 18 Jun 2026 13:16:48 +0000",
+    "title": "Linux Maintainer Greg Kroah-Hartman Says AI Tools Now Useful, Finding Real Bugs",
+    "summary": "<p>Article URL: <a href=\"https://www.theregister.com/software/2026/03/26/linux-kernel-czar-says-ai-bug-reports-arent-slop-anymore/5226256\">https://www.theregister.com/software/2026/03/26/linux-kernel-czar-says-ai-bug-reports-arent-slop-anymore/5226256</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48598086\">https://news.ycombinator.com/item?id=48598086</a></p>\n<p>Points: 6</p>\n<p># Comments: 1</p>",
+    "url": "https://www.theregister.com/software/2026/03/26/linux-kernel-czar-says-ai-bug-reports-arent-slop-anymore/5226256",
+    "published": "Fri, 19 Jun 2026 13:01:52 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Show HN: Know which AI coding tools/MCPs/etc. are used to ship software",
-    "summary": "<p>Eng leaders lack visibility into which tools are being used to build software. This is the first scanner of its kind to provide repo-level evidence.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48584626\">https://news.ycombinator.com/item?id=48584626</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
-    "url": "https://blog.codacy.com/the-visibility-problem-behind-ai-tool-adoption-in-engineering-teams",
-    "published": "Thu, 18 Jun 2026 12:59:11 +0000",
+    "title": "UK's top data and AI regulator quits after 'inappropriate' humour",
+    "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c0eyq7rnn22o\">https://www.bbc.com/news/articles/c0eyq7rnn22o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48597976\">https://news.ycombinator.com/item?id=48597976</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "url": "https://www.bbc.com/news/articles/c0eyq7rnn22o",
+    "published": "Fri, 19 Jun 2026 12:49:28 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Show HN: Vessel – Portable app files (UI, FastAPI, SQLite) like .xlsx for tools",
-    "summary": "<p>Article URL: <a href=\"https://getvessel.dev\">https://getvessel.dev</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48584392\">https://news.ycombinator.com/item?id=48584392</a></p>\n<p>Points: 4</p>\n<p># Comments: 1</p>",
-    "url": "https://getvessel.dev",
-    "published": "Thu, 18 Jun 2026 12:35:19 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "The Open Source Alternative to Claude Design",
-    "summary": "<p>Article URL: <a href=\"https://www.motionscript.dev/\">https://www.motionscript.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48584300\">https://news.ycombinator.com/item?id=48584300</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
-    "url": "https://www.motionscript.dev/",
-    "published": "Thu, 18 Jun 2026 12:26:17 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Adobe 为 Photoshop、Premiere 等多款 Creative Cloud 应用加入 AI 智能体",
-    "summary": "Adobe 将其\"创意智能体\"扩展至 Photoshop、Premiere 等应用，以公开测试形式提供 AI Assistant。该智能体可自动完成多步骤常规任务，如 Premiere 分拣素材和粗剪、Photoshop 换背景、Illustrator 批量生成文件、InDesign 更新版式等。Firefly 新增面向个人创作者的品牌套件、产品图转短视频及 Quick Cut 自动剪辑功能。Adobe 工具已集成至 ChatGPT、Claude 及 Microsoft 365 Copilot，Google Gemini 和 Slack 集成即将推出。",
-    "url": "https://the-decoder.com/adobe-adds-ai-agents-to-photoshop-premiere-and-more-creative-cloud-apps",
-    "published": "2026-06-18T12:59:00.000Z",
-    "source": "The Decoder：AI News（RSS）",
+    "title": "Cloudflare 为 AI 智能体推出临时账户",
+    "summary": "Cloudflare 在 Workers 上推出临时账户（Temporary Accounts），允许 AI 智能体直接运行 `wrangler deploy --temporary`，在数秒内获取一个可用的实时 Worker，无需绕开面向人类设计的部署流程。该功能旨在降低智能体部署门槛。",
+    "url": "https://blog.cloudflare.com/temporary-accounts",
+    "published": "2026-06-19T13:00:00.000Z",
+    "source": "Cloudflare Blog",
     "source_weight": "high",
     "category": "ai-products"
+  },
+  {
+    "title": "/youtube-notetaker：YT 视频转 Artifacts",
+    "summary": "YT 视频 -> Artifacts\n\n看看我如何使用新的 /youtube-notetaker 技能从 YT 视频生成 Artifacts。\n\n捕获幻灯片、笔记、转录内容……\n\n快去试试 ↓",
+    "url": "https://x.com/omarsar0/status/2067952726282031411",
+    "published": "2026-06-19T12:48:45.000Z",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "Humanize PPT v0.9：为演讲而生的开源PPT Skill",
+    "summary": "Humanize PPT v0.9 是一款专为演讲场景设计的PPT Skill，核心通过AST（Audience， State， Transfer）逻辑重新编排大纲，将页面渲染外包给下游Skill。渲染前先输出4张真实预览页，并将图片、视频素材的占位与生成prompt写入大纲。新增质检环节自动修复常见渲染问题，并支持演讲模式：按S键在独立窗口显示演讲稿备注，按ESC键打开全局索引快速跳页。项目已开源至github.com/LearnPrompt/humanize-ppt，由卡尔 & yc星辰开发。",
+    "url": "https://mp.weixin.qq.com/s/rGoYnUcBRkfRKQPbIaawyg",
+    "published": "2026-06-19T09:48:28.000Z",
+    "source": "公众号：卡尔的AI沃茨",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "我们在 Elasticsearch 上构建了一个持久化代理内存层，其召回率为0.89",
+    "summary": "Agent Builder 正式上市（GA）。基于 Elasticsearch 的持久化内存层将记忆分为情景、语义、程序三类，分别存入独立索引，各设不同写速率与过期规则。召回采用 BM25 与 Jina v5 稠密向量的 RRF 融合，再经交叉编码器重排序。在 168 道 QA 题评估中，R@10 平均 0.89，零跨租户泄漏。该层可通过支持 MCP 协议的客户端访问，不绑定特定运行时，已开源至 GitHub。",
+    "url": "https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch",
+    "published": "2026-06-19T05:01:18.006Z",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "阿里开源向量数据库Zvec，UCSD黄碧薇教授提出因果AI第四代范式",
+    "summary": "阿里开源内部向量数据库Zvec，pip install zvec免费使用，对标Pinecone每月70美元能力。支持十亿向量毫秒级检索，无需单独起服务，全平台兼容；v0.5.0新增原生全文混合搜索。UCSD黄碧薇教授（causal-learn作者）提出AI四代范式：相关性小模型→因果小模型→相关性大模型（LLM）→因果大模型，认为当前正站在第四代门口。其创立的Aether AI完成首轮融资，致力于从视频中自动抽取物理规律，探索下一代因果AI范式。",
+    "url": "https://x.com/AYi_AInotes/status/2067832098816250346",
+    "published": "2026-06-19T04:49:25.000Z",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "DeepSeek研究员开源AutoResearch：AI自主跑通285B模型RL研究闭环",
+    "summary": "DeepSeek研究员Deli Chen将AutoResearch协议开源，并发布Self-play综述论文。其AI智能体首次完全自主地在DeepSeek 285B模型上完成完整RL研究闭环--从实验设计、写代码、提交GPU任务、debug到结论总结，全程零人工干预。系统调用了GRPO工具，被视为持续学习研究的开端。",
+    "url": "https://x.com/AYi_AInotes/status/2067819352926150953",
+    "published": "2026-06-19T03:58:46.000Z",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "Midjourney Scanner",
+    "summary": "<p>\n            60 second ultrasound-based full-body scanner that beats MRI\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/midjourney?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1175715?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/midjourney",
+    "published": "2026-06-18T20:18:43-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Claude Code 现已支持 artifacts",
+    "summary": "从今日起，Claude Code 可将工作进度生成为 artifacts--实时、可分享的交互式网页，涵盖 PR 走查、系统说明、仪表盘、发布清单等。artifacts 基于会话完整上下文（代码库、连接器、对话）自动构建，更新时页面原地刷新，同事即时可见。默认仅作者可见，可分享给组织内成员，由管理员通过组织层级开关和角色权限管控。内部测试中最常见用例为调试：工程师调查事件，Claude Code 分析日志并发布包含时间线、嫌疑提交和错误率图表的 artifact，团队无需再\"走过场式汇报\"。",
+    "url": "https://claude.com/blog/artifacts-in-claude-code",
+    "published": "2026-06-18T18:54:47.698Z",
+    "source": "Claude：Blog（网页）",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "OpenAI 强化学习实现广泛且持久的有益模型",
+    "summary": "OpenAI 通过强化学习在真实对话场景中训练模型，使其展现诚实、认知谦逊、元认知透明、可纠正性、普遍公平性和对人类福祉的关心等有益特质。训练数据涵盖健康、教育、科学、法律、工程等多个领域。训练后模型在数十项独立对齐评测（包括奖励黑客、欺骗、有害建议、规范遵从等）上均表现提升，且这种改善泛化到未参与训练的领域、任务和评分设定。在对抗性提示或微调下，模型仍难以被导向有害行为，表明有益特质强化学习可产生广泛且持久的对齐泛化。",
+    "url": "https://alignment.openai.com/beneficial-rl",
+    "published": "2026-06-18T18:00:00.000Z",
+    "source": "OpenAI：Alignment 研究博客（RSS）",
+    "source_weight": "high",
+    "category": "paper"
+  },
+  {
+    "title": "Claude Enterprise 推出企业托管 MCP 连接器授权管理",
+    "summary": "Claude Enterprise 推出企业托管授权功能，管理员可通过身份提供商（率先支持 Okta）为整个组织配置 MCP 连接器。用户首次登录 Claude 时自动获得授权，无需手动操作，实现零接触设置。该功能基于 Model Context Protocol 的 Enterprise-Managed Authorization 扩展构建，支持 Asana、Atlassian、Canva、Figma、Granola、Linear、Supabase 等 MCP 提供商，Slack 即将支持。授权管理集成到现有 IdP 工作流中，可按组限定范围、通过 IdP 快速撤销授权，并支持要求连接器仅通过 IdP 连接以隔离工作与个人使用。",
+    "url": "https://claude.com/blog/enterprise-managed-auth",
+    "published": "2026-06-18T17:51:29.795Z",
+    "source": "Claude：Blog（网页）",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "驾驭 Claude Code：CLAUDE.md、技能、钩子、规则、子智能体等",
+    "summary": "Claude Code 提供七种自定义指令方式：CLAUDE.md（根目录始终加载，子目录按需加载）、规则（无范围或路径范围）、技能（按需调用，共享 token 预算）、子智能体（隔离上下文运行并返回最终消息）、钩子（生命周期事件触发，绕过压缩）、输出样式（注入系统提示，永不压缩）和附加系统提示（CLI 标志，仅单次有效）。每种方式在加载时机、压缩行为、上下文成本和适用场景上各有不同，例如 CLAUDE.md 适合存放构建命令与编码规范，路径范围规则避免无关上下文消耗，子智能体用于并行隔离任务，钩子用于确定性自动化（如运行 linter 或备份聊天记录）。",
+    "url": "https://claude.com/blog/steering-claude-code-skills-hooks-rules-subagents-and-more",
+    "published": "2026-06-18T17:51:29.795Z",
+    "source": "Claude：Blog（网页）",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "Anthropic Project Fetch 第二阶段：Claude Opus 4.7 自主完成任务，速度比人类团队快约20倍",
+    "summary": "Anthropic 发布 Project Fetch 实验第二阶段结果。在2024年8月原始实验中，配备 Claude Opus 4.1 的人类团队在操控四足机器人时显著超越无 AI 团队。新实验中，Claude Opus 4.7 无需人类协助即完成所有任务，速度比最快人类团队快约20倍，比无 Claude 团队快37倍以上，编码量减少近10倍。模型在传感器连接、路径规划等环节表现出色，但在精确移动沙滩球等闭环控制任务上仍存在困难。这些进展源于通用模型规模化，而非针对机器人领域的专项优化。",
+    "url": "https://www.anthropic.com/research/project-fetch-phase-two",
+    "published": "2026-06-18T16:22:33.561Z",
+    "source": "Anthropic：Research（发表成果 · 网页）",
+    "source_weight": "high",
+    "category": "paper"
+  },
+  {
+    "title": "如何将 SillyTavern 连接到 OpenRouter（2026 指南）",
+    "summary": "一个 OpenRouter API 密钥即可在 SillyTavern 的下拉菜单中解锁 300 多个模型，其中许多免费。指南包含五步连接流程、推荐尝试的角色扮演模型以及常见错误的修复方法。",
+    "url": "https://openrouter.ai/blog/tutorials/sillytavern-openrouter",
+    "published": "2026-06-18T15:00:00.000Z",
+    "source": "OpenRouter：Announcements（RSS）",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "Nature两篇研究：MIRA和AMIE诊断与治疗计划媲美甚至超越医生",
+    "summary": "德国团队开发的MIRA智能体在模拟电子病历中操作85，000种选项，500余例急诊诊断准确率88.9%，对比测试（311例）得分87.8%，高于资深专科医生（78.1%）和混合团队（71.1%）。MIRA在阑尾炎（98.6%）和胰腺炎（92.3%）最佳，未发现危险药物交互或剂量错误，性能不受语言影响，代码已公开。谷歌AMIE采用双智能体架构，在100个多访视病例中治疗计划适切率95%（初级保健医生72%），并在药物知识基准RxQA上超过医生。两项研究均警告模拟环境与现实存在差距，实际性能可能更低。",
+    "url": "https://the-decoder.com/ai-systems-rival-doctors-in-new-nature-studies-but-one-result-suggests-the-tech-wont-age-well",
+    "published": "2026-06-18T14:37:06.000Z",
+    "source": "The Decoder：AI News（RSS）",
+    "source_weight": "high",
+    "category": "paper"
   },
   {
     "title": "ChatGPT 图像生成器可被绕过滤镜生成暴力和色情内容",
@@ -63,148 +162,13 @@
     "category": "paper"
   },
   {
-    "title": "火山引擎上线豆包实时语音模型3.0 API 服务，开启邀测",
-    "summary": "火山引擎上线豆包实时语音模型3.0（Seeduplex）API 服务并开启邀测。该模型为原生全双工端到端语音大模型，具备精准遵循、抗干扰、动态判停三大优势。可在多人对话中安静待命，指定话题出现时主动加入；支持通过自定义工具在实时交互中完成预定日历、发送邮件等任务。抗干扰力提升，误回复率与误打断率大幅降低；判停延迟缩短约250ms，复杂场景抢话比例下降40%，用户主动打断延迟缩短约300ms。适用于汽车智能座舱、智能硬件、智能客服等场景。",
-    "url": "https://mp.weixin.qq.com/s/L4BJnexabQu5DAxDnwEGxw",
-    "published": "2026-06-18T10:36:31.000Z",
-    "source": "公众号：火山引擎",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "DeepSeek 识图模式正式上线 App 和网页端",
-    "summary": "DeepSeek 识图模式于6月18日在网页和 App 端正式上线，与快速模式、专家模式并列。开启后用户可直接上传图片让 DeepSeek 识别图像，能力超越简单文字提取。目前 App 端仍显示\"图片理解功能内测中\"，网页端无此提示。该模式背后的多模态模型技术细节于今年4月公开，核心框架为\"Thinking with Visual Primitives（以视觉原语思考）\"。",
-    "url": "https://www.ithome.com/0/966/066.htm",
-    "published": "2026-06-18T07:48:11.000Z",
-    "source": "IT之家（RSS）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "免费开源乔木画布：AI生图+抠图，一键部署Vercel",
-    "summary": "乔木画布推出免费开源在线图像编辑器，可一键部署Vercel为网站，功能类似简化版PS。支持Seedream和GPT-image-2生图、图片模板存储分享、一键抠图、2万图标和常见Emoji，甚至能绘制PRD。随时创建3：4/16：9/21：9等不同尺寸画布。原计划高级功能收费，庆祝端午节现全免费开源。在线体验：https：//ps.qiaomu.ai/，GitHub见评论区。",
-    "url": "https://x.com/vista8/status/2067513484364140994",
-    "published": "2026-06-18T07:43:21.000Z",
-    "source": "X：Vista (@vista8)",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "首个统一科学大模型 LOGOS 正式开源",
-    "summary": "LOGOS 由 ATH-Token Foundry 联合中国人民大学高瓴人工智能学院开源，是首个基于统一\"科学语法\"的多领域科学生成基础模型。LOGOS-1B（1B参数）在六大科学任务上匹配或超越领域专用方法：口袋条件配体生成纯序列范式首次超越3D扩散模型，超越NatureLM（8×7B）；逆合成预测Top-1准确率74.8%；口袋位点识别仅靠序列达58.5% Top-n准确率；MOF材料生成NBB提升至17.78%。模型采用统一词汇表将蛋白质、小分子等编码为离散Token，通过空间交互离散化实现无需3D坐标的序列预测。预训练与下游任务形式与目标一致，跨领域知识迁移经实验验证有效。已完整开源模型权重、推理代码与技术报告。",
-    "url": "https://mp.weixin.qq.com/s/50q5uY849FKnBzk1Q04MRg",
-    "published": "2026-06-18T02:31:28.000Z",
-    "source": "公众号：通义实验室（千问）",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "深入解析 Midjourney Scanner 技术内幕",
-    "summary": "我们全新\"Midjourney Scanner\"的技术深潜。",
-    "url": "https://x.com/midjourney/status/2067422898407837797",
-    "published": "2026-06-18T01:43:24.000Z",
-    "source": "X：Midjourney (@midjourney)",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "苹果 Xcode 27 核心首次深度集成 AI 智能体：支持自然语言修 Bug、构建 App",
-    "summary": "在 2026 年 WWDC 期间，苹果发布 Xcode 27，其核心组件首次整合 AI 智能体，能理解 Swift 语言并通过多轮自然语言对话辅助开发。AI 可跨多个文件修改整个代码库，也能根据提示与资源生成应用设计并独立构建完整应用，建成后仍可通过对话添加特效、动画等。Xcode 27 支持接入 Anthropic、OpenAI 和 Google 等第三方 AI 模型，同时引入 Core AI 框架提供现代 Swift API 调用端侧模型，并升级开源框架 MLX。",
-    "url": "https://www.ithome.com/0/965/734.htm",
-    "published": "2026-06-18T00:43:26.000Z",
-    "source": "IT之家（RSS）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Claude Code v2.1.181 发布",
-    "summary": "Claude Code v2.1.181 发布，新增 `/config key=value` 语法允许在提示中直接设置任意配置项，新增 `sandbox.allowAppleEvents` 选项使沙盒命令支持 Apple Events，新增 `CLAUDE_CLIENT_PRESENCE_FILE` 环境变量用于抑制移动端推送通知。内置 Bun 运行时升级至 1.4，改进了长段落流式输出（逐行显示）和 API 连接中断后自动重试。子 agent 面板优化：空闲 agent 30 秒自动隐藏、列表最多 5 行。修复了提示缓存读取、Write/Edit 在网络驱动器产生 0 字节文件、启动性能回归（约 120ms）、启动阻塞（最长 15 秒）、macOS TUI 冻结、子 agent 时长显示错误、API 重试指示器残留、AWS 凭证刷新等问题。",
-    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.181",
-    "published": "2026-06-17T22:07:41.000Z",
-    "source": "Claude Code：GitHub Releases（RSS）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Google 分享 A2UI 与 MCP Apps 三种集成架构模式",
-    "summary": "Google 分享了三种集成 A2UI 与 MCP Apps 的架构模式，旨在结合两者优势。A2UI 采用声明式框架，通过 JSON payload 定义 UI，由宿主原生渲染，确保一致性与安全性，但受限于预定义组件库。MCP Apps 在 iframe 中使用标准 Web 技术提供自定义界面，但存在设计碎片化、性能与安全挑战。三种模式包括：通过 MCP 服务器提供 A2UI，利用 MCP Resources 或 Tool 调用传递 JSON，实现\"一次编写，原生渲染\"的跨平台能力；以及静态与动态交付方案。Google 正考虑扩展 MCP 以原生支持 A2UI。",
-    "url": "https://developers.googleblog.com/a2ui-and-mcp-apps",
-    "published": "2026-06-17T21:13:53.385Z",
-    "source": "Google Developers Blog（RSS）",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "借助 Workload Identity Federation 安全访问 Claude Platform",
-    "summary": "Workload Identity Federation （WIF） 已在 Claude Platform 上全面可用。WIF 兼容任何 OIDC 身份提供者，覆盖所有 Claude API 端点（包括第一方 SDK 和 Claude Code）。WIF 用短生命期凭证替代静态 API 密钥，并引入服务账户，每个工作负载拥有独立身份、角色和审计日志。Claude Console 提供引导设置流程，支持 Admin API 进行组织管理。API 密钥可并行使用以便逐步迁移。",
-    "url": "https://claude.com/blog/workload-identity-federation",
-    "published": "2026-06-17T20:44:36.833Z",
-    "source": "Claude：Blog（网页）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Claude Design 更新：跨项目保持品牌一致，与Claude Code协同",
-    "summary": "6月17日，Claude Design 更新，支持跨项目使用统一设计系统，并与Claude Code同步工作流。用户可直接拖拽、对齐和缩放画布元素，编辑器稳定性大幅提升。设计系统可从GitHub、设计文件或原始上传导入，团队管理员可锁定标准系统防止篡改。新增桌面端侧边栏入口及独立网页端claude.ai/design。使用限制与聊天、Claude Cowork、Claude Code共享，每次任务消耗更少token，错误率下降。支持导出PDF、PPT，集成Adobe、Canva、Gamma等工具。发布首周用户超一百万。",
-    "url": "https://claude.com/blog/claude-design-stays-on-brand-for-daily-work",
-    "published": "2026-06-17T20:44:36.833Z",
-    "source": "Claude：Blog（网页）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "AI‑Native eCommerce Infrastructure",
-    "summary": "<p>\n            A unified control plane for Magento with Claude Code web\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/ai-native-ecommerce-infrastructure?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1174814?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/ai-native-ecommerce-infrastructure",
-    "published": "2026-06-17T20:12:56-07:00",
+    "title": "Claude Code Artifacts",
+    "summary": "<p>\n            Preview and share your coding work live as it happens\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/claude-redesigned?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1175474?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/claude-redesigned",
+    "published": "2026-06-18T11:14:11-07:00",
     "source": "Product Hunt",
     "source_weight": "high",
     "category": "ai_tech"
-  },
-  {
-    "title": "Claude Design与Replit联动，设计变应用",
-    "summary": "在Claude中设计。在Replit中构建。\n\n你现在可以将Claude Design中的设计发送到Replit，将其变成一个可工作的应用。",
-    "url": "https://x.com/Replit/status/2067328501003497684",
-    "published": "2026-06-17T19:28:18.000Z",
-    "source": "X：Replit (@Replit)",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Matt Pocock 开源 skills v1：将技能描述 Token 成本降低 63%",
-    "summary": "Matt Pocock（Total TypeScript 作者）开源了 skills v1，将技能描述的 Token 成本降低 63%。该工具包将技能分为模型可调用和用户可调用，新增 /codebase-design、/domain-modeling、/grilling 三项技能；重写 /writing-great-skills；将 /diagnose 更新为 /diagnosing-bugs 并改为模型可调用；新增 /ask-matt 路由技能，帮助 AI 自动判断时机触发合适工程流程。主推文评价其将 prompt 从咒语拆解为纪律性流程。",
-    "url": "https://x.com/AYi_AInotes/status/2067327021005656135",
-    "published": "2026-06-17T19:22:25.000Z",
-    "source": "X：阿易 AI Notes (@AYi_AInotes)",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "Tine",
-    "summary": "<p>\n            An AI desktop cursor that does the work for you\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/tine-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1174779?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/tine-2",
-    "published": "2026-06-17T18:31:22-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Vercel 发布开源 AI 智能体框架 Eve：每个智能体就是一个文件目录",
-    "summary": "Vercel 发布开源 AI 智能体框架 Eve（npm 包，Apache-2.0 许可）。Eve 采用文件系统优先设计：每个智能体对应一个磁盘目录，目录结构直接映射模型、指令、工具、技能、连接、子智能体等能力，无需额外注册代码。内置六大生产级能力：持久执行（每步检查点，崩溃后可恢复）、沙箱计算、人机审批、安全连接（支持 MCP 和 OpenAPI）、多通道（Slack、Discord、Teams 等）以及追踪与评估（OpenTelemetry）。Vercel 内部运行了上百个智能体，包括数据分析工具 d0（月处理超3万查询）、自动销售代理 Lead Agent（年费约5000美元、回报32倍）和支持智能体 Vertex（自主解决92%工单）。",
-    "url": "https://www.marktechpost.com/2026/06/17/vercel-releases-eve",
-    "published": "2026-06-17T17:22:51.000Z",
-    "source": "MarkTechPost（RSS）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Vercel Ship 2026 recap",
-    "summary": "<p>For a decade, Vercel has shaped how the web is built. Now, we’re doing the same for agents. The companies that win the next decade will build on infrastructure designed for agents from the start, and over 2,500 people gathered in London this week to do just that at Vercel Ship 2026.</p><h2>Agentic infrastructure </h2><p>Guillermo kicked off Ship by sharing his vision for Vercel: a true full-stack platform where you can deploy anything, including software that can think. </p><div></div><p><a h",
-    "url": "https://vercel.com/blog/vercel-ship-2026-recap",
-    "published": "",
-    "source": "Vercel Blog (v0)",
-    "source_weight": "high",
-    "category": "design_tools"
   },
   {
     "title": "A2UI under the hood: Designing for the new era of radically adaptive UI",
@@ -221,6 +185,42 @@
     "url": "https://smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/",
     "published": "Tue, 16 Jun 2026 15:00:00 GMT",
     "source": "Smashing Magazine",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "How one of the oldest design portfolio formats needs to change in 2026",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/how-one-of-the-oldest-design-portfolio-formats-needs-to-change-in-2026-b64137494f6a?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*HxzNxXDf5fvFf4QSfLu7OA.jpeg\" width=\"6180\" /></a></p><p class=\"medium-feed-snippet\">There&#x2019;s a better version of the before/after that shows what employers want.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/how-one-of-the-ol",
+    "url": "https://uxdesign.cc/how-one-of-the-oldest-design-portfolio-formats-needs-to-change-in-2026-b64137494f6a?source=rss----138adf9c44c---4",
+    "published": "Tue, 16 Jun 2026 11:41:16 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "The hidden UX of payments",
+    "summary": "<h4>Trust in financial products isn’t built by branding. It’s won or lost in micro-moments most teams never design on purpose.</h4><figure><img alt=\"Illustration of a man pausing thoughtfully over a phone payment, with panels showing moments of a payment journey\" src=\"https://cdn-images-1.medium.com/max/1024/1*W6Nme4_jxSMcQFfH0Hkx8Q.jpeg\" /><figcaption>Illustration generated by AI</figcaption></figure><p>I’ve spent thirteen years designing financial and technical products. Six at PayPal, and alm",
+    "url": "https://uxdesign.cc/the-hidden-ux-of-payments-22b97440be16?source=rss----138adf9c44c---4",
+    "published": "Tue, 16 Jun 2026 11:40:10 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "One skill separates the designers who survive 2026 from the ones who don’t",
+    "summary": "<h4><em>AI is putting the future of UX designers in jeopardy, unless they are willing to become builders, makers, and system thinkers.</em></h4><figure><img alt=\"Illustration of a large office building positioned between two conveyor belts. On the left, three humanoid robots stand on a conveyor belt moving toward the building. On the right, three human workers stand on a conveyor belt carrying boxes away from the building. The black-and-white hand-drawn illustration symbolizes AI and automation ",
+    "url": "https://uxdesign.cc/one-skill-separates-the-designers-who-survive-2026-from-the-ones-who-dont-f4dec8c3ffe0?source=rss----138adf9c44c---4",
+    "published": "Thu, 18 Jun 2026 22:05:51 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "We used to know that it was a person who wrote it",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/we-used-to-know-that-it-was-a-person-who-wrote-it-a321c970266f?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*M6n7OOjpGJx0eNtnOlqKgQ.jpeg\" width=\"3072\" /></a></p><p class=\"medium-feed-snippet\">Reading used to come with a guarantee that a person was on the other end. We spent it down, and now you check everything.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/",
+    "url": "https://uxdesign.cc/we-used-to-know-that-it-was-a-person-who-wrote-it-a321c970266f?source=rss----138adf9c44c---4",
+    "published": "Thu, 18 Jun 2026 22:04:55 GMT",
+    "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
   }

@@ -1,42 +1,42 @@
 [
   {
-    "title": "Adobe 为 Photoshop、Premiere 等多款 Creative Cloud 应用加入 AI 智能体",
-    "summary": "Adobe 将其\"创意智能体\"扩展至 Photoshop、Premiere 等应用，以公开测试形式提供 AI Assistant。该智能体可自动完成多步骤常规任务，如 Premiere 分拣素材和粗剪、Photoshop 换背景、Illustrator 批量生成文件、InDesign 更新版式等。Firefly 新增面",
-    "source": "The Decoder：AI News（RSS）",
-    "url": "https://the-decoder.com/adobe-adds-ai-agents-to-photoshop-premiere-and-more-creative-cloud-apps",
-    "published_at": "2026-06-18T12:59:00.000Z",
+    "title": "Cloudflare 为 AI 智能体推出临时账户",
+    "summary": "Cloudflare 在 Workers 上推出临时账户（Temporary Accounts），允许 AI 智能体直接运行 `wrangler deploy --temporary`，在数秒内获取一个可用的实时 Worker，无需绕开面向人类设计的部署流程。该功能旨在降低智能体部署门槛。",
+    "source": "Cloudflare Blog",
+    "url": "https://blog.cloudflare.com/temporary-accounts",
+    "published_at": "2026-06-19T13:00:00.000Z",
     "category": "ai-products"
   },
   {
-    "title": "ChatGPT 图像生成器可被绕过滤镜生成暴力和色情内容",
-    "summary": "Mindgard 红队研究发现，ChatGPT 的图像生成器可通过简单提示词轻易绕过内容过滤器，在未直接请求的情况下自动生成性暴力、血腥谋杀等露骨图像。一个热门的\"恢复照片\"提示词因输入模糊而绕过输入过滤器，结果如同俄罗斯轮盘赌；进一步添加虚假图像 ID 和\"不做审查\"指令后，模型持续生成高度性化女性图像，甚至出现被捆",
+    "title": "/youtube-notetaker：YT 视频转 Artifacts",
+    "summary": "YT 视频 -> Artifacts\n\n看看我如何使用新的 /youtube-notetaker 技能从 YT 视频生成 Artifacts。\n\n捕获幻灯片、笔记、转录内容……\n\n快去试试 ↓",
+    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "url": "https://x.com/omarsar0/status/2067952726282031411",
+    "published_at": "2026-06-19T12:48:45.000Z",
+    "category": "tip"
+  },
+  {
+    "title": "Humanize PPT v0.9：为演讲而生的开源PPT Skill",
+    "summary": "Humanize PPT v0.9 是一款专为演讲场景设计的PPT Skill，核心通过AST（Audience， State， Transfer）逻辑重新编排大纲，将页面渲染外包给下游Skill。渲染前先输出4张真实预览页，并将图片、视频素材的占位与生成prompt写入大纲。新增质检环节自动修复常见渲染问题，并支持演",
+    "source": "公众号：卡尔的AI沃茨",
+    "url": "https://mp.weixin.qq.com/s/rGoYnUcBRkfRKQPbIaawyg",
+    "published_at": "2026-06-19T09:48:28.000Z",
+    "category": "tip"
+  },
+  {
+    "title": "我们在 Elasticsearch 上构建了一个持久化代理内存层，其召回率为0.89",
+    "summary": "Agent Builder 正式上市（GA）。基于 Elasticsearch 的持久化内存层将记忆分为情景、语义、程序三类，分别存入独立索引，各设不同写速率与过期规则。召回采用 BM25 与 Jina v5 稠密向量的 RRF 融合，再经交叉编码器重排序。在 168 道 QA 题评估中，R@10 平均 0.89，零跨",
     "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-    "url": "https://mindgard.ai/blog/chatgpt-spontaneously-generated-violent-images-from-a-viral-prompt",
-    "published_at": "2026-06-18T11:25:28.101Z",
-    "category": "paper"
+    "url": "https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch",
+    "published_at": "2026-06-19T05:01:18.006Z",
+    "category": "tip"
   },
   {
-    "title": "火山引擎上线豆包实时语音模型3.0 API 服务，开启邀测",
-    "summary": "火山引擎上线豆包实时语音模型3.0（Seeduplex）API 服务并开启邀测。该模型为原生全双工端到端语音大模型，具备精准遵循、抗干扰、动态判停三大优势。可在多人对话中安静待命，指定话题出现时主动加入；支持通过自定义工具在实时交互中完成预定日历、发送邮件等任务。抗干扰力提升，误回复率与误打断率大幅降低；判停延迟缩短约",
-    "source": "公众号：火山引擎",
-    "url": "https://mp.weixin.qq.com/s/L4BJnexabQu5DAxDnwEGxw",
-    "published_at": "2026-06-18T10:36:31.000Z",
-    "category": "ai-models"
-  },
-  {
-    "title": "DeepSeek 识图模式正式上线 App 和网页端",
-    "summary": "DeepSeek 识图模式于6月18日在网页和 App 端正式上线，与快速模式、专家模式并列。开启后用户可直接上传图片让 DeepSeek 识别图像，能力超越简单文字提取。目前 App 端仍显示\"图片理解功能内测中\"，网页端无此提示。该模式背后的多模态模型技术细节于今年4月公开，核心框架为\"Thinking with ",
-    "source": "IT之家（RSS）",
-    "url": "https://www.ithome.com/0/966/066.htm",
-    "published_at": "2026-06-18T07:48:11.000Z",
-    "category": "ai-products"
-  },
-  {
-    "title": "免费开源乔木画布：AI生图+抠图，一键部署Vercel",
-    "summary": "乔木画布推出免费开源在线图像编辑器，可一键部署Vercel为网站，功能类似简化版PS。支持Seedream和GPT-image-2生图、图片模板存储分享、一键抠图、2万图标和常见Emoji，甚至能绘制PRD。随时创建3：4/16：9/21：9等不同尺寸画布。原计划高级功能收费，庆祝端午节现全免费开源。在线体验：http",
-    "source": "X：Vista (@vista8)",
-    "url": "https://x.com/vista8/status/2067513484364140994",
-    "published_at": "2026-06-18T07:43:21.000Z",
+    "title": "阿里开源向量数据库Zvec，UCSD黄碧薇教授提出因果AI第四代范式",
+    "summary": "阿里开源内部向量数据库Zvec，pip install zvec免费使用，对标Pinecone每月70美元能力。支持十亿向量毫秒级检索，无需单独起服务，全平台兼容；v0.5.0新增原生全文混合搜索。UCSD黄碧薇教授（causal-learn作者）提出AI四代范式：相关性小模型→因果小模型→相关性大模型（LLM）→因果",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "url": "https://x.com/AYi_AInotes/status/2067832098816250346",
+    "published_at": "2026-06-19T04:49:25.000Z",
     "category": "ai-products"
   }
 ]

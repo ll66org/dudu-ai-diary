@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-18T14:34:17.002627Z",
+  "fetched_at": "2026-06-19T14:26:28.413605Z",
   "total_candidates": 25,
   "source_stats": {
     "Figma Blog": {
@@ -7,7 +7,7 @@
       "total": 0
     },
     "Vercel Blog (v0)": {
-      "found": 1,
+      "found": 0,
       "total": 1254
     },
     "Cursor Changelog": {
@@ -31,7 +31,7 @@
       "total": 66
     },
     "Smashing Magazine": {
-      "found": 2,
+      "found": 1,
       "total": 40
     },
     "UX Collective": {
@@ -51,7 +51,7 @@
       "total": 20
     },
     "Hacker News (设计向)": {
-      "found": 5,
+      "found": 3,
       "total": 20
     },
     "Product Hunt": {
@@ -64,27 +64,27 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 56,
-  "today_date": "2026-06-18",
+  "dudu_day": 57,
+  "today_date": "2026-06-19",
   "used_titles": [
-    "Claude Fable 5 一句话生成桌面台球游戏",
     "MiniMax M3 开源权重模型发布，已上架 HuggingFace",
     "SemiAnalysis 洞察 Token 经济：200 美元 AI 订阅榨出 70 倍用量",
     "Oran Ge 开源《人味儿写作心法.skill》解决AI写作缺人味",
     "MiniMax 开源 M3 模型权重及 MSA 技术论文",
     "SpaceX 以 600 亿美元股票收购 AI 编程公司 Cursor",
-    "阿里云发布HappyOyster 1.0：一句话生成可实时交互的数字世界"
+    "阿里云发布HappyOyster 1.0：一句话生成可实时交互的数字世界",
+    "Adobe 为 Photoshop、Premiere 等多款 Creative Cloud 应用加入 AI 智能体"
   ],
   "used_tools": [
-    "X：Vista (@vista8)",
     "X：MiniMax (@MiniMax_AI)",
     "IT之家（RSS）",
     "X：Oran Ge (@oran_ge)",
     "公众号：MiniMax（稀宇科技）",
     "TechCrunch：AI（RSS）",
-    "IT之家（RSS）"
+    "IT之家（RSS）",
+    "The Decoder：AI News（RSS）"
   ],
-  "briefing_total": 80,
+  "briefing_total": 77,
   "briefing_design": 43,
   "briefing_count": 5
 }

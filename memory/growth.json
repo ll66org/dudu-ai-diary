@@ -1,5 +1,5 @@
 {
-  "day_count": 56,
+  "day_count": 57,
   "history": [
     {
       "day": 20,
@@ -251,6 +251,13 @@
       "date": "2026-06-18",
       "topic": "Adobe 为 Photoshop、Premiere 等多款 Creative Cloud 应用加入 AI 智能体",
       "source": "The Decoder：AI News（RSS）",
+      "mode": "rss"
+    },
+    {
+      "day": 57,
+      "date": "2026-06-19",
+      "topic": "Cloudflare 为 AI 智能体推出临时账户",
+      "source": "Cloudflare Blog",
       "mode": "rss"
     }
   ],
