@@ -1,5 +1,29 @@
 [
   {
+    "title": "开源教程《Deep Agents 实战》发布",
+    "summary": "LangChain 官方认证大使 @zhanghaili0610 推出开源教程《Deep Agents 实战》，基于 LangChain / LangGraph 生态，讲解如何用 Deep Agents Harness 框架构建真实 Agent 应用。核心是\"三层架构\"：Runtime（LangGraph）、Frame",
+    "source": "X：邵猛 (@shao__meng)",
+    "url": "https://x.com/shao__meng/status/2068306942184034471",
+    "published_at": "2026-06-20T12:16:16.000Z",
+    "category": "tip"
+  },
+  {
+    "title": "NVIDIA Research 发布 SpatialClaw：免训练空间推理框架",
+    "summary": "NVIDIA Research 发布 SpatialClaw，一个免训练的空间推理框架。它通过将代码作为动作接口，让智能体调用感知工具（Depth Anything 3、SAM 3）并自由组合输出，解决视觉语言模型在 3D 空间判断上的弱点。在 20 项基准测试中平均准确率达 59.9%，比近期智能体 SpaceToo",
+    "source": "MarkTechPost（RSS）",
+    "url": "https://www.marktechpost.com/2026/06/19/nvidia-ai-introduce-spatialclaw-a-training-free-agent-that-treats-code-as-the-action-interface-for-spatial-reasoning",
+    "published_at": "2026-06-19T22:51:59.000Z",
+    "category": "ai-products"
+  },
+  {
+    "title": "baoyu-design Skill迭代：修复导出样式与渐变丢失问题，支持AI配图导出PPTX",
+    "summary": "宝玉分享 baoyu-design Skill 的迭代过程：用户测试发现导出问题（样式表未铺满整页、渐变色丢失），他在本地复现后让 Agent 分析原因、给出解决方案并添加测试覆盖，修复后效果改善。该 Skill 可在制作 PPT、动画视频或网站时调用 AI 生图配图，支持 Codex 内置画图或配合 baoyu-im",
+    "source": "X：宝玉 (@dotey)",
+    "url": "https://x.com/dotey/status/2068042001895809420",
+    "published_at": "2026-06-19T18:43:30.000Z",
+    "category": "tip"
+  },
+  {
     "title": "Cloudflare 为 AI 智能体推出临时账户",
     "summary": "Cloudflare 在 Workers 上推出临时账户（Temporary Accounts），允许 AI 智能体直接运行 `wrangler deploy --temporary`，在数秒内获取一个可用的实时 Worker，无需绕开面向人类设计的部署流程。该功能旨在降低智能体部署门槛。",
     "source": "Cloudflare Blog",
@@ -14,29 +38,5 @@
     "url": "https://x.com/omarsar0/status/2067952726282031411",
     "published_at": "2026-06-19T12:48:45.000Z",
     "category": "tip"
-  },
-  {
-    "title": "Humanize PPT v0.9：为演讲而生的开源PPT Skill",
-    "summary": "Humanize PPT v0.9 是一款专为演讲场景设计的PPT Skill，核心通过AST（Audience， State， Transfer）逻辑重新编排大纲，将页面渲染外包给下游Skill。渲染前先输出4张真实预览页，并将图片、视频素材的占位与生成prompt写入大纲。新增质检环节自动修复常见渲染问题，并支持演",
-    "source": "公众号：卡尔的AI沃茨",
-    "url": "https://mp.weixin.qq.com/s/rGoYnUcBRkfRKQPbIaawyg",
-    "published_at": "2026-06-19T09:48:28.000Z",
-    "category": "tip"
-  },
-  {
-    "title": "我们在 Elasticsearch 上构建了一个持久化代理内存层，其召回率为0.89",
-    "summary": "Agent Builder 正式上市（GA）。基于 Elasticsearch 的持久化内存层将记忆分为情景、语义、程序三类，分别存入独立索引，各设不同写速率与过期规则。召回采用 BM25 与 Jina v5 稠密向量的 RRF 融合，再经交叉编码器重排序。在 168 道 QA 题评估中，R@10 平均 0.89，零跨",
-    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-    "url": "https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch",
-    "published_at": "2026-06-19T05:01:18.006Z",
-    "category": "tip"
-  },
-  {
-    "title": "阿里开源向量数据库Zvec，UCSD黄碧薇教授提出因果AI第四代范式",
-    "summary": "阿里开源内部向量数据库Zvec，pip install zvec免费使用，对标Pinecone每月70美元能力。支持十亿向量毫秒级检索，无需单独起服务，全平台兼容；v0.5.0新增原生全文混合搜索。UCSD黄碧薇教授（causal-learn作者）提出AI四代范式：相关性小模型→因果小模型→相关性大模型（LLM）→因果",
-    "source": "X：阿易 AI Notes (@AYi_AInotes)",
-    "url": "https://x.com/AYi_AInotes/status/2067832098816250346",
-    "published_at": "2026-06-19T04:49:25.000Z",
-    "category": "ai-products"
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "day_count": 57,
+  "day_count": 58,
   "history": [
     {
       "day": 20,
@@ -258,6 +258,13 @@
       "date": "2026-06-19",
       "topic": "Cloudflare 为 AI 智能体推出临时账户",
       "source": "Cloudflare Blog",
+      "mode": "rss"
+    },
+    {
+      "day": 58,
+      "date": "2026-06-20",
+      "topic": "开源教程《Deep Agents 实战》发布",
+      "source": "X：邵猛 (@shao__meng)",
       "mode": "rss"
     }
   ],

@@ -1,39 +1,84 @@
 [
   {
-    "title": "Sashiko: AI code review system for the Linux kernel",
-    "summary": "<p>Article URL: <a href=\"https://www.theregister.com/software/2026/03/20/linux-kernel-engineer-introduces-sashiko-code-review-system/5223725\">https://www.theregister.com/software/2026/03/20/linux-kernel-engineer-introduces-sashiko-code-review-system/5223725</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48598499\">https://news.ycombinator.com/item?id=48598499</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
-    "url": "https://www.theregister.com/software/2026/03/20/linux-kernel-engineer-introduces-sashiko-code-review-system/5223725",
-    "published": "Fri, 19 Jun 2026 13:43:02 +0000",
+    "title": "Longterm use of intracortical brain–computer interface for speech&cursor control",
+    "summary": "<p>Article URL: <a href=\"https://www.nature.com/articles/s41591-026-04414-6\">https://www.nature.com/articles/s41591-026-04414-6</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48608788\">https://news.ycombinator.com/item?id=48608788</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "url": "https://www.nature.com/articles/s41591-026-04414-6",
+    "published": "Sat, 20 Jun 2026 12:34:39 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Linux Maintainer Greg Kroah-Hartman Says AI Tools Now Useful, Finding Real Bugs",
-    "summary": "<p>Article URL: <a href=\"https://www.theregister.com/software/2026/03/26/linux-kernel-czar-says-ai-bug-reports-arent-slop-anymore/5226256\">https://www.theregister.com/software/2026/03/26/linux-kernel-czar-says-ai-bug-reports-arent-slop-anymore/5226256</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48598086\">https://news.ycombinator.com/item?id=48598086</a></p>\n<p>Points: 6</p>\n<p># Comments: 1</p>",
-    "url": "https://www.theregister.com/software/2026/03/26/linux-kernel-czar-says-ai-bug-reports-arent-slop-anymore/5226256",
-    "published": "Fri, 19 Jun 2026 13:01:52 +0000",
+    "title": "SpaceX Loses $600B After Announcing Acquisition of Cursor AI Coding Agent",
+    "summary": "<p>Article URL: <a href=\"https://www.forbes.com/sites/tylerroush/2026/06/18/spacex-stock-plunge-wipes-out-600-billion-after-cursor-deal-spooks-investors/\">https://www.forbes.com/sites/tylerroush/2026/06/18/spacex-stock-plunge-wipes-out-600-billion-after-cursor-deal-spooks-investors/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48608678\">https://news.ycombinator.com/item?id=48608678</a></p>\n<p>Points: 4</p>\n<p># Comments: 1</p>",
+    "url": "https://www.forbes.com/sites/tylerroush/2026/06/18/spacex-stock-plunge-wipes-out-600-billion-after-cursor-deal-spooks-investors/",
+    "published": "Sat, 20 Jun 2026 12:14:16 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Building a Dense Agentic AI CPU Rack Today",
+    "summary": "<p>Article URL: <a href=\"https://www.servethehome.com/building-a-dense-agentic-ai-cpu-rack-amd-dell-today/\">https://www.servethehome.com/building-a-dense-agentic-ai-cpu-rack-amd-dell-today/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48608400\">https://news.ycombinator.com/item?id=48608400</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "url": "https://www.servethehome.com/building-a-dense-agentic-ai-cpu-rack-amd-dell-today/",
+    "published": "Sat, 20 Jun 2026 11:20:00 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
     "title": "UK's top data and AI regulator quits after 'inappropriate' humour",
-    "summary": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c0eyq7rnn22o\">https://www.bbc.com/news/articles/c0eyq7rnn22o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48597976\">https://news.ycombinator.com/item?id=48597976</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
-    "url": "https://www.bbc.com/news/articles/c0eyq7rnn22o",
-    "published": "Fri, 19 Jun 2026 12:49:28 +0000",
+    "summary": "<p>Article URL: <a href=\"https://www.bbc.co.uk/news/articles/c0eyq7rnn22o\">https://www.bbc.co.uk/news/articles/c0eyq7rnn22o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48608173\">https://news.ycombinator.com/item?id=48608173</a></p>\n<p>Points: 4</p>\n<p># Comments: 5</p>",
+    "url": "https://www.bbc.co.uk/news/articles/c0eyq7rnn22o",
+    "published": "Sat, 20 Jun 2026 10:40:59 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Cloudflare 为 AI 智能体推出临时账户",
-    "summary": "Cloudflare 在 Workers 上推出临时账户（Temporary Accounts），允许 AI 智能体直接运行 `wrangler deploy --temporary`，在数秒内获取一个可用的实时 Worker，无需绕开面向人类设计的部署流程。该功能旨在降低智能体部署门槛。",
-    "url": "https://blog.cloudflare.com/temporary-accounts",
-    "published": "2026-06-19T13:00:00.000Z",
-    "source": "Cloudflare Blog",
+    "title": "Updated UI icons on Wikimedia Foundation sites (including Wikipedia)",
+    "summary": "<p>Article URL: <a href=\"https://phabricator.wikimedia.org/T399175\">https://phabricator.wikimedia.org/T399175</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48607915\">https://news.ycombinator.com/item?id=48607915</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "url": "https://phabricator.wikimedia.org/T399175",
+    "published": "Sat, 20 Jun 2026 09:57:06 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Show HN: CoshUI – A backend-agnostic UI engine for Python game development",
+    "summary": "<p>CoshUI is a UI engine that's built to wrap around different game frameworks and easily slot into existing game loops. It is backend-agnostic, meaning the same UI code runs across different frameworks and graphics bindings with minor visual discrepancies.<p>The current supported backends are Pygame, Raylib, PyOpenGL, and ModernGL, switching backends is a one parameter change (PygameBackend(screen) to RaylibBackend() and etc.) the UI code stays identical.<p>To note, CoshUI technically acts like",
+    "url": "https://gitlab.com/jylefv/CoshUI",
+    "published": "Sat, 20 Jun 2026 09:46:38 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "开源教程《Deep Agents 实战》发布",
+    "summary": "LangChain 官方认证大使 @zhanghaili0610 推出开源教程《Deep Agents 实战》，基于 LangChain / LangGraph 生态，讲解如何用 Deep Agents Harness 框架构建真实 Agent 应用。核心是\"三层架构\"：Runtime（LangGraph）、Framework（LangChain）、Harness（Deep Agents）。技术内核为上下文工程，通过虚拟文件系统实现按需读取、中间结果落盘、大文件局部读取。教程共 8 章 + 2 准备篇，覆盖虚拟文件系统（六大工具）、任务规划、子 Agent 委派（异步并行）及 Skills 复用（可在 Claude Code、Cursor 等 30+ 工具中通用）。",
+    "url": "https://x.com/shao__meng/status/2068306942184034471",
+    "published": "2026-06-20T12:16:16.000Z",
+    "source": "X：邵猛 (@shao__meng)",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "NVIDIA Research 发布 SpatialClaw：免训练空间推理框架",
+    "summary": "NVIDIA Research 发布 SpatialClaw，一个免训练的空间推理框架。它通过将代码作为动作接口，让智能体调用感知工具（Depth Anything 3、SAM 3）并自由组合输出，解决视觉语言模型在 3D 空间判断上的弱点。在 20 项基准测试中平均准确率达 59.9%，比近期智能体 SpaceTools 高 11.2 个百分点，比无工具基线高 6.5 点，比结构化工具调用高 3.2 点。框架无需重新训练，同一提示词和工具集可跨所有基准和骨干网络运行，支持 Qwen3.5/3.6 及 Gemma4 等 26B 至 397B 参数的模型。",
+    "url": "https://www.marktechpost.com/2026/06/19/nvidia-ai-introduce-spatialclaw-a-training-free-agent-that-treats-code-as-the-action-interface-for-spatial-reasoning",
+    "published": "2026-06-19T22:51:59.000Z",
+    "source": "MarkTechPost（RSS）",
     "source_weight": "high",
     "category": "ai-products"
+  },
+  {
+    "title": "baoyu-design Skill迭代：修复导出样式与渐变丢失问题，支持AI配图导出PPTX",
+    "summary": "宝玉分享 baoyu-design Skill 的迭代过程：用户测试发现导出问题（样式表未铺满整页、渐变色丢失），他在本地复现后让 Agent 分析原因、给出解决方案并添加测试覆盖，修复后效果改善。该 Skill 可在制作 PPT、动画视频或网站时调用 AI 生图配图，支持 Codex 内置画图或配合 baoyu-image-gen Skill 调用 Codex CLI 画图，并能连同图片一起导出为 PPTX，在 PowerPoint/Keynote 中二次编辑。迭代循环：自己用 → 发现问题 → 让 Agent 分析 → 出方案 → 确认 → 更新 Skill。",
+    "url": "https://x.com/dotey/status/2068042001895809420",
+    "published": "2026-06-19T18:43:30.000Z",
+    "source": "X：宝玉 (@dotey)",
+    "source_weight": "high",
+    "category": "tip"
   },
   {
     "title": "/youtube-notetaker：YT 视频转 Artifacts",
@@ -81,56 +126,11 @@
     "category": "tip"
   },
   {
-    "title": "Midjourney Scanner",
-    "summary": "<p>\n            60 second ultrasound-based full-body scanner that beats MRI\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/midjourney?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1175715?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/midjourney",
-    "published": "2026-06-18T20:18:43-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Claude Code 现已支持 artifacts",
-    "summary": "从今日起，Claude Code 可将工作进度生成为 artifacts--实时、可分享的交互式网页，涵盖 PR 走查、系统说明、仪表盘、发布清单等。artifacts 基于会话完整上下文（代码库、连接器、对话）自动构建，更新时页面原地刷新，同事即时可见。默认仅作者可见，可分享给组织内成员，由管理员通过组织层级开关和角色权限管控。内部测试中最常见用例为调试：工程师调查事件，Claude Code 分析日志并发布包含时间线、嫌疑提交和错误率图表的 artifact，团队无需再\"走过场式汇报\"。",
-    "url": "https://claude.com/blog/artifacts-in-claude-code",
-    "published": "2026-06-18T18:54:47.698Z",
-    "source": "Claude：Blog（网页）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
     "title": "OpenAI 强化学习实现广泛且持久的有益模型",
     "summary": "OpenAI 通过强化学习在真实对话场景中训练模型，使其展现诚实、认知谦逊、元认知透明、可纠正性、普遍公平性和对人类福祉的关心等有益特质。训练数据涵盖健康、教育、科学、法律、工程等多个领域。训练后模型在数十项独立对齐评测（包括奖励黑客、欺骗、有害建议、规范遵从等）上均表现提升，且这种改善泛化到未参与训练的领域、任务和评分设定。在对抗性提示或微调下，模型仍难以被导向有害行为，表明有益特质强化学习可产生广泛且持久的对齐泛化。",
     "url": "https://alignment.openai.com/beneficial-rl",
     "published": "2026-06-18T18:00:00.000Z",
     "source": "OpenAI：Alignment 研究博客（RSS）",
-    "source_weight": "high",
-    "category": "paper"
-  },
-  {
-    "title": "Claude Enterprise 推出企业托管 MCP 连接器授权管理",
-    "summary": "Claude Enterprise 推出企业托管授权功能，管理员可通过身份提供商（率先支持 Okta）为整个组织配置 MCP 连接器。用户首次登录 Claude 时自动获得授权，无需手动操作，实现零接触设置。该功能基于 Model Context Protocol 的 Enterprise-Managed Authorization 扩展构建，支持 Asana、Atlassian、Canva、Figma、Granola、Linear、Supabase 等 MCP 提供商，Slack 即将支持。授权管理集成到现有 IdP 工作流中，可按组限定范围、通过 IdP 快速撤销授权，并支持要求连接器仅通过 IdP 连接以隔离工作与个人使用。",
-    "url": "https://claude.com/blog/enterprise-managed-auth",
-    "published": "2026-06-18T17:51:29.795Z",
-    "source": "Claude：Blog（网页）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "驾驭 Claude Code：CLAUDE.md、技能、钩子、规则、子智能体等",
-    "summary": "Claude Code 提供七种自定义指令方式：CLAUDE.md（根目录始终加载，子目录按需加载）、规则（无范围或路径范围）、技能（按需调用，共享 token 预算）、子智能体（隔离上下文运行并返回最终消息）、钩子（生命周期事件触发，绕过压缩）、输出样式（注入系统提示，永不压缩）和附加系统提示（CLI 标志，仅单次有效）。每种方式在加载时机、压缩行为、上下文成本和适用场景上各有不同，例如 CLAUDE.md 适合存放构建命令与编码规范，路径范围规则避免无关上下文消耗，子智能体用于并行隔离任务，钩子用于确定性自动化（如运行 linter 或备份聊天记录）。",
-    "url": "https://claude.com/blog/steering-claude-code-skills-hooks-rules-subagents-and-more",
-    "published": "2026-06-18T17:51:29.795Z",
-    "source": "Claude：Blog（网页）",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "Anthropic Project Fetch 第二阶段：Claude Opus 4.7 自主完成任务，速度比人类团队快约20倍",
-    "summary": "Anthropic 发布 Project Fetch 实验第二阶段结果。在2024年8月原始实验中，配备 Claude Opus 4.1 的人类团队在操控四足机器人时显著超越无 AI 团队。新实验中，Claude Opus 4.7 无需人类协助即完成所有任务，速度比最快人类团队快约20倍，比无 Claude 团队快37倍以上，编码量减少近10倍。模型在传感器连接、路径规划等环节表现出色，但在精确移动沙滩球等闭环控制任务上仍存在困难。这些进展源于通用模型规模化，而非针对机器人领域的专项优化。",
-    "url": "https://www.anthropic.com/research/project-fetch-phase-two",
-    "published": "2026-06-18T16:22:33.561Z",
-    "source": "Anthropic：Research（发表成果 · 网页）",
     "source_weight": "high",
     "category": "paper"
   },
@@ -162,13 +162,13 @@
     "category": "paper"
   },
   {
-    "title": "Claude Code Artifacts",
-    "summary": "<p>\n            Preview and share your coding work live as it happens\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/claude-redesigned?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1175474?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/claude-redesigned",
-    "published": "2026-06-18T11:14:11-07:00",
-    "source": "Product Hunt",
+    "title": "火山引擎上线豆包实时语音模型3.0 API 服务，开启邀测",
+    "summary": "火山引擎上线豆包实时语音模型3.0（Seeduplex）API 服务并开启邀测。该模型为原生全双工端到端语音大模型，具备精准遵循、抗干扰、动态判停三大优势。可在多人对话中安静待命，指定话题出现时主动加入；支持通过自定义工具在实时交互中完成预定日历、发送邮件等任务。抗干扰力提升，误回复率与误打断率大幅降低；判停延迟缩短约250ms，复杂场景抢话比例下降40%，用户主动打断延迟缩短约300ms。适用于汽车智能座舱、智能硬件、智能客服等场景。",
+    "url": "https://mp.weixin.qq.com/s/L4BJnexabQu5DAxDnwEGxw",
+    "published": "2026-06-18T10:36:31.000Z",
+    "source": "公众号：火山引擎",
     "source_weight": "high",
-    "category": "ai_tech"
+    "category": "ai-models"
   },
   {
     "title": "A2UI under the hood: Designing for the new era of radically adaptive UI",
