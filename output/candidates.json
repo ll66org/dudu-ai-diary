@@ -1,66 +1,66 @@
 [
   {
-    "title": "Longterm use of intracortical brain–computer interface for speech&cursor control",
-    "summary": "<p>Article URL: <a href=\"https://www.nature.com/articles/s41591-026-04414-6\">https://www.nature.com/articles/s41591-026-04414-6</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48608788\">https://news.ycombinator.com/item?id=48608788</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
-    "url": "https://www.nature.com/articles/s41591-026-04414-6",
-    "published": "Sat, 20 Jun 2026 12:34:39 +0000",
+    "title": "Retrocomputing with Clash – Haskell for FPGA Hardware Design",
+    "summary": "<p>Article URL: <a href=\"https://unsafeperform.io/retroclash/\">https://unsafeperform.io/retroclash/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48617941\">https://news.ycombinator.com/item?id=48617941</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+    "url": "https://unsafeperform.io/retroclash/",
+    "published": "Sun, 21 Jun 2026 11:30:32 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "SpaceX Loses $600B After Announcing Acquisition of Cursor AI Coding Agent",
-    "summary": "<p>Article URL: <a href=\"https://www.forbes.com/sites/tylerroush/2026/06/18/spacex-stock-plunge-wipes-out-600-billion-after-cursor-deal-spooks-investors/\">https://www.forbes.com/sites/tylerroush/2026/06/18/spacex-stock-plunge-wipes-out-600-billion-after-cursor-deal-spooks-investors/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48608678\">https://news.ycombinator.com/item?id=48608678</a></p>\n<p>Points: 4</p>\n<p># Comments: 1</p>",
-    "url": "https://www.forbes.com/sites/tylerroush/2026/06/18/spacex-stock-plunge-wipes-out-600-billion-after-cursor-deal-spooks-investors/",
-    "published": "Sat, 20 Jun 2026 12:14:16 +0000",
+    "title": "Canyon Predict – road bike prototype with AI edge computing [video]",
+    "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=7Wg894k6bqU\">https://www.youtube.com/watch?v=7Wg894k6bqU</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48617721\">https://news.ycombinator.com/item?id=48617721</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "url": "https://www.youtube.com/watch?v=7Wg894k6bqU",
+    "published": "Sun, 21 Jun 2026 10:58:44 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Building a Dense Agentic AI CPU Rack Today",
-    "summary": "<p>Article URL: <a href=\"https://www.servethehome.com/building-a-dense-agentic-ai-cpu-rack-amd-dell-today/\">https://www.servethehome.com/building-a-dense-agentic-ai-cpu-rack-amd-dell-today/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48608400\">https://news.ycombinator.com/item?id=48608400</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
-    "url": "https://www.servethehome.com/building-a-dense-agentic-ai-cpu-rack-amd-dell-today/",
-    "published": "Sat, 20 Jun 2026 11:20:00 +0000",
+    "title": "Show HN: Didon – AI workday reports for productivity analysis",
+    "summary": "<p>As an indie engineer, I wanted some real feedback on my productivity, like having an actual external boss.\nI tried using time trackers (even a physical timer), but they weren't good at tracking everything.\nSo I built Didon, an AI time tracker that watches the screen periodically and generates work logs, then summarizes them into your workday report.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48617640\">https://news.ycombinator.com/item?id=48617640</a></p>\n<p>Poin",
+    "url": "https://www.didon.app/",
+    "published": "Sun, 21 Jun 2026 10:46:54 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "UK's top data and AI regulator quits after 'inappropriate' humour",
-    "summary": "<p>Article URL: <a href=\"https://www.bbc.co.uk/news/articles/c0eyq7rnn22o\">https://www.bbc.co.uk/news/articles/c0eyq7rnn22o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48608173\">https://news.ycombinator.com/item?id=48608173</a></p>\n<p>Points: 4</p>\n<p># Comments: 5</p>",
-    "url": "https://www.bbc.co.uk/news/articles/c0eyq7rnn22o",
-    "published": "Sat, 20 Jun 2026 10:40:59 +0000",
+    "title": "I built a real-time trading platform with an AI; then the clock started lying",
+    "summary": "<p>Article URL: <a href=\"https://faridsaid.com/en/blog/event-loop-starvation-trading.html\">https://faridsaid.com/en/blog/event-loop-starvation-trading.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48616819\">https://news.ycombinator.com/item?id=48616819</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://faridsaid.com/en/blog/event-loop-starvation-trading.html",
+    "published": "Sun, 21 Jun 2026 08:24:49 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Updated UI icons on Wikimedia Foundation sites (including Wikipedia)",
-    "summary": "<p>Article URL: <a href=\"https://phabricator.wikimedia.org/T399175\">https://phabricator.wikimedia.org/T399175</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48607915\">https://news.ycombinator.com/item?id=48607915</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
-    "url": "https://phabricator.wikimedia.org/T399175",
-    "published": "Sat, 20 Jun 2026 09:57:06 +0000",
-    "source": "Hacker News (设计向)",
+    "title": "美团tabbit国际版免费接入GPT-5.5/Claude Opus 4.8等旗舰模型",
+    "summary": "美团近期上线tabbit国际版应用，免费集成多家顶级AI模型的最新旗舰版，包括GPT-5.5、Claude Opus 4.8、Gemini 3.5 Flash，以及国内Kimi-2.6、GLM-5.1、MiniMax-M3。用户无需单独订阅即可使用这些模型。需注意：只有国际版包含海外模型，国内版仅提供国内模型。该应用旨在抢占AI入口，目前处于免费推广阶段。",
+    "url": "https://x.com/AYi_AInotes/status/2068637890247016607",
+    "published": "2026-06-21T10:11:21.000Z",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "Cloudback MCP Server",
+    "summary": "<p>\n            Manage your backups from Claude, Cursor, and VS Code\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/cloudback?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1176945?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/cloudback",
+    "published": "2026-06-20T13:46:39-07:00",
+    "source": "Product Hunt",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Show HN: CoshUI – A backend-agnostic UI engine for Python game development",
-    "summary": "<p>CoshUI is a UI engine that's built to wrap around different game frameworks and easily slot into existing game loops. It is backend-agnostic, meaning the same UI code runs across different frameworks and graphics bindings with minor visual discrepancies.<p>The current supported backends are Pygame, Raylib, PyOpenGL, and ModernGL, switching backends is a one parameter change (PygameBackend(screen) to RaylibBackend() and etc.) the UI code stays identical.<p>To note, CoshUI technically acts like",
-    "url": "https://gitlab.com/jylefv/CoshUI",
-    "published": "Sat, 20 Jun 2026 09:46:38 +0000",
-    "source": "Hacker News (设计向)",
+    "title": "oioi",
+    "summary": "<p>\n            a fast, glassy clipboard manager for macOS, Windows & Linux\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/oioi?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1176778?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/oioi",
+    "published": "2026-06-20T08:05:27-07:00",
+    "source": "Product Hunt",
     "source_weight": "high",
     "category": "ai_tech"
-  },
-  {
-    "title": "开源教程《Deep Agents 实战》发布",
-    "summary": "LangChain 官方认证大使 @zhanghaili0610 推出开源教程《Deep Agents 实战》，基于 LangChain / LangGraph 生态，讲解如何用 Deep Agents Harness 框架构建真实 Agent 应用。核心是\"三层架构\"：Runtime（LangGraph）、Framework（LangChain）、Harness（Deep Agents）。技术内核为上下文工程，通过虚拟文件系统实现按需读取、中间结果落盘、大文件局部读取。教程共 8 章 + 2 准备篇，覆盖虚拟文件系统（六大工具）、任务规划、子 Agent 委派（异步并行）及 Skills 复用（可在 Claude Code、Cursor 等 30+ 工具中通用）。",
-    "url": "https://x.com/shao__meng/status/2068306942184034471",
-    "published": "2026-06-20T12:16:16.000Z",
-    "source": "X：邵猛 (@shao__meng)",
-    "source_weight": "high",
-    "category": "tip"
   },
   {
     "title": "NVIDIA Research 发布 SpatialClaw：免训练空间推理框架",
@@ -153,24 +153,6 @@
     "category": "paper"
   },
   {
-    "title": "ChatGPT 图像生成器可被绕过滤镜生成暴力和色情内容",
-    "summary": "Mindgard 红队研究发现，ChatGPT 的图像生成器可通过简单提示词轻易绕过内容过滤器，在未直接请求的情况下自动生成性暴力、血腥谋杀等露骨图像。一个热门的\"恢复照片\"提示词因输入模糊而绕过输入过滤器，结果如同俄罗斯轮盘赌；进一步添加虚假图像 ID 和\"不做审查\"指令后，模型持续生成高度性化女性图像，甚至出现被捆绑殴打的尸体，并自动赋予惊悚标题。研究指出，OpenAI 此前声称修复的裸体问题仍未解决，暴露了 AI 工具广泛可及性与不足内容过滤的现实风险。",
-    "url": "https://mindgard.ai/blog/chatgpt-spontaneously-generated-violent-images-from-a-viral-prompt",
-    "published": "2026-06-18T11:25:28.101Z",
-    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-    "source_weight": "high",
-    "category": "paper"
-  },
-  {
-    "title": "火山引擎上线豆包实时语音模型3.0 API 服务，开启邀测",
-    "summary": "火山引擎上线豆包实时语音模型3.0（Seeduplex）API 服务并开启邀测。该模型为原生全双工端到端语音大模型，具备精准遵循、抗干扰、动态判停三大优势。可在多人对话中安静待命，指定话题出现时主动加入；支持通过自定义工具在实时交互中完成预定日历、发送邮件等任务。抗干扰力提升，误回复率与误打断率大幅降低；判停延迟缩短约250ms，复杂场景抢话比例下降40%，用户主动打断延迟缩短约300ms。适用于汽车智能座舱、智能硬件、智能客服等场景。",
-    "url": "https://mp.weixin.qq.com/s/L4BJnexabQu5DAxDnwEGxw",
-    "published": "2026-06-18T10:36:31.000Z",
-    "source": "公众号：火山引擎",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
     "title": "A2UI under the hood: Designing for the new era of radically adaptive UI",
     "summary": "<h4>An introduction for designers</h4><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*QMlFF7T7Jm_BYAqEDSMvyA.jpeg\" /></figure><p>As a designer, I am optimistic about this one, and that is not my usual reflex with AI interface design.</p><p>You have probably never heard of it. That is fine, almost no designer has. A2UI still lives in developer corners, written about in code. The idea underneath is worth meeting early, though, because it changes what we do.</p><p>So let me star",
     "url": "https://uxdesign.cc/a2ui-under-the-hood-designing-for-the-new-era-of-radically-adaptive-ui-cebbf5f32fbe?source=rss----138adf9c44c---4",
@@ -220,6 +202,24 @@
     "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/we-used-to-know-that-it-was-a-person-who-wrote-it-a321c970266f?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*M6n7OOjpGJx0eNtnOlqKgQ.jpeg\" width=\"3072\" /></a></p><p class=\"medium-feed-snippet\">Reading used to come with a guarantee that a person was on the other end. We spent it down, and now you check everything.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/",
     "url": "https://uxdesign.cc/we-used-to-know-that-it-was-a-person-who-wrote-it-a321c970266f?source=rss----138adf9c44c---4",
     "published": "Thu, 18 Jun 2026 22:04:55 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Your strategic guide to winning design awards",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/your-strategic-guide-to-winning-design-awards-7afee3876ce4?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1400/0*3-YkmgC5ZGo80wYn.jpeg\" width=\"1400\" /></a></p><p class=\"medium-feed-snippet\">A roadmap to transform recognition into rocket fuel for your career and company.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/your-strategic-guide-to-winning-design-awards-7afee",
+    "url": "https://uxdesign.cc/your-strategic-guide-to-winning-design-awards-7afee3876ce4?source=rss----138adf9c44c---4",
+    "published": "Thu, 18 Jun 2026 22:03:39 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "The board is not the game",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-board-is-not-the-game-fad30735adfe?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*X_LejmSbc1Me66P1UGetjw.png\" width=\"2816\" /></a></p><p class=\"medium-feed-snippet\">Your AI product has pieces, cards, and screens. Nobody designed the game.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/the-board-is-not-the-game-fad30735adfe?source=rss----138adf9c44c---4\">Con",
+    "url": "https://uxdesign.cc/the-board-is-not-the-game-fad30735adfe?source=rss----138adf9c44c---4",
+    "published": "Mon, 15 Jun 2026 22:18:47 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
