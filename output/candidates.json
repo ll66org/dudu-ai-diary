@@ -1,66 +1,84 @@
 [
   {
-    "title": "Retrocomputing with Clash – Haskell for FPGA Hardware Design",
-    "summary": "<p>Article URL: <a href=\"https://unsafeperform.io/retroclash/\">https://unsafeperform.io/retroclash/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48617941\">https://news.ycombinator.com/item?id=48617941</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
-    "url": "https://unsafeperform.io/retroclash/",
-    "published": "Sun, 21 Jun 2026 11:30:32 +0000",
+    "title": "I built an AI wearable demo that sees what I'm looking at and answers out loud",
+    "summary": "<p>Article URL: <a href=\"https://www.loom.com/share/b1d4dea1276f4e6c921f0e4e8bff8544\">https://www.loom.com/share/b1d4dea1276f4e6c921f0e4e8bff8544</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48632101\">https://news.ycombinator.com/item?id=48632101</a></p>\n<p>Points: 2</p>\n<p># Comments: 1</p>",
+    "url": "https://www.loom.com/share/b1d4dea1276f4e6c921f0e4e8bff8544",
+    "published": "Mon, 22 Jun 2026 16:06:43 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Canyon Predict – road bike prototype with AI edge computing [video]",
-    "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=7Wg894k6bqU\">https://www.youtube.com/watch?v=7Wg894k6bqU</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48617721\">https://news.ycombinator.com/item?id=48617721</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
-    "url": "https://www.youtube.com/watch?v=7Wg894k6bqU",
-    "published": "Sun, 21 Jun 2026 10:58:44 +0000",
+    "title": "Show HN: Frontier AI for Motion Design",
+    "summary": "<p>Hey HN, meet Motion — a frontier agent for motion design.<p>Here’s how it works:<p>1. Give Motion a prompt — include any context like product links, X threads, YouTube videos, personal assets, and design MD. Motion will reference styles, incorporate research, and storyboard scenes.<p>2. Motion creates the video — it can orchestrate entire explainers, launch videos, logo animations, convert articles to video, or even add motion design to your existing videos.<p>3. Edit everything — after gener",
+    "url": "https://motion.so",
+    "published": "Mon, 22 Jun 2026 16:06:09 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Show HN: Didon – AI workday reports for productivity analysis",
-    "summary": "<p>As an indie engineer, I wanted some real feedback on my productivity, like having an actual external boss.\nI tried using time trackers (even a physical timer), but they weren't good at tracking everything.\nSo I built Didon, an AI time tracker that watches the screen periodically and generates work logs, then summarizes them into your workday report.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48617640\">https://news.ycombinator.com/item?id=48617640</a></p>\n<p>Poin",
-    "url": "https://www.didon.app/",
-    "published": "Sun, 21 Jun 2026 10:46:54 +0000",
+    "title": "Show HN: Build and Host AI apps on your own servers",
+    "summary": "<p>I wanted a way to build and host some vibecoded apps/dashboards etc , but figured there was no good way outside using things like lovable and replit , where the code and data and the hosting lives on their servers<p>Many of the online app builders don't allow you to switch the model to an open model and charge premiums for tokens, Some of the app builders even want you to paste DB credentials in the chat which to me was a complete no no<p>I have been working on an alternative to this model , ",
+    "url": "https://agentry.run",
+    "published": "Mon, 22 Jun 2026 15:56:11 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "I built a real-time trading platform with an AI; then the clock started lying",
-    "summary": "<p>Article URL: <a href=\"https://faridsaid.com/en/blog/event-loop-starvation-trading.html\">https://faridsaid.com/en/blog/event-loop-starvation-trading.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48616819\">https://news.ycombinator.com/item?id=48616819</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://faridsaid.com/en/blog/event-loop-starvation-trading.html",
-    "published": "Sun, 21 Jun 2026 08:24:49 +0000",
+    "title": "I built a voice AI chess companion for elderly players, in 3 languages",
+    "summary": "<p>Article URL: <a href=\"https://youai-chess.netlify.app/\">https://youai-chess.netlify.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48631879\">https://news.ycombinator.com/item?id=48631879</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://youai-chess.netlify.app/",
+    "published": "Mon, 22 Jun 2026 15:48:24 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "美团tabbit国际版免费接入GPT-5.5/Claude Opus 4.8等旗舰模型",
-    "summary": "美团近期上线tabbit国际版应用，免费集成多家顶级AI模型的最新旗舰版，包括GPT-5.5、Claude Opus 4.8、Gemini 3.5 Flash，以及国内Kimi-2.6、GLM-5.1、MiniMax-M3。用户无需单独订阅即可使用这些模型。需注意：只有国际版包含海外模型，国内版仅提供国内模型。该应用旨在抢占AI入口，目前处于免费推广阶段。",
-    "url": "https://x.com/AYi_AInotes/status/2068637890247016607",
-    "published": "2026-06-21T10:11:21.000Z",
-    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "title": "How to build an AI agent in 2026: a practical step-by-step guide",
+    "summary": "<p>Article URL: <a href=\"https://www.execlave.com/blog/how-to-build-an-ai-agent\">https://www.execlave.com/blog/how-to-build-an-ai-agent</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48631636\">https://news.ycombinator.com/item?id=48631636</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://www.execlave.com/blog/how-to-build-an-ai-agent",
+    "published": "Mon, 22 Jun 2026 15:31:17 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Show HN: A free book on the psychology behind product design",
+    "summary": "<p>Good humans,\nI’m a psychologist turned product designer. Over the last 20 years I’ve collected lessons about the psychology behind building digital products and turned them into a free online book:<p><a href=\"https://productdesignpsychology.com/\" rel=\"nofollow\">https://productdesignpsychology.com/</a><p>The book is for anyone who wants to better understand the minds they’re designing for and the mind they’re designing with.<p>No signup, no paywall, no monetization. Just something I hope is us",
+    "url": "https://productdesignpsychology.com",
+    "published": "Mon, 22 Jun 2026 15:13:28 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Google Labs 提出用\"洞察策略\"评估 AI 编码智能体的主动性",
+    "summary": "Google Labs 提出以\"洞察策略\"评估 AI 编码智能体的主动性，而非仅按任务完成度打分。团队基于 Google 内部代码库 705 个 bug（1178 个 CL），通过时空近邻与语义相似度聚类还原开发者实际的高层级目标。初步实验显示：Jules 在单轮探索下洞察相关性评分平均 4.5/5；探索预算从两轮增至三轮时，Hit@5 准确率从 33% 升至 57%。团队正将评估方法扩展至公开 GitHub 数据，并探索纳入问题追踪器、对话等更丰富的上下文。",
+    "url": "https://developers.googleblog.com/measuring-what-matters-with-jules",
+    "published": "2026-06-22T16:08:41.780Z",
+    "source": "Google Developers Blog（RSS）",
+    "source_weight": "high",
+    "category": "paper"
+  },
+  {
+    "title": "Anthropic 工程负责人：Claude Code 让程序员更孤独",
+    "summary": "6月22日，Anthropic工程负责人Fiona Fung表示，Claude Code和Claude Cowork等AI智能体让工程师越发依赖智能体工作，彼此之间交流减少，长期易感孤独。团队为此组织编程午餐、黑客松和共同开发时段，重新创造面对面协作机会。调查显示Claude Code已成为创业公司最常用的AI编程工具，\"氛围编程\"兴起使\"单人创业者\"增多，但Fung强调协作仍不可或缺。",
+    "url": "https://www.ithome.com/0/967/216.htm",
+    "published": "2026-06-22T13:25:46.000Z",
+    "source": "IT之家（RSS）",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "Grok Build 推出 /goal 模式，支持长时间自主任务执行",
+    "summary": "xAI 在 Grok Build 中引入 `/goal` 新模式。用户只需用一行命令设定目标，agent 便会自动规划方案、分解任务为进度清单并持续执行，直至目标完成且通过验证，期间可额外下达指令。该模式支持监控与引导命令，任务完成时清单全部勾选。即日起可用，用户可通过 `curl -fsSL | bash` 安装 CLI 并登录账号即可使用。",
+    "url": "https://x.ai/news/introducing-goal",
+    "published": "2026-06-22T00:00:00.000Z",
+    "source": "xAI：News（网页）",
     "source_weight": "high",
     "category": "ai-products"
-  },
-  {
-    "title": "Cloudback MCP Server",
-    "summary": "<p>\n            Manage your backups from Claude, Cursor, and VS Code\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/cloudback?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1176945?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/cloudback",
-    "published": "2026-06-20T13:46:39-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "oioi",
-    "summary": "<p>\n            a fast, glassy clipboard manager for macOS, Windows & Linux\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/oioi?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1176778?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/oioi",
-    "published": "2026-06-20T08:05:27-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
   },
   {
     "title": "NVIDIA Research 发布 SpatialClaw：免训练空间推理框架",
@@ -81,78 +99,6 @@
     "category": "tip"
   },
   {
-    "title": "/youtube-notetaker：YT 视频转 Artifacts",
-    "summary": "YT 视频 -> Artifacts\n\n看看我如何使用新的 /youtube-notetaker 技能从 YT 视频生成 Artifacts。\n\n捕获幻灯片、笔记、转录内容……\n\n快去试试 ↓",
-    "url": "https://x.com/omarsar0/status/2067952726282031411",
-    "published": "2026-06-19T12:48:45.000Z",
-    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "Humanize PPT v0.9：为演讲而生的开源PPT Skill",
-    "summary": "Humanize PPT v0.9 是一款专为演讲场景设计的PPT Skill，核心通过AST（Audience， State， Transfer）逻辑重新编排大纲，将页面渲染外包给下游Skill。渲染前先输出4张真实预览页，并将图片、视频素材的占位与生成prompt写入大纲。新增质检环节自动修复常见渲染问题，并支持演讲模式：按S键在独立窗口显示演讲稿备注，按ESC键打开全局索引快速跳页。项目已开源至github.com/LearnPrompt/humanize-ppt，由卡尔 & yc星辰开发。",
-    "url": "https://mp.weixin.qq.com/s/rGoYnUcBRkfRKQPbIaawyg",
-    "published": "2026-06-19T09:48:28.000Z",
-    "source": "公众号：卡尔的AI沃茨",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "我们在 Elasticsearch 上构建了一个持久化代理内存层，其召回率为0.89",
-    "summary": "Agent Builder 正式上市（GA）。基于 Elasticsearch 的持久化内存层将记忆分为情景、语义、程序三类，分别存入独立索引，各设不同写速率与过期规则。召回采用 BM25 与 Jina v5 稠密向量的 RRF 融合，再经交叉编码器重排序。在 168 道 QA 题评估中，R@10 平均 0.89，零跨租户泄漏。该层可通过支持 MCP 协议的客户端访问，不绑定特定运行时，已开源至 GitHub。",
-    "url": "https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch",
-    "published": "2026-06-19T05:01:18.006Z",
-    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "阿里开源向量数据库Zvec，UCSD黄碧薇教授提出因果AI第四代范式",
-    "summary": "阿里开源内部向量数据库Zvec，pip install zvec免费使用，对标Pinecone每月70美元能力。支持十亿向量毫秒级检索，无需单独起服务，全平台兼容；v0.5.0新增原生全文混合搜索。UCSD黄碧薇教授（causal-learn作者）提出AI四代范式：相关性小模型→因果小模型→相关性大模型（LLM）→因果大模型，认为当前正站在第四代门口。其创立的Aether AI完成首轮融资，致力于从视频中自动抽取物理规律，探索下一代因果AI范式。",
-    "url": "https://x.com/AYi_AInotes/status/2067832098816250346",
-    "published": "2026-06-19T04:49:25.000Z",
-    "source": "X：阿易 AI Notes (@AYi_AInotes)",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "DeepSeek研究员开源AutoResearch：AI自主跑通285B模型RL研究闭环",
-    "summary": "DeepSeek研究员Deli Chen将AutoResearch协议开源，并发布Self-play综述论文。其AI智能体首次完全自主地在DeepSeek 285B模型上完成完整RL研究闭环--从实验设计、写代码、提交GPU任务、debug到结论总结，全程零人工干预。系统调用了GRPO工具，被视为持续学习研究的开端。",
-    "url": "https://x.com/AYi_AInotes/status/2067819352926150953",
-    "published": "2026-06-19T03:58:46.000Z",
-    "source": "X：阿易 AI Notes (@AYi_AInotes)",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "OpenAI 强化学习实现广泛且持久的有益模型",
-    "summary": "OpenAI 通过强化学习在真实对话场景中训练模型，使其展现诚实、认知谦逊、元认知透明、可纠正性、普遍公平性和对人类福祉的关心等有益特质。训练数据涵盖健康、教育、科学、法律、工程等多个领域。训练后模型在数十项独立对齐评测（包括奖励黑客、欺骗、有害建议、规范遵从等）上均表现提升，且这种改善泛化到未参与训练的领域、任务和评分设定。在对抗性提示或微调下，模型仍难以被导向有害行为，表明有益特质强化学习可产生广泛且持久的对齐泛化。",
-    "url": "https://alignment.openai.com/beneficial-rl",
-    "published": "2026-06-18T18:00:00.000Z",
-    "source": "OpenAI：Alignment 研究博客（RSS）",
-    "source_weight": "high",
-    "category": "paper"
-  },
-  {
-    "title": "如何将 SillyTavern 连接到 OpenRouter（2026 指南）",
-    "summary": "一个 OpenRouter API 密钥即可在 SillyTavern 的下拉菜单中解锁 300 多个模型，其中许多免费。指南包含五步连接流程、推荐尝试的角色扮演模型以及常见错误的修复方法。",
-    "url": "https://openrouter.ai/blog/tutorials/sillytavern-openrouter",
-    "published": "2026-06-18T15:00:00.000Z",
-    "source": "OpenRouter：Announcements（RSS）",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "Nature两篇研究：MIRA和AMIE诊断与治疗计划媲美甚至超越医生",
-    "summary": "德国团队开发的MIRA智能体在模拟电子病历中操作85，000种选项，500余例急诊诊断准确率88.9%，对比测试（311例）得分87.8%，高于资深专科医生（78.1%）和混合团队（71.1%）。MIRA在阑尾炎（98.6%）和胰腺炎（92.3%）最佳，未发现危险药物交互或剂量错误，性能不受语言影响，代码已公开。谷歌AMIE采用双智能体架构，在100个多访视病例中治疗计划适切率95%（初级保健医生72%），并在药物知识基准RxQA上超过医生。两项研究均警告模拟环境与现实存在差距，实际性能可能更低。",
-    "url": "https://the-decoder.com/ai-systems-rival-doctors-in-new-nature-studies-but-one-result-suggests-the-tech-wont-age-well",
-    "published": "2026-06-18T14:37:06.000Z",
-    "source": "The Decoder：AI News（RSS）",
-    "source_weight": "high",
-    "category": "paper"
-  },
-  {
     "title": "A2UI under the hood: Designing for the new era of radically adaptive UI",
     "summary": "<h4>An introduction for designers</h4><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*QMlFF7T7Jm_BYAqEDSMvyA.jpeg\" /></figure><p>As a designer, I am optimistic about this one, and that is not my usual reflex with AI interface design.</p><p>You have probably never heard of it. That is fine, almost no designer has. A2UI still lives in developer corners, written about in code. The idea underneath is worth meeting early, though, because it changes what we do.</p><p>So let me star",
     "url": "https://uxdesign.cc/a2ui-under-the-hood-designing-for-the-new-era-of-radically-adaptive-ui-cebbf5f32fbe?source=rss----138adf9c44c---4",
@@ -167,24 +113,6 @@
     "url": "https://smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/",
     "published": "Tue, 16 Jun 2026 15:00:00 GMT",
     "source": "Smashing Magazine",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "How one of the oldest design portfolio formats needs to change in 2026",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/how-one-of-the-oldest-design-portfolio-formats-needs-to-change-in-2026-b64137494f6a?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*HxzNxXDf5fvFf4QSfLu7OA.jpeg\" width=\"6180\" /></a></p><p class=\"medium-feed-snippet\">There&#x2019;s a better version of the before/after that shows what employers want.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/how-one-of-the-ol",
-    "url": "https://uxdesign.cc/how-one-of-the-oldest-design-portfolio-formats-needs-to-change-in-2026-b64137494f6a?source=rss----138adf9c44c---4",
-    "published": "Tue, 16 Jun 2026 11:41:16 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "The hidden UX of payments",
-    "summary": "<h4>Trust in financial products isn’t built by branding. It’s won or lost in micro-moments most teams never design on purpose.</h4><figure><img alt=\"Illustration of a man pausing thoughtfully over a phone payment, with panels showing moments of a payment journey\" src=\"https://cdn-images-1.medium.com/max/1024/1*W6Nme4_jxSMcQFfH0Hkx8Q.jpeg\" /><figcaption>Illustration generated by AI</figcaption></figure><p>I’ve spent thirteen years designing financial and technical products. Six at PayPal, and alm",
-    "url": "https://uxdesign.cc/the-hidden-ux-of-payments-22b97440be16?source=rss----138adf9c44c---4",
-    "published": "Tue, 16 Jun 2026 11:40:10 GMT",
-    "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
   },
@@ -216,12 +144,66 @@
     "category": "design_communities"
   },
   {
-    "title": "The board is not the game",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-board-is-not-the-game-fad30735adfe?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*X_LejmSbc1Me66P1UGetjw.png\" width=\"2816\" /></a></p><p class=\"medium-feed-snippet\">Your AI product has pieces, cards, and screens. Nobody designed the game.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/the-board-is-not-the-game-fad30735adfe?source=rss----138adf9c44c---4\">Con",
-    "url": "https://uxdesign.cc/the-board-is-not-the-game-fad30735adfe?source=rss----138adf9c44c---4",
-    "published": "Mon, 15 Jun 2026 22:18:47 GMT",
+    "title": "Why the best part of the flow isn't the end",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/why-the-best-part-of-the-flow-isnt-the-end-e9fef73f6bb3?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2100/1*f8eb2lWrLpYKa8eai0vglg.png\" width=\"2100\" /></a></p><p class=\"medium-feed-snippet\">South Korea&#x2019;s &#x201c;dopamine sites&#x201d; let you order food that never arrives. Strip out the transaction and what&#x2019;s left still works &#x2014; which should&#x2026;</p><p cl",
+    "url": "https://uxdesign.cc/why-the-best-part-of-the-flow-isnt-the-end-e9fef73f6bb3?source=rss----138adf9c44c---4",
+    "published": "Sun, 21 Jun 2026 18:23:01 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Two modernisms",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/two-modernisms-ba94169b79dd?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/780/0*lknyAUhyq1O1NkPf\" width=\"780\" /></a></p><p class=\"medium-feed-snippet\">Mies hid the steel. Beck removed the geography. Radix stripped the styles. None of them were making a philosophical statement&#x200a;&#x2014;&#x200a;they were&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/two",
+    "url": "https://uxdesign.cc/two-modernisms-ba94169b79dd?source=rss----138adf9c44c---4",
+    "published": "Sun, 21 Jun 2026 18:21:07 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "What sits on the engawa",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/what-sits-on-the-engawa-46acaa876713?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*bxrlII6C3cm2lgyW8ywbBQ.png\" width=\"10909\" /></a></p><p class=\"medium-feed-snippet\">On designing for wishes we cannot yet wish alone.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/what-sits-on-the-engawa-46acaa876713?source=rss----138adf9c44c---4\">Continue reading on UX Collect",
+    "url": "https://uxdesign.cc/what-sits-on-the-engawa-46acaa876713?source=rss----138adf9c44c---4",
+    "published": "Mon, 22 Jun 2026 09:46:11 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "The Magic 8-Ball vs. Gen AI: a surprisingly interesting comparison",
+    "summary": "<figure><img alt=\"Two products. Both fortune-tellers. Wildly different operating costs.\" src=\"https://cdn-images-1.medium.com/max/1024/1*wFtdsjDVP3KPAtPCtdXrvQ.png\" /><figcaption>Two products. Both fortune-tellers. Wildly different operating costs.</figcaption></figure><h4>One Is a Plastic Sphere Filled With Alcohol. The Other Is a Trillion-Dollar Bet on the Future of Compute. They Do Roughly the Same Job.</h4><p>In 1950, Brunswick Billiards commissioned a Cincinnati novelty firm to design a giv",
+    "url": "https://uxdesign.cc/the-original-magic-8-ball-vs-generative-ai-a-surprisingly-interesting-comparison-d94f982eaba0?source=rss----138adf9c44c---4",
+    "published": "Mon, 22 Jun 2026 06:59:22 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Enterprise software is getting personal",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/enterprise-software-is-getting-personal-dea453bee3e3?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1536/1*0ibSOnEO8BXE2VqfysWaQg.png\" width=\"1536\" /></a></p><p class=\"medium-feed-snippet\">Three design trends reshaping the user experience of enterprise software as we know it.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/enterprise-software-is-getting-personal-dea45",
+    "url": "https://uxdesign.cc/enterprise-software-is-getting-personal-dea453bee3e3?source=rss----138adf9c44c---4",
+    "published": "Fri, 19 Jun 2026 20:33:57 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Prop For That",
+    "summary": "<p>Props for That creates live props based things CSS can't normally see in the browser. Things like cursor position, progress values, certain form states, current time, scroll velocity.</p>\n<hr />\n<p><small><a href=\"https://css-tricks.com/prop-for-that/\" rel=\"nofollow\">Prop For That</a> originally handwritten and published with love on <a href=\"https://css-tricks.com\" rel=\"nofollow\">CSS-Tricks</a>. You should really <a href=\"https://css-tricks.com/newsletters/\">get the newsletter</a> as well.</",
+    "url": "https://css-tricks.com/prop-for-that/",
+    "published": "Tue, 16 Jun 2026 18:36:25 +0000",
+    "source": "CSS-Tricks",
+    "source_weight": "low",
+    "category": "design_communities"
+  },
+  {
+    "title": "Using Scroll-Driven Animations for Opposing Scroll Directions",
+    "summary": "<p class=\"wp-block-paragraph\">Sometimes designers have silly ideas that eventually grow on you. That happened to me with this concept where I had to build columns of items moving in opposite directions when a user scrolls the page.</p>\n<p>CodePen Embed Fallback</p>\n<p class=\"is-style-explanation wp-block-paragraph\"><strong>Note:</strong> This &#8230;</p>\n<hr />\n<p><small><a href=\"https://css-tricks.com/scroll-driven-animations-opposing-scroll-directions/\" rel=\"nofollow\">Using Scroll-Driven Anima",
+    "url": "https://css-tricks.com/scroll-driven-animations-opposing-scroll-directions/",
+    "published": "Mon, 22 Jun 2026 12:39:13 +0000",
+    "source": "CSS-Tricks",
+    "source_weight": "low",
     "category": "design_communities"
   }
 ]

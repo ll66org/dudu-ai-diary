@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-06-21T13:24:00.919946Z",
-  "total_candidates": 25,
+  "fetched_at": "2026-06-22T16:14:04.377330Z",
+  "total_candidates": 23,
   "source_stats": {
     "Figma Blog": {
       "found": 0,
@@ -8,7 +8,7 @@
     },
     "Vercel Blog (v0)": {
       "found": 0,
-      "total": 1254
+      "total": 1255
     },
     "Cursor Changelog": {
       "found": 0,
@@ -35,7 +35,7 @@
       "total": 40
     },
     "UX Collective": {
-      "found": 8,
+      "found": 9,
       "total": 10
     },
     "Designer News": {
@@ -43,7 +43,7 @@
       "total": 0
     },
     "CSS-Tricks": {
-      "found": 1,
+      "found": 2,
       "total": 15
     },
     "A List Apart": {
@@ -51,11 +51,11 @@
       "total": 20
     },
     "Hacker News (设计向)": {
-      "found": 4,
+      "found": 6,
       "total": 20
     },
     "Product Hunt": {
-      "found": 2,
+      "found": 0,
       "total": 50
     },
     "Designer News (AI Design)": {
@@ -64,27 +64,27 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 59,
-  "today_date": "2026-06-21",
+  "dudu_day": 60,
+  "today_date": "2026-06-22",
   "used_titles": [
-    "Oran Ge 开源《人味儿写作心法.skill》解决AI写作缺人味",
     "MiniMax 开源 M3 模型权重及 MSA 技术论文",
     "SpaceX 以 600 亿美元股票收购 AI 编程公司 Cursor",
     "阿里云发布HappyOyster 1.0：一句话生成可实时交互的数字世界",
     "Adobe 为 Photoshop、Premiere 等多款 Creative Cloud 应用加入 AI 智能体",
     "Cloudflare 为 AI 智能体推出临时账户",
-    "开源教程《Deep Agents 实战》发布"
+    "开源教程《Deep Agents 实战》发布",
+    "美团tabbit国际版免费接入GPT-5.5/Claude Opus 4.8等旗舰模型"
   ],
   "used_tools": [
-    "X：Oran Ge (@oran_ge)",
     "公众号：MiniMax（稀宇科技）",
     "TechCrunch：AI（RSS）",
     "IT之家（RSS）",
     "The Decoder：AI News（RSS）",
     "Cloudflare Blog",
-    "X：邵猛 (@shao__meng)"
+    "X：邵猛 (@shao__meng)",
+    "X：阿易 AI Notes (@AYi_AInotes)"
   ],
-  "briefing_total": 30,
-  "briefing_design": 13,
+  "briefing_total": 16,
+  "briefing_design": 7,
   "briefing_count": 5
 }
