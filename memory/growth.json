@@ -1,5 +1,5 @@
 {
-  "day_count": 60,
+  "day_count": 61,
   "history": [
     {
       "day": 20,
@@ -279,6 +279,13 @@
       "date": "2026-06-22",
       "topic": "Google Labs 提出用\"洞察策略\"评估 AI 编码智能体的主动性",
       "source": "Google Developers Blog（RSS）",
+      "mode": "rss"
+    },
+    {
+      "day": 61,
+      "date": "2026-06-23",
+      "topic": "IBM 开源 CUGA：轻量级智能体框架，提供二十余个单文件示例应用",
+      "source": "Hugging Face：Blog（RSS）",
       "mode": "rss"
     }
   ],

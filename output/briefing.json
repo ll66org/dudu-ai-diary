@@ -1,42 +1,42 @@
 [
   {
-    "title": "Google Labs 提出用\"洞察策略\"评估 AI 编码智能体的主动性",
-    "summary": "Google Labs 提出以\"洞察策略\"评估 AI 编码智能体的主动性，而非仅按任务完成度打分。团队基于 Google 内部代码库 705 个 bug（1178 个 CL），通过时空近邻与语义相似度聚类还原开发者实际的高层级目标。初步实验显示：Jules 在单轮探索下洞察相关性评分平均 4.5/5；探索预算从两轮增至",
-    "source": "Google Developers Blog（RSS）",
-    "url": "https://developers.googleblog.com/measuring-what-matters-with-jules",
-    "published_at": "2026-06-22T16:08:41.780Z",
-    "category": "paper"
-  },
-  {
-    "title": "Anthropic 工程负责人：Claude Code 让程序员更孤独",
-    "summary": "6月22日，Anthropic工程负责人Fiona Fung表示，Claude Code和Claude Cowork等AI智能体让工程师越发依赖智能体工作，彼此之间交流减少，长期易感孤独。团队为此组织编程午餐、黑客松和共同开发时段，重新创造面对面协作机会。调查显示Claude Code已成为创业公司最常用的AI编程工具",
-    "source": "IT之家（RSS）",
-    "url": "https://www.ithome.com/0/967/216.htm",
-    "published_at": "2026-06-22T13:25:46.000Z",
-    "category": "tip"
-  },
-  {
-    "title": "Grok Build 推出 /goal 模式，支持长时间自主任务执行",
-    "summary": "xAI 在 Grok Build 中引入 `/goal` 新模式。用户只需用一行命令设定目标，agent 便会自动规划方案、分解任务为进度清单并持续执行，直至目标完成且通过验证，期间可额外下达指令。该模式支持监控与引导命令，任务完成时清单全部勾选。即日起可用，用户可通过 `curl -fsSL | bash` 安装 C",
-    "source": "xAI：News（网页）",
-    "url": "https://x.ai/news/introducing-goal",
-    "published_at": "2026-06-22T00:00:00.000Z",
+    "title": "IBM 开源 CUGA：轻量级智能体框架，提供二十余个单文件示例应用",
+    "summary": "IBM 开源了 CUGA（Configurable Generalist Agent），一个处理规划、执行循环、工具调用和状态管理的轻量级智能体框架。开发者只需提供工具列表和提示词即可构建 CugaAgent。内置计划-执行-反思循环，在 AppWorld（2025年7月-2026年2月）和 WebArena（2025",
+    "source": "Hugging Face：Blog（RSS）",
+    "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
+    "published_at": "2026-06-23T12:51:55.000Z",
     "category": "ai-products"
   },
   {
-    "title": "美团tabbit国际版免费接入GPT-5.5/Claude Opus 4.8等旗舰模型",
-    "summary": "美团近期上线tabbit国际版应用，免费集成多家顶级AI模型的最新旗舰版，包括GPT-5.5、Claude Opus 4.8、Gemini 3.5 Flash，以及国内Kimi-2.6、GLM-5.1、MiniMax-M3。用户无需单独订阅即可使用这些模型。需注意：只有国际版包含海外模型，国内版仅提供国内模型。该应用旨",
-    "source": "X：阿易 AI Notes (@AYi_AInotes)",
-    "url": "https://x.com/AYi_AInotes/status/2068637890247016607",
-    "published_at": "2026-06-21T10:11:21.000Z",
-    "category": "ai-products"
+    "title": "京东全栈开源JoyAI-VL-Interaction，从\"一问一答\"走向\"边看边说\"",
+    "summary": "京东近日开源全球首个全栈交互模型JoyAI-VL-Interaction，获vLLM-Omni原生支持。该模型能持续观察视频流、主动判断关键事件并实时响应，支持将复杂任务委托后台Agent处理。在58个真人盲评中，对比豆包视频通话助手胜率77.6%，对比Gemini视频通话助手胜率87.9%，监控预警场景达100%胜率",
+    "source": "公众号：京东JoyAI",
+    "url": "https://mp.weixin.qq.com/s/IY6XGp4k6VgD9ZPH6YprCA",
+    "published_at": "2026-06-23T06:04:50.000Z",
+    "category": "ai-models"
   },
   {
-    "title": "开源教程《Deep Agents 实战》发布",
-    "summary": "LangChain 官方认证大使 @zhanghaili0610 推出开源教程《Deep Agents 实战》，基于 LangChain / LangGraph 生态，讲解如何用 Deep Agents Harness 框架构建真实 Agent 应用。核心是\"三层架构\"：Runtime（LangGraph）、Frame",
-    "source": "X：邵猛 (@shao__meng)",
-    "url": "https://x.com/shao__meng/status/2068306942184034471",
-    "published_at": "2026-06-20T12:16:16.000Z",
-    "category": "tip"
+    "title": "豆包音频生成模型1.0发布，重新定义AI音频创作",
+    "summary": "火山引擎正式发布豆包音频生成模型1.0（Doubao-Seed-Audio 1.0），支持文本与音频参考生成，端到端输出目标音频。单条Prompt可编排多角色对白、情绪语气、背景音乐及环境氛围，长时生成中保持多角色音色一致性，无需后期多轨混音。模型支持0样本多模态输入，无需额外训练即可生成；实现音色与风格解耦控制及\"一",
+    "source": "公众号：火山引擎",
+    "url": "https://mp.weixin.qq.com/s/iL0uyUjOMUEfudeuDP6wQQ",
+    "published_at": "2026-06-23T05:41:11.000Z",
+    "category": "ai-models"
+  },
+  {
+    "title": "Seed2.1 正式发布，深入 AI 生产力",
+    "summary": "字节Seed发布Seed2.1系列，面向真实生产力场景的智能体，强化通用Agent能力、代码工程交付与多模态理解。Seed2.1 Pro在GDPval基准获最高分，Agents' Last Exam位列参评模型第一梯队；MobileWorld手机GUI任务最高分，CreativeWork多环境任务表现突出。多模态在Ch",
+    "source": "字节 Seed：Research Feed（网页内嵌数据）",
+    "url": "https://seed.bytedance.com/zh/blog/seed2-1-%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83-%E6%B7%B1%E5%85%A5-ai-%E7%94%9F%E4%BA%A7%E5%8A%9B",
+    "published_at": "2026-06-23T00:02:42.000Z",
+    "category": "ai-models"
+  },
+  {
+    "title": "Aleph 2.0 现已集成到 Figma Weave",
+    "summary": "Aleph 2.0 是 Runway 的旗舰视频编辑模型，现已在 Figma Weave 中上线。它是一个基于上下文的视频编辑模型，通过关键帧工作：从视频中提取一帧，重新设计风格并附上时间戳连接回 Aleph 2.0 节点，即可将该编辑传递到主体出现的每一帧，同时保持其他内容不变。支持最长 30 秒、1080p 的片段",
+    "source": "Runway：News（网页）",
+    "url": "https://runwayml.com/news/aleph-2-in-figma-weave",
+    "published_at": "2026-06-22T23:18:22.492Z",
+    "category": "ai-products"
   }
 ]
