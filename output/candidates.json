@@ -1,10 +1,73 @@
 [
   {
-    "title": "IBM 开源 CUGA：轻量级智能体框架，提供二十余个单文件示例应用",
-    "summary": "IBM 开源了 CUGA（Configurable Generalist Agent），一个处理规划、执行循环、工具调用和状态管理的轻量级智能体框架。开发者只需提供工具列表和提示词即可构建 CugaAgent。内置计划-执行-反思循环，在 AppWorld（2025年7月-2026年2月）和 WebArena（2025年2月-9月）基准上排名第一。支持 Fast / Balanced / Accurate 三种推理模式，代码执行可在本地、Docker 或 E2B 沙箱中运行。可互换工具支持 OpenAPI、MCP 和 LangChain 函数，通过环境变量一键切换 OpenAI、watsonx、Ollama 等提供商。随框架发布二十余个单文件示例应用，涵盖电影推荐、IBM Cloud 架构顾问等场景，每个应用仅需一个 FastAPI 文件。",
-    "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
-    "published": "2026-06-23T12:51:55.000Z",
-    "source": "Hugging Face：Blog（RSS）",
+    "title": "I built a local AI deck music assistant on a Mac mini",
+    "summary": "<p>Article URL: <a href=\"https://github.com/wkswede/robot-deck-audio\">https://github.com/wkswede/robot-deck-audio</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48659515\">https://news.ycombinator.com/item?id=48659515</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://github.com/wkswede/robot-deck-audio",
+    "published": "Wed, 24 Jun 2026 13:31:10 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "System design rules I always come back to",
+    "summary": "<p>Article URL: <a href=\"https://www.thetrueengineer.com/p/10-system-design-rules-i-always-come\">https://www.thetrueengineer.com/p/10-system-design-rules-i-always-come</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48659456\">https://news.ycombinator.com/item?id=48659456</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+    "url": "https://www.thetrueengineer.com/p/10-system-design-rules-i-always-come",
+    "published": "Wed, 24 Jun 2026 13:27:10 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "MiniCPM-V 4.6 在 Apple Core AI 上高速运行",
+    "summary": "🥳感谢分享，@MLBoy_DaisukeMajima 🚀\nMiniCPM-V 4.6 在设备上以这样的速度运行，实在令人印象深刻--尤其是在 Apple Core AI 上以不到 2B 参数跑出。\n干得漂亮，推动高效多模态 AI 向前发展。🫡",
+    "url": "https://x.com/OpenBMB/status/2069676334381728106",
+    "published": "2026-06-24T06:57:45.000Z",
+    "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "OpenAI ChatGPT 语音最大规模升级：双向AI语音模型 Bidi 1 已上线测试",
+    "summary": "6月23日，部分用户反馈 ChatGPT 网页版和 App 版上线了双向 AI 语音模型 Bidi 1，位于设置模型选择器中，与标准语音和高级语音并列。该模型支持边说话边监听，用户可在对话中途打断并发出新指令，例如要求从1数到10时中途喊停倒数，模型会立即切换执行。OpenAI 尚未官宣，预计本周启动更大范围测试。",
+    "url": "https://www.ithome.com/0/967/852.htm",
+    "published": "2026-06-24T04:34:24.000Z",
+    "source": "IT之家（RSS）",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "Qwen-AgentWorld 开源：让 Agent 学会\"先预测，再行动\"",
+    "summary": "通义千问推出首个原生语言世界模型 Qwen-AgentWorld，覆盖 MCP、Search、Terminal、SWE、Web、OS、Android 七大领域。模型基于超 1000 万条真实交互轨迹，经 CPT→SFT→RL 三阶段训练，在 AgentWorldBench 上超越 GPT-5.4（58.25）和 Claude Opus 4.8，Qwen-AgentWorld-397B-A17B 取得 58.71 分。两种范式已验证其能力：作为解耦环境模拟器实现可控 Sim RL，在 WideSearch 上超越真实环境 RL（F1 50.3% vs 45.6%）；作为智能体基础模型，LWM 预热可迁移至七个基准（三个完全未出现在训练集中）。模型与评测基准已开源。",
+    "url": "https://mp.weixin.qq.com/s/NV9WGpGsfFz35jww5agM9g",
+    "published": "2026-06-24T03:32:04.000Z",
+    "source": "公众号：通义实验室（千问）",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "Oracle因AI应用裁员21000人，债务驱动云基础设施投资",
+    "summary": "Oracle在截至5月31日的财年裁员21000人，员工总数降至141，000人，降幅12.9%。公司称AI技术的采用导致劳动力缩减，同时重组成本达18亿美元，同比增长481%。Oracle计划2026年通过债务和股权筹集450至500亿美元，扩建Oracle Cloud Infrastructure，服务OpenAI、xAI、AMD、Nvidia、Meta等客户。公司债务超1200亿美元。分析人士指出裁员有助于改善现金流，但Oracle也承认大规模裁员可能带来生产力下降、人才短缺和员工士气受损等风险。",
+    "url": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments",
+    "published": "2026-06-23T20:17:38.000Z",
+    "source": "Ars Technica：AI（RSS）",
+    "source_weight": "high",
+    "category": "industry"
+  },
+  {
+    "title": "FastWan-QAD：单卡5090上1.8秒生成5秒视频",
+    "summary": "Sky Computing Lab 发布 FastWan-QAD 视频生成模型系列，基于 FastVideo 的量化感知蒸馏（QAD）方案训练。在单张 NVIDIA GeForce RTX 5090 上，端到端生成一段 5 秒 480P 视频仅需 1.8 秒。模型、代码及博客已开源。",
+    "url": "https://x.com/haoailab/status/2069493820732170695",
+    "published": "2026-06-23T18:52:30.000Z",
+    "source": "X：Sky Computing Lab (@haoailab)",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "Anthropic 推出 Claude Tag：在 Slack 中通过 @Claude 协作",
+    "summary": "Anthropic 推出 Claude Tag，一种在 Slack 频道中通过 @Claude 委托任务的新协作方式。Claude 可记住频道上下文，支持多用户交互，经授权后可自动学习其他频道和数据源。开启\"环境\"行为后，能主动更新未解决的线程或任务。支持异步工作，可自主推进项目数小时或数天。即日起面向 Claude Enterprise 和 Team 客户提供 beta 版。管理员可精细控制工具和渠道访问权限、设置 token 消耗限额，并查看所有操作日志。",
+    "url": "https://www.anthropic.com/news/introducing-claude-tag",
+    "published": "2026-06-23T17:09:41.902Z",
+    "source": "Anthropic：Newsroom（网页）",
     "source_weight": "high",
     "category": "ai-products"
   },
@@ -36,20 +99,11 @@
     "category": "ai-models"
   },
   {
-    "title": "Aleph 2.0 现已集成到 Figma Weave",
-    "summary": "Aleph 2.0 是 Runway 的旗舰视频编辑模型，现已在 Figma Weave 中上线。它是一个基于上下文的视频编辑模型，通过关键帧工作：从视频中提取一帧，重新设计风格并附上时间戳连接回 Aleph 2.0 节点，即可将该编辑传递到主体出现的每一帧，同时保持其他内容不变。支持最长 30 秒、1080p 的片段，可跨多镜头序列应用编辑，无需逐镜头处理。",
-    "url": "https://runwayml.com/news/aleph-2-in-figma-weave",
-    "published": "2026-06-22T23:18:22.492Z",
-    "source": "Runway：News（网页）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "在 AWS、Google Cloud 和 Microsoft Foundry 上使用完整版 Claude Desktop",
-    "summary": "通过 AWS、Google Cloud 和 Microsoft Foundry 使用 Claude Desktop 的组织现已获得 Chat、Claude Cowork 和 Claude Code 集成的完整桌面体验。IT 团队可将推理保留在自己的云环境中，对话历史本地存储。支持 IAM Identity Center、Workforce Identity Federation、Microsoft Entra ID 或 Okta 登录；策略模板可导出至 Intune、GPO 或 Jamf；提供离线安装器。Chat、Claude Cowork 和 Claude Code 各有独立策略键，支持精细访问控制。M365 连接器通过 Entra 应用访问邮件和文档，并支持 GCC High/DoD 端点。",
-    "url": "https://claude.com/blog/the-full-claude-desktop-experience-on-aws-google-cloud-and-microsoft-foundry",
-    "published": "2026-06-22T21:19:56.013Z",
-    "source": "Claude：Blog（网页）",
+    "title": "OpenRouter推出统一图像API",
+    "summary": "OpenRouter推出统一图像API，整合Google、OpenAI、Black Forest Labs、Recraft、ByteDance、Sourceful、Microsoft、xAI等30+模型。新API提供标准化请求格式，通过`/api/v1/images/models`端点返回每个模型的分辨率、宽高比、输出数量、输入参考图数量、种子等能力描述；通过`/api/v1/images/models/{id}/endpoints`端点获取具体服务商的定价与参数支持（如Seedream 4.5每张$0.04、FLUX.2 Pro每百万像素$0.03、GPT-5.4 Image 2按token计费）。OpenAI的GPT 5系列图像模型支持SSE流式预览，启用`\"stream\"： true`即可边生成边返回预览。新图像模型将仅添加至专用API，建议现有用户切换。",
+    "url": "https://openrouter.ai/blog/announcements/image-api",
+    "published": "2026-06-23T00:00:00.000Z",
+    "source": "OpenRouter：Announcements（RSS）",
     "source_weight": "high",
     "category": "ai-products"
   },
@@ -61,24 +115,6 @@
     "source": "Hacker News 热门（buzzing.cc 中文翻译）",
     "source_weight": "high",
     "category": "ai-products"
-  },
-  {
-    "title": "Sipcode",
-    "summary": "<p>\n            Keep Claude Code's context clean for sharper answers\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/sipcode?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1178555?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/sipcode",
-    "published": "2026-06-22T17:11:52-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Google ADK 与 A2A 协议：跨语言多智能体团队构建实战",
-    "summary": "一篇技术博客展示了如何用 Google Agent Development Kit （ADK） 与 Agent2Agent （A2A） 协议搭建跨语言多智能体流水线：Python agent 调用 Gemini 解析合同条款，Go agent 用纯确定性逻辑校验合规性。A2A 协议通过 Agent Card 实现能力发现、JSON-RPC 2.0 完成通信、Task 状态机管理任务生命周期；ADK 的 RemoteA2aAgent 抽象可将任意 A2A 兼容服务封装成本地子智能体。文中强调将单体提示词分解为专业化微智能体，以解决上下文退化、故障爆炸半径和不可测试性问题。完整源码已在 GitHub 发布。",
-    "url": "https://developers.googleblog.com/build-cross-language-multi-agent-team-with-google-agent-development-kit-and-a2a",
-    "published": "2026-06-22T17:08:43.358Z",
-    "source": "Google Developers Blog（RSS）",
-    "source_weight": "high",
-    "category": "tip"
   },
   {
     "title": "OpenRouter：通过API路由实现AI数据驻留合规",
@@ -108,33 +144,6 @@
     "category": "tip"
   },
   {
-    "title": "HAKARI-Bench：统一条件下比较检索架构与效率设置的轻量级基准",
-    "summary": "HAKARI-Bench 是一个轻量级检索基准，将现有检索套件重建为小型数据集（Nano-sets），涵盖 35 个基准、551 个任务和 43 种语言，采用统一格式实现模型无关比较。它支持 BM25、稠密、稀疏、晚交互和重排序五种检索家族及其效率变体（降维、量化等）在同一条件下对比。在 55 个模型上，整体排名与 MTEB retrieval v2、MMTEB v2 retrieval 及 English BEIR（完整版）的 Spearman 相关系数均高于 0.97。HAKARI-Bench 不取代全面评测，而是用于快速模型选择、回归检测和探索质量-效率帕累托前沿。代码、数据和排行榜以 MIT 许可证开源。",
-    "url": "https://arxiv.org/abs/2606.22778",
-    "published": "2026-06-22T00:00:00.000Z",
-    "source": "HuggingFace Daily Papers（社区热门论文）",
-    "source_weight": "high",
-    "category": "paper"
-  },
-  {
-    "title": "Grok Build 推出 /goal 模式，支持长时间自主任务执行",
-    "summary": "xAI 在 Grok Build 中引入 `/goal` 新模式。用户只需用一行命令设定目标，agent 便会自动规划方案、分解任务为进度清单并持续执行，直至目标完成且通过验证，期间可额外下达指令。该模式支持监控与引导命令，任务完成时清单全部勾选。即日起可用，用户可通过 `curl -fsSL | bash` 安装 CLI 并登录账号即可使用。",
-    "url": "https://x.ai/news/introducing-goal",
-    "published": "2026-06-22T00:00:00.000Z",
-    "source": "xAI：News（网页）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Deploy from Claude Design to Vercel",
-    "summary": "<p>Vercel is now a send-to destination in <a href=\"https://claude.ai/design\">Claude Design</a>. When you finish a design, you can send it to Vercel and get a live URL back without leaving your canvas.</p><p>Claude Design deploys the design as a new project in your connected Vercel account and returns a URL you can open and share.</p><div></div><p>When you're ready to share a design, add Vercel as your destination in the 'Share' menu and connect the <a href=\"https://vercel.com/docs/mcp/vercel-mcp",
-    "url": "https://vercel.com/changelog/claude-design-and-vercel",
-    "published": "",
-    "source": "Vercel Blog (v0)",
-    "source_weight": "high",
-    "category": "design_tools"
-  },
-  {
     "title": "How DesignOps roles are changing with new priorities",
     "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/how-designops-roles-are-changing-with-new-priorities-c8db3a5bc1c3?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*Nr_aQE4ARJdxXac0y7K1sQ.jpeg\" width=\"6000\" /></a></p><p class=\"medium-feed-snippet\">Design Vision Matters More than Ever, When AI is Integrating with Design</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/how-designops-roles-are-changing-with-new-prio",
     "url": "https://uxdesign.cc/how-designops-roles-are-changing-with-new-priorities-c8db3a5bc1c3?source=rss----138adf9c44c---4",
@@ -149,15 +158,6 @@
     "url": "https://uxdesign.cc/your-banking-app-is-lying-to-you-52959b075823?source=rss----138adf9c44c---4",
     "published": "Tue, 23 Jun 2026 11:09:13 GMT",
     "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Designing With Uncertainty: How AI Supercharges Probabilistic Thinking",
-    "summary": "In a world where AI is informing more design choices, it’s easy to mistake predictions for certainties. This article introduces Probabilistic Design, a mindset that allows UX and product teams to accept uncertainty, decipher AI outputs with nuance, and make smart, adaptive decisions.",
-    "url": "https://smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/",
-    "published": "Tue, 16 Jun 2026 15:00:00 GMT",
-    "source": "Smashing Magazine",
     "source_weight": "medium",
     "category": "design_communities"
   },

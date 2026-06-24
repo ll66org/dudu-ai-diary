@@ -1,42 +1,42 @@
 [
   {
-    "title": "IBM 开源 CUGA：轻量级智能体框架，提供二十余个单文件示例应用",
-    "summary": "IBM 开源了 CUGA（Configurable Generalist Agent），一个处理规划、执行循环、工具调用和状态管理的轻量级智能体框架。开发者只需提供工具列表和提示词即可构建 CugaAgent。内置计划-执行-反思循环，在 AppWorld（2025年7月-2026年2月）和 WebArena（2025",
-    "source": "Hugging Face：Blog（RSS）",
-    "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
-    "published_at": "2026-06-23T12:51:55.000Z",
-    "category": "ai-products"
+    "title": "MiniCPM-V 4.6 在 Apple Core AI 上高速运行",
+    "summary": "🥳感谢分享，@MLBoy_DaisukeMajima 🚀\nMiniCPM-V 4.6 在设备上以这样的速度运行，实在令人印象深刻--尤其是在 Apple Core AI 上以不到 2B 参数跑出。\n干得漂亮，推动高效多模态 AI 向前发展。🫡",
+    "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+    "url": "https://x.com/OpenBMB/status/2069676334381728106",
+    "published_at": "2026-06-24T06:57:45.000Z",
+    "category": "tip"
   },
   {
-    "title": "京东全栈开源JoyAI-VL-Interaction，从\"一问一答\"走向\"边看边说\"",
-    "summary": "京东近日开源全球首个全栈交互模型JoyAI-VL-Interaction，获vLLM-Omni原生支持。该模型能持续观察视频流、主动判断关键事件并实时响应，支持将复杂任务委托后台Agent处理。在58个真人盲评中，对比豆包视频通话助手胜率77.6%，对比Gemini视频通话助手胜率87.9%，监控预警场景达100%胜率",
-    "source": "公众号：京东JoyAI",
-    "url": "https://mp.weixin.qq.com/s/IY6XGp4k6VgD9ZPH6YprCA",
-    "published_at": "2026-06-23T06:04:50.000Z",
+    "title": "OpenAI ChatGPT 语音最大规模升级：双向AI语音模型 Bidi 1 已上线测试",
+    "summary": "6月23日，部分用户反馈 ChatGPT 网页版和 App 版上线了双向 AI 语音模型 Bidi 1，位于设置模型选择器中，与标准语音和高级语音并列。该模型支持边说话边监听，用户可在对话中途打断并发出新指令，例如要求从1数到10时中途喊停倒数，模型会立即切换执行。OpenAI 尚未官宣，预计本周启动更大范围测试。",
+    "source": "IT之家（RSS）",
+    "url": "https://www.ithome.com/0/967/852.htm",
+    "published_at": "2026-06-24T04:34:24.000Z",
     "category": "ai-models"
   },
   {
-    "title": "豆包音频生成模型1.0发布，重新定义AI音频创作",
-    "summary": "火山引擎正式发布豆包音频生成模型1.0（Doubao-Seed-Audio 1.0），支持文本与音频参考生成，端到端输出目标音频。单条Prompt可编排多角色对白、情绪语气、背景音乐及环境氛围，长时生成中保持多角色音色一致性，无需后期多轨混音。模型支持0样本多模态输入，无需额外训练即可生成；实现音色与风格解耦控制及\"一",
-    "source": "公众号：火山引擎",
-    "url": "https://mp.weixin.qq.com/s/iL0uyUjOMUEfudeuDP6wQQ",
-    "published_at": "2026-06-23T05:41:11.000Z",
+    "title": "Qwen-AgentWorld 开源：让 Agent 学会\"先预测，再行动\"",
+    "summary": "通义千问推出首个原生语言世界模型 Qwen-AgentWorld，覆盖 MCP、Search、Terminal、SWE、Web、OS、Android 七大领域。模型基于超 1000 万条真实交互轨迹，经 CPT→SFT→RL 三阶段训练，在 AgentWorldBench 上超越 GPT-5.4（58.25）和 Cla",
+    "source": "公众号：通义实验室（千问）",
+    "url": "https://mp.weixin.qq.com/s/NV9WGpGsfFz35jww5agM9g",
+    "published_at": "2026-06-24T03:32:04.000Z",
     "category": "ai-models"
   },
   {
-    "title": "Seed2.1 正式发布，深入 AI 生产力",
-    "summary": "字节Seed发布Seed2.1系列，面向真实生产力场景的智能体，强化通用Agent能力、代码工程交付与多模态理解。Seed2.1 Pro在GDPval基准获最高分，Agents' Last Exam位列参评模型第一梯队；MobileWorld手机GUI任务最高分，CreativeWork多环境任务表现突出。多模态在Ch",
-    "source": "字节 Seed：Research Feed（网页内嵌数据）",
-    "url": "https://seed.bytedance.com/zh/blog/seed2-1-%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83-%E6%B7%B1%E5%85%A5-ai-%E7%94%9F%E4%BA%A7%E5%8A%9B",
-    "published_at": "2026-06-23T00:02:42.000Z",
-    "category": "ai-models"
+    "title": "Oracle因AI应用裁员21000人，债务驱动云基础设施投资",
+    "summary": "Oracle在截至5月31日的财年裁员21000人，员工总数降至141，000人，降幅12.9%。公司称AI技术的采用导致劳动力缩减，同时重组成本达18亿美元，同比增长481%。Oracle计划2026年通过债务和股权筹集450至500亿美元，扩建Oracle Cloud Infrastructure，服务OpenAI",
+    "source": "Ars Technica：AI（RSS）",
+    "url": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments",
+    "published_at": "2026-06-23T20:17:38.000Z",
+    "category": "industry"
   },
   {
-    "title": "Aleph 2.0 现已集成到 Figma Weave",
-    "summary": "Aleph 2.0 是 Runway 的旗舰视频编辑模型，现已在 Figma Weave 中上线。它是一个基于上下文的视频编辑模型，通过关键帧工作：从视频中提取一帧，重新设计风格并附上时间戳连接回 Aleph 2.0 节点，即可将该编辑传递到主体出现的每一帧，同时保持其他内容不变。支持最长 30 秒、1080p 的片段",
-    "source": "Runway：News（网页）",
-    "url": "https://runwayml.com/news/aleph-2-in-figma-weave",
-    "published_at": "2026-06-22T23:18:22.492Z",
-    "category": "ai-products"
+    "title": "FastWan-QAD：单卡5090上1.8秒生成5秒视频",
+    "summary": "Sky Computing Lab 发布 FastWan-QAD 视频生成模型系列，基于 FastVideo 的量化感知蒸馏（QAD）方案训练。在单张 NVIDIA GeForce RTX 5090 上，端到端生成一段 5 秒 480P 视频仅需 1.8 秒。模型、代码及博客已开源。",
+    "source": "X：Sky Computing Lab (@haoailab)",
+    "url": "https://x.com/haoailab/status/2069493820732170695",
+    "published_at": "2026-06-23T18:52:30.000Z",
+    "category": "ai-models"
   }
 ]

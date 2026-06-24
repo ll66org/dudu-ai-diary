@@ -1,5 +1,5 @@
 {
-  "day_count": 61,
+  "day_count": 62,
   "history": [
     {
       "day": 20,
@@ -286,6 +286,13 @@
       "date": "2026-06-23",
       "topic": "IBM 开源 CUGA：轻量级智能体框架，提供二十余个单文件示例应用",
       "source": "Hugging Face：Blog（RSS）",
+      "mode": "rss"
+    },
+    {
+      "day": 62,
+      "date": "2026-06-24",
+      "topic": "MiniCPM-V 4.6 在 Apple Core AI 上高速运行",
+      "source": "X：面壁智能 OpenBMB (@OpenBMB)",
       "mode": "rss"
     }
   ],
