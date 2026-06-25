@@ -1,5 +1,5 @@
 {
-  "day_count": 62,
+  "day_count": 63,
   "history": [
     {
       "day": 20,
@@ -293,6 +293,13 @@
       "date": "2026-06-24",
       "topic": "MiniCPM-V 4.6 在 Apple Core AI 上高速运行",
       "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+      "mode": "rss"
+    },
+    {
+      "day": 63,
+      "date": "2026-06-25",
+      "topic": "Anthropic称阿里巴巴非法获取了Claude AI模型的功能",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "mode": "rss"
     }
   ],

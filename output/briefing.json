@@ -1,42 +1,42 @@
 [
   {
-    "title": "MiniCPM-V 4.6 在 Apple Core AI 上高速运行",
-    "summary": "🥳感谢分享，@MLBoy_DaisukeMajima 🚀\nMiniCPM-V 4.6 在设备上以这样的速度运行，实在令人印象深刻--尤其是在 Apple Core AI 上以不到 2B 参数跑出。\n干得漂亮，推动高效多模态 AI 向前发展。🫡",
-    "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-    "url": "https://x.com/OpenBMB/status/2069676334381728106",
-    "published_at": "2026-06-24T06:57:45.000Z",
-    "category": "tip"
-  },
-  {
-    "title": "OpenAI ChatGPT 语音最大规模升级：双向AI语音模型 Bidi 1 已上线测试",
-    "summary": "6月23日，部分用户反馈 ChatGPT 网页版和 App 版上线了双向 AI 语音模型 Bidi 1，位于设置模型选择器中，与标准语音和高级语音并列。该模型支持边说话边监听，用户可在对话中途打断并发出新指令，例如要求从1数到10时中途喊停倒数，模型会立即切换执行。OpenAI 尚未官宣，预计本周启动更大范围测试。",
-    "source": "IT之家（RSS）",
-    "url": "https://www.ithome.com/0/967/852.htm",
-    "published_at": "2026-06-24T04:34:24.000Z",
-    "category": "ai-models"
-  },
-  {
-    "title": "Qwen-AgentWorld 开源：让 Agent 学会\"先预测，再行动\"",
-    "summary": "通义千问推出首个原生语言世界模型 Qwen-AgentWorld，覆盖 MCP、Search、Terminal、SWE、Web、OS、Android 七大领域。模型基于超 1000 万条真实交互轨迹，经 CPT→SFT→RL 三阶段训练，在 AgentWorldBench 上超越 GPT-5.4（58.25）和 Cla",
-    "source": "公众号：通义实验室（千问）",
-    "url": "https://mp.weixin.qq.com/s/NV9WGpGsfFz35jww5agM9g",
-    "published_at": "2026-06-24T03:32:04.000Z",
-    "category": "ai-models"
-  },
-  {
-    "title": "Oracle因AI应用裁员21000人，债务驱动云基础设施投资",
-    "summary": "Oracle在截至5月31日的财年裁员21000人，员工总数降至141，000人，降幅12.9%。公司称AI技术的采用导致劳动力缩减，同时重组成本达18亿美元，同比增长481%。Oracle计划2026年通过债务和股权筹集450至500亿美元，扩建Oracle Cloud Infrastructure，服务OpenAI",
-    "source": "Ars Technica：AI（RSS）",
-    "url": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments",
-    "published_at": "2026-06-23T20:17:38.000Z",
+    "title": "Anthropic称阿里巴巴非法获取了Claude AI模型的功能",
+    "summary": "Anthropic指控阿里巴巴未经授权提取了其Claude AI模型的能力。该指控基于Anthropic的调查，认为阿里巴巴通过逆向工程或其他手段复制了Claude的核心技术。目前阿里巴巴尚未公开回应。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24",
+    "published_at": "2026-06-25T03:07:48.942Z",
     "category": "industry"
   },
   {
-    "title": "FastWan-QAD：单卡5090上1.8秒生成5秒视频",
-    "summary": "Sky Computing Lab 发布 FastWan-QAD 视频生成模型系列，基于 FastVideo 的量化感知蒸馏（QAD）方案训练。在单张 NVIDIA GeForce RTX 5090 上，端到端生成一段 5 秒 480P 视频仅需 1.8 秒。模型、代码及博客已开源。",
-    "source": "X：Sky Computing Lab (@haoailab)",
-    "url": "https://x.com/haoailab/status/2069493820732170695",
-    "published_at": "2026-06-23T18:52:30.000Z",
+    "title": "盈透证券（Interactive Brokers）与 Grok 集成：组合分析、情景建模与实时交易指令生成",
+    "summary": "盈透证券（Interactive Brokers）近日与 Grok 集成，用户可在几分钟内免费关联现有账户，无需注册新账户。通过自然语言与 Grok 对话，可完成组合收益分析（如股息与利息预测）、行业/地区/经济事件的风险敞口情景建模、市场趋势研究，并直接生成对冲订单等实时交易指令，实现从数据洞察到执行决策的一体化。",
+    "source": "xAI：News（网页）",
+    "url": "https://x.ai/news/grok-interactive-brokers",
+    "published_at": "2026-06-25T00:00:00.000Z",
+    "category": "ai-products"
+  },
+  {
+    "title": "Notion 使用 Cursor SDK 嵌入编码智能体",
+    "summary": "Notion 通过 Cursor SDK 在数周内将编码智能体嵌入产品。用户可在文档中@Cursor、在讨论串中提及或向数据库指派任务，Cursor 即可端到端完成规划、构建、测试、验证并自动创建 PR。集成基于一套 Provider 无关的智能体框架，Notion 的讨论串对应一个 Cursor 智能体，每条消息对应",
+    "source": "Cursor Blog",
+    "url": "https://cursor.com/blog/notion",
+    "published_at": "2026-06-24T20:55:19.799Z",
+    "category": "ai-products"
+  },
+  {
+    "title": "Perplexity推出Computer for Counsel",
+    "summary": "推出 Computer for Counsel。\n\nComputer 现在连接了律师日常使用的研究数据库、文档工具和案件管理系统。可从中提取可引用来源：@midpageAI、@LegalZoom、@Docusign、@netdocuments 等。\n\n所有 Pro 和 Max 订阅用户均可使用。",
+    "source": "X：Perplexity (@perplexity_ai)",
+    "url": "https://x.com/perplexity_ai/status/2069866668671766804",
+    "published_at": "2026-06-24T19:34:04.000Z",
+    "category": "ai-products"
+  },
+  {
+    "title": "GPT-5.5 Instant 新版本，对话更有趣",
+    "summary": "我们为你带来了新版 GPT-5.5 Instant，它现在聊起天来有趣多了。\n\n我们最常用的模型现在能更好地理解问题背后的意图，并相应地调整回应。\n\n它也能更可靠地处理复杂约束，让购物和本地推荐更加实用和连贯。\n\n今天向付费用户推送，明天向免费用户推送。",
+    "source": "X：OpenAI (@OpenAI)",
+    "url": "https://x.com/OpenAI/status/2069843083701915755",
+    "published_at": "2026-06-24T18:00:21.000Z",
     "category": "ai-models"
   }
 ]
