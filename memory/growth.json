@@ -1,5 +1,5 @@
 {
-  "day_count": 63,
+  "day_count": 64,
   "history": [
     {
       "day": 20,
@@ -300,6 +300,13 @@
       "date": "2026-06-25",
       "topic": "Anthropic称阿里巴巴非法获取了Claude AI模型的功能",
       "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "mode": "rss"
+    },
+    {
+      "day": 64,
+      "date": "2026-06-26",
+      "topic": "小互开源个人IP配图技能\"小互IP Studio\"，含31个原创角色",
+      "source": "X：小互 (@xiaohu)",
       "mode": "rss"
     }
   ],

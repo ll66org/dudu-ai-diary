@@ -1,14 +1,14 @@
 {
-  "fetched_at": "2026-06-25T13:38:17.654859Z",
-  "total_candidates": 25,
+  "fetched_at": "2026-06-26T13:33:26.458185Z",
+  "total_candidates": 23,
   "source_stats": {
     "Figma Blog": {
       "found": 0,
       "total": 0
     },
     "Vercel Blog (v0)": {
-      "found": 2,
-      "total": 1273
+      "found": 0,
+      "total": 1278
     },
     "Cursor Changelog": {
       "found": 0,
@@ -35,7 +35,7 @@
       "total": 40
     },
     "UX Collective": {
-      "found": 9,
+      "found": 8,
       "total": 10
     },
     "Designer News": {
@@ -51,11 +51,11 @@
       "total": 20
     },
     "Hacker News (设计向)": {
-      "found": 2,
-      "total": 20
+      "found": 0,
+      "total": 0
     },
     "Product Hunt": {
-      "found": 5,
+      "found": 0,
       "total": 50
     },
     "Designer News (AI Design)": {
@@ -64,27 +64,27 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 63,
-  "today_date": "2026-06-25",
+  "dudu_day": 64,
+  "today_date": "2026-06-26",
   "used_titles": [
-    "Adobe 为 Photoshop、Premiere 等多款 Creative Cloud 应用加入 AI 智能体",
     "Cloudflare 为 AI 智能体推出临时账户",
     "开源教程《Deep Agents 实战》发布",
     "美团tabbit国际版免费接入GPT-5.5/Claude Opus 4.8等旗舰模型",
     "Google Labs 提出用\"洞察策略\"评估 AI 编码智能体的主动性",
     "IBM 开源 CUGA：轻量级智能体框架，提供二十余个单文件示例应用",
-    "MiniCPM-V 4.6 在 Apple Core AI 上高速运行"
+    "MiniCPM-V 4.6 在 Apple Core AI 上高速运行",
+    "Anthropic称阿里巴巴非法获取了Claude AI模型的功能"
   ],
   "used_tools": [
-    "The Decoder：AI News（RSS）",
     "Cloudflare Blog",
     "X：邵猛 (@shao__meng)",
     "X：阿易 AI Notes (@AYi_AInotes)",
     "Google Developers Blog（RSS）",
     "Hugging Face：Blog（RSS）",
-    "X：面壁智能 OpenBMB (@OpenBMB)"
+    "X：面壁智能 OpenBMB (@OpenBMB)",
+    "Hacker News 热门（buzzing.cc 中文翻译）"
   ],
-  "briefing_total": 53,
-  "briefing_design": 24,
+  "briefing_total": 52,
+  "briefing_design": 29,
   "briefing_count": 5
 }

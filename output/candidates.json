@@ -1,30 +1,111 @@
 [
   {
-    "title": "MAGA Congresswoman Denies Using AI to Write Bill",
-    "summary": "<p>Article URL: <a href=\"https://gizmodo.com/maga-congresswoman-denies-using-ai-to-write-bill-love-claude-but-grok-is-way-more-savage-2000777136\">https://gizmodo.com/maga-congresswoman-denies-using-ai-to-write-bill-love-claude-but-grok-is-way-more-savage-2000777136</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48673013\">https://news.ycombinator.com/item?id=48673013</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
-    "url": "https://gizmodo.com/maga-congresswoman-denies-using-ai-to-write-bill-love-claude-but-grok-is-way-more-savage-2000777136",
-    "published": "Thu, 25 Jun 2026 13:26:01 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Cursor, GitLab and Zed agree GitHub is breaking. They disagree on how to rebuild",
-    "summary": "<p>Article URL: <a href=\"https://thenewstack.io/cursor-origin-github-disruption/\">https://thenewstack.io/cursor-origin-github-disruption/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48672916\">https://news.ycombinator.com/item?id=48672916</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://thenewstack.io/cursor-origin-github-disruption/",
-    "published": "Thu, 25 Jun 2026 13:18:51 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Anthropic称阿里巴巴非法获取了Claude AI模型的功能",
-    "summary": "Anthropic指控阿里巴巴未经授权提取了其Claude AI模型的能力。该指控基于Anthropic的调查，认为阿里巴巴通过逆向工程或其他手段复制了Claude的核心技术。目前阿里巴巴尚未公开回应。",
-    "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24",
-    "published": "2026-06-25T03:07:48.942Z",
-    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "title": "小鹏 CEO 何小鹏：2026 年底自动驾驶可以合法进入全球",
+    "summary": "小鹏汽车 CEO 何小鹏微博透露，VLA 2.0 走向全球进入确定模式。联合国 WP29 缔约国会议批准了 DCAS UNR 171 series 02（对应城区 NGP 法规）与 UNR ADS（对应 L3-L5 自动驾驶法规）。DCAS 将在六个月后成为欧盟强制法规，即 2026 年底自动驾驶可合法进入全球；UNR ADS 为框架性法规，加速 L4 级 Robotaxi 落地。何小鹏称 2027 年海外小鹏汽车将搭载 VLA 和 VLM，支持中英文混合语音对话。",
+    "url": "https://www.ithome.com/0/968/894.htm",
+    "published": "2026-06-26T05:40:52.000Z",
+    "source": "IT之家（RSS）",
     "source_weight": "high",
     "category": "industry"
+  },
+  {
+    "title": "Claude Code 6个实用Hook玩法",
+    "summary": "Claude Code 内置近30个Hook事件（年初仅13个），本质是写死的规则脚本，运行时不消耗token。6个实用玩法：权限弹窗提醒、开机日程播报（问候+天气+飞书日程）、上下文预压缩时自动生成摘要卡片、结合Skill自动整理下载文件夹、启动后每小时久坐提醒、通过Bark实现手机/手表任务完成/失败推送。让AI从被动聊天框变为事件驱动的自动化系统。",
+    "url": "https://mp.weixin.qq.com/s/LVj2foSXi_hBRKxjuYaUyw",
+    "published": "2026-06-26T02:02:00.000Z",
+    "source": "公众号：数字生命卡兹克",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "小互开源个人IP配图技能\"小互IP Studio\"，含31个原创角色",
+    "summary": "博主小互开源个人IP配图技能\"小互IP Studio\"，包含31个原创角色（15个手绘线稿角色+16个谐音梗meme形象）及一套配图方法论。该Agent可自动读取文章、规划配图类型（情绪图/示意图/四格漫画）、生成并自查返工。默认画风为手绘线稿淡彩，另备5种皮肤（3D盲盒、黑白线稿等）可切换。安装仅需Python3，支持Claude Code、Codex等工具，需自备OpenAI兼容的图像API key（默认GPT-image-2）；也可只输出提示词手动生图。",
+    "url": "https://x.com/xiaohu/status/2070317717811540149",
+    "published": "2026-06-26T01:26:23.000Z",
+    "source": "X：小互 (@xiaohu)",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "Claude Code v2.1.193 发布",
+    "summary": "Claude Code v2.1.193 新增 `autoMode.classifyAllShell` 设置，将全部 Bash/PowerShell 命令经自动模式分类器处理。自动模式拒绝原因现加入转录、拒绝提示及 `/permissions` 页面。新增 `claude_code.assistant_response` OpenTelemetry 日志事件（默认不记录，需设置 `OTEL_LOG_ASSISTANT_RESPONSES=1`）。Bash 模式支持实时文件路径自动补全；MCP 服务器需认证时显示启动提示。新增空闲后台 shell 命令自动内存压力回收（可禁用）。修复 `/model` UI 状态滞后、后台任务误取消、子 agent 隐藏同级等问题，并改进了后台 agent 启动指令、MCP 认证重连、插件自动重命名等行为。",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.193",
+    "published": "2026-06-25T21:45:57.000Z",
+    "source": "Claude Code：GitHub Releases（RSS）",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "Midjourney 预览 V8.2 并加速草稿模式",
+    "summary": "Midjourney 带来两项更新。一是加入 `--preview` 参数可提前体验 V8.2 的美学与个性化效果；二是此前在 V8.1 推出的大批量草稿模式（生成 24 张低分辨率图，价格仅为标准 4 张的一半，点击 \"Vary\" 可升级为全分辨率）现在支持搭配 `--sref random` 使用，探索风格空间的速度比之前快 24 倍。",
+    "url": "https://x.com/midjourney/status/2070223272072065228",
+    "published": "2026-06-25T19:11:05.000Z",
+    "source": "X：Midjourney (@midjourney)",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "Midjourney V8.1 草稿模式新增随机风格功能",
+    "summary": "Midjourney V8.1 的草稿模式（draft mode）添加了随机风格功能。用户在提示词中加入 `--sref random` 即可一键生成 24 张不同风格的图片。开启草稿模式可通过点击提示栏的 ⚡ 图标或添加 `--draft` 参数。",
+    "url": "https://updates.midjourney.com/random-styles-in-draft-mode",
+    "published": "2026-06-25T18:50:16.000Z",
+    "source": "Midjourney：Updates（RSS）",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "Runway发布Agent 2.0",
+    "summary": "Runway发布Agent 2.0，帮助营销人员创建、测试和优化广告、视频及营销活动。品牌营销人员可在对话中开发活动概念、生成变体并自动本地化；绩效营销人员可上传创意并导入Meta、YouTube、TikTok或Google广告数据，由Agent分析后生成下一轮待测广告。社交媒体营销人员可一次性生成一周内容，自动裁切为9：16、16：9、1：1等格式；产品营销人员可借助Agent确定定位角度并构建活动资产。Agent 2.0面向所有用户开放。",
+    "url": "https://runwayml.com/news/introducing-agent-2",
+    "published": "2026-06-25T18:41:58.502Z",
+    "source": "Runway：News（网页）",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "多数主流AI聊天机器人政治立场偏左，\"反觉醒\"模型也不例外",
+    "summary": "华盛顿邮报调查显示，多数主流AI聊天机器人在政治问题上明显偏左。OpenAI GPT-5.5在80%回答中仅呈现左派论据；DeepSeek V4 Pro为70%；Anthropic Claude Opus 4.8有43%纯左、57%给出双方观点。xAI的Grok 4.3左倾回答仍多于右倾。右翼平台Gab的Arya左倾回答是右倾的12倍。Google Gemini 3.1 Pro是例外，93%回答同时呈现双方立场。特朗普推动的\"反觉醒\"AI未能改变这一格局。",
+    "url": "https://the-decoder.com/most-major-ai-chatbots-still-lean-left-on-political-questions-even-anti-woke-models-are-no-exception",
+    "published": "2026-06-25T16:04:32.000Z",
+    "source": "The Decoder：AI News（RSS）",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "General Intuition 完成 3.2 亿美元融资，用游戏数据训练通用 AI 智能体",
+    "summary": "General Intuition 以 23 亿美元估值完成 3.2 亿美元融资，累计披露融资 4.54 亿美元。公司从旗下游戏剪辑平台 Medal 获取数亿小时含精确按键动作标签的游戏操作数据，训练单一模型同时驾驭 Fortnite 等虚拟环境和四足机器人。演示中，AI 智能体在游戏中连续运行 100 小时，机器人仅靠 8 分钟真实街道数据微调即可自主探索办公室。本轮由 Khosla Ventures 领投，General Catalyst、Jeff Bezos、Eric Schmidt 等参投。资金将用于通过 CoreWeave 扩大计算规模、预训练下一代模型，计划夏末前开放 API。",
+    "url": "https://techcrunch.com/2026/06/25/from-fortnite-to-robots-general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world",
+    "published": "2026-06-25T16:00:00.000Z",
+    "source": "TechCrunch：AI（RSS）",
+    "source_weight": "high",
+    "category": "industry"
+  },
+  {
+    "title": "美团 LongCat 开源 VitaBench 2.0：长期动态智能体基准新标杆",
+    "summary": "美团 LongCat 团队推出 VitaBench 2.0，首个真实生活场景下针对长期动态用户建模的智能体评测基准。包含56名拟真用户、819个复杂任务、超2000个动态偏好及66个可执行工具，每位用户平均2093个交互事件，时间跨度平均1580天。同时支持长文本上下文学习和智能体记忆策略评测。测试显示，最强模型 Claude-Opus-4.6 在\"开卷\"模式下平均分刚过0.5；开启思考模式并不总能提升个性化任务表现；所有模型在需要主动提问的任务上得分断崖式下跌。VitaBench 2.0 已开源。",
+    "url": "https://mp.weixin.qq.com/s/HoiUxYnyJuh2_xdxmg8s8Q",
+    "published": "2026-06-25T11:58:00.000Z",
+    "source": "公众号：龙猫LongCat（美团）",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "OpenAI内部报告：智能体Codex如何改变工作",
+    "summary": "OpenAI 在2025年8月至2026年6月间观察到，智能体产品 Codex 取代 ChatGPT 成为主要工作工具，各部门输出 token 中 Codex 占比从不足10%升至99.8%。80.6%个体用户曾发起预计等效人类工作时间超30分钟的请求，70.2%超1小时，25.6%超8小时；99百分位用户每日生成超60小时 agent turns。非开发者用户增长迅猛：个体用户增长137倍，组织用户增长189倍。Legal、Finance、Recruiting 部门在2026年4月前后跨过 Codex 使用过半拐点，平均每位律师或招聘人员超85%输出 token 来自 Codex。",
+    "url": "https://openai.com/index/how-agents-are-transforming-work",
+    "published": "2026-06-25T02:00:00.000Z",
+    "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+    "source_weight": "high",
+    "category": "paper"
+  },
+  {
+    "title": "OpenRouter MCP 服务器发布",
+    "summary": "OpenRouter 推出 MCP 服务器，为编程智能体提供实时模型数据、基准排名、定价和文档查询。开发者通过一键安装（支持 Claude Code、Codex CLI、Cursor 等客户端），即可在编辑器内完成模型筛选、价格对比和测试推理，无需切换标签页。服务器整合 Artificial Analysis、Design Arena 及 OpenRouter 自身排名数据，例如推荐 GLM-5.2 作为性价比最佳的编码模型。工具集包括 models-list、model-get、model-endpoints、benchmarks 等，支持通过 chat-send 发送测试提示，比较不同模型（如 Claude Opus 4.8、GPT-5.5、DeepSeek V4 Pro）的响应、成本和延迟。API 密钥附带 7 天有效期和 10 美元消费上限，可随时撤销。",
+    "url": "https://openrouter.ai/blog/announcements/openrouter-mcp-server",
+    "published": "2026-06-25T00:00:00.000Z",
+    "source": "OpenRouter：Announcements（RSS）",
+    "source_weight": "high",
+    "category": "ai-products"
   },
   {
     "title": "盈透证券（Interactive Brokers）与 Grok 集成：组合分析、情景建模与实时交易指令生成",
@@ -36,15 +117,6 @@
     "category": "ai-products"
   },
   {
-    "title": "Figma Motion",
-    "summary": "<p>\n            Your Figma canvas now has a timeline\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/figma?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1180511?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/figma",
-    "published": "2026-06-24T22:23:21-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
     "title": "Notion 使用 Cursor SDK 嵌入编码智能体",
     "summary": "Notion 通过 Cursor SDK 在数周内将编码智能体嵌入产品。用户可在文档中@Cursor、在讨论串中提及或向数据库指派任务，Cursor 即可端到端完成规划、构建、测试、验证并自动创建 PR。集成基于一套 Provider 无关的智能体框架，Notion 的讨论串对应一个 Cursor 智能体，每条消息对应一次智能体运行；结果通过 SSE 流式传输，支持断连恢复。Cursor SDK 提供与生产环境相同的模型、运行时和远程 MCP 支持，让 Notion 无需自建智能体基础设施即可获得完整栈编码能力。用户还可自定义模板、MCP 服务器、技能和子智能体，并设置自动触发规则。",
     "url": "https://cursor.com/blog/notion",
@@ -52,159 +124,6 @@
     "source": "Cursor Blog",
     "source_weight": "high",
     "category": "ai-products"
-  },
-  {
-    "title": "Perplexity推出Computer for Counsel",
-    "summary": "推出 Computer for Counsel。\n\nComputer 现在连接了律师日常使用的研究数据库、文档工具和案件管理系统。可从中提取可引用来源：@midpageAI、@LegalZoom、@Docusign、@netdocuments 等。\n\n所有 Pro 和 Max 订阅用户均可使用。",
-    "url": "https://x.com/perplexity_ai/status/2069866668671766804",
-    "published": "2026-06-24T19:34:04.000Z",
-    "source": "X：Perplexity (@perplexity_ai)",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "GPT-5.5 Instant 新版本，对话更有趣",
-    "summary": "我们为你带来了新版 GPT-5.5 Instant，它现在聊起天来有趣多了。\n\n我们最常用的模型现在能更好地理解问题背后的意图，并相应地调整回应。\n\n它也能更可靠地处理复杂约束，让购物和本地推荐更加实用和连贯。\n\n今天向付费用户推送，明天向免费用户推送。",
-    "url": "https://x.com/OpenAI/status/2069843083701915755",
-    "published": "2026-06-24T18:00:21.000Z",
-    "source": "X：OpenAI (@OpenAI)",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "思考即回忆：推理如何解锁LLM中的参数化知识",
-    "summary": "Google Research研究发现，推理（chain-of-thought）能帮助大语言模型（LLM）回忆简单事实，即使这些事实无需复杂推导。在Gemini-2.5 Flash和Pro以及Qwen3-32B上，启用推理后模型能够回答原本无法直接回答的简单问题，pass@k显示正确事实存在于输出分布中。该现象由两个机制驱动：一是生成的推理token充当计算缓冲，允许模型进行隐藏计算以提取参数化知识；二是推理过程中产生的相关事实起到启动效应（factual priming），帮助模型激活正确答案。",
-    "url": "https://research.google/blog/thinking-to-recall-how-reasoning-unlocks-parametric-knowledge-in-llms",
-    "published": "2026-06-24T17:05:40.380Z",
-    "source": "Google Research：Blog（网页）",
-    "source_weight": "high",
-    "category": "paper"
-  },
-  {
-    "title": "Figma在Config 2026押注人类判断，画布AI能力却来自第三方",
-    "summary": "Figma在Config 2026将设计画布扩展至代码、动画、3D深度和着色器效果，并集成去年收购的Weave工作流系统。新功能包括Code Layers（代码与设计并存）、Motion动画、深度层、Shader及Generative Plugins。协作方面，团队可搜索复用AI提示词、保存工作流为技能、共享插件。Figma的AI功能依赖Anthropic、OpenAI和Google等外部模型，推理成本挤压利润率。同时，Anthropic等公司的竞争产品可直接生成界面，构成威胁。",
-    "url": "https://the-decoder.com/figma-bets-on-human-judgment-at-config-2026-while-the-ai-powering-its-canvas-belongs-to-someone-else",
-    "published": "2026-06-24T16:49:01.000Z",
-    "source": "The Decoder：AI News（RSS）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Mistral AI 为 Connectors 推出多项安全与可控新能力",
-    "summary": "2026年6月24日，Mistral AI 发布 Connectors 多项新能力：Enriched admin controls（GA）支持按工作空间设置连接器访问权限并单独开关工具；API keys with connector scopes（GA）防止自动化 AI 工作负载中身份冒充；Multi-account connectors（GA）允许单个连接器绑定多个账户；Connectors Debugger（公开预览）对 MCP 连接器进行端到端根因分析；Connectors in Vibe Code（GA）和 Connectors in Workflows（公开预览）分别允许在开发者界面复用连接器及支持长时间运行任务不中断。",
-    "url": "https://mistral.ai/news/more-control-over-connectors",
-    "published": "2026-06-24T15:59:47.708Z",
-    "source": "Mistral AI：News（网页）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "QuickMaker",
-    "summary": "<p>\n            State of the art AI models in Blender under one subscription\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/quickmaker?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1180333?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/quickmaker",
-    "published": "2026-06-24T14:20:55-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "里德·霍夫曼称SpaceX\"不是一家人工智能公司\"，xAI则是\"彻底的灾难\"",
-    "summary": "LinkedIn联合创始人、Anthropic和OpenAI投资者Reid Hoffman在播客中公开批评SpaceX和xAI。他指出SpaceX\"不是一家人工智能公司\"，6月12日上市后收购AI编程工具Cursor属于\"花钱买相关性\"；xAI则是\"彻底的灾难\"，所有11位联合创始人已离职，Grok模型在基准测试中落后于Anthropic和OpenAI。他还批评美国政府6月11日以出口管制为由强制Anthropic下架Fable和Mythos模型，理由仅为Amazon CEO报告Fable 5存在jailbreak漏洞，称此举\"专断随意\"。Hoffman认为Anthropic和OpenAI均有巨大发展空间，但Cursor可能已过巅峰。他建议年轻人不要抵制AI。",
-    "url": "https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake",
-    "published": "2026-06-24T14:20:14.340Z",
-    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "字节跳动技术副总裁洪定坤：AI Coding 的实践与探索",
-    "summary": "在火山引擎Force大会，字节跳动技术副总裁洪定坤分享AI Coding实践。过去一年，字节AI代码贡献率增长6倍，tokens消耗增长5倍，但过度关注单一指标可能失真--TRAE团队代码超90%由AI生成，人均需求吞吐率仅提升60%。900次实验显示，主流Coding模型组合代码正确率超80%，但可交付性仅40-60分；结合Harness基建后提升至80分。AI降低编程门槛但需优化指标、治理、协作。字节探索原型驱动开发，能力沉淀至TRAE（日均Token消耗5.6万亿，增长50倍），并推出TRAE Work。",
-    "url": "https://mp.weixin.qq.com/s/mdmaAyUIvxE8WT_GEbF2wQ",
-    "published": "2026-06-24T14:02:42.000Z",
-    "source": "公众号：火山引擎",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "Sidegent",
-    "summary": "<p>\n            Learn to build AI agents by actually building them\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/sidegent?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1180085?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/sidegent",
-    "published": "2026-06-24T07:34:41-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Genspark Design",
-    "summary": "<p>\n            Generate UI prototypes, videos, and posters with AI\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/genspark-design?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1180077?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/genspark-design",
-    "published": "2026-06-24T07:18:16-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Zaro",
-    "summary": "<p>\n            Build agents & apps on top of your context with one prompt.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/zaro?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1180059?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/zaro",
-    "published": "2026-06-24T06:54:51-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "OpenAI ChatGPT 语音最大规模升级：双向AI语音模型 Bidi 1 已上线测试",
-    "summary": "6月23日，部分用户反馈 ChatGPT 网页版和 App 版上线了双向 AI 语音模型 Bidi 1，位于设置模型选择器中，与标准语音和高级语音并列。该模型支持边说话边监听，用户可在对话中途打断并发出新指令，例如要求从1数到10时中途喊停倒数，模型会立即切换执行。OpenAI 尚未官宣，预计本周启动更大范围测试。",
-    "url": "https://www.ithome.com/0/967/852.htm",
-    "published": "2026-06-24T04:34:24.000Z",
-    "source": "IT之家（RSS）",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "Qwen-AgentWorld 开源：让 Agent 学会\"先预测，再行动\"",
-    "summary": "通义千问推出首个原生语言世界模型 Qwen-AgentWorld，覆盖 MCP、Search、Terminal、SWE、Web、OS、Android 七大领域。模型基于超 1000 万条真实交互轨迹，经 CPT→SFT→RL 三阶段训练，在 AgentWorldBench 上超越 GPT-5.4（58.25）和 Claude Opus 4.8，Qwen-AgentWorld-397B-A17B 取得 58.71 分。两种范式已验证其能力：作为解耦环境模拟器实现可控 Sim RL，在 WideSearch 上超越真实环境 RL（F1 50.3% vs 45.6%）；作为智能体基础模型，LWM 预热可迁移至七个基准（三个完全未出现在训练集中）。模型与评测基准已开源。",
-    "url": "https://mp.weixin.qq.com/s/NV9WGpGsfFz35jww5agM9g",
-    "published": "2026-06-24T03:32:04.000Z",
-    "source": "公众号：通义实验室（千问）",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "Causal-rCM：自回归视频扩散蒸馏的统一教师强制与自强制开源方案",
-    "summary": "Causal-rCM将扩散蒸馏框架rCM扩展至自回归视频扩散，提出教师强制（TF）与自强制（SF）互补训练范式，并发布统一开源算法与基础设施。通过自定义掩码FlashAttention-2 JVP内核，首次实现基于教师强制的连续时间一致性模型（sCM/MeanFlow）用于自回归视频扩散，收敛速度比离散时间版本快10倍。蒸馏后的2步因果Wan2.1-1.3B模型在仅1或2步采样下取得VBench-T2V分数84.63，仅使用合成数据即达到帧级和块级流式视频生成SOTA。该方法还应用于Cosmos 3全模态世界基础模型，实现动作条件生成的交互式世界模型。",
-    "url": "https://arxiv.org/abs/2606.25473",
-    "published": "2026-06-24T00:00:00.000Z",
-    "source": "HuggingFace Daily Papers（社区热门论文）",
-    "source_weight": "high",
-    "category": "paper"
-  },
-  {
-    "title": "Oracle因AI应用裁员21000人，债务驱动云基础设施投资",
-    "summary": "Oracle在截至5月31日的财年裁员21000人，员工总数降至141，000人，降幅12.9%。公司称AI技术的采用导致劳动力缩减，同时重组成本达18亿美元，同比增长481%。Oracle计划2026年通过债务和股权筹集450至500亿美元，扩建Oracle Cloud Infrastructure，服务OpenAI、xAI、AMD、Nvidia、Meta等客户。公司债务超1200亿美元。分析人士指出裁员有助于改善现金流，但Oracle也承认大规模裁员可能带来生产力下降、人才短缺和员工士气受损等风险。",
-    "url": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments",
-    "published": "2026-06-23T20:17:38.000Z",
-    "source": "Ars Technica：AI（RSS）",
-    "source_weight": "high",
-    "category": "industry"
-  },
-  {
-    "title": "AI SDK 7",
-    "summary": "<p>AI SDK, with over 16 million weekly downloads, is the TypeScript SDK for building AI applications, features, frameworks, and agents across any model provider. It's the same layer <a href=\"https://vercel.com/eve\">eve</a>, Vercel's open-source agent framework, is built on.</p><p>AI SDK 7 adds production depth for agent work across five areas:</p><ul><li><p><b>Develop agents</b> with reasoning control, tool and runtime context, provider files and skills support, MCP Apps, and a terminal UI.</p><",
-    "url": "https://vercel.com/blog/ai-sdk-7",
-    "published": "",
-    "source": "Vercel Blog (v0)",
-    "source_weight": "high",
-    "category": "design_tools"
-  },
-  {
-    "title": "Vercel Flags no longer requires SDK Keys for Vercel deployments",
-    "summary": "<p>New projects using Vercel Flags no longer need to configure SDK Keys or the <code>FLAGS</code> environment variable when evaluating flags inside a Vercel deployment. At runtime, the Vercel adapter automatically receives a short-lived OIDC token, so authentication is handled for you with zero configuration.</p><p>For local development, link your project with <code>vercel link</code> and pull credentials with <code>vercel env pull</code>. That's it.</p><p>Existing projects and all SDK Keys are ",
-    "url": "https://vercel.com/changelog/authenticate-vercel-flags-with-openid-connect-by-default",
-    "published": "",
-    "source": "Vercel Blog (v0)",
-    "source_weight": "high",
-    "category": "design_tools"
   },
   {
     "title": "Your design system runs on one person’s judgment-AI is about to prove it",
@@ -222,6 +141,69 @@
     "published": "Tue, 23 Jun 2026 11:11:43 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Your banking app is lying to you",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/your-banking-app-is-lying-to-you-52959b075823?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1988/1*uLu56arUUlJ1NMazdD9hkA.png\" width=\"1988\" /></a></p><p class=\"medium-feed-snippet\">It shows you a balance. It doesn&#x2019;t show you the future. Here&#x2019;s what happens when AI starts telling the truth.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/your-banking-app",
+    "url": "https://uxdesign.cc/your-banking-app-is-lying-to-you-52959b075823?source=rss----138adf9c44c---4",
+    "published": "Tue, 23 Jun 2026 11:09:13 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "The organizational cost of low taste",
+    "summary": "<h4>When taste is weak, organizations don’t fail in strategy. They fail in decisions.</h4><figure><img alt=\"Flowchart showing how the loss of a shared standard of quality creates organizational decline: unclear quality standards lead to expensive evaluation, slower decisions, more process, more politics, more complexity, talent attrition, and ultimately system drift.\" src=\"https://cdn-images-1.medium.com/max/1024/1*u6YHI9pCm0AKyb0Ehrypuw.png\" /><figcaption><em>This is what happens when an organi",
+    "url": "https://uxdesign.cc/the-organizational-cost-of-low-taste-135cb8b10c34?source=rss----138adf9c44c---4",
+    "published": "Mon, 22 Jun 2026 16:46:04 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Better search, worse web",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/better-search-worse-web-1ed2c43fe38f?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*_gcZ55UrFSuS0eRBp4CNNA.png\" width=\"4200\" /></a></p><p class=\"medium-feed-snippet\">Every number says Google AI Search is better. None of them can see the cost.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/better-search-worse-web-1ed2c43fe38f?source=rss----138adf9c44c---4\">Cont",
+    "url": "https://uxdesign.cc/better-search-worse-web-1ed2c43fe38f?source=rss----138adf9c44c---4",
+    "published": "Mon, 22 Jun 2026 16:45:25 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "What sits on the engawa",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/what-sits-on-the-engawa-46acaa876713?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*bxrlII6C3cm2lgyW8ywbBQ.png\" width=\"10909\" /></a></p><p class=\"medium-feed-snippet\">On designing for wishes we cannot yet wish alone.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/what-sits-on-the-engawa-46acaa876713?source=rss----138adf9c44c---4\">Continue reading on UX Collect",
+    "url": "https://uxdesign.cc/what-sits-on-the-engawa-46acaa876713?source=rss----138adf9c44c---4",
+    "published": "Mon, 22 Jun 2026 09:46:11 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Someone designed this",
+    "summary": "<h4>Why bad UX is often a business decision, not a design failure.</h4><figure><img alt=\"A dark UI screen showing a large glowing yellow ‘Keep Benefits’ button dominating the screen, with a tiny grey ‘cancel’ button circled in red with an arrow pointing to it, illustrating interface interference dark pattern.\" src=\"https://cdn-images-1.medium.com/max/1024/1*PzW-PAz_69Vx6EA20O3lJw.png\" /></figure><p>There’s a screen most people have seen at least once.</p><p>You’re trying to cancel a subscription",
+    "url": "https://uxdesign.cc/someone-designed-this-2d48482b64df?source=rss----138adf9c44c---4",
+    "published": "Fri, 26 Jun 2026 11:09:43 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "How to stop re-explaining yourself to Claude",
+    "summary": "<h4><em>Claude doesn’t know who you are. Here’s how I fixed that.</em></h4><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*12F1WfGqqtKXlXJ-ERA7Yw.png\" /></figure><p>In March I switched from ChatGPT to Claude. The sessions were better, but for the first four to six weeks there was a tax I kept paying at the start of every new chat.</p><p>I’d set up a Cowork project for each design stream I was working on. Each one had its own product context, team context, what I wanted from C",
+    "url": "https://uxdesign.cc/how-to-stop-re-explaining-yourself-to-claude-5845bc5025a2?source=rss----138adf9c44c---4",
+    "published": "Fri, 26 Jun 2026 07:50:16 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Using Scroll-Driven Animations for Opposing Scroll Directions",
+    "summary": "<p class=\"wp-block-paragraph\">Sometimes designers have silly ideas that eventually grow on you. That happened to me with this concept where I had to build columns of items moving in opposite directions when a user scrolls the page.</p>\n<p>CodePen Embed Fallback</p>\n<p class=\"is-style-explanation wp-block-paragraph\"><strong>Note:</strong> This &#8230;</p>\n<hr />\n<p><small><a href=\"https://css-tricks.com/scroll-driven-animations-opposing-scroll-directions/\" rel=\"nofollow\">Using Scroll-Driven Anima",
+    "url": "https://css-tricks.com/scroll-driven-animations-opposing-scroll-directions/",
+    "published": "Mon, 22 Jun 2026 12:39:13 +0000",
+    "source": "CSS-Tricks",
+    "source_weight": "low",
     "category": "design_communities"
   }
 ]
