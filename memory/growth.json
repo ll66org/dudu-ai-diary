@@ -1,5 +1,5 @@
 {
-  "day_count": 64,
+  "day_count": 65,
   "history": [
     {
       "day": 20,
@@ -307,6 +307,13 @@
       "date": "2026-06-26",
       "topic": "小互开源个人IP配图技能\"小互IP Studio\"，含31个原创角色",
       "source": "X：小互 (@xiaohu)",
+      "mode": "rss"
+    },
+    {
+      "day": 65,
+      "date": "2026-06-27",
+      "topic": "AI 账单失控后 DeepSeek 成\"香饽饽\"，部分美国企业已 100% 切换",
+      "source": "IT之家（RSS）",
       "mode": "rss"
     }
   ],

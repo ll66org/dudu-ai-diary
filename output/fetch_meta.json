@@ -1,14 +1,14 @@
 {
-  "fetched_at": "2026-06-26T13:33:26.458185Z",
-  "total_candidates": 23,
+  "fetched_at": "2026-06-27T12:53:43.079611Z",
+  "total_candidates": 25,
   "source_stats": {
     "Figma Blog": {
       "found": 0,
       "total": 0
     },
     "Vercel Blog (v0)": {
-      "found": 0,
-      "total": 1278
+      "found": 1,
+      "total": 1279
     },
     "Cursor Changelog": {
       "found": 0,
@@ -35,7 +35,7 @@
       "total": 40
     },
     "UX Collective": {
-      "found": 8,
+      "found": 9,
       "total": 10
     },
     "Designer News": {
@@ -64,27 +64,27 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 64,
-  "today_date": "2026-06-26",
+  "dudu_day": 65,
+  "today_date": "2026-06-27",
   "used_titles": [
-    "Cloudflare 为 AI 智能体推出临时账户",
     "开源教程《Deep Agents 实战》发布",
     "美团tabbit国际版免费接入GPT-5.5/Claude Opus 4.8等旗舰模型",
     "Google Labs 提出用\"洞察策略\"评估 AI 编码智能体的主动性",
     "IBM 开源 CUGA：轻量级智能体框架，提供二十余个单文件示例应用",
     "MiniCPM-V 4.6 在 Apple Core AI 上高速运行",
-    "Anthropic称阿里巴巴非法获取了Claude AI模型的功能"
+    "Anthropic称阿里巴巴非法获取了Claude AI模型的功能",
+    "小互开源个人IP配图技能\"小互IP Studio\"，含31个原创角色"
   ],
   "used_tools": [
-    "Cloudflare Blog",
     "X：邵猛 (@shao__meng)",
     "X：阿易 AI Notes (@AYi_AInotes)",
     "Google Developers Blog（RSS）",
     "Hugging Face：Blog（RSS）",
     "X：面壁智能 OpenBMB (@OpenBMB)",
-    "Hacker News 热门（buzzing.cc 中文翻译）"
+    "Hacker News 热门（buzzing.cc 中文翻译）",
+    "X：小互 (@xiaohu)"
   ],
-  "briefing_total": 52,
-  "briefing_design": 29,
+  "briefing_total": 45,
+  "briefing_design": 28,
   "briefing_count": 5
 }
