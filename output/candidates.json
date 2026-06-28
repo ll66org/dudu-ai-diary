@@ -1,12 +1,66 @@
 [
   {
-    "title": "AI 账单失控后 DeepSeek 成\"香饽饽\"，部分美国企业已 100% 切换",
-    "summary": "美国企业面临 AI 账单失控，开始转向 Token 最小化策略。旧金山公司 Lindy 此前主要调用 Anthropic 的 Claude 模型，每月 AI 账单超支甚至超过员工工资。该公司 CEO 弗洛·克里维洛表示，本月初已将 100% 流量切换到 DeepSeek，预计未来几个月可节省数百万美元。企业开始采用按任务匹配模型的\"模型路由\"，不再将最贵的前沿模型用于所有场景。部分客户已决定暂停 AI 投入，待证明投资回报率后再继续。",
-    "url": "https://www.ithome.com/0/969/400.htm",
-    "published": "2026-06-27T08:16:09.000Z",
+    "title": "Shadcn/UI components that can be used without react",
+    "summary": "<p>Article URL: <a href=\"https://basecoatui.com/\">https://basecoatui.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48706498\">https://news.ycombinator.com/item?id=48706498</a></p>\n<p>Points: 3</p>\n<p># Comments: 1</p>",
+    "url": "https://basecoatui.com/",
+    "published": "Sun, 28 Jun 2026 11:44:33 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Show HN: AgentWatch – Prevent runaway AI agents with runtime budget enforcement",
+    "summary": "<p>Hi HN,\nI’m a solo developer and built AgentWatch to solve a problem I kept running into while building AI agents: preventing runaway loops and unexpected LLM spend before requests reach the model.\nAgentWatch sits in front of OpenAI, Anthropic, Gemini, Bedrock, Azure OpenAI, Groq, and others to enforce budgets and runtime policies.\nI’d really appreciate your feedback. If you’re building AI agents, does this solve a problem you’ve experienced? I’d also love to hear what you’d improve or challen",
+    "url": "https://agent-watch.dev/",
+    "published": "Sun, 28 Jun 2026 11:09:20 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Grok 4.5 私测于 SpaceX 和 Tesla，性能接近 Opus",
+    "summary": "Grok 4.5，基于我们的1.5T V9基础模型，并在补充训练中加入Cursor数据，现已在SpaceX和Tesla进入私测。初步评估显示其性能接近，或许超越Opus。\n\n强化学习仍在持续显著改进模型，Grok Build工具链也在日益完善。\n\n所有参与者的出色工作！\n\n今年，@SpaceX 将每月发布完全从头训练的新模型。",
+    "url": "https://x.com/elonmusk/status/2071184354756477041",
+    "published": "2026-06-28T10:50:05.000Z",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "仅有三个AI模型在500天创业测试中盈利超过起始资本",
+    "summary": "普林斯顿大学推出CEO-Bench基准测试，让AI智能体在模拟环境中运营订阅软件公司NovaMind 500天，起始资金100万美元。14个测试模型中，仅Claude Fable 5（最佳轮次盈利4715万美元）、Claude Opus 4.8（2780万美元）和GPT-5.5（2130万美元）在最佳运行中超过起始资本。一个不调用语言模型的简单规则启发式方法通过固定定价、配额和针对性开发达到1576万美元，超越除上述三款外的所有模型。多数模型无法保持连贯策略，在模拟结束前破产。该测试旨在衡量AI的长期战略决策能力。",
+    "url": "https://the-decoder.com/only-three-ai-models-finished-above-starting-capital-in-a-500-day-startup-survival-test",
+    "published": "2026-06-28T10:16:13.000Z",
+    "source": "The Decoder：AI News（RSS）",
+    "source_weight": "high",
+    "category": "paper"
+  },
+  {
+    "title": "阿德拉菲尼尔：仅在AI agent工作时阻止Mac睡眠的菜单栏工具",
+    "summary": "Adrafinil 是一款 macOS 菜单栏应用，仅在 Claude Code、Codex、Cursor、Gemini CLI、Aider、Hermes、OpenCode、Cline、Pi 等 9 种 AI coding agent 持有活跃会话时阻止系统睡眠（包括合盖睡眠）。无 agent 工作时，合盖后 Mac 正常睡眠。它通过各 agent 的钩子系统调用 CLI，往返延迟低于 50ms，支持引用计数断言、热切出（温度阈值强制释放）、空闲释放及进程嗅探。需要 macOS Tahoe 26.4，Xcode 26+ 构建，以签名公证的磁盘映像提供。",
+    "url": "https://github.com/kageroumado/adrafinil",
+    "published": "2026-06-28T03:55:17.096Z",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "四大顶级AI对决《文明VI》：Claude核平法国仍输，暴露感知与执行短板",
+    "summary": "英国前首相府数据科学家Liam Wilkinson搭建76个MCP工具，将Claude Opus 4.6、GPT-5.4、Gemini 3.1 Pro等四个模型放入《文明VI》进行23场对局。Claude扮演葡萄牙时，因法国文化胜利逼近，花50回合研发核弹核平图卢兹，但法国最终以外交胜利获胜。Wilkinson发现：AI主动检查全局状态仅占1-2%（感知盲区），计划后10回合内执行率仅48-66%（知行差距）。结论是智商非瓶颈，感知与执行才是关键。",
+    "url": "https://www.ithome.com/0/969/570.htm",
+    "published": "2026-06-28T02:45:16.000Z",
     "source": "IT之家（RSS）",
     "source_weight": "high",
-    "category": "industry"
+    "category": "tip"
+  },
+  {
+    "title": "一次失败的（民族国家？）攻击的剖析",
+    "summary": "作者收到伪装成新加坡VC Lua Ventures的虚假面试邮件，要求完成一个TypeScript仓库的\"测试\"。作者将仓库交给Claude扫描，在`typescript+5.9.2.patch`中发现base64混淆载荷，该载荷在`patch-package`安装时触发，向`~/.cache-`等目录写入`payload.js`和`mutex.js`，构成后门（命名PinpinRAT）。攻击者使用虚构身份和空洞LinkedIn资料，目标是作者在crates.io上的Rust包。相关信息已报告加拿大CCCS等机构。",
+    "url": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack",
+    "published": "2026-06-27T15:39:53.429Z",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "source_weight": "high",
+    "category": "tip"
   },
   {
     "title": "Cursor 研究发现奖励攻击虚增编码智能体 SWE-bench Pro 分数",
@@ -34,6 +88,15 @@
     "source": "X：Rohan Paul (@rohanpaul_ai)",
     "source_weight": "high",
     "category": "tip"
+  },
+  {
+    "title": "Weave 推出智能模型路由工具，可直接接入 Claude Code、Codex 和 Cursor",
+    "summary": "Weave 发布智能模型路由工具，通过 `npx @workweave/router` 安装，作为本地代理运行在 localhost：8080。它采用基于 Avengers-Pro 1 的集群评分器，每个请求自动选择最佳模型。支持 Anthropic、OpenAI、Gemini 原生 API，并通过 OpenRouter 接入 DeepSeek、Kimi、GLM、Qwen、Llama、Mistral 等开源模型。用户自行保管提供商密钥，数据本地加密存储。工具兼容 Claude Code、Codex、Cursor 等客户端，并提供 OTLP 追踪，支持自托管部署。",
+    "url": "https://github.com/workweave/router",
+    "published": "2026-06-26T16:40:11.000Z",
+    "source": "Hacker News：AI 热帖",
+    "source_weight": "high",
+    "category": "ai-products"
   },
   {
     "title": "Leaf 开源项目：将网红峰哥做成实时通话 AI 分身",
@@ -72,69 +135,6 @@
     "category": "tip"
   },
   {
-    "title": "Claude Code v2.1.193 发布",
-    "summary": "Claude Code v2.1.193 新增 `autoMode.classifyAllShell` 设置，将全部 Bash/PowerShell 命令经自动模式分类器处理。自动模式拒绝原因现加入转录、拒绝提示及 `/permissions` 页面。新增 `claude_code.assistant_response` OpenTelemetry 日志事件（默认不记录，需设置 `OTEL_LOG_ASSISTANT_RESPONSES=1`）。Bash 模式支持实时文件路径自动补全；MCP 服务器需认证时显示启动提示。新增空闲后台 shell 命令自动内存压力回收（可禁用）。修复 `/model` UI 状态滞后、后台任务误取消、子 agent 隐藏同级等问题，并改进了后台 agent 启动指令、MCP 认证重连、插件自动重命名等行为。",
-    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.193",
-    "published": "2026-06-25T21:45:57.000Z",
-    "source": "Claude Code：GitHub Releases（RSS）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Midjourney 预览 V8.2 并加速草稿模式",
-    "summary": "Midjourney 带来两项更新。一是加入 `--preview` 参数可提前体验 V8.2 的美学与个性化效果；二是此前在 V8.1 推出的大批量草稿模式（生成 24 张低分辨率图，价格仅为标准 4 张的一半，点击 \"Vary\" 可升级为全分辨率）现在支持搭配 `--sref random` 使用，探索风格空间的速度比之前快 24 倍。",
-    "url": "https://x.com/midjourney/status/2070223272072065228",
-    "published": "2026-06-25T19:11:05.000Z",
-    "source": "X：Midjourney (@midjourney)",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Midjourney V8.1 草稿模式新增随机风格功能",
-    "summary": "Midjourney V8.1 的草稿模式（draft mode）添加了随机风格功能。用户在提示词中加入 `--sref random` 即可一键生成 24 张不同风格的图片。开启草稿模式可通过点击提示栏的 ⚡ 图标或添加 `--draft` 参数。",
-    "url": "https://updates.midjourney.com/random-styles-in-draft-mode",
-    "published": "2026-06-25T18:50:16.000Z",
-    "source": "Midjourney：Updates（RSS）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Runway发布Agent 2.0",
-    "summary": "Runway发布Agent 2.0，帮助营销人员创建、测试和优化广告、视频及营销活动。品牌营销人员可在对话中开发活动概念、生成变体并自动本地化；绩效营销人员可上传创意并导入Meta、YouTube、TikTok或Google广告数据，由Agent分析后生成下一轮待测广告。社交媒体营销人员可一次性生成一周内容，自动裁切为9：16、16：9、1：1等格式；产品营销人员可借助Agent确定定位角度并构建活动资产。Agent 2.0面向所有用户开放。",
-    "url": "https://runwayml.com/news/introducing-agent-2",
-    "published": "2026-06-25T18:41:58.502Z",
-    "source": "Runway：News（网页）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "多数主流AI聊天机器人政治立场偏左，\"反觉醒\"模型也不例外",
-    "summary": "华盛顿邮报调查显示，多数主流AI聊天机器人在政治问题上明显偏左。OpenAI GPT-5.5在80%回答中仅呈现左派论据；DeepSeek V4 Pro为70%；Anthropic Claude Opus 4.8有43%纯左、57%给出双方观点。xAI的Grok 4.3左倾回答仍多于右倾。右翼平台Gab的Arya左倾回答是右倾的12倍。Google Gemini 3.1 Pro是例外，93%回答同时呈现双方立场。特朗普推动的\"反觉醒\"AI未能改变这一格局。",
-    "url": "https://the-decoder.com/most-major-ai-chatbots-still-lean-left-on-political-questions-even-anti-woke-models-are-no-exception",
-    "published": "2026-06-25T16:04:32.000Z",
-    "source": "The Decoder：AI News（RSS）",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "General Intuition 完成 3.2 亿美元融资，用游戏数据训练通用 AI 智能体",
-    "summary": "General Intuition 以 23 亿美元估值完成 3.2 亿美元融资，累计披露融资 4.54 亿美元。公司从旗下游戏剪辑平台 Medal 获取数亿小时含精确按键动作标签的游戏操作数据，训练单一模型同时驾驭 Fortnite 等虚拟环境和四足机器人。演示中，AI 智能体在游戏中连续运行 100 小时，机器人仅靠 8 分钟真实街道数据微调即可自主探索办公室。本轮由 Khosla Ventures 领投，General Catalyst、Jeff Bezos、Eric Schmidt 等参投。资金将用于通过 CoreWeave 扩大计算规模、预训练下一代模型，计划夏末前开放 API。",
-    "url": "https://techcrunch.com/2026/06/25/from-fortnite-to-robots-general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world",
-    "published": "2026-06-25T16:00:00.000Z",
-    "source": "TechCrunch：AI（RSS）",
-    "source_weight": "high",
-    "category": "industry"
-  },
-  {
-    "title": "Vercel Ship 2026 recap",
-    "summary": "<p>For a decade, Vercel has shaped how the web is built. Now, we’re doing the same for agents. The companies that win the next decade will build on infrastructure designed for agents from the start, and over 2,500 people gathered in London this week to do just that at Vercel Ship 2026.</p><h2>Agentic infrastructure </h2><p>Guillermo kicked off Ship by sharing his vision for Vercel: a true full-stack platform where you can deploy anything, including software that can think. </p><div></div><p><a h",
-    "url": "https://vercel.com/blog/vercel-ship-2026-recap",
-    "published": "",
-    "source": "Vercel Blog (v0)",
-    "source_weight": "high",
-    "category": "design_tools"
-  },
-  {
     "title": "Your design system runs on one person’s judgment-AI is about to prove it",
     "summary": "<h3>Your design system runs on one person’s judgment — AI is about to prove it</h3><figure><img alt=\"Screenshot of the open pull request list for IBM’s Carbon design system on GitHub, page 2 of 4, showing 76 open contributions in various states. Several are tagged “status: one more review,” indicating they are waiting on a single human reviewer before they can be merged into the library.\" src=\"https://cdn-images-1.medium.com/max/1024/1*NEaGiMgXP8IaSlGYLMhsXg.png\" /><figcaption><em>76 open contri",
     "url": "https://uxdesign.cc/your-design-system-runs-on-one-persons-judgment-ai-is-about-to-prove-it-4e969a862765?source=rss----138adf9c44c---4",
@@ -162,19 +162,19 @@
     "category": "design_communities"
   },
   {
-    "title": "The organizational cost of low taste",
-    "summary": "<h4>When taste is weak, organizations don’t fail in strategy. They fail in decisions.</h4><figure><img alt=\"Flowchart showing how the loss of a shared standard of quality creates organizational decline: unclear quality standards lead to expensive evaluation, slower decisions, more process, more politics, more complexity, talent attrition, and ultimately system drift.\" src=\"https://cdn-images-1.medium.com/max/1024/1*u6YHI9pCm0AKyb0Ehrypuw.png\" /><figcaption><em>This is what happens when an organi",
-    "url": "https://uxdesign.cc/the-organizational-cost-of-low-taste-135cb8b10c34?source=rss----138adf9c44c---4",
-    "published": "Mon, 22 Jun 2026 16:46:04 GMT",
+    "title": "The bullshit asymmetry principle was survivable. AI made production of slop almost free.",
+    "summary": "<figure><img alt=\"The press never tires. The inspector does.\" src=\"https://cdn-images-1.medium.com/max/1024/1*2WaWnREX_gWhp07rI2s1jA.png\" /><figcaption>The press never tires. The inspector does. AI assisted.</figcaption></figure><h4>It costs ten times more to refute than making it. Generative AI drove the cost of making to zero. The fix is a design problem, not a fact-checking race.</h4><p>In 2013 an Italian programmer named <a href=\"https://en.wikipedia.org/wiki/Brandolini%27s_law\">Alberto Bran",
+    "url": "https://uxdesign.cc/the-bullshit-asymmetry-principle-was-survivable-ai-made-production-of-slop-almost-free-2107dd4530b4?source=rss----138adf9c44c---4",
+    "published": "Sun, 28 Jun 2026 09:17:35 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
   },
   {
-    "title": "Better search, worse web",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/better-search-worse-web-1ed2c43fe38f?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*_gcZ55UrFSuS0eRBp4CNNA.png\" width=\"4200\" /></a></p><p class=\"medium-feed-snippet\">Every number says Google AI Search is better. None of them can see the cost.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/better-search-worse-web-1ed2c43fe38f?source=rss----138adf9c44c---4\">Cont",
-    "url": "https://uxdesign.cc/better-search-worse-web-1ed2c43fe38f?source=rss----138adf9c44c---4",
-    "published": "Mon, 22 Jun 2026 16:45:25 GMT",
+    "title": "Why your Claude Code needs a design stack",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/why-your-claude-code-needs-a-design-stack-46dccbced6e5?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1920/1*I3JwBcH7Gs0eKwT1nw2ptQ.png\" width=\"1920\" /></a></p><p class=\"medium-feed-snippet\">The setup that makes Claude Code fit into your designer workflow</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/why-your-claude-code-needs-a-design-stack-46dccbced6e5?source=rss-",
+    "url": "https://uxdesign.cc/why-your-claude-code-needs-a-design-stack-46dccbced6e5?source=rss----138adf9c44c---4",
+    "published": "Sat, 27 Jun 2026 16:45:31 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"

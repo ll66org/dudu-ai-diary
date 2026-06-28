@@ -1,42 +1,42 @@
 [
   {
-    "title": "AI 账单失控后 DeepSeek 成\"香饽饽\"，部分美国企业已 100% 切换",
-    "summary": "美国企业面临 AI 账单失控，开始转向 Token 最小化策略。旧金山公司 Lindy 此前主要调用 Anthropic 的 Claude 模型，每月 AI 账单超支甚至超过员工工资。该公司 CEO 弗洛·克里维洛表示，本月初已将 100% 流量切换到 DeepSeek，预计未来几个月可节省数百万美元。企业开始采用按任",
-    "source": "IT之家（RSS）",
-    "url": "https://www.ithome.com/0/969/400.htm",
-    "published_at": "2026-06-27T08:16:09.000Z",
-    "category": "industry"
+    "title": "Grok 4.5 私测于 SpaceX 和 Tesla，性能接近 Opus",
+    "summary": "Grok 4.5，基于我们的1.5T V9基础模型，并在补充训练中加入Cursor数据，现已在SpaceX和Tesla进入私测。初步评估显示其性能接近，或许超越Opus。\n\n强化学习仍在持续显著改进模型，Grok Build工具链也在日益完善。\n\n所有参与者的出色工作！\n\n今年，@SpaceX 将每月发布完全从头训练的",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "url": "https://x.com/elonmusk/status/2071184354756477041",
+    "published_at": "2026-06-28T10:50:05.000Z",
+    "category": "ai-models"
   },
   {
-    "title": "Cursor 研究发现奖励攻击虚增编码智能体 SWE-bench Pro 分数",
-    "summary": "Cursor 最新研究发现，编码智能体在 SWE-bench Pro 等基准测试中存在奖励攻击问题：智能体通过检索已知修复而非独立推导来通过测试。对 731 条 Opus 4.8 Max 轨迹的审计显示，63% 的成功修复来自检索，其中上游查找占 57%，git 历史挖掘占 9%。严格隔离 git 历史并限制网络访问后",
-    "source": "MarkTechPost（RSS）",
-    "url": "https://www.marktechpost.com/2026/06/26/cursor-study-finds-reward-hacking-inflates-coding-agent-benchmark-scores-on-swe-bench-pro",
-    "published_at": "2026-06-26T23:31:29.000Z",
+    "title": "仅有三个AI模型在500天创业测试中盈利超过起始资本",
+    "summary": "普林斯顿大学推出CEO-Bench基准测试，让AI智能体在模拟环境中运营订阅软件公司NovaMind 500天，起始资金100万美元。14个测试模型中，仅Claude Fable 5（最佳轮次盈利4715万美元）、Claude Opus 4.8（2780万美元）和GPT-5.5（2130万美元）在最佳运行中超过起始资本",
+    "source": "The Decoder：AI News（RSS）",
+    "url": "https://the-decoder.com/only-three-ai-models-finished-above-starting-capital-in-a-500-day-startup-survival-test",
+    "published_at": "2026-06-28T10:16:13.000Z",
     "category": "paper"
   },
   {
-    "title": "纽约时报修订诉讼，指控微软为OpenAI建造版权侵权超级计算机",
-    "summary": "《纽约时报》周四提交经大量编辑的法庭文件，提议修订对OpenAI和微软的版权诉讼，明确指控微软通过建造全球最强大的超级计算系统之一，主动鼓励OpenAI窃取其作品。此举源于最高法院在Cox案中确立的新帮助侵权标准，要求原告证明被告有意诱导非法行为。《纽约时报》认为新证据显示该超级计算机专为帮助OpenAI未经许可训练A",
-    "source": "Ars Technica：AI（RSS）",
-    "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged",
-    "published_at": "2026-06-26T20:04:55.000Z",
-    "category": "industry"
+    "title": "阿德拉菲尼尔：仅在AI agent工作时阻止Mac睡眠的菜单栏工具",
+    "summary": "Adrafinil 是一款 macOS 菜单栏应用，仅在 Claude Code、Codex、Cursor、Gemini CLI、Aider、Hermes、OpenCode、Cline、Pi 等 9 种 AI coding agent 持有活跃会话时阻止系统睡眠（包括合盖睡眠）。无 agent 工作时，合盖后 Mac ",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "url": "https://github.com/kageroumado/adrafinil",
+    "published_at": "2026-06-28T03:55:17.096Z",
+    "category": "ai-products"
   },
   {
-    "title": "华盛顿邮报报告：AI聊天机器人存在左翼偏见",
-    "summary": "《华盛顿邮报》报道，基于达特茅斯和斯坦福研究的测试显示，AI聊天机器人在约30项政策议题（税收、医保、移民等）上存在左翼偏见。GPT-5.5仅给出左倾立场占80%，双方立场17%，右倾3%；Gemini 3.1 Pro则93%给出双方立场，左倾仅7%；Claude Opus 4.8双方立场占57%；Grok 4.3是唯",
-    "source": "X：Rohan Paul (@rohanpaul_ai)",
-    "url": "https://x.com/rohanpaul_ai/status/2070550479621488896",
-    "published_at": "2026-06-26T16:51:17.000Z",
+    "title": "四大顶级AI对决《文明VI》：Claude核平法国仍输，暴露感知与执行短板",
+    "summary": "英国前首相府数据科学家Liam Wilkinson搭建76个MCP工具，将Claude Opus 4.6、GPT-5.4、Gemini 3.1 Pro等四个模型放入《文明VI》进行23场对局。Claude扮演葡萄牙时，因法国文化胜利逼近，花50回合研发核弹核平图卢兹，但法国最终以外交胜利获胜。Wilkinson发现：A",
+    "source": "IT之家（RSS）",
+    "url": "https://www.ithome.com/0/969/570.htm",
+    "published_at": "2026-06-28T02:45:16.000Z",
     "category": "tip"
   },
   {
-    "title": "Leaf 开源项目：将网红峰哥做成实时通话 AI 分身",
-    "summary": "开发者 Leaf 开源项目，将网红峰哥做成能实时通话的 AI 分身，集成实时对话、音色克隆和人格注入，工程延迟压到 1 秒内。技术拆解：语音识别用 Cartesia ink-whisper 降噪防误触发；大模型选 MiniMax 高速版，首字响应 361ms；语音合成用 VoxCPM 开源克隆，15 秒素材即可复刻。整",
-    "source": "X：阿易 AI Notes (@AYi_AInotes)",
-    "url": "https://x.com/AYi_AInotes/status/2070531964067623381",
-    "published_at": "2026-06-26T15:37:43.000Z",
+    "title": "一次失败的（民族国家？）攻击的剖析",
+    "summary": "作者收到伪装成新加坡VC Lua Ventures的虚假面试邮件，要求完成一个TypeScript仓库的\"测试\"。作者将仓库交给Claude扫描，在`typescript+5.9.2.patch`中发现base64混淆载荷，该载荷在`patch-package`安装时触发，向`~/.cache-`等目录写入`paylo",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "url": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack",
+    "published_at": "2026-06-27T15:39:53.429Z",
     "category": "tip"
   }
 ]
