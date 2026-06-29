@@ -1,5 +1,5 @@
 {
-  "day_count": 66,
+  "day_count": 67,
   "history": [
     {
       "day": 20,
@@ -321,6 +321,13 @@
       "date": "2026-06-28",
       "topic": "Grok 4.5 私测于 SpaceX 和 Tesla，性能接近 Opus",
       "source": "X：Elon Musk (@elonmusk, xAI)",
+      "mode": "rss"
+    },
+    {
+      "day": 67,
+      "date": "2026-06-29",
+      "topic": "Herdr：驻留在终端中的AI智能体多路复用器",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "mode": "rss"
     }
   ],

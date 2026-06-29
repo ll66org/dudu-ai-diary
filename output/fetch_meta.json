@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-28T12:59:55.171073Z",
+  "fetched_at": "2026-06-29T15:00:24.226691Z",
   "total_candidates": 25,
   "source_stats": {
     "Figma Blog": {
@@ -8,7 +8,7 @@
     },
     "Vercel Blog (v0)": {
       "found": 0,
-      "total": 1279
+      "total": 1281
     },
     "Cursor Changelog": {
       "found": 0,
@@ -35,7 +35,7 @@
       "total": 40
     },
     "UX Collective": {
-      "found": 9,
+      "found": 10,
       "total": 10
     },
     "Designer News": {
@@ -51,7 +51,7 @@
       "total": 20
     },
     "Hacker News (设计向)": {
-      "found": 2,
+      "found": 4,
       "total": 20
     },
     "Product Hunt": {
@@ -64,27 +64,27 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 66,
-  "today_date": "2026-06-28",
+  "dudu_day": 67,
+  "today_date": "2026-06-29",
   "used_titles": [
-    "美团tabbit国际版免费接入GPT-5.5/Claude Opus 4.8等旗舰模型",
     "Google Labs 提出用\"洞察策略\"评估 AI 编码智能体的主动性",
     "IBM 开源 CUGA：轻量级智能体框架，提供二十余个单文件示例应用",
     "MiniCPM-V 4.6 在 Apple Core AI 上高速运行",
     "Anthropic称阿里巴巴非法获取了Claude AI模型的功能",
     "小互开源个人IP配图技能\"小互IP Studio\"，含31个原创角色",
-    "AI 账单失控后 DeepSeek 成\"香饽饽\"，部分美国企业已 100% 切换"
+    "AI 账单失控后 DeepSeek 成\"香饽饽\"，部分美国企业已 100% 切换",
+    "Grok 4.5 私测于 SpaceX 和 Tesla，性能接近 Opus"
   ],
   "used_tools": [
-    "X：阿易 AI Notes (@AYi_AInotes)",
     "Google Developers Blog（RSS）",
     "Hugging Face：Blog（RSS）",
     "X：面壁智能 OpenBMB (@OpenBMB)",
     "Hacker News 热门（buzzing.cc 中文翻译）",
     "X：小互 (@xiaohu)",
-    "IT之家（RSS）"
+    "IT之家（RSS）",
+    "X：Elon Musk (@elonmusk, xAI)"
   ],
-  "briefing_total": 42,
-  "briefing_design": 21,
+  "briefing_total": 34,
+  "briefing_design": 17,
   "briefing_count": 5
 }

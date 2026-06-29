@@ -1,42 +1,42 @@
 [
   {
-    "title": "Grok 4.5 私测于 SpaceX 和 Tesla，性能接近 Opus",
-    "summary": "Grok 4.5，基于我们的1.5T V9基础模型，并在补充训练中加入Cursor数据，现已在SpaceX和Tesla进入私测。初步评估显示其性能接近，或许超越Opus。\n\n强化学习仍在持续显著改进模型，Grok Build工具链也在日益完善。\n\n所有参与者的出色工作！\n\n今年，@SpaceX 将每月发布完全从头训练的",
-    "source": "X：Elon Musk (@elonmusk, xAI)",
-    "url": "https://x.com/elonmusk/status/2071184354756477041",
-    "published_at": "2026-06-28T10:50:05.000Z",
-    "category": "ai-models"
-  },
-  {
-    "title": "仅有三个AI模型在500天创业测试中盈利超过起始资本",
-    "summary": "普林斯顿大学推出CEO-Bench基准测试，让AI智能体在模拟环境中运营订阅软件公司NovaMind 500天，起始资金100万美元。14个测试模型中，仅Claude Fable 5（最佳轮次盈利4715万美元）、Claude Opus 4.8（2780万美元）和GPT-5.5（2130万美元）在最佳运行中超过起始资本",
-    "source": "The Decoder：AI News（RSS）",
-    "url": "https://the-decoder.com/only-three-ai-models-finished-above-starting-capital-in-a-500-day-startup-survival-test",
-    "published_at": "2026-06-28T10:16:13.000Z",
-    "category": "paper"
-  },
-  {
-    "title": "阿德拉菲尼尔：仅在AI agent工作时阻止Mac睡眠的菜单栏工具",
-    "summary": "Adrafinil 是一款 macOS 菜单栏应用，仅在 Claude Code、Codex、Cursor、Gemini CLI、Aider、Hermes、OpenCode、Cline、Pi 等 9 种 AI coding agent 持有活跃会话时阻止系统睡眠（包括合盖睡眠）。无 agent 工作时，合盖后 Mac ",
+    "title": "Herdr：驻留在终端中的AI智能体多路复用器",
+    "summary": "Herdr是一个驻留在终端中的AI智能体多路复用器，允许用户在单一终端界面内管理和切换多个AI智能体会话。",
     "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-    "url": "https://github.com/kageroumado/adrafinil",
-    "published_at": "2026-06-28T03:55:17.096Z",
+    "url": "https://github.com/ogulcancelik/herdr",
+    "published_at": "2026-06-29T14:03:06.351Z",
     "category": "ai-products"
   },
   {
-    "title": "四大顶级AI对决《文明VI》：Claude核平法国仍输，暴露感知与执行短板",
-    "summary": "英国前首相府数据科学家Liam Wilkinson搭建76个MCP工具，将Claude Opus 4.6、GPT-5.4、Gemini 3.1 Pro等四个模型放入《文明VI》进行23场对局。Claude扮演葡萄牙时，因法国文化胜利逼近，花50回合研发核弹核平图卢兹，但法国最终以外交胜利获胜。Wilkinson发现：A",
-    "source": "IT之家（RSS）",
-    "url": "https://www.ithome.com/0/969/570.htm",
-    "published_at": "2026-06-28T02:45:16.000Z",
-    "category": "tip"
+    "title": "美军用AI选目标却误炸伊朗学校，Anthropic Claude嵌入Palantir系统首日建议约1000目标",
+    "summary": "美军在打击伊朗时首次大规模使用AI选择目标（Anthropic的Claude模型嵌入Palantir的Maven Smart System，首日建议约1000个目标），但对一所学校的导弹袭击导致约120名儿童死亡。调查发现，情报分析师早在2019年就通过数字工具标记该地点已变为小学，但该工具未连接军方官方目标数据库MI",
+    "source": "The Decoder：AI News（RSS）",
+    "url": "https://the-decoder.com/the-us-military-used-ai-to-pick-thousands-of-targets-but-missed-a-note-saying-one-was-a-school",
+    "published_at": "2026-06-29T12:30:21.000Z",
+    "category": "industry"
   },
   {
-    "title": "一次失败的（民族国家？）攻击的剖析",
-    "summary": "作者收到伪装成新加坡VC Lua Ventures的虚假面试邮件，要求完成一个TypeScript仓库的\"测试\"。作者将仓库交给Claude扫描，在`typescript+5.9.2.patch`中发现base64混淆载荷，该载荷在`patch-package`安装时触发，向`~/.cache-`等目录写入`paylo",
-    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-    "url": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack",
-    "published_at": "2026-06-27T15:39:53.429Z",
+    "title": "EverOS：开源Markdown优先智能体记忆运行时，支持混合检索与自进化技能",
+    "summary": "EverMind 推出开源智能体记忆运行时 EverOS（Apache 2.0 许可）。它以可编辑的 Markdown 文件为记忆主体，经 SQLite 管理状态、LanceDB 实现混合检索（BM25 关键词 + 向量搜索 + 标量过滤）。每个完成的任务记录为 Case，离线提炼为可复用的 Skill，使记忆随使用自",
+    "source": "MarkTechPost（RSS）",
+    "url": "https://www.marktechpost.com/2026/06/29/meet-everos-an-open-source-markdown-first-agent-memory-runtime-with-hybrid-bm25-vector-retrieval-and-self-evolving-skills",
+    "published_at": "2026-06-29T10:42:47.000Z",
+    "category": "ai-products"
+  },
+  {
+    "title": "Claude Code 打开 GitHub 仓库即执行隐藏恶意代码，攻击者可获完全控制",
+    "summary": "安全研究人员在 Mozilla 的 GenAI 漏洞赏金平台 0DIN 发现新攻击向量。一个看似正常的 GitHub 仓库包含 setup 脚本，该脚本运行时从 DNS 条目拉取命令并执行，恶意代码从未存在于仓库中，对扫描器、代码审查和 AI 智能体不可见。开发者使用 Claude Code 等 AI 编码工具打开该仓",
+    "source": "The Decoder：AI News（RSS）",
+    "url": "https://the-decoder.com/claude-code-runs-a-github-repos-hidden-malware-without-verification-giving-attackers-full-control",
+    "published_at": "2026-06-29T10:04:32.000Z",
+    "category": "paper"
+  },
+  {
+    "title": "Artifacts 22：Zyphra、Cohere 和 Poolside 正在扩展生态系统广度",
+    "summary": "开源模型生态正变得更多元，参与者从少数中国公司扩展到全球各类组织。纯模型制造商包括 DeepSeek、智谱、MiniMax、Poolside、Arcee、Zyphra 及主权 AI 玩家 Cohere、Sovereign、Mistral、Trillion Labs；科技巨头如阿里 Qwen、Google Gemma 和",
+    "source": "Nathan Lambert：Interconnects（RSS）",
+    "url": "https://www.interconnects.ai/p/artifacts-22-zyphra-cohere-and-poolside",
+    "published_at": "2026-06-28T17:03:07.000Z",
     "category": "tip"
   }
 ]

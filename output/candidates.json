@@ -1,30 +1,84 @@
 [
   {
-    "title": "Shadcn/UI components that can be used without react",
-    "summary": "<p>Article URL: <a href=\"https://basecoatui.com/\">https://basecoatui.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48706498\">https://news.ycombinator.com/item?id=48706498</a></p>\n<p>Points: 3</p>\n<p># Comments: 1</p>",
-    "url": "https://basecoatui.com/",
-    "published": "Sun, 28 Jun 2026 11:44:33 +0000",
+    "title": "AI Is Dogshit at Design",
+    "summary": "<p>Article URL: <a href=\"https://tomcreighton.com/AI-is-dogshit-at-design/\">https://tomcreighton.com/AI-is-dogshit-at-design/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48719941\">https://news.ycombinator.com/item?id=48719941</a></p>\n<p>Points: 1</p>\n<p># Comments: 4</p>",
+    "url": "https://tomcreighton.com/AI-is-dogshit-at-design/",
+    "published": "Mon, 29 Jun 2026 14:43:32 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Show HN: AgentWatch – Prevent runaway AI agents with runtime budget enforcement",
-    "summary": "<p>Hi HN,\nI’m a solo developer and built AgentWatch to solve a problem I kept running into while building AI agents: preventing runaway loops and unexpected LLM spend before requests reach the model.\nAgentWatch sits in front of OpenAI, Anthropic, Gemini, Bedrock, Azure OpenAI, Groq, and others to enforce budgets and runtime policies.\nI’d really appreciate your feedback. If you’re building AI agents, does this solve a problem you’ve experienced? I’d also love to hear what you’d improve or challen",
-    "url": "https://agent-watch.dev/",
-    "published": "Sun, 28 Jun 2026 11:09:20 +0000",
+    "title": "Show HN: Klorn–I built an email firewall because every AI inbox made mine louder",
+    "summary": "<p>Article URL: <a href=\"https://github.com/k08200/klorn\">https://github.com/k08200/klorn</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48719602\">https://news.ycombinator.com/item?id=48719602</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://github.com/k08200/klorn",
+    "published": "Mon, 29 Jun 2026 14:18:44 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Grok 4.5 私测于 SpaceX 和 Tesla，性能接近 Opus",
-    "summary": "Grok 4.5，基于我们的1.5T V9基础模型，并在补充训练中加入Cursor数据，现已在SpaceX和Tesla进入私测。初步评估显示其性能接近，或许超越Opus。\n\n强化学习仍在持续显著改进模型，Grok Build工具链也在日益完善。\n\n所有参与者的出色工作！\n\n今年，@SpaceX 将每月发布完全从头训练的新模型。",
-    "url": "https://x.com/elonmusk/status/2071184354756477041",
-    "published": "2026-06-28T10:50:05.000Z",
-    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "title": "Once, cyber-attacks required great skill. AI is changing that",
+    "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/commentisfree/2026/jun/29/cyber-attacks-ai\">https://www.theguardian.com/commentisfree/2026/jun/29/cyber-attacks-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48719498\">https://news.ycombinator.com/item?id=48719498</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://www.theguardian.com/commentisfree/2026/jun/29/cyber-attacks-ai",
+    "published": "Mon, 29 Jun 2026 14:10:28 +0000",
+    "source": "Hacker News (设计向)",
     "source_weight": "high",
-    "category": "ai-models"
+    "category": "ai_tech"
+  },
+  {
+    "title": "I built an anime-style UI for watching AI coding agents review each other's code",
+    "summary": "<p>Article URL: <a href=\"https://old.reddit.com/r/codex/comments/1uit86f/i_built_an_animestyle_ui_for_watching_ai_coding/\">https://old.reddit.com/r/codex/comments/1uit86f/i_built_an_animestyle_ui_for_watching_ai_coding/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48719426\">https://news.ycombinator.com/item?id=48719426</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+    "url": "https://old.reddit.com/r/codex/comments/1uit86f/i_built_an_animestyle_ui_for_watching_ai_coding/",
+    "published": "Mon, 29 Jun 2026 14:03:14 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Herdr：驻留在终端中的AI智能体多路复用器",
+    "summary": "Herdr是一个驻留在终端中的AI智能体多路复用器，允许用户在单一终端界面内管理和切换多个AI智能体会话。",
+    "url": "https://github.com/ogulcancelik/herdr",
+    "published": "2026-06-29T14:03:06.351Z",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "美军用AI选目标却误炸伊朗学校，Anthropic Claude嵌入Palantir系统首日建议约1000目标",
+    "summary": "美军在打击伊朗时首次大规模使用AI选择目标（Anthropic的Claude模型嵌入Palantir的Maven Smart System，首日建议约1000个目标），但对一所学校的导弹袭击导致约120名儿童死亡。调查发现，情报分析师早在2019年就通过数字工具标记该地点已变为小学，但该工具未连接军方官方目标数据库MIDB，信息从未送达指挥官。MIDB建于1980年代，依赖手动输入，替代系统MARS多年延迟。五角大楼事后宣布推出agentic AI initiative。Project Maven创建人Jack Shanahan批评目标验证不力不可原谅。",
+    "url": "https://the-decoder.com/the-us-military-used-ai-to-pick-thousands-of-targets-but-missed-a-note-saying-one-was-a-school",
+    "published": "2026-06-29T12:30:21.000Z",
+    "source": "The Decoder：AI News（RSS）",
+    "source_weight": "high",
+    "category": "industry"
+  },
+  {
+    "title": "EverOS：开源Markdown优先智能体记忆运行时，支持混合检索与自进化技能",
+    "summary": "EverMind 推出开源智能体记忆运行时 EverOS（Apache 2.0 许可）。它以可编辑的 Markdown 文件为记忆主体，经 SQLite 管理状态、LanceDB 实现混合检索（BM25 关键词 + 向量搜索 + 标量过滤）。每个完成的任务记录为 Case，离线提炼为可复用的 Skill，使记忆随使用自我进化。v1.1.0 新增 Knowledge APIs（支持分类与话题搜索的 Markdown 页面）和 Reflection（跨会话优化 Profile 和 Skill）。据 EverMind 报告，LoCoMo 得分 93.05%，LongMemEval 83.00%，HaluMem 93.04%，p95 检索延迟低于 500ms。运行时可本地优先部署，也提供 EverOS Cloud 托管选项，兼容 OpenAI 协议端点。",
+    "url": "https://www.marktechpost.com/2026/06/29/meet-everos-an-open-source-markdown-first-agent-memory-runtime-with-hybrid-bm25-vector-retrieval-and-self-evolving-skills",
+    "published": "2026-06-29T10:42:47.000Z",
+    "source": "MarkTechPost（RSS）",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "Claude Code 打开 GitHub 仓库即执行隐藏恶意代码，攻击者可获完全控制",
+    "summary": "安全研究人员在 Mozilla 的 GenAI 漏洞赏金平台 0DIN 发现新攻击向量。一个看似正常的 GitHub 仓库包含 setup 脚本，该脚本运行时从 DNS 条目拉取命令并执行，恶意代码从未存在于仓库中，对扫描器、代码审查和 AI 智能体不可见。开发者使用 Claude Code 等 AI 编码工具打开该仓库时，Claude Code 在设置过程中遇到常规错误消息后自动运行该脚本，打开反向 shell，攻击者可窃取 API 密钥和登录凭据并维持持久访问。研究人员建议 AI 智能体应在运行前显示 setup 脚本内容，开发者应将第三方仓库的 setup 说明视为不受信任代码。",
+    "url": "https://the-decoder.com/claude-code-runs-a-github-repos-hidden-malware-without-verification-giving-attackers-full-control",
+    "published": "2026-06-29T10:04:32.000Z",
+    "source": "The Decoder：AI News（RSS）",
+    "source_weight": "high",
+    "category": "paper"
+  },
+  {
+    "title": "Artifacts 22：Zyphra、Cohere 和 Poolside 正在扩展生态系统广度",
+    "summary": "开源模型生态正变得更多元，参与者从少数中国公司扩展到全球各类组织。纯模型制造商包括 DeepSeek、智谱、MiniMax、Poolside、Arcee、Zyphra 及主权 AI 玩家 Cohere、Sovereign、Mistral、Trillion Labs；科技巨头如阿里 Qwen、Google Gemma 和 NVIDIA 各有不同动机；产品公司如 JetBrains、Zed、Krea、Photoroom 则训练高度专业的小模型。NVIDIA 发布 Nemotron-3-Ultra-550B-A55B-BF16，采用 LatentMoE 架构并改用 OpenMDW 许可证。Cohere 以 Apache 2.0 开源其旗舰模型 Command A+（05-2026-bf16），这是一款 218B-A25B MoE 模型，具备多模态、多语言和智能体能力。",
+    "url": "https://www.interconnects.ai/p/artifacts-22-zyphra-cohere-and-poolside",
+    "published": "2026-06-28T17:03:07.000Z",
+    "source": "Nathan Lambert：Interconnects（RSS）",
+    "source_weight": "high",
+    "category": "tip"
   },
   {
     "title": "仅有三个AI模型在500天创业测试中盈利超过起始资本",
@@ -99,64 +153,19 @@
     "category": "ai-products"
   },
   {
-    "title": "Leaf 开源项目：将网红峰哥做成实时通话 AI 分身",
-    "summary": "开发者 Leaf 开源项目，将网红峰哥做成能实时通话的 AI 分身，集成实时对话、音色克隆和人格注入，工程延迟压到 1 秒内。技术拆解：语音识别用 Cartesia ink-whisper 降噪防误触发；大模型选 MiniMax 高速版，首字响应 361ms；语音合成用 VoxCPM 开源克隆，15 秒素材即可复刻。整体从最初 8-20 秒优化至体感 2-3 秒。人格通过女娲 Skill 从直播语料蒸馏出口头禅和思维逻辑。普通人半小时可跑通：克隆项目后，用 Claude Code 或 Cursor 配置，填两个 API Key 即可使用。",
-    "url": "https://x.com/AYi_AInotes/status/2070531964067623381",
-    "published": "2026-06-26T15:37:43.000Z",
-    "source": "X：阿易 AI Notes (@AYi_AInotes)",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "Anthropic Economic Index 报告：使用节奏",
-    "summary": "Anthropic 发布 Economic Index 报告，基于隐私保护遥测数据分析了 Claude 的使用节奏。工作日个人对话占比约 35%，周末升至近 50%；高薪职业在工作日外的使用占比更高。日内模式显示：新闻请求集中在早上 7 点，食谱在下午 6 点达到 2.3 倍高频，睡眠建议凌晨 3 点最多。税收相关请求在 4 月 15 日美国报税截止日前激增。调查还发现：使用 Claude 最自动化的用户预计 AI 明年将承担更多任务，但对薪资、工作安全及工作意义的预期最为乐观。",
-    "url": "https://www.anthropic.com/research/economic-index-june-2026-report",
-    "published": "2026-06-26T15:18:56.294Z",
-    "source": "Anthropic：Research（发表成果 · 网页）",
-    "source_weight": "high",
-    "category": "paper"
-  },
-  {
-    "title": "小鹏 CEO 何小鹏：2026 年底自动驾驶可以合法进入全球",
-    "summary": "小鹏汽车 CEO 何小鹏微博透露，VLA 2.0 走向全球进入确定模式。联合国 WP29 缔约国会议批准了 DCAS UNR 171 series 02（对应城区 NGP 法规）与 UNR ADS（对应 L3-L5 自动驾驶法规）。DCAS 将在六个月后成为欧盟强制法规，即 2026 年底自动驾驶可合法进入全球；UNR ADS 为框架性法规，加速 L4 级 Robotaxi 落地。何小鹏称 2027 年海外小鹏汽车将搭载 VLA 和 VLM，支持中英文混合语音对话。",
-    "url": "https://www.ithome.com/0/968/894.htm",
-    "published": "2026-06-26T05:40:52.000Z",
-    "source": "IT之家（RSS）",
-    "source_weight": "high",
-    "category": "industry"
-  },
-  {
-    "title": "Claude Code 6个实用Hook玩法",
-    "summary": "Claude Code 内置近30个Hook事件（年初仅13个），本质是写死的规则脚本，运行时不消耗token。6个实用玩法：权限弹窗提醒、开机日程播报（问候+天气+飞书日程）、上下文预压缩时自动生成摘要卡片、结合Skill自动整理下载文件夹、启动后每小时久坐提醒、通过Bark实现手机/手表任务完成/失败推送。让AI从被动聊天框变为事件驱动的自动化系统。",
-    "url": "https://mp.weixin.qq.com/s/LVj2foSXi_hBRKxjuYaUyw",
-    "published": "2026-06-26T02:02:00.000Z",
-    "source": "公众号：数字生命卡兹克",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "Your design system runs on one person’s judgment-AI is about to prove it",
-    "summary": "<h3>Your design system runs on one person’s judgment — AI is about to prove it</h3><figure><img alt=\"Screenshot of the open pull request list for IBM’s Carbon design system on GitHub, page 2 of 4, showing 76 open contributions in various states. Several are tagged “status: one more review,” indicating they are waiting on a single human reviewer before they can be merged into the library.\" src=\"https://cdn-images-1.medium.com/max/1024/1*NEaGiMgXP8IaSlGYLMhsXg.png\" /><figcaption><em>76 open contri",
-    "url": "https://uxdesign.cc/your-design-system-runs-on-one-persons-judgment-ai-is-about-to-prove-it-4e969a862765?source=rss----138adf9c44c---4",
-    "published": "Wed, 24 Jun 2026 22:38:19 GMT",
+    "title": "When the profession outruns the mentor",
+    "summary": "<h4>AI is redefining work faster than experience can be passed on.</h4><figure><img alt=\"A man runs past a bright orange train to catch a train at Paddington station.\" src=\"https://cdn-images-1.medium.com/max/1024/1*y8IadfEBQxK4i4XJ41Pn9w.jpeg\" /><figcaption>Image source: <a href=\"https://www.gettyimages.com/detail/photo/running-for-a-train-royalty-free-image/1383494764\">Getty Images</a></figcaption></figure><p>Mentorship has traditionally depended on mentors having experience that mentees have ",
+    "url": "https://uxdesign.cc/when-the-profession-outruns-the-mentor-5f40596e17ca?source=rss----138adf9c44c---4",
+    "published": "Sun, 28 Jun 2026 22:00:11 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
   },
   {
-    "title": "How DesignOps roles are changing with new priorities",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/how-designops-roles-are-changing-with-new-priorities-c8db3a5bc1c3?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*Nr_aQE4ARJdxXac0y7K1sQ.jpeg\" width=\"6000\" /></a></p><p class=\"medium-feed-snippet\">Design Vision Matters More than Ever, When AI is Integrating with Design</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/how-designops-roles-are-changing-with-new-prio",
-    "url": "https://uxdesign.cc/how-designops-roles-are-changing-with-new-priorities-c8db3a5bc1c3?source=rss----138adf9c44c---4",
-    "published": "Tue, 23 Jun 2026 11:11:43 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Your banking app is lying to you",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/your-banking-app-is-lying-to-you-52959b075823?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1988/1*uLu56arUUlJ1NMazdD9hkA.png\" width=\"1988\" /></a></p><p class=\"medium-feed-snippet\">It shows you a balance. It doesn&#x2019;t show you the future. Here&#x2019;s what happens when AI starts telling the truth.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/your-banking-app",
-    "url": "https://uxdesign.cc/your-banking-app-is-lying-to-you-52959b075823?source=rss----138adf9c44c---4",
-    "published": "Tue, 23 Jun 2026 11:09:13 GMT",
+    "title": "What are hypertokens? The layer between tokens and components, rebuilt for agents",
+    "summary": "<h4>A concept on the horizon, explored</h4><p>A token holds a single decision. A component is a whole assembly. The interesting work lives in the gap between them, and people have worked that gap for years under different names. What it never had was one shared definition that every tool could build from.</p><figure><img alt=\"hypertokens?\" src=\"https://cdn-images-1.medium.com/max/1024/1*qXTB1d3Y-uv95AmNaJ6kpg.jpeg\" /></figure><p>That gap used to be harmless. “The heading” might live in your CSS,",
+    "url": "https://uxdesign.cc/what-are-hypertokens-the-layer-between-tokens-and-components-rebuilt-for-agents-962dbe93e0c4?source=rss----138adf9c44c---4",
+    "published": "Sun, 28 Jun 2026 14:48:13 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
@@ -180,48 +189,39 @@
     "category": "design_communities"
   },
   {
+    "title": "Rethinking Figma, the cost of low taste, your banking app is lying to you",
+    "summary": "<h4>Weekly curated resources for designers — thinkers and makers.</h4><figure><a href=\"https://uxdesign.cc/rethinking-figma-in-an-ai-world-0facba587ba5\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/0*wNH7jgzpFkkCa3lB.png\" /></a></figure><p>“For more than a decade, Figma defined modern product design. It made collaboration effortless, turned design into a shared language, and became the default workspace for teams building software. But as AI reshapes how products are planned, protot",
+    "url": "https://uxdesign.cc/rethinking-figma-the-cost-of-low-taste-your-banking-app-is-lying-to-you-20f2ec172f03?source=rss----138adf9c44c---4",
+    "published": "Mon, 29 Jun 2026 11:10:21 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Can AI make OCD worse?",
+    "summary": "<h4>The hidden cost of always agreeable, always available chatbots</h4><figure><img alt=\"Person sitting on a bed at night, looking at a phone beneath a cloud of anxious questions.\" src=\"https://cdn-images-1.medium.com/max/1024/1*PiRfxUISMHRiYRE2POSsxA.png\" /><figcaption>What I’m like at 2 a.m., spending hours rephrasing one tiny question for AI.</figcaption></figure><p>I start researching this topic because of personal experience. As a diagnosed OCD patient, I have spent more nights than I’d lik",
+    "url": "https://uxdesign.cc/can-ai-make-ocd-worse-69fc01c0c71f?source=rss----138adf9c44c---4",
+    "published": "Mon, 29 Jun 2026 11:08:59 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Japan Doesn’t Design With Less. It Designs With Ma.",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/japan-doesnt-design-with-less-it-designs-with-ma-73f8e3ce6ee5?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1125/1*R0IFeL-8q2Xttpd4E9POsg.png\" width=\"1125\" /></a></p><p class=\"medium-feed-snippet\">Why global design inherited the wrong framework for reading Japanese aesthetics.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/japan-doesnt-design-with-less-it-designs-wi",
+    "url": "https://uxdesign.cc/japan-doesnt-design-with-less-it-designs-with-ma-73f8e3ce6ee5?source=rss----138adf9c44c---4",
+    "published": "Mon, 29 Jun 2026 07:38:23 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
     "title": "Discovery is a capability, not a phase",
     "summary": "<h4><em>The judgment layer most discovery practice leaves unexplored</em></h4><figure><img alt=\"Abstract cross-section showing geological strata beneath a dark geometric grid surface. Rich layers of deep teal and dark rock formations accumulate below the surface plane, illuminated by a warm amber glow at the boundary between the visible surface and the hidden depth. Small points of teal bioluminescent light are scattered through the deeper layers.\" src=\"https://cdn-images-1.medium.com/max/1024/1",
     "url": "https://uxdesign.cc/discovery-is-a-capability-not-a-phase-0fd6c1dab2f5?source=rss----138adf9c44c---4",
     "published": "Fri, 26 Jun 2026 21:58:55 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "The boundary between philosophy and design: Leveraging pure thought",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-boundary-between-philosophy-and-design-leveraging-pure-thought-72a903b05f57?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/700/0*T17tevZVSpYhGKch.png\" width=\"700\" /></a></p><p class=\"medium-feed-snippet\">Following the line from Plato&#x2019;s Forms to the iPod, and what it reveals about where great design actually begins.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesi",
-    "url": "https://uxdesign.cc/the-boundary-between-philosophy-and-design-leveraging-pure-thought-72a903b05f57?source=rss----138adf9c44c---4",
-    "published": "Fri, 26 Jun 2026 21:58:37 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Someone designed this",
-    "summary": "<h4>Why bad UX is often a business decision, not a design failure.</h4><figure><img alt=\"A dark UI screen showing a large glowing yellow ‘Keep Benefits’ button dominating the screen, with a tiny grey ‘cancel’ button circled in red with an arrow pointing to it, illustrating interface interference dark pattern.\" src=\"https://cdn-images-1.medium.com/max/1024/1*PzW-PAz_69Vx6EA20O3lJw.png\" /></figure><p>There’s a screen most people have seen at least once.</p><p>You’re trying to cancel a subscription",
-    "url": "https://uxdesign.cc/someone-designed-this-2d48482b64df?source=rss----138adf9c44c---4",
-    "published": "Fri, 26 Jun 2026 11:09:43 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "How to stop re-explaining yourself to Claude",
-    "summary": "<h4><em>Claude doesn’t know who you are. Here’s how I fixed that.</em></h4><figure><img alt=\"Glowing fluorescent “TAX” sign in window\" src=\"https://cdn-images-1.medium.com/max/1024/1*12F1WfGqqtKXlXJ-ERA7Yw.png\" /></figure><p>In March I switched from ChatGPT to Claude. The sessions were better, but for the first four to six weeks there was a tax I kept paying at the start of every new chat.</p><p>I’d set up a Cowork project for each design stream I was working on. Each one had its own product con",
-    "url": "https://uxdesign.cc/how-to-stop-re-explaining-yourself-to-claude-5845bc5025a2?source=rss----138adf9c44c---4",
-    "published": "Fri, 26 Jun 2026 07:50:16 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Using Scroll-Driven Animations for Opposing Scroll Directions",
-    "summary": "<p class=\"wp-block-paragraph\">Sometimes designers have silly ideas that eventually grow on you. That happened to me with this concept where I had to build columns of items moving in opposite directions when a user scrolls the page.</p>\n<p>CodePen Embed Fallback</p>\n<p class=\"is-style-explanation wp-block-paragraph\"><strong>Note:</strong> This &#8230;</p>\n<hr />\n<p><small><a href=\"https://css-tricks.com/scroll-driven-animations-opposing-scroll-directions/\" rel=\"nofollow\">Using Scroll-Driven Anima",
-    "url": "https://css-tricks.com/scroll-driven-animations-opposing-scroll-directions/",
-    "published": "Mon, 22 Jun 2026 12:39:13 +0000",
-    "source": "CSS-Tricks",
-    "source_weight": "low",
     "category": "design_communities"
   }
 ]
