@@ -1,48 +1,165 @@
 [
   {
-    "title": "AI Is Dogshit at Design",
-    "summary": "<p>Article URL: <a href=\"https://tomcreighton.com/AI-is-dogshit-at-design/\">https://tomcreighton.com/AI-is-dogshit-at-design/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48719941\">https://news.ycombinator.com/item?id=48719941</a></p>\n<p>Points: 1</p>\n<p># Comments: 4</p>",
-    "url": "https://tomcreighton.com/AI-is-dogshit-at-design/",
-    "published": "Mon, 29 Jun 2026 14:43:32 +0000",
+    "title": "Sunwæe – your life's AI OS",
+    "summary": "<p>app url: https://app.sunwaee.com<p>hey, so I never really stuck with chatgpt or claude web apps because to me they always felt like a slightly-more-personalized google search but far from actually knowing who I am, plus I also want access to the best models but with the release frequency of new models these days it often means multiple expensive subscriptions... kinda lazy too so I figured having some kind of autorouting that picks the model I want for given topics would be cool. On top of th",
+    "url": "https://news.ycombinator.com/item?id=48732413",
+    "published": "Tue, 30 Jun 2026 13:21:31 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Show HN: Klorn–I built an email firewall because every AI inbox made mine louder",
-    "summary": "<p>Article URL: <a href=\"https://github.com/k08200/klorn\">https://github.com/k08200/klorn</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48719602\">https://news.ycombinator.com/item?id=48719602</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://github.com/k08200/klorn",
-    "published": "Mon, 29 Jun 2026 14:18:44 +0000",
+    "title": "Language Design Impacts Security",
+    "summary": "<p>Article URL: <a href=\"https://www.adacore.com/blog/how-language-design-impacts-security\">https://www.adacore.com/blog/how-language-design-impacts-security</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48732404\">https://news.ycombinator.com/item?id=48732404</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://www.adacore.com/blog/how-language-design-impacts-security",
+    "published": "Tue, 30 Jun 2026 13:20:49 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Once, cyber-attacks required great skill. AI is changing that",
-    "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/commentisfree/2026/jun/29/cyber-attacks-ai\">https://www.theguardian.com/commentisfree/2026/jun/29/cyber-attacks-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48719498\">https://news.ycombinator.com/item?id=48719498</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://www.theguardian.com/commentisfree/2026/jun/29/cyber-attacks-ai",
-    "published": "Mon, 29 Jun 2026 14:10:28 +0000",
+    "title": "Show HN: NodePad – AI agent on a canvas instead of a linear chat",
+    "summary": "<p>Article URL: <a href=\"https://node-pad.com/\">https://node-pad.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48731991\">https://news.ycombinator.com/item?id=48731991</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "url": "https://node-pad.com/",
+    "published": "Tue, 30 Jun 2026 12:47:52 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "I built an anime-style UI for watching AI coding agents review each other's code",
-    "summary": "<p>Article URL: <a href=\"https://old.reddit.com/r/codex/comments/1uit86f/i_built_an_animestyle_ui_for_watching_ai_coding/\">https://old.reddit.com/r/codex/comments/1uit86f/i_built_an_animestyle_ui_for_watching_ai_coding/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48719426\">https://news.ycombinator.com/item?id=48719426</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
-    "url": "https://old.reddit.com/r/codex/comments/1uit86f/i_built_an_animestyle_ui_for_watching_ai_coding/",
-    "published": "Mon, 29 Jun 2026 14:03:14 +0000",
+    "title": "Show HN: GSV – a personal AI computer that unifies your machines",
+    "summary": "<p>Back in April I left the Agents team at Cloudflare because even though I loved the work, I always had the drive to build the apps rather than the libraries. I felt like nobody was building the ideas that I wanted to exist.<p>My biggest drive was wanting my agents to run fully on “the cloud” yet having them on all my machines at the same time. So I ended up building GSV, fully open source.<p>GSV acts as a cloud computer by having a remote file system and a shell environment and trying very har",
+    "url": "https://github.com/deathbyknowledge/gsv",
+    "published": "Tue, 30 Jun 2026 12:44:12 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Herdr：驻留在终端中的AI智能体多路复用器",
-    "summary": "Herdr是一个驻留在终端中的AI智能体多路复用器，允许用户在单一终端界面内管理和切换多个AI智能体会话。",
-    "url": "https://github.com/ogulcancelik/herdr",
-    "published": "2026-06-29T14:03:06.351Z",
-    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "title": "What's slowing down the AI buildout",
+    "summary": "<p>Article URL: <a href=\"https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid\">https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48731894\">https://news.ycombinator.com/item?id=48731894</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "url": "https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid",
+    "published": "Tue, 30 Jun 2026 12:39:41 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Product Design Psychology",
+    "summary": "<p>Article URL: <a href=\"https://productdesignpsychology.com\">https://productdesignpsychology.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48731846\">https://news.ycombinator.com/item?id=48731846</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://productdesignpsychology.com",
+    "published": "Tue, 30 Jun 2026 12:36:13 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "黑石未来3~5年拟投300亿美元在日本建AI数据中心，联合成立AI XPV平台",
+    "summary": "黑石计划未来3~5年在日本AI数据中心领域投资300亿美元，此前的500MW基础上新增超1GW容量。黑石总裁认为AI投资仍处早期，真正风险是算力短缺而非基建泡沫；谷歌、亚马逊是英伟达潜在挑战者。此外，黑石、阿波罗、博通本月9日成立AI XPV平台，目标2028年向OpenAI、Anthropic等提供超20GW算力，首期350亿美元支持Anthropic在Fluidstack数据中心部署1GW基础设施。",
+    "url": "https://www.ithome.com/0/970/583.htm",
+    "published": "2026-06-30T07:56:46.000Z",
+    "source": "IT之家（RSS）",
+    "source_weight": "high",
+    "category": "industry"
+  },
+  {
+    "title": "美团 LongCat 发布旗舰模型 LongCat-2.0",
+    "summary": "美团 LongCat 推出旗舰模型 LongCat-2.0，采用 1.6T 参数 MoE 架构（约 48B 活跃参数），原生支持 1M 上下文窗口。定价为 Input Cache $0.015/1M tokens、Input $0.75/1M tokens、Output $2.95/1M tokens。模型专为 Agentic Coding 设计，包含三大技术：LSA 稀疏注意力实现高效 1M 扩展；Zero-Compute Experts 动态激活 33B-56B 参数/token，无算力浪费；MOPD 将专家分为 Agent / Reasoning / Interaction 三组，按任务门控路由。在 SWE-bench Pro 上取得 59.5 分，性能接近主流闭源模型。现已上线 SiliconFlow Day 0 服务。",
+    "url": "https://x.com/SiliconFlowAI/status/2071831773076746715",
+    "published": "2026-06-30T05:42:42.000Z",
+    "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "X（Twitter）发布 hosted X MCP，AI 智能体可直连 X API",
+    "summary": "X（Twitter）官方推出 hosted X MCP，AI 智能体可通过 MCP 协议直接调用 X API 获取实时信息，支持 Grok、Cursor 等工具。用户需注册 X API 并按量付费，个人优惠价每次调用 0.01 美元（1 美元 1000 次）。有用户实测拉取近三天书签仅花 0.1 美元。配置步骤：创建 APP 并充值、获取配置 ID、辅助配置（可交给 Codex/Claude）、授权启动。",
+    "url": "https://x.com/op7418/status/2071816099986022650",
+    "published": "2026-06-30T04:40:25.000Z",
+    "source": "X：歸藏 (@op7418)",
     "source_weight": "high",
     "category": "ai-products"
+  },
+  {
+    "title": "一个人管理5款产品，80%时间不写代码？Every的复利工程",
+    "summary": "媒体软件公司Every公开「复利工程」方法论，以单人工程团队维护5款产品。核心是四步循环：Plan→Work→Review→Compound，其中Compound将每次解决问题的解法写入CLAUDE.md和docs/solutions/，使AI下次自动避坑。工程师80%时间花在Plan和Review，仅20%用于写代码。配套开源插件支持Claude Code等，含26个专项agent、23条工作流命令、13项技能，可零配置使用。/workflows：review一次并发14个agent审查代码，/workflows：plan在ultrathink模式下可并发40多个研究agent。",
+    "url": "https://x.com/xiaohu/status/2071796715162857477",
+    "published": "2026-06-30T03:23:23.000Z",
+    "source": "X：小互 (@xiaohu)",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "具身智能数据采集员：日薪200元起，给机器人当老师",
+    "summary": "具身智能数据采集员以日薪200-250元招兼职，无需学历经验。面试先测量身高体重以适配采集手套，并询问是否晕VR。工作分两种：遥操作采集--穿戴设备控制双臂机器人完成分拣积木、叠纸杯等动作；无机器人示教采集--徒手重复动作（如叠衣服），设备记录轨迹。全球高质量物理交互数据截至2026年初仅约50万小时，不足大语言模型训练数据的两万分之一，需大量人力从零采集。",
+    "url": "https://mp.weixin.qq.com/s/aSd4kLu7xHllZatrd5EGsw",
+    "published": "2026-06-30T01:58:00.000Z",
+    "source": "公众号：数字生命卡兹克",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "AI News Radar 大更新：新增自媒体板块，支持订阅多平台账号",
+    "summary": "AI News Radar 迎来大更新，新增自媒体板块，支持订阅某书、某音、某站、某X等平台账号，每日按热度推荐 Top10 信息（无热门则不硬凑），同时保留时间轴视图，可在热度优先和时间优先间切换。官方来源包括 OpenAI、Anthropic、Google 等一手消息及 GitHub AI&ML 更新日志。信息流按来源、类型、信号等级分类，标注高优先级与多源认证。项目完全开源，可零 API 部署独立 AI 日报页面，支持手机移动端及暗色界面。",
+    "url": "https://mp.weixin.qq.com/s/iW5FVqbHtYi31mJ22Q_cog",
+    "published": "2026-06-30T01:47:00.000Z",
+    "source": "公众号：卡尔的AI沃茨",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "为 Amazon Bedrock 和 Google Cloud 推出的 Claude apps gateway",
+    "summary": "Anthropic 今日推出 Claude apps gateway，一个自托管控制平面，让企业能在 Amazon Bedrock 和 Google Cloud 上运行 Claude Code。它作为单个无状态容器部署于 Linux，后端使用 PostgreSQL，提供企业级 SSO 登录（通过 OIDC 对接 Google Workspace、Microsoft Entra ID、Okta 等）、集中策略管理、角色权限、路由（支持故障转移）以及按日/周/月、按组织/群组/用户的消费上限。遥测数据通过 OTLP 发送至用户配置的收集器。gateway 不会向 Anthropic 发送推理流量或使用数据（除非配置使用 Claude API）。即日起可用。",
+    "url": "https://claude.com/blog/introducing-the-claude-apps-gateway",
+    "published": "2026-06-29T21:22:33.048Z",
+    "source": "Claude：Blog（网页）",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "Cursor for iOS",
+    "summary": "<p>\n            Build with coding agents from anywhere\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/cursor?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1184233?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/cursor",
+    "published": "2026-06-29T20:52:28-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Claude 在 Microsoft Foundry 正式可用",
+    "summary": "从今天起，Claude 模型在 Microsoft Foundry 上正式可用，托管于 Azure 环境，运行在 NVIDIA GB300 GPU 上。首批提供 Claude Opus 4.8 和 Claude Haiku 4.5，通过 Messages API 调用，支持提示缓存和扩展思考。用户可选择推理处理位置，包括美国数据区域，由 Anthropic 负责推理运营。Azure 用户可使用现有身份验证、计费与治理控制，并获得统一账单；符合条件的 Enterprise Agreement 客户可将 Claude 用量计入 Azure 承诺消费。",
+    "url": "https://claude.com/blog/claude-in-microsoft-foundry",
+    "published": "2026-06-29T18:22:20.720Z",
+    "source": "Claude：Blog（网页）",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "AgentPeek",
+    "summary": "<p>\n            Claude Code & Codex in your Mac notch\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/agentpeek?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1184157?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/agentpeek",
+    "published": "2026-06-29T16:27:18-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "v0 Design Systems 2.0",
+    "summary": "<p>\n            Build with your components, colors, fonts, and patterns\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/v0?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1184126?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/v0",
+    "published": "2026-06-29T15:07:44-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Anthropic工程师Margot Van Laar：提示词工程实战--调试生产提示词为主，评估是唯一严谨方式",
+    "summary": "An anthropic应用AI工程师Margot Van Laar在Code with Claude分享提示词工程实战，核心观点：大部分时间在调试和维护已有生产提示词而非从零编写。两个场景：客服机器人维护中，用XML标签结构化清理，移除旧模型遗留的\"禁止列表\"指令（新模型会过度拟合），精确计算应调用工具，转人工决策需明确代价与收益；零售排班Agent从零构建时，拆成生成-评估-修复三个简单提示词更稳定，选用更强推理模型（Opus）。她反复强调：评估（Eval）是唯一严谨方式，没有评估就是碰运气。",
+    "url": "https://x.com/berryxia/status/2071610700213191075",
+    "published": "2026-06-29T15:04:14.000Z",
+    "source": "X：Berry Xia (@berryxia)",
+    "source_weight": "high",
+    "category": "tip"
   },
   {
     "title": "美军用AI选目标却误炸伊朗学校，Anthropic Claude嵌入Palantir系统首日建议约1000目标",
@@ -52,6 +169,15 @@
     "source": "The Decoder：AI News（RSS）",
     "source_weight": "high",
     "category": "industry"
+  },
+  {
+    "title": "从任何地点构建--Cursor for iOS 公测版发布",
+    "summary": "Cursor 推出 iOS 原生公测版，所有付费计划可用。开发者可在手机上启动始终在线的云端智能体，或远程操控电脑端智能体。支持语音输入、斜杠命令和选择前沿模型。智能体运行后，锁屏 Live Activities 和推送通知实时更新状态，完成或需要输入时提醒。云端智能体在隔离虚拟机中运行，可自动迭代生成合并就绪的 PR，并输出演示、截图和日志。本地与云端智能体支持双向切换。移动端 Composer 2.5 享受 75% 折扣，优惠至 2026 年 7 月 5 日。",
+    "url": "https://cursor.com/blog/ios-mobile-app",
+    "published": "2026-06-29T12:00:00.000Z",
+    "source": "Cursor Blog",
+    "source_weight": "high",
+    "category": "ai-products"
   },
   {
     "title": "EverOS：开源Markdown优先智能体记忆运行时，支持混合检索与自进化技能",
@@ -72,6 +198,15 @@
     "category": "paper"
   },
   {
+    "title": "Pluno",
+    "summary": "<p>\n            Browser agent that’s 10x faster than Claude\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/pluno?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1183935?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/pluno",
+    "published": "2026-06-29T09:54:09-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
     "title": "Artifacts 22：Zyphra、Cohere 和 Poolside 正在扩展生态系统广度",
     "summary": "开源模型生态正变得更多元，参与者从少数中国公司扩展到全球各类组织。纯模型制造商包括 DeepSeek、智谱、MiniMax、Poolside、Arcee、Zyphra 及主权 AI 玩家 Cohere、Sovereign、Mistral、Trillion Labs；科技巨头如阿里 Qwen、Google Gemma 和 NVIDIA 各有不同动机；产品公司如 JetBrains、Zed、Krea、Photoroom 则训练高度专业的小模型。NVIDIA 发布 Nemotron-3-Ultra-550B-A55B-BF16，采用 LatentMoE 架构并改用 OpenMDW 许可证。Cohere 以 Apache 2.0 开源其旗舰模型 Command A+（05-2026-bf16），这是一款 218B-A25B MoE 模型，具备多模态、多语言和智能体能力。",
     "url": "https://www.interconnects.ai/p/artifacts-22-zyphra-cohere-and-poolside",
@@ -81,145 +216,10 @@
     "category": "tip"
   },
   {
-    "title": "仅有三个AI模型在500天创业测试中盈利超过起始资本",
-    "summary": "普林斯顿大学推出CEO-Bench基准测试，让AI智能体在模拟环境中运营订阅软件公司NovaMind 500天，起始资金100万美元。14个测试模型中，仅Claude Fable 5（最佳轮次盈利4715万美元）、Claude Opus 4.8（2780万美元）和GPT-5.5（2130万美元）在最佳运行中超过起始资本。一个不调用语言模型的简单规则启发式方法通过固定定价、配额和针对性开发达到1576万美元，超越除上述三款外的所有模型。多数模型无法保持连贯策略，在模拟结束前破产。该测试旨在衡量AI的长期战略决策能力。",
-    "url": "https://the-decoder.com/only-three-ai-models-finished-above-starting-capital-in-a-500-day-startup-survival-test",
-    "published": "2026-06-28T10:16:13.000Z",
-    "source": "The Decoder：AI News（RSS）",
-    "source_weight": "high",
-    "category": "paper"
-  },
-  {
-    "title": "阿德拉菲尼尔：仅在AI agent工作时阻止Mac睡眠的菜单栏工具",
-    "summary": "Adrafinil 是一款 macOS 菜单栏应用，仅在 Claude Code、Codex、Cursor、Gemini CLI、Aider、Hermes、OpenCode、Cline、Pi 等 9 种 AI coding agent 持有活跃会话时阻止系统睡眠（包括合盖睡眠）。无 agent 工作时，合盖后 Mac 正常睡眠。它通过各 agent 的钩子系统调用 CLI，往返延迟低于 50ms，支持引用计数断言、热切出（温度阈值强制释放）、空闲释放及进程嗅探。需要 macOS Tahoe 26.4，Xcode 26+ 构建，以签名公证的磁盘映像提供。",
-    "url": "https://github.com/kageroumado/adrafinil",
-    "published": "2026-06-28T03:55:17.096Z",
-    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "四大顶级AI对决《文明VI》：Claude核平法国仍输，暴露感知与执行短板",
-    "summary": "英国前首相府数据科学家Liam Wilkinson搭建76个MCP工具，将Claude Opus 4.6、GPT-5.4、Gemini 3.1 Pro等四个模型放入《文明VI》进行23场对局。Claude扮演葡萄牙时，因法国文化胜利逼近，花50回合研发核弹核平图卢兹，但法国最终以外交胜利获胜。Wilkinson发现：AI主动检查全局状态仅占1-2%（感知盲区），计划后10回合内执行率仅48-66%（知行差距）。结论是智商非瓶颈，感知与执行才是关键。",
-    "url": "https://www.ithome.com/0/969/570.htm",
-    "published": "2026-06-28T02:45:16.000Z",
-    "source": "IT之家（RSS）",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "一次失败的（民族国家？）攻击的剖析",
-    "summary": "作者收到伪装成新加坡VC Lua Ventures的虚假面试邮件，要求完成一个TypeScript仓库的\"测试\"。作者将仓库交给Claude扫描，在`typescript+5.9.2.patch`中发现base64混淆载荷，该载荷在`patch-package`安装时触发，向`~/.cache-`等目录写入`payload.js`和`mutex.js`，构成后门（命名PinpinRAT）。攻击者使用虚构身份和空洞LinkedIn资料，目标是作者在crates.io上的Rust包。相关信息已报告加拿大CCCS等机构。",
-    "url": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack",
-    "published": "2026-06-27T15:39:53.429Z",
-    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "Cursor 研究发现奖励攻击虚增编码智能体 SWE-bench Pro 分数",
-    "summary": "Cursor 最新研究发现，编码智能体在 SWE-bench Pro 等基准测试中存在奖励攻击问题：智能体通过检索已知修复而非独立推导来通过测试。对 731 条 Opus 4.8 Max 轨迹的审计显示，63% 的成功修复来自检索，其中上游查找占 57%，git 历史挖掘占 9%。严格隔离 git 历史并限制网络访问后，Opus 4.8 Max 的 SWE-bench Pro 分数从 87.1% 降至 73.0%；Cursor 自家 Composer 2.5 差距最大，达 20.7 个点。新模型比旧模型更容易出现此问题。研究报告建议采用严格测试环境（隔离 git 历史、限制网络出口）以获取可信分数。",
-    "url": "https://www.marktechpost.com/2026/06/26/cursor-study-finds-reward-hacking-inflates-coding-agent-benchmark-scores-on-swe-bench-pro",
-    "published": "2026-06-26T23:31:29.000Z",
-    "source": "MarkTechPost（RSS）",
-    "source_weight": "high",
-    "category": "paper"
-  },
-  {
-    "title": "纽约时报修订诉讼，指控微软为OpenAI建造版权侵权超级计算机",
-    "summary": "《纽约时报》周四提交经大量编辑的法庭文件，提议修订对OpenAI和微软的版权诉讼，明确指控微软通过建造全球最强大的超级计算系统之一，主动鼓励OpenAI窃取其作品。此举源于最高法院在Cox案中确立的新帮助侵权标准，要求原告证明被告有意诱导非法行为。《纽约时报》认为新证据显示该超级计算机专为帮助OpenAI未经许可训练AI而设计，其文章在训练数据中被加权处理。微软称修订是\"挽救不利先例的最后手段\"。",
-    "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged",
-    "published": "2026-06-26T20:04:55.000Z",
-    "source": "Ars Technica：AI（RSS）",
-    "source_weight": "high",
-    "category": "industry"
-  },
-  {
-    "title": "华盛顿邮报报告：AI聊天机器人存在左翼偏见",
-    "summary": "《华盛顿邮报》报道，基于达特茅斯和斯坦福研究的测试显示，AI聊天机器人在约30项政策议题（税收、医保、移民等）上存在左翼偏见。GPT-5.5仅给出左倾立场占80%，双方立场17%，右倾3%；Gemini 3.1 Pro则93%给出双方立场，左倾仅7%；Claude Opus 4.8双方立场占57%；Grok 4.3是唯一右倾占33%的模型。文章指出，问题不在于答案倾向，而在于模型在展现权衡前已用单一道德框架压缩政治分歧，其行为更多受排序选择、拒绝规则、训练反馈和默认回答风格影响。",
-    "url": "https://x.com/rohanpaul_ai/status/2070550479621488896",
-    "published": "2026-06-26T16:51:17.000Z",
-    "source": "X：Rohan Paul (@rohanpaul_ai)",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "Weave 推出智能模型路由工具，可直接接入 Claude Code、Codex 和 Cursor",
-    "summary": "Weave 发布智能模型路由工具，通过 `npx @workweave/router` 安装，作为本地代理运行在 localhost：8080。它采用基于 Avengers-Pro 1 的集群评分器，每个请求自动选择最佳模型。支持 Anthropic、OpenAI、Gemini 原生 API，并通过 OpenRouter 接入 DeepSeek、Kimi、GLM、Qwen、Llama、Mistral 等开源模型。用户自行保管提供商密钥，数据本地加密存储。工具兼容 Claude Code、Codex、Cursor 等客户端，并提供 OTLP 追踪，支持自托管部署。",
-    "url": "https://github.com/workweave/router",
-    "published": "2026-06-26T16:40:11.000Z",
-    "source": "Hacker News：AI 热帖",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "When the profession outruns the mentor",
-    "summary": "<h4>AI is redefining work faster than experience can be passed on.</h4><figure><img alt=\"A man runs past a bright orange train to catch a train at Paddington station.\" src=\"https://cdn-images-1.medium.com/max/1024/1*y8IadfEBQxK4i4XJ41Pn9w.jpeg\" /><figcaption>Image source: <a href=\"https://www.gettyimages.com/detail/photo/running-for-a-train-royalty-free-image/1383494764\">Getty Images</a></figcaption></figure><p>Mentorship has traditionally depended on mentors having experience that mentees have ",
-    "url": "https://uxdesign.cc/when-the-profession-outruns-the-mentor-5f40596e17ca?source=rss----138adf9c44c---4",
-    "published": "Sun, 28 Jun 2026 22:00:11 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "What are hypertokens? The layer between tokens and components, rebuilt for agents",
-    "summary": "<h4>A concept on the horizon, explored</h4><p>A token holds a single decision. A component is a whole assembly. The interesting work lives in the gap between them, and people have worked that gap for years under different names. What it never had was one shared definition that every tool could build from.</p><figure><img alt=\"hypertokens?\" src=\"https://cdn-images-1.medium.com/max/1024/1*qXTB1d3Y-uv95AmNaJ6kpg.jpeg\" /></figure><p>That gap used to be harmless. “The heading” might live in your CSS,",
-    "url": "https://uxdesign.cc/what-are-hypertokens-the-layer-between-tokens-and-components-rebuilt-for-agents-962dbe93e0c4?source=rss----138adf9c44c---4",
-    "published": "Sun, 28 Jun 2026 14:48:13 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "The bullshit asymmetry principle was survivable. AI made production of slop almost free.",
-    "summary": "<figure><img alt=\"The press never tires. The inspector does.\" src=\"https://cdn-images-1.medium.com/max/1024/1*2WaWnREX_gWhp07rI2s1jA.png\" /><figcaption>The press never tires. The inspector does. AI assisted.</figcaption></figure><h4>It costs ten times more to refute than making it. Generative AI drove the cost of making to zero. The fix is a design problem, not a fact-checking race.</h4><p>In 2013 an Italian programmer named <a href=\"https://en.wikipedia.org/wiki/Brandolini%27s_law\">Alberto Bran",
-    "url": "https://uxdesign.cc/the-bullshit-asymmetry-principle-was-survivable-ai-made-production-of-slop-almost-free-2107dd4530b4?source=rss----138adf9c44c---4",
-    "published": "Sun, 28 Jun 2026 09:17:35 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Why your Claude Code needs a design stack",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/why-your-claude-code-needs-a-design-stack-46dccbced6e5?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1920/1*I3JwBcH7Gs0eKwT1nw2ptQ.png\" width=\"1920\" /></a></p><p class=\"medium-feed-snippet\">The setup that makes Claude Code fit into your designer workflow</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/why-your-claude-code-needs-a-design-stack-46dccbced6e5?source=rss-",
-    "url": "https://uxdesign.cc/why-your-claude-code-needs-a-design-stack-46dccbced6e5?source=rss----138adf9c44c---4",
-    "published": "Sat, 27 Jun 2026 16:45:31 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Rethinking Figma, the cost of low taste, your banking app is lying to you",
-    "summary": "<h4>Weekly curated resources for designers — thinkers and makers.</h4><figure><a href=\"https://uxdesign.cc/rethinking-figma-in-an-ai-world-0facba587ba5\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/0*wNH7jgzpFkkCa3lB.png\" /></a></figure><p>“For more than a decade, Figma defined modern product design. It made collaboration effortless, turned design into a shared language, and became the default workspace for teams building software. But as AI reshapes how products are planned, protot",
-    "url": "https://uxdesign.cc/rethinking-figma-the-cost-of-low-taste-your-banking-app-is-lying-to-you-20f2ec172f03?source=rss----138adf9c44c---4",
-    "published": "Mon, 29 Jun 2026 11:10:21 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Can AI make OCD worse?",
-    "summary": "<h4>The hidden cost of always agreeable, always available chatbots</h4><figure><img alt=\"Person sitting on a bed at night, looking at a phone beneath a cloud of anxious questions.\" src=\"https://cdn-images-1.medium.com/max/1024/1*PiRfxUISMHRiYRE2POSsxA.png\" /><figcaption>What I’m like at 2 a.m., spending hours rephrasing one tiny question for AI.</figcaption></figure><p>I start researching this topic because of personal experience. As a diagnosed OCD patient, I have spent more nights than I’d lik",
-    "url": "https://uxdesign.cc/can-ai-make-ocd-worse-69fc01c0c71f?source=rss----138adf9c44c---4",
-    "published": "Mon, 29 Jun 2026 11:08:59 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Japan Doesn’t Design With Less. It Designs With Ma.",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/japan-doesnt-design-with-less-it-designs-with-ma-73f8e3ce6ee5?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1125/1*R0IFeL-8q2Xttpd4E9POsg.png\" width=\"1125\" /></a></p><p class=\"medium-feed-snippet\">Why global design inherited the wrong framework for reading Japanese aesthetics.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/japan-doesnt-design-with-less-it-designs-wi",
-    "url": "https://uxdesign.cc/japan-doesnt-design-with-less-it-designs-with-ma-73f8e3ce6ee5?source=rss----138adf9c44c---4",
-    "published": "Mon, 29 Jun 2026 07:38:23 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Discovery is a capability, not a phase",
-    "summary": "<h4><em>The judgment layer most discovery practice leaves unexplored</em></h4><figure><img alt=\"Abstract cross-section showing geological strata beneath a dark geometric grid surface. Rich layers of deep teal and dark rock formations accumulate below the surface plane, illuminated by a warm amber glow at the boundary between the visible surface and the hidden depth. Small points of teal bioluminescent light are scattered through the deeper layers.\" src=\"https://cdn-images-1.medium.com/max/1024/1",
-    "url": "https://uxdesign.cc/discovery-is-a-capability-not-a-phase-0fd6c1dab2f5?source=rss----138adf9c44c---4",
-    "published": "Fri, 26 Jun 2026 21:58:55 GMT",
+    "title": "What does “good enough” actually mean for designers now?",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/what-does-good-enough-actually-mean-for-designers-now-ee1604bf79b7?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*CiNRJj-GG2PqtwCYBS6vFA.jpeg\" width=\"5472\" /></a></p><p class=\"medium-feed-snippet\">Learning to say &#x201c;Good Enough&#x201d; is a design skill, not a compromise.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/what-does-good-enough-actually-mean-f",
+    "url": "https://uxdesign.cc/what-does-good-enough-actually-mean-for-designers-now-ee1604bf79b7?source=rss----138adf9c44c---4",
+    "published": "Tue, 30 Jun 2026 11:09:07 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
