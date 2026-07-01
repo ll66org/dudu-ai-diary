@@ -1,5 +1,5 @@
 {
-  "day_count": 68,
+  "day_count": 69,
   "history": [
     {
       "day": 20,
@@ -335,6 +335,13 @@
       "date": "2026-06-30",
       "topic": "黑石未来3~5年拟投300亿美元在日本建AI数据中心，联合成立AI XPV平台",
       "source": "IT之家（RSS）",
+      "mode": "rss"
+    },
+    {
+      "day": 69,
+      "date": "2026-07-01",
+      "topic": "OpenAI论文揭示GPT-5.6三个Pro变体，打破单一顶级策略",
+      "source": "The Decoder：AI News（RSS）",
       "mode": "rss"
     }
   ],

@@ -1,42 +1,42 @@
 [
   {
-    "title": "黑石未来3~5年拟投300亿美元在日本建AI数据中心，联合成立AI XPV平台",
-    "summary": "黑石计划未来3~5年在日本AI数据中心领域投资300亿美元，此前的500MW基础上新增超1GW容量。黑石总裁认为AI投资仍处早期，真正风险是算力短缺而非基建泡沫；谷歌、亚马逊是英伟达潜在挑战者。此外，黑石、阿波罗、博通本月9日成立AI XPV平台，目标2028年向OpenAI、Anthropic等提供超20GW算力，首",
-    "source": "IT之家（RSS）",
-    "url": "https://www.ithome.com/0/970/583.htm",
-    "published_at": "2026-06-30T07:56:46.000Z",
+    "title": "OpenAI论文揭示GPT-5.6三个Pro变体，打破单一顶级策略",
+    "summary": "OpenAI论文首次列出GPT-5.6的三个Pro变体：Luna Pro、Terra Pro和Sol Pro，取代以往单一Pro模式。在基因组学基准中，Sol Pro通过率31.5%居60个测试模型之首，领先标准Sol（28.7%）和Claude Opus 4.8（16.0%）。Pro相比标准版本提升逐级递减：Luna",
+    "source": "The Decoder：AI News（RSS）",
+    "url": "https://the-decoder.com/openai-paper-reveals-three-gpt-5-6-pro-models-breaking-with-single-top-tier-strategy",
+    "published_at": "2026-07-01T10:03:41.000Z",
     "category": "industry"
   },
   {
-    "title": "美团 LongCat 发布旗舰模型 LongCat-2.0",
-    "summary": "美团 LongCat 推出旗舰模型 LongCat-2.0，采用 1.6T 参数 MoE 架构（约 48B 活跃参数），原生支持 1M 上下文窗口。定价为 Input Cache $0.015/1M tokens、Input $0.75/1M tokens、Output $2.95/1M tokens。模型专为 Age",
-    "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
-    "url": "https://x.com/SiliconFlowAI/status/2071831773076746715",
-    "published_at": "2026-06-30T05:42:42.000Z",
+    "title": "NVIDIA 发布 Nemotron-Labs-TwoTower 开放权重扩散语言模型",
+    "summary": "NVIDIA 发布 Nemotron-Labs-TwoTower，基于冻结的自回归骨干 Nemotron-3-Nano-30B-A3B 的扩散语言模型。采用双塔架构：上下文塔冻结，降噪器塔训练，通过层对齐交叉注意力和状态播种协作。在 2×H100 上 BF16 评估，保留 98.7% 的 AR 基线质量，生成吞吐量提升",
+    "source": "MarkTechPost（RSS）",
+    "url": "https://www.marktechpost.com/2026/07/01/nvidia-releases-nemotron-labs-twotower",
+    "published_at": "2026-07-01T08:10:17.000Z",
     "category": "ai-models"
   },
   {
-    "title": "X（Twitter）发布 hosted X MCP，AI 智能体可直连 X API",
-    "summary": "X（Twitter）官方推出 hosted X MCP，AI 智能体可通过 MCP 协议直接调用 X API 获取实时信息，支持 Grok、Cursor 等工具。用户需注册 X API 并按量付费，个人优惠价每次调用 0.01 美元（1 美元 1000 次）。有用户实测拉取近三天书签仅花 0.1 美元。配置步骤：创建 ",
-    "source": "X：歸藏 (@op7418)",
-    "url": "https://x.com/op7418/status/2071816099986022650",
-    "published_at": "2026-06-30T04:40:25.000Z",
-    "category": "ai-products"
+    "title": "美团 LongCat-2.0 正式发布：国产算力集群训练的万亿参数大模型",
+    "summary": "美团于6月30日发布新一代万亿参数大模型LongCat-2.0并开源。总参数1.6T，平均激活约48B，原生支持1M超长上下文，在五万卡国产算力集群上完成全流程训练与推理。采用LSA稀疏注意力、零计算专家、ScMoE及MOPD多专家融合（Agent/Reasoning/Interaction三组专家）架构。评测中SWE",
+    "source": "公众号：龙猫LongCat（美团）",
+    "url": "https://mp.weixin.qq.com/s/9XFcx3fmFcmbry5bHMJsow",
+    "published_at": "2026-07-01T02:24:00.000Z",
+    "category": "ai-models"
   },
   {
-    "title": "一个人管理5款产品，80%时间不写代码？Every的复利工程",
-    "summary": "媒体软件公司Every公开「复利工程」方法论，以单人工程团队维护5款产品。核心是四步循环：Plan→Work→Review→Compound，其中Compound将每次解决问题的解法写入CLAUDE.md和docs/solutions/，使AI下次自动避坑。工程师80%时间花在Plan和Review，仅20%用于写代码",
-    "source": "X：小互 (@xiaohu)",
-    "url": "https://x.com/xiaohu/status/2071796715162857477",
-    "published_at": "2026-06-30T03:23:23.000Z",
-    "category": "tip"
-  },
-  {
-    "title": "具身智能数据采集员：日薪200元起，给机器人当老师",
-    "summary": "具身智能数据采集员以日薪200-250元招兼职，无需学历经验。面试先测量身高体重以适配采集手套，并询问是否晕VR。工作分两种：遥操作采集--穿戴设备控制双臂机器人完成分拣积木、叠纸杯等动作；无机器人示教采集--徒手重复动作（如叠衣服），设备记录轨迹。全球高质量物理交互数据截至2026年初仅约50万小时，不足大语言模型训",
+    "title": "Anthropic在Claude Code中植入隐写术代码识别中国用户",
+    "summary": "Anthropic在Claude Code中植入隐写术：读取本地时区（Asia/Shanghai或Asia/Urumqi）和ANTHROPIC_BASE_URL环境变量，与一份经base64+XOR（密钥91）加密的147个域名列表（含美团、字节跳动、月之暗面等）比对，识别中国用户。识别后，在请求发送前将系统提示词中日",
     "source": "公众号：数字生命卡兹克",
-    "url": "https://mp.weixin.qq.com/s/aSd4kLu7xHllZatrd5EGsw",
-    "published_at": "2026-06-30T01:58:00.000Z",
-    "category": "tip"
+    "url": "https://mp.weixin.qq.com/s/yLb4T2UC16ebKHApdBbgWw",
+    "published_at": "2026-07-01T00:11:00.000Z",
+    "category": "industry"
+  },
+  {
+    "title": "NotebookLM Short Video Overviews 全量上线 Web 英文版",
+    "summary": "NotebookLM 正式向 Web 英文用户全量推出 Short Video Overviews（短视频概览）功能。该功能可将复杂资料自动转化为 60 秒竖屏视频，深入讲解任意概念。此前，这一功能已面向 Google AI Ultra 和 Pro 订阅者（移动端及 Web）推出，免费用户即将可用。",
+    "source": "X：NotebookLM (@NotebookLM)",
+    "url": "https://x.com/NotebookLM/status/2072043680442245276",
+    "published_at": "2026-06-30T19:44:44.000Z",
+    "category": "ai-products"
   }
 ]

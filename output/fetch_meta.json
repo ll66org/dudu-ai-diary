@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-30T13:25:28.602136Z",
+  "fetched_at": "2026-07-01T13:53:27.757277Z",
   "total_candidates": 25,
   "source_stats": {
     "Figma Blog": {
@@ -7,8 +7,8 @@
       "total": 0
     },
     "Vercel Blog (v0)": {
-      "found": 0,
-      "total": 1287
+      "found": 2,
+      "total": 1300
     },
     "Cursor Changelog": {
       "found": 0,
@@ -31,11 +31,11 @@
       "total": 66
     },
     "Smashing Magazine": {
-      "found": 0,
+      "found": 1,
       "total": 40
     },
     "UX Collective": {
-      "found": 9,
+      "found": 8,
       "total": 10
     },
     "Designer News": {
@@ -47,15 +47,15 @@
       "total": 15
     },
     "A List Apart": {
-      "found": 0,
+      "found": 1,
       "total": 20
     },
     "Hacker News (设计向)": {
-      "found": 6,
-      "total": 20
+      "found": 0,
+      "total": 0
     },
     "Product Hunt": {
-      "found": 4,
+      "found": 2,
       "total": 50
     },
     "Designer News (AI Design)": {
@@ -64,27 +64,27 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 68,
-  "today_date": "2026-06-30",
+  "dudu_day": 69,
+  "today_date": "2026-07-01",
   "used_titles": [
-    "IBM 开源 CUGA：轻量级智能体框架，提供二十余个单文件示例应用",
     "MiniCPM-V 4.6 在 Apple Core AI 上高速运行",
     "Anthropic称阿里巴巴非法获取了Claude AI模型的功能",
     "小互开源个人IP配图技能\"小互IP Studio\"，含31个原创角色",
     "AI 账单失控后 DeepSeek 成\"香饽饽\"，部分美国企业已 100% 切换",
     "Grok 4.5 私测于 SpaceX 和 Tesla，性能接近 Opus",
-    "Herdr：驻留在终端中的AI智能体多路复用器"
+    "Herdr：驻留在终端中的AI智能体多路复用器",
+    "黑石未来3~5年拟投300亿美元在日本建AI数据中心，联合成立AI XPV平台"
   ],
   "used_tools": [
-    "Hugging Face：Blog（RSS）",
     "X：面壁智能 OpenBMB (@OpenBMB)",
     "Hacker News 热门（buzzing.cc 中文翻译）",
     "X：小互 (@xiaohu)",
     "IT之家（RSS）",
     "X：Elon Musk (@elonmusk, xAI)",
-    "Hacker News 热门（buzzing.cc 中文翻译）"
+    "Hacker News 热门（buzzing.cc 中文翻译）",
+    "IT之家（RSS）"
   ],
-  "briefing_total": 41,
-  "briefing_design": 21,
+  "briefing_total": 51,
+  "briefing_design": 27,
   "briefing_count": 5
 }
