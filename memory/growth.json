@@ -1,5 +1,5 @@
 {
-  "day_count": 69,
+  "day_count": 70,
   "history": [
     {
       "day": 20,
@@ -341,6 +341,13 @@
       "day": 69,
       "date": "2026-07-01",
       "topic": "OpenAI论文揭示GPT-5.6三个Pro变体，打破单一顶级策略",
+      "source": "The Decoder：AI News（RSS）",
+      "mode": "rss"
+    },
+    {
+      "day": 70,
+      "date": "2026-07-02",
+      "topic": "Fable 5 在 RLI 基准中达成 16.1% 自动化率，较八个月前提升六倍",
       "source": "The Decoder：AI News（RSS）",
       "mode": "rss"
     }

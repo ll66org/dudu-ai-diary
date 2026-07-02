@@ -1,42 +1,42 @@
 [
   {
-    "title": "OpenAI论文揭示GPT-5.6三个Pro变体，打破单一顶级策略",
-    "summary": "OpenAI论文首次列出GPT-5.6的三个Pro变体：Luna Pro、Terra Pro和Sol Pro，取代以往单一Pro模式。在基因组学基准中，Sol Pro通过率31.5%居60个测试模型之首，领先标准Sol（28.7%）和Claude Opus 4.8（16.0%）。Pro相比标准版本提升逐级递减：Luna",
+    "title": "Fable 5 在 RLI 基准中达成 16.1% 自动化率，较八个月前提升六倍",
+    "summary": "Remote Labor Index（RLI）衡量 AI 智能体完成 240 个付费自由职业项目（总值 14.4 万美元）的专业质量比例。最新结果显示，Fable 5 自动化率达 16.1%，是八个月前最佳系统 2.5% 的六倍多，也超过 Opus 4.8（8.3%）和 GPT-5.5（6.3%）。因美国政府限制访问，",
     "source": "The Decoder：AI News（RSS）",
-    "url": "https://the-decoder.com/openai-paper-reveals-three-gpt-5-6-pro-models-breaking-with-single-top-tier-strategy",
-    "published_at": "2026-07-01T10:03:41.000Z",
+    "url": "https://the-decoder.com/ai-agents-can-now-complete-16-percent-of-freelance-jobs-at-pro-quality-up-from-2-5-percent-eight-months-ago",
+    "published_at": "2026-07-02T12:37:49.000Z",
+    "category": "tip"
+  },
+  {
+    "title": "browser-use 发布开源 AI 视频剪辑 Skill「video-use」",
+    "summary": "browser-use 团队推出面向 Codex、Claude Code 等 AI 编码智能体的开源 Skill「video-use」，让 LLM 通过 ElevenLabs Scribe 将音频转写为约 12KB 文本（含逐词时间戳、说话人分离、事件标记），仅在决策点调用 timeline_view.py 生成 PN",
+    "source": "X：邵猛 (@shao__meng)",
+    "url": "https://x.com/shao__meng/status/2072644710523691110",
+    "published_at": "2026-07-02T11:33:01.000Z",
+    "category": "tip"
+  },
+  {
+    "title": "谷歌AI建设导致2025年用电量增长37%",
+    "summary": "2025年，谷歌年度用电量同比上涨37%，创历史最大增幅。数据中心全年消耗超4200万兆瓦时，超过新西兰、丹麦、尼日利亚等国总用电量。自2019年以来，谷歌总用电量已增长超250%。用电激增主要来自Google Cloud、YouTube视频流及支撑AI产品和服务的数据中心建设与运营。公司表示，AI基础设施建设速度超过",
+    "source": "Ars Technica：AI（RSS）",
+    "url": "https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025",
+    "published_at": "2026-07-02T11:15:49.000Z",
     "category": "industry"
   },
   {
-    "title": "NVIDIA 发布 Nemotron-Labs-TwoTower 开放权重扩散语言模型",
-    "summary": "NVIDIA 发布 Nemotron-Labs-TwoTower，基于冻结的自回归骨干 Nemotron-3-Nano-30B-A3B 的扩散语言模型。采用双塔架构：上下文塔冻结，降噪器塔训练，通过层对齐交叉注意力和状态播种协作。在 2×H100 上 BF16 评估，保留 98.7% 的 AR 基线质量，生成吞吐量提升",
+    "title": "Senior SWE-Bench：评估AI智能体作为高级工程师的基准测试",
+    "summary": "Senior SWE-Bench是一个开源基准测试，用于评估AI智能体完成高级软件工程师级别任务的能力。任务分功能开发与Bug修复两类：功能任务指令类似自然语言消息，采用验证智能体基于专家配方自动生成行为测试；Bug任务要求根据日志、profiling等运行时信息深入调查。排行榜显示，Claude Opus 4.8搭配",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "url": "https://senior-swe-bench.snorkel.ai/",
+    "published_at": "2026-07-02T11:04:07.048Z",
+    "category": "ai-products"
+  },
+  {
+    "title": "Google Health API 推出 CLI：ghealth 是一款针对 Fitbit 数据的开源工具",
+    "summary": "ghealth 是一款封装 Google Health API v4 的开源命令行工具，以单个 Go 二进制文件发布（Apache 2.0 协议）。它提供 40 种已验证的数据类型（包括步数、心率、睡眠、体重、血氧饱和度、心率变异性等）的结构化 JSON 输出。工具采用 Agent 优先设计，具备确定性退出码、--dr",
     "source": "MarkTechPost（RSS）",
-    "url": "https://www.marktechpost.com/2026/07/01/nvidia-releases-nemotron-labs-twotower",
-    "published_at": "2026-07-01T08:10:17.000Z",
-    "category": "ai-models"
-  },
-  {
-    "title": "美团 LongCat-2.0 正式发布：国产算力集群训练的万亿参数大模型",
-    "summary": "美团于6月30日发布新一代万亿参数大模型LongCat-2.0并开源。总参数1.6T，平均激活约48B，原生支持1M超长上下文，在五万卡国产算力集群上完成全流程训练与推理。采用LSA稀疏注意力、零计算专家、ScMoE及MOPD多专家融合（Agent/Reasoning/Interaction三组专家）架构。评测中SWE",
-    "source": "公众号：龙猫LongCat（美团）",
-    "url": "https://mp.weixin.qq.com/s/9XFcx3fmFcmbry5bHMJsow",
-    "published_at": "2026-07-01T02:24:00.000Z",
-    "category": "ai-models"
-  },
-  {
-    "title": "Anthropic在Claude Code中植入隐写术代码识别中国用户",
-    "summary": "Anthropic在Claude Code中植入隐写术：读取本地时区（Asia/Shanghai或Asia/Urumqi）和ANTHROPIC_BASE_URL环境变量，与一份经base64+XOR（密钥91）加密的147个域名列表（含美团、字节跳动、月之暗面等）比对，识别中国用户。识别后，在请求发送前将系统提示词中日",
-    "source": "公众号：数字生命卡兹克",
-    "url": "https://mp.weixin.qq.com/s/yLb4T2UC16ebKHApdBbgWw",
-    "published_at": "2026-07-01T00:11:00.000Z",
-    "category": "industry"
-  },
-  {
-    "title": "NotebookLM Short Video Overviews 全量上线 Web 英文版",
-    "summary": "NotebookLM 正式向 Web 英文用户全量推出 Short Video Overviews（短视频概览）功能。该功能可将复杂资料自动转化为 60 秒竖屏视频，深入讲解任意概念。此前，这一功能已面向 Google AI Ultra 和 Pro 订阅者（移动端及 Web）推出，免费用户即将可用。",
-    "source": "X：NotebookLM (@NotebookLM)",
-    "url": "https://x.com/NotebookLM/status/2072043680442245276",
-    "published_at": "2026-06-30T19:44:44.000Z",
+    "url": "https://www.marktechpost.com/2026/07/02/the-google-health-api-got-a-cli-ghealth-is-an-open-source-tool-for-your-fitbit-air-data",
+    "published_at": "2026-07-02T08:46:56.000Z",
     "category": "ai-products"
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-01T13:53:27.757277Z",
+  "fetched_at": "2026-07-02T13:20:24.457280Z",
   "total_candidates": 25,
   "source_stats": {
     "Figma Blog": {
@@ -7,8 +7,8 @@
       "total": 0
     },
     "Vercel Blog (v0)": {
-      "found": 2,
-      "total": 1300
+      "found": 0,
+      "total": 1306
     },
     "Cursor Changelog": {
       "found": 0,
@@ -55,7 +55,7 @@
       "total": 0
     },
     "Product Hunt": {
-      "found": 2,
+      "found": 1,
       "total": 50
     },
     "Designer News (AI Design)": {
@@ -64,27 +64,27 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 69,
-  "today_date": "2026-07-01",
+  "dudu_day": 70,
+  "today_date": "2026-07-02",
   "used_titles": [
-    "MiniCPM-V 4.6 在 Apple Core AI 上高速运行",
     "Anthropic称阿里巴巴非法获取了Claude AI模型的功能",
     "小互开源个人IP配图技能\"小互IP Studio\"，含31个原创角色",
     "AI 账单失控后 DeepSeek 成\"香饽饽\"，部分美国企业已 100% 切换",
     "Grok 4.5 私测于 SpaceX 和 Tesla，性能接近 Opus",
     "Herdr：驻留在终端中的AI智能体多路复用器",
-    "黑石未来3~5年拟投300亿美元在日本建AI数据中心，联合成立AI XPV平台"
+    "黑石未来3~5年拟投300亿美元在日本建AI数据中心，联合成立AI XPV平台",
+    "OpenAI论文揭示GPT-5.6三个Pro变体，打破单一顶级策略"
   ],
   "used_tools": [
-    "X：面壁智能 OpenBMB (@OpenBMB)",
     "Hacker News 热门（buzzing.cc 中文翻译）",
     "X：小互 (@xiaohu)",
     "IT之家（RSS）",
     "X：Elon Musk (@elonmusk, xAI)",
     "Hacker News 热门（buzzing.cc 中文翻译）",
-    "IT之家（RSS）"
+    "IT之家（RSS）",
+    "The Decoder：AI News（RSS）"
   ],
-  "briefing_total": 51,
-  "briefing_design": 27,
+  "briefing_total": 54,
+  "briefing_design": 32,
   "briefing_count": 5
 }
