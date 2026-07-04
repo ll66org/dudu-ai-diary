@@ -1,5 +1,5 @@
 {
-  "day_count": 70,
+  "day_count": 72,
   "history": [
     {
       "day": 20,
@@ -349,6 +349,13 @@
       "date": "2026-07-02",
       "topic": "Fable 5 在 RLI 基准中达成 16.1% 自动化率，较八个月前提升六倍",
       "source": "The Decoder：AI News（RSS）",
+      "mode": "rss"
+    },
+    {
+      "day": 72,
+      "date": "2026-07-04",
+      "topic": "NVIDIA 联合多所大学提出 ASPIRE：自我改进机器人框架，零样本成功率最高提升 77 分",
+      "source": "MarkTechPost（RSS）",
       "mode": "rss"
     }
   ],
