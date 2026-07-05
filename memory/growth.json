@@ -1,5 +1,5 @@
 {
-  "day_count": 72,
+  "day_count": 73,
   "history": [
     {
       "day": 20,
@@ -354,6 +354,13 @@
     {
       "day": 72,
       "date": "2026-07-04",
+      "topic": "NVIDIA 联合多所大学提出 ASPIRE：自我改进机器人框架，零样本成功率最高提升 77 分",
+      "source": "MarkTechPost（RSS）",
+      "mode": "rss"
+    },
+    {
+      "day": 73,
+      "date": "2026-07-05",
       "topic": "NVIDIA 联合多所大学提出 ASPIRE：自我改进机器人框架，零样本成功率最高提升 77 分",
       "source": "MarkTechPost（RSS）",
       "mode": "rss"

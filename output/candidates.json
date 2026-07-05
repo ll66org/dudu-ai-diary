@@ -1,12 +1,57 @@
 [
   {
-    "title": "NVIDIA 联合多所大学提出 ASPIRE：自我改进机器人框架，零样本成功率最高提升 77 分",
-    "summary": "NVIDIA 联合密歇根大学、UIUC、UC Berkeley 等提出 ASPIRE，一个持续学习机器人框架。它通过协调器-执行器架构、闭环执行引擎、技能库和进化搜索，编写并优化机器人控制程序。编程智能体使用 Claude Code（Claude Opus 4.6，1M token 上下文窗口）。在 LIBERO-Pro 上最高比最强基线提升 77 分；Robosuite 双手交接成功率从 20% 提升至 92%；BEHAVIOR-1K 收音机拾取任务从 56% 提升至 88%。利用 LIBERO-90 积累的技能，ASPIRE 在零样本条件下对 LIBERO-Pro Long 任务达到约 31% 成功率，此前方法饱和在 4% 附近。",
-    "url": "https://www.marktechpost.com/2026/07/03/nvidia-ai-introduces-aspire-a-self-improving-robotics-framework-reaching-31-zero-shot-on-libero-pro-long-tasks",
-    "published": "2026-07-04T06:32:47.000Z",
-    "source": "MarkTechPost（RSS）",
+    "title": "Generative AI like Midjourney creates images full of stereotypes",
+    "summary": "<p>Article URL: <a href=\"https://restofworld.org/2023/ai-image-stereotypes/\">https://restofworld.org/2023/ai-image-stereotypes/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48793866\">https://news.ycombinator.com/item?id=48793866</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "url": "https://restofworld.org/2023/ai-image-stereotypes/",
+    "published": "Sun, 05 Jul 2026 12:45:32 +0000",
+    "source": "Hacker News (设计向)",
     "source_weight": "high",
-    "category": "paper"
+    "category": "ai_tech"
+  },
+  {
+    "title": "Astryx Design System",
+    "summary": "<p>Article URL: <a href=\"https://astryx.atmeta.com/\">https://astryx.atmeta.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48793776\">https://news.ycombinator.com/item?id=48793776</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "url": "https://astryx.atmeta.com/",
+    "published": "Sun, 05 Jul 2026 12:36:01 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Introduction to Compilers and Language Design",
+    "summary": "<p>Article URL: <a href=\"https://dthain.github.io/books/compiler/\">https://dthain.github.io/books/compiler/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48793454\">https://news.ycombinator.com/item?id=48793454</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+    "url": "https://dthain.github.io/books/compiler/",
+    "published": "Sun, 05 Jul 2026 11:54:16 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "I built a Figma for traders and investors – all in on tab",
+    "summary": "<p>Article URL: <a href=\"https://fynca.io/\">https://fynca.io/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48793237\">https://news.ycombinator.com/item?id=48793237</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://fynca.io/",
+    "published": "Sun, 05 Jul 2026 11:19:30 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Show HN: Design Patterns for AI",
+    "summary": "<p>Design Patterns by Gang of Four is one of my favorite books. It was well structured and easy to read and reference. I remember when copied each pattern manually to learn them and reference into a pattern repo in Java.<p>A couple weekends ago I felt inspired and I've build a research ingestion pipeline that uses AI to filter Arxiv for better quality research and filtered the best ideas that repeat into a sort of executive summary or ethos document. This document now guides all software project",
+    "url": "https://verificationdesign.com/",
+    "published": "Sun, 05 Jul 2026 10:36:40 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Claude Design System Prompt",
+    "summary": "<p>Article URL: <a href=\"https://github.com/Trystan-SA/claude-design-system-prompt\">https://github.com/Trystan-SA/claude-design-system-prompt</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48792399\">https://news.ycombinator.com/item?id=48792399</a></p>\n<p>Points: 43</p>\n<p># Comments: 7</p>",
+    "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
+    "published": "Sun, 05 Jul 2026 08:43:37 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
   },
   {
     "title": "pxpipe：通过图像化压缩输入token降低Claude Code成本",
@@ -25,15 +70,6 @@
     "source": "Simon Willison 博客",
     "source_weight": "high",
     "category": "tip"
-  },
-  {
-    "title": "Termi Protocol",
-    "summary": "<p>\n            Watch your AI coding agents build, live in 3D\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/termi-protocol?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1187434?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/termi-protocol",
-    "published": "2026-07-03T14:14:15-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
   },
   {
     "title": "藏师傅PPT与Pencil结合使用技巧",
@@ -162,29 +198,11 @@
     "category": "design_communities"
   },
   {
-    "title": "Why systems thinking is becoming the most important UX skill",
-    "summary": "<h4>As apps become more context-aware, the designer’s job is shifting from shaping screens to shaping systems.</h4><figure><img alt=\"A sketch of individual thinking about system design\" src=\"https://cdn-images-1.medium.com/max/1024/1*IptloWoBhuUWTCT90AgkNw.jpeg\" /><figcaption>Systems thinking — going beyond the screen. Image generated by AI.</figcaption></figure><p>Apple made a clear shift with their <a href=\"https://www.apple.com/newsroom/2026/06/apple-aids-app-development-with-new-intelligence",
-    "url": "https://uxdesign.cc/why-systems-thinking-is-becoming-the-most-important-ux-skill-688136ed1ce2?source=rss----138adf9c44c---4",
-    "published": "Tue, 30 Jun 2026 21:57:45 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
     "title": "Why Accessibility Is An Operational Capability, Not A Feature",
     "summary": "Teams can generate UI faster than ever, but they still have to guarantee that what they ship is usable, secure, and maintainable. Accessibility as an operational capability rather than a compliance checklist or end-of-project audit, and what that looks like in practice.",
     "url": "https://smashingmagazine.com/2026/06/why-accessibility-operational-capability-not-feature/",
     "published": "Tue, 30 Jun 2026 12:00:00 GMT",
     "source": "Smashing Magazine",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "What does “good enough” actually mean for designers now?",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/what-does-good-enough-actually-mean-for-designers-now-ee1604bf79b7?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*CiNRJj-GG2PqtwCYBS6vFA.jpeg\" width=\"5472\" /></a></p><p class=\"medium-feed-snippet\">Learning to say &#x201c;Good Enough&#x201d; is a design skill, not a compromise.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/what-does-good-enough-actually-mean-f",
-    "url": "https://uxdesign.cc/what-does-good-enough-actually-mean-for-designers-now-ee1604bf79b7?source=rss----138adf9c44c---4",
-    "published": "Tue, 30 Jun 2026 11:09:07 GMT",
-    "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
   },
@@ -202,24 +220,6 @@
     "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/ai-personality-is-a-design-problem-58fbc7926a3d?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1536/1*PLXV6BS03y2Dw1ZJnVkKww.png\" width=\"1536\" /></a></p><p class=\"medium-feed-snippet\">Right now it&#x2019;s an accidental byproduct of AI alignment. It could be an interface we build deliberately.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/ai-personality-is-a-design-",
     "url": "https://uxdesign.cc/ai-personality-is-a-design-problem-58fbc7926a3d?source=rss----138adf9c44c---4",
     "published": "Thu, 02 Jul 2026 05:09:06 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Users Don’t Need More Tools: They Need Seamless Integrations",
-    "summary": "A closer look at why users don’t need more tools in their daily lives. What they need are seamless integrations of useful features to match already existing, established mental models. Brought to you by <a href=\"https://ai-design-patterns.com/\">Design Patterns For AI Interfaces</a>, **friendly video course on UX** and design patterns by Vitaly.",
-    "url": "https://smashingmagazine.com/2026/07/users-dont-need-more-tools-need-seamless-integrations/",
-    "published": "Fri, 03 Jul 2026 13:00:00 GMT",
-    "source": "Smashing Magazine",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "You design it. Then what? A clear map of the Figma-to-code AI mess",
-    "summary": "<h4>A beginner’s guide through the AI pipeline fog.</h4><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*o-Oilskerz46L2jpF9kvxQ.png\" /></figure><p>If you put a room of designers together and asked how their work actually gets from Figma into real code with AI, you would get a few seconds of silence and then a lot of different answers, none of them confident. That is not because you missed a memo. There simply is no memo yet. So let me walk through it in plain words.</p><h4><st",
-    "url": "https://uxdesign.cc/you-design-it-then-what-a-clear-map-of-the-figma-to-code-ai-mess-954a4084175f?source=rss----138adf9c44c---4",
-    "published": "Fri, 03 Jul 2026 11:17:14 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
