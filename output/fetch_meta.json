@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-07-05T12:50:25.681185Z",
-  "total_candidates": 25,
+  "fetched_at": "2026-07-06T14:45:15.743112Z",
+  "total_candidates": 23,
   "source_stats": {
     "Figma Blog": {
       "found": 0,
@@ -8,7 +8,7 @@
     },
     "Vercel Blog (v0)": {
       "found": 0,
-      "total": 1310
+      "total": 1311
     },
     "Cursor Changelog": {
       "found": 0,
@@ -35,7 +35,7 @@
       "total": 40
     },
     "UX Collective": {
-      "found": 9,
+      "found": 10,
       "total": 10
     },
     "Designer News": {
@@ -43,7 +43,7 @@
       "total": 0
     },
     "CSS-Tricks": {
-      "found": 1,
+      "found": 0,
       "total": 15
     },
     "A List Apart": {
@@ -51,11 +51,11 @@
       "total": 20
     },
     "Hacker News (设计向)": {
-      "found": 6,
-      "total": 20
+      "found": 0,
+      "total": 0
     },
     "Product Hunt": {
-      "found": 0,
+      "found": 1,
       "total": 50
     },
     "Designer News (AI Design)": {
@@ -64,27 +64,27 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 73,
-  "today_date": "2026-07-05",
+  "dudu_day": 74,
+  "today_date": "2026-07-06",
   "used_titles": [
-    "AI 账单失控后 DeepSeek 成\"香饽饽\"，部分美国企业已 100% 切换",
     "Grok 4.5 私测于 SpaceX 和 Tesla，性能接近 Opus",
     "Herdr：驻留在终端中的AI智能体多路复用器",
     "黑石未来3~5年拟投300亿美元在日本建AI数据中心，联合成立AI XPV平台",
     "OpenAI论文揭示GPT-5.6三个Pro变体，打破单一顶级策略",
     "Fable 5 在 RLI 基准中达成 16.1% 自动化率，较八个月前提升六倍",
+    "NVIDIA 联合多所大学提出 ASPIRE：自我改进机器人框架，零样本成功率最高提升 77 分",
     "NVIDIA 联合多所大学提出 ASPIRE：自我改进机器人框架，零样本成功率最高提升 77 分"
   ],
   "used_tools": [
-    "IT之家（RSS）",
     "X：Elon Musk (@elonmusk, xAI)",
     "Hacker News 热门（buzzing.cc 中文翻译）",
     "IT之家（RSS）",
     "The Decoder：AI News（RSS）",
     "The Decoder：AI News（RSS）",
+    "MarkTechPost（RSS）",
     "MarkTechPost（RSS）"
   ],
-  "briefing_total": 27,
-  "briefing_design": 14,
+  "briefing_total": 21,
+  "briefing_design": 9,
   "briefing_count": 5
 }

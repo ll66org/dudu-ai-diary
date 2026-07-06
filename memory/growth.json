@@ -1,5 +1,5 @@
 {
-  "day_count": 73,
+  "day_count": 74,
   "history": [
     {
       "day": 20,
@@ -362,6 +362,13 @@
       "day": 73,
       "date": "2026-07-05",
       "topic": "NVIDIA 联合多所大学提出 ASPIRE：自我改进机器人框架，零样本成功率最高提升 77 分",
+      "source": "MarkTechPost（RSS）",
+      "mode": "rss"
+    },
+    {
+      "day": 74,
+      "date": "2026-07-06",
+      "topic": "Synthetic Sciences 发布 OpenScience：面向机器学习、生物学、物理学和化学研究的开源模型无关 AI 工作台",
       "source": "MarkTechPost（RSS）",
       "mode": "rss"
     }
