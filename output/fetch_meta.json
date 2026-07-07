@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-07-06T14:45:15.743112Z",
-  "total_candidates": 23,
+  "fetched_at": "2026-07-07T13:40:26.750182Z",
+  "total_candidates": 25,
   "source_stats": {
     "Figma Blog": {
       "found": 0,
@@ -35,7 +35,7 @@
       "total": 40
     },
     "UX Collective": {
-      "found": 10,
+      "found": 8,
       "total": 10
     },
     "Designer News": {
@@ -44,18 +44,18 @@
     },
     "CSS-Tricks": {
       "found": 0,
-      "total": 15
+      "total": 0
     },
     "A List Apart": {
       "found": 1,
       "total": 20
     },
     "Hacker News (设计向)": {
-      "found": 0,
-      "total": 0
+      "found": 6,
+      "total": 20
     },
     "Product Hunt": {
-      "found": 1,
+      "found": 0,
       "total": 50
     },
     "Designer News (AI Design)": {
@@ -64,27 +64,27 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 74,
-  "today_date": "2026-07-06",
+  "dudu_day": 75,
+  "today_date": "2026-07-07",
   "used_titles": [
-    "Grok 4.5 私测于 SpaceX 和 Tesla，性能接近 Opus",
     "Herdr：驻留在终端中的AI智能体多路复用器",
     "黑石未来3~5年拟投300亿美元在日本建AI数据中心，联合成立AI XPV平台",
     "OpenAI论文揭示GPT-5.6三个Pro变体，打破单一顶级策略",
     "Fable 5 在 RLI 基准中达成 16.1% 自动化率，较八个月前提升六倍",
     "NVIDIA 联合多所大学提出 ASPIRE：自我改进机器人框架，零样本成功率最高提升 77 分",
-    "NVIDIA 联合多所大学提出 ASPIRE：自我改进机器人框架，零样本成功率最高提升 77 分"
+    "NVIDIA 联合多所大学提出 ASPIRE：自我改进机器人框架，零样本成功率最高提升 77 分",
+    "Synthetic Sciences 发布 OpenScience：面向机器学习、生物学、物理学和化学研究的开源模型无关 AI 工作台"
   ],
   "used_tools": [
-    "X：Elon Musk (@elonmusk, xAI)",
     "Hacker News 热门（buzzing.cc 中文翻译）",
     "IT之家（RSS）",
     "The Decoder：AI News（RSS）",
     "The Decoder：AI News（RSS）",
     "MarkTechPost（RSS）",
+    "MarkTechPost（RSS）",
     "MarkTechPost（RSS）"
   ],
-  "briefing_total": 21,
-  "briefing_design": 9,
+  "briefing_total": 39,
+  "briefing_design": 21,
   "briefing_count": 5
 }

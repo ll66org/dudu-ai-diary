@@ -1,10 +1,145 @@
 [
   {
-    "title": "Synthetic Sciences 发布 OpenScience：面向机器学习、生物学、物理学和化学研究的开源模型无关 AI 工作台",
-    "summary": "Synthetic Sciences 推出开源（Apache 2.0）AI 科研工作台 OpenScience，覆盖机器学习、生物学、物理学、化学。它运行从文献、假设、代码、实验到分析与撰写的完整科研循环，支持按请求切换任意模型（Claude、GPT、Gemini、GLM、Kimi、DeepSeek 及本地微调模型）。内置 250 余项可编辑技能和 UniProt、PDB、ChEMBL、arXiv 等约 30 个科学数据库作为智能体工具。用户可自带 API 密钥在自己的基础设施上免费运行，安装命令为 `npm install -g @synsci/openscience`，运行 `openscience` 启动浏览器工作台。另提供可选托管层 Atlas。该项目定位为 Anthropic Claude Science 的开源替代方案。",
-    "url": "https://www.marktechpost.com/2026/07/05/synthetic-sciences-releases-openscience-an-open-source-model-agnostic-ai-workbench-for-machine-learning-biology-physics-and-chemistry-research",
-    "published": "2026-07-06T05:07:12.000Z",
-    "source": "MarkTechPost（RSS）",
+    "title": "Observability Design for the AI Era – App, Infra, CI, LLM (Part 1)",
+    "summary": "<p>Article URL: <a href=\"https://ryantsuji.dev/posts/ai-observability-design\">https://ryantsuji.dev/posts/ai-observability-design</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48817455\">https://news.ycombinator.com/item?id=48817455</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://ryantsuji.dev/posts/ai-observability-design",
+    "published": "Tue, 07 Jul 2026 13:24:03 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "ScreenStack Is Looking for Design Partners",
+    "summary": "<p>If your team is hiring and conducting interviews, I urge you to consider ScreenStack: an all-in-one interview platform that replaces your fragmented stack of tools.<p>It was built by engineers who have spent years at FAANG, conducted over 400 hours of interviews, and felt the pain firsthand: juggling Zoom, CoderPad, Excalidraw, and an AI notetaker, then burning hours stitching them together to reach a decision.<p>ScreenStack has everything you need to run an interview built in: video calls, l",
+    "url": "https://news.ycombinator.com/item?id=48817192",
+    "published": "Tue, 07 Jul 2026 13:03:34 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "A design system for Rust/egui where token violations fail the build",
+    "summary": "<p>Article URL: <a href=\"https://ouroboros-ui.typezerolabs.com\">https://ouroboros-ui.typezerolabs.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48817073\">https://news.ycombinator.com/item?id=48817073</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://ouroboros-ui.typezerolabs.com",
+    "published": "Tue, 07 Jul 2026 12:55:22 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Amazon Returns to US Bond Market to Fund AI Infrastructure Build",
+    "summary": "<p>Article URL: <a href=\"https://www.bloomberg.com/news/articles/2026-07-07/amazon-returns-to-us-bond-market-to-fund-ai-infrastructure-build\">https://www.bloomberg.com/news/articles/2026-07-07/amazon-returns-to-us-bond-market-to-fund-ai-infrastructure-build</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48817052\">https://news.ycombinator.com/item?id=48817052</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-07/amazon-returns-to-us-bond-market-to-fund-ai-infrastructure-build",
+    "published": "Tue, 07 Jul 2026 12:53:02 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Show HN: QORM – build UI apps where you and your AI edit the app together, live",
+    "summary": "<p>Article URL: <a href=\"https://github.com/qorm/qorm\">https://github.com/qorm/qorm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48816419\">https://news.ycombinator.com/item?id=48816419</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "url": "https://github.com/qorm/qorm",
+    "published": "Tue, 07 Jul 2026 11:48:39 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Show HN: I built an in-call AI, and the hard part was making it talk less",
+    "summary": "<p>We use Attio for call recordings (tried a few other notetakers as well). And they work great... that's kind of the problem. The summary shows up with the answer to the question I couldn't answer well during the meeting. The information existed the whole time. My notes, the CRM, earlier in the same call. Just not reachable when we are busy in the meeting.<p>So the question we kept having: why does all this intelligence only show up after the call ends?<p>We tried the obvious things. LLM in a s",
+    "url": "https://heyalo.ai",
+    "published": "Tue, 07 Jul 2026 11:35:29 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "在网络不稳定的地区，小型AI模型正逐渐普及",
+    "summary": "2019年，Adebayo Alonge因服务器远在美国致RxScanner单次扫描超5分钟，工程师2小时内将AI模型缩小至可在Android手机本地运行，此后RxScanner能在无宽带、缺电地区验药。小AI模型参数通常至多几十亿，可在手机或Raspberry Pi上运行，功耗仅数瓦。类似案例包括印度腰果病害检测无人机、乌拉圭蚂蚁入侵识别、疟蚊检测及巴西基于Arduino的心电图设备。世界银行报告显示，全球最穷国家仅0.7%互联网用户用过ChatGPT，发达国家达四分之一；行长认为小AI是为缺乏算力与电力的地区提供生命救助服务的关键。",
+    "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+    "published": "2026-07-07T06:45:06.341Z",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "MIRA：可玩多人世界模型，20 FPS实时生成\"火箭联盟的梦\"",
+    "summary": "MIRA是一个可玩、多人的世界模型，被形容为\"火箭联盟的梦\"。它基于10k小时公开机器人收集的数据训练，学习四玩家游戏动态，根据按键实时生成画面，帧率达20 FPS。模型由General Intuition与Kyutai Labs联合构建，Epic Games提供协作。Ethan Mollick称从最早的扩散DOOM玩过来，多人20 FPS效果出色。演示、技术报告及开源代码已公开，在ICML Booth 111现场展示。",
+    "url": "https://x.com/emollick/status/2074348274136346871",
+    "published": "2026-07-07T04:22:22.000Z",
+    "source": "X：Ethan Mollick (@emollick)",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "OfficeCLI：为AI智能体设计的开源Office套件",
+    "summary": "OfficeCLI是全球首个专为AI智能体设计的开源Office套件，以单二进制文件运行，无需安装Office或任何依赖。它内置HTML渲染引擎，可将.docx/.xlsx/.pptx转换为HTML或PNG，形成\"渲染→查看→修复\"的视觉闭环，使AI代理能自主创建、读取和修改Word、Excel、PowerPoint文档。支持公式、图表、条件格式、RTL布局、修订追踪、表格、数据透视表等复杂功能。提供CLI命令和基于自然语言的桌面应用AionUi，并可一键安装到Claude Code、Cursor、Windsurf、GitHub Copilot等AI编码工具中。",
+    "url": "https://github.com/iOfficeAI/OfficeCLI",
+    "published": "2026-07-06T23:03:34.910Z",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "Claude Code v2.1.202 发布",
+    "summary": "Claude Code v2.1.202 在 `/config` 中新增\"Dynamic workflow size\"设置，可控制动态工作流的 agent 数量规模（小/中/大），作为指导性建议而非硬性上限。工作流派生的 agent 现在会发射 `workflow.run_id` 和 `workflow.name` 的 OpenTelemetry 属性。修复了 mTLS 握手失败、远程控制发送命令失败、移动端发送无说明图片被静默丢弃、语音听写在麦克风故障时无限重试（改为暂停输入）、重载已有技能导致重复指令等问题。改进了工作流 agent 列表布局，MCP 错误消息更清晰。`/review <pr>` 恢复为快速单次审查，多 agent 审查请使用 `/code-review`。",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.202",
+    "published": "2026-07-06T22:51:16.000Z",
+    "source": "Claude Code：GitHub Releases（RSS）",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "Claude Code 团队详解四种智能体循环类型",
+    "summary": "Claude Code 团队将\"设计循环\"定义为智能体重复工作直到满足停止条件，划分四种类型：1）回合循环--手动提示触发，Claude 自判完成，适合短任务，可通过 SKILL.md 提升验证；2）目标循环--`/goal` 手动触发，达成目标或达最大轮数停止，需确定性完成标准（如测试通过数）；3）时间循环--`/loop` 和 `/schedule` 按间隔触发，适合同步消息、检查 PR 等重复任务，可云端运行；4）主动循环--事件或计划触发，无人实时参与，每个子任务独立退出。建议从最简单方案开始，选择性使用复杂循环。",
+    "url": "https://x.com/ClaudeDevs/status/2074208949205881033",
+    "published": "2026-07-06T19:08:45.000Z",
+    "source": "X：Claude Devs (@ClaudeDevs)",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "2026年科技公司AI裁员名单：Microsoft、Oracle、GitLab等十家公司裁减数千岗位",
+    "summary": "2026年以来，多家科技公司以AI为由大规模裁员。Microsoft裁减约4800岗位（2.1%），Oracle裁减21000人（13%），GitLab裁减350人（14%）以投资AI基础设施，Google Cloud持续裁减员工（外界估计1500-3000+工程师），Intuit裁减3000人（17%），Meta裁减8000人（10%）并转岗7000人至AI，Cisco裁减近4000人（5%），Cloudflare裁减1100人（20%），GM裁减500-600 IT岗位，Coinbase裁减700人（14%）。据Layoffs.fyi统计，2026年累计已裁约12万个技术岗位。",
+    "url": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai",
+    "published": "2026-07-06T18:35:00.000Z",
+    "source": "TechCrunch：AI（RSS）",
+    "source_weight": "high",
+    "category": "industry"
+  },
+  {
+    "title": "Claude Fable实地指南：发现你的未知",
+    "summary": "Claude Fable是第一款要求用户主动澄清未知才能获得高质量工作的模型。与Claude Fable协作是一个在实现前后迭代发现未知的过程。通过将问题分解为已知的已知、已知的未知、未知的已知和未知的未知四类，用户可以借助Claude Fable和Claude Code进行盲点检查、头脑风暴、原型设计、实现笔记记录以及答辩解释，从而高效挖掘并解决深藏于代码库和设计与实现中的潜在问题。",
+    "url": "https://claude.com/blog/a-field-guide-to-claude-fable-finding-your-unknowns",
+    "published": "2026-07-06T18:20:11.364Z",
+    "source": "Claude：Blog（网页）",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "SGLang 集成 DSpark 推测解码：置信度驱动的可变长度验证",
+    "summary": "SGLang 团队将 DSpark 推测解码算法集成到开源推理引擎中。该算法采用半自回归块起草器一次生成一组 token，并利用置信度头与顺序温度缩放（STS）为每个请求动态分配可变验证长度，从而在高负载下裁剪无效验证成本。SGLang 支持密集模型（如 Qwen3）和稀疏模型（如 DeepSeek-V4），通过全 CUDA 图处理不规则的每请求验证长度。提供三种验证模式：`static`（全长）、`compact`（生产路径）和 `cap-accept`（接受上限测量）。还引入了零开销调度、基于离线成本表的在线调度器、融合 Triton 核等优化。在 H200 上使用 DeepSeek-V4-Flash 的测试中，DSpark 在整个并发扫描范围内比 MTP 和非推测基线实现了更优的吞吐量-延迟权衡。",
+    "url": "https://www.lmsys.org/blog/2026-07-06-dspark-sglang",
+    "published": "2026-07-06T17:11:47.280Z",
+    "source": "LMSYS：Blog（Chatbot Arena 团队）",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "字节 Seed 发布 EdgeBench：衡量真实世界环境学习，发现新 Scaling Law",
+    "summary": "字节 Seed 发布超长程评测集 EdgeBench，含 134 个真实任务（覆盖六大领域），每个任务支持 Agent 持续工作至少 12 小时。基于约 38000 小时交互数据，发现 Agent 环境学习表现遵循高精度 log-sigmoid 曲线（平均 R2=0.998）；自 2025 年 9 月至 2026 年 5 月，前沿模型学习速度约每三个月翻一倍。EdgeBench 已开源 51 个任务及完整评测框架。",
+    "url": "https://seed.bytedance.com/zh/blog/edgebench-%E8%A1%A1%E9%87%8F%E7%9C%9F%E5%AE%9E%E4%B8%96%E7%95%8C%E7%8E%AF%E5%A2%83%E5%AD%A6%E4%B9%A0-%E5%8F%91%E7%8E%B0%E6%96%B0-scaling-law",
+    "published": "2026-07-06T16:00:00.000Z",
+    "source": "字节 Seed：Research Feed（网页内嵌数据）",
+    "source_weight": "high",
+    "category": "paper"
+  },
+  {
+    "title": "蚂蚁 inclusionAI 开源多智能体协作基础设施 Avernet V0.1",
+    "summary": "蚂蚁 inclusionAI 开源的多智能体协作基础设施 Avernet V0.1 正式发布。该项目聚焦 Agent 注册、发现、邀请等协作层问题，不替代 Agent 自身推理能力。通过群组、会话和共享上下文构建多方共识，支持自由聊天、领导-跟随等协作模式，并利用协作反馈形成观察、评估到复用、优化的自动进化闭环。支持 OpenClaw、自定义 Agent、第三方 Agent 引擎及现有 bot 平台等异构生态，提供 Docker 与本地两种快速部署路径。",
+    "url": "https://github.com/inclusionAI/Avernet",
+    "published": "2026-07-06T03:52:54.000Z",
+    "source": "蚂蚁 inclusionAI：GitHub 新仓库",
     "source_weight": "high",
     "category": "ai-products"
   },
@@ -18,82 +153,46 @@
     "category": "tip"
   },
   {
-    "title": "Astryx",
-    "summary": "<p>\n            A customizable, agent-ready open-source design system\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/meta?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1188925?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/meta",
-    "published": "2026-07-05T20:52:49-07:00",
-    "source": "Product Hunt",
+    "title": "LLM-as-a-Verifier：一种通用验证框架",
+    "summary": "LLM-as-a-Verifier 是一种无需额外训练的通用验证框架，通过计算评分 token logits 分布的期望生成连续分数，实现细粒度反馈。该框架在 Terminal-Bench V2（86.5%）、SWE-Bench Verified（78.2%）、RoboRewardBench（87.4%）和 MedAgentBench（73.3%）上取得 SOTA 性能。其细粒度信号可用于 Claude Code 扩展，帮助开发者监控和改进智能体系统，也可为强化学习（如 SAC、GRPO）提供密集反馈，提升机器人学和数学推理基准的样本效率。",
+    "url": "https://arxiv.org/abs/2607.05391",
+    "published": "2026-07-06T00:00:00.000Z",
+    "source": "HuggingFace Daily Papers（社区热门论文）",
     "source_weight": "high",
-    "category": "ai_tech"
+    "category": "paper"
   },
   {
-    "title": "扎克伯格：建千兆瓦级AI集群，集中精英与资本",
-    "summary": "\"我们正在建设这个 Prometheus 集群，首个千兆瓦以上的单一集群……我们是在谈论数千亿美元的资本投入。\"\n\nMark Zuckerberg 表示，他的职责就是集中精英人才、资本和基础设施。",
-    "url": "https://x.com/rohanpaul_ai/status/2073834219659534816",
-    "published": "2026-07-05T18:19:42.000Z",
-    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "title": "xAI 为 Grok Voice 新增 21 个旗舰语音",
+    "summary": "xAI 发布 21 个新旗舰语音，加入原有的 5 个语音。所有新语音均支持多语言，已在实时 Voice Agent API、Text to Speech API 及新推出的 Grok Voice Agent Builder 中可用。每个语音针对客服、角色、解说、广告、教育等场景定制，支持通过 `【pause】` 等语音标签控制表达。原始 5 个语音（Ara、Eve、Leo、Rex、Sal）经重训练后，节奏、措辞和重音的自然度提升。所有语音原生支持 Grok Voice 的 25 种以上语言。",
+    "url": "https://x.ai/news/new-flagship-voices",
+    "published": "2026-07-06T00:00:00.000Z",
+    "source": "xAI：News（网页）",
     "source_weight": "high",
-    "category": "industry"
+    "category": "ai-products"
   },
   {
-    "title": "三周前，我不小心创办了一家小公司",
-    "summary": "一位父亲为患有自闭症的非语言儿子开发了一款沟通应用，在言语治疗室的等候区展示时，所有非语言儿童的母亲看到后都忍不住流泪，言语治疗师也啜泣了五分钟。他意外发现产品市场匹配，决定腾出时间让更多孩子能用上，即使这意味着几周睡眠不足。应用本身是专为理解语言困难的儿童设计的，与传统的AAC设备不同--后者主要面向身体障碍但语言理解正常的成人。",
-    "url": "https://extelligence.substack.com/p/i-accidentally-started-a-small-business",
-    "published": "2026-07-05T17:43:57.442Z",
-    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "title": "用可解释性理解标注者安全策略",
+    "summary": "标注分歧可源于操作失败、政策模糊或价值多元。Annotator Policy Models（APMs）是一种可解释模型，仅从标注行为学习标注者内在的安全策略，无需额外负担。验证表明模型准确率超过80%，能忠实预测反事实编辑并恢复已知差异。将APMs应用于LLM和人类标注者，可揭示不同标注者对安全指令解释的差异（政策模糊）以及不同人口群体在安全优先级上的系统性差异（价值多元），支持更具针对性、透明和包容的安全策略设计。",
+    "url": "https://machinelearning.apple.com/research/annotator-safety-policy-interpretability",
+    "published": "2026-07-06T00:00:00.000Z",
+    "source": "Apple Machine Learning Research（RSS）",
     "source_weight": "high",
-    "category": "tip"
+    "category": "paper"
   },
   {
-    "title": "Anthropic Claude Design 反向工程提示词开源更新",
-    "summary": "Anthropic 旗下 Claude Design 的反向工程系统提示词在 GitHub 以 MIT 许可证开源，包含 20 章提示词和 14 项技能，覆盖内容纪律、美学、无障碍（WCAG、语义 HTML、键盘导航）、交互状态、系统思维等。近日针对 Fable 5/Opus 4.7+ 系列校准，新增自主决策条款：小决定直接执行记录而不询问。项目支持 Claude Code/Claude.ai 及 Codex 两种变体。",
-    "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
-    "published": "2026-07-05T15:35:42.919Z",
-    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "美团 LongCat-2.0 完全开源（MIT 许可），1.6T MoE 模型开放权重与推理代码",
-    "summary": "美团今日宣布 LongCat-2.0 完全开源（MIT 许可），公开模型权重与推理代码。该模型为 MoE 架构，总参数量 1.6T，每 token 激活约 48B，支持 1M token 上下文。技术亮点包括 LongCat Sparse Attention 高效处理长文本、Zero-Compute Experts 动态激活 33B-56B 零浪费计算、MOPD 按任务路由 Agent/Reasoning/Interaction 三组专家。Benchmark 成绩：Terminal-Bench 2.1 70.8；SWE-bench Pro 59.5（超越 GPT-5.5 的 58.6）；SWE-bench Multilingual 77.3；FORTE 73.2；RWSearch 78.8；BrowseComp 79.9。原生集成 Claude Code、OpenClaw、Hermes Agent 等工具，支持 GPU 与 NPU 部署，已在大规模国内集群验证。",
-    "url": "https://x.com/Meituan_LongCat/status/2073768940078317713",
-    "published": "2026-07-05T14:00:18.000Z",
-    "source": "X：美团 LongCat (@Meituan_LongCat)",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "pxpipe：通过图像化压缩输入token降低Claude Code成本",
-    "summary": "pxpipe是一个本地代理，将系统提示、工具文档和历史记录等密集文本渲染为PNG图像，利用图像token成本取决于像素尺寸的特性压缩输入token。在Fable 5模型上，约25k文本token压缩为约2.7k图像token，端到端账单降低59-70%。SWE-bench Lite 10个实例全部通过，成本从$54降至$27；SWE-bench Pro 19对测试中18对判定一致，单次请求成本降低约60%。该方法有损（精确ID等需保持文本），默认仅处理`claude-fable-5`请求，可通过`PXPIPE_MODELS`变量控制。",
-    "url": "https://github.com/teamchong/pxpipe",
-    "published": "2026-07-03T19:19:45.726Z",
-    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "Fable 的判断力：Simon Willison 从 Claude Code 团队获得的效率技巧",
-    "summary": "Simon Willison 在 AIE 上与 Claude Code 团队交流后建议，让 Fable（以及 Opus）用自己的判断力工作，而非硬性规定行为。例如，直接让 Fable 自行决定何时编写测试，比给出具体规则更好。为应对价格即将上涨、节省 Fable token，Jesse Vincent 的另一个技巧是告诉 Fable 将较小任务委托给较低功耗模型（Sonnet 用于实质性实现、Haiku 用于机械修改），主循环保留判断、审计和数据合成等任务。Willison 已将提示词存入 Claude Code 记忆文件，实际效果良好，Fable token 消耗速度明显下降。",
-    "url": "https://simonwillison.net/2026/Jul/3/judgement",
-    "published": "2026-07-03T18:51:06.000Z",
-    "source": "Simon Willison 博客",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "How designers need to change for an AI-powered world",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/how-designers-need-to-change-for-an-ai-powered-world-b51c3c195954?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1600/0*_sMC-F4IUk7PSB9V.png\" width=\"1600\" /></a></p><p class=\"medium-feed-snippet\">A recap of ideas from our panel discussion for a topic that&#x2019;s on everyone&#x2019;s mind</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/how-designers-need-to-change-fo",
-    "url": "https://uxdesign.cc/how-designers-need-to-change-for-an-ai-powered-world-b51c3c195954?source=rss----138adf9c44c---4",
-    "published": "Wed, 01 Jul 2026 21:49:00 GMT",
+    "title": "How any designer can build a more open design culture at work",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/how-any-designer-can-build-a-more-open-design-culture-at-work-e74e0925d781?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*KYrb9zAoTKDVBEz2258X7w.jpeg\" width=\"6628\" /></a></p><p class=\"medium-feed-snippet\">You don&#x2019;t need a &#x201c;leader&#x201d; title to build psychological safety at work.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/how-any-designer-c",
+    "url": "https://uxdesign.cc/how-any-designer-can-build-a-more-open-design-culture-at-work-e74e0925d781?source=rss----138adf9c44c---4",
+    "published": "Tue, 07 Jul 2026 12:04:52 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
   },
   {
-    "title": "Why Accessibility Is An Operational Capability, Not A Feature",
-    "summary": "Teams can generate UI faster than ever, but they still have to guarantee that what they ship is usable, secure, and maintainable. Accessibility as an operational capability rather than a compliance checklist or end-of-project audit, and what that looks like in practice.",
-    "url": "https://smashingmagazine.com/2026/06/why-accessibility-operational-capability-not-feature/",
-    "published": "Tue, 30 Jun 2026 12:00:00 GMT",
+    "title": "Meet Kirki: WordPress’s First Visual Builder With An Infinite Canvas",
+    "summary": "We have been building websites inside boxes for years on WordPress. Let’s take a closer look at [Kirki](https://kirki.com/), the first freeform visual builder with an infinite canvas, and explore how it redefines the experience with cleaner performance, full design freedom, and zero plugin dependency.",
+    "url": "https://smashingmagazine.com/2026/07/kirki-wordpress-visual-builder-infinite-canvas/",
+    "published": "Tue, 07 Jul 2026 10:00:00 GMT",
     "source": "Smashing Magazine",
     "source_weight": "medium",
     "category": "design_communities"
@@ -104,15 +203,6 @@
     "url": "https://smashingmagazine.com/2026/07/matching-ai-modality-user-intent-designing-right-interface/",
     "published": "Thu, 02 Jul 2026 10:00:00 GMT",
     "source": "Smashing Magazine",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "AI personality is a design problem",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/ai-personality-is-a-design-problem-58fbc7926a3d?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1536/1*PLXV6BS03y2Dw1ZJnVkKww.png\" width=\"1536\" /></a></p><p class=\"medium-feed-snippet\">Right now it&#x2019;s an accidental byproduct of AI alignment. It could be an interface we build deliberately.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/ai-personality-is-a-design-",
-    "url": "https://uxdesign.cc/ai-personality-is-a-design-problem-58fbc7926a3d?source=rss----138adf9c44c---4",
-    "published": "Thu, 02 Jul 2026 05:09:06 GMT",
-    "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
   },
@@ -132,78 +222,6 @@
     "published": "Sat, 04 Jul 2026 16:37:02 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Design system debt, game UX, 39 principles for AI interaction",
-    "summary": "<h4>Weekly curated resources for designers — thinkers and makers.</h4><figure><a href=\"https://uxdesign.cc/figma-just-made-your-design-system-debt-everyones-problem-now-use-it-2e9ecb6272bf\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/0*AvdsIuAhWLZ8z491.png\" /></a></figure><p>“This is the real shift. Design system debt used to be paid by one person, quietly, in files nobody else opened. Now it gets paid by the engineer whose generated component is wrong, the PM whose timeline slips ",
-    "url": "https://uxdesign.cc/design-system-debt-game-ux-39-principles-for-ai-interaction-dab9500dc926?source=rss----138adf9c44c---4",
-    "published": "Mon, 06 Jul 2026 11:25:19 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Design as a function",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/design-as-a-function-5c236e28f353?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1308/1*tpDbmUBwcIY1VyF2nRXLfw.png\" width=\"1308\" /></a></p><p class=\"medium-feed-snippet\">The future of design isn&#x2019;t about pixels. It&#x2019;s about function. And the organisations that figure that out first will be the ones that win.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/",
-    "url": "https://uxdesign.cc/design-as-a-function-5c236e28f353?source=rss----138adf9c44c---4",
-    "published": "Mon, 06 Jul 2026 07:35:38 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Wait, who made this?",
-    "summary": "<h4>The rise of creative provenance</h4><figure><img alt=\"AI-created posters tacked to a wall that all look similar\" src=\"https://cdn-images-1.medium.com/max/640/0*E1fBT2M4pqSGqE9Q\" /><figcaption>Some AI-generated posters are easy to spot and look the same; image via <a href=\"https://www.reddit.com/r/AskUK/comments/1t4ust6/im_seeing_more_and_more_ai_generated_stuff_around/\">Sub-Reddit AskUK</a></figcaption></figure><p>Many people have been asking themselves an important question as they see new ",
-    "url": "https://uxdesign.cc/wait-who-made-this-705a30d74220?source=rss----138adf9c44c---4",
-    "published": "Mon, 06 Jul 2026 07:33:56 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Users Don’t Need More Tools: They Need Seamless Integrations",
-    "summary": "A closer look at why users don’t need more tools in their daily lives. What they need are seamless integrations of useful features to match already existing, established mental models. Brought to you by <a href=\"https://ai-design-patterns.com/\">Design Patterns For AI Interfaces</a>, **friendly video course on UX** and design patterns by Vitaly.",
-    "url": "https://smashingmagazine.com/2026/07/users-dont-need-more-tools-need-seamless-integrations/",
-    "published": "Fri, 03 Jul 2026 13:00:00 GMT",
-    "source": "Smashing Magazine",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "You design it. Then what? A clear map of the Figma-to-code AI mess",
-    "summary": "<h4>A beginner’s guide through the AI pipeline fog.</h4><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*o-Oilskerz46L2jpF9kvxQ.png\" /></figure><p>If you put a room of designers together and asked how their work actually gets from Figma into real code with AI, you would get a few seconds of silence and then a lot of different answers, none of them confident. That is not because you missed a memo. There simply is no memo yet. So let me walk through it in plain words.</p><h4><st",
-    "url": "https://uxdesign.cc/you-design-it-then-what-a-clear-map-of-the-figma-to-code-ai-mess-954a4084175f?source=rss----138adf9c44c---4",
-    "published": "Fri, 03 Jul 2026 11:17:14 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Did good UX break the job market?",
-    "summary": "<h4>Why making it easier to apply may have made it harder to get hired.</h4><figure><img alt=\"A computer keyboard featuring a clearly visible “Apply Now” button, emphasizing its importance.\" src=\"https://cdn-images-1.medium.com/max/1024/1*55ZQe0ZqnB009-0Qt-6Gkw.jpeg\" /><figcaption>Image source: Adobe Stock</figcaption></figure><p>Ten years ago, roughly 1<a href=\"https://blog.hiringthing.com/job-application-statistics\">5% of job applications resulted in an interview</a>. In practical terms, that ",
-    "url": "https://uxdesign.cc/did-good-ux-break-the-job-market-546438288589?source=rss----138adf9c44c---4",
-    "published": "Fri, 03 Jul 2026 11:16:44 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "The seven AI tools I actually use and when",
-    "summary": "<figure><img alt=\"Seven tools, one bench. The skill was always knowing which to pick up.\" src=\"https://cdn-images-1.medium.com/max/1024/1*rVzBRTEirr5aOfxEOErgpw.png\" /><figcaption>Seven tools, one bench. The skill was always knowing which to pick up. AI assisted.</figcaption></figure><h4>Nobody builds with one model anymore. Here is the stack I reach for, tool by tool, with the one trick that makes each earn its place.</h4><p>Everyone keeps asking which AI tool to use, as if one of them is going",
-    "url": "https://uxdesign.cc/the-seven-ai-tools-i-actually-use-and-when-june-2026-edition-a0baca87994e?source=rss----138adf9c44c---4",
-    "published": "Fri, 03 Jul 2026 03:56:18 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Designed for a Dead Language",
-    "summary": "<!-- wp:paragraph -->\n<p>Every language app in your pocket inherited a teaching method built for Latin. Understanding why that happened is a more useful design lesson than anything the apps themselves will teach you.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>In 1788, Prussia introduced the Abitur, a standardized national examination required for entry into universities and the civil service. To pass it, students needed to demonstrate measurable, gradable knowledge. The system needed t",
-    "url": "https://alistapart.com/article/designed-for-a-dead-language/",
-    "published": "",
-    "source": "A List Apart",
-    "source_weight": "low",
     "category": "design_communities"
   }
 ]

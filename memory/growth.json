@@ -1,5 +1,5 @@
 {
-  "day_count": 74,
+  "day_count": 75,
   "history": [
     {
       "day": 20,
@@ -370,6 +370,13 @@
       "date": "2026-07-06",
       "topic": "Synthetic Sciences 发布 OpenScience：面向机器学习、生物学、物理学和化学研究的开源模型无关 AI 工作台",
       "source": "MarkTechPost（RSS）",
+      "mode": "rss"
+    },
+    {
+      "day": 75,
+      "date": "2026-07-07",
+      "topic": "在网络不稳定的地区，小型AI模型正逐渐普及",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "mode": "rss"
     }
   ],

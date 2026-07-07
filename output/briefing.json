@@ -1,42 +1,42 @@
 [
   {
-    "title": "Synthetic Sciences 发布 OpenScience：面向机器学习、生物学、物理学和化学研究的开源模型无关 AI 工作台",
-    "summary": "Synthetic Sciences 推出开源（Apache 2.0）AI 科研工作台 OpenScience，覆盖机器学习、生物学、物理学、化学。它运行从文献、假设、代码、实验到分析与撰写的完整科研循环，支持按请求切换任意模型（Claude、GPT、Gemini、GLM、Kimi、DeepSeek 及本地微调模型）。",
-    "source": "MarkTechPost（RSS）",
-    "url": "https://www.marktechpost.com/2026/07/05/synthetic-sciences-releases-openscience-an-open-source-model-agnostic-ai-workbench-for-machine-learning-biology-physics-and-chemistry-research",
-    "published_at": "2026-07-06T05:07:12.000Z",
+    "title": "在网络不稳定的地区，小型AI模型正逐渐普及",
+    "summary": "2019年，Adebayo Alonge因服务器远在美国致RxScanner单次扫描超5分钟，工程师2小时内将AI模型缩小至可在Android手机本地运行，此后RxScanner能在无宽带、缺电地区验药。小AI模型参数通常至多几十亿，可在手机或Raspberry Pi上运行，功耗仅数瓦。类似案例包括印度腰果病害检测无人",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+    "published_at": "2026-07-07T06:45:06.341Z",
+    "category": "tip"
+  },
+  {
+    "title": "MIRA：可玩多人世界模型，20 FPS实时生成\"火箭联盟的梦\"",
+    "summary": "MIRA是一个可玩、多人的世界模型，被形容为\"火箭联盟的梦\"。它基于10k小时公开机器人收集的数据训练，学习四玩家游戏动态，根据按键实时生成画面，帧率达20 FPS。模型由General Intuition与Kyutai Labs联合构建，Epic Games提供协作。Ethan Mollick称从最早的扩散DOOM玩",
+    "source": "X：Ethan Mollick (@emollick)",
+    "url": "https://x.com/emollick/status/2074348274136346871",
+    "published_at": "2026-07-07T04:22:22.000Z",
     "category": "ai-products"
   },
   {
-    "title": "分享8个Claude Fable 5下线前必跑的超实用Prompt",
-    "summary": "Claude Fable 5即将下线，作者整理了8个经实战验证的提示词：/goal提示语让模型自主跑25次实验（花费165美元，构建速度提高50%、token开销降60%）；工作模式提示语将用户习惯转化为可复用Skills；行动规范提示语约束subagent行为；subagent分配提示语智能分配任务；25个定时循环工",
-    "source": "公众号：卡尔的AI沃茨",
-    "url": "https://mp.weixin.qq.com/s/ZkMsdeTK6wmgkaER0iPT8w",
-    "published_at": "2026-07-06T01:19:09.000Z",
-    "category": "tip"
-  },
-  {
-    "title": "扎克伯格：建千兆瓦级AI集群，集中精英与资本",
-    "summary": "\"我们正在建设这个 Prometheus 集群，首个千兆瓦以上的单一集群……我们是在谈论数千亿美元的资本投入。\"\n\nMark Zuckerberg 表示，他的职责就是集中精英人才、资本和基础设施。",
-    "source": "X：Rohan Paul (@rohanpaul_ai)",
-    "url": "https://x.com/rohanpaul_ai/status/2073834219659534816",
-    "published_at": "2026-07-05T18:19:42.000Z",
-    "category": "industry"
-  },
-  {
-    "title": "三周前，我不小心创办了一家小公司",
-    "summary": "一位父亲为患有自闭症的非语言儿子开发了一款沟通应用，在言语治疗室的等候区展示时，所有非语言儿童的母亲看到后都忍不住流泪，言语治疗师也啜泣了五分钟。他意外发现产品市场匹配，决定腾出时间让更多孩子能用上，即使这意味着几周睡眠不足。应用本身是专为理解语言困难的儿童设计的，与传统的AAC设备不同--后者主要面向身体障碍但语言理",
+    "title": "OfficeCLI：为AI智能体设计的开源Office套件",
+    "summary": "OfficeCLI是全球首个专为AI智能体设计的开源Office套件，以单二进制文件运行，无需安装Office或任何依赖。它内置HTML渲染引擎，可将.docx/.xlsx/.pptx转换为HTML或PNG，形成\"渲染→查看→修复\"的视觉闭环，使AI代理能自主创建、读取和修改Word、Excel、PowerPoint文",
     "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-    "url": "https://extelligence.substack.com/p/i-accidentally-started-a-small-business",
-    "published_at": "2026-07-05T17:43:57.442Z",
-    "category": "tip"
+    "url": "https://github.com/iOfficeAI/OfficeCLI",
+    "published_at": "2026-07-06T23:03:34.910Z",
+    "category": "ai-products"
   },
   {
-    "title": "Anthropic Claude Design 反向工程提示词开源更新",
-    "summary": "Anthropic 旗下 Claude Design 的反向工程系统提示词在 GitHub 以 MIT 许可证开源，包含 20 章提示词和 14 项技能，覆盖内容纪律、美学、无障碍（WCAG、语义 HTML、键盘导航）、交互状态、系统思维等。近日针对 Fable 5/Opus 4.7+ 系列校准，新增自主决策条款：小决",
-    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-    "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
-    "published_at": "2026-07-05T15:35:42.919Z",
+    "title": "Claude Code v2.1.202 发布",
+    "summary": "Claude Code v2.1.202 在 `/config` 中新增\"Dynamic workflow size\"设置，可控制动态工作流的 agent 数量规模（小/中/大），作为指导性建议而非硬性上限。工作流派生的 agent 现在会发射 `workflow.run_id` 和 `workflow.name` 的",
+    "source": "Claude Code：GitHub Releases（RSS）",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.202",
+    "published_at": "2026-07-06T22:51:16.000Z",
+    "category": "ai-products"
+  },
+  {
+    "title": "Claude Code 团队详解四种智能体循环类型",
+    "summary": "Claude Code 团队将\"设计循环\"定义为智能体重复工作直到满足停止条件，划分四种类型：1）回合循环--手动提示触发，Claude 自判完成，适合短任务，可通过 SKILL.md 提升验证；2）目标循环--`/goal` 手动触发，达成目标或达最大轮数停止，需确定性完成标准（如测试通过数）；3）时间循环--`/l",
+    "source": "X：Claude Devs (@ClaudeDevs)",
+    "url": "https://x.com/ClaudeDevs/status/2074208949205881033",
+    "published_at": "2026-07-06T19:08:45.000Z",
     "category": "tip"
   }
 ]
