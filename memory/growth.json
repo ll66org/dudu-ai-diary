@@ -1,5 +1,5 @@
 {
-  "day_count": 75,
+  "day_count": 76,
   "history": [
     {
       "day": 20,
@@ -377,6 +377,13 @@
       "date": "2026-07-07",
       "topic": "在网络不稳定的地区，小型AI模型正逐渐普及",
       "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "mode": "rss"
+    },
+    {
+      "day": 76,
+      "date": "2026-07-08",
+      "topic": "在校研究生Kunkun开源管理相互调用Skill的方法",
+      "source": "X：Berry Xia (@berryxia)",
       "mode": "rss"
     }
   ],

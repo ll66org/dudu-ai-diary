@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-07T13:40:26.750182Z",
+  "fetched_at": "2026-07-08T13:10:02.711145Z",
   "total_candidates": 25,
   "source_stats": {
     "Figma Blog": {
@@ -7,8 +7,8 @@
       "total": 0
     },
     "Vercel Blog (v0)": {
-      "found": 0,
-      "total": 1311
+      "found": 4,
+      "total": 1320
     },
     "Cursor Changelog": {
       "found": 0,
@@ -44,15 +44,15 @@
     },
     "CSS-Tricks": {
       "found": 0,
-      "total": 0
+      "total": 15
     },
     "A List Apart": {
-      "found": 1,
+      "found": 0,
       "total": 20
     },
     "Hacker News (设计向)": {
-      "found": 6,
-      "total": 20
+      "found": 0,
+      "total": 0
     },
     "Product Hunt": {
       "found": 0,
@@ -64,27 +64,27 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 75,
-  "today_date": "2026-07-07",
+  "dudu_day": 76,
+  "today_date": "2026-07-08",
   "used_titles": [
-    "Herdr：驻留在终端中的AI智能体多路复用器",
     "黑石未来3~5年拟投300亿美元在日本建AI数据中心，联合成立AI XPV平台",
     "OpenAI论文揭示GPT-5.6三个Pro变体，打破单一顶级策略",
     "Fable 5 在 RLI 基准中达成 16.1% 自动化率，较八个月前提升六倍",
     "NVIDIA 联合多所大学提出 ASPIRE：自我改进机器人框架，零样本成功率最高提升 77 分",
     "NVIDIA 联合多所大学提出 ASPIRE：自我改进机器人框架，零样本成功率最高提升 77 分",
-    "Synthetic Sciences 发布 OpenScience：面向机器学习、生物学、物理学和化学研究的开源模型无关 AI 工作台"
+    "Synthetic Sciences 发布 OpenScience：面向机器学习、生物学、物理学和化学研究的开源模型无关 AI 工作台",
+    "在网络不稳定的地区，小型AI模型正逐渐普及"
   ],
   "used_tools": [
-    "Hacker News 热门（buzzing.cc 中文翻译）",
     "IT之家（RSS）",
     "The Decoder：AI News（RSS）",
     "The Decoder：AI News（RSS）",
     "MarkTechPost（RSS）",
     "MarkTechPost（RSS）",
-    "MarkTechPost（RSS）"
+    "MarkTechPost（RSS）",
+    "Hacker News 热门（buzzing.cc 中文翻译）"
   ],
-  "briefing_total": 39,
-  "briefing_design": 21,
+  "briefing_total": 72,
+  "briefing_design": 44,
   "briefing_count": 5
 }

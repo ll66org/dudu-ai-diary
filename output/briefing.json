@@ -1,42 +1,42 @@
 [
   {
-    "title": "在网络不稳定的地区，小型AI模型正逐渐普及",
-    "summary": "2019年，Adebayo Alonge因服务器远在美国致RxScanner单次扫描超5分钟，工程师2小时内将AI模型缩小至可在Android手机本地运行，此后RxScanner能在无宽带、缺电地区验药。小AI模型参数通常至多几十亿，可在手机或Raspberry Pi上运行，功耗仅数瓦。类似案例包括印度腰果病害检测无人",
-    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-    "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
-    "published_at": "2026-07-07T06:45:06.341Z",
+    "title": "在校研究生Kunkun开源管理相互调用Skill的方法",
+    "summary": "在校研究生Kunkun开源了一套管理大量互相调用Skill的方法。核心方案包括：1）搭建HTML后台，按运行模式（手动/自动）、链路位置、专业领域三类标签筛选Skill；2）将连环调用的Skill绘制成Mermaid流程图，根据debug、新功能、合PR、改设计等阶段定位对应技能组；3）仿照Matt的ask Matt技",
+    "source": "X：Berry Xia (@berryxia)",
+    "url": "https://x.com/berryxia/status/2074827915779580055",
+    "published_at": "2026-07-08T12:08:18.000Z",
     "category": "tip"
   },
   {
-    "title": "MIRA：可玩多人世界模型，20 FPS实时生成\"火箭联盟的梦\"",
-    "summary": "MIRA是一个可玩、多人的世界模型，被形容为\"火箭联盟的梦\"。它基于10k小时公开机器人收集的数据训练，学习四玩家游戏动态，根据按键实时生成画面，帧率达20 FPS。模型由General Intuition与Kyutai Labs联合构建，Epic Games提供协作。Ethan Mollick称从最早的扩散DOOM玩",
-    "source": "X：Ethan Mollick (@emollick)",
-    "url": "https://x.com/emollick/status/2074348274136346871",
-    "published_at": "2026-07-07T04:22:22.000Z",
-    "category": "ai-products"
+    "title": "加拿大不列颠哥伦比亚省拟起诉OpenAI：未上报ChatGPT暴力对话致校园枪击惨案",
+    "summary": "加拿大不列颠哥伦比亚省7月7日宣布将起诉OpenAI，指控其未向执法部门上报一名ChatGPT用户2025年6月封禁前的暴力相关对话内容。该用户随后于今年2月在塔布勒岭制造校园枪击案，杀害8人。OpenAI CEO萨姆·奥尔特曼今年4月为此公开致歉，承认本应上报但未执行。受害家属已在加州法院提起诉讼，省政府正协调独立诉",
+    "source": "IT之家（RSS）",
+    "url": "https://www.ithome.com/0/974/169.htm",
+    "published_at": "2026-07-08T09:55:17.000Z",
+    "category": "industry"
   },
   {
-    "title": "OfficeCLI：为AI智能体设计的开源Office套件",
-    "summary": "OfficeCLI是全球首个专为AI智能体设计的开源Office套件，以单二进制文件运行，无需安装Office或任何依赖。它内置HTML渲染引擎，可将.docx/.xlsx/.pptx转换为HTML或PNG，形成\"渲染→查看→修复\"的视觉闭环，使AI代理能自主创建、读取和修改Word、Excel、PowerPoint文",
+    "title": "GitLost：Noma Labs 发现 GitHub AI 代理提示词注入漏洞",
+    "summary": "Noma Labs 在 GitHub Agentic Workflows 中发现严重提示词注入漏洞 GitLost。未认证攻击者仅需在属于同一组织的公共仓库中创建一个嵌有恶意指令的 Issue，即可诱使基于 Claude 或 GitHub Copilot 的 AI 代理读取并公开该组织内私有仓库的内容。攻击无需编码技能",
     "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-    "url": "https://github.com/iOfficeAI/OfficeCLI",
-    "published_at": "2026-07-06T23:03:34.910Z",
-    "category": "ai-products"
+    "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
+    "published_at": "2026-07-08T08:29:47.091Z",
+    "category": "industry"
   },
   {
-    "title": "Claude Code v2.1.202 发布",
-    "summary": "Claude Code v2.1.202 在 `/config` 中新增\"Dynamic workflow size\"设置，可控制动态工作流的 agent 数量规模（小/中/大），作为指导性建议而非硬性上限。工作流派生的 agent 现在会发射 `workflow.run_id` 和 `workflow.name` 的",
-    "source": "Claude Code：GitHub Releases（RSS）",
-    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.202",
-    "published_at": "2026-07-06T22:51:16.000Z",
-    "category": "ai-products"
+    "title": "工信部发布Claude Code后门安全风险提示",
+    "summary": "中国工信部发布风险提示，指出 Claude Code 2.1.91 至 2.1.196 版本内置监控机制，未经用户同意即向远程服务器回传用户地域、身份标识等敏感信息。建议相关单位立即全面排查，对受影响版本卸载或升级至已清除后门代码的最新安全版本，并加强开发工具外联权限管控与流量监测，防止敏感数据违规外传。",
+    "source": "X：小互 (@xiaohu)",
+    "url": "https://x.com/xiaohu/status/2074736623284256881",
+    "published_at": "2026-07-08T06:05:32.000Z",
+    "category": "industry"
   },
   {
-    "title": "Claude Code 团队详解四种智能体循环类型",
-    "summary": "Claude Code 团队将\"设计循环\"定义为智能体重复工作直到满足停止条件，划分四种类型：1）回合循环--手动提示触发，Claude 自判完成，适合短任务，可通过 SKILL.md 提升验证；2）目标循环--`/goal` 手动触发，达成目标或达最大轮数停止，需确定性完成标准（如测试通过数）；3）时间循环--`/l",
-    "source": "X：Claude Devs (@ClaudeDevs)",
-    "url": "https://x.com/ClaudeDevs/status/2074208949205881033",
-    "published_at": "2026-07-06T19:08:45.000Z",
-    "category": "tip"
+    "title": "蚂蚁集团旗下Robbyant开源LingBot-Vision：1B参数边界中心视觉基础模型，用于密集空间感知",
+    "summary": "蚂蚁集团旗下具身智能公司Robbyant开源LingBot-Vision，一套自监督视觉Transformer家族，专为密集空间感知设计。旗舰ViT-g/16参数约1.1B，采用掩膜边界建模训练，将边界作为原生预训练信号。在密集空间任务中，该1B模型匹配或超越参数规模高达7倍的大模型（如7B DINOv3）。模型以Ap",
+    "source": "MarkTechPost（RSS）",
+    "url": "https://www.marktechpost.com/2026/07/07/ant-groups-robbyant-open-sources-lingbot-vision-a-1b-boundary-centric-vision-foundation-model-for-dense-spatial-perception",
+    "published_at": "2026-07-08T03:03:22.000Z",
+    "category": "ai-models"
   }
 ]
