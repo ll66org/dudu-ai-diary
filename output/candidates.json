@@ -1,12 +1,111 @@
 [
   {
-    "title": "在校研究生Kunkun开源管理相互调用Skill的方法",
-    "summary": "在校研究生Kunkun开源了一套管理大量互相调用Skill的方法。核心方案包括：1）搭建HTML后台，按运行模式（手动/自动）、链路位置、专业领域三类标签筛选Skill；2）将连环调用的Skill绘制成Mermaid流程图，根据debug、新功能、合PR、改设计等阶段定位对应技能组；3）仿照Matt的ask Matt技能开发\"ask me\"技能，将调用决策浓缩成上下文喂给模型。该方法避免将所有调用交给模型自行判断，保持工程复杂场景下的人机对齐与可控性。项目已开源至GitHub。",
-    "url": "https://x.com/berryxia/status/2074827915779580055",
-    "published": "2026-07-08T12:08:18.000Z",
-    "source": "X：Berry Xia (@berryxia)",
+    "title": "Building the AI Retrieval Infrastructure Behind 20B+ Vectors at HubSpot",
+    "summary": "<p>Article URL: <a href=\"https://product.hubspot.com/blog/building-the-ai-retrieval-infrastructure-behind-20-billion-vectors-at-hubspot\">https://product.hubspot.com/blog/building-the-ai-retrieval-infrastructure-behind-20-billion-vectors-at-hubspot</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48845387\">https://news.ycombinator.com/item?id=48845387</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+    "url": "https://product.hubspot.com/blog/building-the-ai-retrieval-infrastructure-behind-20-billion-vectors-at-hubspot",
+    "published": "Thu, 09 Jul 2026 13:20:47 +0000",
+    "source": "Hacker News (设计向)",
     "source_weight": "high",
-    "category": "tip"
+    "category": "ai_tech"
+  },
+  {
+    "title": "Show HN: I built a budgeting app where the AI does the bookkeeping",
+    "summary": "<p>Article URL: <a href=\"https://play.google.com/store/apps/details?id=com.wladradchenko.fehu&amp;hl=en_US\">https://play.google.com/store/apps/details?id=com.wladradchenko.fehu&amp;hl=en_US</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48845327\">https://news.ycombinator.com/item?id=48845327</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "url": "https://play.google.com/store/apps/details?id=com.wladradchenko.fehu&hl=en_US",
+    "published": "Thu, 09 Jul 2026 13:16:04 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "AI builders outnumber AI governance hires 7:1 in Europe",
+    "summary": "<p>Article URL: <a href=\"https://axipro.co/eu-ai-act-hiring-gap-study/\">https://axipro.co/eu-ai-act-hiring-gap-study/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48845326\">https://news.ycombinator.com/item?id=48845326</a></p>\n<p>Points: 10</p>\n<p># Comments: 10</p>",
+    "url": "https://axipro.co/eu-ai-act-hiring-gap-study/",
+    "published": "Thu, 09 Jul 2026 13:15:47 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Show HN: Noema – AI personas debate US listed stocks",
+    "summary": "<p>Initially this was a rough system I used to cover my weak spots when investing (eg understanding dilution risk in context of the overall opportunity), but now have launched this as an mvp app.<p>I use this actively when exploring new ideas to give me a quick, well rounded report and qualitatively is more amenable to my style vs simply prompting into Claude/ChatGPT for the same thing.<p>Thinking along these lines I’m also very interested in using LLMs in a similar fashion to simulate the propa",
+    "url": "https://itsnoema.com",
+    "published": "Thu, 09 Jul 2026 13:09:29 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Show HN: OpenTab – a lazygit-style TUI for your AI token spend",
+    "summary": "<p>Article URL: <a href=\"https://github.com/hamidi-dev/opentab\">https://github.com/hamidi-dev/opentab</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48845224\">https://news.ycombinator.com/item?id=48845224</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "url": "https://github.com/hamidi-dev/opentab",
+    "published": "Thu, 09 Jul 2026 13:07:21 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Build a Free AI Agent That Takes Actions (No Code)",
+    "summary": "<p>Article URL: <a href=\"https://quickchat.ai/post/build-an-ai-agent-that-takes-actions\">https://quickchat.ai/post/build-an-ai-agent-that-takes-actions</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48844706\">https://news.ycombinator.com/item?id=48844706</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+    "url": "https://quickchat.ai/post/build-an-ai-agent-that-takes-actions",
+    "published": "Thu, 09 Jul 2026 12:20:23 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Claude 推出反思功能（Beta）",
+    "summary": "Anthropic 为 Claude 推出一项反思功能（Beta），帮助用户追踪使用模式。用户可回顾过去 1、3、6 或 12 个月的活动总结，涵盖关键主题、使用频率和任务类型。功能结合 4D AI Fluency Framework（委托、描述、辨别、勤勉）提供协作分析，支持设定静音时段或定时休息提醒。隐私方面，不涉及无痕对话和健康集成工具，也不提取连接工具中的底层文件。该功能面向 Free、Pro 和 Max 用户，需开启记忆功能，可通过 Claude 网页或桌面应用设置。",
+    "url": "https://www.anthropic.com/news/reflect-with-claude",
+    "published": "2026-07-09T13:40:30.163Z",
+    "source": "Anthropic：Newsroom（网页）",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "蚂蚁灵波开源全球首个面向具身智能的MoE视频基模LingBot-Video",
+    "summary": "蚂蚁灵波科技正式开源LingBot-Video，这是全球首个基于MoE架构、面向具身智能的视频生成基础模型。总参数30B，推理时仅激活约3B，效率较同规模Dense架构提升约3倍。模型引入7万小时VLA、VLN、Ego等机器人数据，并通过多维强化学习奖励系统对齐物理合理性与任务完成度。在RBench上总分0.620，超越Wan2.6等模型；在Physics-IQ Verified评测中排名第一。可用于机器人动作预测、仿真数据生成等方向。",
+    "url": "https://www.ithome.com/0/974/517.htm",
+    "published": "2026-07-09T07:06:00.000Z",
+    "source": "IT之家（RSS）",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "蚂蚁灵波开源实时交互世界模型 LingBot-World 2.0",
+    "summary": "蚂蚁灵波开源新一代实时交互世界模型 LingBot-World 2.0（14B 参数），支持施法、攻击、跳跃等丰富角色动作及文本驱动事件（如切换场景、召唤风暴），内置 Pilot Agent 与 Director Agent 实现世界持续演化，并支持多人同时交互。模型采用因果预训练范式和混合双向自回归注意力掩码（MoBA），可稳定输出 720p/60fps 实时画面，长达一小时测试画质不衰减。通过一致性蒸馏与 DMD 降低采样成本，结合注意力 kernel 优化、混合并行推理、动态 KV 缓存调度和异步流媒体传输实现低延迟交互。模型权重及推理代码以非商用协议开源，SGLang 已适配，并提供 Reactor PC 端和灵光 APP 在线体验。",
+    "url": "https://www.ithome.com/0/974/508.htm",
+    "published": "2026-07-09T06:53:40.000Z",
+    "source": "IT之家（RSS）",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "Robbyant 发布 LingBot-VLA 2.0：开源 6B 跨实体机器人视觉-语言-动作模型",
+    "summary": "Robbyant 推出 LingBot-VLA 2.0，一个 6B 参数的开源视觉-语言-动作（VLA）基础模型。它以 Qwen3-VL-4B-Instruct 为骨干，采用 MoE 动作专家架构，通过 55 维规范向量统一表示不同机器人的状态和动作。训练数据涵盖约 60，000 小时高质量数据（50，000 小时机器人轨迹 + 10，000 小时第一人称人类视频），覆盖 20 种机器人配置。在 GM-100 双机械臂基准测试中，模型在多个平台上超越 π0.5 和之前版本。模型权重、代码和技术报告已以 Apache-2.0 许可开源。",
+    "url": "https://www.marktechpost.com/2026/07/08/lingbot-vla-2-0",
+    "published": "2026-07-09T00:45:39.000Z",
+    "source": "MarkTechPost（RSS）",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "利润超10亿美元、ARR剑指千亿，Anthropic抢先OpenAI冲击IPO",
+    "summary": "Anthropic今年第三季度利润预计超10亿美元，已于6月1日秘密提交IPO申请，若成功将成为规模最大AI实验室IPO。其与OpenAI的年度经常性收入合计接近1000亿美元。凭借Claude Code在软件开发领域的快速普及，Anthropic在2026年实现AI模型盈利变现，成为B2B市场领跑者。SemiAnalysis报告认为其商业模式优越，若持续良好执行，市值可能触及6万亿美元。",
+    "url": "https://www.ithome.com/0/974/275.htm",
+    "published": "2026-07-08T22:30:38.000Z",
+    "source": "IT之家（RSS）",
+    "source_weight": "high",
+    "category": "industry"
+  },
+  {
+    "title": "诉讼：男子使用Grok制作7000张继女色情图像后自杀",
+    "summary": "一男子使用Grok生成7000张继女儿童性虐待材料（CSAM）后自杀。更多年轻女孩起诉X平台，指控其涉及Grok生成CSAM，并包庇儿童性犯罪者。",
+    "url": "https://arstechnica.com/tech-policy/2026/07/lawsuit-grok-user-made-7k-child-sex-images-xai-only-reported-one-gang-rape-prompt",
+    "published": "2026-07-08T19:56:37.000Z",
+    "source": "Ars Technica：AI（RSS）",
+    "source_weight": "high",
+    "category": "industry"
   },
   {
     "title": "加拿大不列颠哥伦比亚省拟起诉OpenAI：未上报ChatGPT暴力对话致校园枪击惨案",
@@ -72,103 +171,22 @@
     "category": "tip"
   },
   {
-    "title": "Krea 2 身份保留功能上线",
-    "summary": "Krea 2 的身份保留功能已发布，配套模型和 ComfyUI 节点也已上线。🔥",
-    "url": "https://x.com/krea_ai/status/2074589965653303321",
-    "published": "2026-07-07T20:22:46.000Z",
-    "source": "X：Krea AI (@krea_ai)",
+    "title": "AI预检检查：智能体工作记忆架构",
+    "summary": "一种为AI智能体设计的预检工作记忆架构：查询到来时，系统从磁盘上约90个索引化的技能库中检索最相关技能，仅加载到上下文窗口。本地开源模型Ornith 35B（350亿参数，通过Ollama在Apple Silicon上运行）执行任务，约80%常规任务由本地模型完成，困难任务路由至前沿模型。看门狗记录每次预检决策和技能调用，夜间通过异步推理处理全天轨迹，自动决定哪些技能需新增或固化（如日历排期转为确定性Rust代码），实现自我改进循环。昨天，看门狗首次未提出任何改进建议，系统或接近性能平台期。",
+    "url": "https://www.tomtunguz.com/the-ai-preflight-check",
+    "published": "2026-07-08T00:00:00.000Z",
+    "source": "Tomer Tunguz 博客（VC 分析）",
     "source_weight": "high",
     "category": "tip"
   },
   {
-    "title": "Meta Superintelligence Labs 推出 Muse Image 和 Muse Video",
-    "summary": "Meta Superintelligence Labs 发布首个媒体生成模型 Muse Image 和 Muse Video。Muse Image 是目前最先进的图像生成模型，能精确遵循指令、精准编辑、多参考构图，并利用 Instagram 社交上下文。它还具备智能体工具使用能力并集成 Muse Spark。用户可通过 Meta AI 应用、网页、Instagram Stories 和 WhatsApp 试用，初始限于部分国家。Muse Video 基于相同预训练基础，实现高视觉保真度并原生支持音频。",
-    "url": "https://x.com/AIatMeta/status/2074577662840832382",
-    "published": "2026-07-07T19:33:53.000Z",
-    "source": "X：AI at Meta (@AIatMeta)",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "微软为降成本在Copilot中用自研MAI模型替换OpenAI和Anthropic模型",
-    "summary": "微软正用自研MAI模型替换Copilot产品中的OpenAI和Anthropic模型以降低支出。MAI模型已在Excel和Outlook中每周处理数万次请求，但占比仍小。Build大会上发布推理模型MAI-Thinking 1，声称编码媲美Sonnet 4.6和Opus 4.6，但基准测试大幅落后，仅与DeepSeek V3.2相当。AI负责人承认目标是削减并消除对Anthropic的支出。CEO暗示未来可能按用量计费，MAI为默认，第三方模型付费附加。微软称MAI使用干净商业许可数据，实际基于Common Crawl。",
-    "url": "https://the-decoder.com/copilot-goes-cheap-as-microsoft-phases-out-openai-and-anthropic-models-to-cut-costs",
-    "published": "2026-07-07T18:35:58.000Z",
-    "source": "The Decoder：AI News（RSS）",
-    "source_weight": "high",
-    "category": "industry"
-  },
-  {
-    "title": "YC CEO声称每日用AI部署3.7万行代码，开发者审查发现前端代码大量臃肿低效",
-    "summary": "Y Combinator CEO Garry Tan在X上宣称，他与AI编码代理每天在五个项目中部署37000行代码，并保持连续72天发布记录。波兰开发者Gregorein深入审查Tan网站前端代码，发现大量臃肿与低效问题：页面加载169次请求、总计6.42MB数据（对比Hacker News仅7次12KB）；包含28个测试文件、78个未使用的JavaScript控制器、八种格式Logo（含空文件）、未压缩的旧PNG等。Gregorein指出，AI虽能快速生成代码，但质量仍应优先于数量。",
-    "url": "https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media",
-    "published": "2026-07-07T17:52:12.864Z",
-    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "NotebookLM短视频概览正式上线",
-    "summary": "短视频概览功能已正式在移动端和网页端面向所有英语用户全面上线！\n\n一如既往，您的意见对我们至关重要。请在下方分享您最喜欢的作品，并告诉我们接下来需要添加哪些功能！❤️",
-    "url": "https://x.com/NotebookLM/status/2074551227594264799",
-    "published": "2026-07-07T17:48:50.000Z",
-    "source": "X：NotebookLM (@NotebookLM)",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Liquid AI 开源 Antidoom：基于最终 Token 偏好优化的推理模型死循环修复方法",
-    "summary": "Liquid AI 开源了 Antidoom，一种基于 Final Token Preference Optimization （FTPO） 的针对性修复方法，用于减少推理模型中的 doom loop（死循环）问题。该方法定位循环开始的第一个 token，训练模型选择连贯替代项，而不改变整体输出分布。在 LFM2.5-2.6B 上，硬数学和编程任务中的循环率从 10.2% 降至 1.4%；Qwen3.5-4B 上从 22.9% 降至 1%。整套流程可在数小时内完成，全部代码和数据集（LiquidAI/antidoom-mix-v1.0）已开源。",
-    "url": "https://www.marktechpost.com/2026/07/07/liquid-ai-antidoom-doom-loops-ftpo",
-    "published": "2026-07-07T16:50:50.000Z",
-    "source": "MarkTechPost（RSS）",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "人们如何使用Claude Cowork",
-    "summary": "基于2026年5月11-31日120万次匿名会话样本，Claude Cowork最大用途为业务流程与运营（33.4%），如整理报告、核对表格；其次为内容创作与文案（16.4%），如起草稿件、制作幻灯片；软件开发仅占8.7%。用户多用它处理跨团队衔接性任务，例如律师处理文档格式、招聘经理汇总面试反馈。Claude Cowork面向所有Claude用户开放。",
-    "url": "https://claude.com/blog/how-people-are-using-claude-cowork",
-    "published": "2026-07-07T16:24:13.051Z",
-    "source": "Claude：Blog（网页）",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "Use any Chat SDK adapter with eve",
-    "summary": "<p><a href=\"https://eve.dev/\">eve</a> now supports Chat SDK adapters with the new <a href=\"https://eve.dev/docs/channels/chat-sdk\">Chat SDK channel</a>.</p><p>One channel connects your eve agent to Facebook Messenger, WhatsApp, Resend, Liveblocks, and any other surface with an <a href=\"https://chat-sdk.dev/adapters\">adapter</a>. You write normal Chat SDK handler code, and calling <code>send</code> inside a handler hands the message to your agent.</p><div></div><p>Register handlers on <code>bot</",
-    "url": "https://vercel.com/changelog/eve-chat-sdk-channel",
-    "published": "",
-    "source": "Vercel Blog (v0)",
-    "source_weight": "high",
-    "category": "design_tools"
-  },
-  {
-    "title": "Chat SDK now supports Vercel Connect",
-    "summary": "<p>You can now use <a href=\"https://vercel.com/connect\">Vercel Connect</a> to manage credentials for your <a href=\"https://chat-sdk.dev\">Chat SDK</a> bots, with no tokens or signing secrets to store or rotate yourself.</p><p>The new <code>@vercel/connect/chat</code> subpath provides adapter helpers for Slack, GitHub, and Linear. Each helper takes a connector UID and returns a config you spread into the matching adapter factory.</p><div></div><p>Outbound bot calls use a function-form token field ",
-    "url": "https://vercel.com/changelog/chat-sdk-vercel-connect",
-    "published": "",
-    "source": "Vercel Blog (v0)",
-    "source_weight": "high",
-    "category": "design_tools"
-  },
-  {
-    "title": "Chat SDK adds Dial support",
-    "summary": "<p>Chat SDK now supports Dial with the new <a href=\"https://chat-sdk.dev/adapters/vendor-official/dial\">vendor-official adapter</a>.</p><p>Build bots that send and receive SMS, MMS, and iMessage on a real phone number, with bidirectional media and inbound voice-call transcripts. Replies use the standard Chat SDK thread and message APIs, with HMAC-verified webhooks and stable per-conversation threading.</p><div></div><p>Each phone conversation becomes a Chat SDK <a href=\"https://chat-sdk.dev/docs",
-    "url": "https://vercel.com/changelog/chat-sdk-adds-dial-support",
-    "published": "",
-    "source": "Vercel Blog (v0)",
-    "source_weight": "high",
-    "category": "design_tools"
-  },
-  {
-    "title": "Chat SDK adds Photon support",
-    "summary": "<p>Chat SDK now supports Photon with the new <a href=\"https://chat-sdk.dev/adapters/vendor-official/photon\">vendor-official adapter</a>.</p><p>Build bots that send and receive iMessages directly and in group chats, share media, and react with native tapbacks. Run the adapter against Spectrum Cloud, your own server, or directly on a Mac.</p><div></div><p>Each Photon conversation becomes a Chat SDK thread, and tapbacks come through as reactions. Handlers, posts, and subscriptions work the same as ",
-    "url": "https://vercel.com/changelog/chat-sdk-adds-photon-support",
-    "published": "",
-    "source": "Vercel Blog (v0)",
-    "source_weight": "high",
-    "category": "design_tools"
+    "title": "The revolution was the easy part",
+    "summary": "<h4>The announcement is one loud night. The evolution, the slow build starts the morning after, is the whole job.</h4><figure><img alt=\"The fireworks celebrate the launch, but the hard work of evolution comes later.\" src=\"https://cdn-images-1.medium.com/max/1024/1*O7oIWt9VnRVTvUV5aztH8g.jpeg\" /></figure><p>I recently asked Spotify for a Fourth of July playlist. Specifically, a rock one.</p><p>It came back with big drums and big choruses: “Born in the USA,” “Fortunate Son,” “For What It’s Worth,”",
+    "url": "https://uxdesign.cc/the-revolution-was-the-easy-part-c753340e3e22?source=rss----138adf9c44c---4",
+    "published": "Wed, 08 Jul 2026 21:52:46 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
   },
   {
     "title": "Designing in regulated industries",
@@ -203,24 +221,6 @@
     "url": "https://smashingmagazine.com/2026/07/kirki-wordpress-visual-builder-infinite-canvas/",
     "published": "Tue, 07 Jul 2026 10:00:00 GMT",
     "source": "Smashing Magazine",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Matching AI Modality To User Intent: Designing The Right Interface",
-    "summary": "We’ve fallen into conversational tunnel vision, defaulting every AI capability into a chat-based interface simply because LLMs are trained on dialogue data. But great UX is about matching modality to users’ context, intent, and cognitive load, so the interface adapts to the user, not the other way around.",
-    "url": "https://smashingmagazine.com/2026/07/matching-ai-modality-user-intent-designing-right-interface/",
-    "published": "Thu, 02 Jul 2026 10:00:00 GMT",
-    "source": "Smashing Magazine",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "What the Lean Startup still teaches us about generative AI",
-    "summary": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*lHvW87-6XQuoJ0VfOuQTKA.png\" /></figure><h4>Fifteen Years After Eric Ries Named the Apporach, Most Generative AI Programs Are Repeating the Exact Mistakes the Book Was Written to Prevent. Here’s How To Shift.</h4><p>Enterprises have poured billions into generative AI, and most of it has produced nothing you can measure. A 2025 study from MIT’s NANDA initiative found that <a href=\"https://fortune.com/2025/08/18/mit-report-95-perce",
-    "url": "https://uxdesign.cc/what-the-lean-startup-still-teaches-us-about-generative-ai-2d1505fe1db1?source=rss----138adf9c44c---4",
-    "published": "Mon, 06 Jul 2026 22:11:57 GMT",
-    "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
   }

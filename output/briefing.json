@@ -1,42 +1,42 @@
 [
   {
-    "title": "在校研究生Kunkun开源管理相互调用Skill的方法",
-    "summary": "在校研究生Kunkun开源了一套管理大量互相调用Skill的方法。核心方案包括：1）搭建HTML后台，按运行模式（手动/自动）、链路位置、专业领域三类标签筛选Skill；2）将连环调用的Skill绘制成Mermaid流程图，根据debug、新功能、合PR、改设计等阶段定位对应技能组；3）仿照Matt的ask Matt技",
-    "source": "X：Berry Xia (@berryxia)",
-    "url": "https://x.com/berryxia/status/2074827915779580055",
-    "published_at": "2026-07-08T12:08:18.000Z",
-    "category": "tip"
+    "title": "Claude 推出反思功能（Beta）",
+    "summary": "Anthropic 为 Claude 推出一项反思功能（Beta），帮助用户追踪使用模式。用户可回顾过去 1、3、6 或 12 个月的活动总结，涵盖关键主题、使用频率和任务类型。功能结合 4D AI Fluency Framework（委托、描述、辨别、勤勉）提供协作分析，支持设定静音时段或定时休息提醒。隐私方面，不涉",
+    "source": "Anthropic：Newsroom（网页）",
+    "url": "https://www.anthropic.com/news/reflect-with-claude",
+    "published_at": "2026-07-09T13:40:30.163Z",
+    "category": "ai-products"
   },
   {
-    "title": "加拿大不列颠哥伦比亚省拟起诉OpenAI：未上报ChatGPT暴力对话致校园枪击惨案",
-    "summary": "加拿大不列颠哥伦比亚省7月7日宣布将起诉OpenAI，指控其未向执法部门上报一名ChatGPT用户2025年6月封禁前的暴力相关对话内容。该用户随后于今年2月在塔布勒岭制造校园枪击案，杀害8人。OpenAI CEO萨姆·奥尔特曼今年4月为此公开致歉，承认本应上报但未执行。受害家属已在加州法院提起诉讼，省政府正协调独立诉",
+    "title": "蚂蚁灵波开源全球首个面向具身智能的MoE视频基模LingBot-Video",
+    "summary": "蚂蚁灵波科技正式开源LingBot-Video，这是全球首个基于MoE架构、面向具身智能的视频生成基础模型。总参数30B，推理时仅激活约3B，效率较同规模Dense架构提升约3倍。模型引入7万小时VLA、VLN、Ego等机器人数据，并通过多维强化学习奖励系统对齐物理合理性与任务完成度。在RBench上总分0.620，超",
     "source": "IT之家（RSS）",
-    "url": "https://www.ithome.com/0/974/169.htm",
-    "published_at": "2026-07-08T09:55:17.000Z",
-    "category": "industry"
-  },
-  {
-    "title": "GitLost：Noma Labs 发现 GitHub AI 代理提示词注入漏洞",
-    "summary": "Noma Labs 在 GitHub Agentic Workflows 中发现严重提示词注入漏洞 GitLost。未认证攻击者仅需在属于同一组织的公共仓库中创建一个嵌有恶意指令的 Issue，即可诱使基于 Claude 或 GitHub Copilot 的 AI 代理读取并公开该组织内私有仓库的内容。攻击无需编码技能",
-    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-    "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
-    "published_at": "2026-07-08T08:29:47.091Z",
-    "category": "industry"
-  },
-  {
-    "title": "工信部发布Claude Code后门安全风险提示",
-    "summary": "中国工信部发布风险提示，指出 Claude Code 2.1.91 至 2.1.196 版本内置监控机制，未经用户同意即向远程服务器回传用户地域、身份标识等敏感信息。建议相关单位立即全面排查，对受影响版本卸载或升级至已清除后门代码的最新安全版本，并加强开发工具外联权限管控与流量监测，防止敏感数据违规外传。",
-    "source": "X：小互 (@xiaohu)",
-    "url": "https://x.com/xiaohu/status/2074736623284256881",
-    "published_at": "2026-07-08T06:05:32.000Z",
-    "category": "industry"
-  },
-  {
-    "title": "蚂蚁集团旗下Robbyant开源LingBot-Vision：1B参数边界中心视觉基础模型，用于密集空间感知",
-    "summary": "蚂蚁集团旗下具身智能公司Robbyant开源LingBot-Vision，一套自监督视觉Transformer家族，专为密集空间感知设计。旗舰ViT-g/16参数约1.1B，采用掩膜边界建模训练，将边界作为原生预训练信号。在密集空间任务中，该1B模型匹配或超越参数规模高达7倍的大模型（如7B DINOv3）。模型以Ap",
-    "source": "MarkTechPost（RSS）",
-    "url": "https://www.marktechpost.com/2026/07/07/ant-groups-robbyant-open-sources-lingbot-vision-a-1b-boundary-centric-vision-foundation-model-for-dense-spatial-perception",
-    "published_at": "2026-07-08T03:03:22.000Z",
+    "url": "https://www.ithome.com/0/974/517.htm",
+    "published_at": "2026-07-09T07:06:00.000Z",
     "category": "ai-models"
+  },
+  {
+    "title": "蚂蚁灵波开源实时交互世界模型 LingBot-World 2.0",
+    "summary": "蚂蚁灵波开源新一代实时交互世界模型 LingBot-World 2.0（14B 参数），支持施法、攻击、跳跃等丰富角色动作及文本驱动事件（如切换场景、召唤风暴），内置 Pilot Agent 与 Director Agent 实现世界持续演化，并支持多人同时交互。模型采用因果预训练范式和混合双向自回归注意力掩码（MoB",
+    "source": "IT之家（RSS）",
+    "url": "https://www.ithome.com/0/974/508.htm",
+    "published_at": "2026-07-09T06:53:40.000Z",
+    "category": "ai-models"
+  },
+  {
+    "title": "Robbyant 发布 LingBot-VLA 2.0：开源 6B 跨实体机器人视觉-语言-动作模型",
+    "summary": "Robbyant 推出 LingBot-VLA 2.0，一个 6B 参数的开源视觉-语言-动作（VLA）基础模型。它以 Qwen3-VL-4B-Instruct 为骨干，采用 MoE 动作专家架构，通过 55 维规范向量统一表示不同机器人的状态和动作。训练数据涵盖约 60，000 小时高质量数据（50，000 小时机器",
+    "source": "MarkTechPost（RSS）",
+    "url": "https://www.marktechpost.com/2026/07/08/lingbot-vla-2-0",
+    "published_at": "2026-07-09T00:45:39.000Z",
+    "category": "ai-models"
+  },
+  {
+    "title": "利润超10亿美元、ARR剑指千亿，Anthropic抢先OpenAI冲击IPO",
+    "summary": "Anthropic今年第三季度利润预计超10亿美元，已于6月1日秘密提交IPO申请，若成功将成为规模最大AI实验室IPO。其与OpenAI的年度经常性收入合计接近1000亿美元。凭借Claude Code在软件开发领域的快速普及，Anthropic在2026年实现AI模型盈利变现，成为B2B市场领跑者。SemiAnal",
+    "source": "IT之家（RSS）",
+    "url": "https://www.ithome.com/0/974/275.htm",
+    "published_at": "2026-07-08T22:30:38.000Z",
+    "category": "industry"
   }
 ]

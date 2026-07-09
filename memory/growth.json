@@ -1,5 +1,5 @@
 {
-  "day_count": 76,
+  "day_count": 77,
   "history": [
     {
       "day": 20,
@@ -384,6 +384,13 @@
       "date": "2026-07-08",
       "topic": "在校研究生Kunkun开源管理相互调用Skill的方法",
       "source": "X：Berry Xia (@berryxia)",
+      "mode": "rss"
+    },
+    {
+      "day": 77,
+      "date": "2026-07-09",
+      "topic": "Claude 推出反思功能（Beta）",
+      "source": "Anthropic：Newsroom（网页）",
       "mode": "rss"
     }
   ],
