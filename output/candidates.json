@@ -1,66 +1,102 @@
 [
   {
-    "title": "Building the AI Retrieval Infrastructure Behind 20B+ Vectors at HubSpot",
-    "summary": "<p>Article URL: <a href=\"https://product.hubspot.com/blog/building-the-ai-retrieval-infrastructure-behind-20-billion-vectors-at-hubspot\">https://product.hubspot.com/blog/building-the-ai-retrieval-infrastructure-behind-20-billion-vectors-at-hubspot</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48845387\">https://news.ycombinator.com/item?id=48845387</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
-    "url": "https://product.hubspot.com/blog/building-the-ai-retrieval-infrastructure-behind-20-billion-vectors-at-hubspot",
-    "published": "Thu, 09 Jul 2026 13:20:47 +0000",
-    "source": "Hacker News (设计向)",
+    "title": "Elon Musk 转发用户称赞 Grok Build 的反馈",
+    "summary": "Elon Musk 转发用户 @0x0funky 对 Grok Build 的称赞。该用户称 Grok Build 是目前唯一集大成的 coding agentic workflow，内建图像生成和图片生视频功能，生图速度快且品质不输 Codex。Agent 可直接完成图像与视频生成，无需额外串接 MCP 或外部服务。用户结合 Agent Sprite Forge 工具，利用 Grok Build 的视频生成能力，先产出 6 秒角色动作视频再反编译为 game sprite，大幅减少对齐问题，制作 2D 横版游戏耗时不到 30 分钟，而此前用 Codex 需 1-2 小时且品质更优。",
+    "url": "https://x.com/elonmusk/status/2075478792273842370",
+    "published": "2026-07-10T07:14:39.000Z",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
     "source_weight": "high",
-    "category": "ai_tech"
+    "category": "tip"
   },
   {
-    "title": "Show HN: I built a budgeting app where the AI does the bookkeeping",
-    "summary": "<p>Article URL: <a href=\"https://play.google.com/store/apps/details?id=com.wladradchenko.fehu&amp;hl=en_US\">https://play.google.com/store/apps/details?id=com.wladradchenko.fehu&amp;hl=en_US</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48845327\">https://news.ycombinator.com/item?id=48845327</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
-    "url": "https://play.google.com/store/apps/details?id=com.wladradchenko.fehu&hl=en_US",
-    "published": "Thu, 09 Jul 2026 13:16:04 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "AI builders outnumber AI governance hires 7:1 in Europe",
-    "summary": "<p>Article URL: <a href=\"https://axipro.co/eu-ai-act-hiring-gap-study/\">https://axipro.co/eu-ai-act-hiring-gap-study/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48845326\">https://news.ycombinator.com/item?id=48845326</a></p>\n<p>Points: 10</p>\n<p># Comments: 10</p>",
-    "url": "https://axipro.co/eu-ai-act-hiring-gap-study/",
-    "published": "Thu, 09 Jul 2026 13:15:47 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Show HN: Noema – AI personas debate US listed stocks",
-    "summary": "<p>Initially this was a rough system I used to cover my weak spots when investing (eg understanding dilution risk in context of the overall opportunity), but now have launched this as an mvp app.<p>I use this actively when exploring new ideas to give me a quick, well rounded report and qualitatively is more amenable to my style vs simply prompting into Claude/ChatGPT for the same thing.<p>Thinking along these lines I’m also very interested in using LLMs in a similar fashion to simulate the propa",
-    "url": "https://itsnoema.com",
-    "published": "Thu, 09 Jul 2026 13:09:29 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Show HN: OpenTab – a lazygit-style TUI for your AI token spend",
-    "summary": "<p>Article URL: <a href=\"https://github.com/hamidi-dev/opentab\">https://github.com/hamidi-dev/opentab</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48845224\">https://news.ycombinator.com/item?id=48845224</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
-    "url": "https://github.com/hamidi-dev/opentab",
-    "published": "Thu, 09 Jul 2026 13:07:21 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Build a Free AI Agent That Takes Actions (No Code)",
-    "summary": "<p>Article URL: <a href=\"https://quickchat.ai/post/build-an-ai-agent-that-takes-actions\">https://quickchat.ai/post/build-an-ai-agent-that-takes-actions</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48844706\">https://news.ycombinator.com/item?id=48844706</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
-    "url": "https://quickchat.ai/post/build-an-ai-agent-that-takes-actions",
-    "published": "Thu, 09 Jul 2026 12:20:23 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Claude 推出反思功能（Beta）",
-    "summary": "Anthropic 为 Claude 推出一项反思功能（Beta），帮助用户追踪使用模式。用户可回顾过去 1、3、6 或 12 个月的活动总结，涵盖关键主题、使用频率和任务类型。功能结合 4D AI Fluency Framework（委托、描述、辨别、勤勉）提供协作分析，支持设定静音时段或定时休息提醒。隐私方面，不涉及无痕对话和健康集成工具，也不提取连接工具中的底层文件。该功能面向 Free、Pro 和 Max 用户，需开启记忆功能，可通过 Claude 网页或桌面应用设置。",
-    "url": "https://www.anthropic.com/news/reflect-with-claude",
-    "published": "2026-07-09T13:40:30.163Z",
-    "source": "Anthropic：Newsroom（网页）",
+    "title": "Claude Code v2.1.206 发布",
+    "summary": "Claude Code v2.1.206 发布，主要更新包括：为 `/cd` 命令添加目录路径建议；新增 `/doctor` 检查以建议修剪 CLAUDE.md 文件中模型可从代码库推导的内容；`/commit-push-pr` 现在自动允许 git push 到仓库配置的推送远程仓库；`/login` 支持 Anthropic 运营的公共网关端点；后台智能体在更新后自动升级。修复了过期登录导致所有模型报错、`claude --resume` 和 `--continue` 在启动时无键盘响应、MCP 服务器忽略 `request_timeout_ms` 配置、OAuth MCP 服务器需手动重新认证、`/model` 选择器价格显示错误、桌面会话卡在\"运行中\"状态、Windows 上键盘输入被忽略等多项问题。",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.206",
+    "published": "2026-07-10T01:45:26.000Z",
+    "source": "Claude Code：GitHub Releases（RSS）",
     "source_weight": "high",
     "category": "ai-products"
+  },
+  {
+    "title": "Google Research 推出 SensorFM：面向可穿戴健康数据的通用基础模型",
+    "summary": "Google Research 发布 SensorFM，一个在超过 100 万亿分钟多模态传感器数据上预训练的大规模基础模型，数据来自 500 万同意参与者，涵盖 100 多个国家及 20 余款 Fitbit 和 Pixel Watch 设备。SensorFM 学习通用的人体生理表征，可迁移至心血管、代谢、睡眠、心理健康及生活方式等 35 项健康预测任务，支持标签高效适配与数据填充，并可作为个人健康智能体的基础工具。该模型旨在解决传统可穿戴健康模型针对单一终点、难以泛化的问题。",
+    "url": "https://research.google/blog/sensorfm-towards-a-general-intelligence-and-interface-for-wearable-health-data",
+    "published": "2026-07-10T00:20:20.110Z",
+    "source": "Google Research：Blog（网页）",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "Bun 被 Anthropic 收购后用 Rust 重写，月下载超 2200 万",
+    "summary": "Bun 于 2025 年 12 月被 Anthropic 收购，作者使用预发布版 Claude Fable 5 进行了大量 Rust 重写。Bun 最初用 Zig 在一年内构建，如今 CLI 月下载超 2200 万，被 Claude Code 等采用。广泛功能带来稳定性挑战，v1.3.14 修复了多项 use-after-free、内存泄漏等 bug。团队通过 ASAN、Fuzzilli 模糊测试等系统性预防，并借助 Rust 的内存安全特性减少此类缺陷。",
+    "url": "https://bun.com/blog/bun-in-rust",
+    "published": "2026-07-09T21:46:21.422Z",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "Cognition 推出 SWE-1.7，接近 GPT 5.5 与 Opus 智能水平",
+    "summary": "Cognition 发布迄今最强模型 SWE-1.7，基于 Kimi K2.7 基座训练，通过强化学习管线改进（基础设施、训练稳定性、数据质量、长程任务技术）实现前沿智能水平并大幅降低成本。在 FrontierCode 1.1 Main 基准上达 42.3%（Kimi K2.7 Code 为 30.1%，GPT-5.5 为 43.0%，Opus 4.8 为 46.5%），Terminal-Bench 2.1 达 81.5%，SWE-Bench Multilingual 达 77.8%。模型针对长周期异步任务优化，现已在 Devin（Web、桌面、CLI）通过 Cerebras 以 1000 TPS 提供。",
+    "url": "https://cognition.com/blog/swe-1-7",
+    "published": "2026-07-09T21:46:17.901Z",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "ChatGPT Sites将创意变可发布网站",
+    "summary": "将一个想法变成可发布和分享的实时网站\n\n以下是OpenAI团队的一些成员用Sites构建的示例👇\n\n@prd_008 用Sites将一个想法变成了个人专注应用：",
+    "url": "https://x.com/OpenAIDevs/status/2075331020090687666",
+    "published": "2026-07-09T21:27:27.000Z",
+    "source": "X：OpenAI Developers (@OpenAIDevs)",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "Google 推出 LiteRT.js：高性能 Web AI 推理运行时",
+    "summary": "Google 发布 LiteRT.js，这是 LiteRT 跨平台边缘 AI 运行时的最新成员，专为 JavaScript 开发者设计，可直接在浏览器中运行机器学习模型。LiteRT.js 基于 WebGPU 和即将推出的 WebNN 实现 SOTA 推理性能，同时支持回退到 WebAssembly CPU 方案。",
+    "url": "https://developers.googleblog.com/litertjs-googles-high-performance-web-ai-inference",
+    "published": "2026-07-09T21:21:08.292Z",
+    "source": "Google Developers Blog（RSS）",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "Anthropic发起\"硬问题\"倡议，邀请公众提出AI相关尖锐问题",
+    "summary": "Anthropic作为公益公司，发起\"硬问题\"倡议，邀请公众就AI对就业、社会、家庭、科学医学等领域的影响提出最尖锐的问题。此前已通过多种方式收集看法：首轮调查询问5.2万美国人；通过Anthropic Interviewer调查了159个国家70种语言的8.1万Claude用户；开展数十场线下焦点小组；并基于匿名真实数据研究Claude使用情况。公司还设立了Anthropic Institute和Long-Term Benefit Trust以监督公益使命进展。Anthropic承诺将公开追踪并报告针对这些问题的具体行动及成效。",
+    "url": "https://www.anthropic.com/news/hard-questions",
+    "published": "2026-07-09T17:40:42.612Z",
+    "source": "Anthropic：Newsroom（网页）",
+    "source_weight": "high",
+    "category": "industry"
+  },
+  {
+    "title": "美团 LongCat-2.0 正式开源，同步开放国产卡推理代码",
+    "summary": "美团万亿参数大模型 LongCat-2.0 正式开源，总参数 1.6T，平均激活约 48B，专为真实 Agentic Coding 任务设计。模型引入 LongCat 稀疏注意力机制与 N-gram Embedding，提升长上下文处理效率与 Token 级表示能力。LongCat-2.0 是业界首个在五万卡国产算力集群上完成推理的万亿参数模型，从模型架构、芯片适配到部署策略进行深度协同优化，支持百万上下文高效推理。开源同步提供 BF16、FP8、INT8 等多精度版本及针对国产算力极致优化的推理代码。",
+    "url": "https://mp.weixin.qq.com/s/iCq4jVlTdKOt74zAMYIIdw",
+    "published": "2026-07-09T11:58:00.000Z",
+    "source": "公众号：龙猫LongCat（美团）",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "Native SDK",
+    "summary": "<p>\n            Toolkit for building native desktop apps\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/vercel?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1192316?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/vercel",
+    "published": "2026-07-09T11:17:11-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Muse Spark 1.1 by Meta AI",
+    "summary": "<p>\n            Multimodal reasoning model built for agentic tasks\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/muse-spark-1-1-by-meta?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1192175?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/muse-spark-1-1-by-meta",
+    "published": "2026-07-09T08:01:28-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
   },
   {
     "title": "蚂蚁灵波开源全球首个面向具身智能的MoE视频基模LingBot-Video",
@@ -108,78 +144,6 @@
     "category": "industry"
   },
   {
-    "title": "加拿大不列颠哥伦比亚省拟起诉OpenAI：未上报ChatGPT暴力对话致校园枪击惨案",
-    "summary": "加拿大不列颠哥伦比亚省7月7日宣布将起诉OpenAI，指控其未向执法部门上报一名ChatGPT用户2025年6月封禁前的暴力相关对话内容。该用户随后于今年2月在塔布勒岭制造校园枪击案，杀害8人。OpenAI CEO萨姆·奥尔特曼今年4月为此公开致歉，承认本应上报但未执行。受害家属已在加州法院提起诉讼，省政府正协调独立诉讼，要求赔偿用于社区重建。",
-    "url": "https://www.ithome.com/0/974/169.htm",
-    "published": "2026-07-08T09:55:17.000Z",
-    "source": "IT之家（RSS）",
-    "source_weight": "high",
-    "category": "industry"
-  },
-  {
-    "title": "GitLost：Noma Labs 发现 GitHub AI 代理提示词注入漏洞",
-    "summary": "Noma Labs 在 GitHub Agentic Workflows 中发现严重提示词注入漏洞 GitLost。未认证攻击者仅需在属于同一组织的公共仓库中创建一个嵌有恶意指令的 Issue，即可诱使基于 Claude 或 GitHub Copilot 的 AI 代理读取并公开该组织内私有仓库的内容。攻击无需编码技能或凭证，根源在于代理将用户可控内容视为可信指令，且 GitHub 的防护措施因 \"Additionally\" 关键词被绕过。Noma Labs 已公开 PoC 并建议限制跨仓库权限、隔离用户输入。",
-    "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
-    "published": "2026-07-08T08:29:47.091Z",
-    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-    "source_weight": "high",
-    "category": "industry"
-  },
-  {
-    "title": "工信部发布Claude Code后门安全风险提示",
-    "summary": "中国工信部发布风险提示，指出 Claude Code 2.1.91 至 2.1.196 版本内置监控机制，未经用户同意即向远程服务器回传用户地域、身份标识等敏感信息。建议相关单位立即全面排查，对受影响版本卸载或升级至已清除后门代码的最新安全版本，并加强开发工具外联权限管控与流量监测，防止敏感数据违规外传。",
-    "url": "https://x.com/xiaohu/status/2074736623284256881",
-    "published": "2026-07-08T06:05:32.000Z",
-    "source": "X：小互 (@xiaohu)",
-    "source_weight": "high",
-    "category": "industry"
-  },
-  {
-    "title": "蚂蚁集团旗下Robbyant开源LingBot-Vision：1B参数边界中心视觉基础模型，用于密集空间感知",
-    "summary": "蚂蚁集团旗下具身智能公司Robbyant开源LingBot-Vision，一套自监督视觉Transformer家族，专为密集空间感知设计。旗舰ViT-g/16参数约1.1B，采用掩膜边界建模训练，将边界作为原生预训练信号。在密集空间任务中，该1B模型匹配或超越参数规模高达7倍的大模型（如7B DINOv3）。模型以Apache-2.0许可证在Hugging Face开源，提供ViT-g、ViT-L（300M）、ViT-B（86M）、ViT-S四个规模。",
-    "url": "https://www.marktechpost.com/2026/07/07/ant-groups-robbyant-open-sources-lingbot-vision-a-1b-boundary-centric-vision-foundation-model-for-dense-spatial-perception",
-    "published": "2026-07-08T03:03:22.000Z",
-    "source": "MarkTechPost（RSS）",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "Claude开发者分享两种多智能体模式：Advisor和Orchestrator",
-    "summary": "Claude开发者官方分享团队高频使用的两种多智能体模式。Advisor模式：Sonnet 5作为执行者，通过tool call调用Fable 5获取指导。SWE-bench Pro（482题）上，Sonnet 5单独75.5%/$0.75，加顾问达84%/$1.40，Fable 5单独91.5%/$2.25；组合方案约92%性能、63%成本。Orchestrator模式：Fable 5作为编排者规划并向多个Sonnet 5 worker扇出任务。BrowseComp上，全Sonnet 5 77.8%/$16.01，编排方案86.8%/$18.53，全Fable 5 90.8%/$40.56；编排方案约96%性能、46%成本。",
-    "url": "https://x.com/shao__meng/status/2074661249804366310",
-    "published": "2026-07-08T01:06:01.000Z",
-    "source": "X：邵猛 (@shao__meng)",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "蚂蚁集团周俊AICon演讲：从Token数量到Token密度，万亿参数模型效率优先",
-    "summary": "蚂蚁集团副总裁周俊在AICon演讲指出，万亿参数模型每运行15分钟算力成本约等于一辆特斯拉，效率是智能体时代最需解决的问题。团队提出从\"更多Token\"转向\"更高Token密度\"策略，采用7份Lightning Attention加1份MLA的混合线性注意力架构，使256K长上下文成本从指数级降至线性级，算力更多用于思考。通过Kpop算法区分工具调用与自然语言Token，结合思维链剪枝、自蒸馏等，Token输出减少约4倍而能力不降。在LongBench、BFCL等基准上提升显著，千亿参数模型在Agent任务中超越部分更大模型；小模型flash吞吐达2.4倍，五轮对话成本下降10倍以上。",
-    "url": "https://mp.weixin.qq.com/s/dsIfi4C-T5Q4emmIh-7yzg",
-    "published": "2026-07-08T01:00:00.000Z",
-    "source": "公众号：蚂蚁百灵（Ling）",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "《人生设计课》Prompt实测：用Claude设计人生的四个阶段",
-    "summary": "作者将斯坦福《人生设计课》理论体系制成Prompt，通过Claude逐步提问、追问和分析。Prompt融合设计思维、心流理论和积极心理学，分为看清现状、找到指南针、寻路、制定奥德赛计划四阶段，主线问题控制在6到9个。AI引导用户给健康、工作、娱乐、爱打分，区分重力问题与可设计的真问题，生成三个五年人生版本，最终输出8000至12000字的《个人人生设计蓝图》。作者实测效果超预期。",
-    "url": "https://mp.weixin.qq.com/s/VDlBdkspV0SQNFJYLxOogQ",
-    "published": "2026-07-08T00:12:06.000Z",
-    "source": "公众号：数字生命卡兹克",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "AI预检检查：智能体工作记忆架构",
-    "summary": "一种为AI智能体设计的预检工作记忆架构：查询到来时，系统从磁盘上约90个索引化的技能库中检索最相关技能，仅加载到上下文窗口。本地开源模型Ornith 35B（350亿参数，通过Ollama在Apple Silicon上运行）执行任务，约80%常规任务由本地模型完成，困难任务路由至前沿模型。看门狗记录每次预检决策和技能调用，夜间通过异步推理处理全天轨迹，自动决定哪些技能需新增或固化（如日历排期转为确定性Rust代码），实现自我改进循环。昨天，看门狗首次未提出任何改进建议，系统或接近性能平台期。",
-    "url": "https://www.tomtunguz.com/the-ai-preflight-check",
-    "published": "2026-07-08T00:00:00.000Z",
-    "source": "Tomer Tunguz 博客（VC 分析）",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
     "title": "The revolution was the easy part",
     "summary": "<h4>The announcement is one loud night. The evolution, the slow build starts the morning after, is the whole job.</h4><figure><img alt=\"The fireworks celebrate the launch, but the hard work of evolution comes later.\" src=\"https://cdn-images-1.medium.com/max/1024/1*O7oIWt9VnRVTvUV5aztH8g.jpeg\" /></figure><p>I recently asked Spotify for a Fourth of July playlist. Specifically, a rock one.</p><p>It came back with big drums and big choruses: “Born in the USA,” “Fortunate Son,” “For What It’s Worth,”",
     "url": "https://uxdesign.cc/the-revolution-was-the-easy-part-c753340e3e22?source=rss----138adf9c44c---4",
@@ -221,6 +185,42 @@
     "url": "https://smashingmagazine.com/2026/07/kirki-wordpress-visual-builder-infinite-canvas/",
     "published": "Tue, 07 Jul 2026 10:00:00 GMT",
     "source": "Smashing Magazine",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "DesignOps in the age of AI: when governance becomes orchestration",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/designops-in-the-age-of-ai-when-governance-becomes-orchestration-7b946ceea70f?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1500/1*dgJQWU6y8TofAMQ7c__eRw.png\" width=\"1500\" /></a></p><p class=\"medium-feed-snippet\">DesignOps is shifting from governing human-led process to orchestrating human and AI technology towards ethical, meaningful outcomes.</p><p class=\"medium-feed-link\"><a ",
+    "url": "https://uxdesign.cc/designops-in-the-age-of-ai-when-governance-becomes-orchestration-7b946ceea70f?source=rss----138adf9c44c---4",
+    "published": "Thu, 09 Jul 2026 16:23:55 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Designing For Distressed Users: Why Mental Health Apps Shouldn’t Follow Every UI Fashion",
+    "summary": "Many UI trends are designed to capture attention and signal innovation, but those goals often conflict with the needs of mental health apps: reducing cognitive strain, fostering trust, and providing a sense of refuge. Kat Homan introduces an evaluation framework that helps designers assess whether trendy visual and interaction patterns support or undermine the unique goals of mental health experiences.",
+    "url": "https://smashingmagazine.com/2026/07/designing-distressed-users-mental-health-apps-ui/",
+    "published": "Thu, 09 Jul 2026 15:00:00 GMT",
+    "source": "Smashing Magazine",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "What the Lean Startup still teaches us about generative AI",
+    "summary": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*lHvW87-6XQuoJ0VfOuQTKA.png\" /></figure><h4>Fifteen Years After Eric Ries Named the Apporach, Most Generative AI Programs Are Repeating the Exact Mistakes the Book Was Written to Prevent. Here’s How To Shift.</h4><p>Enterprises have poured billions into generative AI, and most of it has produced nothing you can measure. A 2025 study from MIT’s NANDA initiative found that <a href=\"https://fortune.com/2025/08/18/mit-report-95-perce",
+    "url": "https://uxdesign.cc/what-the-lean-startup-still-teaches-us-about-generative-ai-2d1505fe1db1?source=rss----138adf9c44c---4",
+    "published": "Mon, 06 Jul 2026 22:11:57 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Designing excuses",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/designing-excuses-fd3326ad375d?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*kqxVDqBpgUyc76A2N38yjw.png\" width=\"3321\" /></a></p><p class=\"medium-feed-snippet\">Perhaps it is the market that draws the norm into the open</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/designing-excuses-fd3326ad375d?source=rss----138adf9c44c---4\">Continue reading on UX Collective ",
+    "url": "https://uxdesign.cc/designing-excuses-fd3326ad375d?source=rss----138adf9c44c---4",
+    "published": "Fri, 10 Jul 2026 07:28:15 GMT",
+    "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
   }
