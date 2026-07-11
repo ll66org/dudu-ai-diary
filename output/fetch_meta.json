@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-10T13:29:24.301990Z",
+  "fetched_at": "2026-07-11T12:32:12.152461Z",
   "total_candidates": 25,
   "source_stats": {
     "Figma Blog": {
@@ -8,7 +8,7 @@
     },
     "Vercel Blog (v0)": {
       "found": 0,
-      "total": 1328
+      "total": 1330
     },
     "Cursor Changelog": {
       "found": 0,
@@ -31,7 +31,7 @@
       "total": 66
     },
     "Smashing Magazine": {
-      "found": 2,
+      "found": 3,
       "total": 40
     },
     "UX Collective": {
@@ -44,18 +44,18 @@
     },
     "CSS-Tricks": {
       "found": 0,
-      "total": 15
+      "total": 0
     },
     "A List Apart": {
       "found": 0,
       "total": 20
     },
     "Hacker News (设计向)": {
-      "found": 0,
-      "total": 0
+      "found": 3,
+      "total": 20
     },
     "Product Hunt": {
-      "found": 2,
+      "found": 0,
       "total": 50
     },
     "Designer News (AI Design)": {
@@ -64,27 +64,27 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 78,
-  "today_date": "2026-07-10",
+  "dudu_day": 79,
+  "today_date": "2026-07-11",
   "used_titles": [
-    "Fable 5 在 RLI 基准中达成 16.1% 自动化率，较八个月前提升六倍",
     "NVIDIA 联合多所大学提出 ASPIRE：自我改进机器人框架，零样本成功率最高提升 77 分",
     "NVIDIA 联合多所大学提出 ASPIRE：自我改进机器人框架，零样本成功率最高提升 77 分",
     "Synthetic Sciences 发布 OpenScience：面向机器学习、生物学、物理学和化学研究的开源模型无关 AI 工作台",
     "在网络不稳定的地区，小型AI模型正逐渐普及",
     "在校研究生Kunkun开源管理相互调用Skill的方法",
-    "Claude 推出反思功能（Beta）"
+    "Claude 推出反思功能（Beta）",
+    "Elon Musk 转发用户称赞 Grok Build 的反馈"
   ],
   "used_tools": [
-    "The Decoder：AI News（RSS）",
     "MarkTechPost（RSS）",
     "MarkTechPost（RSS）",
     "MarkTechPost（RSS）",
     "Hacker News 热门（buzzing.cc 中文翻译）",
     "X：Berry Xia (@berryxia)",
-    "Anthropic：Newsroom（网页）"
+    "Anthropic：Newsroom（网页）",
+    "X：Elon Musk (@elonmusk, xAI)"
   ],
-  "briefing_total": 65,
-  "briefing_design": 36,
+  "briefing_total": 49,
+  "briefing_design": 22,
   "briefing_count": 5
 }

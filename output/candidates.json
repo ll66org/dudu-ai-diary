@@ -1,12 +1,75 @@
 [
   {
-    "title": "Elon Musk 转发用户称赞 Grok Build 的反馈",
-    "summary": "Elon Musk 转发用户 @0x0funky 对 Grok Build 的称赞。该用户称 Grok Build 是目前唯一集大成的 coding agentic workflow，内建图像生成和图片生视频功能，生图速度快且品质不输 Codex。Agent 可直接完成图像与视频生成，无需额外串接 MCP 或外部服务。用户结合 Agent Sprite Forge 工具，利用 Grok Build 的视频生成能力，先产出 6 秒角色动作视频再反编译为 game sprite，大幅减少对齐问题，制作 2D 横版游戏耗时不到 30 分钟，而此前用 Codex 需 1-2 小时且品质更优。",
-    "url": "https://x.com/elonmusk/status/2075478792273842370",
-    "published": "2026-07-10T07:14:39.000Z",
-    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "title": "As better chatbots get harder to build, AI turns to simulated worlds",
+    "summary": "<p>Article URL: <a href=\"https://www.science.org/content/article/better-chatbots-get-harder-build-ai-turns-simulated-worlds\">https://www.science.org/content/article/better-chatbots-get-harder-build-ai-turns-simulated-worlds</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48870908\">https://news.ycombinator.com/item?id=48870908</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "url": "https://www.science.org/content/article/better-chatbots-get-harder-build-ai-turns-simulated-worlds",
+    "published": "Sat, 11 Jul 2026 11:04:00 +0000",
+    "source": "Hacker News (设计向)",
     "source_weight": "high",
-    "category": "tip"
+    "category": "ai_tech"
+  },
+  {
+    "title": "Show HN: Colyap – AI friend you can call and text",
+    "summary": "<p>call it, text it. connect your apps. go crazy. it's got long running tasks. it remembers everything about you. journal your life. it tries to understand what you want. no registration needed. BYOK. it gets better with time. go yap!<p>handled 20,000+ minutes of conversations and 10,000+ texts a day. built to scale with you.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48870794\">https://news.ycombinator.com/item?id=48870794</a></p>\n<p>Points: 3</p>\n<p># Comments: 1<",
+    "url": "https://www.colyap.com/",
+    "published": "Sat, 11 Jul 2026 10:49:51 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "From Architecture to 3D Editor: My Shift from Design to Programming",
+    "summary": "<p>Article URL: <a href=\"https://alexsyniakov.com/2026/07/11/programs-not-objects-how-i-stopped-designing-architecture-and-started-writing-a-3d-editor/\">https://alexsyniakov.com/2026/07/11/programs-not-objects-how-i-stopped-designing-architecture-and-started-writing-a-3d-editor/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48869519\">https://news.ycombinator.com/item?id=48869519</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "url": "https://alexsyniakov.com/2026/07/11/programs-not-objects-how-i-stopped-designing-architecture-and-started-writing-a-3d-editor/",
+    "published": "Sat, 11 Jul 2026 07:04:44 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型",
+    "summary": "蚂蚁集团旗下具身智能团队 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型。该模型采用因果 DiT 架构，视频专家约 13.0B 参数（约 1.9B 激活），训练规模约 15.3B 参数，推理时每 token 约 2.5B 激活。模型引入多块预测（MCP）实现 2.3 倍训练加速，并通过前瞻推理将推理延迟降至 142 ms/chunk。在 RoboTwin 2.0 的 50 个任务上，干净与随机演示数据平均成功率分别达 93.8% 和 93.4%。",
+    "url": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0",
+    "published": "2026-07-11T07:56:11.000Z",
+    "source": "MarkTechPost（RSS）",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "博科圣地如何利用前沿AI技术",
+    "summary": "2025至2026年间对尼日利亚东北部27名前\"博科圣地\"成员的半结构化访谈揭示了该组织在2024年系统性地利用前沿AI技术。两大派系均使用ChatGPT、Claude、Gemini、Grok、Meta AI和DeepSeek辅助作战与日常运作，AI应用已通过专门小组和内部培训实现制度化。成员成功绕过部分安全限制，将AI用于袭击策划、武器故障排查及爆炸装置设计。相关技术通过跨国圣战网络传播，伊斯兰国特工提供了面对面培训。受访者对AI表现出强烈热情，部分人对大规模杀伤性武器持开放态度，但记录在案的使用仍限于常规手段。",
+    "url": "https://casp.ac/reports/ai-enabled-terrorism",
+    "published": "2026-07-10T22:07:19.177Z",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "source_weight": "high",
+    "category": "paper"
+  },
+  {
+    "title": "Claude Code桌面版新增应用内浏览器",
+    "summary": "Claude Code 桌面版现在有了应用内浏览器。\n\nClaude 可以调出文档、设计稿或任何其他网站。它可以像操作本地开发服务器一样，进行阅读、点击浏览和交互。\n\n该浏览器采用沙盒机制且可配置：你可以自行选择会话是否持久保留。",
+    "url": "https://x.com/ClaudeDevs/status/2075635283211772279",
+    "published": "2026-07-10T17:36:29.000Z",
+    "source": "X：Claude Devs (@ClaudeDevs)",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "DeepSeek-V4 Flash 强化学习训练登陆 AMD Instinct MI355X GPU，由 Miles 框架支持",
+    "summary": "DeepSeek-V4 Flash 的强化学习训练现已在 AMD Instinct MI355X GPU 上通过 Miles 框架获得支持，基于 ROCm 软件栈运行。该 2840 亿参数 MoE 模型（每 token 激活 130 亿参数）需 SGLang 进行 rollout 生成、Megatron 进行策略更新，Miles 负责异步循环与权重同步。团队解决了 SGLang 与 Megatron 间模型对齐、量化状态在线更新及多节点并行稳定性三大挑战，最终在四个八 GPU 节点上完成端到端验证：超过 100 个优化器步骤中训练-rollout 对数概率差可控，在线奖励持续提升，离线 AIME-2024 基准分数同步上涨。",
+    "url": "https://www.lmsys.org/blog/2026-07-10-rocm-miles-dsv4",
+    "published": "2026-07-10T17:19:11.037Z",
+    "source": "LMSYS：Blog（Chatbot Arena 团队）",
+    "source_weight": "high",
+    "category": "paper"
+  },
+  {
+    "title": "Perplexity 推出跨模型信用额度分析功能",
+    "summary": "推出 Computer Analytics：你现在可以跨模型跟踪信用额度支出。\n\n该功能现已面向个人和企业用户开放，可在账户设置的 Analytics 下使用。",
+    "url": "https://x.com/perplexity_ai/status/2075599540640714863",
+    "published": "2026-07-10T15:14:27.000Z",
+    "source": "X：Perplexity (@perplexity_ai)",
+    "source_weight": "high",
+    "category": "ai-products"
   },
   {
     "title": "Claude Code v2.1.206 发布",
@@ -18,13 +81,13 @@
     "category": "ai-products"
   },
   {
-    "title": "Google Research 推出 SensorFM：面向可穿戴健康数据的通用基础模型",
-    "summary": "Google Research 发布 SensorFM，一个在超过 100 万亿分钟多模态传感器数据上预训练的大规模基础模型，数据来自 500 万同意参与者，涵盖 100 多个国家及 20 余款 Fitbit 和 Pixel Watch 设备。SensorFM 学习通用的人体生理表征，可迁移至心血管、代谢、睡眠、心理健康及生活方式等 35 项健康预测任务，支持标签高效适配与数据填充，并可作为个人健康智能体的基础工具。该模型旨在解决传统可穿戴健康模型针对单一终点、难以泛化的问题。",
-    "url": "https://research.google/blog/sensorfm-towards-a-general-intelligence-and-interface-for-wearable-health-data",
-    "published": "2026-07-10T00:20:20.110Z",
-    "source": "Google Research：Blog（网页）",
+    "title": "Thinking Machines Lab：构建延伸人类意志与判断的 AI",
+    "summary": "Thinking Machines Lab 在官方博客中阐述其使命：构建能够延伸人类意志与判断的 AI。文章指出，当前多数 AI 在少数地方训练后便冻结，无法被使用者塑造。该实验室正致力于训练具备多模态交互和可定制化能力的强模型，开发允许用户训练模型权重的工具，并构建拓宽人机沟通渠道的界面。其核心理念是让 AI 服务于分布式的人类知识，使每个组织都能利用自身独特知识微调模型，并持续适应知识演变。",
+    "url": "https://thinkingmachines.ai/blog/the-future-worth-building-is-human",
+    "published": "2026-07-10T00:00:00.000Z",
+    "source": "Thinking Machines Lab：官方博客（RSS）",
     "source_weight": "high",
-    "category": "ai-models"
+    "category": "tip"
   },
   {
     "title": "Bun 被 Anthropic 收购后用 Rust 重写，月下载超 2200 万",
@@ -63,15 +126,6 @@
     "category": "ai-products"
   },
   {
-    "title": "Anthropic发起\"硬问题\"倡议，邀请公众提出AI相关尖锐问题",
-    "summary": "Anthropic作为公益公司，发起\"硬问题\"倡议，邀请公众就AI对就业、社会、家庭、科学医学等领域的影响提出最尖锐的问题。此前已通过多种方式收集看法：首轮调查询问5.2万美国人；通过Anthropic Interviewer调查了159个国家70种语言的8.1万Claude用户；开展数十场线下焦点小组；并基于匿名真实数据研究Claude使用情况。公司还设立了Anthropic Institute和Long-Term Benefit Trust以监督公益使命进展。Anthropic承诺将公开追踪并报告针对这些问题的具体行动及成效。",
-    "url": "https://www.anthropic.com/news/hard-questions",
-    "published": "2026-07-09T17:40:42.612Z",
-    "source": "Anthropic：Newsroom（网页）",
-    "source_weight": "high",
-    "category": "industry"
-  },
-  {
     "title": "美团 LongCat-2.0 正式开源，同步开放国产卡推理代码",
     "summary": "美团万亿参数大模型 LongCat-2.0 正式开源，总参数 1.6T，平均激活约 48B，专为真实 Agentic Coding 任务设计。模型引入 LongCat 稀疏注意力机制与 N-gram Embedding，提升长上下文处理效率与 Token 级表示能力。LongCat-2.0 是业界首个在五万卡国产算力集群上完成推理的万亿参数模型，从模型架构、芯片适配到部署策略进行深度协同优化，支持百万上下文高效推理。开源同步提供 BF16、FP8、INT8 等多精度版本及针对国产算力极致优化的推理代码。",
     "url": "https://mp.weixin.qq.com/s/iCq4jVlTdKOt74zAMYIIdw",
@@ -81,67 +135,13 @@
     "category": "ai-models"
   },
   {
-    "title": "Native SDK",
-    "summary": "<p>\n            Toolkit for building native desktop apps\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/vercel?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1192316?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/vercel",
-    "published": "2026-07-09T11:17:11-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Muse Spark 1.1 by Meta AI",
-    "summary": "<p>\n            Multimodal reasoning model built for agentic tasks\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/muse-spark-1-1-by-meta?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1192175?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/muse-spark-1-1-by-meta",
-    "published": "2026-07-09T08:01:28-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "蚂蚁灵波开源全球首个面向具身智能的MoE视频基模LingBot-Video",
-    "summary": "蚂蚁灵波科技正式开源LingBot-Video，这是全球首个基于MoE架构、面向具身智能的视频生成基础模型。总参数30B，推理时仅激活约3B，效率较同规模Dense架构提升约3倍。模型引入7万小时VLA、VLN、Ego等机器人数据，并通过多维强化学习奖励系统对齐物理合理性与任务完成度。在RBench上总分0.620，超越Wan2.6等模型；在Physics-IQ Verified评测中排名第一。可用于机器人动作预测、仿真数据生成等方向。",
-    "url": "https://www.ithome.com/0/974/517.htm",
-    "published": "2026-07-09T07:06:00.000Z",
-    "source": "IT之家（RSS）",
+    "title": "GPT-5.6 系列模型发布：Sol、Terra、Luna",
+    "summary": "OpenAI 推出 GPT-5.6 系列，包括旗舰 Sol、平衡型 Terra 和成本最优 Luna。在 Agents' Last Exam 上，Sol 以 53.6 分超越 Claude Fable 5（自适应推理）13.1 分；中等推理时以约四分之一成本领先 11.4 分。Terra 和 Luna 以约十六分之一成本超越 Fable 5。在 Artificial Analysis Coding Agent Index 上，Sol 以 80 分创 SOTA，高于 Fable 5 的 2.8 分，使用不到一半输出 token、一半时间，成本低约三分之一。引入 Programmatic Tool Calling 减少中间数据往返，ultra 模式协调多个智能体加速复杂任务。模型配备迄今最强安全防护，经人类红队和自动化测试验证。",
+    "url": "https://openai.com/index/gpt-5-6",
+    "published": "2026-07-09T10:00:00.000Z",
+    "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
     "source_weight": "high",
     "category": "ai-models"
-  },
-  {
-    "title": "蚂蚁灵波开源实时交互世界模型 LingBot-World 2.0",
-    "summary": "蚂蚁灵波开源新一代实时交互世界模型 LingBot-World 2.0（14B 参数），支持施法、攻击、跳跃等丰富角色动作及文本驱动事件（如切换场景、召唤风暴），内置 Pilot Agent 与 Director Agent 实现世界持续演化，并支持多人同时交互。模型采用因果预训练范式和混合双向自回归注意力掩码（MoBA），可稳定输出 720p/60fps 实时画面，长达一小时测试画质不衰减。通过一致性蒸馏与 DMD 降低采样成本，结合注意力 kernel 优化、混合并行推理、动态 KV 缓存调度和异步流媒体传输实现低延迟交互。模型权重及推理代码以非商用协议开源，SGLang 已适配，并提供 Reactor PC 端和灵光 APP 在线体验。",
-    "url": "https://www.ithome.com/0/974/508.htm",
-    "published": "2026-07-09T06:53:40.000Z",
-    "source": "IT之家（RSS）",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "Robbyant 发布 LingBot-VLA 2.0：开源 6B 跨实体机器人视觉-语言-动作模型",
-    "summary": "Robbyant 推出 LingBot-VLA 2.0，一个 6B 参数的开源视觉-语言-动作（VLA）基础模型。它以 Qwen3-VL-4B-Instruct 为骨干，采用 MoE 动作专家架构，通过 55 维规范向量统一表示不同机器人的状态和动作。训练数据涵盖约 60，000 小时高质量数据（50，000 小时机器人轨迹 + 10，000 小时第一人称人类视频），覆盖 20 种机器人配置。在 GM-100 双机械臂基准测试中，模型在多个平台上超越 π0.5 和之前版本。模型权重、代码和技术报告已以 Apache-2.0 许可开源。",
-    "url": "https://www.marktechpost.com/2026/07/08/lingbot-vla-2-0",
-    "published": "2026-07-09T00:45:39.000Z",
-    "source": "MarkTechPost（RSS）",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "利润超10亿美元、ARR剑指千亿，Anthropic抢先OpenAI冲击IPO",
-    "summary": "Anthropic今年第三季度利润预计超10亿美元，已于6月1日秘密提交IPO申请，若成功将成为规模最大AI实验室IPO。其与OpenAI的年度经常性收入合计接近1000亿美元。凭借Claude Code在软件开发领域的快速普及，Anthropic在2026年实现AI模型盈利变现，成为B2B市场领跑者。SemiAnalysis报告认为其商业模式优越，若持续良好执行，市值可能触及6万亿美元。",
-    "url": "https://www.ithome.com/0/974/275.htm",
-    "published": "2026-07-08T22:30:38.000Z",
-    "source": "IT之家（RSS）",
-    "source_weight": "high",
-    "category": "industry"
-  },
-  {
-    "title": "诉讼：男子使用Grok制作7000张继女色情图像后自杀",
-    "summary": "一男子使用Grok生成7000张继女儿童性虐待材料（CSAM）后自杀。更多年轻女孩起诉X平台，指控其涉及Grok生成CSAM，并包庇儿童性犯罪者。",
-    "url": "https://arstechnica.com/tech-policy/2026/07/lawsuit-grok-user-made-7k-child-sex-images-xai-only-reported-one-gang-rape-prompt",
-    "published": "2026-07-08T19:56:37.000Z",
-    "source": "Ars Technica：AI（RSS）",
-    "source_weight": "high",
-    "category": "industry"
   },
   {
     "title": "The revolution was the easy part",
@@ -216,11 +216,11 @@
     "category": "design_communities"
   },
   {
-    "title": "Designing excuses",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/designing-excuses-fd3326ad375d?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*kqxVDqBpgUyc76A2N38yjw.png\" width=\"3321\" /></a></p><p class=\"medium-feed-snippet\">Perhaps it is the market that draws the norm into the open</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/designing-excuses-fd3326ad375d?source=rss----138adf9c44c---4\">Continue reading on UX Collective ",
-    "url": "https://uxdesign.cc/designing-excuses-fd3326ad375d?source=rss----138adf9c44c---4",
-    "published": "Fri, 10 Jul 2026 07:28:15 GMT",
-    "source": "UX Collective",
+    "title": "From Kickoff To First Concept: How To Turn Brand Strategy Into Visual Direction",
+    "summary": "The strongest visual concepts don’t start in Figma. They start with the right questions. Explore the pre-concept phase of brand identity design, where teams research brand context, uncover hidden assumptions with stakeholders, and turn shared direction into a visual foundation before a single concept is created.",
+    "url": "https://smashingmagazine.com/2026/07/how-turn-brand-strategy-into-visual-direction/",
+    "published": "Fri, 10 Jul 2026 13:00:00 GMT",
+    "source": "Smashing Magazine",
     "source_weight": "medium",
     "category": "design_communities"
   }

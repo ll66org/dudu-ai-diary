@@ -1,5 +1,5 @@
 {
-  "day_count": 78,
+  "day_count": 79,
   "history": [
     {
       "day": 20,
@@ -398,6 +398,13 @@
       "date": "2026-07-10",
       "topic": "Elon Musk 转发用户称赞 Grok Build 的反馈",
       "source": "X：Elon Musk (@elonmusk, xAI)",
+      "mode": "rss"
+    },
+    {
+      "day": 79,
+      "date": "2026-07-11",
+      "topic": "Claude Code桌面版新增应用内浏览器",
+      "source": "X：Claude Devs (@ClaudeDevs)",
       "mode": "rss"
     }
   ],
