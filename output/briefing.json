@@ -1,42 +1,42 @@
 [
   {
-    "title": "蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型",
-    "summary": "蚂蚁集团旗下具身智能团队 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型。该模型采用因果 DiT 架构，视频专家约 13.0B 参数（约 1.9B 激活），训练规模约 15.3B 参数，推理时每 token 约 2.5B 激活。模型引入多块预测（MCP）实现 2.3 倍训练加速，并通过前瞻推",
-    "source": "MarkTechPost（RSS）",
-    "url": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0",
-    "published_at": "2026-07-11T07:56:11.000Z",
-    "category": "ai-models"
+    "title": "OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论",
+    "summary": "OpenAI CEO Sam Altman 表示，他\"相当确信\"AI 迄今为止净创造了就业，并承认\"这并非我预期\"。此前他曾警告 AI 影响可能快得\"有点吓人\"。Anthropic CEO Dario Amodei 也修正了早期言论，将自动化描述为生产力倍增器而非岗位杀手。然而，多项研究未发现 AI 对整体生产力或劳动",
+    "source": "The Decoder：AI News（RSS）",
+    "url": "https://the-decoder.com/openai-ceo-altman-is-now-pretty-sure-ai-is-net-job-creating-which-is-quite-the-pivot-from-predicting-mass-layoffs",
+    "published_at": "2026-07-12T09:15:49.000Z",
+    "category": "tip"
   },
   {
-    "title": "博科圣地如何利用前沿AI技术",
-    "summary": "2025至2026年间对尼日利亚东北部27名前\"博科圣地\"成员的半结构化访谈揭示了该组织在2024年系统性地利用前沿AI技术。两大派系均使用ChatGPT、Claude、Gemini、Grok、Meta AI和DeepSeek辅助作战与日常运作，AI应用已通过专门小组和内部培训实现制度化。成员成功绕过部分安全限制，将A",
+    "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
+    "summary": "对 xAI 官方 Grok Build 编码 CLI（grok 0.2.93）的网络流量分析显示，该工具在消费者登录后会向 xAI 发送三类数据：一是它读取的文件内容（包括 .env 密钥文件）以明文形式通过 POST /v1/responses 传输，并同时打包成 session_state 存档通过 POST /v",
     "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-    "url": "https://casp.ac/reports/ai-enabled-terrorism",
-    "published_at": "2026-07-10T22:07:19.177Z",
-    "category": "paper"
+    "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+    "published_at": "2026-07-12T03:59:09.632Z",
+    "category": "tip"
   },
   {
-    "title": "Claude Code桌面版新增应用内浏览器",
-    "summary": "Claude Code 桌面版现在有了应用内浏览器。\n\nClaude 可以调出文档、设计稿或任何其他网站。它可以像操作本地开发服务器一样，进行阅读、点击浏览和交互。\n\n该浏览器采用沙盒机制且可配置：你可以自行选择会话是否持久保留。",
-    "source": "X：Claude Devs (@ClaudeDevs)",
-    "url": "https://x.com/ClaudeDevs/status/2075635283211772279",
-    "published_at": "2026-07-10T17:36:29.000Z",
-    "category": "ai-products"
+    "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法",
+    "summary": "用户 Tibo 分享了一种通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法。只需三步：安装 CLIProxyAPI、连接认证、设置环境变量别名 `claudex`。该别名配置了子智能体模型、始终启用 Effort、最大并发工具调用数等参数。引用推文作者 Theo ",
+    "source": "X：Tibo (@thsottiaux)",
+    "url": "https://x.com/thsottiaux/status/2076119366647894371",
+    "published_at": "2026-07-12T01:40:04.000Z",
+    "category": "tip"
   },
   {
-    "title": "DeepSeek-V4 Flash 强化学习训练登陆 AMD Instinct MI355X GPU，由 Miles 框架支持",
-    "summary": "DeepSeek-V4 Flash 的强化学习训练现已在 AMD Instinct MI355X GPU 上通过 Miles 框架获得支持，基于 ROCm 软件栈运行。该 2840 亿参数 MoE 模型（每 token 激活 130 亿参数）需 SGLang 进行 rollout 生成、Megatron 进行策略更新，",
-    "source": "LMSYS：Blog（Chatbot Arena 团队）",
-    "url": "https://www.lmsys.org/blog/2026-07-10-rocm-miles-dsv4",
-    "published_at": "2026-07-10T17:19:11.037Z",
-    "category": "paper"
+    "title": "研究：博科圣地已使用ChatGPT、Claude等主流AI聊天机器人用于袭击策划与武器开发",
+    "summary": "剑桥大学CASP研究员Antonia Jülich对27名前成员的57次访谈显示，博科圣地已使用ChatGPT、Claude、Gemini、Grok、Meta AI和DeepSeek等主流AI聊天机器人，用于袭击策划、制造更强爆炸装置、武器维护及行动安全。该组织两个派系均设立了专门的AI部门。ISIS自2023年起便提",
+    "source": "The Decoder：AI News（RSS）",
+    "url": "https://the-decoder.com/terrorist-groups-are-using-every-major-ai-chatbot-for-attack-planning-and-weapons-development",
+    "published_at": "2026-07-11T17:04:28.000Z",
+    "category": "industry"
   },
   {
-    "title": "Perplexity 推出跨模型信用额度分析功能",
-    "summary": "推出 Computer Analytics：你现在可以跨模型跟踪信用额度支出。\n\n该功能现已面向个人和企业用户开放，可在账户设置的 Analytics 下使用。",
-    "source": "X：Perplexity (@perplexity_ai)",
-    "url": "https://x.com/perplexity_ai/status/2075599540640714863",
-    "published_at": "2026-07-10T15:14:27.000Z",
-    "category": "ai-products"
+    "title": "Ghost Font：一种人类能读懂但AI无法识别的反AI字体",
+    "summary": "Ghost Font 是一种利用运动、视频、噪点和诱饵来隐藏文字的反AI字体。用户输入文字后可生成并下载视频片段，视频中的字母由与背景完全相同的点组成，单帧截图无法显示任何信息。该字体生成的视频被传递给Claude Fable和GPT Sol 5.6 Ultra等前沿模型时，这些模型即使具备编程能力也无法解码移动信息，",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "url": "https://www.mixfont.com/ghost-font",
+    "published_at": "2026-07-11T16:31:09.615Z",
+    "category": "tip"
   }
 ]

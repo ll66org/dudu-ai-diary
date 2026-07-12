@@ -1,5 +1,5 @@
 {
-  "day_count": 79,
+  "day_count": 80,
   "history": [
     {
       "day": 20,
@@ -405,6 +405,13 @@
       "date": "2026-07-11",
       "topic": "Claude Code桌面版新增应用内浏览器",
       "source": "X：Claude Devs (@ClaudeDevs)",
+      "mode": "rss"
+    },
+    {
+      "day": 80,
+      "date": "2026-07-12",
+      "topic": "OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论",
+      "source": "The Decoder：AI News（RSS）",
       "mode": "rss"
     }
   ],
