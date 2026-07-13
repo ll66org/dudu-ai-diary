@@ -1,5 +1,5 @@
 {
-  "day_count": 80,
+  "day_count": 81,
   "history": [
     {
       "day": 20,
@@ -412,6 +412,13 @@
       "date": "2026-07-12",
       "topic": "OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论",
       "source": "The Decoder：AI News（RSS）",
+      "mode": "rss"
+    },
+    {
+      "day": 81,
+      "date": "2026-07-13",
+      "topic": "Seedream 5.0 Pro 测评：图像编辑门槛爆降",
+      "source": "X：歸藏 (@op7418)",
       "mode": "rss"
     }
   ],

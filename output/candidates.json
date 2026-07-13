@@ -1,75 +1,102 @@
 [
   {
-    "title": "How to Write an Effective Software Design Document",
-    "summary": "<p>Article URL: <a href=\"https://refactoringenglish.com/excerpts/write-an-effective-design-doc/\">https://refactoringenglish.com/excerpts/write-an-effective-design-doc/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48880426\">https://news.ycombinator.com/item?id=48880426</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://refactoringenglish.com/excerpts/write-an-effective-design-doc/",
-    "published": "Sun, 12 Jul 2026 11:55:43 +0000",
+    "title": "How the most impactful AI startups will be built in emerging markets",
+    "summary": "<p>Article URL: <a href=\"https://blogs.worldbank.org/en/voices/small-ai--big-bets--how-the-world-s-most-impactful-ai-startups-w\">https://blogs.worldbank.org/en/voices/small-ai--big-bets--how-the-world-s-most-impactful-ai-startups-w</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48892073\">https://news.ycombinator.com/item?id=48892073</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://blogs.worldbank.org/en/voices/small-ai--big-bets--how-the-world-s-most-impactful-ai-startups-w",
+    "published": "Mon, 13 Jul 2026 13:04:33 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Stop Memorizing Design Patterns: Use This Decision Tree Instead",
-    "summary": "<p>Article URL: <a href=\"https://medium.com/womenintechnology/stop-memorizing-design-patterns-use-this-decision-tree-instead-e84f22fca9fa\">https://medium.com/womenintechnology/stop-memorizing-design-patterns-use-this-decision-tree-instead-e84f22fca9fa</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48880307\">https://news.ycombinator.com/item?id=48880307</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
-    "url": "https://medium.com/womenintechnology/stop-memorizing-design-patterns-use-this-decision-tree-instead-e84f22fca9fa",
-    "published": "Sun, 12 Jul 2026 11:36:11 +0000",
+    "title": "Show HN: Costbase – See what each of your AI apps costs, without a proxy",
+    "summary": "<p>Live demo, no signup: <a href=\"https://costbase.co/demo\" rel=\"nofollow\">https://costbase.co/demo</a><p>Hi there, over the past 1-2 years I've built and experimented with many AI apps. Some are in production, some died in the experimental stage.<p>The ones in production currently costs me ~$500 a month to run – using a variety of models from OpenAI's Whisper to Anthropic LLM.<p>Because it's important for me to track the Cost of Goods Sold of each individual app, the strategy I've used so far i",
+    "url": "https://costbase.co",
+    "published": "Mon, 13 Jul 2026 12:38:19 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Why Cursor Is the Most Practical Choice for Beginners in Agentic Coding",
-    "summary": "<p>Article URL: <a href=\"https://calcrecipe.com/en/workshop/6\">https://calcrecipe.com/en/workshop/6</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48880295\">https://news.ycombinator.com/item?id=48880295</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://calcrecipe.com/en/workshop/6",
-    "published": "Sun, 12 Jul 2026 11:34:12 +0000",
+    "title": "Building AI Agents? Here Are Some Anti-Patterns to Avoid",
+    "summary": "<p>Article URL: <a href=\"https://machinelearningmastery.com/building-ai-agents-here-are-some-anti-patterns-to-avoid/\">https://machinelearningmastery.com/building-ai-agents-here-are-some-anti-patterns-to-avoid/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48891697\">https://news.ycombinator.com/item?id=48891697</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://machinelearningmastery.com/building-ai-agents-here-are-some-anti-patterns-to-avoid/",
+    "published": "Mon, 13 Jul 2026 12:30:06 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Some features work in design meetings but fail in the real world",
-    "summary": "<p>Article URL: <a href=\"https://mattcasmith.net/2026/07/12/feature-design-testing\">https://mattcasmith.net/2026/07/12/feature-design-testing</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48880091\">https://news.ycombinator.com/item?id=48880091</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://mattcasmith.net/2026/07/12/feature-design-testing",
-    "published": "Sun, 12 Jul 2026 10:56:05 +0000",
+    "title": "TeamBrain – Git-Native Shared Memory for Claude Code, Cursor and Codex",
+    "summary": "<p>Article URL: <a href=\"https://teambrain-site.netlify.app/\">https://teambrain-site.netlify.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48891683\">https://news.ycombinator.com/item?id=48891683</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://teambrain-site.netlify.app/",
+    "published": "Mon, 13 Jul 2026 12:28:17 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Databricks News: CLI v1.0.0, AI-tools, Docker, DABs UI sync, mutators",
-    "summary": "<p>Article URL: <a href=\"https://medium.com/databrickscommunity/databricks-news-cli-v-1-0-0-ai-tools-last-updated-25th-may-767ef39abe8a\">https://medium.com/databrickscommunity/databricks-news-cli-v-1-0-0-ai-tools-last-updated-25th-may-767ef39abe8a</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48880076\">https://news.ycombinator.com/item?id=48880076</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://medium.com/databrickscommunity/databricks-news-cli-v-1-0-0-ai-tools-last-updated-25th-may-767ef39abe8a",
-    "published": "Sun, 12 Jul 2026 10:52:42 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Show HN: Sanbox, batteries included sandboxes for AI agents",
-    "summary": "<p>Hi HN,<p>We are building Sanbox, a platform for running AI agents in isolated and resumable sandboxes.<p>We use the OpenCode SDK as the harness, support reusable templates, and have a CLI that works with Codex, Claude Code, Cursor, CI, or your terminal. Each sandbox has MicroVM isolation, a persistent filesystem, and live trail of run events. Can also self-host if required for security/compliance.<p>It's on the roadmap to add network ACL, secrets managements, LLM cost tracking & observability",
-    "url": "https://sanbox.cloud",
-    "published": "Sun, 12 Jul 2026 10:16:21 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "I built an AI strength coach because I wanted my training backed by real studies",
-    "summary": "<p>Article URL: <a href=\"https://github.com/clementrx/Performance-agent/tree/main\">https://github.com/clementrx/Performance-agent/tree/main</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48879889\">https://news.ycombinator.com/item?id=48879889</a></p>\n<p>Points: 2</p>\n<p># Comments: 1</p>",
-    "url": "https://github.com/clementrx/Performance-agent/tree/main",
-    "published": "Sun, 12 Jul 2026 10:11:34 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论",
-    "summary": "OpenAI CEO Sam Altman 表示，他\"相当确信\"AI 迄今为止净创造了就业，并承认\"这并非我预期\"。此前他曾警告 AI 影响可能快得\"有点吓人\"。Anthropic CEO Dario Amodei 也修正了早期言论，将自动化描述为生产力倍增器而非岗位杀手。然而，多项研究未发现 AI 对整体生产力或劳动力市场产生显著影响。一项多校联合研究指出，程序员和文案的就业危机始于 2022 年初，早于 ChatGPT 发布。耶鲁预算实验室也未发现与 AI 相关的就业市场变化。",
-    "url": "https://the-decoder.com/openai-ceo-altman-is-now-pretty-sure-ai-is-net-job-creating-which-is-quite-the-pivot-from-predicting-mass-layoffs",
-    "published": "2026-07-12T09:15:49.000Z",
-    "source": "The Decoder：AI News（RSS）",
+    "title": "Seedream 5.0 Pro 测评：图像编辑门槛爆降",
+    "summary": "字节跳动发布 Seedream 5.0 Pro，图像质量与提示词理解追平 GPT-Image 2.0，综合能力仅次于后者。核心亮点是\"可编辑\"交互：用户可在图上打点、画框、涂鸦，提示词中直接 @ 标记，实现精准局部编辑（如换沙发、改墙面颜色），其他区域不变。实测案例涵盖家装改造（一次替换六件家具）、商品图制作（键盘爆炸拆解图、标注卖点）、海报排版（框定位置生成文字）等场景，支持色卡配色和 SKU 换色。火山引擎已全量上线 API，即梦、豆包、Lumina 可体验。",
+    "url": "https://x.com/op7418/status/2076604797202161800",
+    "published": "2026-07-13T09:48:59.000Z",
+    "source": "X：歸藏 (@op7418)",
     "source_weight": "high",
     "category": "tip"
+  },
+  {
+    "title": "黄仁勋：英伟达季度收入逼近千亿美元，Rubin Ultra 架构未延期",
+    "summary": "英伟达CEO黄仁勋在摩根士丹利路演中表示，公司季度营收即将逼近1000亿美元，且增长速度仍在加快。他否认下一代旗舰架构Rubin Ultra延期传闻，称其仍按计划于明年出货，当前机架设计调整仅为系统架构优化。一个此前主要依赖ASIC的前沿AI模型项目，如今英伟达GPU算力占比已接近50%，市场普遍指向Anthropic。英伟达预计本财年CPU业务收入约200亿美元，下一代Vera CPU将进军通用服务器市场。摩根士丹利维持英伟达\"增持\"评级，目标价288美元。",
+    "url": "https://www.ithome.com/0/975/865.htm",
+    "published": "2026-07-13T00:55:29.000Z",
+    "source": "IT之家（RSS）",
+    "source_weight": "high",
+    "category": "industry"
+  },
+  {
+    "title": "xAI 官方 Grok CLI 被曝静默上传整个代码库及用户密钥",
+    "summary": "安全研究者发现，xAI 官方 Grok CLI（npm 包 `@xai-official/grok` 0.2.93 版）会在每轮任务前后，将当前工作目录打包为 `before_codebase.tar.gz` 和 `after_codebase.tar.gz`，通过独立旁路通道静默上传至 xAI 的 Google Cloud 仓库。验证显示，即使模型仅回复一个单词，上传依然发生。上传包还包含仓库外的 `~/.claude.json`、Claude Code 设置、全局 AGENTS 规则、30 多个 Skill 文件及一个 API 密钥。7 月 13 日凌晨，xAI 通过服务端远程开关新增 `disable_codebase_upload` 字段，将默认上传行为关闭，但此前该功能默认开启。",
+    "url": "https://mp.weixin.qq.com/s/6c6vGMJAVMbh6UhNVw4dcg",
+    "published": "2026-07-13T00:05:00.000Z",
+    "source": "公众号：数字生命卡兹克",
+    "source_weight": "high",
+    "category": "industry"
+  },
+  {
+    "title": "Ploy 将 AI 智能体默认模型从 Claude Opus 4.8 切换至 GPT-5.6 Sol",
+    "summary": "Ploy 将其 AI 智能体默认模型从 Claude Opus 4.8 切换至 OpenAI 今晨发布的 GPT-5.6 Sol。在真实营销网站构建测试中，GPT-5.6 Sol 完成页面平均耗时 3 分 42 秒，较 Opus 4.8 的 8 分钟快 2.2 倍；每次构建成本从 3.06 美元降至 2.22 美元，降低 27%；输出 token 从 33.0K 降至 17.1K，视觉评分从 0.936 提升至 0.970。迁移过程发现，GPT-5.6 会为所有 25 个工具参数填充默认值，导致 52%-64% 的文件读取返回空结果；提示词指令和 OpenAI strict 模式均无法修复此行为。此外，评估框架中约三分之一的原始失败源于针对旧模型的假设，而非模型本身问题。",
+    "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+    "published": "2026-07-12T23:41:11.951Z",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "TailMux",
+    "summary": "<p>\n            Multiple Tailscale tailnets at once, no switching + no VM\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/tailmux?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1194844?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/tailmux",
+    "published": "2026-07-12T23:32:29-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "腾讯混元发布Hy3模型：295B参数MoE架构，Agent向LLM定位，已集成微信服务10亿+用户",
+    "summary": "腾讯混元团队发布Hy3模型，采用295B总参数、21B激活参数的MoE架构，推理效率可打平参数规模2-5倍的旗舰模型。Hy3定位为Agent向LLM，从preview到正式版基于50多个真实业务反馈迭代，内部WorkBuddy任务成功率从72%提升至90%，耗时降低34%，幻觉和常识错误持续下降。实测显示其在coding、办公、复杂任务规划方面表现突出，纯视觉能力为短板。Hy3已集成至微信服务10亿+用户，视频演示包括生成HTML网页、Agent网页和10页PPT，模型具备自检和主动说明不足的能力。",
+    "url": "https://x.com/AYi_AInotes/status/2076341952023310580",
+    "published": "2026-07-12T16:24:32.000Z",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "Mindwalk：在代码库 3D 地图上回放编码代理会话",
+    "summary": "Mindwalk 是一款可视化工具，可将 Claude Code 和 Codex 的会话日志在代码库的 3D 地图上回放。它将仓库绘制成夜间地图，代理搜索、读取和编辑过的文件会发光，未触及区域保持黑暗，让用户一眼看清代理对任务的理解范围。单个 Go 二进制文件即可运行，所有会话数据完全本地处理，不会离开机器。支持树状图/地形图两种视图，文件触达状态分为未访问、已查看、已读取、已编辑四种颜色标记。播放界面包含错误率、文件修改量等摩擦信号面板，以及上下文压缩、子代理启动、用户交互等时间轴标记。支持键盘快捷键控制播放速度、跳转编辑点或错误点。",
+    "url": "https://github.com/cosmtrek/mindwalk",
+    "published": "2026-07-12T13:51:05.035Z",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "source_weight": "high",
+    "category": "ai-products"
   },
   {
     "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
@@ -144,64 +171,10 @@
     "category": "industry"
   },
   {
-    "title": "博科圣地如何利用前沿AI技术",
-    "summary": "2025至2026年间对尼日利亚东北部27名前\"博科圣地\"成员的半结构化访谈揭示了该组织在2024年系统性地利用前沿AI技术。两大派系均使用ChatGPT、Claude、Gemini、Grok、Meta AI和DeepSeek辅助作战与日常运作，AI应用已通过专门小组和内部培训实现制度化。成员成功绕过部分安全限制，将AI用于袭击策划、武器故障排查及爆炸装置设计。相关技术通过跨国圣战网络传播，伊斯兰国特工提供了面对面培训。受访者对AI表现出强烈热情，部分人对大规模杀伤性武器持开放态度，但记录在案的使用仍限于常规手段。",
-    "url": "https://casp.ac/reports/ai-enabled-terrorism",
-    "published": "2026-07-10T22:07:19.177Z",
-    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-    "source_weight": "high",
-    "category": "paper"
-  },
-  {
-    "title": "Perplexity 推出跨模型信用额度分析功能",
-    "summary": "推出 Computer Analytics：你现在可以跨模型跟踪信用额度支出。\n\n该功能现已面向个人和企业用户开放，可在账户设置的 Analytics 下使用。",
-    "url": "https://x.com/perplexity_ai/status/2075599540640714863",
-    "published": "2026-07-10T15:14:27.000Z",
-    "source": "X：Perplexity (@perplexity_ai)",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Claude Code v2.1.206 发布",
-    "summary": "Claude Code v2.1.206 发布，主要更新包括：为 `/cd` 命令添加目录路径建议；新增 `/doctor` 检查以建议修剪 CLAUDE.md 文件中模型可从代码库推导的内容；`/commit-push-pr` 现在自动允许 git push 到仓库配置的推送远程仓库；`/login` 支持 Anthropic 运营的公共网关端点；后台智能体在更新后自动升级。修复了过期登录导致所有模型报错、`claude --resume` 和 `--continue` 在启动时无键盘响应、MCP 服务器忽略 `request_timeout_ms` 配置、OAuth MCP 服务器需手动重新认证、`/model` 选择器价格显示错误、桌面会话卡在\"运行中\"状态、Windows 上键盘输入被忽略等多项问题。",
-    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.206",
-    "published": "2026-07-10T01:45:26.000Z",
-    "source": "Claude Code：GitHub Releases（RSS）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Thinking Machines Lab：构建延伸人类意志与判断的 AI",
-    "summary": "Thinking Machines Lab 在官方博客中阐述其使命：构建能够延伸人类意志与判断的 AI。文章指出，当前多数 AI 在少数地方训练后便冻结，无法被使用者塑造。该实验室正致力于训练具备多模态交互和可定制化能力的强模型，开发允许用户训练模型权重的工具，并构建拓宽人机沟通渠道的界面。其核心理念是让 AI 服务于分布式的人类知识，使每个组织都能利用自身独特知识微调模型，并持续适应知识演变。",
-    "url": "https://thinkingmachines.ai/blog/the-future-worth-building-is-human",
-    "published": "2026-07-10T00:00:00.000Z",
-    "source": "Thinking Machines Lab：官方博客（RSS）",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
     "title": "The revolution was the easy part",
     "summary": "<h4>The announcement is one loud night. The evolution, the slow build starts the morning after, is the whole job.</h4><figure><img alt=\"The fireworks celebrate the launch, but the hard work of evolution comes later.\" src=\"https://cdn-images-1.medium.com/max/1024/1*O7oIWt9VnRVTvUV5aztH8g.jpeg\" /></figure><p>I recently asked Spotify for a Fourth of July playlist. Specifically, a rock one.</p><p>It came back with big drums and big choruses: “Born in the USA,” “Fortunate Son,” “For What It’s Worth,”",
     "url": "https://uxdesign.cc/the-revolution-was-the-easy-part-c753340e3e22?source=rss----138adf9c44c---4",
     "published": "Wed, 08 Jul 2026 21:52:46 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Designing in regulated industries",
-    "summary": "<h4>How to ship meaningful, human-centered design when the legal team has as much say as the user</h4><figure><img alt=\"An abstract, Da Vinci-style technical sketch of a user interface layout with golden-yellow geometric overlays, architectural lines, and design-compliance schematics on a black and white background.\" src=\"https://cdn-images-1.medium.com/max/1024/1*bjix7o50aiSsukytFtpNrg.png\" /><figcaption>When compliance is part of basic anatomy of design. Co-created with AI by the author.</figc",
-    "url": "https://uxdesign.cc/when-compliance-is-the-brief-a-creative-practitioners-survival-guide-to-designing-in-regulated-f0759cd3732c?source=rss----138adf9c44c---4",
-    "published": "Wed, 08 Jul 2026 05:15:18 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "The crisis of the what",
-    "summary": "<h4>AI took the how. Now it’s coming for the what — and judgment built through experience, intuition with scars, is what survives</h4><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*zfuWweayeuqebNzT7mbawQ.png\" /><figcaption>Image created with Google Gemini, art-directed by the author.</figcaption></figure><p>There’s a moment, working with AI, when you stop knowing exactly what you’re doing. Not because you get lost technically, but because your relationship with the tool chan",
-    "url": "https://uxdesign.cc/the-crisis-of-the-what-d29135a8be59?source=rss----138adf9c44c---4",
-    "published": "Tue, 07 Jul 2026 22:51:18 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
@@ -220,6 +193,33 @@
     "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/designops-in-the-age-of-ai-when-governance-becomes-orchestration-7b946ceea70f?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1500/1*dgJQWU6y8TofAMQ7c__eRw.png\" width=\"1500\" /></a></p><p class=\"medium-feed-snippet\">DesignOps is shifting from governing human-led process to orchestrating human and AI technology towards ethical, meaningful outcomes.</p><p class=\"medium-feed-link\"><a ",
     "url": "https://uxdesign.cc/designops-in-the-age-of-ai-when-governance-becomes-orchestration-7b946ceea70f?source=rss----138adf9c44c---4",
     "published": "Thu, 09 Jul 2026 16:23:55 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Designing For Distressed Users: Why Mental Health Apps Shouldn’t Follow Every UI Fashion",
+    "summary": "Many UI trends are designed to capture attention and signal innovation, but those goals often conflict with the needs of mental health apps: reducing cognitive strain, fostering trust, and providing a sense of refuge. Kat Homan introduces an evaluation framework that helps designers assess whether trendy visual and interaction patterns support or undermine the unique goals of mental health experiences.",
+    "url": "https://smashingmagazine.com/2026/07/designing-distressed-users-mental-health-apps-ui/",
+    "published": "Thu, 09 Jul 2026 15:00:00 GMT",
+    "source": "Smashing Magazine",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Taste cannot be delegated",
+    "summary": "<h4><strong>The death of design by committee in the age of AI</strong></h4><figure><img alt=\"Illustration of a single white chess queen standing on a chessboard while multiple larger queens float overhead, with one orange square highlighting the next move.\" src=\"https://cdn-images-1.medium.com/max/1024/1*IE9hoyTwzWtd3hUTEOI9Ow.png\" /><figcaption>As AI democratizes execution, strategic thinking becomes the true competitive advantage.</figcaption></figure><p>In my previous writing, I explored two ",
+    "url": "https://uxdesign.cc/taste-cannot-be-delegated-1706847a0b4b?source=rss----138adf9c44c---4",
+    "published": "Sun, 12 Jul 2026 21:32:06 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "The interface has left the building",
+    "summary": "<h4>How chat, voice, and agentic AI are rewriting the first principles of UX design</h4><blockquote>Note: I used AI tools to refine grammar and phrasing in this article. Every idea, argument, and example is drawn from my own work — seven years designing AI products, building agentic retail experiences at Walmart, and a US patent I hold on intent-based AI recommendation interfaces. The AI assistance was editorial, not generative.</blockquote><figure><img alt=\"A human finger pointing toward a glow",
+    "url": "https://uxdesign.cc/the-interface-has-left-the-building-8fdb558d33a9?source=rss----138adf9c44c---4",
+    "published": "Sun, 12 Jul 2026 09:30:16 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
