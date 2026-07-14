@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-13T13:41:15.522261Z",
+  "fetched_at": "2026-07-14T12:50:20.327805Z",
   "total_candidates": 25,
   "source_stats": {
     "Figma Blog": {
@@ -7,8 +7,8 @@
       "total": 0
     },
     "Vercel Blog (v0)": {
-      "found": 0,
-      "total": 1331
+      "found": 1,
+      "total": 1337
     },
     "Cursor Changelog": {
       "found": 0,
@@ -31,7 +31,7 @@
       "total": 66
     },
     "Smashing Magazine": {
-      "found": 3,
+      "found": 2,
       "total": 40
     },
     "UX Collective": {
@@ -51,7 +51,7 @@
       "total": 20
     },
     "Hacker News (设计向)": {
-      "found": 4,
+      "found": 1,
       "total": 20
     },
     "Product Hunt": {
@@ -64,27 +64,27 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 81,
-  "today_date": "2026-07-13",
+  "dudu_day": 82,
+  "today_date": "2026-07-14",
   "used_titles": [
-    "Synthetic Sciences 发布 OpenScience：面向机器学习、生物学、物理学和化学研究的开源模型无关 AI 工作台",
     "在网络不稳定的地区，小型AI模型正逐渐普及",
     "在校研究生Kunkun开源管理相互调用Skill的方法",
     "Claude 推出反思功能（Beta）",
     "Elon Musk 转发用户称赞 Grok Build 的反馈",
     "Claude Code桌面版新增应用内浏览器",
-    "OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论"
+    "OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论",
+    "Seedream 5.0 Pro 测评：图像编辑门槛爆降"
   ],
   "used_tools": [
-    "MarkTechPost（RSS）",
     "Hacker News 热门（buzzing.cc 中文翻译）",
     "X：Berry Xia (@berryxia)",
     "Anthropic：Newsroom（网页）",
     "X：Elon Musk (@elonmusk, xAI)",
     "X：Claude Devs (@ClaudeDevs)",
-    "The Decoder：AI News（RSS）"
+    "The Decoder：AI News（RSS）",
+    "X：歸藏 (@op7418)"
   ],
-  "briefing_total": 33,
-  "briefing_design": 18,
+  "briefing_total": 32,
+  "briefing_design": 17,
   "briefing_count": 5
 }

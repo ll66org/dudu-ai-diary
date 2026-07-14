@@ -1,5 +1,5 @@
 {
-  "day_count": 81,
+  "day_count": 82,
   "history": [
     {
       "day": 20,
@@ -419,6 +419,13 @@
       "date": "2026-07-13",
       "topic": "Seedream 5.0 Pro 测评：图像编辑门槛爆降",
       "source": "X：歸藏 (@op7418)",
+      "mode": "rss"
+    },
+    {
+      "day": 82,
+      "date": "2026-07-14",
+      "topic": "高德发布通用世界模型工坊 ABot-WorldStudio，已开放测试",
+      "source": "IT之家（RSS）",
       "mode": "rss"
     }
   ],
