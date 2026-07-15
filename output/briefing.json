@@ -1,42 +1,42 @@
 [
   {
-    "title": "高德发布通用世界模型工坊 ABot-WorldStudio，已开放测试",
-    "summary": "阿里巴巴旗下高德发布通用世界模型工坊 ABot-WorldStudio，并开放测试。该产品将交互式视频生成与 3DGS 场景生成统一，用户输入文字或图片即可生成可实时交互、可分享的 AI 世界。工坊内置\"时空任意门\"，穿越后可跃迁至另一完整 3D 世界。官方实测单次连续推理稳定运行超1小时，无崩溃、无质量衰减。底层模型",
-    "source": "IT之家（RSS）",
-    "url": "https://www.ithome.com/0/976/538.htm",
-    "published_at": "2026-07-14T07:46:46.000Z",
-    "category": "ai-products"
-  },
-  {
-    "title": "马斯克承认 Grok Build 上传用户代码，SpaceXAI 承诺彻底删除数据",
-    "summary": "独立安全研究者 @cereblab 通过钓鱼仓库证实，SpaceXAI 旗下 AI 编程 agent Grok Build 在用户关闭\"帮助改进模型\"开关后仍将整个代码仓库上传至 Google Cloud 存储桶。一个 12GB 测试仓库被拆成 73 个数据包共传输 5.1GB，而正常对话仅用 192KB。另一研究者复",
-    "source": "IT之家（RSS）",
-    "url": "https://www.ithome.com/0/976/453.htm",
-    "published_at": "2026-07-14T05:43:25.000Z",
-    "category": "industry"
-  },
-  {
-    "title": "商汤开源 SenseNova-Vision-7B-MoT 多任务视觉模型",
-    "summary": "商汤发布并完全开源 SenseNova-Vision-7B-MoT，一个统一处理检测、OCR、GUI、深度与法线估计、分割、多视图等主要视觉任务的模型。该模型支持通过自然语言定义新的视觉任务变体，跨传统任务边界重组视觉能力。开源内容包括模型权重及 SenseNova-Vision Corpus（含 5000 万示例子集",
-    "source": "X：商汤 SenseTime (@SenseTime_AI)",
-    "url": "https://x.com/SenseTime_AI/status/2076828658531262619",
-    "published_at": "2026-07-14T00:38:32.000Z",
+    "title": "阿里发布 Qwen-Audio-3.0-Realtime，在 Artificial Analysis 语音推理子项中综合排名第一",
+    "summary": "阿里通义实验室发布实时语音交互模型 Qwen-Audio-3.0-Realtime，在 Artificial Analysis 的 Speech Reasoning 子项中综合排名第一，超越 OpenAI GPT-Realtime-2。",
+    "source": "公众号：通义实验室（千问）",
+    "url": "https://mp.weixin.qq.com/s/hFp5rtV8-6KVRrgZoCj03A",
+    "published_at": "2026-07-15T02:30:26.000Z",
     "category": "ai-models"
   },
   {
-    "title": "视频生成创企 PixVerse 完成 4.39 亿美元 C 轮扩展融资，估值超 20 亿美元",
-    "summary": "新加坡视频生成初创公司 PixVerse 完成 C 轮扩展融资，共筹集 4.39 亿美元，估值突破 20 亿美元。公司提供 V 系列（消费者及 API）、C 系列（专业影视）及今年初发布的 R 系列世界模型（游戏开发）。用户可生成最高 4k 分辨率并自带音频的视频，消费端注册用户超 1.5 亿，月活超 1500 万，图",
-    "source": "TechCrunch：AI（RSS）",
-    "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b",
-    "published_at": "2026-07-14T00:00:00.000Z",
-    "category": "industry"
+    "title": "Airtap iMessage 新功能：发条短信让 AI 替你操作手机",
+    "summary": "Airtap 推出 iMessage 新功能，用户只需给美国号码发一条 iMessage，其云手机上的 AI Agent 就能通过视觉模拟点击，替用户完成 TikTok 刷视频、星巴克点单等操作，无需安装对应 App。其架构分为三层：大脑（理解指令）、AutoPilot（视觉操控屏幕）、云手机（24小时在线）。但支付等",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "url": "https://x.com/AYi_AInotes/status/2077217295504490992",
+    "published_at": "2026-07-15T02:22:50.000Z",
+    "category": "tip"
   },
   {
-    "title": "前沿模型实际成本：tokenizer 差异导致隐性涨价",
-    "summary": "同一份 TypeScript 文件在 GPT-5.x 上为 681 个 token，在 Claude 最新 tokenizer 下为 1，178 个，相差 1.73 倍。Anthropic 新 tokenizer 比旧版多产生约 30% 的 token，标价不变，构成隐性涨价。Claude Opus 4.6 与 Opu",
-    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-    "url": "https://playcode.io/blog/real-price-of-frontier-models",
-    "published_at": "2026-07-13T21:50:30.963Z",
+    "title": "开源 LLM TODO Skill\"阿福\"：用 Claude Code 和 Codex 实现知识管理到排期自动化",
+    "summary": "作者基于 API 版 Fable5 和 Codex 开发了开源 TODO Skill\"阿福\"，用于将收件箱中的待办资料自动转为 Markdown 任务卡，识别信息不完整项（如视频链接需通过 yt-dlp 和本地 Whisper 提取字幕），并支持批量排期、AI 分组合并、拖拽调整周视图及同步到 Mac 日历或飞书日历。",
+    "source": "公众号：卡尔的AI沃茨",
+    "url": "https://mp.weixin.qq.com/s/QcGHxKohg0gW9e84Nd_9jA",
+    "published_at": "2026-07-15T01:52:00.000Z",
     "category": "tip"
+  },
+  {
+    "title": "每天Vibe Coding 16小时，作者分享Fable 5与GPT-5.6 Sol的AI开发流程",
+    "summary": "作者每天Vibe Coding约16小时，认为Claude Fable 5在大型方案初版设计上\"当世独一档\"，GPT-5.6 Sol能有效纠错并优化方案。核心流程为：Fable 5出方案初版 → GPT-5.6 Sol审查纠错 → 在Codex中开启\"目标模式\"全自动化执行，最长曾连续运行17小时。",
+    "source": "公众号：数字生命卡兹克",
+    "url": "https://mp.weixin.qq.com/s/wm_LM83gyLM-auidBxprZw",
+    "published_at": "2026-07-15T00:02:00.000Z",
+    "category": "tip"
+  },
+  {
+    "title": "Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码",
+    "summary": "安全公司 Mindgard 于 2025 年 12 月 15 日发现 Cursor IDE 存在严重 0day 漏洞。当用户在 Windows 上打开包含恶意 `git.exe` 的仓库时，Cursor 会自动执行该文件，无需任何用户交互。漏洞源于 Cursor 在加载项目时会在包括工作区在内的多个位置搜索 Git 二",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
+    "published_at": "2026-07-14T21:27:11.693Z",
+    "category": "industry"
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "day_count": 82,
+  "day_count": 83,
   "history": [
     {
       "day": 20,
@@ -426,6 +426,13 @@
       "date": "2026-07-14",
       "topic": "高德发布通用世界模型工坊 ABot-WorldStudio，已开放测试",
       "source": "IT之家（RSS）",
+      "mode": "rss"
+    },
+    {
+      "day": 83,
+      "date": "2026-07-15",
+      "topic": "阿里发布 Qwen-Audio-3.0-Realtime，在 Artificial Analysis 语音推理子项中综合排名第一",
+      "source": "公众号：通义实验室（千问）",
       "mode": "rss"
     }
   ],
