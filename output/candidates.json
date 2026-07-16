@@ -1,66 +1,75 @@
 [
   {
-    "title": "Linus Torvalds Reaffirms That Linux Is Not \"Anti-AI\"",
-    "summary": "<p>Article URL: <a href=\"https://lore.kernel.org/linux-media/CAHk-=wi4zC+Ze8e+p3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg@mail.gmail.com/\">https://lore.kernel.org/linux-media/CAHk-=wi4zC+Ze8e+p3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg@mail.gmail.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48919931\">https://news.ycombinator.com/item?id=48919931</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
-    "url": "https://lore.kernel.org/linux-media/CAHk-=wi4zC+Ze8e+p3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg@mail.gmail.com/",
-    "published": "Wed, 15 Jul 2026 12:37:41 +0000",
-    "source": "Hacker News (设计向)",
+    "title": "Patter SDK 教程：构建餐厅预订电话智能体，支持动态变量、护栏、延迟仪表盘与评估检查",
+    "summary": "Patter SDK 发布教程，演示如何构建一个餐厅预订场景的语音智能体工作流。该流程支持动态调用变量、注册可调用工具、应用输出护栏（如PII脱敏、脏话过滤、话题范围限制），并可在无需实时电话凭证的情况下运行脚本化通话模拟。教程还涵盖延迟与成本指标追踪、回归式评估检查，以及将智能体逻辑、工具调用、安全检查和通话模拟整合为单一结构化管线。",
+    "url": "https://www.marktechpost.com/2026/07/16/patter-sdk-guide-to-building-a-restaurant-booking-phone-agent-with-dynamic-variables-guardrails-latency-dashboards-and-eval-checks",
+    "published": "2026-07-16T07:42:49.000Z",
+    "source": "MarkTechPost（RSS）",
     "source_weight": "high",
-    "category": "ai_tech"
+    "category": "tip"
   },
   {
-    "title": "Lawsuit claims Meta's layoff decisions were made by AI, not humans",
-    "summary": "<p>Article URL: <a href=\"https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/\">https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48919765\">https://news.ycombinator.com/item?id=48919765</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
-    "url": "https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/",
-    "published": "Wed, 15 Jul 2026 12:25:38 +0000",
-    "source": "Hacker News (设计向)",
+    "title": "天工短剧工作台发布\"Agent智能分镜+无限画布\"双轨创作模式",
+    "summary": "天工短剧工作台推出双轨创作模式，通过导演Agent自动解析剧本、规划站位与机位，并支持多视细节图生成，解决AI短剧角色变脸和站位漂移问题。该工具内置影视级提示词模板、720°全景图及3D导演台，实现可控生产。已有三部作品上线DramaWave 7天实现百万美元级营收。",
+    "url": "https://mp.weixin.qq.com/s/WlGAeogkF_N5122nHA0TtQ",
+    "published": "2026-07-16T02:00:00.000Z",
+    "source": "公众号：昆仑万维（天工）",
     "source_weight": "high",
-    "category": "ai_tech"
+    "category": "ai-products"
   },
   {
-    "title": "Build an AI Price Quote Phone Agent Real-Time Custom Quotes with Telnyx Voice AI",
-    "summary": "<p>Article URL: <a href=\"https://lowlatencyclub.ai/blog/posts/ai-price-quote-phone-agent-python\">https://lowlatencyclub.ai/blog/posts/ai-price-quote-phone-agent-python</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48919737\">https://news.ycombinator.com/item?id=48919737</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://lowlatencyclub.ai/blog/posts/ai-price-quote-phone-agent-python",
-    "published": "Wed, 15 Jul 2026 12:23:35 +0000",
-    "source": "Hacker News (设计向)",
+    "title": "xAI 开源 Grok CLI 代码库中发现 Mermaid 转 Unicode 框图工具",
+    "summary": "xAI 开源的 Grok CLI 编码智能体代码库中包含一个用 Rust 编写的 Mermaid 图表示例终端渲染器 `xai-grok-markdown/src/mermaid.rs`。开发者通过 Claude Code for web （Fable 5） 将其编译为 WebAssembly，实现在浏览器中运行该工具。",
+    "url": "https://simonwillison.net/2026/Jul/16/grok-mermaid",
+    "published": "2026-07-16T00:33:18.000Z",
+    "source": "Simon Willison 博客",
     "source_weight": "high",
-    "category": "ai_tech"
+    "category": "tip"
   },
   {
-    "title": "Current, former employees sue Meta re: discrimination via AI to conduct layoffs",
-    "summary": "<p>Article URL: <a href=\"https://www.cnbc.com/2026/07/14/meta-lawsuit-layoffs-ai.html\">https://www.cnbc.com/2026/07/14/meta-lawsuit-layoffs-ai.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48919581\">https://news.ycombinator.com/item?id=48919581</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
-    "url": "https://www.cnbc.com/2026/07/14/meta-lawsuit-layoffs-ai.html",
-    "published": "Wed, 15 Jul 2026 12:09:51 +0000",
-    "source": "Hacker News (设计向)",
+    "title": "远程操控Agent干活方案：Codex主力 + UU远程兜底",
+    "summary": "作者分享了一套远程使用Agent的组合方案：以Codex的远程控制功能作为主力，通过ChatGPT App连接家中24小时开机的Mac Mini，同步所有开发任务、规则和Agent记忆；遇到扫码登录、图形界面操作等Codex难以处理的场景时，用网易UU远程在手机上直接操控电脑完整桌面。UU远程完全免费，支持多设备协同，无需局域网或公网配置。",
+    "url": "https://mp.weixin.qq.com/s/x2JlkhOlGNVhL8oe7AVk9Q",
+    "published": "2026-07-16T00:12:00.000Z",
+    "source": "公众号：数字生命卡兹克",
     "source_weight": "high",
-    "category": "ai_tech"
+    "category": "tip"
   },
   {
-    "title": "Show HN: AI skills appear in 0.3% of entry-level data jobs, 3.6% of senior",
-    "summary": "<p>Article URL: <a href=\"https://www.datamatastudios.com/datasets/ai-requirements-index\">https://www.datamatastudios.com/datasets/ai-requirements-index</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48919515\">https://news.ycombinator.com/item?id=48919515</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
-    "url": "https://www.datamatastudios.com/datasets/ai-requirements-index",
-    "published": "Wed, 15 Jul 2026 12:00:46 +0000",
-    "source": "Hacker News (设计向)",
+    "title": "xAI 开源 Grok Build 编程智能体与终端界面",
+    "summary": "xAI 已将 Grok Build 的源代码在 GitHub 上开源。Grok Build 是 SpaceXAI 的编程智能体与终端用户界面（TUI），开源后用户可自行编译并完全本地运行，指向本地推理引擎并通过 `config.toml` 配置。",
+    "url": "https://x.ai/news/grok-build-open-source",
+    "published": "2026-07-15T21:07:41.894Z",
+    "source": "xAI：News（网页）",
     "source_weight": "high",
-    "category": "ai_tech"
+    "category": "ai-products"
   },
   {
-    "title": "TermCanvas – a tmux-backed canvas for steering AI agents (macOS)",
-    "summary": "<p>Article URL: <a href=\"https://github.com/lout33/termcanvas\">https://github.com/lout33/termcanvas</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48919412\">https://news.ycombinator.com/item?id=48919412</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
-    "url": "https://github.com/lout33/termcanvas",
-    "published": "Wed, 15 Jul 2026 11:50:18 +0000",
-    "source": "Hacker News (设计向)",
+    "title": "Claude Code 新增 MCP 连接器调用功能",
+    "summary": "Claude Code 的 artifacts 现在可以调用 MCP 连接器，让你构建能够按需为每位查看者获取信息并执行操作的仪表盘和应用。\n\n适用于 Pro、Max、Team 和 Enterprise 计划。不适用于公开共享的 artifacts。",
+    "url": "https://x.com/ClaudeDevs/status/2077489907350856038",
+    "published": "2026-07-15T20:26:06.000Z",
+    "source": "X：Claude Devs (@ClaudeDevs)",
     "source_weight": "high",
-    "category": "ai_tech"
+    "category": "ai-products"
   },
   {
-    "title": "阿里发布 Qwen-Audio-3.0-Realtime，在 Artificial Analysis 语音推理子项中综合排名第一",
-    "summary": "阿里通义实验室发布实时语音交互模型 Qwen-Audio-3.0-Realtime，在 Artificial Analysis 的 Speech Reasoning 子项中综合排名第一，超越 OpenAI GPT-Realtime-2。",
-    "url": "https://mp.weixin.qq.com/s/hFp5rtV8-6KVRrgZoCj03A",
-    "published": "2026-07-15T02:30:26.000Z",
-    "source": "公众号：通义实验室（千问）",
+    "title": "Thinking Machines 发布多模态模型 Inkling",
+    "summary": "今天，我们推出 Inkling。\n\nInkling 能高效地对文本、图像和音频模态进行推理。我们将提供完整权重。\n\nhttps://thinkingmachines.ai/news/introducing-inkling/\n\n即日起可在 Tinker 上进行微调。在 Inkling Playground 中试用。🧵",
+    "url": "https://x.com/thinkymachines/status/2077454609551921208",
+    "published": "2026-07-15T18:05:50.000Z",
+    "source": "X：Thinking Machines (@thinkymachines)",
     "source_weight": "high",
     "category": "ai-models"
+  },
+  {
+    "title": "Verse",
+    "summary": "<p>\n            Build and hire autonomous AI employees from a single prompt\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/verse-6?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1197310?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/verse-6",
+    "published": "2026-07-15T06:30:43-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
   },
   {
     "title": "Airtap iMessage 新功能：发条短信让 AI 替你操作手机",
@@ -126,67 +135,22 @@
     "category": "ai-models"
   },
   {
-    "title": "如何让 Claude 不再说\"honest takes\"和\"load-bearing seams\"",
-    "summary": "用户可通过 Claude 的 MessageDisplay Hook 机制自定义词汇替换。编写 Python 脚本，将\"seam\"替换为\"whatchamacallit\"、\"you're absolutely right\"替换为\"I'm a complete clown\"、\"honest take\"替换为\"spicy doodad\"、\"load-bearing\"替换为\"cooked\"，保存为 `~/.claude/hooks/wordswap.sh` 并赋予执行权限，再在 `~/.claude/settings.json` 的 hooks 块中配置该命令。Hook 在启动时加载，新会话即生效。",
-    "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
-    "published": "2026-07-14T16:39:15.519Z",
-    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-    "source_weight": "high",
-    "category": "tip"
+    "title": "AI systems are demanding new interaction models. Are designers ready?",
+    "summary": "<h4>The first big shift in how we use software in years is underway.</h4><figure><img alt=\"Cover illustration featuring a human and an AI agent facing one another. A robot stands opposite a man, with a waveform between them suggesting conversation. Large headline text reads: “AI systems are demanding new interaction models. Are designers ready?” The image introduces a discussion about the future of interaction models.\" src=\"https://cdn-images-1.medium.com/max/1024/1*xueXM438PdvFdB4J8p3z_A.png\" /",
+    "url": "https://uxdesign.cc/ai-systems-are-demanding-new-interaction-models-are-designers-ready-d8a95f5e55a9?source=rss----138adf9c44c---4",
+    "published": "Wed, 15 Jul 2026 19:48:50 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
   },
   {
-    "title": "Anthropic 推出 Claude for Teachers",
-    "summary": "Anthropic 发布 Claude for Teachers，为美国认证的 K-12 教师免费提供高级 Claude 功能、教学技能库及对接全美 50 州学术标准的课程资源。该工具连接 Learning Commons，可调用 OpenSciEd、IM v.360 等课程资源，并集成 ASSISTments、Brisk Teaching、Canva Education 等第三方工具。教师可基于高质量教材规划课程、为不同水平学生差异化教学，还能通过 Claude Code 和 Cowork 自动分析班级数据、安排重复任务。教师数据不用于模型训练，学生信息受 FERPA 合规的 K-12 数据处理附录保护。Anthropic 同时发布与 Teach for America 及美国教师联合会共创的 AI 素养课程。",
-    "url": "https://www.anthropic.com/news/claude-for-teachers",
-    "published": "2026-07-14T15:11:11.440Z",
-    "source": "Anthropic：Newsroom（网页）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Anthropic 经济指数：加拿大 Claude 使用情况分析",
-    "summary": "基于2026年2月Claude.ai对话样本，加拿大占全球流量的2.6%，人均使用量是预期的4.4倍，在总使用量前十国家中仅次于美国。加拿大内部采用率高度集中：安大略省占43.9%对话，不列颠哥伦比亚省人均使用量达预期的1.4倍，而纽芬兰与拉布拉多省仅为0.2倍。省级人均使用量与收入无关，而与专业、科学和技术服务业的就业占比高度相关。各省使用场景稳定：工作占34-40%，课程作业占13-18%，个人用途占44-51%。翻译请求与公共管理就业份额正相关，反映加拿大联邦双语政策；文档翻译是加拿大相对于其他英语国家最独特的使用场景。加拿大整体使用偏向学术和早期职业场景。",
-    "url": "https://www.anthropic.com/research/how-canada-uses-claude",
-    "published": "2026-07-14T13:06:56.913Z",
-    "source": "Anthropic：Research（发表成果 · 网页）",
-    "source_weight": "high",
-    "category": "paper"
-  },
-  {
-    "title": "QuickQuill",
-    "summary": "<p>\n            Private, on-device meeting notes for Mac\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/quickquill-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1196386?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/quickquill-2",
-    "published": "2026-07-14T07:30:55-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "商汤开源 SenseNova-Vision-7B-MoT 多任务视觉模型",
-    "summary": "商汤发布并完全开源 SenseNova-Vision-7B-MoT，一个统一处理检测、OCR、GUI、深度与法线估计、分割、多视图等主要视觉任务的模型。该模型支持通过自然语言定义新的视觉任务变体，跨传统任务边界重组视觉能力。开源内容包括模型权重及 SenseNova-Vision Corpus（含 5000 万示例子集及复现剩余公开数据的完整工具包）。",
-    "url": "https://x.com/SenseTime_AI/status/2076828658531262619",
-    "published": "2026-07-14T00:38:32.000Z",
-    "source": "X：商汤 SenseTime (@SenseTime_AI)",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "视频生成创企 PixVerse 完成 4.39 亿美元 C 轮扩展融资，估值超 20 亿美元",
-    "summary": "新加坡视频生成初创公司 PixVerse 完成 C 轮扩展融资，共筹集 4.39 亿美元，估值突破 20 亿美元。公司提供 V 系列（消费者及 API）、C 系列（专业影视）及今年初发布的 R 系列世界模型（游戏开发）。用户可生成最高 4k 分辨率并自带音频的视频，消费端注册用户超 1.5 亿，月活超 1500 万，图生视频每分钟 4.80 美元。本轮投资者包括阿里巴巴等。公司计划今年推出新 V 系列模型及新版世界模型，并全球拓展企业客户。",
-    "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b",
-    "published": "2026-07-14T00:00:00.000Z",
-    "source": "TechCrunch：AI（RSS）",
-    "source_weight": "high",
-    "category": "industry"
-  },
-  {
-    "title": "前沿模型实际成本：tokenizer 差异导致隐性涨价",
-    "summary": "同一份 TypeScript 文件在 GPT-5.x 上为 681 个 token，在 Claude 最新 tokenizer 下为 1，178 个，相差 1.73 倍。Anthropic 新 tokenizer 比旧版多产生约 30% 的 token，标价不变，构成隐性涨价。Claude Opus 4.6 与 Opus 4.8 标价同为 $5.00 / $25.00，但新 tokenizer 使同一代码的 token 数增加约 32%。Claude Sonnet 5 的 $2.00 / $10.00 为促销价，2026 年 8 月 31 日后恢复 $3.00 / $15.00，届时相同代码成本将比 Sonnet 4.6 高出约 32%。跨厂商对比中，Claude 新 tokenizer 在代码上比 GPT 多产生 1.50x 至 1.73x 的 token，TypeScript 差距最大。",
-    "url": "https://playcode.io/blog/real-price-of-frontier-models",
-    "published": "2026-07-13T21:50:30.963Z",
-    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-    "source_weight": "high",
-    "category": "tip"
+    "title": "Designers are sharpening knives for the wrong fight",
+    "summary": "<h4><strong>AI made building free. So why is the whole conversation still about how to build?</strong></h4><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*BrKz3tGY1JQxzKt7CV9L0w.png\" /><figcaption>We have never made a more beautiful knife, but as a beautiful knife what we needed?</figcaption></figure><p>A few weeks ago I sat on a call with a company that had spent two and a half years and four design iterations building and re-building a product. About forty minutes in, one o",
+    "url": "https://uxdesign.cc/everyones-sharpening-knives-for-the-wrong-fight-56844adad459?source=rss----138adf9c44c---4",
+    "published": "Wed, 15 Jul 2026 19:47:57 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
   },
   {
     "title": "No, People Don’t Want More AI In Their Life",
@@ -220,6 +184,42 @@
     "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/what-32-design-leaders-do-when-told-to-move-faster-9c8d46c90319?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*gkRv4ROxY5MhgxY9URVs_w.jpeg\" width=\"6000\" /></a></p><p class=\"medium-feed-snippet\">The Greeks knew the answer to this problem, 2300 years ago</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/what-32-design-leaders-do-when-told-to-move-faster-9c8d46c9031",
     "url": "https://uxdesign.cc/what-32-design-leaders-do-when-told-to-move-faster-9c8d46c90319?source=rss----138adf9c44c---4",
     "published": "Tue, 14 Jul 2026 11:00:41 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Designing For Distressed Users: Why Mental Health Apps Shouldn’t Follow Every UI Fashion",
+    "summary": "Many UI trends are designed to capture attention and signal innovation, but those goals often conflict with the needs of mental health apps: reducing cognitive strain, fostering trust, and providing a sense of refuge. Kat Homan introduces an evaluation framework that helps designers assess whether trendy visual and interaction patterns support or undermine the unique goals of mental health experiences.",
+    "url": "https://smashingmagazine.com/2026/07/designing-distressed-users-mental-health-apps-ui/",
+    "published": "Thu, 09 Jul 2026 15:00:00 GMT",
+    "source": "Smashing Magazine",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Taste cannot be delegated",
+    "summary": "<h4><strong>The death of design by committee in the age of AI</strong></h4><figure><img alt=\"Illustration of a single white chess queen standing on a chessboard while multiple larger queens float overhead, with one orange square highlighting the next move.\" src=\"https://cdn-images-1.medium.com/max/1024/1*IE9hoyTwzWtd3hUTEOI9Ow.png\" /><figcaption>As AI democratizes execution, strategic thinking becomes the true competitive advantage.</figcaption></figure><p>In my previous writing, I explored two ",
+    "url": "https://uxdesign.cc/taste-cannot-be-delegated-1706847a0b4b?source=rss----138adf9c44c---4",
+    "published": "Sun, 12 Jul 2026 21:32:06 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "The terminal became my canvas",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-terminal-became-my-canvas-18af0740f650?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/947/1*DWyRC6NyUUgkB5GW1mkmyQ.png\" width=\"947\" /></a></p><p class=\"medium-feed-snippet\">And it&#x2019;s great&#x2026; but horrible at the same time</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/the-terminal-became-my-canvas-18af0740f650?source=rss----138adf9c44c---4\">Continue re",
+    "url": "https://uxdesign.cc/the-terminal-became-my-canvas-18af0740f650?source=rss----138adf9c44c---4",
+    "published": "Mon, 13 Jul 2026 22:10:10 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "AX is just the orchestration layer",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/ax-is-just-the-orchestration-layer-cacb4ed4fe45?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*oClaxaWA_8gphYwyopqP7g.png\" width=\"2752\" /></a></p><p class=\"medium-feed-snippet\">The work didn&#x2019;t vanish with the screen. It fell one layer down.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/ax-is-just-the-orchestration-layer-cacb4ed4fe45?source=rss----138ad",
+    "url": "https://uxdesign.cc/ax-is-just-the-orchestration-layer-cacb4ed4fe45?source=rss----138adf9c44c---4",
+    "published": "Mon, 13 Jul 2026 22:09:55 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"

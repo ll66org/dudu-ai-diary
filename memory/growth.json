@@ -1,5 +1,5 @@
 {
-  "day_count": 83,
+  "day_count": 84,
   "history": [
     {
       "day": 20,
@@ -433,6 +433,13 @@
       "date": "2026-07-15",
       "topic": "阿里发布 Qwen-Audio-3.0-Realtime，在 Artificial Analysis 语音推理子项中综合排名第一",
       "source": "公众号：通义实验室（千问）",
+      "mode": "rss"
+    },
+    {
+      "day": 84,
+      "date": "2026-07-16",
+      "topic": "Patter SDK 教程：构建餐厅预订电话智能体，支持动态变量、护栏、延迟仪表盘与评估检查",
+      "source": "MarkTechPost（RSS）",
       "mode": "rss"
     }
   ],

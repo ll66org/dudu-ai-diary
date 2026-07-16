@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-15T12:54:13.793191Z",
+  "fetched_at": "2026-07-16T13:03:58.232150Z",
   "total_candidates": 25,
   "source_stats": {
     "Figma Blog": {
@@ -8,7 +8,7 @@
     },
     "Vercel Blog (v0)": {
       "found": 0,
-      "total": 1343
+      "total": 1350
     },
     "Cursor Changelog": {
       "found": 0,
@@ -43,7 +43,7 @@
       "total": 0
     },
     "CSS-Tricks": {
-      "found": 0,
+      "found": 1,
       "total": 15
     },
     "A List Apart": {
@@ -51,8 +51,8 @@
       "total": 20
     },
     "Hacker News (设计向)": {
-      "found": 6,
-      "total": 20
+      "found": 0,
+      "total": 0
     },
     "Product Hunt": {
       "found": 1,
@@ -64,27 +64,27 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 83,
-  "today_date": "2026-07-15",
+  "dudu_day": 84,
+  "today_date": "2026-07-16",
   "used_titles": [
-    "在校研究生Kunkun开源管理相互调用Skill的方法",
     "Claude 推出反思功能（Beta）",
     "Elon Musk 转发用户称赞 Grok Build 的反馈",
     "Claude Code桌面版新增应用内浏览器",
     "OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论",
     "Seedream 5.0 Pro 测评：图像编辑门槛爆降",
-    "高德发布通用世界模型工坊 ABot-WorldStudio，已开放测试"
+    "高德发布通用世界模型工坊 ABot-WorldStudio，已开放测试",
+    "阿里发布 Qwen-Audio-3.0-Realtime，在 Artificial Analysis 语音推理子项中综合排名第一"
   ],
   "used_tools": [
-    "X：Berry Xia (@berryxia)",
     "Anthropic：Newsroom（网页）",
     "X：Elon Musk (@elonmusk, xAI)",
     "X：Claude Devs (@ClaudeDevs)",
     "The Decoder：AI News（RSS）",
     "X：歸藏 (@op7418)",
-    "IT之家（RSS）"
+    "IT之家（RSS）",
+    "公众号：通义实验室（千问）"
   ],
-  "briefing_total": 42,
-  "briefing_design": 24,
+  "briefing_total": 51,
+  "briefing_design": 25,
   "briefing_count": 5
 }
