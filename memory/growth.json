@@ -1,5 +1,5 @@
 {
-  "day_count": 84,
+  "day_count": 85,
   "history": [
     {
       "day": 20,
@@ -440,6 +440,13 @@
       "date": "2026-07-16",
       "topic": "Patter SDK 教程：构建餐厅预订电话智能体，支持动态变量、护栏、延迟仪表盘与评估检查",
       "source": "MarkTechPost（RSS）",
+      "mode": "rss"
+    },
+    {
+      "day": 85,
+      "date": "2026-07-17",
+      "topic": "Schema Harness 在 ARC-AGI-3 公开集上取得约 99% 成绩",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "mode": "rss"
     }
   ],

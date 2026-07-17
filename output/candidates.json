@@ -1,12 +1,120 @@
 [
   {
-    "title": "Patter SDK 教程：构建餐厅预订电话智能体，支持动态变量、护栏、延迟仪表盘与评估检查",
-    "summary": "Patter SDK 发布教程，演示如何构建一个餐厅预订场景的语音智能体工作流。该流程支持动态调用变量、注册可调用工具、应用输出护栏（如PII脱敏、脏话过滤、话题范围限制），并可在无需实时电话凭证的情况下运行脚本化通话模拟。教程还涵盖延迟与成本指标追踪、回归式评估检查，以及将智能体逻辑、工具调用、安全检查和通话模拟整合为单一结构化管线。",
-    "url": "https://www.marktechpost.com/2026/07/16/patter-sdk-guide-to-building-a-restaurant-booking-phone-agent-with-dynamic-variables-guardrails-latency-dashboards-and-eval-checks",
-    "published": "2026-07-16T07:42:49.000Z",
-    "source": "MarkTechPost（RSS）",
+    "title": "Browser automation CLI built for AI agents",
+    "summary": "<p>Article URL: <a href=\"https://github.com/browser-act/skills\">https://github.com/browser-act/skills</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48946421\">https://news.ycombinator.com/item?id=48946421</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://github.com/browser-act/skills",
+    "published": "Fri, 17 Jul 2026 12:14:02 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "How vibe coding a game made me design an AI agent protocol",
+    "summary": "<p>Article URL: <a href=\"https://blog.carlid.dev/game-vibe-coding-to-protocol-design\">https://blog.carlid.dev/game-vibe-coding-to-protocol-design</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48946304\">https://news.ycombinator.com/item?id=48946304</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://blog.carlid.dev/game-vibe-coding-to-protocol-design",
+    "published": "Fri, 17 Jul 2026 12:02:40 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "How OpenAI's Sol Learned Design Taste",
+    "summary": "<p>Article URL: <a href=\"https://notes.designarena.ai/how-openais-sol-finally-learned-design-taste/\">https://notes.designarena.ai/how-openais-sol-finally-learned-design-taste/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48945446\">https://news.ycombinator.com/item?id=48945446</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "url": "https://notes.designarena.ai/how-openais-sol-finally-learned-design-taste/",
+    "published": "Fri, 17 Jul 2026 10:12:45 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Using AI to build your own software",
+    "summary": "<p>Article URL: <a href=\"https://lemire.me/blog/2026/07/16/using-ai-to-build-your-own-software/\">https://lemire.me/blog/2026/07/16/using-ai-to-build-your-own-software/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48945403\">https://news.ycombinator.com/item?id=48945403</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://lemire.me/blog/2026/07/16/using-ai-to-build-your-own-software/",
+    "published": "Fri, 17 Jul 2026 10:03:47 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Schema Harness 在 ARC-AGI-3 公开集上取得约 99% 成绩",
+    "summary": "Schema 框架在 ARC-AGI-3 公开集上，使用 Claude Opus 4.8 和 Fable 5 达到 99% RHAE 分数，使用 GPT-5.6 Sol 达到 95.35%。该框架不修改模型权重，而是将原始观测转化为可编辑程序，联合解决状态归因和机制发现问题。此前最强模型 GPT-5.6 Sol 在半私有集上仅得 7.78%。",
+    "url": "https://schema-harness.github.io/",
+    "published": "2026-07-17T08:41:53.383Z",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "source_weight": "high",
+    "category": "paper"
+  },
+  {
+    "title": "通义实验室发布 Wan-Streamer v0.2，端到端响应延迟仅 550ms",
+    "summary": "通义实验室发布 Wan-Streamer v0.2，这是一款将\"听、看、说、演\"统一进单个 Transformer 的端到端全模态模型。其端到端响应延迟仅 550ms，输出分辨率从 v0.1 的 192×336 提升至 640×368 @ 25FPS，并采用 Thinker-Performer 双通路架构在提升画质的同时维持了极低延迟。",
+    "url": "https://mp.weixin.qq.com/s/_eaO0wmsiQFGsrE2_zW_Dg",
+    "published": "2026-07-17T07:14:00.000Z",
+    "source": "公众号：通义实验室（千问）",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "Kimi K3 登顶前端编码榜，开放权重挑战闭源双巨头",
+    "summary": "Kimi K3 在 Frontend Code Arena 以 1679 分登顶，力压 Claude Fable 5 与 GPT-5.6 Sol，7 个前端细分赛道拿下 6 个第一。该模型为 2.8 万亿参数 MoE 架构，百万上下文窗口，7 月 27 日开放权重。K3 的 API 定价为输入每百万 tokens 15 美元，对标前沿闭源模型，放弃低价路线，转向长上下文智能体编码场景的定价策略。",
+    "url": "https://x.com/AYi_AInotes/status/2077981025905316253",
+    "published": "2026-07-17T04:57:38.000Z",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "生成式人工智能是一场工程灾难：AI公司抢购70%高端内存，推高电脑价格",
+    "summary": "AI公司为维持大语言模型（如ChatGPT、Claude）运行，可能已购买全球70%的高端计算机内存，导致内存与存储价格飙升：两年前350美元的硬盘现已涨至800美元且缺货，部分笔记本电脑涨价50%。科技公司计划未来几年将美国数据中心容量扩大8倍，部分站点甚至用喷气发动机供电。预测称，平价入门级电脑可能在2028年前消失，内存短缺预计持续数年。",
+    "url": "https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901",
+    "published": "2026-07-17T00:40:20.333Z",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
     "source_weight": "high",
     "category": "tip"
+  },
+  {
+    "title": "Grok 推出 Automations 功能：定时或邮件触发，自动执行任务并汇报结果",
+    "summary": "xAI 为 Grok 引入 Automations 功能，用户可描述一次任务，让 Grok 按计划（一次/每日/工作日/每周/每月/每年）或邮件触发（按发件人、收件人或主题过滤）自动运行。每次执行都是一次完整对话，结果保存至运行历史，支持邮件或应用内通知。定时自动化对所有用户开放，邮件触发需 SuperGrok 订阅。",
+    "url": "https://x.ai/news/grok-automations",
+    "published": "2026-07-16T21:39:40.165Z",
+    "source": "xAI：News（网页）",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "xAI 起诉 Grok 用户制作儿童性虐待内容，不再否认模型被滥用",
+    "summary": "xAI 首次对一名 Grok 用户提起诉讼，指控其利用该模型制作儿童性虐待图像（CSAM）。此前 xAI 一直否认 Grok 能生成此类内容，此次诉讼标志着其立场转变。案件聚焦用户滥用行为，而非模型本身的技术缺陷。",
+    "url": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users",
+    "published": "2026-07-16T20:26:23.000Z",
+    "source": "Ars Technica：AI（RSS）",
+    "source_weight": "high",
+    "category": "industry"
+  },
+  {
+    "title": "Moonshot AI 发布 PerceptionBench：多模态模型视觉感知能力诊断基准",
+    "summary": "Moonshot AI 发布 PerceptionBench，一个从 40 多个现有基准中模型实际失败案例归纳出的视觉感知基准，包含 10 项原子感知能力和 3000 道验证题。所有测试模型准确率均未超过 60%，且大量正确答案在重复提问时无法复现，表明模型更多是猜测而非真正感知。PerceptionBench 旨在精确诊断多模态 AI 的视觉感知断裂点，推动其实现忠实、一致的视觉理解。",
+    "url": "https://www.kimi.com/blog/perception-bench",
+    "published": "2026-07-16T19:11:01.192Z",
+    "source": "Moonshot AI：Kimi Blog",
+    "source_weight": "high",
+    "category": "paper"
+  },
+  {
+    "title": "Anthropic 用 Claude Code 大规模迁移代码：Bun 百万行 Zig 转 Rust，两周完成",
+    "summary": "Anthropic 工程师用 Claude Code 在两周内将 Bun 的百万行 Zig 代码迁移至 Rust，100% 现有测试通过，合并后出现 19 个回归问题已全部修复。另一工程师用周末将 Python 代码库迁移至 16.5 万行 TypeScript。迁移消耗约 16.5 万美元 API 成本，但编译时间从八分钟降至两秒，二进制启动快 6 倍。",
+    "url": "https://claude.com/blog/ai-code-migration",
+    "published": "2026-07-16T17:32:26.540Z",
+    "source": "Claude：Blog（网页）",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "在 Claude Cowork 中使用 Claude Fable 5",
+    "summary": "Anthropic 发布最强通用模型 Claude Fable 5，专为长时间、多步骤的复杂异步工作设计，可在 Claude Cowork 中自主执行深度研究、尽职调查等任务。该模型需手动选择，默认模型为 Claude Sonnet 5。",
+    "url": "https://claude.com/blog/working-with-claude-fable-5-in-claude-cowork",
+    "published": "2026-07-16T14:32:22.664Z",
+    "source": "Claude：Blog（网页）",
+    "source_weight": "high",
+    "category": "ai-products"
   },
   {
     "title": "天工短剧工作台发布\"Agent智能分镜+无限画布\"双轨创作模式",
@@ -36,15 +144,6 @@
     "category": "tip"
   },
   {
-    "title": "xAI 开源 Grok Build 编程智能体与终端界面",
-    "summary": "xAI 已将 Grok Build 的源代码在 GitHub 上开源。Grok Build 是 SpaceXAI 的编程智能体与终端用户界面（TUI），开源后用户可自行编译并完全本地运行，指向本地推理引擎并通过 `config.toml` 配置。",
-    "url": "https://x.ai/news/grok-build-open-source",
-    "published": "2026-07-15T21:07:41.894Z",
-    "source": "xAI：News（网页）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
     "title": "Claude Code 新增 MCP 连接器调用功能",
     "summary": "Claude Code 的 artifacts 现在可以调用 MCP 连接器，让你构建能够按需为每位查看者获取信息并执行操作的仪表盘和应用。\n\n适用于 Pro、Max、Team 和 Enterprise 计划。不适用于公开共享的 artifacts。",
     "url": "https://x.com/ClaudeDevs/status/2077489907350856038",
@@ -59,78 +158,6 @@
     "url": "https://x.com/thinkymachines/status/2077454609551921208",
     "published": "2026-07-15T18:05:50.000Z",
     "source": "X：Thinking Machines (@thinkymachines)",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "Verse",
-    "summary": "<p>\n            Build and hire autonomous AI employees from a single prompt\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/verse-6?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1197310?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/verse-6",
-    "published": "2026-07-15T06:30:43-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Airtap iMessage 新功能：发条短信让 AI 替你操作手机",
-    "summary": "Airtap 推出 iMessage 新功能，用户只需给美国号码发一条 iMessage，其云手机上的 AI Agent 就能通过视觉模拟点击，替用户完成 TikTok 刷视频、星巴克点单等操作，无需安装对应 App。其架构分为三层：大脑（理解指令）、AutoPilot（视觉操控屏幕）、云手机（24小时在线）。但支付等敏感操作仍需用户手动完成，信任与授权仍是所有 Agent 厂商的难题。",
-    "url": "https://x.com/AYi_AInotes/status/2077217295504490992",
-    "published": "2026-07-15T02:22:50.000Z",
-    "source": "X：阿易 AI Notes (@AYi_AInotes)",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "开源 LLM TODO Skill\"阿福\"：用 Claude Code 和 Codex 实现知识管理到排期自动化",
-    "summary": "作者基于 API 版 Fable5 和 Codex 开发了开源 TODO Skill\"阿福\"，用于将收件箱中的待办资料自动转为 Markdown 任务卡，识别信息不完整项（如视频链接需通过 yt-dlp 和本地 Whisper 提取字幕），并支持批量排期、AI 分组合并、拖拽调整周视图及同步到 Mac 日历或飞书日历。项目已开源在 GitHub，安装仅需一条命令。",
-    "url": "https://mp.weixin.qq.com/s/QcGHxKohg0gW9e84Nd_9jA",
-    "published": "2026-07-15T01:52:00.000Z",
-    "source": "公众号：卡尔的AI沃茨",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "每天Vibe Coding 16小时，作者分享Fable 5与GPT-5.6 Sol的AI开发流程",
-    "summary": "作者每天Vibe Coding约16小时，认为Claude Fable 5在大型方案初版设计上\"当世独一档\"，GPT-5.6 Sol能有效纠错并优化方案。核心流程为：Fable 5出方案初版 → GPT-5.6 Sol审查纠错 → 在Codex中开启\"目标模式\"全自动化执行，最长曾连续运行17小时。",
-    "url": "https://mp.weixin.qq.com/s/wm_LM83gyLM-auidBxprZw",
-    "published": "2026-07-15T00:02:00.000Z",
-    "source": "公众号：数字生命卡兹克",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码",
-    "summary": "安全公司 Mindgard 于 2025 年 12 月 15 日发现 Cursor IDE 存在严重 0day 漏洞。当用户在 Windows 上打开包含恶意 `git.exe` 的仓库时，Cursor 会自动执行该文件，无需任何用户交互。漏洞源于 Cursor 在加载项目时会在包括工作区在内的多个位置搜索 Git 二进制文件。Mindgard 在 7 个月内多次报告，Cursor CISO 虽确认但因内部自动化故障导致流程中断，至今已发布 70 多个新版本仍未修复。临时缓解措施包括使用 AppLocker 阻止从工作区目录执行该文件名，或在隔离虚拟机中打开不受信任的仓库。",
-    "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-    "published": "2026-07-14T21:27:11.693Z",
-    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-    "source_weight": "high",
-    "category": "industry"
-  },
-  {
-    "title": "Bonsai 27B：首款可在手机上运行的27B级多模态模型",
-    "summary": "Bonsai 27B 基于 Qwen3.6 27B，提供三元（1.71 有效比特/权重，5.9 GB）和 1-bit（1.125 有效比特/权重，3.9 GB）两个变体，后者首次将 27B 级模型装入 iPhone 17 Pro。模型支持多步推理、结构化工具调用、视觉任务和计算机使用智能体循环，拥有 262K token 上下文窗口，支持推测解码加速。在 15 项基准测试中，三元变体保留全精度基线 95% 的性能，1-bit 变体保留 90%，数学和编码能力几乎无损。采用 Apache 2.0 许可证开源。",
-    "url": "https://prismml.com/news/bonsai-27b",
-    "published": "2026-07-14T19:51:19.560Z",
-    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "Google 因 AI 训练再遭出版商集体诉讼",
-    "summary": "包括 Hachette、Cengage、Elsevier 及作家 Scott Turow 在内的出版商与作者团体对 Google 提起集体诉讼，指控其未经授权使用受版权保护的作品训练 Gemini 模型，并故意移除或篡改版权信息以掩盖这一行为。原告称 Google 将原本仅用于 Google Books 搜索片段展示的书籍副本，以及 Google Play 商店上传的图书，非法用于 AI 训练。诉讼援引 Google 内部文件，其中指出此举可能带来\"100 亿至 1000 亿美元的潜在罚款\"。该案在纽约南区联邦地区法院提起。",
-    "url": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers",
-    "published": "2026-07-14T18:33:31.000Z",
-    "source": "TechCrunch：AI（RSS）",
-    "source_weight": "high",
-    "category": "industry"
-  },
-  {
-    "title": "Google 在 I/O Connect India 展示由 Tensor SoC 和 TPU 驱动的 Pixel 10 端侧 AI 未来",
-    "summary": "在 Google I/O Connect India 上，Google 展示了由定制 Tensor SoC 和 TPU 驱动的 Pixel 10 系列所支持的 100% 私有端侧 AI 未来。活动首次推出轻量级 Gemma 4 E2B 模型，该模型原生运行于设备端，可实现完全离线的多模态功能，包括 AI 聊天、实时图像识别和个人智能体任务。开发者即日起可通过新发布的 Tensor SDK beta 及其配套开源资源，开始构建这些安全的边缘应用。",
-    "url": "https://developers.googleblog.com/unlocking-the-next-era-of-on-device-ai-with-google-tensor-and-pixel",
-    "published": "2026-07-14T16:51:42.219Z",
-    "source": "Google Developers Blog（RSS）",
     "source_weight": "high",
     "category": "ai-models"
   },
@@ -189,37 +216,10 @@
     "category": "design_communities"
   },
   {
-    "title": "Designing For Distressed Users: Why Mental Health Apps Shouldn’t Follow Every UI Fashion",
-    "summary": "Many UI trends are designed to capture attention and signal innovation, but those goals often conflict with the needs of mental health apps: reducing cognitive strain, fostering trust, and providing a sense of refuge. Kat Homan introduces an evaluation framework that helps designers assess whether trendy visual and interaction patterns support or undermine the unique goals of mental health experiences.",
-    "url": "https://smashingmagazine.com/2026/07/designing-distressed-users-mental-health-apps-ui/",
-    "published": "Thu, 09 Jul 2026 15:00:00 GMT",
-    "source": "Smashing Magazine",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Taste cannot be delegated",
-    "summary": "<h4><strong>The death of design by committee in the age of AI</strong></h4><figure><img alt=\"Illustration of a single white chess queen standing on a chessboard while multiple larger queens float overhead, with one orange square highlighting the next move.\" src=\"https://cdn-images-1.medium.com/max/1024/1*IE9hoyTwzWtd3hUTEOI9Ow.png\" /><figcaption>As AI democratizes execution, strategic thinking becomes the true competitive advantage.</figcaption></figure><p>In my previous writing, I explored two ",
-    "url": "https://uxdesign.cc/taste-cannot-be-delegated-1706847a0b4b?source=rss----138adf9c44c---4",
-    "published": "Sun, 12 Jul 2026 21:32:06 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "The terminal became my canvas",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-terminal-became-my-canvas-18af0740f650?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/947/1*DWyRC6NyUUgkB5GW1mkmyQ.png\" width=\"947\" /></a></p><p class=\"medium-feed-snippet\">And it&#x2019;s great&#x2026; but horrible at the same time</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/the-terminal-became-my-canvas-18af0740f650?source=rss----138adf9c44c---4\">Continue re",
-    "url": "https://uxdesign.cc/the-terminal-became-my-canvas-18af0740f650?source=rss----138adf9c44c---4",
-    "published": "Mon, 13 Jul 2026 22:10:10 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "AX is just the orchestration layer",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/ax-is-just-the-orchestration-layer-cacb4ed4fe45?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*oClaxaWA_8gphYwyopqP7g.png\" width=\"2752\" /></a></p><p class=\"medium-feed-snippet\">The work didn&#x2019;t vanish with the screen. It fell one layer down.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/ax-is-just-the-orchestration-layer-cacb4ed4fe45?source=rss----138ad",
-    "url": "https://uxdesign.cc/ax-is-just-the-orchestration-layer-cacb4ed4fe45?source=rss----138adf9c44c---4",
-    "published": "Mon, 13 Jul 2026 22:09:55 GMT",
+    "title": "From vibe to specs: reclaiming the design process with SAID framework",
+    "summary": "<h4>How AI-native workflows and Git are replacing static handoffs with a continuous, spec-driven product engine</h4><figure><img alt=\"Instead of a linear conveyor belt of handoffs, the modern workflow operates as a feedback loop. Notice how the foundational strategic phases (1–5) establish the guardrails, allowing the team to split into rapid, high-velocity cycles for prototyping (Loop A) and production hardening (Loop B) without losing alignment. (image source: Yeo)\" src=\"https://cdn-images-1.m",
+    "url": "https://uxdesign.cc/from-vibe-to-specs-reclaiming-the-design-process-with-said-framework-477a5d0d8932?source=rss----138adf9c44c---4",
+    "published": "Thu, 16 Jul 2026 22:20:29 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"

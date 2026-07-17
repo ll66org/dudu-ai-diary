@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-16T13:03:58.232150Z",
+  "fetched_at": "2026-07-17T12:45:21.416923Z",
   "total_candidates": 25,
   "source_stats": {
     "Figma Blog": {
@@ -8,7 +8,7 @@
     },
     "Vercel Blog (v0)": {
       "found": 0,
-      "total": 1350
+      "total": 1353
     },
     "Cursor Changelog": {
       "found": 0,
@@ -31,7 +31,7 @@
       "total": 66
     },
     "Smashing Magazine": {
-      "found": 3,
+      "found": 2,
       "total": 40
     },
     "UX Collective": {
@@ -51,11 +51,11 @@
       "total": 20
     },
     "Hacker News (设计向)": {
-      "found": 0,
-      "total": 0
+      "found": 4,
+      "total": 20
     },
     "Product Hunt": {
-      "found": 1,
+      "found": 0,
       "total": 50
     },
     "Designer News (AI Design)": {
@@ -64,27 +64,27 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 84,
-  "today_date": "2026-07-16",
+  "dudu_day": 85,
+  "today_date": "2026-07-17",
   "used_titles": [
-    "Claude 推出反思功能（Beta）",
     "Elon Musk 转发用户称赞 Grok Build 的反馈",
     "Claude Code桌面版新增应用内浏览器",
     "OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论",
     "Seedream 5.0 Pro 测评：图像编辑门槛爆降",
     "高德发布通用世界模型工坊 ABot-WorldStudio，已开放测试",
-    "阿里发布 Qwen-Audio-3.0-Realtime，在 Artificial Analysis 语音推理子项中综合排名第一"
+    "阿里发布 Qwen-Audio-3.0-Realtime，在 Artificial Analysis 语音推理子项中综合排名第一",
+    "Patter SDK 教程：构建餐厅预订电话智能体，支持动态变量、护栏、延迟仪表盘与评估检查"
   ],
   "used_tools": [
-    "Anthropic：Newsroom（网页）",
     "X：Elon Musk (@elonmusk, xAI)",
     "X：Claude Devs (@ClaudeDevs)",
     "The Decoder：AI News（RSS）",
     "X：歸藏 (@op7418)",
     "IT之家（RSS）",
-    "公众号：通义实验室（千问）"
+    "公众号：通义实验室（千问）",
+    "MarkTechPost（RSS）"
   ],
-  "briefing_total": 51,
-  "briefing_design": 25,
+  "briefing_total": 58,
+  "briefing_design": 27,
   "briefing_count": 5
 }
