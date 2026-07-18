@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-17T12:45:21.416923Z",
+  "fetched_at": "2026-07-18T12:29:59.374929Z",
   "total_candidates": 25,
   "source_stats": {
     "Figma Blog": {
@@ -8,7 +8,7 @@
     },
     "Vercel Blog (v0)": {
       "found": 0,
-      "total": 1353
+      "total": 1358
     },
     "Cursor Changelog": {
       "found": 0,
@@ -31,7 +31,7 @@
       "total": 66
     },
     "Smashing Magazine": {
-      "found": 2,
+      "found": 1,
       "total": 40
     },
     "UX Collective": {
@@ -64,27 +64,27 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 85,
-  "today_date": "2026-07-17",
+  "dudu_day": 86,
+  "today_date": "2026-07-18",
   "used_titles": [
-    "Elon Musk 转发用户称赞 Grok Build 的反馈",
     "Claude Code桌面版新增应用内浏览器",
     "OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论",
     "Seedream 5.0 Pro 测评：图像编辑门槛爆降",
     "高德发布通用世界模型工坊 ABot-WorldStudio，已开放测试",
     "阿里发布 Qwen-Audio-3.0-Realtime，在 Artificial Analysis 语音推理子项中综合排名第一",
-    "Patter SDK 教程：构建餐厅预订电话智能体，支持动态变量、护栏、延迟仪表盘与评估检查"
+    "Patter SDK 教程：构建餐厅预订电话智能体，支持动态变量、护栏、延迟仪表盘与评估检查",
+    "Schema Harness 在 ARC-AGI-3 公开集上取得约 99% 成绩"
   ],
   "used_tools": [
-    "X：Elon Musk (@elonmusk, xAI)",
     "X：Claude Devs (@ClaudeDevs)",
     "The Decoder：AI News（RSS）",
     "X：歸藏 (@op7418)",
     "IT之家（RSS）",
     "公众号：通义实验室（千问）",
-    "MarkTechPost（RSS）"
+    "MarkTechPost（RSS）",
+    "Hacker News 热门（buzzing.cc 中文翻译）"
   ],
-  "briefing_total": 58,
-  "briefing_design": 27,
+  "briefing_total": 46,
+  "briefing_design": 17,
   "briefing_count": 5
 }

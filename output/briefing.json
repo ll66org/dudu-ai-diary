@@ -1,5 +1,21 @@
 [
   {
+    "title": "Cursor 评估负责人确认 Claude Fable 5 在 CursorBench 达 72.9% 新高",
+    "summary": "Cursor 的模型评估负责人 Nate Schmidt 发现，Claude Fable 5 在其内部基准 CursorBench 上以 Max effort 模式达到 72.9%，创下新高。该模型在模糊的真实编程任务中表现出全局推理能力，例如在航天模拟器中仅凭一句提示自主规划并成功登月，而此前 Claude Opus",
+    "source": "Claude：Blog（网页）",
+    "url": "https://claude.com/blog/working-at-the-frontier-cursor",
+    "published_at": "2026-07-17T16:32:51.023Z",
+    "category": "tip"
+  },
+  {
+    "title": "美团LongCat发布LoHoSearch：更难搜索智能体基准",
+    "summary": "美团LongCat推出LoHoSearch，一个基于762万实体维基百科知识图谱自动生成问题的搜索智能体基准，旨在解决BrowseComp等现有基准趋于饱和的问题。在11个前沿模型测试中，最佳得分仅34.74%，远低于当前模型在BrowseComp上约90%的成绩；上下文策略仅带来+6.8个百分点的提升。该基准包含54",
+    "source": "X：美团 LongCat (@Meituan_LongCat)",
+    "url": "https://x.com/Meituan_LongCat/status/2078119654632124547",
+    "published_at": "2026-07-17T14:08:29.000Z",
+    "category": "paper"
+  },
+  {
     "title": "Schema Harness 在 ARC-AGI-3 公开集上取得约 99% 成绩",
     "summary": "Schema 框架在 ARC-AGI-3 公开集上，使用 Claude Opus 4.8 和 Fable 5 达到 99% RHAE 分数，使用 GPT-5.6 Sol 达到 95.35%。该框架不修改模型权重，而是将原始观测转化为可编辑程序，联合解决状态归因和机制发现问题。此前最强模型 GPT-5.6 Sol 在半私",
     "source": "Hacker News 热门（buzzing.cc 中文翻译）",
@@ -22,21 +38,5 @@
     "url": "https://x.com/AYi_AInotes/status/2077981025905316253",
     "published_at": "2026-07-17T04:57:38.000Z",
     "category": "ai-models"
-  },
-  {
-    "title": "生成式人工智能是一场工程灾难：AI公司抢购70%高端内存，推高电脑价格",
-    "summary": "AI公司为维持大语言模型（如ChatGPT、Claude）运行，可能已购买全球70%的高端计算机内存，导致内存与存储价格飙升：两年前350美元的硬盘现已涨至800美元且缺货，部分笔记本电脑涨价50%。科技公司计划未来几年将美国数据中心容量扩大8倍，部分站点甚至用喷气发动机供电。预测称，平价入门级电脑可能在2028年前消",
-    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-    "url": "https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901",
-    "published_at": "2026-07-17T00:40:20.333Z",
-    "category": "tip"
-  },
-  {
-    "title": "Grok 推出 Automations 功能：定时或邮件触发，自动执行任务并汇报结果",
-    "summary": "xAI 为 Grok 引入 Automations 功能，用户可描述一次任务，让 Grok 按计划（一次/每日/工作日/每周/每月/每年）或邮件触发（按发件人、收件人或主题过滤）自动运行。每次执行都是一次完整对话，结果保存至运行历史，支持邮件或应用内通知。定时自动化对所有用户开放，邮件触发需 SuperGrok 订阅。",
-    "source": "xAI：News（网页）",
-    "url": "https://x.ai/news/grok-automations",
-    "published_at": "2026-07-16T21:39:40.165Z",
-    "category": "ai-products"
   }
 ]

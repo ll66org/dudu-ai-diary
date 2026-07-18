@@ -1,46 +1,55 @@
 [
   {
-    "title": "Browser automation CLI built for AI agents",
-    "summary": "<p>Article URL: <a href=\"https://github.com/browser-act/skills\">https://github.com/browser-act/skills</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48946421\">https://news.ycombinator.com/item?id=48946421</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://github.com/browser-act/skills",
-    "published": "Fri, 17 Jul 2026 12:14:02 +0000",
+    "title": "The open-source Claude Design alternative has 77k GitHub stars and 1M+ installs",
+    "summary": "<p>Article URL: <a href=\"https://okaneland.com/studio/tom-huang/\">https://okaneland.com/studio/tom-huang/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48957534\">https://news.ycombinator.com/item?id=48957534</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "url": "https://okaneland.com/studio/tom-huang/",
+    "published": "Sat, 18 Jul 2026 12:27:32 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "How vibe coding a game made me design an AI agent protocol",
-    "summary": "<p>Article URL: <a href=\"https://blog.carlid.dev/game-vibe-coding-to-protocol-design\">https://blog.carlid.dev/game-vibe-coding-to-protocol-design</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48946304\">https://news.ycombinator.com/item?id=48946304</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://blog.carlid.dev/game-vibe-coding-to-protocol-design",
-    "published": "Fri, 17 Jul 2026 12:02:40 +0000",
+    "title": "AIpine – A Swiss Army knife for AI artifacts on iPhone",
+    "summary": "<p>Article URL: <a href=\"https://apps.apple.com/us/app/aipine/id6775947157\">https://apps.apple.com/us/app/aipine/id6775947157</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48957475\">https://news.ycombinator.com/item?id=48957475</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "url": "https://apps.apple.com/us/app/aipine/id6775947157",
+    "published": "Sat, 18 Jul 2026 12:20:36 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "How OpenAI's Sol Learned Design Taste",
-    "summary": "<p>Article URL: <a href=\"https://notes.designarena.ai/how-openais-sol-finally-learned-design-taste/\">https://notes.designarena.ai/how-openais-sol-finally-learned-design-taste/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48945446\">https://news.ycombinator.com/item?id=48945446</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
-    "url": "https://notes.designarena.ai/how-openais-sol-finally-learned-design-taste/",
-    "published": "Fri, 17 Jul 2026 10:12:45 +0000",
+    "title": "What if restaurant menus had AI copilots?",
+    "summary": "<p>I have a small bakery called Delis Croissants in Amol, Iran. I beleive we have the most delicious croissants in the world so we need a cool digital menu as well but I couldn't find a digital menu I liked, so I asked claude code to built my own: Rumizi. Rumizi is Persian for tablecloth, the thing on the table.<p>Since you probably can't visit my bakery, I made demos from publicly available data for top NYC restaurants — starting with Katz's Delicatessen, which makes the best sandwiches in the ",
+    "url": "https://news.ycombinator.com/item?id=48957135",
+    "published": "Sat, 18 Jul 2026 11:40:33 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Using AI to build your own software",
-    "summary": "<p>Article URL: <a href=\"https://lemire.me/blog/2026/07/16/using-ai-to-build-your-own-software/\">https://lemire.me/blog/2026/07/16/using-ai-to-build-your-own-software/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48945403\">https://news.ycombinator.com/item?id=48945403</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://lemire.me/blog/2026/07/16/using-ai-to-build-your-own-software/",
-    "published": "Fri, 17 Jul 2026 10:03:47 +0000",
+    "title": "South Korea building sovereign cybersecurity AI after US Mythos export controls",
+    "summary": "<p>Article URL: <a href=\"https://en.yna.co.kr/view/AEN20260716005600320\">https://en.yna.co.kr/view/AEN20260716005600320</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48956269\">https://news.ycombinator.com/item?id=48956269</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+    "url": "https://en.yna.co.kr/view/AEN20260716005600320",
+    "published": "Sat, 18 Jul 2026 08:43:05 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Schema Harness 在 ARC-AGI-3 公开集上取得约 99% 成绩",
-    "summary": "Schema 框架在 ARC-AGI-3 公开集上，使用 Claude Opus 4.8 和 Fable 5 达到 99% RHAE 分数，使用 GPT-5.6 Sol 达到 95.35%。该框架不修改模型权重，而是将原始观测转化为可编辑程序，联合解决状态归因和机制发现问题。此前最强模型 GPT-5.6 Sol 在半私有集上仅得 7.78%。",
-    "url": "https://schema-harness.github.io/",
-    "published": "2026-07-17T08:41:53.383Z",
-    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "title": "Cursor 评估负责人确认 Claude Fable 5 在 CursorBench 达 72.9% 新高",
+    "summary": "Cursor 的模型评估负责人 Nate Schmidt 发现，Claude Fable 5 在其内部基准 CursorBench 上以 Max effort 模式达到 72.9%，创下新高。该模型在模糊的真实编程任务中表现出全局推理能力，例如在航天模拟器中仅凭一句提示自主规划并成功登月，而此前 Claude Opus 运行 12 小时以上仍无结果。",
+    "url": "https://claude.com/blog/working-at-the-frontier-cursor",
+    "published": "2026-07-17T16:32:51.023Z",
+    "source": "Claude：Blog（网页）",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "美团LongCat发布LoHoSearch：更难搜索智能体基准",
+    "summary": "美团LongCat推出LoHoSearch，一个基于762万实体维基百科知识图谱自动生成问题的搜索智能体基准，旨在解决BrowseComp等现有基准趋于饱和的问题。在11个前沿模型测试中，最佳得分仅34.74%，远低于当前模型在BrowseComp上约90%的成绩；上下文策略仅带来+6.8个百分点的提升。该基准包含544道问题、11个领域，采用树与图结构，已开源。",
+    "url": "https://x.com/Meituan_LongCat/status/2078119654632124547",
+    "published": "2026-07-17T14:08:29.000Z",
+    "source": "X：美团 LongCat (@Meituan_LongCat)",
     "source_weight": "high",
     "category": "paper"
   },
@@ -72,15 +81,6 @@
     "category": "tip"
   },
   {
-    "title": "Grok 推出 Automations 功能：定时或邮件触发，自动执行任务并汇报结果",
-    "summary": "xAI 为 Grok 引入 Automations 功能，用户可描述一次任务，让 Grok 按计划（一次/每日/工作日/每周/每月/每年）或邮件触发（按发件人、收件人或主题过滤）自动运行。每次执行都是一次完整对话，结果保存至运行历史，支持邮件或应用内通知。定时自动化对所有用户开放，邮件触发需 SuperGrok 订阅。",
-    "url": "https://x.ai/news/grok-automations",
-    "published": "2026-07-16T21:39:40.165Z",
-    "source": "xAI：News（网页）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
     "title": "xAI 起诉 Grok 用户制作儿童性虐待内容，不再否认模型被滥用",
     "summary": "xAI 首次对一名 Grok 用户提起诉讼，指控其利用该模型制作儿童性虐待图像（CSAM）。此前 xAI 一直否认 Grok 能生成此类内容，此次诉讼标志着其立场转变。案件聚焦用户滥用行为，而非模型本身的技术缺陷。",
     "url": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users",
@@ -88,24 +88,6 @@
     "source": "Ars Technica：AI（RSS）",
     "source_weight": "high",
     "category": "industry"
-  },
-  {
-    "title": "Moonshot AI 发布 PerceptionBench：多模态模型视觉感知能力诊断基准",
-    "summary": "Moonshot AI 发布 PerceptionBench，一个从 40 多个现有基准中模型实际失败案例归纳出的视觉感知基准，包含 10 项原子感知能力和 3000 道验证题。所有测试模型准确率均未超过 60%，且大量正确答案在重复提问时无法复现，表明模型更多是猜测而非真正感知。PerceptionBench 旨在精确诊断多模态 AI 的视觉感知断裂点，推动其实现忠实、一致的视觉理解。",
-    "url": "https://www.kimi.com/blog/perception-bench",
-    "published": "2026-07-16T19:11:01.192Z",
-    "source": "Moonshot AI：Kimi Blog",
-    "source_weight": "high",
-    "category": "paper"
-  },
-  {
-    "title": "Anthropic 用 Claude Code 大规模迁移代码：Bun 百万行 Zig 转 Rust，两周完成",
-    "summary": "Anthropic 工程师用 Claude Code 在两周内将 Bun 的百万行 Zig 代码迁移至 Rust，100% 现有测试通过，合并后出现 19 个回归问题已全部修复。另一工程师用周末将 Python 代码库迁移至 16.5 万行 TypeScript。迁移消耗约 16.5 万美元 API 成本，但编译时间从八分钟降至两秒，二进制启动快 6 倍。",
-    "url": "https://claude.com/blog/ai-code-migration",
-    "published": "2026-07-16T17:32:26.540Z",
-    "source": "Claude：Blog（网页）",
-    "source_weight": "high",
-    "category": "tip"
   },
   {
     "title": "在 Claude Cowork 中使用 Claude Fable 5",
@@ -160,6 +142,15 @@
     "source": "X：Thinking Machines (@thinkymachines)",
     "source_weight": "high",
     "category": "ai-models"
+  },
+  {
+    "title": "Grok 推出 Automations 功能：定时或邮件触发，自动执行任务并汇报结果",
+    "summary": "xAI 为 Grok 引入 Automations 功能，用户可描述一次任务，让 Grok 按计划（一次/每日/工作日/每周/每月/每年）或邮件触发（按发件人、收件人或主题过滤）自动运行。每次执行都是一次完整对话，结果保存至运行历史，支持邮件或应用内通知。定时自动化对所有用户开放，邮件触发需 SuperGrok 订阅。",
+    "url": "https://x.ai/news/grok-automations",
+    "published": "2026-07-15T16:00:00.000Z",
+    "source": "xAI：News（网页）",
+    "source_weight": "high",
+    "category": "ai-products"
   },
   {
     "title": "AI systems are demanding new interaction models. Are designers ready?",
@@ -220,6 +211,15 @@
     "summary": "<h4>How AI-native workflows and Git are replacing static handoffs with a continuous, spec-driven product engine</h4><figure><img alt=\"Instead of a linear conveyor belt of handoffs, the modern workflow operates as a feedback loop. Notice how the foundational strategic phases (1–5) establish the guardrails, allowing the team to split into rapid, high-velocity cycles for prototyping (Loop A) and production hardening (Loop B) without losing alignment. (image source: Yeo)\" src=\"https://cdn-images-1.m",
     "url": "https://uxdesign.cc/from-vibe-to-specs-reclaiming-the-design-process-with-said-framework-477a5d0d8932?source=rss----138adf9c44c---4",
     "published": "Thu, 16 Jul 2026 22:20:29 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Design system contracts: the component lives in neither Figma nor code",
+    "summary": "<h4>One source of truth in the middle, two copies that stay honest, and why AI makes it urgent.</h4><p>A design system exists twice at once. It is in Figma as components, and it is in code as the real thing engineers ship. Those two are supposed to be the same. They never quite stay that way.</p><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*aJoJclHmavEMRUGzBN3ThA.png\" /></figure><p>You change a button in one place. Someone forgets to change it in the other, and they slowly ",
+    "url": "https://uxdesign.cc/design-system-contracts-the-component-lives-in-neither-figma-nor-code-3032d94ca067?source=rss----138adf9c44c---4",
+    "published": "Thu, 16 Jul 2026 22:17:35 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"

@@ -1,5 +1,5 @@
 {
-  "day_count": 85,
+  "day_count": 86,
   "history": [
     {
       "day": 20,
@@ -447,6 +447,13 @@
       "date": "2026-07-17",
       "topic": "Schema Harness 在 ARC-AGI-3 公开集上取得约 99% 成绩",
       "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "mode": "rss"
+    },
+    {
+      "day": 86,
+      "date": "2026-07-18",
+      "topic": "Cursor 评估负责人确认 Claude Fable 5 在 CursorBench 达 72.9% 新高",
+      "source": "Claude：Blog（网页）",
       "mode": "rss"
     }
   ],
