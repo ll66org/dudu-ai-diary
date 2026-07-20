@@ -1,5 +1,5 @@
 {
-  "day_count": 86,
+  "day_count": 88,
   "history": [
     {
       "day": 20,
@@ -454,6 +454,13 @@
       "date": "2026-07-18",
       "topic": "Cursor 评估负责人确认 Claude Fable 5 在 CursorBench 达 72.9% 新高",
       "source": "Claude：Blog（网页）",
+      "mode": "rss"
+    },
+    {
+      "day": 88,
+      "date": "2026-07-20",
+      "topic": "上海科学智能研究院开放科学多模态基础模型\"神珍\"",
+      "source": "IT之家（RSS）",
       "mode": "rss"
     }
   ],

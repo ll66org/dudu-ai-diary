@@ -1,48 +1,66 @@
 [
   {
-    "title": "The open-source Claude Design alternative has 77k GitHub stars and 1M+ installs",
-    "summary": "<p>Article URL: <a href=\"https://okaneland.com/studio/tom-huang/\">https://okaneland.com/studio/tom-huang/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48957534\">https://news.ycombinator.com/item?id=48957534</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
-    "url": "https://okaneland.com/studio/tom-huang/",
-    "published": "Sat, 18 Jul 2026 12:27:32 +0000",
+    "title": "Show HN: A comprehensive, filterable list of AI agent jails",
+    "summary": "<p>I built this from another Show HN thread where people were mentioning alternative AI agent sandboxes and jails</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48976989\">https://news.ycombinator.com/item?id=48976989</a></p>\n<p>Points: 7</p>\n<p># Comments: 1</p>",
+    "url": "https://pleasedonotescape.com/",
+    "published": "Mon, 20 Jul 2026 10:49:32 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "AIpine – A Swiss Army knife for AI artifacts on iPhone",
-    "summary": "<p>Article URL: <a href=\"https://apps.apple.com/us/app/aipine/id6775947157\">https://apps.apple.com/us/app/aipine/id6775947157</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48957475\">https://news.ycombinator.com/item?id=48957475</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
-    "url": "https://apps.apple.com/us/app/aipine/id6775947157",
-    "published": "Sat, 18 Jul 2026 12:20:36 +0000",
+    "title": "Connect Your AI Agent to Any API in Plain English (No Code)",
+    "summary": "<p>Article URL: <a href=\"https://quickchat.ai/post/connect-ai-agent-to-any-api\">https://quickchat.ai/post/connect-ai-agent-to-any-api</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48976938\">https://news.ycombinator.com/item?id=48976938</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "url": "https://quickchat.ai/post/connect-ai-agent-to-any-api",
+    "published": "Mon, 20 Jul 2026 10:41:19 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "What if restaurant menus had AI copilots?",
-    "summary": "<p>I have a small bakery called Delis Croissants in Amol, Iran. I beleive we have the most delicious croissants in the world so we need a cool digital menu as well but I couldn't find a digital menu I liked, so I asked claude code to built my own: Rumizi. Rumizi is Persian for tablecloth, the thing on the table.<p>Since you probably can't visit my bakery, I made demos from publicly available data for top NYC restaurants — starting with Katz's Delicatessen, which makes the best sandwiches in the ",
-    "url": "https://news.ycombinator.com/item?id=48957135",
-    "published": "Sat, 18 Jul 2026 11:40:33 +0000",
+    "title": "Show HN: I built a deterministic arena where AI agents fight using code",
+    "summary": "<p>I have been interested in BattleBots and programming games for years.<p>With recent AI coding agents, I wanted to see what happens if the strategy itself becomes code written by humans or AI.<p>AgentDuel is a deterministic turn-based arena where agents fight based on submitted TypeScript strategies.<p>Each battle produces a replay so you can inspect every decision.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48976704\">https://news.ycombinator.com/item?id=48976704",
+    "url": "https://www.agentduel.app/b/cru8E9nG",
+    "published": "Mon, 20 Jul 2026 10:14:27 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "South Korea building sovereign cybersecurity AI after US Mythos export controls",
-    "summary": "<p>Article URL: <a href=\"https://en.yna.co.kr/view/AEN20260716005600320\">https://en.yna.co.kr/view/AEN20260716005600320</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48956269\">https://news.ycombinator.com/item?id=48956269</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
-    "url": "https://en.yna.co.kr/view/AEN20260716005600320",
-    "published": "Sat, 18 Jul 2026 08:43:05 +0000",
+    "title": "Setting the cursor: trading delayed correction against delay itself",
+    "summary": "<p>Article URL: <a href=\"https://deimos28.substack.com/p/setting-the-cursor\">https://deimos28.substack.com/p/setting-the-cursor</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48976556\">https://news.ycombinator.com/item?id=48976556</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://deimos28.substack.com/p/setting-the-cursor",
+    "published": "Mon, 20 Jul 2026 09:58:30 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Cursor 评估负责人确认 Claude Fable 5 在 CursorBench 达 72.9% 新高",
-    "summary": "Cursor 的模型评估负责人 Nate Schmidt 发现，Claude Fable 5 在其内部基准 CursorBench 上以 Max effort 模式达到 72.9%，创下新高。该模型在模糊的真实编程任务中表现出全局推理能力，例如在航天模拟器中仅凭一句提示自主规划并成功登月，而此前 Claude Opus 运行 12 小时以上仍无结果。",
-    "url": "https://claude.com/blog/working-at-the-frontier-cursor",
-    "published": "2026-07-17T16:32:51.023Z",
-    "source": "Claude：Blog（网页）",
+    "title": "上海科学智能研究院开放科学多模态基础模型\"神珍\"",
+    "summary": "上海科学智能研究院开放科学多模态基础模型\"神珍\"，总参数约110亿，可处理DNA、RNA、蛋白质、小分子、地球系统和医学影像六类数据。在生物序列20项任务中，该模型9项取得最优结果；医学影像分割平均Dice得分91.20，在7种参评方法中最优。模型权重及代码已在星河启智、Hugging Face和GitHub开放。",
+    "url": "https://www.ithome.com/0/979/017.htm",
+    "published": "2026-07-20T07:00:15.000Z",
+    "source": "IT之家（RSS）",
     "source_weight": "high",
-    "category": "tip"
+    "category": "ai-models"
+  },
+  {
+    "title": "Inkling",
+    "summary": "<p>\n            Open weights 975B multimodal model built for fine-tuning\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/tinker-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1201055?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/tinker-2",
+    "published": "2026-07-19T21:25:48-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "transcribe.cpp 发布：基于 ggml 的跨平台语音转录库，支持 16 个 ASR 模型族",
+    "summary": "transcribe.cpp v0.1.0 发布，一个基于 ggml 的语音转录库，支持 16 个 ASR 模型族（60+ 模型），并通过 Vulkan、Metal、CUDA 和 TinyBLAS 实现 GPU 加速。",
+    "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+    "published": "2026-07-19T02:49:15.657Z",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "source_weight": "high",
+    "category": "ai-products"
   },
   {
     "title": "美团LongCat发布LoHoSearch：更难搜索智能体基准",
@@ -54,118 +72,10 @@
     "category": "paper"
   },
   {
-    "title": "通义实验室发布 Wan-Streamer v0.2，端到端响应延迟仅 550ms",
-    "summary": "通义实验室发布 Wan-Streamer v0.2，这是一款将\"听、看、说、演\"统一进单个 Transformer 的端到端全模态模型。其端到端响应延迟仅 550ms，输出分辨率从 v0.1 的 192×336 提升至 640×368 @ 25FPS，并采用 Thinker-Performer 双通路架构在提升画质的同时维持了极低延迟。",
-    "url": "https://mp.weixin.qq.com/s/_eaO0wmsiQFGsrE2_zW_Dg",
-    "published": "2026-07-17T07:14:00.000Z",
-    "source": "公众号：通义实验室（千问）",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "Kimi K3 登顶前端编码榜，开放权重挑战闭源双巨头",
-    "summary": "Kimi K3 在 Frontend Code Arena 以 1679 分登顶，力压 Claude Fable 5 与 GPT-5.6 Sol，7 个前端细分赛道拿下 6 个第一。该模型为 2.8 万亿参数 MoE 架构，百万上下文窗口，7 月 27 日开放权重。K3 的 API 定价为输入每百万 tokens 15 美元，对标前沿闭源模型，放弃低价路线，转向长上下文智能体编码场景的定价策略。",
-    "url": "https://x.com/AYi_AInotes/status/2077981025905316253",
-    "published": "2026-07-17T04:57:38.000Z",
-    "source": "X：阿易 AI Notes (@AYi_AInotes)",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "生成式人工智能是一场工程灾难：AI公司抢购70%高端内存，推高电脑价格",
-    "summary": "AI公司为维持大语言模型（如ChatGPT、Claude）运行，可能已购买全球70%的高端计算机内存，导致内存与存储价格飙升：两年前350美元的硬盘现已涨至800美元且缺货，部分笔记本电脑涨价50%。科技公司计划未来几年将美国数据中心容量扩大8倍，部分站点甚至用喷气发动机供电。预测称，平价入门级电脑可能在2028年前消失，内存短缺预计持续数年。",
-    "url": "https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901",
-    "published": "2026-07-17T00:40:20.333Z",
-    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "xAI 起诉 Grok 用户制作儿童性虐待内容，不再否认模型被滥用",
-    "summary": "xAI 首次对一名 Grok 用户提起诉讼，指控其利用该模型制作儿童性虐待图像（CSAM）。此前 xAI 一直否认 Grok 能生成此类内容，此次诉讼标志着其立场转变。案件聚焦用户滥用行为，而非模型本身的技术缺陷。",
-    "url": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users",
-    "published": "2026-07-16T20:26:23.000Z",
-    "source": "Ars Technica：AI（RSS）",
-    "source_weight": "high",
-    "category": "industry"
-  },
-  {
-    "title": "在 Claude Cowork 中使用 Claude Fable 5",
-    "summary": "Anthropic 发布最强通用模型 Claude Fable 5，专为长时间、多步骤的复杂异步工作设计，可在 Claude Cowork 中自主执行深度研究、尽职调查等任务。该模型需手动选择，默认模型为 Claude Sonnet 5。",
-    "url": "https://claude.com/blog/working-with-claude-fable-5-in-claude-cowork",
-    "published": "2026-07-16T14:32:22.664Z",
-    "source": "Claude：Blog（网页）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "天工短剧工作台发布\"Agent智能分镜+无限画布\"双轨创作模式",
-    "summary": "天工短剧工作台推出双轨创作模式，通过导演Agent自动解析剧本、规划站位与机位，并支持多视细节图生成，解决AI短剧角色变脸和站位漂移问题。该工具内置影视级提示词模板、720°全景图及3D导演台，实现可控生产。已有三部作品上线DramaWave 7天实现百万美元级营收。",
-    "url": "https://mp.weixin.qq.com/s/WlGAeogkF_N5122nHA0TtQ",
-    "published": "2026-07-16T02:00:00.000Z",
-    "source": "公众号：昆仑万维（天工）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "xAI 开源 Grok CLI 代码库中发现 Mermaid 转 Unicode 框图工具",
-    "summary": "xAI 开源的 Grok CLI 编码智能体代码库中包含一个用 Rust 编写的 Mermaid 图表示例终端渲染器 `xai-grok-markdown/src/mermaid.rs`。开发者通过 Claude Code for web （Fable 5） 将其编译为 WebAssembly，实现在浏览器中运行该工具。",
-    "url": "https://simonwillison.net/2026/Jul/16/grok-mermaid",
-    "published": "2026-07-16T00:33:18.000Z",
-    "source": "Simon Willison 博客",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "远程操控Agent干活方案：Codex主力 + UU远程兜底",
-    "summary": "作者分享了一套远程使用Agent的组合方案：以Codex的远程控制功能作为主力，通过ChatGPT App连接家中24小时开机的Mac Mini，同步所有开发任务、规则和Agent记忆；遇到扫码登录、图形界面操作等Codex难以处理的场景时，用网易UU远程在手机上直接操控电脑完整桌面。UU远程完全免费，支持多设备协同，无需局域网或公网配置。",
-    "url": "https://mp.weixin.qq.com/s/x2JlkhOlGNVhL8oe7AVk9Q",
-    "published": "2026-07-16T00:12:00.000Z",
-    "source": "公众号：数字生命卡兹克",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "Claude Code 新增 MCP 连接器调用功能",
-    "summary": "Claude Code 的 artifacts 现在可以调用 MCP 连接器，让你构建能够按需为每位查看者获取信息并执行操作的仪表盘和应用。\n\n适用于 Pro、Max、Team 和 Enterprise 计划。不适用于公开共享的 artifacts。",
-    "url": "https://x.com/ClaudeDevs/status/2077489907350856038",
-    "published": "2026-07-15T20:26:06.000Z",
-    "source": "X：Claude Devs (@ClaudeDevs)",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Thinking Machines 发布多模态模型 Inkling",
-    "summary": "今天，我们推出 Inkling。\n\nInkling 能高效地对文本、图像和音频模态进行推理。我们将提供完整权重。\n\nhttps://thinkingmachines.ai/news/introducing-inkling/\n\n即日起可在 Tinker 上进行微调。在 Inkling Playground 中试用。🧵",
-    "url": "https://x.com/thinkymachines/status/2077454609551921208",
-    "published": "2026-07-15T18:05:50.000Z",
-    "source": "X：Thinking Machines (@thinkymachines)",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "Grok 推出 Automations 功能：定时或邮件触发，自动执行任务并汇报结果",
-    "summary": "xAI 为 Grok 引入 Automations 功能，用户可描述一次任务，让 Grok 按计划（一次/每日/工作日/每周/每月/每年）或邮件触发（按发件人、收件人或主题过滤）自动运行。每次执行都是一次完整对话，结果保存至运行历史，支持邮件或应用内通知。定时自动化对所有用户开放，邮件触发需 SuperGrok 订阅。",
-    "url": "https://x.ai/news/grok-automations",
-    "published": "2026-07-15T16:00:00.000Z",
-    "source": "xAI：News（网页）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
     "title": "AI systems are demanding new interaction models. Are designers ready?",
     "summary": "<h4>The first big shift in how we use software in years is underway.</h4><figure><img alt=\"Cover illustration featuring a human and an AI agent facing one another. A robot stands opposite a man, with a waveform between them suggesting conversation. Large headline text reads: “AI systems are demanding new interaction models. Are designers ready?” The image introduces a discussion about the future of interaction models.\" src=\"https://cdn-images-1.medium.com/max/1024/1*xueXM438PdvFdB4J8p3z_A.png\" /",
     "url": "https://uxdesign.cc/ai-systems-are-demanding-new-interaction-models-are-designers-ready-d8a95f5e55a9?source=rss----138adf9c44c---4",
     "published": "Wed, 15 Jul 2026 19:48:50 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Designers are sharpening knives for the wrong fight",
-    "summary": "<h4><strong>AI made building free. So why is the whole conversation still about how to build?</strong></h4><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*BrKz3tGY1JQxzKt7CV9L0w.png\" /><figcaption>We have never made a more beautiful knife, but as a beautiful knife what we needed?</figcaption></figure><p>A few weeks ago I sat on a call with a company that had spent two and a half years and four design iterations building and re-building a product. About forty minutes in, one o",
-    "url": "https://uxdesign.cc/everyones-sharpening-knives-for-the-wrong-fight-56844adad459?source=rss----138adf9c44c---4",
-    "published": "Wed, 15 Jul 2026 19:47:57 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
@@ -176,33 +86,6 @@
     "url": "https://smashingmagazine.com/2026/07/people-dont-want-more-ai/",
     "published": "Wed, 15 Jul 2026 10:00:00 GMT",
     "source": "Smashing Magazine",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Designing with web standards: The playbook for this AI moment",
-    "summary": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*eZ-4eCa5SciUUmO1jEuA9Q.png\" /><figcaption>Standards come up from practitioners, not down from committees. A reasonable facsimile of <a href=\"https://medium.com/u/355cb93fe914\">L. Jeffrey Zeldman</a> up top there. AI assisted.</figcaption></figure><h4>Jeffrey Zeldman helped end the browser wars by making the case for standards. We are starting that journey again and we should follow his example.</h4><p>Every team building with ar",
-    "url": "https://uxdesign.cc/designing-with-web-standards-the-playbook-for-this-ai-moment-92394884dc0d?source=rss----138adf9c44c---4",
-    "published": "Wed, 15 Jul 2026 07:33:17 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Play and design: in favour of the novel digital experience",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/play-and-design-in-favour-of-the-novel-digital-experience-ea4798a2f621?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/720/1*TF5JnkYI5f5apaNxSEaKyA.png\" width=\"720\" /></a></p><p class=\"medium-feed-snippet\">Design used to let us wander; modernity replaced that wandering with efficiency &#x2014; now, every product decides where you&#x2019;ll end up before&#x2026;</p><p class=\"medium",
-    "url": "https://uxdesign.cc/play-and-design-in-favour-of-the-novel-digital-experience-ea4798a2f621?source=rss----138adf9c44c---4",
-    "published": "Tue, 14 Jul 2026 11:02:36 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "What 32 design leaders do when told to move faster",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/what-32-design-leaders-do-when-told-to-move-faster-9c8d46c90319?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*gkRv4ROxY5MhgxY9URVs_w.jpeg\" width=\"6000\" /></a></p><p class=\"medium-feed-snippet\">The Greeks knew the answer to this problem, 2300 years ago</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/what-32-design-leaders-do-when-told-to-move-faster-9c8d46c9031",
-    "url": "https://uxdesign.cc/what-32-design-leaders-do-when-told-to-move-faster-9c8d46c90319?source=rss----138adf9c44c---4",
-    "published": "Tue, 14 Jul 2026 11:00:41 GMT",
-    "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
   },
@@ -220,6 +103,69 @@
     "summary": "<h4>One source of truth in the middle, two copies that stay honest, and why AI makes it urgent.</h4><p>A design system exists twice at once. It is in Figma as components, and it is in code as the real thing engineers ship. Those two are supposed to be the same. They never quite stay that way.</p><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*aJoJclHmavEMRUGzBN3ThA.png\" /></figure><p>You change a button in one place. Someone forgets to change it in the other, and they slowly ",
     "url": "https://uxdesign.cc/design-system-contracts-the-component-lives-in-neither-figma-nor-code-3032d94ca067?source=rss----138adf9c44c---4",
     "published": "Thu, 16 Jul 2026 22:17:35 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "The weakest channel",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-weakest-channel-1e6d68d8d562?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2375/1*iVMS7zk9Pl2M1ulmHwWmow.jpeg\" width=\"2375\" /></a></p><p class=\"medium-feed-snippet\">Universality isn&#x2019;t designed into things. It&#x2019;s selected by surviving constraints&#x200a;&#x2014;&#x200a;and often, people are the constraint.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.",
+    "url": "https://uxdesign.cc/the-weakest-channel-1e6d68d8d562?source=rss----138adf9c44c---4",
+    "published": "Sun, 19 Jul 2026 20:47:00 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Delegating taste, orchestration layer, AI workflows",
+    "summary": "<h4>Weekly curated resources for designers — thinkers and makers.</h4><figure><a href=\"https://uxdesign.cc/taste-cannot-be-delegated-1706847a0b4b\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/0*YFGQykKPNtCaLzwy.png\" /></a></figure><p>“We increasingly talk about taste as though it were something that can be collected, measured, or encoded. We assume that if enough people agree, or if enough data is available, the right answer will eventually emerge. But taste has never worked that wa",
+    "url": "https://uxdesign.cc/delegating-taste-orchestration-layer-ai-workflows-7ac13d2ff1d6?source=rss----138adf9c44c---4",
+    "published": "Mon, 20 Jul 2026 11:14:00 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Lonely at a lower latency",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/lonely-at-a-lower-latency-99ae638489b9?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1600/1*vtOkkZh8esAFIa8e1oHMTw.png\" width=\"1600\" /></a></p><p class=\"medium-feed-snippet\">Everything got faster, closer, more certain. The person inside stayed the same.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/lonely-at-a-lower-latency-99ae638489b9?source=rss----138adf9c44c---",
+    "url": "https://uxdesign.cc/lonely-at-a-lower-latency-99ae638489b9?source=rss----138adf9c44c---4",
+    "published": "Mon, 20 Jul 2026 11:09:56 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "The brainstorm that couldn’t storm",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-brainstorm-that-couldnt-storm-bc59947c3c16?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*TRNLh7umtF1YQn2GTo3HKw.png\" width=\"6148\" /></a></p><p class=\"medium-feed-snippet\">On the small delay that makes a brainstorm actually storm</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/the-brainstorm-that-couldnt-storm-bc59947c3c16?source=rss----138adf9c44c---4\">Con",
+    "url": "https://uxdesign.cc/the-brainstorm-that-couldnt-storm-bc59947c3c16?source=rss----138adf9c44c---4",
+    "published": "Mon, 20 Jul 2026 11:09:21 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "The “mocked, then loved” AirPods effect",
+    "summary": "<h4>Will it happen again?</h4><figure><img alt=\"A man wearing AirPods\" src=\"https://cdn-images-1.medium.com/max/1024/0*6YzlJEkLQpGM1uvf\" /><figcaption>Photo by <a href=\"https://unsplash.com/@jonasschindler?utm_source=medium&amp;utm_medium=referral\">Jonas Schindler</a> on <a href=\"https://unsplash.com?utm_source=medium&amp;utm_medium=referral\">Unsplash</a></figcaption></figure><p>When AirPods were unveiled in September 2016, many of the initial reactions were skeptical or openly mocking. They loo",
+    "url": "https://uxdesign.cc/the-mocked-then-loved-airpods-effect-65ec25feeb3a?source=rss----138adf9c44c---4",
+    "published": "Fri, 17 Jul 2026 21:22:37 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "AI just called design’s bluff",
+    "summary": "<h4>We spent a decade hiding behind the interface. Now it’s gone.</h4><p>Eight months ago, the questions started showing up in meetings I wasn’t supposed to notice them in.</p><p><em>“Can’t Figma AI just do that?”</em></p><p><em>“We used Claude for the mockups — do we still need to bring in a designer?”</em></p><p><em>“If the AI can generate the screens, what exactly are we hiring for?”</em></p><p>I am Head of Design at a global restaurant technology platform. I built design teams at Walmart and",
+    "url": "https://uxdesign.cc/ai-just-called-designs-bluff-2b94bf2f5cae?source=rss----138adf9c44c---4",
+    "published": "Fri, 17 Jul 2026 11:13:59 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "How to Kiss a Cannibal",
+    "summary": "<h4>Surprise, Sincerity, Sublime — a Future of Liminal Design</h4><figure><img alt=\"detail of Adam and Eve from Albert Durer’s lithography, Eve taking the apple\" src=\"https://cdn-images-1.medium.com/max/1024/1*LQlLbz5LftdLCsWsSdr4gw.jpeg\" /><figcaption>What’s the point of Eden without slither in the grass?</figcaption></figure><p><strong>If the current state of design seems pandering, predictable and insincere with indoor cats anxiously circling the food bowls of corporate America, it would also",
+    "url": "https://uxdesign.cc/how-to-kiss-a-cannibal-d4ca10ee4606?source=rss----138adf9c44c---4",
+    "published": "Fri, 17 Jul 2026 07:39:54 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
