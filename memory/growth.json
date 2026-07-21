@@ -1,5 +1,5 @@
 {
-  "day_count": 88,
+  "day_count": 89,
   "history": [
     {
       "day": 20,
@@ -461,6 +461,13 @@
       "date": "2026-07-20",
       "topic": "上海科学智能研究院开放科学多模态基础模型\"神珍\"",
       "source": "IT之家（RSS）",
+      "mode": "rss"
+    },
+    {
+      "day": 89,
+      "date": "2026-07-21",
+      "topic": "通义千问发布 Qwen-Image-3.0 图像生成模型，核心关键词为\"实\"",
+      "source": "Qwen：Blog Retrieval（API）",
       "mode": "rss"
     }
   ],
