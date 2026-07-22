@@ -1,42 +1,42 @@
 [
   {
-    "title": "通义千问发布 Qwen-Image-3.0 图像生成模型，核心关键词为\"实\"",
-    "summary": "通义千问发布第三代图像生成基座模型 Qwen-Image-3.0，核心关键词为\"实\"。该模型支持最长 4.5k token 指令输入，可单次生成包含 9 个复杂信息图的 3×3 网格布局；文本渲染精度达 10px，并支持 12 种语言原生渲染，旨在将图像转化为可部署的生产力工具。",
-    "source": "Qwen：Blog Retrieval（API）",
-    "url": "https://qwen.ai/blog?id=qwen-image-3.0",
-    "published_at": "2026-07-21T06:00:00.000Z",
-    "category": "ai-models"
-  },
-  {
-    "title": "腾讯混元推出Hyra-1.0递归自我改进研究智能体",
-    "summary": "腾讯混元推出Hyra-1.0，一个能递归自我改进的研究智能体，在NanoChat等三项任务上均超越Recursive公开结果。Hyra在55个数学开放问题中刷新29个历史最好结果，并设计出仅含15个可训练参数即可完成10位数加法的Transformer。所有产物已在GitHub开源。",
-    "source": "公众号：腾讯混元",
-    "url": "https://mp.weixin.qq.com/s/upwDQ_6ZfmszBUcRQjR_Dg",
-    "published_at": "2026-07-21T03:33:08.000Z",
-    "category": "ai-products"
-  },
-  {
-    "title": "一个随机数就能识别AI模型身份：行为指纹技术可检测API中转站偷换模型",
-    "summary": "布拉格经济大学研究员托马什·布鲁克纳发现，通过让模型反复输出1到100的随机数，可生成独一无二的\"行为指纹\"。对165个模型各问30次后发现，GPT-4o偏爱42和37，Claude Sonnet 5疯狂输出47，Qwen3-Max则30次全部回答42。该方法仅需约120条请求即可识别模型身份，错误率约10.6%，为验",
-    "source": "公众号：数字生命卡兹克",
-    "url": "https://mp.weixin.qq.com/s/pqFZreEZj8kB4KDirl4MSQ",
-    "published_at": "2026-07-21T01:10:49.000Z",
+    "title": "实测Qwen-Image-3.0：19大场景挑战GPT Image2，中文长文本与多图融合表现亮眼",
+    "summary": "Qwen-Image-3.0上线，支持最高4.5k token输入、12种语言、20多种字体，以及多图融合、图中图和图片编辑。实测显示，其在中文长文本生成、多语言混合排版、UI设计、多图融合与图片编辑等19个场景中均能稳定输出，文字不崩且信息对应准确，图片质量已能与GPT Image2媲美。该模型在国内可直接使用，速度",
+    "source": "公众号：卡尔的AI沃茨",
+    "url": "https://mp.weixin.qq.com/s/PnXGmmDYejrHBSpoRBOHkg",
+    "published_at": "2026-07-22T12:34:24.000Z",
     "category": "tip"
   },
   {
-    "title": "《第九区》导演Neill Blomkamp发布首部完全由AI生成的短片《Nightborne》",
-    "summary": "Neill Blomkamp发布了13分钟科幻恐怖短片《Nightborne》，完全使用Seedance 2.0视频生成模型通过文本提示逐帧创作。影片采用纪录片风格，使用了32位真实人物的面部和声音（已获授权），人类艺术家负责概念艺术。Blomkamp表示计划以相同格式拍摄一部长片，并已创立AI电影工作室Barley ",
-    "source": "The Decoder：AI News（RSS）",
-    "url": "https://the-decoder.com/district-9-director-neill-blomkamp-releases-first-short-film-made-entirely-with-ai-video-generation",
-    "published_at": "2026-07-20T17:32:41.000Z",
+    "title": "通义千问发布Qwen-Image-3.0：主打\"真实\"的第三代图像生成模型",
+    "summary": "通义千问发布第三代图像生成模型Qwen-Image-3.0，核心关键词为\"真实\"。模型支持最长4.5k token的提示词，可一次性生成复杂布局（如报纸、试卷、3×3信息图），并能渲染10px级文字、完整LaTeX论文页面及逼真皮肤纹理。它还支持12种语言、100多种艺术风格，并具备实时网络检索能力，旨在成为设计、教育",
+    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "url": "https://x.com/Alibaba_Qwen/status/2079906336381509659",
+    "published_at": "2026-07-22T12:28:08.000Z",
+    "category": "ai-models"
+  },
+  {
+    "title": "小红书开源 BigMac：多模态大模型训练新范式",
+    "summary": "小红书技术团队开源 BigMac，一种针对多模态大模型训练的依赖安全嵌套流水线新范式。它以 LLM 流水线为主干，在不打乱执行顺序的前提下嵌入编码器和生成器计算，相比基线实现 1.08x-1.9x 加速，同时保持激活显存有界。BigMac 已作为 dots 多模态模型训练的核心组件投入生产。",
+    "source": "公众号：小红书技术（dots.llm）",
+    "url": "https://mp.weixin.qq.com/s/tNJARtn1jIayL5URg87Row",
+    "published_at": "2026-07-22T10:04:51.000Z",
+    "category": "ai-products"
+  },
+  {
+    "title": "法官批准Anthropic就盗版书籍训练Claude一案达成15亿美元和解协议",
+    "summary": "美国联邦法官批准Anthropic支付15亿美元，和解其使用盗版书籍训练Claude聊天机器人的集体诉讼。约91%的48.2万本涉案书籍已被作者或出版商认领，每本书赔偿约3000美元。原告律师称这是\"历史上已知最大的版权追偿\"，Anthropic则强调法院此前已裁定AI训练书籍属于合理使用。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
+    "published_at": "2026-07-22T04:52:13.369Z",
     "category": "industry"
   },
   {
-    "title": "Grok for Excel 发布：在 Microsoft Excel 中用自然语言提问、写公式和运行场景",
-    "summary": "xAI 将 Grok 引入 Microsoft Excel，推出免费 Microsoft 365 加载项。用户可在工作表中用自然语言提问、根据描述编写公式或运行场景，答案会引用具体单元格，图表可直接插入工作表。该加载项还支持连接 SharePoint 或 Google Drive 获取上下文，并已同步支持 Word 和",
-    "source": "xAI：News（网页）",
-    "url": "https://x.ai/news/introducing-excel-addin",
-    "published_at": "2026-07-20T16:19:52.655Z",
+    "title": "腾讯设计Agent平台Miora全面开放",
+    "summary": "腾讯设计Agent平台Miora今日全面开放，无需邀请码即可使用。该平台由WorkBuddy团队打造，提供品牌设计、影视创意等五大场景模式，支持自定义多模态模型和Agent推理深度，并内置Skill市场与记忆系统。",
+    "source": "公众号：数字生命卡兹克",
+    "url": "https://mp.weixin.qq.com/s/qQhq9nxoeCD68iMwQoEVFQ",
+    "published_at": "2026-07-22T04:21:03.000Z",
     "category": "ai-products"
   }
 ]

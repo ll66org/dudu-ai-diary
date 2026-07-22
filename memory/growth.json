@@ -1,5 +1,5 @@
 {
-  "day_count": 89,
+  "day_count": 90,
   "history": [
     {
       "day": 20,
@@ -468,6 +468,13 @@
       "date": "2026-07-21",
       "topic": "通义千问发布 Qwen-Image-3.0 图像生成模型，核心关键词为\"实\"",
       "source": "Qwen：Blog Retrieval（API）",
+      "mode": "rss"
+    },
+    {
+      "day": 90,
+      "date": "2026-07-22",
+      "topic": "实测Qwen-Image-3.0：19大场景挑战GPT Image2，中文长文本与多图融合表现亮眼",
+      "source": "公众号：卡尔的AI沃茨",
       "mode": "rss"
     }
   ],

@@ -1,57 +1,165 @@
 [
   {
-    "title": "I asked an AI agent to delete a folder my tool was guarding",
-    "summary": "<p>Article URL: <a href=\"https://termaxa.com/blog/cursor-saga/\">https://termaxa.com/blog/cursor-saga/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48991399\">https://news.ycombinator.com/item?id=48991399</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
-    "url": "https://termaxa.com/blog/cursor-saga/",
-    "published": "Tue, 21 Jul 2026 12:26:06 +0000",
+    "title": "Show HN: Florence, an AI agent for building M&A sourcing lists",
+    "summary": "<p>Hi HN,<p>I’m Grayson, the founder of Conceptor.ai. We’ve been building Florence, an AI agent that helps bankers, investors, searchers, founders, and corporate development teams create buyer, investor, and acquisition target lists.<p>The workflow today is still surprisingly manual. People search databases, review company websites, compare firms one by one, and then try to determine which companies actually fit a specific transaction or investment strategy.<p>With Florence, a user provides the ",
+    "url": "https://conceptor.ai",
+    "published": "Wed, 22 Jul 2026 13:05:00 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Meta faces Tennessee trial over allegations re: Instagram's design",
-    "summary": "<p>Article URL: <a href=\"https://www.reuters.com/legal/litigation/meta-faces-tennessee-trial-over-allegations-instagram-was-designed-be-addictive-2026-07-20/\">https://www.reuters.com/legal/litigation/meta-faces-tennessee-trial-over-allegations-instagram-was-designed-be-addictive-2026-07-20/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48991395\">https://news.ycombinator.com/item?id=48991395</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://www.reuters.com/legal/litigation/meta-faces-tennessee-trial-over-allegations-instagram-was-designed-be-addictive-2026-07-20/",
-    "published": "Tue, 21 Jul 2026 12:25:38 +0000",
+    "title": "Jailbox: Network-Restricted, Hardened Linux VMs for AI Agents and Untrusted Code",
+    "summary": "<p>Article URL: <a href=\"https://karamatli.com/posts/network-isolated-kvm-sandbox-ai-agents/\">https://karamatli.com/posts/network-isolated-kvm-sandbox-ai-agents/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49006016\">https://news.ycombinator.com/item?id=49006016</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://karamatli.com/posts/network-isolated-kvm-sandbox-ai-agents/",
+    "published": "Wed, 22 Jul 2026 12:53:57 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "We spent months building AI agents. Then we deleted them",
-    "summary": "<p>Article URL: <a href=\"https://runnit.io/articles/we-spent-months-building-ai-agents-into-runnit-then-we-deleted-them\">https://runnit.io/articles/we-spent-months-building-ai-agents-into-runnit-then-we-deleted-them</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48991202\">https://news.ycombinator.com/item?id=48991202</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
-    "url": "https://runnit.io/articles/we-spent-months-building-ai-agents-into-runnit-then-we-deleted-them",
-    "published": "Tue, 21 Jul 2026 12:10:05 +0000",
+    "title": "Businesses with ugly AI menu redesigns",
+    "summary": "<p>Article URL: <a href=\"https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/\">https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49005973\">https://news.ycombinator.com/item?id=49005973</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/",
+    "published": "Wed, 22 Jul 2026 12:49:45 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Show HN: ChatPanel, A Privacy-first AI Agent browser side panel",
-    "summary": "<p>I needed an AI agent that understands my work better (meetings, notes, chats and lives where I access the web) and gives me flexibility to use the model of choice. So, I built this and I am a 100x engineer now.<p>A few features to highlight.<p>- You bring your own Agent (Codex, claude code etc) or local models or in-browser models or remote models\n- A live meeting assistant. You got to try to this to see the power of it\n- A local note taking app where AI Agents live\n- Voice to Text (all local",
-    "url": "https://chatpanel.net/",
-    "published": "Tue, 21 Jul 2026 11:56:19 +0000",
+    "title": "Roblox will let people use AI to make games on their phone",
+    "summary": "<p>Article URL: <a href=\"https://www.theverge.com/games/966589/roblox-build-ai-phone-moblie-games\">https://www.theverge.com/games/966589/roblox-build-ai-phone-moblie-games</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49005525\">https://news.ycombinator.com/item?id=49005525</a></p>\n<p>Points: 2</p>\n<p># Comments: 1</p>",
+    "url": "https://www.theverge.com/games/966589/roblox-build-ai-phone-moblie-games",
+    "published": "Wed, 22 Jul 2026 12:15:24 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Ask HN: Have you noticed convincing AI comments on Product Hunt?",
-    "summary": "<p>A few days ago, I launched my tool on Product Hunt for the first time. Although it didn't rank high, I received four comments and a few upvotes. I felt a small but genuine sense of accomplishment.\nNaturally, I replied to each comment with care.\nHowever, I later got curious about who left those comments and clicked on their X (Twitter) profile links. I was shocked by what I found... out of the four accounts, two were banned, and the other two were created within the last three months with zero",
-    "url": "https://news.ycombinator.com/item?id=48991063",
-    "published": "Tue, 21 Jul 2026 11:53:16 +0000",
-    "source": "Hacker News (设计向)",
+    "title": "实测Qwen-Image-3.0：19大场景挑战GPT Image2，中文长文本与多图融合表现亮眼",
+    "summary": "Qwen-Image-3.0上线，支持最高4.5k token输入、12种语言、20多种字体，以及多图融合、图中图和图片编辑。实测显示，其在中文长文本生成、多语言混合排版、UI设计、多图融合与图片编辑等19个场景中均能稳定输出，文字不崩且信息对应准确，图片质量已能与GPT Image2媲美。该模型在国内可直接使用，速度快且价格不贵。",
+    "url": "https://mp.weixin.qq.com/s/PnXGmmDYejrHBSpoRBOHkg",
+    "published": "2026-07-22T12:34:24.000Z",
+    "source": "公众号：卡尔的AI沃茨",
     "source_weight": "high",
-    "category": "ai_tech"
+    "category": "tip"
   },
   {
-    "title": "通义千问发布 Qwen-Image-3.0 图像生成模型，核心关键词为\"实\"",
-    "summary": "通义千问发布第三代图像生成基座模型 Qwen-Image-3.0，核心关键词为\"实\"。该模型支持最长 4.5k token 指令输入，可单次生成包含 9 个复杂信息图的 3×3 网格布局；文本渲染精度达 10px，并支持 12 种语言原生渲染，旨在将图像转化为可部署的生产力工具。",
-    "url": "https://qwen.ai/blog?id=qwen-image-3.0",
-    "published": "2026-07-21T06:00:00.000Z",
-    "source": "Qwen：Blog Retrieval（API）",
+    "title": "通义千问发布Qwen-Image-3.0：主打\"真实\"的第三代图像生成模型",
+    "summary": "通义千问发布第三代图像生成模型Qwen-Image-3.0，核心关键词为\"真实\"。模型支持最长4.5k token的提示词，可一次性生成复杂布局（如报纸、试卷、3×3信息图），并能渲染10px级文字、完整LaTeX论文页面及逼真皮肤纹理。它还支持12种语言、100多种艺术风格，并具备实时网络检索能力，旨在成为设计、教育等领域的实用生产力工具。",
+    "url": "https://x.com/Alibaba_Qwen/status/2079906336381509659",
+    "published": "2026-07-22T12:28:08.000Z",
+    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
     "source_weight": "high",
     "category": "ai-models"
+  },
+  {
+    "title": "小红书开源 BigMac：多模态大模型训练新范式",
+    "summary": "小红书技术团队开源 BigMac，一种针对多模态大模型训练的依赖安全嵌套流水线新范式。它以 LLM 流水线为主干，在不打乱执行顺序的前提下嵌入编码器和生成器计算，相比基线实现 1.08x-1.9x 加速，同时保持激活显存有界。BigMac 已作为 dots 多模态模型训练的核心组件投入生产。",
+    "url": "https://mp.weixin.qq.com/s/tNJARtn1jIayL5URg87Row",
+    "published": "2026-07-22T10:04:51.000Z",
+    "source": "公众号：小红书技术（dots.llm）",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "法官批准Anthropic就盗版书籍训练Claude一案达成15亿美元和解协议",
+    "summary": "美国联邦法官批准Anthropic支付15亿美元，和解其使用盗版书籍训练Claude聊天机器人的集体诉讼。约91%的48.2万本涉案书籍已被作者或出版商认领，每本书赔偿约3000美元。原告律师称这是\"历史上已知最大的版权追偿\"，Anthropic则强调法院此前已裁定AI训练书籍属于合理使用。",
+    "url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
+    "published": "2026-07-22T04:52:13.369Z",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "source_weight": "high",
+    "category": "industry"
+  },
+  {
+    "title": "腾讯设计Agent平台Miora全面开放",
+    "summary": "腾讯设计Agent平台Miora今日全面开放，无需邀请码即可使用。该平台由WorkBuddy团队打造，提供品牌设计、影视创意等五大场景模式，支持自定义多模态模型和Agent推理深度，并内置Skill市场与记忆系统。",
+    "url": "https://mp.weixin.qq.com/s/qQhq9nxoeCD68iMwQoEVFQ",
+    "published": "2026-07-22T04:21:03.000Z",
+    "source": "公众号：数字生命卡兹克",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "Anthropic 如何保障AI原生软件开发生命周期的安全",
+    "summary": "Anthropic副首席信息安全官Jason Clinton披露，其软件工程师每季度交付的代码量是2021-2025年平均水平的8倍，Claude编写了约80%合并入库的代码。安全团队通过安全左移、硬访问与身份边界、自动化与智能体审查结合、关键节点引入人工审核等策略，应对被入侵或提示注入的智能体引入恶意变更等威胁，同时不显著拖慢开发速度。",
+    "url": "https://claude.com/blog/how-anthropic-secures-its-ai-native-software-development-lifecycle",
+    "published": "2026-07-21T17:54:42.493Z",
+    "source": "Claude：Blog（网页）",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "Claude 不是编译器--它比编译器更好",
+    "summary": "Claude 等大语言模型能跨越战略、产品、架构、代码到机器码的整个技术栈垂直工作，无需安排会议或请求许可，因此比传统编译器更强大。以 exe.dev 为例，团队用 LLM 研究分布式 DNS 系统设计、历史安全缺陷和替代实现策略，并通过多智能体循环构建了完整系统。LLM 虽在单项任务上不及资深人类，但能同时处理所有层级，实现跨层协作。",
+    "url": "https://blog.exe.dev/claude-is-not-a-compiler",
+    "published": "2026-07-21T17:15:35.727Z",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "Google DeepMind 发布三款新 Gemini 模型，但未包含 3.5 Pro",
+    "summary": "Google DeepMind 发布 Gemini 3.6 Flash、3.5 Flash-Lite 和 3.5 Flash Cyber 三款新模型。其中 3.6 Flash 在编码和多模态性能上提升，token 用量降低 17%，成本低于前代；3.5 Flash Cyber 专为修复网络安全漏洞微调，仅限政府及可信合作伙伴使用。",
+    "url": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro",
+    "published": "2026-07-21T17:11:50.000Z",
+    "source": "TechCrunch：AI（RSS）",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "GitHub Copilot 推出 canvases 扩展，实现开发者与 AI 智能体实时协作",
+    "summary": "GitHub Copilot 在应用中推出 canvases 扩展，这是一种共享交互式界面，开发者和 AI 智能体可在其中实时协作。用户通过 `/create-canvas` 指令创建画布，Copilot 可动态更新内容，用户则通过点击、编辑等操作与同一工作区交互。示例包括快速分类 Issue、生成交互式代码库关系图、管理会话工作树、优化提示词质量以及跨平台搜索知识联系人。",
+    "url": "https://github.blog/ai-and-ml/github-copilot/how-to-build-interactive-experiences-with-canvases",
+    "published": "2026-07-21T16:00:00.000Z",
+    "source": "GitHub Blog",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "Claude Cowork 新增技能录制功能",
+    "summary": "Claude Cowork 新功能：教 Claude 一项技能。\n录制你执行任务时的屏幕操作，边做边讲解，Claude 会将其转化为可重复运行的技能。在 Claude 桌面应用的 + 菜单中找到\"录制技能\"即可使用。\n适用于 Pro、Max 和 Team 套餐。",
+    "url": "https://x.com/claudeai/status/2079595988998554047",
+    "published": "2026-07-21T15:54:55.000Z",
+    "source": "X：Claude (@claudeai)",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "ABot-World-0：单张桌面级GPU实现无限交互式世界生成",
+    "summary": "ABot-World-0是一个动作条件视频世界模型，能在单张NVIDIA RTX 5090 GPU上以720P分辨率、最高16 FPS、1.2秒动作到首帧延迟和约19 GiB峰值显存预算运行无限交互式世界生成。该模型采用统一的帧同步键盘动作接口，通过LongForcing分布匹配阶段解决长程自回归漂移问题，并集成轻量级VAE解码器、低比特DiT推理和局部上下文KV缓存等系统级优化。",
+    "url": "https://arxiv.org/abs/2607.19191",
+    "published": "2026-07-21T15:26:50.000Z",
+    "source": "HuggingFace Daily Papers（社区热门论文）",
+    "source_weight": "high",
+    "category": "paper"
+  },
+  {
+    "title": "Anthropic 团队透露 Claude Tag 承担 65% 产品工程 PR，系统提示词缩减 80%",
+    "summary": "Anthropic 的 Cat Wu 和 Thariq Shihipar 在炉边对话中透露，Claude Tag 现已承担 Claude Code 团队 65% 的产品工程 PR。Claude Code 系统提示词最近缩减了 80%，团队越来越多地依赖自动化代码审查处理产品\"外层\"变更。Fable 已能一次性完成大量功能实现，Thariq 还用它编辑了自己的产品发布视频。",
+    "url": "https://simonwillison.net/2026/Jul/21/cat-and-thariq",
+    "published": "2026-07-21T12:54:02.000Z",
+    "source": "Simon Willison 博客",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "Redential",
+    "summary": "<p>\n            A developer credential that proves what you built\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/redential?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1202753?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/redential",
+    "published": "2026-07-21T10:49:55-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "AgentManager",
+    "summary": "<p>\n            Never miss a Claude Code session waiting for your input\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/agentmanager?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1202701?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/agentmanager",
+    "published": "2026-07-21T09:57:26-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
   },
   {
     "title": "腾讯混元推出Hyra-1.0递归自我改进研究智能体",
@@ -72,92 +180,38 @@
     "category": "tip"
   },
   {
-    "title": "ProtoFlow",
-    "summary": "<p>\n            AI-powered PCB design tool for engineers and hardware teams\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/protoflow-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1202031?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/protoflow-2",
-    "published": "2026-07-20T21:20:50-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
+    "title": "The digital wall we built ourselves",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-digital-wall-we-built-ourselves-e9578f774374?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1280/1*yoAsr0ISrtzXRwc3UMcS7g.jpeg\" width=\"1280\" /></a></p><p class=\"medium-feed-snippet\">Why 95.9% of the world&#x2019;s top million sites still fail the people who need them most.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/the-digital-wall-we-built-ourselves-e9578f77",
+    "url": "https://uxdesign.cc/the-digital-wall-we-built-ourselves-e9578f774374?source=rss----138adf9c44c---4",
+    "published": "Wed, 22 Jul 2026 11:17:21 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
   },
   {
-    "title": "《第九区》导演Neill Blomkamp发布首部完全由AI生成的短片《Nightborne》",
-    "summary": "Neill Blomkamp发布了13分钟科幻恐怖短片《Nightborne》，完全使用Seedance 2.0视频生成模型通过文本提示逐帧创作。影片采用纪录片风格，使用了32位真实人物的面部和声音（已获授权），人类艺术家负责概念艺术。Blomkamp表示计划以相同格式拍摄一部长片，并已创立AI电影工作室Barley Studios。",
-    "url": "https://the-decoder.com/district-9-director-neill-blomkamp-releases-first-short-film-made-entirely-with-ai-video-generation",
-    "published": "2026-07-20T17:32:41.000Z",
-    "source": "The Decoder：AI News（RSS）",
-    "source_weight": "high",
-    "category": "industry"
+    "title": "I handed a UX review over to AI. Here’s what happened.",
+    "summary": "<figure><img alt=\"A cartoon blue robot looking uncertain in a messy room, illustrating AI’s role as a helpful but imperfect assistant in UX work.\" src=\"https://cdn-images-1.medium.com/max/1024/1*We3RETarXYEoHVKQy0GX_g.jpeg\" /></figure><h4>AI is a powerful partner for UX reviews, not a replacement for the expert, and the accuracy comes from the expertise you feed it, not the model.</h4><p>I got a task that isn’t complicated in itself: I had to write a UX expert review for the search, results, and",
+    "url": "https://uxdesign.cc/i-handed-a-ux-review-over-to-ai-heres-what-happened-0511e73e4ffe?source=rss----138adf9c44c---4",
+    "published": "Tue, 21 Jul 2026 21:36:57 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
   },
   {
-    "title": "Grok for Excel 发布：在 Microsoft Excel 中用自然语言提问、写公式和运行场景",
-    "summary": "xAI 将 Grok 引入 Microsoft Excel，推出免费 Microsoft 365 加载项。用户可在工作表中用自然语言提问、根据描述编写公式或运行场景，答案会引用具体单元格，图表可直接插入工作表。该加载项还支持连接 SharePoint 或 Google Drive 获取上下文，并已同步支持 Word 和 PowerPoint。",
-    "url": "https://x.ai/news/introducing-excel-addin",
-    "published": "2026-07-20T16:19:52.655Z",
-    "source": "xAI：News（网页）",
-    "source_weight": "high",
-    "category": "ai-products"
+    "title": "AI can fake your portfolio. It can’t fake the second question.",
+    "summary": "<h4>The artifact just became the cheapest thing in hiring. The room test is the live follow-up you can’t generate, and it’s where interviews actually get decided in 2026.</h4><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*V7-aOEPvds-IyQ2Xa7YmEw.jpeg\" /><figcaption><strong>© </strong><a href=\"https://unsplash.com/@martino_pietropoli\">Martino Pietropoli</a></figcaption></figure><p>Seven or eight years ago I made it to the final round at a large international company. Four inte",
+    "url": "https://uxdesign.cc/ai-can-fake-your-portfolio-it-cant-fake-the-second-question-c89f96626f1c?source=rss----138adf9c44c---4",
+    "published": "Tue, 21 Jul 2026 21:36:22 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
   },
   {
-    "title": "NVIDIA 发布 Cosmos 3 Edge：4B 参数开源世界模型，为机器人及边缘 AI 提供实时推理与动作生成",
-    "summary": "NVIDIA 在 Hugging Face 上开源了 Cosmos 3 Edge，一个 40 亿参数的世界模型，旨在帮助机器人和视觉 AI 智能体在边缘设备上理解环境、实时推理并生成动作。",
-    "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
-    "published": "2026-07-20T15:58:51.000Z",
-    "source": "Hugging Face：Blog（RSS）",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "昆仑万维发布并开源可交互世界模型 Matrix-Game 3.5",
-    "summary": "昆仑万维在 WAIC 2026 发布并开源新一代可交互世界模型 Matrix-Game 3.5。该模型通过 Patch Memory 与 Warped PRoPE 实现长期记忆与几何一致性建模，可在单张 GPU 上以 720P 分辨率、约 20FPS 实时生成流式视频。",
-    "url": "https://mp.weixin.qq.com/s/TUVv2wvp4RixsblDLrvSGg",
-    "published": "2026-07-20T13:45:18.000Z",
-    "source": "公众号：昆仑万维（天工）",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "Cursor 测试新型 AI 智能体集群：规划者+执行者分工，4小时通过80% SQL测试",
-    "summary": "Cursor 测试了新型 AI 智能体集群，将任务分解为规划者（使用最强模型）和执行者（使用快速廉价模型）。使用 Grok 4.5 时，新集群在 4 小时内通过了 80% 的 SQL 测试套件，而旧集群在第二小时前失败。该系统已用于构建浏览器、修复漏洞和生成数十亿 token 合成训练数据。",
-    "url": "https://cursor.com/blog/agent-swarm-model-economics",
-    "published": "2026-07-20T12:00:00.000Z",
-    "source": "Cursor Blog",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "BUD",
-    "summary": "<p>\n            Voice-first canvas for sketchnoting and whiteboarding\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/bud-voice-canvas?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1201671?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/bud-voice-canvas",
-    "published": "2026-07-20T10:05:31-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "面壁智能开源 MiniCPM-Robot 具身智能模型系列",
-    "summary": "面壁智能开源首个具身AI模型系列 MiniCPM-Robot，包含 1.5B 参数的通用视觉-语言-动作（VLA）模型 MiniCPM-RobotManip 和用于目标跟踪的 MiniCPM-RobotTrack。同时发布高性能推理框架 PhyAI，旨在让机器人实现理解、记忆与行动。",
-    "url": "https://x.com/OpenBMB/status/2078839529591759025",
-    "published": "2026-07-19T13:49:01.000Z",
-    "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "transcribe.cpp 发布：基于 ggml 的跨平台语音转录库，支持 16 个 ASR 模型族",
-    "summary": "transcribe.cpp v0.1.0 发布，一个基于 ggml 的语音转录库，支持 16 个 ASR 模型族（60+ 模型），并通过 Vulkan、Metal、CUDA 和 TinyBLAS 实现 GPU 加速。",
-    "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
-    "published": "2026-07-19T02:49:15.657Z",
-    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "No, People Don’t Want More AI In Their Life",
-    "summary": "Many companies assume everyone craves new AI features. But the reality is that most people don't want more AI &mdash; at least not in the way most AI leaders envision it. Brought to you by <a href=\"https://ai-design-patterns.com\">Design Patterns For AI Interfaces</a>, **friendly video courses on UX** and design patterns by Vitaly.",
-    "url": "https://smashingmagazine.com/2026/07/people-dont-want-more-ai/",
-    "published": "Wed, 15 Jul 2026 10:00:00 GMT",
-    "source": "Smashing Magazine",
+    "title": "The feature trap",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-feature-trap-how-product-teams-confuse-building-with-validating-24b13f865f2e?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*zS6lwnxmDJgpYQR2\" width=\"5184\" /></a></p><p class=\"medium-feed-snippet\">How product teams confuse building with validating</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/the-feature-trap-how-product-teams-confuse-building-with-validat",
+    "url": "https://uxdesign.cc/the-feature-trap-how-product-teams-confuse-building-with-validating-24b13f865f2e?source=rss----138adf9c44c---4",
+    "published": "Tue, 21 Jul 2026 21:35:59 GMT",
+    "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
   },
@@ -166,60 +220,6 @@
     "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/design-experiments-are-more-important-than-ever-and-they-dont-require-a-lab-a81d68e97393?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/640/1*A5E8b6vOVWtT6BxngXMw1A.jpeg\" width=\"640\" /></a></p><p class=\"medium-feed-snippet\">If design experiments scare you? Take a page from design leaders and call them bets.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/design-experi",
     "url": "https://uxdesign.cc/design-experiments-are-more-important-than-ever-and-they-dont-require-a-lab-a81d68e97393?source=rss----138adf9c44c---4",
     "published": "Tue, 21 Jul 2026 11:02:04 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "The weakest channel",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-weakest-channel-1e6d68d8d562?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2375/1*iVMS7zk9Pl2M1ulmHwWmow.jpeg\" width=\"2375\" /></a></p><p class=\"medium-feed-snippet\">Universality isn&#x2019;t designed into things. It&#x2019;s selected by surviving constraints&#x200a;&#x2014;&#x200a;and often, people are the constraint.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.",
-    "url": "https://uxdesign.cc/the-weakest-channel-1e6d68d8d562?source=rss----138adf9c44c---4",
-    "published": "Sun, 19 Jul 2026 20:47:00 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Research shouldn’t end in a deck",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/research-shouldnt-end-in-a-deck-fe7c1d4fe1af?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*se3guCvHdXjoiSqy4yH82Q.png\" width=\"2880\" /></a></p><p class=\"medium-feed-snippet\">How I use Claude Code to challenge assumptions and turn research into a living artifact</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/research-shouldnt-end-in-a-deck-fe7c1d4fe1af?source=r",
-    "url": "https://uxdesign.cc/research-shouldnt-end-in-a-deck-fe7c1d4fe1af?source=rss----138adf9c44c---4",
-    "published": "Mon, 20 Jul 2026 22:02:20 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "How to apply Nir Eyal’s Hook Model to AI products, safely",
-    "summary": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*H2988nKKxQtsXnJ92R1Mog.png\" /><figcaption>The four-step hook — trigger, action, variable reward, investment — drawn as one machine that keeps restarting itself. AI assisted.</figcaption></figure><h4>The habit loop that built social media is now wired into every chatbot — here are ways to use it without becoming the dealer.</h4><p>Nir Eyal published <a href=\"https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/159184",
-    "url": "https://uxdesign.cc/how-to-apply-nir-eyals-hook-model-to-ai-products-safely-f6a986305a2d?source=rss----138adf9c44c---4",
-    "published": "Mon, 20 Jul 2026 22:00:29 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Delegating taste, orchestration layer, AI workflows",
-    "summary": "<h4>Weekly curated resources for designers — thinkers and makers.</h4><figure><a href=\"https://uxdesign.cc/taste-cannot-be-delegated-1706847a0b4b\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/0*YFGQykKPNtCaLzwy.png\" /></a></figure><p>“We increasingly talk about taste as though it were something that can be collected, measured, or encoded. We assume that if enough people agree, or if enough data is available, the right answer will eventually emerge. But taste has never worked that wa",
-    "url": "https://uxdesign.cc/delegating-taste-orchestration-layer-ai-workflows-7ac13d2ff1d6?source=rss----138adf9c44c---4",
-    "published": "Mon, 20 Jul 2026 11:14:00 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Lonely at a lower latency",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/lonely-at-a-lower-latency-99ae638489b9?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1600/1*vtOkkZh8esAFIa8e1oHMTw.png\" width=\"1600\" /></a></p><p class=\"medium-feed-snippet\">Everything got faster, closer, more certain. The person inside stayed the same.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/lonely-at-a-lower-latency-99ae638489b9?source=rss----138adf9c44c---",
-    "url": "https://uxdesign.cc/lonely-at-a-lower-latency-99ae638489b9?source=rss----138adf9c44c---4",
-    "published": "Mon, 20 Jul 2026 11:09:56 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "The brainstorm that couldn’t storm",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-brainstorm-that-couldnt-storm-bc59947c3c16?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*TRNLh7umtF1YQn2GTo3HKw.png\" width=\"6148\" /></a></p><p class=\"medium-feed-snippet\">On the small delay that makes a brainstorm actually storm</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/the-brainstorm-that-couldnt-storm-bc59947c3c16?source=rss----138adf9c44c---4\">Con",
-    "url": "https://uxdesign.cc/the-brainstorm-that-couldnt-storm-bc59947c3c16?source=rss----138adf9c44c---4",
-    "published": "Mon, 20 Jul 2026 11:09:21 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
