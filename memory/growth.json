@@ -1,5 +1,5 @@
 {
-  "day_count": 90,
+  "day_count": 91,
   "history": [
     {
       "day": 20,
@@ -475,6 +475,13 @@
       "date": "2026-07-22",
       "topic": "实测Qwen-Image-3.0：19大场景挑战GPT Image2，中文长文本与多图融合表现亮眼",
       "source": "公众号：卡尔的AI沃茨",
+      "mode": "rss"
+    },
+    {
+      "day": 91,
+      "date": "2026-07-23",
+      "topic": "通义千问发布Qwen-Audio-3.0-TTS，登顶TTS排行榜",
+      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
       "mode": "rss"
     }
   ],

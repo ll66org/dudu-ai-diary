@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-22T13:05:23.323018Z",
+  "fetched_at": "2026-07-23T13:06:12.576670Z",
   "total_candidates": 25,
   "source_stats": {
     "Figma Blog": {
@@ -8,7 +8,7 @@
     },
     "Vercel Blog (v0)": {
       "found": 0,
-      "total": 1367
+      "total": 1369
     },
     "Cursor Changelog": {
       "found": 0,
@@ -43,7 +43,7 @@
       "total": 0
     },
     "CSS-Tricks": {
-      "found": 1,
+      "found": 0,
       "total": 15
     },
     "A List Apart": {
@@ -51,11 +51,11 @@
       "total": 20
     },
     "Hacker News (设计向)": {
-      "found": 4,
+      "found": 3,
       "total": 20
     },
     "Product Hunt": {
-      "found": 2,
+      "found": 1,
       "total": 50
     },
     "Designer News (AI Design)": {
@@ -64,27 +64,27 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 90,
-  "today_date": "2026-07-22",
+  "dudu_day": 91,
+  "today_date": "2026-07-23",
   "used_titles": [
-    "高德发布通用世界模型工坊 ABot-WorldStudio，已开放测试",
     "阿里发布 Qwen-Audio-3.0-Realtime，在 Artificial Analysis 语音推理子项中综合排名第一",
     "Patter SDK 教程：构建餐厅预订电话智能体，支持动态变量、护栏、延迟仪表盘与评估检查",
     "Schema Harness 在 ARC-AGI-3 公开集上取得约 99% 成绩",
     "Cursor 评估负责人确认 Claude Fable 5 在 CursorBench 达 72.9% 新高",
     "上海科学智能研究院开放科学多模态基础模型\"神珍\"",
-    "通义千问发布 Qwen-Image-3.0 图像生成模型，核心关键词为\"实\""
+    "通义千问发布 Qwen-Image-3.0 图像生成模型，核心关键词为\"实\"",
+    "实测Qwen-Image-3.0：19大场景挑战GPT Image2，中文长文本与多图融合表现亮眼"
   ],
   "used_tools": [
-    "IT之家（RSS）",
     "公众号：通义实验室（千问）",
     "MarkTechPost（RSS）",
     "Hacker News 热门（buzzing.cc 中文翻译）",
     "Claude：Blog（网页）",
     "IT之家（RSS）",
-    "Qwen：Blog Retrieval（API）"
+    "Qwen：Blog Retrieval（API）",
+    "公众号：卡尔的AI沃茨"
   ],
-  "briefing_total": 57,
-  "briefing_design": 24,
+  "briefing_total": 52,
+  "briefing_design": 21,
   "briefing_count": 5
 }
