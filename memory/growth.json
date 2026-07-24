@@ -1,5 +1,5 @@
 {
-  "day_count": 91,
+  "day_count": 92,
   "history": [
     {
       "day": 20,
@@ -482,6 +482,13 @@
       "date": "2026-07-23",
       "topic": "通义千问发布Qwen-Audio-3.0-TTS，登顶TTS排行榜",
       "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+      "mode": "rss"
+    },
+    {
+      "day": 92,
+      "date": "2026-07-24",
+      "topic": "FLUX 3 x mimic：新一代视频动作模型",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "mode": "rss"
     }
   ],

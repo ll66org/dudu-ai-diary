@@ -1,39 +1,120 @@
 [
   {
-    "title": "Show HN: Mwe-MCP – self-hosted memory for AI agents that knows who may know what",
-    "summary": "<p>Hi HN, for about a year now I've been experimenting with AI agents and building my own home ecosystem; from the start I set out with the idea of an agent that behaves like a member of the family, not as a personal agent, and this made me clash very early first with OpenClaw's builtin memory, then I tested dozens of memory plugins without ever finding one that fit my purpose, so like any good builder I made my own. First on OpenClaw, as a plugin, then the idea matured and since the beginning o",
-    "url": "https://github.com/Fr4nZ82/mwe-mcp",
-    "published": "Thu, 23 Jul 2026 12:38:20 +0000",
+    "title": "Do It by Hand First: Method for Keeping Critical Thinking Alive in the Age of AI",
+    "summary": "<p>Article URL: <a href=\"https://blog.parentsguidetoai.ca/do-it-by-hand-first-critical-thinking.html\">https://blog.parentsguidetoai.ca/do-it-by-hand-first-critical-thinking.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49034523\">https://news.ycombinator.com/item?id=49034523</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "url": "https://blog.parentsguidetoai.ca/do-it-by-hand-first-critical-thinking.html",
+    "published": "Fri, 24 Jul 2026 12:20:31 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "ASK HN: What role do humans play in your organization in an AI era?",
-    "summary": "<p>The topic might sound very off, but recently, the more AI advances, the more “hype” it gets in different organizations, the more questions I'm starting to have. Since all of us are working in different fields, our internal experiences might differ. And I want to create a place for us to share these experiences.<p>In particular, I'm interested in:<p><pre><code>   - Has the place you work in established any AI-driven development workflows? If yes, what's the place of a developer there?\n\n   - Ho",
-    "url": "https://news.ycombinator.com/item?id=49020380",
-    "published": "Thu, 23 Jul 2026 12:16:09 +0000",
+    "title": "Show HN: A monorepo where AI agents can safely build and maintain applications",
+    "summary": "<p>Hello everyone,<p>I have spent dozens of hours working on my ideal template to quickly bring applications into production, which could be of interest to those who want to rapidly deliver a scalable prototype, in an AI-native manner and at low cost on Cloudflare infrastructures.<p>In this template, you will find:<p>- A pnpm monorepo in strictly typed TypeScript with Zod, allowing you to develop both your React applications and your backend (here with Hono and the native Zod validator) without ",
+    "url": "https://github.com/louisbrulenaudet/monorepo-template",
+    "published": "Fri, 24 Jul 2026 12:10:40 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "The Independent AI Coding Community for Cursor, Claude Code and LLMs",
-    "summary": "<p>Article URL: <a href=\"https://promptcube3.com/en/\">https://promptcube3.com/en/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49020317\">https://news.ycombinator.com/item?id=49020317</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://promptcube3.com/en/",
-    "published": "Thu, 23 Jul 2026 12:09:56 +0000",
+    "title": "I Tried Building a Real App with AI. It Took a Year",
+    "summary": "<p>Article URL: <a href=\"https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/\">https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49034342\">https://news.ycombinator.com/item?id=49034342</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+    "url": "https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/",
+    "published": "Fri, 24 Jul 2026 12:00:17 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "通义千问发布Qwen-Audio-3.0-TTS，登顶TTS排行榜",
-    "summary": "阿里通义千问推出最新文本转语音模型Qwen-Audio-3.0-TTS，提供Flash（实时交互）和Plus（高质量生成）两个版本。新功能包括细粒度内联标签控制（如【whisper】、【angry】）、自然语言风格控制、支持16种语言，以及一次生成长达3分钟的长文本。该模型目前在Artificial Analysis TTS排行榜上排名第一。",
-    "url": "https://x.com/Alibaba_Qwen/status/2080270065547809133",
-    "published": "2026-07-23T12:33:27.000Z",
-    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "title": "AgentCost – local CLI,attributes token cost in Claude Code/Cursor/Codex sessions",
+    "summary": "<p>Article URL: <a href=\"https://pypi.org/project/agentcost-cli/0.1.0/\">https://pypi.org/project/agentcost-cli/0.1.0/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49034205\">https://news.ycombinator.com/item?id=49034205</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+    "url": "https://pypi.org/project/agentcost-cli/0.1.0/",
+    "published": "Fri, 24 Jul 2026 11:45:33 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Future euro banknote design proposals",
+    "summary": "<p>Article URL: <a href=\"https://www.ecb.europa.eu/euro/banknotes/future_banknotes/html/design-proposals.en.html\">https://www.ecb.europa.eu/euro/banknotes/future_banknotes/html/design-proposals.en.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49033110\">https://news.ycombinator.com/item?id=49033110</a></p>\n<p>Points: 72</p>\n<p># Comments: 78</p>",
+    "url": "https://www.ecb.europa.eu/euro/banknotes/future_banknotes/html/design-proposals.en.html",
+    "published": "Fri, 24 Jul 2026 09:29:44 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Kitboga manipulates AI scam call into hallucination",
+    "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=lk3jCuITwcE\">https://www.youtube.com/watch?v=lk3jCuITwcE</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49032875\">https://news.ycombinator.com/item?id=49032875</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+    "url": "https://www.youtube.com/watch?v=lk3jCuITwcE",
+    "published": "Fri, 24 Jul 2026 08:45:26 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "FLUX 3 x mimic：新一代视频动作模型",
+    "summary": "Black Forest Labs 发布多模态基础模型 FLUX 3，联合训练图像、视频和音频，其中视频预测占训练算力的 95% 以上。该模型与机器人公司 mimic 合作推出 FLUX-mimic，已在奥迪生产线上测试部署。加入动作预测后，视频生成质量最初下降最多 10%，但经 3500 步训练后恢复原有水平。",
+    "url": "https://bfl.ai/blog/flux-3-mimic",
+    "published": "2026-07-24T11:55:45.885Z",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
     "source_weight": "high",
     "category": "ai-models"
+  },
+  {
+    "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
+    "summary": "Claude-thermos 通过本地反向代理监控 Claude Code 会话，在主智能体因等待子智能体而空闲超过 5 分钟时，自动发送预热请求刷新提示缓存。实测约 185 次本地会话中，缓存过期导致的重新编码占账单约 22%。工具以 uvx 运行，支持自定义空闲阈值和预热间隔。",
+    "url": "https://github.com/izeigerman/claude-thermos",
+    "published": "2026-07-24T09:47:29.601Z",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "Black Forest Labs 发布 FLUX 3 多模态模型，支持单次生成 20 秒视频与原生音频",
+    "summary": "Black Forest Labs 以 Early Access 方式推出 FLUX 3 多模态基础模型，采用统一架构联合学习图像、视频和音频。该模型基于 Self-Flow 学习框架扩展，可在单次生成中输出最长 20 秒视频并附带原生音频，支持文生视频、图生视频、多镜头串联等任务。",
+    "url": "https://www.ithome.com/0/981/137.htm",
+    "published": "2026-07-24T06:48:04.000Z",
+    "source": "IT之家（RSS）",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "Claude 语音模式现已支持 Opus、Sonnet 及连接工具与多语言",
+    "summary": "即日起，Claude 语音模式在 Opus、Sonnet 和 Haiku 上运行，并支持连接 Gmail、Slack 等工具及更多语言。用户可在对话中切换模型，语音模式默认沿用上次文本聊天使用的模型。该功能面向所有用户开放 beta 测试，免费版可使用 Haiku 及一个连接工具，付费版可访问更多模型和全部连接工具。",
+    "url": "https://claude.com/blog/think-through-hard-problems-in-voice-mode",
+    "published": "2026-07-23T19:55:29.530Z",
+    "source": "Claude：Blog（网页）",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
+    "summary": "电影数据权威网站 The Numbers 于 2026 年 3 月 5 日突然下线，一周后仅以精简版恢复上线，历史图表、电影页面和 Report Builder 均被移除。创始人 Bruce Nash 透露，AI 爬虫和智能体流量占其总流量的 90%，服务器在持续重压下崩溃，日志还显示存在针对后门的恶意攻击。团队被迫放弃运行 30 年、包含 16 万源文件的旧系统，在新基础设施上重建网站。",
+    "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
+    "published": "2026-07-23T18:35:29.016Z",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "Apple 起诉 OpenAI 窃取硬件制造机密",
+    "summary": "Apple 指控多名前员工在 OpenAI 面试中窃取硬件制造机密，甚至将设备带出办公室进行\"展示\"。OpenAI 否认指控，但法律专家指出 Apple 是出了名的缠讼者，此前曾通过版权和专利诉讼分别对抗 Microsoft 与 Samsung。",
+    "url": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
+    "published": "2026-07-23T14:00:00.000Z",
+    "source": "The Verge：AI（RSS）",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "MineExplorer：首个《我的世界》分钟级长程任务评测基准发布",
+    "summary": "美团 LongCat 团队发布 MineExplorer，这是首个在《我的世界》开放世界中实现分钟级长程任务的评测基准，包含 813 个人工验证实例。评测 18 款顶级多模态大模型发现，最强模型 Claude-Opus-4.6 整体任务成功率仅 41%，从 1 跳任务的 77% 骤降至 4 跳任务的 12%，近 60% 的失败源于导航失败。MineExplorer 已全面开源。",
+    "url": "https://mp.weixin.qq.com/s/P3yzceXkVxth7Q63nRfBLg",
+    "published": "2026-07-23T11:58:00.000Z",
+    "source": "公众号：龙猫LongCat（美团）",
+    "source_weight": "high",
+    "category": "paper"
   },
   {
     "title": "昆仑万维方汉：Token堆不出AI原生组织，模型才是长期立足之本",
@@ -54,6 +135,24 @@
     "category": "paper"
   },
   {
+    "title": "SANA-Video 2.0：混合线性注意力与注意力残差实现高效视频生成",
+    "summary": "SANA-Video 2.0 是一个混合视频扩散 Transformer，提供 5B 和 14B 两种规模，可在单 GPU 上生成最高 720p 视频。其 Hybrid Linear-Softmax Attention 以 3：1 比例混合线性与 softmax 注意力，配合 Block Attention Residuals 将深层有效秩提升约 12%。",
+    "url": "https://arxiv.org/abs/2607.21553",
+    "published": "2026-07-23T00:00:00.000Z",
+    "source": "HuggingFace Daily Papers（社区热门论文）",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "腾讯发布 WorkBuddy Bench：多领域编码智能体评测套件",
+    "summary": "腾讯推出 WorkBuddy Bench，一个覆盖 Code、Web、Office、Security 四个工作领域的编码智能体评测套件。每个任务均从真实 commit、PR 或业务场景逆向工程而来，改写为口语化角色扮演请求，从构造上抵抗数据污染。该基准在 CodeBuddy Code 和 Claude Code 上运行，所有任务目录、环境镜像、评分工具和参考方案均开源发布。",
+    "url": "https://arxiv.org/abs/2607.20911",
+    "published": "2026-07-23T00:00:00.000Z",
+    "source": "HuggingFace Daily Papers（社区热门论文）",
+    "source_weight": "high",
+    "category": "paper"
+  },
+  {
     "title": "从提示词到任务：多模态交互单元提升AI智能体效率",
     "summary": "DAIR.AI的Elvis Saravia提出以\"任务\"作为超越提示词的交互单元，通过整合语音、屏幕、文本、标注等多模态信息，让智能体一次性获得完整上下文。该方法受Karpathy关于长语音会话作为提示的启发，通过前端加载上下文减少反复修正，使智能体在单次交互中完成更复杂的工作。",
     "url": "https://x.com/omarsar0/status/2079982491578827214",
@@ -63,94 +162,13 @@
     "category": "tip"
   },
   {
-    "title": "Claude 新增 Anthropic Economic Index 连接器，可直接查询 AI 对经济与职业的影响数据",
-    "summary": "Anthropic 为 Claude 推出 Anthropic Economic Index 连接器，用户可在 claude.ai 中直接向 Claude 提问\"哪些职业使用 AI 最多\"等问题，答案基于 Index 的真实数据。该连接器无需安装，适用于任何 Claude 模型，并会引导用户查看原始数据及其局限性。完整数据集仍免费开放。",
-    "url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
-    "published": "2026-07-22T17:23:31.324Z",
-    "source": "Anthropic：Newsroom（网页）",
+    "title": "HuggingFace 遭 AI 智能体入侵，GLM-5.2 协助分析",
+    "summary": "HuggingFace 联合创始人 Thomas Wolf 透露，HuggingFace 上周遭复杂入侵，攻击痕迹显示有严重 AI 参与，但未知具体模型。闭源模型因安全护栏失效无法协助分析，团队转而使用 Zhipu AI 的 GLM-5.2 开源模型。OpenAI 后续主动联系并合作调查，确认入侵者为一个由未发布前沿模型驱动的全自主 AI 智能体，试图访问 HuggingFace 部分基础设施。",
+    "url": "https://x.com/Thom_Wolf/status/2079954096950264238",
+    "published": "2026-07-22T15:37:55.000Z",
+    "source": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
     "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Rechroma",
-    "summary": "<p>\n            Build better color palettes. Ship complete color systems.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/rechroma?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1203998?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/rechroma",
-    "published": "2026-07-22T14:49:35-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "小红书开源 BigMac：多模态大模型训练新范式",
-    "summary": "小红书技术团队开源 BigMac，一种针对多模态大模型训练的依赖安全嵌套流水线新范式。它以 LLM 流水线为主干，在不打乱执行顺序的前提下嵌入编码器和生成器计算，相比基线实现 1.08x-1.9x 加速，同时保持激活显存有界。BigMac 已作为 dots 多模态模型训练的核心组件投入生产。",
-    "url": "https://mp.weixin.qq.com/s/tNJARtn1jIayL5URg87Row",
-    "published": "2026-07-22T10:04:51.000Z",
-    "source": "公众号：小红书技术（dots.llm）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "腾讯设计Agent平台Miora全面开放",
-    "summary": "腾讯设计Agent平台Miora今日全面开放，无需邀请码即可使用。该平台由WorkBuddy团队打造，提供品牌设计、影视创意等五大场景模式，支持自定义多模态模型和Agent推理深度，并内置Skill市场与记忆系统。",
-    "url": "https://mp.weixin.qq.com/s/qQhq9nxoeCD68iMwQoEVFQ",
-    "published": "2026-07-22T04:21:03.000Z",
-    "source": "公众号：数字生命卡兹克",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Cursor 发布智能模型路由系统 Cursor Router",
-    "summary": "Cursor 推出 Cursor Router，可自动将每个编码请求分配给最合适的模型。在线 A/B 测试显示，Auto Intelligence 模式在用户满意度接近 Fable 的同时，成本降低约 60%；Auto Balance 模式满意度超过 Opus 4.8，成本降低约 36%。",
-    "url": "https://cursor.com/blog/router",
-    "published": "2026-07-22T00:00:00.000Z",
-    "source": "Cursor Blog",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Claude 不是编译器--它比编译器更好",
-    "summary": "Claude 等大语言模型能跨越战略、产品、架构、代码到机器码的整个技术栈垂直工作，无需安排会议或请求许可，因此比传统编译器更强大。以 exe.dev 为例，团队用 LLM 研究分布式 DNS 系统设计、历史安全缺陷和替代实现策略，并通过多智能体循环构建了完整系统。LLM 虽在单项任务上不及资深人类，但能同时处理所有层级，实现跨层协作。",
-    "url": "https://blog.exe.dev/claude-is-not-a-compiler",
-    "published": "2026-07-21T17:15:35.727Z",
-    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "GitHub Copilot 推出 canvases 扩展，实现开发者与 AI 智能体实时协作",
-    "summary": "GitHub Copilot 在应用中推出 canvases 扩展，这是一种共享交互式界面，开发者和 AI 智能体可在其中实时协作。用户通过 `/create-canvas` 指令创建画布，Copilot 可动态更新内容，用户则通过点击、编辑等操作与同一工作区交互。示例包括快速分类 Issue、生成交互式代码库关系图、管理会话工作树、优化提示词质量以及跨平台搜索知识联系人。",
-    "url": "https://github.blog/ai-and-ml/github-copilot/how-to-build-interactive-experiences-with-canvases",
-    "published": "2026-07-21T16:00:00.000Z",
-    "source": "GitHub Blog",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "Claude Cowork 新增技能录制功能",
-    "summary": "Claude Cowork 新功能：教 Claude 一项技能。\n录制你执行任务时的屏幕操作，边做边讲解，Claude 会将其转化为可重复运行的技能。在 Claude 桌面应用的 + 菜单中找到\"录制技能\"即可使用。\n适用于 Pro、Max 和 Team 套餐。",
-    "url": "https://x.com/claudeai/status/2079595988998554047",
-    "published": "2026-07-21T15:54:55.000Z",
-    "source": "X：Claude (@claudeai)",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "ABot-World-0：单张桌面级GPU实现无限交互式世界生成",
-    "summary": "ABot-World-0是一个动作条件视频世界模型，能在单张NVIDIA RTX 5090 GPU上以720P分辨率、最高16 FPS、1.2秒动作到首帧延迟和约19 GiB峰值显存预算运行无限交互式世界生成。该模型采用统一的帧同步键盘动作接口，通过LongForcing分布匹配阶段解决长程自回归漂移问题，并集成轻量级VAE解码器、低比特DiT推理和局部上下文KV缓存等系统级优化。",
-    "url": "https://arxiv.org/abs/2607.19191",
-    "published": "2026-07-21T15:26:50.000Z",
-    "source": "HuggingFace Daily Papers（社区热门论文）",
-    "source_weight": "high",
-    "category": "paper"
-  },
-  {
-    "title": "Anthropic 团队透露 Claude Tag 承担 65% 产品工程 PR，系统提示词缩减 80%",
-    "summary": "Anthropic 的 Cat Wu 和 Thariq Shihipar 在炉边对话中透露，Claude Tag 现已承担 Claude Code 团队 65% 的产品工程 PR。Claude Code 系统提示词最近缩减了 80%，团队越来越多地依赖自动化代码审查处理产品\"外层\"变更。Fable 已能一次性完成大量功能实现，Thariq 还用它编辑了自己的产品发布视频。",
-    "url": "https://simonwillison.net/2026/Jul/21/cat-and-thariq",
-    "published": "2026-07-21T12:54:02.000Z",
-    "source": "Simon Willison 博客",
-    "source_weight": "high",
-    "category": "tip"
+    "category": "industry"
   },
   {
     "title": "The screens are getting demoted",
@@ -202,24 +220,6 @@
     "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/design-experiments-are-more-important-than-ever-and-they-dont-require-a-lab-a81d68e97393?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/640/1*A5E8b6vOVWtT6BxngXMw1A.jpeg\" width=\"640\" /></a></p><p class=\"medium-feed-snippet\">If design experiments scare you? Take a page from design leaders and call them bets.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/design-experi",
     "url": "https://uxdesign.cc/design-experiments-are-more-important-than-ever-and-they-dont-require-a-lab-a81d68e97393?source=rss----138adf9c44c---4",
     "published": "Tue, 21 Jul 2026 11:02:04 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Weaponizing And Defending The React Flight Protocol: Deserialization Sinks In RSCs",
-    "summary": "While React Server Components rely on the custom Flight protocol to stream interactive UIs, this same mechanism introduces powerful deserialization sinks that attackers can exploit. Durgesh Pawar breaks down the mechanics behind the CVSS 10.0 “React2Shell” vulnerability to show how protocol manipulation can lead to remote code execution.",
-    "url": "https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/",
-    "published": "Tue, 21 Jul 2026 10:00:00 GMT",
-    "source": "Smashing Magazine",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Research shouldn’t end in a deck",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/research-shouldnt-end-in-a-deck-fe7c1d4fe1af?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*se3guCvHdXjoiSqy4yH82Q.png\" width=\"2880\" /></a></p><p class=\"medium-feed-snippet\">How I use Claude Code to challenge assumptions and turn research into a living artifact</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/research-shouldnt-end-in-a-deck-fe7c1d4fe1af?source=r",
-    "url": "https://uxdesign.cc/research-shouldnt-end-in-a-deck-fe7c1d4fe1af?source=rss----138adf9c44c---4",
-    "published": "Mon, 20 Jul 2026 22:02:20 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
