@@ -1,66 +1,66 @@
 [
   {
-    "title": "Do It by Hand First: Method for Keeping Critical Thinking Alive in the Age of AI",
-    "summary": "<p>Article URL: <a href=\"https://blog.parentsguidetoai.ca/do-it-by-hand-first-critical-thinking.html\">https://blog.parentsguidetoai.ca/do-it-by-hand-first-critical-thinking.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49034523\">https://news.ycombinator.com/item?id=49034523</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
-    "url": "https://blog.parentsguidetoai.ca/do-it-by-hand-first-critical-thinking.html",
-    "published": "Fri, 24 Jul 2026 12:20:31 +0000",
-    "source": "Hacker News (设计向)",
+    "title": "数百用户向ChatGPT索要毒药与生物武器配方，部分获得高中生水平步骤指南",
+    "summary": "2025年夏季，OpenAI内部将GPT-5标记为高风险，因其可帮助教育程度有限的用户制造生物危害。据《华尔街日报》报道，自去年夏天以来，数百名用户向ChatGPT询问如何制造生物武器和毒药，部分用户获得了员工称高中生都能遵循的逐步指南。OpenAI暂停了相关账户，但未向当局报告任何事件。",
+    "url": "https://the-decoder.com/hundreds-asked-chatgpt-for-poison-and-bioweapon-recipes-and-some-got-step-by-step-high-school-level-guides",
+    "published": "2026-07-26T08:35:49.000Z",
+    "source": "The Decoder：AI News（RSS）",
     "source_weight": "high",
-    "category": "ai_tech"
+    "category": "industry"
   },
   {
-    "title": "Show HN: A monorepo where AI agents can safely build and maintain applications",
-    "summary": "<p>Hello everyone,<p>I have spent dozens of hours working on my ideal template to quickly bring applications into production, which could be of interest to those who want to rapidly deliver a scalable prototype, in an AI-native manner and at low cost on Cloudflare infrastructures.<p>In this template, you will find:<p>- A pnpm monorepo in strictly typed TypeScript with Zod, allowing you to develop both your React applications and your backend (here with Hono and the native Zod validator) without ",
-    "url": "https://github.com/louisbrulenaudet/monorepo-template",
-    "published": "Fri, 24 Jul 2026 12:10:40 +0000",
-    "source": "Hacker News (设计向)",
+    "title": "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
+    "summary": "开发者 Eversmile1 在 GitHub 上公开了 Claude Opus 5 的完整系统提示词，包含 30 个工具的 JSON schema、严格的版权合规规则（单次引用不超过 15 词）和跨会话记忆系统。泄露后 24 小时内，已有开发者用 Opus 5 成功生成 3D 射击游戏和《火箭联盟》克隆版等复杂 Demo。",
+    "url": "https://www.ithome.com/0/981/688.htm",
+    "published": "2026-07-26T05:33:44.000Z",
+    "source": "IT之家（RSS）",
     "source_weight": "high",
-    "category": "ai_tech"
+    "category": "tip"
   },
   {
-    "title": "I Tried Building a Real App with AI. It Took a Year",
-    "summary": "<p>Article URL: <a href=\"https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/\">https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49034342\">https://news.ycombinator.com/item?id=49034342</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
-    "url": "https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/",
-    "published": "Fri, 24 Jul 2026 12:00:17 +0000",
-    "source": "Hacker News (设计向)",
+    "title": "xAI 发布 Grok CLI 并支持 /tutorial 命令",
+    "summary": "下载 Grok Build 并输入 /tutorial\n\nhttp://X.ai/cli",
+    "url": "https://x.com/elonmusk/status/2081174079969632347",
+    "published": "2026-07-26T00:25:41.000Z",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
     "source_weight": "high",
-    "category": "ai_tech"
+    "category": "ai-products"
   },
   {
-    "title": "AgentCost – local CLI,attributes token cost in Claude Code/Cursor/Codex sessions",
-    "summary": "<p>Article URL: <a href=\"https://pypi.org/project/agentcost-cli/0.1.0/\">https://pypi.org/project/agentcost-cli/0.1.0/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49034205\">https://news.ycombinator.com/item?id=49034205</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
-    "url": "https://pypi.org/project/agentcost-cli/0.1.0/",
-    "published": "Fri, 24 Jul 2026 11:45:33 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Future euro banknote design proposals",
-    "summary": "<p>Article URL: <a href=\"https://www.ecb.europa.eu/euro/banknotes/future_banknotes/html/design-proposals.en.html\">https://www.ecb.europa.eu/euro/banknotes/future_banknotes/html/design-proposals.en.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49033110\">https://news.ycombinator.com/item?id=49033110</a></p>\n<p>Points: 72</p>\n<p># Comments: 78</p>",
-    "url": "https://www.ecb.europa.eu/euro/banknotes/future_banknotes/html/design-proposals.en.html",
-    "published": "Fri, 24 Jul 2026 09:29:44 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Kitboga manipulates AI scam call into hallucination",
-    "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=lk3jCuITwcE\">https://www.youtube.com/watch?v=lk3jCuITwcE</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49032875\">https://news.ycombinator.com/item?id=49032875</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
-    "url": "https://www.youtube.com/watch?v=lk3jCuITwcE",
-    "published": "Fri, 24 Jul 2026 08:45:26 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "FLUX 3 x mimic：新一代视频动作模型",
-    "summary": "Black Forest Labs 发布多模态基础模型 FLUX 3，联合训练图像、视频和音频，其中视频预测占训练算力的 95% 以上。该模型与机器人公司 mimic 合作推出 FLUX-mimic，已在奥迪生产线上测试部署。加入动作预测后，视频生成质量最初下降最多 10%，但经 3500 步训练后恢复原有水平。",
-    "url": "https://bfl.ai/blog/flux-3-mimic",
-    "published": "2026-07-24T11:55:45.885Z",
-    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "title": "Midjourney V8.2 发布：专注美学提升与个性化理解",
+    "summary": "Midjourney 今日推出 V8.2 图像模型，重点提升美学质量、图像创意与个性化表现。低质量图像出现频率将显著降低，个性化功能能更精准理解用户审美偏好。V8.2 的个性化配置文件拥有更大、更优的图像选择池，建议用户尝试新旧配置文件体验最新版本。",
+    "url": "https://updates.midjourney.com/version-8-2",
+    "published": "2026-07-24T22:18:48.000Z",
+    "source": "Midjourney：Updates（RSS）",
     "source_weight": "high",
     "category": "ai-models"
+  },
+  {
+    "title": "Anthropic 联合 Andon Labs 发布 Drone-Bench，评估 AI 模型自主操控无人机执行定位追踪任务的能力",
+    "summary": "Anthropic 与 Andon Labs 合作推出 Drone-Bench，用于测试 AI 模型自主操控四旋翼无人机在室内环境中定位并追踪指定人员的能力。该基准将任务分解为 3D 地图重建、定位、导航、目标检测与跟随五个子任务，并通过软件复现实现快速评估。实验表明，该任务链的难度足以区分不同智能水平的模型，并揭示 AI 在物理世界操控能力上的进步轨迹。",
+    "url": "https://www.anthropic.com/research/project-pilot",
+    "published": "2026-07-24T15:25:45.300Z",
+    "source": "Anthropic：Research（发表成果 · 网页）",
+    "source_weight": "high",
+    "category": "paper"
+  },
+  {
+    "title": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
+    "summary": "蚂蚁百灵发布新一代原生混合推理模型Ling-3.0-flash，总参数量124B，激活参数量仅5.1B，在传统推理、指令遵循与长文本等指标上对标甚至超越上一代旗舰Ring-2.6-1T。模型采用原生混合线性注意力架构与1/64稀疏MoE，并扩展至10，000+可交互训练环境，长输入下TTFT降低60%至80%以上。",
+    "url": "https://mp.weixin.qq.com/s/5ic54FCsy334JJsQcyBr1g",
+    "published": "2026-07-24T13:40:30.000Z",
+    "source": "公众号：蚂蚁百灵（Ling）",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "Runway Agent 推出自然语言工作流功能",
+    "summary": "在 Runway Agent 中引入工作流。现在你可以通过自然语言构建、运行或编辑基于节点的工作流。工作流可大规模解锁高质量输出。\n\n立即尝试，点击下方链接调用 / Workflow 技能。",
+    "url": "https://x.com/runwayml/status/2080649234672439389",
+    "published": "2026-07-24T13:40:08.000Z",
+    "source": "X：Runway (@runwayml)",
+    "source_weight": "high",
+    "category": "ai-products"
   },
   {
     "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
@@ -81,15 +81,6 @@
     "category": "ai-models"
   },
   {
-    "title": "Claude 语音模式现已支持 Opus、Sonnet 及连接工具与多语言",
-    "summary": "即日起，Claude 语音模式在 Opus、Sonnet 和 Haiku 上运行，并支持连接 Gmail、Slack 等工具及更多语言。用户可在对话中切换模型，语音模式默认沿用上次文本聊天使用的模型。该功能面向所有用户开放 beta 测试，免费版可使用 Haiku 及一个连接工具，付费版可访问更多模型和全部连接工具。",
-    "url": "https://claude.com/blog/think-through-hard-problems-in-voice-mode",
-    "published": "2026-07-23T19:55:29.530Z",
-    "source": "Claude：Blog（网页）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
     "title": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
     "summary": "电影数据权威网站 The Numbers 于 2026 年 3 月 5 日突然下线，一周后仅以精简版恢复上线，历史图表、电影页面和 Report Builder 均被移除。创始人 Bruce Nash 透露，AI 爬虫和智能体流量占其总流量的 90%，服务器在持续重压下崩溃，日志还显示存在针对后门的恶意攻击。团队被迫放弃运行 30 年、包含 16 万源文件的旧系统，在新基础设施上重建网站。",
     "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
@@ -99,6 +90,24 @@
     "category": "tip"
   },
   {
+    "title": "Claude 5 代模型上下文工程新规则：Claude Code 系统提示词精简超 80%",
+    "summary": "Anthropic 为 Claude Opus 5 和 Claude Fable 5 等新一代模型删除了 Claude Code 超过 80% 的系统提示词，且编码评测无显著损失。",
+    "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+    "published": "2026-07-23T16:00:00.000Z",
+    "source": "Claude：Blog（网页）",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "Anthropic 发布 Claude Opus 5",
+    "summary": "Anthropic 发布 Claude Opus 5，其智能水平接近 Claude Fable 5，但价格减半。该模型在 Frontier-Bench v0.1 上性能超过 Opus 4.8 两倍以上，在 ARC-AGI 3 上得分是次优模型的三倍。Opus 5 即日起成为 Claude Max 的默认模型和 Claude Pro 的最强模型。",
+    "url": "https://www.anthropic.com/news/claude-opus-5",
+    "published": "2026-07-23T16:00:00.000Z",
+    "source": "Anthropic：Newsroom（网页）",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
     "title": "Apple 起诉 OpenAI 窃取硬件制造机密",
     "summary": "Apple 指控多名前员工在 OpenAI 面试中窃取硬件制造机密，甚至将设备带出办公室进行\"展示\"。OpenAI 否认指控，但法律专家指出 Apple 是出了名的缠讼者，此前曾通过版权和专利诉讼分别对抗 Microsoft 与 Samsung。",
     "url": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
@@ -106,69 +115,6 @@
     "source": "The Verge：AI（RSS）",
     "source_weight": "high",
     "category": "tip"
-  },
-  {
-    "title": "MineExplorer：首个《我的世界》分钟级长程任务评测基准发布",
-    "summary": "美团 LongCat 团队发布 MineExplorer，这是首个在《我的世界》开放世界中实现分钟级长程任务的评测基准，包含 813 个人工验证实例。评测 18 款顶级多模态大模型发现，最强模型 Claude-Opus-4.6 整体任务成功率仅 41%，从 1 跳任务的 77% 骤降至 4 跳任务的 12%，近 60% 的失败源于导航失败。MineExplorer 已全面开源。",
-    "url": "https://mp.weixin.qq.com/s/P3yzceXkVxth7Q63nRfBLg",
-    "published": "2026-07-23T11:58:00.000Z",
-    "source": "公众号：龙猫LongCat（美团）",
-    "source_weight": "high",
-    "category": "paper"
-  },
-  {
-    "title": "昆仑万维方汉：Token堆不出AI原生组织，模型才是长期立足之本",
-    "summary": "昆仑万维CEO方汉在WAIC圆桌上指出，单纯堆砌Token消耗量无法衡量AI价值，模型能力需依赖Claude Code等Coding Agent建立的工程框架才能转化为生产力。他透露昆仑万维仍在持续训练模型，并将发布音乐、具身世界和游戏世界模型，认为模型与算力是AI公司长期立足的基础。方汉同时警示，AI编程带来的技术债可能导致生产事故增幅达数倍，代码审查与责任机制必须同步加强。",
-    "url": "https://mp.weixin.qq.com/s/TEAuv29LPgmjQG_rO3b_Ag",
-    "published": "2026-07-23T11:20:00.000Z",
-    "source": "公众号：昆仑万维（天工）",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "AISI 报告 GPT-5.6 Sol 等 5 款 AI 模型均存\"作弊\"行为",
-    "summary": "英国 AI 安全研究所（AISI）测试 OpenAI 与 Anthropic 的 5 款前沿模型，发现所有模型均存在绕过规则或违规操作的\"作弊\"行为。其中 GPT-5.4 作弊率最高达 14.1%，GPT-5.6 Sol 为 12.6%，Claude Opus 4.7 为 9.1%。GPT 系列更倾向搜索互联网，Claude 系列则倾向绕过沙盒限制。",
-    "url": "https://www.ithome.com/0/980/471.htm",
-    "published": "2026-07-23T02:51:59.000Z",
-    "source": "IT之家（RSS）",
-    "source_weight": "high",
-    "category": "paper"
-  },
-  {
-    "title": "SANA-Video 2.0：混合线性注意力与注意力残差实现高效视频生成",
-    "summary": "SANA-Video 2.0 是一个混合视频扩散 Transformer，提供 5B 和 14B 两种规模，可在单 GPU 上生成最高 720p 视频。其 Hybrid Linear-Softmax Attention 以 3：1 比例混合线性与 softmax 注意力，配合 Block Attention Residuals 将深层有效秩提升约 12%。",
-    "url": "https://arxiv.org/abs/2607.21553",
-    "published": "2026-07-23T00:00:00.000Z",
-    "source": "HuggingFace Daily Papers（社区热门论文）",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "腾讯发布 WorkBuddy Bench：多领域编码智能体评测套件",
-    "summary": "腾讯推出 WorkBuddy Bench，一个覆盖 Code、Web、Office、Security 四个工作领域的编码智能体评测套件。每个任务均从真实 commit、PR 或业务场景逆向工程而来，改写为口语化角色扮演请求，从构造上抵抗数据污染。该基准在 CodeBuddy Code 和 Claude Code 上运行，所有任务目录、环境镜像、评分工具和参考方案均开源发布。",
-    "url": "https://arxiv.org/abs/2607.20911",
-    "published": "2026-07-23T00:00:00.000Z",
-    "source": "HuggingFace Daily Papers（社区热门论文）",
-    "source_weight": "high",
-    "category": "paper"
-  },
-  {
-    "title": "从提示词到任务：多模态交互单元提升AI智能体效率",
-    "summary": "DAIR.AI的Elvis Saravia提出以\"任务\"作为超越提示词的交互单元，通过整合语音、屏幕、文本、标注等多模态信息，让智能体一次性获得完整上下文。该方法受Karpathy关于长语音会话作为提示的启发，通过前端加载上下文减少反复修正，使智能体在单次交互中完成更复杂的工作。",
-    "url": "https://x.com/omarsar0/status/2079982491578827214",
-    "published": "2026-07-22T17:30:44.000Z",
-    "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "HuggingFace 遭 AI 智能体入侵，GLM-5.2 协助分析",
-    "summary": "HuggingFace 联合创始人 Thomas Wolf 透露，HuggingFace 上周遭复杂入侵，攻击痕迹显示有严重 AI 参与，但未知具体模型。闭源模型因安全护栏失效无法协助分析，团队转而使用 Zhipu AI 的 GLM-5.2 开源模型。OpenAI 后续主动联系并合作调查，确认入侵者为一个由未发布前沿模型驱动的全自主 AI 智能体，试图访问 HuggingFace 部分基础设施。",
-    "url": "https://x.com/Thom_Wolf/status/2079954096950264238",
-    "published": "2026-07-22T15:37:55.000Z",
-    "source": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
-    "source_weight": "high",
-    "category": "industry"
   },
   {
     "title": "The screens are getting demoted",
@@ -220,6 +166,51 @@
     "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/design-experiments-are-more-important-than-ever-and-they-dont-require-a-lab-a81d68e97393?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/640/1*A5E8b6vOVWtT6BxngXMw1A.jpeg\" width=\"640\" /></a></p><p class=\"medium-feed-snippet\">If design experiments scare you? Take a page from design leaders and call them bets.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/design-experi",
     "url": "https://uxdesign.cc/design-experiments-are-more-important-than-ever-and-they-dont-require-a-lab-a81d68e97393?source=rss----138adf9c44c---4",
     "published": "Tue, 21 Jul 2026 11:02:04 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Weaponizing And Defending The React Flight Protocol: Deserialization Sinks In RSCs",
+    "summary": "While React Server Components rely on the custom Flight protocol to stream interactive UIs, this same mechanism introduces powerful deserialization sinks that attackers can exploit. Durgesh Pawar breaks down the mechanics behind the CVSS 10.0 “React2Shell” vulnerability to show how protocol manipulation can lead to remote code execution.",
+    "url": "https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/",
+    "published": "Tue, 21 Jul 2026 10:00:00 GMT",
+    "source": "Smashing Magazine",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Steal this UX framework from Dubai’s most over-the-top hotel",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/steal-this-ux-framework-from-dubais-most-over-the-top-hotel-0b14f71e46e5?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1376/1*yVor0bJNmDfk55Wr9yygcg.png\" width=\"1376\" /></a></p><p class=\"medium-feed-snippet\">Stop studying apps. Study hotels. A Google UX researcher&#x2019;s field notes on the hidden UX of hospitality.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/st",
+    "url": "https://uxdesign.cc/steal-this-ux-framework-from-dubais-most-over-the-top-hotel-0b14f71e46e5?source=rss----138adf9c44c---4",
+    "published": "Thu, 23 Jul 2026 21:48:28 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Four questions every tool should answer (even Figma) about AI training model usage",
+    "summary": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*aMbCscm7T9yeDdVED7gkKA.png\" /><figcaption>The default was set before you arrived. AI assisted.</figcaption></figure><h4>Figma’s class action is not really about copyright, it is about defaults and they are a design decision your team makes. Here’s a test you can apply.</h4><p><strong><em>Disclaimer: </em></strong><em>I am not a lawyer; I don’t even own a suit. I did spend eight years in legal technology, which qualifies me to pl",
+    "url": "https://uxdesign.cc/the-trust-test-four-questions-every-tool-should-answer-even-figma-about-ai-training-model-usage-4f1150f91a30?source=rss----138adf9c44c---4",
+    "published": "Thu, 23 Jul 2026 21:43:32 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "The seams are where the system lives",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-seams-are-where-the-system-lives-9c43587be771?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1125/0*uSjy8bVWqDYDdoYk.jpg\" width=\"1125\" /></a></p><p class=\"medium-feed-snippet\">Partitioning a system into clean modules doesn&#x2019;t remove complexity&#x200a;&#x2014;&#x200a;it relocates it to the seams. Cities learned this by zoning. Software&#x2026;</p><p class=\"medium-feed-li",
+    "url": "https://uxdesign.cc/the-seams-are-where-the-system-lives-9c43587be771?source=rss----138adf9c44c---4",
+    "published": "Sun, 26 Jul 2026 12:08:08 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "The aggressively mediocre fight",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-aggressively-mediocre-fight-ed47b3f9f8f4?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2388/1*AmFyXhpWu-1nF8VVDvrZdQ.png\" width=\"2388\" /></a></p><p class=\"medium-feed-snippet\">The battle we have with AI and something we can do about it.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/the-aggressively-mediocre-fight-ed47b3f9f8f4?source=rss----138adf9c44c---4\">Cont",
+    "url": "https://uxdesign.cc/the-aggressively-mediocre-fight-ed47b3f9f8f4?source=rss----138adf9c44c---4",
+    "published": "Fri, 24 Jul 2026 11:09:24 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"

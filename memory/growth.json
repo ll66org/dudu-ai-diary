@@ -1,5 +1,5 @@
 {
-  "day_count": 92,
+  "day_count": 94,
   "history": [
     {
       "day": 20,
@@ -489,6 +489,13 @@
       "date": "2026-07-24",
       "topic": "FLUX 3 x mimic：新一代视频动作模型",
       "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "mode": "rss"
+    },
+    {
+      "day": 94,
+      "date": "2026-07-26",
+      "topic": "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
+      "source": "IT之家（RSS）",
       "mode": "rss"
     }
   ],
