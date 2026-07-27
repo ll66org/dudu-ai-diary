@@ -1,5 +1,29 @@
 [
   {
+    "title": "当编码不再是瓶颈：Berkeley RDI 提出软件自主开发三级框架",
+    "summary": "Berkeley RDI等机构提出三级软件自主开发框架：代码自主（AI完成设计与实现，人类决定构建内容并审核PR）、流水线自主（AI运行从设计到部署的全流程，人类仅评估结果）、需求自主（AI自主决定构建内容）。该框架旨在为能力声明、部署选择与问责提供清晰分类。",
+    "source": "Berkeley RDI：Blog（AI 安全与评测）",
+    "url": "https://rdi.berkeley.edu/blog/auto-software-dev",
+    "published_at": "2026-07-27T07:51:26.272Z",
+    "category": "tip"
+  },
+  {
+    "title": "浪费20亿Token后，我开源了帮Agent定义目标的Leader.skill",
+    "summary": "作者开源了Leader.skill，用于将模糊的人类需求转化为Agent可独立执行数小时的目标任务书。该Skill基于\"目标七问\"方法论，涵盖目的、完成态、反作弊、边界等维度，并推荐用Claude Fable 5或Kimi K3规划目标，再交由GPT-5.6 Sol或GLM-5.2等模型长程执行。项目已开源。",
+    "source": "公众号：数字生命卡兹克",
+    "url": "https://mp.weixin.qq.com/s/AwOk3di8m6eVeIUjzNftgg",
+    "published_at": "2026-07-27T00:12:00.000Z",
+    "category": "tip"
+  },
+  {
+    "title": "Suno 推出多项新功能，含MIDI导出等",
+    "summary": "我们一直在以比以往更快的速度构建！🚀\n\n以下是网页端和移动端的新功能一览：\n\n• 高级音轨分离 • 将音轨导出为 MIDI • 歌词合写与自动保存 • 截图生成歌曲 • Apple CarPlay 与 Android Auto\n\n你最期待 Suno 的哪些新功能？",
+    "source": "X：Suno (@suno)",
+    "url": "https://x.com/suno/status/2081443050312843765",
+    "published_at": "2026-07-26T18:14:29.000Z",
+    "category": "ai-products"
+  },
+  {
     "title": "数百用户向ChatGPT索要毒药与生物武器配方，部分获得高中生水平步骤指南",
     "summary": "2025年夏季，OpenAI内部将GPT-5标记为高风险，因其可帮助教育程度有限的用户制造生物危害。据《华尔街日报》报道，自去年夏天以来，数百名用户向ChatGPT询问如何制造生物武器和毒药，部分用户获得了员工称高中生都能遵循的逐步指南。OpenAI暂停了相关账户，但未向当局报告任何事件。",
     "source": "The Decoder：AI News（RSS）",
@@ -14,29 +38,5 @@
     "url": "https://www.ithome.com/0/981/688.htm",
     "published_at": "2026-07-26T05:33:44.000Z",
     "category": "tip"
-  },
-  {
-    "title": "xAI 发布 Grok CLI 并支持 /tutorial 命令",
-    "summary": "下载 Grok Build 并输入 /tutorial\n\nhttp://X.ai/cli",
-    "source": "X：Elon Musk (@elonmusk, xAI)",
-    "url": "https://x.com/elonmusk/status/2081174079969632347",
-    "published_at": "2026-07-26T00:25:41.000Z",
-    "category": "ai-products"
-  },
-  {
-    "title": "Midjourney V8.2 发布：专注美学提升与个性化理解",
-    "summary": "Midjourney 今日推出 V8.2 图像模型，重点提升美学质量、图像创意与个性化表现。低质量图像出现频率将显著降低，个性化功能能更精准理解用户审美偏好。V8.2 的个性化配置文件拥有更大、更优的图像选择池，建议用户尝试新旧配置文件体验最新版本。",
-    "source": "Midjourney：Updates（RSS）",
-    "url": "https://updates.midjourney.com/version-8-2",
-    "published_at": "2026-07-24T22:18:48.000Z",
-    "category": "ai-models"
-  },
-  {
-    "title": "Anthropic 联合 Andon Labs 发布 Drone-Bench，评估 AI 模型自主操控无人机执行定位追踪任务的能力",
-    "summary": "Anthropic 与 Andon Labs 合作推出 Drone-Bench，用于测试 AI 模型自主操控四旋翼无人机在室内环境中定位并追踪指定人员的能力。该基准将任务分解为 3D 地图重建、定位、导航、目标检测与跟随五个子任务，并通过软件复现实现快速评估。实验表明，该任务链的难度足以区分不同智能水平的模型，并揭示 ",
-    "source": "Anthropic：Research（发表成果 · 网页）",
-    "url": "https://www.anthropic.com/research/project-pilot",
-    "published_at": "2026-07-24T15:25:45.300Z",
-    "category": "paper"
   }
 ]

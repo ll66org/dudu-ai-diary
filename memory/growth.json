@@ -1,5 +1,5 @@
 {
-  "day_count": 94,
+  "day_count": 95,
   "history": [
     {
       "day": 20,
@@ -496,6 +496,13 @@
       "date": "2026-07-26",
       "topic": "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
       "source": "IT之家（RSS）",
+      "mode": "rss"
+    },
+    {
+      "day": 95,
+      "date": "2026-07-27",
+      "topic": "当编码不再是瓶颈：Berkeley RDI 提出软件自主开发三级框架",
+      "source": "Berkeley RDI：Blog（AI 安全与评测）",
       "mode": "rss"
     }
   ],

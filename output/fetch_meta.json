@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-07-26T12:41:04.181196Z",
-  "total_candidates": 24,
+  "fetched_at": "2026-07-27T13:55:18.255314Z",
+  "total_candidates": 23,
   "source_stats": {
     "Figma Blog": {
       "found": 0,
@@ -51,8 +51,8 @@
       "total": 20
     },
     "Hacker News (设计向)": {
-      "found": 0,
-      "total": 0
+      "found": 5,
+      "total": 20
     },
     "Product Hunt": {
       "found": 0,
@@ -64,27 +64,27 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 94,
-  "today_date": "2026-07-26",
+  "dudu_day": 95,
+  "today_date": "2026-07-27",
   "used_titles": [
-    "Schema Harness 在 ARC-AGI-3 公开集上取得约 99% 成绩",
     "Cursor 评估负责人确认 Claude Fable 5 在 CursorBench 达 72.9% 新高",
     "上海科学智能研究院开放科学多模态基础模型\"神珍\"",
     "通义千问发布 Qwen-Image-3.0 图像生成模型，核心关键词为\"实\"",
     "实测Qwen-Image-3.0：19大场景挑战GPT Image2，中文长文本与多图融合表现亮眼",
     "通义千问发布Qwen-Audio-3.0-TTS，登顶TTS排行榜",
-    "FLUX 3 x mimic：新一代视频动作模型"
+    "FLUX 3 x mimic：新一代视频动作模型",
+    "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token"
   ],
   "used_tools": [
-    "Hacker News 热门（buzzing.cc 中文翻译）",
     "Claude：Blog（网页）",
     "IT之家（RSS）",
     "Qwen：Blog Retrieval（API）",
     "公众号：卡尔的AI沃茨",
     "X：通义千问 / Qwen (@Alibaba_Qwen)",
-    "Hacker News 热门（buzzing.cc 中文翻译）"
+    "Hacker News 热门（buzzing.cc 中文翻译）",
+    "IT之家（RSS）"
   ],
-  "briefing_total": 29,
-  "briefing_design": 14,
+  "briefing_total": 14,
+  "briefing_design": 8,
   "briefing_count": 5
 }

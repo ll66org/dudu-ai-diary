@@ -1,5 +1,77 @@
 [
   {
+    "title": "Euro budget airline UX dark patterns showdown 2026",
+    "summary": "<p>Article URL: <a href=\"https://blog.osull.com/2026/07/27/euro-budget-airline-ux-dark-patterns-showdown-2026/\">https://blog.osull.com/2026/07/27/euro-budget-airline-ux-dark-patterns-showdown-2026/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49069315\">https://news.ycombinator.com/item?id=49069315</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://blog.osull.com/2026/07/27/euro-budget-airline-ux-dark-patterns-showdown-2026/",
+    "published": "Mon, 27 Jul 2026 13:18:37 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Epoch-Bound Attested Execution v0.5: Bounding AI Agents' Real-World Authority",
+    "summary": "<p>Article URL: <a href=\"https://zenodo.org/records/21625403\">https://zenodo.org/records/21625403</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49069074\">https://news.ycombinator.com/item?id=49069074</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://zenodo.org/records/21625403",
+    "published": "Mon, 27 Jul 2026 12:59:54 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Building to Be Corrected: teachability as a vital sign for AI",
+    "summary": "<p>Article URL: <a href=\"https://stoicmarcus.substack.com/p/building-to-be-corrected\">https://stoicmarcus.substack.com/p/building-to-be-corrected</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49069003\">https://news.ycombinator.com/item?id=49069003</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://stoicmarcus.substack.com/p/building-to-be-corrected",
+    "published": "Mon, 27 Jul 2026 12:54:47 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Show HN: We killed our AI stock analysis and kept the news feed (API and MCP)",
+    "summary": "<p>I run AlphaAI, it is a news feed for trading agents, REST plus MCP. Before it was \"AI stock analysis\" site. \nThat version demoed great and made no money. i was paying for market data, users was not paying me. Nobody buys prompt output, everyone already has own ChatGPT or Claude and own prompts. The only thing people were watching was the news feed with ratings, so I built a new product around this feature and it turned out to be really useful.<p>What's under the hood: GDELT parsing, SEC EDGAR",
+    "url": "https://alphai.io/developers",
+    "published": "Mon, 27 Jul 2026 12:23:12 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Rust Terminal UI Library",
+    "summary": "<p>Article URL: <a href=\"https://github.com/aymanbagabas/uncurses\">https://github.com/aymanbagabas/uncurses</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49068630\">https://news.ycombinator.com/item?id=49068630</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "url": "https://github.com/aymanbagabas/uncurses",
+    "published": "Mon, 27 Jul 2026 12:22:46 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "当编码不再是瓶颈：Berkeley RDI 提出软件自主开发三级框架",
+    "summary": "Berkeley RDI等机构提出三级软件自主开发框架：代码自主（AI完成设计与实现，人类决定构建内容并审核PR）、流水线自主（AI运行从设计到部署的全流程，人类仅评估结果）、需求自主（AI自主决定构建内容）。该框架旨在为能力声明、部署选择与问责提供清晰分类。",
+    "url": "https://rdi.berkeley.edu/blog/auto-software-dev",
+    "published": "2026-07-27T07:51:26.272Z",
+    "source": "Berkeley RDI：Blog（AI 安全与评测）",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "浪费20亿Token后，我开源了帮Agent定义目标的Leader.skill",
+    "summary": "作者开源了Leader.skill，用于将模糊的人类需求转化为Agent可独立执行数小时的目标任务书。该Skill基于\"目标七问\"方法论，涵盖目的、完成态、反作弊、边界等维度，并推荐用Claude Fable 5或Kimi K3规划目标，再交由GPT-5.6 Sol或GLM-5.2等模型长程执行。项目已开源。",
+    "url": "https://mp.weixin.qq.com/s/AwOk3di8m6eVeIUjzNftgg",
+    "published": "2026-07-27T00:12:00.000Z",
+    "source": "公众号：数字生命卡兹克",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "Suno 推出多项新功能，含MIDI导出等",
+    "summary": "我们一直在以比以往更快的速度构建！🚀\n\n以下是网页端和移动端的新功能一览：\n\n• 高级音轨分离 • 将音轨导出为 MIDI • 歌词合写与自动保存 • 截图生成歌曲 • Apple CarPlay 与 Android Auto\n\n你最期待 Suno 的哪些新功能？",
+    "url": "https://x.com/suno/status/2081443050312843765",
+    "published": "2026-07-26T18:14:29.000Z",
+    "source": "X：Suno (@suno)",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
     "title": "数百用户向ChatGPT索要毒药与生物武器配方，部分获得高中生水平步骤指南",
     "summary": "2025年夏季，OpenAI内部将GPT-5标记为高风险，因其可帮助教育程度有限的用户制造生物危害。据《华尔街日报》报道，自去年夏天以来，数百名用户向ChatGPT询问如何制造生物武器和毒药，部分用户获得了员工称高中生都能遵循的逐步指南。OpenAI暂停了相关账户，但未向当局报告任何事件。",
     "url": "https://the-decoder.com/hundreds-asked-chatgpt-for-poison-and-bioweapon-recipes-and-some-got-step-by-step-high-school-level-guides",
@@ -7,15 +79,6 @@
     "source": "The Decoder：AI News（RSS）",
     "source_weight": "high",
     "category": "industry"
-  },
-  {
-    "title": "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
-    "summary": "开发者 Eversmile1 在 GitHub 上公开了 Claude Opus 5 的完整系统提示词，包含 30 个工具的 JSON schema、严格的版权合规规则（单次引用不超过 15 词）和跨会话记忆系统。泄露后 24 小时内，已有开发者用 Opus 5 成功生成 3D 射击游戏和《火箭联盟》克隆版等复杂 Demo。",
-    "url": "https://www.ithome.com/0/981/688.htm",
-    "published": "2026-07-26T05:33:44.000Z",
-    "source": "IT之家（RSS）",
-    "source_weight": "high",
-    "category": "tip"
   },
   {
     "title": "xAI 发布 Grok CLI 并支持 /tutorial 命令",
@@ -45,78 +108,6 @@
     "category": "paper"
   },
   {
-    "title": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
-    "summary": "蚂蚁百灵发布新一代原生混合推理模型Ling-3.0-flash，总参数量124B，激活参数量仅5.1B，在传统推理、指令遵循与长文本等指标上对标甚至超越上一代旗舰Ring-2.6-1T。模型采用原生混合线性注意力架构与1/64稀疏MoE，并扩展至10，000+可交互训练环境，长输入下TTFT降低60%至80%以上。",
-    "url": "https://mp.weixin.qq.com/s/5ic54FCsy334JJsQcyBr1g",
-    "published": "2026-07-24T13:40:30.000Z",
-    "source": "公众号：蚂蚁百灵（Ling）",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "Runway Agent 推出自然语言工作流功能",
-    "summary": "在 Runway Agent 中引入工作流。现在你可以通过自然语言构建、运行或编辑基于节点的工作流。工作流可大规模解锁高质量输出。\n\n立即尝试，点击下方链接调用 / Workflow 技能。",
-    "url": "https://x.com/runwayml/status/2080649234672439389",
-    "published": "2026-07-24T13:40:08.000Z",
-    "source": "X：Runway (@runwayml)",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
-    "summary": "Claude-thermos 通过本地反向代理监控 Claude Code 会话，在主智能体因等待子智能体而空闲超过 5 分钟时，自动发送预热请求刷新提示缓存。实测约 185 次本地会话中，缓存过期导致的重新编码占账单约 22%。工具以 uvx 运行，支持自定义空闲阈值和预热间隔。",
-    "url": "https://github.com/izeigerman/claude-thermos",
-    "published": "2026-07-24T09:47:29.601Z",
-    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "Black Forest Labs 发布 FLUX 3 多模态模型，支持单次生成 20 秒视频与原生音频",
-    "summary": "Black Forest Labs 以 Early Access 方式推出 FLUX 3 多模态基础模型，采用统一架构联合学习图像、视频和音频。该模型基于 Self-Flow 学习框架扩展，可在单次生成中输出最长 20 秒视频并附带原生音频，支持文生视频、图生视频、多镜头串联等任务。",
-    "url": "https://www.ithome.com/0/981/137.htm",
-    "published": "2026-07-24T06:48:04.000Z",
-    "source": "IT之家（RSS）",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
-    "summary": "电影数据权威网站 The Numbers 于 2026 年 3 月 5 日突然下线，一周后仅以精简版恢复上线，历史图表、电影页面和 Report Builder 均被移除。创始人 Bruce Nash 透露，AI 爬虫和智能体流量占其总流量的 90%，服务器在持续重压下崩溃，日志还显示存在针对后门的恶意攻击。团队被迫放弃运行 30 年、包含 16 万源文件的旧系统，在新基础设施上重建网站。",
-    "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
-    "published": "2026-07-23T18:35:29.016Z",
-    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "Claude 5 代模型上下文工程新规则：Claude Code 系统提示词精简超 80%",
-    "summary": "Anthropic 为 Claude Opus 5 和 Claude Fable 5 等新一代模型删除了 Claude Code 超过 80% 的系统提示词，且编码评测无显著损失。",
-    "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-    "published": "2026-07-23T16:00:00.000Z",
-    "source": "Claude：Blog（网页）",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "Anthropic 发布 Claude Opus 5",
-    "summary": "Anthropic 发布 Claude Opus 5，其智能水平接近 Claude Fable 5，但价格减半。该模型在 Frontier-Bench v0.1 上性能超过 Opus 4.8 两倍以上，在 ARC-AGI 3 上得分是次优模型的三倍。Opus 5 即日起成为 Claude Max 的默认模型和 Claude Pro 的最强模型。",
-    "url": "https://www.anthropic.com/news/claude-opus-5",
-    "published": "2026-07-23T16:00:00.000Z",
-    "source": "Anthropic：Newsroom（网页）",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "Apple 起诉 OpenAI 窃取硬件制造机密",
-    "summary": "Apple 指控多名前员工在 OpenAI 面试中窃取硬件制造机密，甚至将设备带出办公室进行\"展示\"。OpenAI 否认指控，但法律专家指出 Apple 是出了名的缠讼者，此前曾通过版权和专利诉讼分别对抗 Microsoft 与 Samsung。",
-    "url": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
-    "published": "2026-07-23T14:00:00.000Z",
-    "source": "The Verge：AI（RSS）",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
     "title": "The screens are getting demoted",
     "summary": "<h4>As AI products become more advanced, the interface is no longer the main focus. Now, the real question is which screens are still needed and which can serve as fallbacks.</h4><figure><img alt=\"Illustrations showing a dissapearing screen\" src=\"https://cdn-images-1.medium.com/max/1024/1*MYZNJTIK1o6qlF7KDs9T5Q.png\" /><figcaption>Illustration created by author</figcaption></figure><p>Designers often say that UX isn’t really about screens. It’s a line I see in portfolios, I hear in interviews; th",
     "url": "https://uxdesign.cc/the-screens-are-getting-demoted-6b40120fcf04?source=rss----138adf9c44c---4",
@@ -130,42 +121,6 @@
     "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-digital-wall-we-built-ourselves-e9578f774374?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1280/1*yoAsr0ISrtzXRwc3UMcS7g.jpeg\" width=\"1280\" /></a></p><p class=\"medium-feed-snippet\">Why 95.9% of the world&#x2019;s top million sites still fail the people who need them most.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/the-digital-wall-we-built-ourselves-e9578f77",
     "url": "https://uxdesign.cc/the-digital-wall-we-built-ourselves-e9578f774374?source=rss----138adf9c44c---4",
     "published": "Wed, 22 Jul 2026 11:17:21 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "I handed a UX review over to AI. Here’s what happened.",
-    "summary": "<figure><img alt=\"A cartoon blue robot looking uncertain in a messy room, illustrating AI’s role as a helpful but imperfect assistant in UX work.\" src=\"https://cdn-images-1.medium.com/max/1024/1*We3RETarXYEoHVKQy0GX_g.jpeg\" /></figure><h4>AI is a powerful partner for UX reviews, not a replacement for the expert, and the accuracy comes from the expertise you feed it, not the model.</h4><p>I got a task that isn’t complicated in itself: I had to write a UX expert review for the search, results, and",
-    "url": "https://uxdesign.cc/i-handed-a-ux-review-over-to-ai-heres-what-happened-0511e73e4ffe?source=rss----138adf9c44c---4",
-    "published": "Tue, 21 Jul 2026 21:36:57 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "AI can fake your portfolio. It can’t fake the second question.",
-    "summary": "<h4>The artifact just became the cheapest thing in hiring. The room test is the live follow-up you can’t generate, and it’s where interviews actually get decided in 2026.</h4><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*V7-aOEPvds-IyQ2Xa7YmEw.jpeg\" /><figcaption><strong>© </strong><a href=\"https://unsplash.com/@martino_pietropoli\">Martino Pietropoli</a></figcaption></figure><p>Seven or eight years ago I made it to the final round at a large international company. Four inte",
-    "url": "https://uxdesign.cc/ai-can-fake-your-portfolio-it-cant-fake-the-second-question-c89f96626f1c?source=rss----138adf9c44c---4",
-    "published": "Tue, 21 Jul 2026 21:36:22 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "The feature trap",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-feature-trap-how-product-teams-confuse-building-with-validating-24b13f865f2e?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*zS6lwnxmDJgpYQR2\" width=\"5184\" /></a></p><p class=\"medium-feed-snippet\">How product teams confuse building with validating</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/the-feature-trap-how-product-teams-confuse-building-with-validat",
-    "url": "https://uxdesign.cc/the-feature-trap-how-product-teams-confuse-building-with-validating-24b13f865f2e?source=rss----138adf9c44c---4",
-    "published": "Tue, 21 Jul 2026 21:35:59 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Design experiments are more important than ever, and they don’t require a lab",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/design-experiments-are-more-important-than-ever-and-they-dont-require-a-lab-a81d68e97393?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/640/1*A5E8b6vOVWtT6BxngXMw1A.jpeg\" width=\"640\" /></a></p><p class=\"medium-feed-snippet\">If design experiments scare you? Take a page from design leaders and call them bets.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/design-experi",
-    "url": "https://uxdesign.cc/design-experiments-are-more-important-than-ever-and-they-dont-require-a-lab-a81d68e97393?source=rss----138adf9c44c---4",
-    "published": "Tue, 21 Jul 2026 11:02:04 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
@@ -198,10 +153,46 @@
     "category": "design_communities"
   },
   {
+    "title": "Information architecture is the foundation artificial intelligence is starving for",
+    "summary": "<figure><img alt=\"Information architecture is the orderly wing. Most content stores are the heap at the edge of the frame.\" src=\"https://cdn-images-1.medium.com/max/1024/1*pxAvPzvnXUKZemNF5g8rZw.png\" /><figcaption>Information architecture is the orderly wing. Most content stores are the heap at the edge of the frame. AI assisted.</figcaption></figure><h4>Every AI problem you chase — hallucinations, wrong answers, poor retrieval — traces back to the IA projects you never funded. Now’s the time to",
+    "url": "https://uxdesign.cc/information-architecture-is-the-foundation-artificial-intelligence-is-starving-for-1d91fb5bf59f?source=rss----138adf9c44c---4",
+    "published": "Sun, 26 Jul 2026 19:28:45 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Your website is boring (but that might just set it free)",
+    "summary": "<h4>It’s time to shake off the grip of the templated web and celebrate a world of Brand x Code</h4><p>Thanks to a combination of Napster and my parents’ AOL account, I started designing websites when I was a teenager. And since then, I have been lucky enough to work for some of the best design companies and most loved brands in the world. All of that, I think, makes me qualified to say: <strong>websites are boring.</strong></p><p>I don’t believe we made them boring on purpose. But they are. For ",
+    "url": "https://uxdesign.cc/your-website-is-boring-but-that-might-just-set-it-free-f2b13863e22c?source=rss----138adf9c44c---4",
+    "published": "Sun, 26 Jul 2026 14:19:22 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
     "title": "The seams are where the system lives",
     "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-seams-are-where-the-system-lives-9c43587be771?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1125/0*uSjy8bVWqDYDdoYk.jpg\" width=\"1125\" /></a></p><p class=\"medium-feed-snippet\">Partitioning a system into clean modules doesn&#x2019;t remove complexity&#x200a;&#x2014;&#x200a;it relocates it to the seams. Cities learned this by zoning. Software&#x2026;</p><p class=\"medium-feed-li",
     "url": "https://uxdesign.cc/the-seams-are-where-the-system-lives-9c43587be771?source=rss----138adf9c44c---4",
     "published": "Sun, 26 Jul 2026 12:08:08 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "The consciousness mirage in AI design",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-anthropomorphism-consciousness-mirage-in-ai-design-ux-framework-8e23beb1d7c1?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1672/1*Xx_QJGDYiRYoPJEqJWEA6A.png\" width=\"1672\" /></a></p><p class=\"medium-feed-snippet\">We know it&#x2019;s not human. We feel heard anyway. What mind attribution does to your users, and why it&#x2019;s now a UX design dial.</p><p class=\"medium-feed-lin",
+    "url": "https://uxdesign.cc/the-anthropomorphism-consciousness-mirage-in-ai-design-ux-framework-8e23beb1d7c1?source=rss----138adf9c44c---4",
+    "published": "Mon, 27 Jul 2026 11:20:13 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "AI can fake your portfolio, Lower latency, 5-to-9, Monochrome dataviz",
+    "summary": "<h4>Weekly curated resources for designers — thinkers and makers.</h4><figure><a href=\"https://www.doc.cc/five\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/0*ET4XcVUcC6i0SwC7.png\" /></a></figure><p>“This photographic series slips into the hours after the badge comes off — the unbranded life where designers become someone the job never meets.”</p><p><a href=\"https://www.doc.cc/five\"><strong>Five to nine</strong></a><strong> →<br /></strong>By <a href=\"https://medium.com/u/52b6dba2fa",
+    "url": "https://uxdesign.cc/ai-can-fake-your-portfolio-lower-latency-5-to-9-monochrome-dataviz-51af76de0552?source=rss----138adf9c44c---4",
+    "published": "Mon, 27 Jul 2026 11:17:20 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
