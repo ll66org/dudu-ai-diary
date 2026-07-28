@@ -1,57 +1,147 @@
 [
   {
-    "title": "Euro budget airline UX dark patterns showdown 2026",
-    "summary": "<p>Article URL: <a href=\"https://blog.osull.com/2026/07/27/euro-budget-airline-ux-dark-patterns-showdown-2026/\">https://blog.osull.com/2026/07/27/euro-budget-airline-ux-dark-patterns-showdown-2026/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49069315\">https://news.ycombinator.com/item?id=49069315</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://blog.osull.com/2026/07/27/euro-budget-airline-ux-dark-patterns-showdown-2026/",
-    "published": "Mon, 27 Jul 2026 13:18:37 +0000",
+    "title": "Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
+    "summary": "<p>To my knowledge, this is the first formally verified implementation of a 3D constructive solid geometry (CSG) operation: mesh intersection, implemented in Lean 4 and verified against a concise specification that pins down the surface of the resulting mesh exactly and guarantees practical well-formedness conditions on the triangulation.<p>This project is also an experiment in avoiding having to trust AI-generated code. A human reviewer only needs to read 93 lines of formal specification and ru",
+    "url": "https://github.com/schildep/verified-3d-mesh-intersection",
+    "published": "Tue, 28 Jul 2026 13:07:14 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Epoch-Bound Attested Execution v0.5: Bounding AI Agents' Real-World Authority",
-    "summary": "<p>Article URL: <a href=\"https://zenodo.org/records/21625403\">https://zenodo.org/records/21625403</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49069074\">https://news.ycombinator.com/item?id=49069074</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://zenodo.org/records/21625403",
-    "published": "Mon, 27 Jul 2026 12:59:54 +0000",
+    "title": "Using AI for Automated Tasks",
+    "summary": "<p>Article URL: <a href=\"https://visualgui.com/2026/07/28/using-ai-for-automated-tasks/\">https://visualgui.com/2026/07/28/using-ai-for-automated-tasks/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49083134\">https://news.ycombinator.com/item?id=49083134</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://visualgui.com/2026/07/28/using-ai-for-automated-tasks/",
+    "published": "Tue, 28 Jul 2026 13:00:13 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Building to Be Corrected: teachability as a vital sign for AI",
-    "summary": "<p>Article URL: <a href=\"https://stoicmarcus.substack.com/p/building-to-be-corrected\">https://stoicmarcus.substack.com/p/building-to-be-corrected</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49069003\">https://news.ycombinator.com/item?id=49069003</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://stoicmarcus.substack.com/p/building-to-be-corrected",
-    "published": "Mon, 27 Jul 2026 12:54:47 +0000",
+    "title": "Show HN: Banksia – Build and run adaptable, accountable AI teams",
+    "summary": "<p>Article URL: <a href=\"https://github.com/ringlochid/banksia\">https://github.com/ringlochid/banksia</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49083014\">https://news.ycombinator.com/item?id=49083014</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://github.com/ringlochid/banksia",
+    "published": "Tue, 28 Jul 2026 12:50:13 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Show HN: We killed our AI stock analysis and kept the news feed (API and MCP)",
-    "summary": "<p>I run AlphaAI, it is a news feed for trading agents, REST plus MCP. Before it was \"AI stock analysis\" site. \nThat version demoed great and made no money. i was paying for market data, users was not paying me. Nobody buys prompt output, everyone already has own ChatGPT or Claude and own prompts. The only thing people were watching was the news feed with ratings, so I built a new product around this feature and it turned out to be really useful.<p>What's under the hood: GDELT parsing, SEC EDGAR",
-    "url": "https://alphai.io/developers",
-    "published": "Mon, 27 Jul 2026 12:23:12 +0000",
+    "title": "Puck AI – Visual AI builder embedded in your app",
+    "summary": "<p>Article URL: <a href=\"https://puckeditor.com/blog/puck-ai\">https://puckeditor.com/blog/puck-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49082979\">https://news.ycombinator.com/item?id=49082979</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "url": "https://puckeditor.com/blog/puck-ai",
+    "published": "Tue, 28 Jul 2026 12:45:41 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Rust Terminal UI Library",
-    "summary": "<p>Article URL: <a href=\"https://github.com/aymanbagabas/uncurses\">https://github.com/aymanbagabas/uncurses</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49068630\">https://news.ycombinator.com/item?id=49068630</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
-    "url": "https://github.com/aymanbagabas/uncurses",
-    "published": "Mon, 27 Jul 2026 12:22:46 +0000",
+    "title": "Microsoft Quicksand: Sandbox your AI agent without Docker or WSL",
+    "summary": "<p>Article URL: <a href=\"https://github.com/microsoft/quicksand\">https://github.com/microsoft/quicksand</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49082666\">https://news.ycombinator.com/item?id=49082666</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "url": "https://github.com/microsoft/quicksand",
+    "published": "Tue, 28 Jul 2026 12:16:38 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "当编码不再是瓶颈：Berkeley RDI 提出软件自主开发三级框架",
-    "summary": "Berkeley RDI等机构提出三级软件自主开发框架：代码自主（AI完成设计与实现，人类决定构建内容并审核PR）、流水线自主（AI运行从设计到部署的全流程，人类仅评估结果）、需求自主（AI自主决定构建内容）。该框架旨在为能力声明、部署选择与问责提供清晰分类。",
-    "url": "https://rdi.berkeley.edu/blog/auto-software-dev",
-    "published": "2026-07-27T07:51:26.272Z",
-    "source": "Berkeley RDI：Blog（AI 安全与评测）",
+    "title": "火山引擎上线豆包搜索服务，为AI Agent提供实时可信搜索能力",
+    "summary": "火山引擎正式上线豆包搜索服务，为AI Agent提供跨语言、多模态、多垂类联网信息查询，融合全域互联网信息、行业知识与字节跳动独家内容资源。该服务从网站站点和创作者维度建立权威分级体系，过滤低质信息，在SimpleQA、FreshQA、BrowseComp-ZH等评测中表现优异。豆包搜索支持API、Skill、MCP等多种接入形态，面向企业和开发者提供每月500次免费搜索额度。",
+    "url": "https://mp.weixin.qq.com/s/1nZqQHYqclsIF6__WLscgA",
+    "published": "2026-07-28T07:51:54.000Z",
+    "source": "公众号：火山引擎",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "Space-Bin",
+    "summary": "<p>\n            Secure temporary workspaces. No sign-up required.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/space-bin?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1208511?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/space-bin",
+    "published": "2026-07-27T23:58:56-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Lamoom",
+    "summary": "<p>\n            Run agent apps inside your Claude or sell your own\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/lamoom?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1208449?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/lamoom",
+    "published": "2026-07-27T22:45:04-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "G.I.A.ac",
+    "summary": "<p>\n            Build real, working apps from a single sentence\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/g-i-a-ac?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1208344?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/g-i-a-ac",
+    "published": "2026-07-27T19:03:30-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Kimi 发布视觉感知基准 PerceptionBench",
+    "summary": "Kimi.ai 发布 PerceptionBench，一个从当前前沿模型在 42 个基准上的失败模式中归纳出的视觉感知基准。该基准将视觉感知拆解为 10 种原子能力，并构建了 3000 道验证题，每道题只考察单一感知能力，无需推理或外部知识。",
+    "url": "https://x.com/Kimi_Moonshot/status/2081813202514681878",
+    "published": "2026-07-27T18:45:20.000Z",
+    "source": "X：Kimi.ai (@Kimi_Moonshot)",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "用Claude和Python构建技能驱动的金融分析智能体",
+    "summary": "本教程基于Anthropic的financial-services仓库，用纯Python复现其技能驱动架构。通过解析SKILL.md文件构建可搜索技能注册表，并创建可复用SkillAgent，将金融分析剧本注入Anthropic Messages API，支持迭代工具调用循环。",
+    "url": "https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables",
+    "published": "2026-07-27T18:08:24.000Z",
+    "source": "MarkTechPost（RSS）",
     "source_weight": "high",
     "category": "tip"
+  },
+  {
+    "title": "GitHub Copilot 发布\"Harness\"工作流：用单一工具完成原型、规划、实现与代码审查",
+    "summary": "GitHub Copilot 推出\"Harness\"工作流，让开发者通过单一 AI 工具完成从原型设计、规划、实现到代码审查的完整软件开发流程，无需追逐多种新 AI 工具。该工作流强调实用性与集成性，旨在减少工具切换带来的效率损耗。",
+    "url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly",
+    "published": "2026-07-27T18:00:00.000Z",
+    "source": "GitHub Blog",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "EasyCircuit",
+    "summary": "<p>\n            Hardware prototyping, as simple as vibe-coding\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/easycircuit?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1208295?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/easycircuit",
+    "published": "2026-07-27T16:44:55-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "GitHub Copilot app 入门指南：多 Agent 会话工作区与 Canvas 预览",
+    "summary": "GitHub Copilot app 将 AI 编码工具升级为多 Agent 会话工作区，支持同时管理多个任务线程而不丢失进度。用户可为每个会话绑定项目上下文，通过 `/create-canvas` 命令在浏览器 Canvas 中预览 UI 并直接点选修改，还能启用 Agent Merge 自动处理 PR 审查反馈和合并冲突。",
+    "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started",
+    "published": "2026-07-27T16:00:00.000Z",
+    "source": "GitHub Blog",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "Google AI Overviews 搜索结果出现率升至43%",
+    "summary": "Google AI Overviews 在搜索结果中的出现率一年内从15%升至43%，AI Mode月访问量从1.26亿增至2.79亿。用户搜索长度增加，正从短关键词转向更长的自然对话式查询。",
+    "url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows",
+    "published": "2026-07-27T15:57:12.000Z",
+    "source": "TechCrunch：AI（RSS）",
+    "source_weight": "high",
+    "category": "industry"
+  },
+  {
+    "title": "Kimi K3 开放日：模型权重、技术报告和关键 Infra 技术同步开放",
+    "summary": "月之暗面发布 2.8 万亿参数的混合专家模型 Kimi K3，支持原生视觉理解和 100 万 token 上下文窗口。其规模化效率较 Kimi K2.5 提升 2.5 倍，并同步开源模型权重、技术报告及 MoonEP、FlashKDA、AgentEnv 三项 Infra 技术。",
+    "url": "https://mp.weixin.qq.com/s/IW9BdyA3hLvuuiX_aMCJEQ",
+    "published": "2026-07-27T15:34:59.000Z",
+    "source": "公众号：月之暗面（Kimi）",
+    "source_weight": "high",
+    "category": "ai-models"
   },
   {
     "title": "浪费20亿Token后，我开源了帮Agent定义目标的Leader.skill",
@@ -90,22 +180,22 @@
     "category": "ai-products"
   },
   {
-    "title": "Midjourney V8.2 发布：专注美学提升与个性化理解",
-    "summary": "Midjourney 今日推出 V8.2 图像模型，重点提升美学质量、图像创意与个性化表现。低质量图像出现频率将显著降低，个性化功能能更精准理解用户审美偏好。V8.2 的个性化配置文件拥有更大、更优的图像选择池，建议用户尝试新旧配置文件体验最新版本。",
-    "url": "https://updates.midjourney.com/version-8-2",
-    "published": "2026-07-24T22:18:48.000Z",
-    "source": "Midjourney：Updates（RSS）",
+    "title": "Regional inference now available on AI Gateway",
+    "summary": "<p>AI Gateway now supports <a href=\"https://vercel.com/changelog/regional-inference-now-available-on-ai-gateway\">regional inference</a>. Set <code>inferenceRegion</code> on a request to pin it to the US or EU. Every model provider that supports the selected region handles it the same way. Inference runs there, and any data the provider keeps is stored there.</p><p>AI Gateway supports two pinned regions, plus global routing:</p><div></div><p>If no model provider can serve it, the request fails ra",
+    "url": "https://vercel.com/changelog/regional-inference-now-available-on-ai-gateway",
+    "published": "",
+    "source": "Vercel Blog (v0)",
     "source_weight": "high",
-    "category": "ai-models"
+    "category": "design_tools"
   },
   {
-    "title": "Anthropic 联合 Andon Labs 发布 Drone-Bench，评估 AI 模型自主操控无人机执行定位追踪任务的能力",
-    "summary": "Anthropic 与 Andon Labs 合作推出 Drone-Bench，用于测试 AI 模型自主操控四旋翼无人机在室内环境中定位并追踪指定人员的能力。该基准将任务分解为 3D 地图重建、定位、导航、目标检测与跟随五个子任务，并通过软件复现实现快速评估。实验表明，该任务链的难度足以区分不同智能水平的模型，并揭示 AI 在物理世界操控能力上的进步轨迹。",
-    "url": "https://www.anthropic.com/research/project-pilot",
-    "published": "2026-07-24T15:25:45.300Z",
-    "source": "Anthropic：Research（发表成果 · 网页）",
+    "title": "eve adds new Slack event hooks and session controls",
+    "summary": "<p><a href=\"https://eve.dev\">eve</a> agents on Slack can now keep replying in a thread without repeated mentions, cancel an in-progress response or reset a conversation entirely, and react to any event your Slack app subscribes to.</p><h2>Continue conversations without repeated mentions</h2><p>Mentions no longer have to carry the conversation. Once a thread has an active session, your agent can reply on its own.</p><p>The new <code>onMessage</code> hook receives incoming Slack messages, and two ",
+    "url": "https://vercel.com/changelog/eve-adds-new-slack-event-hooks-and-session-controls",
+    "published": "",
+    "source": "Vercel Blog (v0)",
     "source_weight": "high",
-    "category": "paper"
+    "category": "design_tools"
   },
   {
     "title": "The screens are getting demoted",
@@ -117,19 +207,10 @@
     "category": "design_communities"
   },
   {
-    "title": "The digital wall we built ourselves",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-digital-wall-we-built-ourselves-e9578f774374?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1280/1*yoAsr0ISrtzXRwc3UMcS7g.jpeg\" width=\"1280\" /></a></p><p class=\"medium-feed-snippet\">Why 95.9% of the world&#x2019;s top million sites still fail the people who need them most.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/the-digital-wall-we-built-ourselves-e9578f77",
-    "url": "https://uxdesign.cc/the-digital-wall-we-built-ourselves-e9578f774374?source=rss----138adf9c44c---4",
-    "published": "Wed, 22 Jul 2026 11:17:21 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Weaponizing And Defending The React Flight Protocol: Deserialization Sinks In RSCs",
-    "summary": "While React Server Components rely on the custom Flight protocol to stream interactive UIs, this same mechanism introduces powerful deserialization sinks that attackers can exploit. Durgesh Pawar breaks down the mechanics behind the CVSS 10.0 “React2Shell” vulnerability to show how protocol manipulation can lead to remote code execution.",
-    "url": "https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/",
-    "published": "Tue, 21 Jul 2026 10:00:00 GMT",
+    "title": "Thinking Outside The Box: Digital Design In The AI Era",
+    "summary": "Many of the AI tools we interact with take the form of text boxes. But what if there was a different way to interact with AI? Oleksii Hrzhehorzhevskyi explores a different approach to creating a new AI assistant and how designers can navigate the field as AI continues to change it.",
+    "url": "https://smashingmagazine.com/2026/07/digital-design-ai-era/",
+    "published": "Tue, 28 Jul 2026 10:00:00 GMT",
     "source": "Smashing Magazine",
     "source_weight": "medium",
     "category": "design_communities"
@@ -139,69 +220,6 @@
     "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/steal-this-ux-framework-from-dubais-most-over-the-top-hotel-0b14f71e46e5?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1376/1*yVor0bJNmDfk55Wr9yygcg.png\" width=\"1376\" /></a></p><p class=\"medium-feed-snippet\">Stop studying apps. Study hotels. A Google UX researcher&#x2019;s field notes on the hidden UX of hospitality.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/st",
     "url": "https://uxdesign.cc/steal-this-ux-framework-from-dubais-most-over-the-top-hotel-0b14f71e46e5?source=rss----138adf9c44c---4",
     "published": "Thu, 23 Jul 2026 21:48:28 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Four questions every tool should answer (even Figma) about AI training model usage",
-    "summary": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*aMbCscm7T9yeDdVED7gkKA.png\" /><figcaption>The default was set before you arrived. AI assisted.</figcaption></figure><h4>Figma’s class action is not really about copyright, it is about defaults and they are a design decision your team makes. Here’s a test you can apply.</h4><p><strong><em>Disclaimer: </em></strong><em>I am not a lawyer; I don’t even own a suit. I did spend eight years in legal technology, which qualifies me to pl",
-    "url": "https://uxdesign.cc/the-trust-test-four-questions-every-tool-should-answer-even-figma-about-ai-training-model-usage-4f1150f91a30?source=rss----138adf9c44c---4",
-    "published": "Thu, 23 Jul 2026 21:43:32 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Information architecture is the foundation artificial intelligence is starving for",
-    "summary": "<figure><img alt=\"Information architecture is the orderly wing. Most content stores are the heap at the edge of the frame.\" src=\"https://cdn-images-1.medium.com/max/1024/1*pxAvPzvnXUKZemNF5g8rZw.png\" /><figcaption>Information architecture is the orderly wing. Most content stores are the heap at the edge of the frame. AI assisted.</figcaption></figure><h4>Every AI problem you chase — hallucinations, wrong answers, poor retrieval — traces back to the IA projects you never funded. Now’s the time to",
-    "url": "https://uxdesign.cc/information-architecture-is-the-foundation-artificial-intelligence-is-starving-for-1d91fb5bf59f?source=rss----138adf9c44c---4",
-    "published": "Sun, 26 Jul 2026 19:28:45 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Your website is boring (but that might just set it free)",
-    "summary": "<h4>It’s time to shake off the grip of the templated web and celebrate a world of Brand x Code</h4><p>Thanks to a combination of Napster and my parents’ AOL account, I started designing websites when I was a teenager. And since then, I have been lucky enough to work for some of the best design companies and most loved brands in the world. All of that, I think, makes me qualified to say: <strong>websites are boring.</strong></p><p>I don’t believe we made them boring on purpose. But they are. For ",
-    "url": "https://uxdesign.cc/your-website-is-boring-but-that-might-just-set-it-free-f2b13863e22c?source=rss----138adf9c44c---4",
-    "published": "Sun, 26 Jul 2026 14:19:22 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "The seams are where the system lives",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-seams-are-where-the-system-lives-9c43587be771?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1125/0*uSjy8bVWqDYDdoYk.jpg\" width=\"1125\" /></a></p><p class=\"medium-feed-snippet\">Partitioning a system into clean modules doesn&#x2019;t remove complexity&#x200a;&#x2014;&#x200a;it relocates it to the seams. Cities learned this by zoning. Software&#x2026;</p><p class=\"medium-feed-li",
-    "url": "https://uxdesign.cc/the-seams-are-where-the-system-lives-9c43587be771?source=rss----138adf9c44c---4",
-    "published": "Sun, 26 Jul 2026 12:08:08 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "The consciousness mirage in AI design",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-anthropomorphism-consciousness-mirage-in-ai-design-ux-framework-8e23beb1d7c1?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1672/1*Xx_QJGDYiRYoPJEqJWEA6A.png\" width=\"1672\" /></a></p><p class=\"medium-feed-snippet\">We know it&#x2019;s not human. We feel heard anyway. What mind attribution does to your users, and why it&#x2019;s now a UX design dial.</p><p class=\"medium-feed-lin",
-    "url": "https://uxdesign.cc/the-anthropomorphism-consciousness-mirage-in-ai-design-ux-framework-8e23beb1d7c1?source=rss----138adf9c44c---4",
-    "published": "Mon, 27 Jul 2026 11:20:13 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "AI can fake your portfolio, Lower latency, 5-to-9, Monochrome dataviz",
-    "summary": "<h4>Weekly curated resources for designers — thinkers and makers.</h4><figure><a href=\"https://www.doc.cc/five\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/0*ET4XcVUcC6i0SwC7.png\" /></a></figure><p>“This photographic series slips into the hours after the badge comes off — the unbranded life where designers become someone the job never meets.”</p><p><a href=\"https://www.doc.cc/five\"><strong>Five to nine</strong></a><strong> →<br /></strong>By <a href=\"https://medium.com/u/52b6dba2fa",
-    "url": "https://uxdesign.cc/ai-can-fake-your-portfolio-lower-latency-5-to-9-monochrome-dataviz-51af76de0552?source=rss----138adf9c44c---4",
-    "published": "Mon, 27 Jul 2026 11:17:20 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "The aggressively mediocre fight",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-aggressively-mediocre-fight-ed47b3f9f8f4?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2388/1*AmFyXhpWu-1nF8VVDvrZdQ.png\" width=\"2388\" /></a></p><p class=\"medium-feed-snippet\">The battle we have with AI and something we can do about it.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/the-aggressively-mediocre-fight-ed47b3f9f8f4?source=rss----138adf9c44c---4\">Cont",
-    "url": "https://uxdesign.cc/the-aggressively-mediocre-fight-ed47b3f9f8f4?source=rss----138adf9c44c---4",
-    "published": "Fri, 24 Jul 2026 11:09:24 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"

@@ -1,5 +1,5 @@
 {
-  "day_count": 95,
+  "day_count": 96,
   "history": [
     {
       "day": 20,
@@ -503,6 +503,13 @@
       "date": "2026-07-27",
       "topic": "当编码不再是瓶颈：Berkeley RDI 提出软件自主开发三级框架",
       "source": "Berkeley RDI：Blog（AI 安全与评测）",
+      "mode": "rss"
+    },
+    {
+      "day": 96,
+      "date": "2026-07-28",
+      "topic": "火山引擎上线豆包搜索服务，为AI Agent提供实时可信搜索能力",
+      "source": "公众号：火山引擎",
       "mode": "rss"
     }
   ],
