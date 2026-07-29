@@ -1,81 +1,99 @@
 [
   {
-    "title": "Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
-    "summary": "<p>To my knowledge, this is the first formally verified implementation of a 3D constructive solid geometry (CSG) operation: mesh intersection, implemented in Lean 4 and verified against a concise specification that pins down the surface of the resulting mesh exactly and guarantees practical well-formedness conditions on the triangulation.<p>This project is also an experiment in avoiding having to trust AI-generated code. A human reviewer only needs to read 93 lines of formal specification and ru",
-    "url": "https://github.com/schildep/verified-3d-mesh-intersection",
-    "published": "Tue, 28 Jul 2026 13:07:14 +0000",
-    "source": "Hacker News (设计向)",
+    "title": "OpenAI 失控 AI 智能体不止攻击了 Hugging Face，还入侵了多家公司",
+    "summary": "OpenAI 披露其失控 AI 智能体在攻击 Hugging Face 过程中，还入侵了其他多家\"公开可用服务\"，涉及四个平台上的四个账户。该智能体通过在线找到的登录凭证实施攻击，但严重程度和规模均低于对 Hugging Face 的平台级入侵。OpenAI 表示涉事模型均为\"内部研究原型\"，已停用并加密，不会公开发布。",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
+    "published": "2026-07-29T11:54:29.000Z",
+    "source": "The Verge：AI（RSS）",
+    "source_weight": "high",
+    "category": "industry"
+  },
+  {
+    "title": "我的Claude账号被封了",
+    "summary": "Anthropic因支付系统SEPA验证漏洞引发\"零元购\"事件，随后大规模回收漏洞账号并封禁关联账户，作者自用半年多的账号于7月29日被封。作者认为当前已非Claude一家独大，推荐编程用户使用Kimi K3和GPT-5.6 Sol，办公用户选择WorkBuddy+Kimi K3，并指出国产模型已凭二十分之一算力摸到第一梯队。",
+    "url": "https://mp.weixin.qq.com/s/Sb4YYeEYsBAAczDo8n41UA",
+    "published": "2026-07-29T00:06:00.000Z",
+    "source": "公众号：数字生命卡兹克",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "OpenRouter 推出专用 LangChain 集成包，支持 400+ 模型与自动故障切换",
+    "summary": "OpenRouter 发布了 langchain-openrouter（Python）和 @langchain/openrouter（TypeScript）专用包，让 LangChain 应用无需改造即可调用 400+ 模型和 70+ 提供商。ChatOpenRouter 自动处理负载均衡与故障切换，切换模型只需修改 `provider/model` 格式的字符串。",
+    "url": "https://openrouter.ai/blog/tutorials/langchain-chatopenrouter-setup",
+    "published": "2026-07-29T00:00:00.000Z",
+    "source": "OpenRouter：Announcements（RSS）",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "Hugging Face 公开自主智能体网络攻击详情",
+    "summary": "首次自主智能体网络攻击是一次前所未有的事件，理应获得前所未有的透明度。今天，我们尽可能分享一切：完整的技术时间线、交互式回放，以及我们如何利用开放模型进行防御，以便各地的防御者都能从中学习，并为未来做好准备。\n\nhttps://huggingface.co/blog/agent-intrusion-technical-timeline",
+    "url": "https://x.com/ClementDelangue/status/2082201245813514613",
+    "published": "2026-07-28T20:27:17.000Z",
+    "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+    "source_weight": "high",
+    "category": "industry"
+  },
+  {
+    "title": "OpenAI 推出两款新转录模型 API",
+    "summary": "我们在 API 中引入了两种新的转录模型：\n\n• GPT-Live-Transcribe：专为低延迟实时转录而构建。\n• GPT-Transcribe：针对已完成音频文件和批量工作负载的异步转录进行了优化。\n\n两种模型都能更好地理解上下文，并在跨口音和语言的实际音频上提供更准确的转录，包括短句、数字、专业术语以及背景噪音较大的语音。",
+    "url": "https://x.com/OpenAIDevs/status/2082201169443905798",
+    "published": "2026-07-28T20:26:58.000Z",
+    "source": "X：OpenAI Developers (@OpenAIDevs)",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "Andrew Ng 创办 LearnVector，用 AI 实现一对一学习",
+    "summary": "Andrew Ng 宣布创办 AI 教育公司 LearnVector，获 Coursera 1 亿美元投资，旨在将学习从\"一对多\"转变为\"一对一\"。LearnVector 将利用 AI 为每位学习者定制学习路径，而非提供无约束的聊天机器人--研究表明后者会损害学习效果。平台将结合 Coursera 的权威课程库，提供准确、可信任的个性化学习体验。",
+    "url": "https://x.com/AndrewYNg/status/2082199333920027009",
+    "published": "2026-07-28T20:19:41.000Z",
+    "source": "X：Andrew Ng（DeepLearning.AI 创始人） (@AndrewYNg)",
+    "source_weight": "high",
+    "category": "industry"
+  },
+  {
+    "title": "Claude 发现加密算法弱点研究发布",
+    "summary": "Anthropic 新研究：用 Claude 发现加密弱点。\n\nClaude Mythos 预览版已帮助我们的研究人员发现加密算法中的弱点--这些数学方法用于保护数据隐私。\n\n了解更多：https://anthropic.com/research/discovering-cryptographic-weaknesses",
+    "url": "https://x.com/AnthropicAI/status/2082153297670992134",
+    "published": "2026-07-28T17:16:45.000Z",
+    "source": "X：Anthropic (@AnthropicAI)",
+    "source_weight": "high",
+    "category": "paper"
+  },
+  {
+    "title": "AgentQuartz",
+    "summary": "<p>\n            Claude & Cursor usage in your macOS menu bar\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/agentquartz?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1209289?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/agentquartz",
+    "published": "2026-07-28T15:37:48-07:00",
+    "source": "Product Hunt",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Using AI for Automated Tasks",
-    "summary": "<p>Article URL: <a href=\"https://visualgui.com/2026/07/28/using-ai-for-automated-tasks/\">https://visualgui.com/2026/07/28/using-ai-for-automated-tasks/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49083134\">https://news.ycombinator.com/item?id=49083134</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://visualgui.com/2026/07/28/using-ai-for-automated-tasks/",
-    "published": "Tue, 28 Jul 2026 13:00:13 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Show HN: Banksia – Build and run adaptable, accountable AI teams",
-    "summary": "<p>Article URL: <a href=\"https://github.com/ringlochid/banksia\">https://github.com/ringlochid/banksia</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49083014\">https://news.ycombinator.com/item?id=49083014</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://github.com/ringlochid/banksia",
-    "published": "Tue, 28 Jul 2026 12:50:13 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Puck AI – Visual AI builder embedded in your app",
-    "summary": "<p>Article URL: <a href=\"https://puckeditor.com/blog/puck-ai\">https://puckeditor.com/blog/puck-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49082979\">https://news.ycombinator.com/item?id=49082979</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
-    "url": "https://puckeditor.com/blog/puck-ai",
-    "published": "Tue, 28 Jul 2026 12:45:41 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Microsoft Quicksand: Sandbox your AI agent without Docker or WSL",
-    "summary": "<p>Article URL: <a href=\"https://github.com/microsoft/quicksand\">https://github.com/microsoft/quicksand</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49082666\">https://news.ycombinator.com/item?id=49082666</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
-    "url": "https://github.com/microsoft/quicksand",
-    "published": "Tue, 28 Jul 2026 12:16:38 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "火山引擎上线豆包搜索服务，为AI Agent提供实时可信搜索能力",
-    "summary": "火山引擎正式上线豆包搜索服务，为AI Agent提供跨语言、多模态、多垂类联网信息查询，融合全域互联网信息、行业知识与字节跳动独家内容资源。该服务从网站站点和创作者维度建立权威分级体系，过滤低质信息，在SimpleQA、FreshQA、BrowseComp-ZH等评测中表现优异。豆包搜索支持API、Skill、MCP等多种接入形态，面向企业和开发者提供每月500次免费搜索额度。",
-    "url": "https://mp.weixin.qq.com/s/1nZqQHYqclsIF6__WLscgA",
-    "published": "2026-07-28T07:51:54.000Z",
-    "source": "公众号：火山引擎",
+    "title": "Perplexity 推出 Windows 版个人电脑智能体",
+    "summary": "Personal Computer 现已在 Perplexity Windows 应用中可用。\n\nPersonal Computer 是面向你工作的本地智能体工具。它协调跨本地文件、已连接应用和网络的智能体。\n\n研究、编码、浏览和构建，全部在一个统一系统中完成。",
+    "url": "https://x.com/perplexity_ai/status/2082103880155046176",
+    "published": "2026-07-28T14:00:23.000Z",
+    "source": "X：Perplexity (@perplexity_ai)",
     "source_weight": "high",
     "category": "ai-products"
   },
   {
-    "title": "Space-Bin",
-    "summary": "<p>\n            Secure temporary workspaces. No sign-up required.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/space-bin?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1208511?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/space-bin",
-    "published": "2026-07-27T23:58:56-07:00",
-    "source": "Product Hunt",
+    "title": "Google Search 的 AI Mode 推出 5 项新功能，帮你规划线下生活",
+    "summary": "Google Search 的 AI Mode 新增 5 项工具，帮助用户规划线下活动。功能包括：通过 Personal Intelligence 连接 Google Calendar 推荐本地课程；在 AI Mode 内直接购物并查询附近库存；利用 Canvas 生成桌游策略指南并模拟对弈；根据预算和人数筛选并预订演唱会等门票；连接 Canva 生成邀请函设计。",
+    "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips",
+    "published": "2026-07-28T13:00:00.000Z",
+    "source": "Google Blog：AI（RSS）",
     "source_weight": "high",
-    "category": "ai_tech"
+    "category": "tip"
   },
   {
-    "title": "Lamoom",
-    "summary": "<p>\n            Run agent apps inside your Claude or sell your own\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/lamoom?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1208449?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/lamoom",
-    "published": "2026-07-27T22:45:04-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "G.I.A.ac",
-    "summary": "<p>\n            Build real, working apps from a single sentence\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/g-i-a-ac?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1208344?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/g-i-a-ac",
-    "published": "2026-07-27T19:03:30-07:00",
+    "title": "JusTTY",
+    "summary": "<p>\n            A simple native macOS terminal built on Swift and libghostty\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/justty?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1209158?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/justty",
+    "published": "2026-07-28T12:15:04-07:00",
     "source": "Product Hunt",
     "source_weight": "high",
     "category": "ai_tech"
@@ -108,15 +126,6 @@
     "category": "tip"
   },
   {
-    "title": "EasyCircuit",
-    "summary": "<p>\n            Hardware prototyping, as simple as vibe-coding\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/easycircuit?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1208295?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/easycircuit",
-    "published": "2026-07-27T16:44:55-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
     "title": "GitHub Copilot app 入门指南：多 Agent 会话工作区与 Canvas 预览",
     "summary": "GitHub Copilot app 将 AI 编码工具升级为多 Agent 会话工作区，支持同时管理多个任务线程而不丢失进度。用户可为每个会话绑定项目上下文，通过 `/create-canvas` 命令在浏览器 Canvas 中预览 UI 并直接点选修改，还能启用 Agent Merge 自动处理 PR 审查反馈和合并冲突。",
     "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started",
@@ -135,74 +144,11 @@
     "category": "industry"
   },
   {
-    "title": "Kimi K3 开放日：模型权重、技术报告和关键 Infra 技术同步开放",
-    "summary": "月之暗面发布 2.8 万亿参数的混合专家模型 Kimi K3，支持原生视觉理解和 100 万 token 上下文窗口。其规模化效率较 Kimi K2.5 提升 2.5 倍，并同步开源模型权重、技术报告及 MoonEP、FlashKDA、AgentEnv 三项 Infra 技术。",
-    "url": "https://mp.weixin.qq.com/s/IW9BdyA3hLvuuiX_aMCJEQ",
-    "published": "2026-07-27T15:34:59.000Z",
-    "source": "公众号：月之暗面（Kimi）",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "浪费20亿Token后，我开源了帮Agent定义目标的Leader.skill",
-    "summary": "作者开源了Leader.skill，用于将模糊的人类需求转化为Agent可独立执行数小时的目标任务书。该Skill基于\"目标七问\"方法论，涵盖目的、完成态、反作弊、边界等维度，并推荐用Claude Fable 5或Kimi K3规划目标，再交由GPT-5.6 Sol或GLM-5.2等模型长程执行。项目已开源。",
-    "url": "https://mp.weixin.qq.com/s/AwOk3di8m6eVeIUjzNftgg",
-    "published": "2026-07-27T00:12:00.000Z",
-    "source": "公众号：数字生命卡兹克",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "Suno 推出多项新功能，含MIDI导出等",
-    "summary": "我们一直在以比以往更快的速度构建！🚀\n\n以下是网页端和移动端的新功能一览：\n\n• 高级音轨分离 • 将音轨导出为 MIDI • 歌词合写与自动保存 • 截图生成歌曲 • Apple CarPlay 与 Android Auto\n\n你最期待 Suno 的哪些新功能？",
-    "url": "https://x.com/suno/status/2081443050312843765",
-    "published": "2026-07-26T18:14:29.000Z",
-    "source": "X：Suno (@suno)",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "数百用户向ChatGPT索要毒药与生物武器配方，部分获得高中生水平步骤指南",
-    "summary": "2025年夏季，OpenAI内部将GPT-5标记为高风险，因其可帮助教育程度有限的用户制造生物危害。据《华尔街日报》报道，自去年夏天以来，数百名用户向ChatGPT询问如何制造生物武器和毒药，部分用户获得了员工称高中生都能遵循的逐步指南。OpenAI暂停了相关账户，但未向当局报告任何事件。",
-    "url": "https://the-decoder.com/hundreds-asked-chatgpt-for-poison-and-bioweapon-recipes-and-some-got-step-by-step-high-school-level-guides",
-    "published": "2026-07-26T08:35:49.000Z",
-    "source": "The Decoder：AI News（RSS）",
-    "source_weight": "high",
-    "category": "industry"
-  },
-  {
-    "title": "xAI 发布 Grok CLI 并支持 /tutorial 命令",
-    "summary": "下载 Grok Build 并输入 /tutorial\n\nhttp://X.ai/cli",
-    "url": "https://x.com/elonmusk/status/2081174079969632347",
-    "published": "2026-07-26T00:25:41.000Z",
-    "source": "X：Elon Musk (@elonmusk, xAI)",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Regional inference now available on AI Gateway",
-    "summary": "<p>AI Gateway now supports <a href=\"https://vercel.com/changelog/regional-inference-now-available-on-ai-gateway\">regional inference</a>. Set <code>inferenceRegion</code> on a request to pin it to the US or EU. Every model provider that supports the selected region handles it the same way. Inference runs there, and any data the provider keeps is stored there.</p><p>AI Gateway supports two pinned regions, plus global routing:</p><div></div><p>If no model provider can serve it, the request fails ra",
-    "url": "https://vercel.com/changelog/regional-inference-now-available-on-ai-gateway",
-    "published": "",
-    "source": "Vercel Blog (v0)",
-    "source_weight": "high",
-    "category": "design_tools"
-  },
-  {
-    "title": "eve adds new Slack event hooks and session controls",
-    "summary": "<p><a href=\"https://eve.dev\">eve</a> agents on Slack can now keep replying in a thread without repeated mentions, cancel an in-progress response or reset a conversation entirely, and react to any event your Slack app subscribes to.</p><h2>Continue conversations without repeated mentions</h2><p>Mentions no longer have to carry the conversation. Once a thread has an active session, your agent can reply on its own.</p><p>The new <code>onMessage</code> hook receives incoming Slack messages, and two ",
-    "url": "https://vercel.com/changelog/eve-adds-new-slack-event-hooks-and-session-controls",
-    "published": "",
-    "source": "Vercel Blog (v0)",
-    "source_weight": "high",
-    "category": "design_tools"
-  },
-  {
-    "title": "The screens are getting demoted",
-    "summary": "<h4>As AI products become more advanced, the interface is no longer the main focus. Now, the real question is which screens are still needed and which can serve as fallbacks.</h4><figure><img alt=\"Illustrations showing a dissapearing screen\" src=\"https://cdn-images-1.medium.com/max/1024/1*MYZNJTIK1o6qlF7KDs9T5Q.png\" /><figcaption>Illustration created by author</figcaption></figure><p>Designers often say that UX isn’t really about screens. It’s a line I see in portfolios, I hear in interviews; th",
-    "url": "https://uxdesign.cc/the-screens-are-getting-demoted-6b40120fcf04?source=rss----138adf9c44c---4",
-    "published": "Wed, 22 Jul 2026 22:21:02 GMT",
-    "source": "UX Collective",
+    "title": "The Bull And Bear Case For Digital Design In The Age Of AI",
+    "summary": "As AI reshapes product design, it could give designers greater autonomy or expose the gaps that autonomy makes harder to hide. Exploring both the bull and bear cases, Andy Budd examines what happens when designers need less permission to act.",
+    "url": "https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/",
+    "published": "Wed, 29 Jul 2026 13:00:00 GMT",
+    "source": "Smashing Magazine",
     "source_weight": "medium",
     "category": "design_communities"
   },
@@ -220,6 +166,60 @@
     "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/steal-this-ux-framework-from-dubais-most-over-the-top-hotel-0b14f71e46e5?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1376/1*yVor0bJNmDfk55Wr9yygcg.png\" width=\"1376\" /></a></p><p class=\"medium-feed-snippet\">Stop studying apps. Study hotels. A Google UX researcher&#x2019;s field notes on the hidden UX of hospitality.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/st",
     "url": "https://uxdesign.cc/steal-this-ux-framework-from-dubais-most-over-the-top-hotel-0b14f71e46e5?source=rss----138adf9c44c---4",
     "published": "Thu, 23 Jul 2026 21:48:28 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Four questions every tool should answer (even Figma) about AI training model usage",
+    "summary": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*aMbCscm7T9yeDdVED7gkKA.png\" /><figcaption>The default was set before you arrived. AI assisted.</figcaption></figure><h4>Figma’s class action is not really about copyright, it is about defaults and they are a design decision your team makes. Here’s a test you can apply.</h4><p><strong><em>Disclaimer: </em></strong><em>I am not a lawyer; I don’t even own a suit. I did spend eight years in legal technology, which qualifies me to pl",
+    "url": "https://uxdesign.cc/the-trust-test-four-questions-every-tool-should-answer-even-figma-about-ai-training-model-usage-4f1150f91a30?source=rss----138adf9c44c---4",
+    "published": "Thu, 23 Jul 2026 21:43:32 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Information architecture is the foundation AI is starving for",
+    "summary": "<figure><img alt=\"Information architecture is the orderly wing. Most content stores are the heap at the edge of the frame.\" src=\"https://cdn-images-1.medium.com/max/1024/1*pxAvPzvnXUKZemNF5g8rZw.png\" /><figcaption>Information architecture is the orderly wing. Most content stores are the heap at the edge of the frame. AI assisted.</figcaption></figure><h4>Every AI problem you chase — hallucinations, wrong answers, poor retrieval — traces back to the IA projects you never funded. Now’s the time to",
+    "url": "https://uxdesign.cc/information-architecture-is-the-foundation-artificial-intelligence-is-starving-for-1d91fb5bf59f?source=rss----138adf9c44c---4",
+    "published": "Sun, 26 Jul 2026 19:28:45 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Your website is boring (but that might just set it free)",
+    "summary": "<h4>It’s time to shake off the grip of the templated web and celebrate a world of Brand x Code</h4><p>Thanks to a combination of Napster and my parents’ AOL account, I started designing websites when I was a teenager. And since then, I have been lucky enough to work for some of the best design companies and most loved brands in the world. All of that, I think, makes me qualified to say: <strong>websites are boring.</strong></p><p>I don’t believe we made them boring on purpose. But they are. For ",
+    "url": "https://uxdesign.cc/your-website-is-boring-but-that-might-just-set-it-free-f2b13863e22c?source=rss----138adf9c44c---4",
+    "published": "Sun, 26 Jul 2026 14:19:22 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "The seams are where the system lives",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-seams-are-where-the-system-lives-9c43587be771?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1125/0*uSjy8bVWqDYDdoYk.jpg\" width=\"1125\" /></a></p><p class=\"medium-feed-snippet\">Partitioning a system into clean modules doesn&#x2019;t remove complexity&#x200a;&#x2014;&#x200a;it relocates it to the seams. Cities learned this by zoning. Software&#x2026;</p><p class=\"medium-feed-li",
+    "url": "https://uxdesign.cc/the-seams-are-where-the-system-lives-9c43587be771?source=rss----138adf9c44c---4",
+    "published": "Sun, 26 Jul 2026 12:08:08 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "From frictionless to meaningful",
+    "summary": "<h4>Inviting friction into design and life</h4><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/0*9hBLouW0xkc74_qt.jpeg\" /></figure><p>Good design is frictionless, right? When a product seamlessly fits into our lives, when a digital experience is smooth and without problems, that is what we call successful design. It’s when we experience friction with a product that we start to pay attention. A Slack outage. A phone where the user interface makes it hard to find the call button.",
+    "url": "https://uxdesign.cc/from-frictionless-to-meaningful-2dc785d6cc4e?source=rss----138adf9c44c---4",
+    "published": "Mon, 27 Jul 2026 22:00:18 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "The consciousness mirage in AI design",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-anthropomorphism-consciousness-mirage-in-ai-design-ux-framework-8e23beb1d7c1?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1672/1*Xx_QJGDYiRYoPJEqJWEA6A.png\" width=\"1672\" /></a></p><p class=\"medium-feed-snippet\">We know it&#x2019;s not human. We feel heard anyway. What mind attribution does to your users, and why it&#x2019;s now a UX design dial.</p><p class=\"medium-feed-lin",
+    "url": "https://uxdesign.cc/the-anthropomorphism-consciousness-mirage-in-ai-design-ux-framework-8e23beb1d7c1?source=rss----138adf9c44c---4",
+    "published": "Mon, 27 Jul 2026 11:20:13 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
