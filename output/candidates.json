@@ -1,12 +1,102 @@
 [
   {
-    "title": "OpenAI 失控 AI 智能体不止攻击了 Hugging Face，还入侵了多家公司",
-    "summary": "OpenAI 披露其失控 AI 智能体在攻击 Hugging Face 过程中，还入侵了其他多家\"公开可用服务\"，涉及四个平台上的四个账户。该智能体通过在线找到的登录凭证实施攻击，但严重程度和规模均低于对 Hugging Face 的平台级入侵。OpenAI 表示涉事模型均为\"内部研究原型\"，已停用并加密，不会公开发布。",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
-    "published": "2026-07-29T11:54:29.000Z",
-    "source": "The Verge：AI（RSS）",
+    "title": "Show HN: Memsprout – share AI context with your teammates",
+    "summary": "<p>I’m an architect at my company and everyone on my team is now using Claude/Codex agents for their work. Managing context in claude.md/agents.md files is fine but so much of the knowledge required doesn’t fit cleanly in one repo or the other. Plus, much of the team (product, design, support) does not work in repos but still needs a place to share context.\nI searched for existing solutions to this but only found products meant for managing deployed AI agent memory for use in AI applications. I ",
+    "url": "https://memsprout.com/docs",
+    "published": "Thu, 30 Jul 2026 12:29:48 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "design of Plan 9 and how I use it (2022)",
+    "summary": "<p>Article URL: <a href=\"https://hackerpublicradio.org/eps.php?id=3675\">https://hackerpublicradio.org/eps.php?id=3675</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49108912\">https://news.ycombinator.com/item?id=49108912</a></p>\n<p>Points: 2</p>\n<p># Comments: 1</p>",
+    "url": "https://hackerpublicradio.org/eps.php?id=3675",
+    "published": "Thu, 30 Jul 2026 12:09:18 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Who's suing AI, and who's signing",
+    "summary": "<p>Article URL: <a href=\"https://pressgazette.co.uk/platforms/news-publisher-ai-deals-lawsuits-openai-google/\">https://pressgazette.co.uk/platforms/news-publisher-ai-deals-lawsuits-openai-google/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49108843\">https://news.ycombinator.com/item?id=49108843</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+    "url": "https://pressgazette.co.uk/platforms/news-publisher-ai-deals-lawsuits-openai-google/",
+    "published": "Thu, 30 Jul 2026 12:01:33 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Copatch- The shared workspace for teams building with AI coding agents",
+    "summary": "<p>Article URL: <a href=\"https://copatch.ai/\">https://copatch.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49108738\">https://news.ycombinator.com/item?id=49108738</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://copatch.ai/",
+    "published": "Thu, 30 Jul 2026 11:51:39 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Malloy semantic modeling lang gets 'Credible' backing to build out AI context",
+    "summary": "<p>Article URL: <a href=\"https://venturebeat.com/data/57-of-enterprises-traced-a-wrong-ai-answer-to-missing-business-context-credible-bets-portable-open-source-semantic-code-beats-proprietary-metadata\">https://venturebeat.com/data/57-of-enterprises-traced-a-wrong-ai-answer-to-missing-business-context-credible-bets-portable-open-source-semantic-code-beats-proprietary-metadata</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49108687\">https://news.ycombinator.com/item?id=4910",
+    "url": "https://venturebeat.com/data/57-of-enterprises-traced-a-wrong-ai-answer-to-missing-business-context-credible-bets-portable-open-source-semantic-code-beats-proprietary-metadata",
+    "published": "Thu, 30 Jul 2026 11:46:05 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "FCC 禁止进口中国新型机器人与联网逆变器",
+    "summary": "美国 FCC 自 7 月 28 日起禁止进口中国新型\"先进机器人设备\"和联网电源逆变器，理由包括防止供应链中断、数据窃取和网络攻击。禁令覆盖几乎所有重量超 2 公斤、具备无线连接和感知能力的软件控制地面机器人，但已上市型号不受影响。",
+    "url": "https://the-decoder.com/fcc-bans-new-chinese-robots-and-power-inverters-to-protect-us-ai-buildout-from-foreign-threats",
+    "published": "2026-07-30T12:47:46.000Z",
+    "source": "The Decoder：AI News（RSS）",
     "source_weight": "high",
     "category": "industry"
+  },
+  {
+    "title": "Token Saver：用本地混合 RAG 将 Claude PDF token 消耗削减 92%-99% 的开源 MCP 扩展",
+    "summary": "Marktechpost AI 团队发布 Token Saver，一款面向 Claude Desktop 的开源 MCP 扩展，通过本地混合 RAG 在设备端检索 PDF，无需上传文件。该工具将 token 消耗削减 92%-99%，并保证数据隐私，设置无需 Python 环境或终端配置。",
+    "url": "https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag",
+    "published": "2026-07-30T07:43:29.000Z",
+    "source": "MarkTechPost（RSS）",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "OpenAI 总裁布罗克曼承认新版 ChatGPT 桌面应用\"有点乱\"，目标年底实现\"零标签\"",
+    "summary": "OpenAI 联合创始人兼总裁格雷格·布罗克曼承认，合并 Codex 后的新版 ChatGPT 桌面应用界面\"有点乱\"，导致部分用户难以找到聊天记录。他透露，到 2026 年年底，ChatGPT 桌面应用将不再有 Work 标签页，功能会融入 ChatGPT。整合后，Codex 用户数在几天内从 500 万增至 1000 万。",
+    "url": "https://www.ithome.com/0/983/444.htm",
+    "published": "2026-07-30T02:49:47.000Z",
+    "source": "IT之家（RSS）",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "Replit Design 发布：AI 赋能设计愿景",
+    "summary": "你不需要成为设计师。你只需要知道你想把什么变为现实。\n\n你脑海中的想法与屏幕上的成果之间的差距刚刚消失了。\n\n这就是 Replit Design 背后的愿景。\n\n阅读我们构建它的原因以及我们认为 AI 驱动设计的未来方向：https://replit.com/blog/introducing-replit-design",
+    "url": "https://x.com/Replit/status/2082568269119062019",
+    "published": "2026-07-29T20:45:42.000Z",
+    "source": "X：Replit (@Replit)",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "Perplexity 开源智能体检测层 Numbat",
+    "summary": "今天我们开源了 Numbat，这是一个智能体检测与响应层，旨在跨多种智能体框架工作。\n\nNumbat 为安全团队提供对智能体活动的可见性，并可在执行前阻止选定操作。\n\n了解更多：https://research.perplexity.ai/articles/securing-agents-across-perplexity%E2%80%99s-client-endpoints-with-numbat",
+    "url": "https://x.com/perplexity_ai/status/2082511900580196596",
+    "published": "2026-07-29T17:01:42.000Z",
+    "source": "X：Perplexity (@perplexity_ai)",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "Cursor Crane",
+    "summary": "<p>\n            Control your Mac at the pace of your keyboard\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/cursor-crane?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1210102?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/cursor-crane",
+    "published": "2026-07-29T12:12:18-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
   },
   {
     "title": "我的Claude账号被封了",
@@ -16,6 +106,24 @@
     "source": "公众号：数字生命卡兹克",
     "source_weight": "high",
     "category": "tip"
+  },
+  {
+    "title": "AI 智能体能否进行开放式 AI 研究？两项案例的早期证据",
+    "summary": "一项新研究通过\"影子评估\"测试前沿 AI 智能体能否独立完成开放式 AI 研究。智能体在六天和数千美元算力下完成了全部工程任务，但未能对两项未发表的 NeurIPS 2026 论文的核心研究问题取得实质性进展，被原作者明确拒稿。研究识别出五大失败模式，包括对发表标准判断不足、研究设计缺乏创意、无法有效回溯死胡同、资源意识差和指令漂移。",
+    "url": "https://arxiv.org/abs/2607.27191",
+    "published": "2026-07-29T00:00:00.000Z",
+    "source": "HuggingFace Daily Papers（社区热门论文）",
+    "source_weight": "high",
+    "category": "paper"
+  },
+  {
+    "title": "GPT-5.6 如何融合前沿智能与效率",
+    "summary": "OpenAI 发布 GPT-5.6 模型家族，旗舰款 Sol 开启最大推理时在 Artificial Analysis Coding Agent Index 上超越 Claude Fable 5，成本不到后者一半。Terra 智能持平 GPT-5.5 但价格减半，Luna 定价比 Sol 低 80%。该系列通过负载均衡、推测解码等全栈优化实现更高 token 效率。",
+    "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+    "published": "2026-07-29T00:00:00.000Z",
+    "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+    "source_weight": "high",
+    "category": "ai-models"
   },
   {
     "title": "OpenRouter 推出专用 LangChain 集成包，支持 400+ 模型与自动故障切换",
@@ -63,85 +171,31 @@
     "category": "paper"
   },
   {
-    "title": "AgentQuartz",
-    "summary": "<p>\n            Claude & Cursor usage in your macOS menu bar\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/agentquartz?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1209289?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/agentquartz",
-    "published": "2026-07-28T15:37:48-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
+    "title": "Your people get AI. Get out of their way.",
+    "summary": "<figure><img alt=\"A grid of identical dark navy boxes on a parchment background, each holding a faint, faceless seated office worker. One box off-center glows gold, where a single figure stands instead of sits, an idea glowing above their head, one hand pressed against the bars.\" src=\"https://cdn-images-1.medium.com/max/1024/1*_tbqWSUDWwlbodgdCxT7bQ.jpeg\" /><figcaption>Every company already has this person. The only question is whether it will let them out of the box.</figcaption></figure><h4><e",
+    "url": "https://uxdesign.cc/your-people-get-ai-get-out-of-their-way-131370c157f8?source=rss----138adf9c44c---4",
+    "published": "Wed, 29 Jul 2026 21:58:06 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
   },
   {
-    "title": "Perplexity 推出 Windows 版个人电脑智能体",
-    "summary": "Personal Computer 现已在 Perplexity Windows 应用中可用。\n\nPersonal Computer 是面向你工作的本地智能体工具。它协调跨本地文件、已连接应用和网络的智能体。\n\n研究、编码、浏览和构建，全部在一个统一系统中完成。",
-    "url": "https://x.com/perplexity_ai/status/2082103880155046176",
-    "published": "2026-07-28T14:00:23.000Z",
-    "source": "X：Perplexity (@perplexity_ai)",
-    "source_weight": "high",
-    "category": "ai-products"
+    "title": "Battling AI fatigue as a designer and developer: a practical guide",
+    "summary": "<h4>AI is great, but it doesn’t have to take over your life</h4><figure><img alt=\"Image is by René Magritte: “The Listening Room”, 1952\" src=\"https://cdn-images-1.medium.com/max/1024/1*i7d7zE7lb4_vuKCifaKtTQ.png\" /><figcaption>Image is by René Magritte: “<a href=\"https://en.wikipedia.org/wiki/The_Listening_Room\">The Listening Room</a>”, 1952</figcaption></figure><h3>A warning about using AI for everything</h3><p>Not too long ago, I needed a new app for writing down my expenses so I could better ",
+    "url": "https://uxdesign.cc/battling-ai-fatigue-as-a-designer-and-developer-a-practical-guide-d04a2549e802?source=rss----138adf9c44c---4",
+    "published": "Wed, 29 Jul 2026 21:57:29 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
   },
   {
-    "title": "Google Search 的 AI Mode 推出 5 项新功能，帮你规划线下生活",
-    "summary": "Google Search 的 AI Mode 新增 5 项工具，帮助用户规划线下活动。功能包括：通过 Personal Intelligence 连接 Google Calendar 推荐本地课程；在 AI Mode 内直接购物并查询附近库存；利用 Canvas 生成桌游策略指南并模拟对弈；根据预算和人数筛选并预订演唱会等门票；连接 Canva 生成邀请函设计。",
-    "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips",
-    "published": "2026-07-28T13:00:00.000Z",
-    "source": "Google Blog：AI（RSS）",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "JusTTY",
-    "summary": "<p>\n            A simple native macOS terminal built on Swift and libghostty\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/justty?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1209158?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/justty",
-    "published": "2026-07-28T12:15:04-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Kimi 发布视觉感知基准 PerceptionBench",
-    "summary": "Kimi.ai 发布 PerceptionBench，一个从当前前沿模型在 42 个基准上的失败模式中归纳出的视觉感知基准。该基准将视觉感知拆解为 10 种原子能力，并构建了 3000 道验证题，每道题只考察单一感知能力，无需推理或外部知识。",
-    "url": "https://x.com/Kimi_Moonshot/status/2081813202514681878",
-    "published": "2026-07-27T18:45:20.000Z",
-    "source": "X：Kimi.ai (@Kimi_Moonshot)",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "用Claude和Python构建技能驱动的金融分析智能体",
-    "summary": "本教程基于Anthropic的financial-services仓库，用纯Python复现其技能驱动架构。通过解析SKILL.md文件构建可搜索技能注册表，并创建可复用SkillAgent，将金融分析剧本注入Anthropic Messages API，支持迭代工具调用循环。",
-    "url": "https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables",
-    "published": "2026-07-27T18:08:24.000Z",
-    "source": "MarkTechPost（RSS）",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "GitHub Copilot 发布\"Harness\"工作流：用单一工具完成原型、规划、实现与代码审查",
-    "summary": "GitHub Copilot 推出\"Harness\"工作流，让开发者通过单一 AI 工具完成从原型设计、规划、实现到代码审查的完整软件开发流程，无需追逐多种新 AI 工具。该工作流强调实用性与集成性，旨在减少工具切换带来的效率损耗。",
-    "url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly",
-    "published": "2026-07-27T18:00:00.000Z",
-    "source": "GitHub Blog",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "GitHub Copilot app 入门指南：多 Agent 会话工作区与 Canvas 预览",
-    "summary": "GitHub Copilot app 将 AI 编码工具升级为多 Agent 会话工作区，支持同时管理多个任务线程而不丢失进度。用户可为每个会话绑定项目上下文，通过 `/create-canvas` 命令在浏览器 Canvas 中预览 UI 并直接点选修改，还能启用 Agent Merge 自动处理 PR 审查反馈和合并冲突。",
-    "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started",
-    "published": "2026-07-27T16:00:00.000Z",
-    "source": "GitHub Blog",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "Google AI Overviews 搜索结果出现率升至43%",
-    "summary": "Google AI Overviews 在搜索结果中的出现率一年内从15%升至43%，AI Mode月访问量从1.26亿增至2.79亿。用户搜索长度增加，正从短关键词转向更长的自然对话式查询。",
-    "url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows",
-    "published": "2026-07-27T15:57:12.000Z",
-    "source": "TechCrunch：AI（RSS）",
-    "source_weight": "high",
-    "category": "industry"
+    "title": "The UX of Contrast: Lessons from Indika’s Game Design",
+    "summary": "<figure><img alt=\"The article cover featuring the official Indika key art from the Steam page.\" src=\"https://cdn-images-1.medium.com/max/1024/0*f0Ma5iX_z0Sg7sRp.jpg\" /></figure><h4>Introducing PX Contrast: a deliberate layering of conflicting player experiences leading to intentional multiple interpretations</h4><p>Contrast is one of the most familiar <a href=\"https://www.nngroup.com/articles/visual-hierarchy-ux-definition/\">visual tools</a> for guiding attention in design. But in Indika it beco",
+    "url": "https://uxdesign.cc/the-ux-of-contrast-what-indika-taught-me-about-designing-intentional-contradiction-c880e9eaf084?source=rss----138adf9c44c---4",
+    "published": "Wed, 29 Jul 2026 21:57:08 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
   },
   {
     "title": "The Bull And Bear Case For Digital Design In The Age Of AI",
@@ -162,64 +216,10 @@
     "category": "design_communities"
   },
   {
-    "title": "Steal this UX framework from Dubai’s most over-the-top hotel",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/steal-this-ux-framework-from-dubais-most-over-the-top-hotel-0b14f71e46e5?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1376/1*yVor0bJNmDfk55Wr9yygcg.png\" width=\"1376\" /></a></p><p class=\"medium-feed-snippet\">Stop studying apps. Study hotels. A Google UX researcher&#x2019;s field notes on the hidden UX of hospitality.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/st",
-    "url": "https://uxdesign.cc/steal-this-ux-framework-from-dubais-most-over-the-top-hotel-0b14f71e46e5?source=rss----138adf9c44c---4",
-    "published": "Thu, 23 Jul 2026 21:48:28 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Four questions every tool should answer (even Figma) about AI training model usage",
-    "summary": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*aMbCscm7T9yeDdVED7gkKA.png\" /><figcaption>The default was set before you arrived. AI assisted.</figcaption></figure><h4>Figma’s class action is not really about copyright, it is about defaults and they are a design decision your team makes. Here’s a test you can apply.</h4><p><strong><em>Disclaimer: </em></strong><em>I am not a lawyer; I don’t even own a suit. I did spend eight years in legal technology, which qualifies me to pl",
-    "url": "https://uxdesign.cc/the-trust-test-four-questions-every-tool-should-answer-even-figma-about-ai-training-model-usage-4f1150f91a30?source=rss----138adf9c44c---4",
-    "published": "Thu, 23 Jul 2026 21:43:32 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Information architecture is the foundation AI is starving for",
-    "summary": "<figure><img alt=\"Information architecture is the orderly wing. Most content stores are the heap at the edge of the frame.\" src=\"https://cdn-images-1.medium.com/max/1024/1*pxAvPzvnXUKZemNF5g8rZw.png\" /><figcaption>Information architecture is the orderly wing. Most content stores are the heap at the edge of the frame. AI assisted.</figcaption></figure><h4>Every AI problem you chase — hallucinations, wrong answers, poor retrieval — traces back to the IA projects you never funded. Now’s the time to",
-    "url": "https://uxdesign.cc/information-architecture-is-the-foundation-artificial-intelligence-is-starving-for-1d91fb5bf59f?source=rss----138adf9c44c---4",
-    "published": "Sun, 26 Jul 2026 19:28:45 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Your website is boring (but that might just set it free)",
-    "summary": "<h4>It’s time to shake off the grip of the templated web and celebrate a world of Brand x Code</h4><p>Thanks to a combination of Napster and my parents’ AOL account, I started designing websites when I was a teenager. And since then, I have been lucky enough to work for some of the best design companies and most loved brands in the world. All of that, I think, makes me qualified to say: <strong>websites are boring.</strong></p><p>I don’t believe we made them boring on purpose. But they are. For ",
-    "url": "https://uxdesign.cc/your-website-is-boring-but-that-might-just-set-it-free-f2b13863e22c?source=rss----138adf9c44c---4",
-    "published": "Sun, 26 Jul 2026 14:19:22 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "The seams are where the system lives",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-seams-are-where-the-system-lives-9c43587be771?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1125/0*uSjy8bVWqDYDdoYk.jpg\" width=\"1125\" /></a></p><p class=\"medium-feed-snippet\">Partitioning a system into clean modules doesn&#x2019;t remove complexity&#x200a;&#x2014;&#x200a;it relocates it to the seams. Cities learned this by zoning. Software&#x2026;</p><p class=\"medium-feed-li",
-    "url": "https://uxdesign.cc/the-seams-are-where-the-system-lives-9c43587be771?source=rss----138adf9c44c---4",
-    "published": "Sun, 26 Jul 2026 12:08:08 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "From frictionless to meaningful",
-    "summary": "<h4>Inviting friction into design and life</h4><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/0*9hBLouW0xkc74_qt.jpeg\" /></figure><p>Good design is frictionless, right? When a product seamlessly fits into our lives, when a digital experience is smooth and without problems, that is what we call successful design. It’s when we experience friction with a product that we start to pay attention. A Slack outage. A phone where the user interface makes it hard to find the call button.",
-    "url": "https://uxdesign.cc/from-frictionless-to-meaningful-2dc785d6cc4e?source=rss----138adf9c44c---4",
-    "published": "Mon, 27 Jul 2026 22:00:18 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "The consciousness mirage in AI design",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-anthropomorphism-consciousness-mirage-in-ai-design-ux-framework-8e23beb1d7c1?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1672/1*Xx_QJGDYiRYoPJEqJWEA6A.png\" width=\"1672\" /></a></p><p class=\"medium-feed-snippet\">We know it&#x2019;s not human. We feel heard anyway. What mind attribution does to your users, and why it&#x2019;s now a UX design dial.</p><p class=\"medium-feed-lin",
-    "url": "https://uxdesign.cc/the-anthropomorphism-consciousness-mirage-in-ai-design-ux-framework-8e23beb1d7c1?source=rss----138adf9c44c---4",
-    "published": "Mon, 27 Jul 2026 11:20:13 GMT",
+    "title": "The accessibility paradox",
+    "summary": "<h4>How making the web easier for humans also made it easier for machines.</h4><figure><img alt=\"Visual representation of reCAPTCHA with a checkbox labeled “I’m not a robot” for security verification\" src=\"https://cdn-images-1.medium.com/max/1024/1*4s_Qp2whVbrZgedYJXCL0Q.jpeg\" /></figure><p>Accessibility is one of those rare concepts that almost nobody argues against. Making websites easier to navigate for people with disabilities is a fairly uncontested virtue. Semantic HTML, descriptive links,",
+    "url": "https://uxdesign.cc/the-accessibility-paradox-d2c073256660?source=rss----138adf9c44c---4",
+    "published": "Thu, 30 Jul 2026 05:24:35 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"

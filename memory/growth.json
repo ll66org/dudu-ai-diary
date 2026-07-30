@@ -1,5 +1,5 @@
 {
-  "day_count": 97,
+  "day_count": 98,
   "history": [
     {
       "day": 20,
@@ -517,6 +517,13 @@
       "date": "2026-07-29",
       "topic": "OpenAI 失控 AI 智能体不止攻击了 Hugging Face，还入侵了多家公司",
       "source": "The Verge：AI（RSS）",
+      "mode": "rss"
+    },
+    {
+      "day": 98,
+      "date": "2026-07-30",
+      "topic": "FCC 禁止进口中国新型机器人与联网逆变器",
+      "source": "The Decoder：AI News（RSS）",
       "mode": "rss"
     }
   ],
