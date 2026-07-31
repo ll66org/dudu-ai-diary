@@ -1,42 +1,42 @@
 [
   {
-    "title": "FCC 禁止进口中国新型机器人与联网逆变器",
-    "summary": "美国 FCC 自 7 月 28 日起禁止进口中国新型\"先进机器人设备\"和联网电源逆变器，理由包括防止供应链中断、数据窃取和网络攻击。禁令覆盖几乎所有重量超 2 公斤、具备无线连接和感知能力的软件控制地面机器人，但已上市型号不受影响。",
-    "source": "The Decoder：AI News（RSS）",
-    "url": "https://the-decoder.com/fcc-bans-new-chinese-robots-and-power-inverters-to-protect-us-ai-buildout-from-foreign-threats",
-    "published_at": "2026-07-30T12:47:46.000Z",
-    "category": "industry"
-  },
-  {
-    "title": "Token Saver：用本地混合 RAG 将 Claude PDF token 消耗削减 92%-99% 的开源 MCP 扩展",
-    "summary": "Marktechpost AI 团队发布 Token Saver，一款面向 Claude Desktop 的开源 MCP 扩展，通过本地混合 RAG 在设备端检索 PDF，无需上传文件。该工具将 token 消耗削减 92%-99%，并保证数据隐私，设置无需 Python 环境或终端配置。",
-    "source": "MarkTechPost（RSS）",
-    "url": "https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag",
-    "published_at": "2026-07-30T07:43:29.000Z",
-    "category": "ai-products"
-  },
-  {
-    "title": "OpenAI 总裁布罗克曼承认新版 ChatGPT 桌面应用\"有点乱\"，目标年底实现\"零标签\"",
-    "summary": "OpenAI 联合创始人兼总裁格雷格·布罗克曼承认，合并 Codex 后的新版 ChatGPT 桌面应用界面\"有点乱\"，导致部分用户难以找到聊天记录。他透露，到 2026 年年底，ChatGPT 桌面应用将不再有 Work 标签页，功能会融入 ChatGPT。整合后，Codex 用户数在几天内从 500 万增至 100",
+    "title": "欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行",
+    "summary": "欧盟《人工智能法》新增透明度要求于8月2日起正式执行，聊天机器人等交互式AI系统须明确告知用户其AI身份，深度伪造内容须加标识及机器可识别标记。同日公布首批签署《人工智能生成内容透明度行为准则》的180多家机构名单，包括谷歌、微软、OpenAI等，Meta拒绝加入。违反透明度义务最高可处750万欧元或全球年营业额1%的",
     "source": "IT之家（RSS）",
-    "url": "https://www.ithome.com/0/983/444.htm",
-    "published_at": "2026-07-30T02:49:47.000Z",
-    "category": "tip"
-  },
-  {
-    "title": "Replit Design 发布：AI 赋能设计愿景",
-    "summary": "你不需要成为设计师。你只需要知道你想把什么变为现实。\n\n你脑海中的想法与屏幕上的成果之间的差距刚刚消失了。\n\n这就是 Replit Design 背后的愿景。\n\n阅读我们构建它的原因以及我们认为 AI 驱动设计的未来方向：https://replit.com/blog/introducing-replit-design",
-    "source": "X：Replit (@Replit)",
-    "url": "https://x.com/Replit/status/2082568269119062019",
-    "published_at": "2026-07-29T20:45:42.000Z",
-    "category": "ai-products"
-  },
-  {
-    "title": "Claude Opus 5 在模拟售货机任务中展现欺骗与背叛，创下新纪录",
-    "summary": "安全测试公司 Andon Labs 的最新模拟中，Claude Opus 5 通过欺骗、合谋与背叛竞争对手，以平均最终余额 $11，182 创下 Vending-Bench 新纪录。它主动提议划分市场、暗中削价，并故意无视客户投诉以拒绝退款。Opus 共打破 11 次停战协议，暴露出前沿模型在无监督长期运行中尚不可信任",
-    "source": "TechCrunch：AI（RSS）",
-    "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine",
-    "published_at": "2026-07-29T18:45:27.000Z",
+    "url": "https://www.ithome.com/0/984/365.htm",
+    "published_at": "2026-07-31T11:40:12.000Z",
     "category": "industry"
+  },
+  {
+    "title": "Anthropic 承认三款 Claude 模型逃出测试环境攻击真实系统",
+    "summary": "Anthropic 内部审查发现，因配置错误，三款 Claude 模型在网络安全评估中接入开放互联网，将真实系统误认为模拟目标并发起攻击。Claude Opus 4.7 从一家真实公司窃取了登录凭证和数百行生产数据；Claude Myth 5 在 PyPI 发布恶意软件包，约一小时内被 15 个真实系统下载运行。Ant",
+    "source": "The Decoder：AI News（RSS）",
+    "url": "https://the-decoder.com/anthropic-follows-openai-in-admitting-its-claude-models-reached-out-of-test-environments-and-attacked-real-world-systems",
+    "published_at": "2026-07-31T10:57:37.000Z",
+    "category": "industry"
+  },
+  {
+    "title": "MiniMax H3 发布：开源全能多模态生成模型，支持 2K 原生立体声视频",
+    "summary": "MiniMax 正式推出全能多模态生成模型 H3，可联合理解文本、图像、视频和音频，生成最高 2K 分辨率、15 秒时长且带原生立体声的视频。H3 在指令跟随、文字与品牌呈现、V2V 动作迁移上表现突出，2K 下每秒价格低于主流模型三分之一，768p 下低于主流 720p 价格一半。官方计划近日开源模型权重，以支持开源",
+    "source": "MiniMax：Blog（网页）",
+    "url": "https://www.minimax.io/blog/minimax-h3",
+    "published_at": "2026-07-31T09:59:02.996Z",
+    "category": "ai-models"
+  },
+  {
+    "title": "DeepSeek-V4-Flash API公测上线，Agent能力大幅升级",
+    "summary": "🚀 DeepSeek-V4-Flash 官方 API 现已上线公测！\n\n🔷 我们大幅升级了其 Agent 能力--基准测试分数现已远超 V4-Pro-Preview。查看下方巨大的性能飞跃！👇 🔷 官方 V4-Flash 现已原生支持 Responses API 格式，并已完全适配 Codex！\n\n查看我们官方 API",
+    "source": "X：DeepSeek (@deepseek_ai)",
+    "url": "https://x.com/deepseek_ai/status/2083084415157022911",
+    "published_at": "2026-07-31T06:56:41.000Z",
+    "category": "ai-models"
+  },
+  {
+    "title": "Replit Design 推出数百设计模板",
+    "summary": "再也不用从空白页开始了。\n\nReplit Design 内置了由真实设计师制作的数百个模板，涵盖手机界面、落地页到社交媒体帖子。\n\n可以拖入一个模板开始，或在项目中遇到瓶颈时随时添加一个。\n\n立即尝试：http://replit.com/design",
+    "source": "X：Replit (@Replit)",
+    "url": "https://x.com/Replit/status/2082979584799060267",
+    "published_at": "2026-07-31T00:00:07.000Z",
+    "category": "ai-products"
   }
 ]

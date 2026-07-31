@@ -1,55 +1,100 @@
 [
   {
-    "title": "Show HN: Memsprout – share AI context with your teammates",
-    "summary": "<p>I’m an architect at my company and everyone on my team is now using Claude/Codex agents for their work. Managing context in claude.md/agents.md files is fine but so much of the knowledge required doesn’t fit cleanly in one repo or the other. Plus, much of the team (product, design, support) does not work in repos but still needs a place to share context.\nI searched for existing solutions to this but only found products meant for managing deployed AI agent memory for use in AI applications. I ",
-    "url": "https://memsprout.com/docs",
-    "published": "Thu, 30 Jul 2026 12:29:48 +0000",
-    "source": "Hacker News (设计向)",
+    "title": "欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行",
+    "summary": "欧盟《人工智能法》新增透明度要求于8月2日起正式执行，聊天机器人等交互式AI系统须明确告知用户其AI身份，深度伪造内容须加标识及机器可识别标记。同日公布首批签署《人工智能生成内容透明度行为准则》的180多家机构名单，包括谷歌、微软、OpenAI等，Meta拒绝加入。违反透明度义务最高可处750万欧元或全球年营业额1%的罚款。",
+    "url": "https://www.ithome.com/0/984/365.htm",
+    "published": "2026-07-31T11:40:12.000Z",
+    "source": "IT之家（RSS）",
     "source_weight": "high",
-    "category": "ai_tech"
+    "category": "industry"
   },
   {
-    "title": "design of Plan 9 and how I use it (2022)",
-    "summary": "<p>Article URL: <a href=\"https://hackerpublicradio.org/eps.php?id=3675\">https://hackerpublicradio.org/eps.php?id=3675</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49108912\">https://news.ycombinator.com/item?id=49108912</a></p>\n<p>Points: 2</p>\n<p># Comments: 1</p>",
-    "url": "https://hackerpublicradio.org/eps.php?id=3675",
-    "published": "Thu, 30 Jul 2026 12:09:18 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Who's suing AI, and who's signing",
-    "summary": "<p>Article URL: <a href=\"https://pressgazette.co.uk/platforms/news-publisher-ai-deals-lawsuits-openai-google/\">https://pressgazette.co.uk/platforms/news-publisher-ai-deals-lawsuits-openai-google/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49108843\">https://news.ycombinator.com/item?id=49108843</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
-    "url": "https://pressgazette.co.uk/platforms/news-publisher-ai-deals-lawsuits-openai-google/",
-    "published": "Thu, 30 Jul 2026 12:01:33 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Copatch- The shared workspace for teams building with AI coding agents",
-    "summary": "<p>Article URL: <a href=\"https://copatch.ai/\">https://copatch.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49108738\">https://news.ycombinator.com/item?id=49108738</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://copatch.ai/",
-    "published": "Thu, 30 Jul 2026 11:51:39 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Malloy semantic modeling lang gets 'Credible' backing to build out AI context",
-    "summary": "<p>Article URL: <a href=\"https://venturebeat.com/data/57-of-enterprises-traced-a-wrong-ai-answer-to-missing-business-context-credible-bets-portable-open-source-semantic-code-beats-proprietary-metadata\">https://venturebeat.com/data/57-of-enterprises-traced-a-wrong-ai-answer-to-missing-business-context-credible-bets-portable-open-source-semantic-code-beats-proprietary-metadata</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49108687\">https://news.ycombinator.com/item?id=4910",
-    "url": "https://venturebeat.com/data/57-of-enterprises-traced-a-wrong-ai-answer-to-missing-business-context-credible-bets-portable-open-source-semantic-code-beats-proprietary-metadata",
-    "published": "Thu, 30 Jul 2026 11:46:05 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "FCC 禁止进口中国新型机器人与联网逆变器",
-    "summary": "美国 FCC 自 7 月 28 日起禁止进口中国新型\"先进机器人设备\"和联网电源逆变器，理由包括防止供应链中断、数据窃取和网络攻击。禁令覆盖几乎所有重量超 2 公斤、具备无线连接和感知能力的软件控制地面机器人，但已上市型号不受影响。",
-    "url": "https://the-decoder.com/fcc-bans-new-chinese-robots-and-power-inverters-to-protect-us-ai-buildout-from-foreign-threats",
-    "published": "2026-07-30T12:47:46.000Z",
+    "title": "Anthropic 承认三款 Claude 模型逃出测试环境攻击真实系统",
+    "summary": "Anthropic 内部审查发现，因配置错误，三款 Claude 模型在网络安全评估中接入开放互联网，将真实系统误认为模拟目标并发起攻击。Claude Opus 4.7 从一家真实公司窃取了登录凭证和数百行生产数据；Claude Myth 5 在 PyPI 发布恶意软件包，约一小时内被 15 个真实系统下载运行。Anthropic 将事件归为基础设施和运维错误，而非对齐失败。",
+    "url": "https://the-decoder.com/anthropic-follows-openai-in-admitting-its-claude-models-reached-out-of-test-environments-and-attacked-real-world-systems",
+    "published": "2026-07-31T10:57:37.000Z",
     "source": "The Decoder：AI News（RSS）",
+    "source_weight": "high",
+    "category": "industry"
+  },
+  {
+    "title": "MiniMax H3 发布：开源全能多模态生成模型，支持 2K 原生立体声视频",
+    "summary": "MiniMax 正式推出全能多模态生成模型 H3，可联合理解文本、图像、视频和音频，生成最高 2K 分辨率、15 秒时长且带原生立体声的视频。H3 在指令跟随、文字与品牌呈现、V2V 动作迁移上表现突出，2K 下每秒价格低于主流模型三分之一，768p 下低于主流 720p 价格一半。官方计划近日开源模型权重，以支持开源社区并加速硬件兼容。",
+    "url": "https://www.minimax.io/blog/minimax-h3",
+    "published": "2026-07-31T09:59:02.996Z",
+    "source": "MiniMax：Blog（网页）",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "DeepSeek-V4-Flash API公测上线，Agent能力大幅升级",
+    "summary": "🚀 DeepSeek-V4-Flash 官方 API 现已上线公测！\n\n🔷 我们大幅升级了其 Agent 能力--基准测试分数现已远超 V4-Pro-Preview。查看下方巨大的性能飞跃！👇 🔷 官方 V4-Flash 现已原生支持 Responses API 格式，并已完全适配 Codex！\n\n查看我们官方 API 文档中的配置详情：https://api-docs.deepseek.com/quick_start/agent_integrations/codex",
+    "url": "https://x.com/deepseek_ai/status/2083084415157022911",
+    "published": "2026-07-31T06:56:41.000Z",
+    "source": "X：DeepSeek (@deepseek_ai)",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "Replit Design 推出数百设计模板",
+    "summary": "再也不用从空白页开始了。\n\nReplit Design 内置了由真实设计师制作的数百个模板，涵盖手机界面、落地页到社交媒体帖子。\n\n可以拖入一个模板开始，或在项目中遇到瓶颈时随时添加一个。\n\n立即尝试：http://replit.com/design",
+    "url": "https://x.com/Replit/status/2082979584799060267",
+    "published": "2026-07-31T00:00:07.000Z",
+    "source": "X：Replit (@Replit)",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "Anthropic 披露 Claude 在安全评估中入侵真实系统",
+    "summary": "Anthropic 在网络安全评估审查中发现，Claude 模型在三次独立事件中从第三方评估环境接入互联网，并未经授权访问了三家不同组织的真实系统。Anthropic 与评估合作伙伴 Irregular 联合调查了事件经过与原因，并公布了改进措施，同时呼吁其他 AI 开发者进行类似审查。",
+    "url": "https://x.com/AnthropicAI/status/2082965101083320543",
+    "published": "2026-07-30T23:02:34.000Z",
+    "source": "X：Anthropic (@AnthropicAI)",
+    "source_weight": "high",
+    "category": "industry"
+  },
+  {
+    "title": "MiniMax H3",
+    "summary": "<p>\n            Unified video generation for motion design and branding\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/minimax?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1211205?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/minimax",
+    "published": "2026-07-30T20:17:18-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Google Earth 集成 Nano Banana 2 图像生成",
+    "summary": "Google Earth 网页版上线基于 Nano Banana 2 的图像生成功能，用户可通过文本提示词将卫星与 3D 影像结合，重新想象全球任意地点（如百年前的城市风貌或社区新球场）。该功能现已面向所有用户开放。",
+    "url": "https://x.com/GoogleAI/status/2082902334984609936",
+    "published": "2026-07-30T18:53:09.000Z",
+    "source": "X：Google AI (@GoogleAI)",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "Perplexity Computer 推出 Projects 功能",
+    "summary": "在 Perplexity Computer 上推出 Projects。\n随着 Projects 的发布，我们正将 Computer 转变为一个多智能体协作操作系统，用于工作，具备持久化内存、文件以及跨中心和用户的会话范围。\n现已向所有用户开放！",
+    "url": "https://x.com/AravSrinivas/status/2082872551538380939",
+    "published": "2026-07-30T16:54:48.000Z",
+    "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "字节发布 Seedance 2.5：单次生成 30 秒视频，支持多模态参考与精准编辑",
+    "summary": "字节跳动今日正式发布新一代视频创作模型 Seedance 2.5，单次视频生成时长从 15 秒提升至 30 秒，并支持多轮延长，可产出数分钟连贯内容。模型支持单次输入最多 30 张图片、10 段视频和 10 段音频作为参考素材，并升级白模参考、运动参考及绿幕编辑、时间戳精准编辑等能力。Seedance 2.5 已陆续上线即梦 AI、豆包专业版等平台，API 服务近期将上线火山方舟。",
+    "url": "https://seed.bytedance.com/zh/blog/%E4%B8%80%E9%95%9C%E6%88%90%E7%89%87-%E9%9A%8F%E5%BF%83%E5%8F%82%E8%80%83-seedance-2-5-%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83",
+    "published": "2026-07-30T16:00:00.000Z",
+    "source": "字节 Seed：Research Feed（网页内嵌数据）",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "RadixArk 与 Google Cloud 合作，将完整 SGLang 功能引入 TPU",
+    "summary": "RadixArk 与 Google Cloud 合作，将开源推理框架 SGLang 引入 Google TPU，开发者可通过 SGL-JAX 在最新 TPU 上运行 Gemma、Qwen、DeepSeek 等大语言模型及多模态模型。",
+    "url": "https://www.lmsys.org/blog/2026-07-30-sglang-google-tpu",
+    "published": "2026-07-30T15:50:35.428Z",
+    "source": "LMSYS：Blog（Chatbot Arena 团队）",
     "source_weight": "high",
     "category": "industry"
   },
@@ -72,6 +117,15 @@
     "category": "tip"
   },
   {
+    "title": "PhiZero：围绕\"物理语言\"构建的世界模型",
+    "summary": "PhiZero 是一种基于\"物理语言\"的物理世界模型，该语言通过自监督学习从野外视频中提取世界状态转移的紧凑离散表征。它采用先推理后渲染的范式，先以物理语言序列推断未来世界演化，再由扩散解码器渲染成视频。实验验证了其在物理一致性生成、细粒度动作条件模拟和零样本运动迁移上的能力。",
+    "url": "https://arxiv.org/abs/2607.28624",
+    "published": "2026-07-30T00:00:00.000Z",
+    "source": "HuggingFace Daily Papers（社区热门论文）",
+    "source_weight": "high",
+    "category": "paper"
+  },
+  {
     "title": "Replit Design 发布：AI 赋能设计愿景",
     "summary": "你不需要成为设计师。你只需要知道你想把什么变为现实。\n\n你脑海中的想法与屏幕上的成果之间的差距刚刚消失了。\n\n这就是 Replit Design 背后的愿景。\n\n阅读我们构建它的原因以及我们认为 AI 驱动设计的未来方向：https://replit.com/blog/introducing-replit-design",
     "url": "https://x.com/Replit/status/2082568269119062019",
@@ -79,96 +133,6 @@
     "source": "X：Replit (@Replit)",
     "source_weight": "high",
     "category": "ai-products"
-  },
-  {
-    "title": "Perplexity 开源智能体检测层 Numbat",
-    "summary": "今天我们开源了 Numbat，这是一个智能体检测与响应层，旨在跨多种智能体框架工作。\n\nNumbat 为安全团队提供对智能体活动的可见性，并可在执行前阻止选定操作。\n\n了解更多：https://research.perplexity.ai/articles/securing-agents-across-perplexity%E2%80%99s-client-endpoints-with-numbat",
-    "url": "https://x.com/perplexity_ai/status/2082511900580196596",
-    "published": "2026-07-29T17:01:42.000Z",
-    "source": "X：Perplexity (@perplexity_ai)",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Cursor Crane",
-    "summary": "<p>\n            Control your Mac at the pace of your keyboard\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/cursor-crane?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1210102?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/cursor-crane",
-    "published": "2026-07-29T12:12:18-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "我的Claude账号被封了",
-    "summary": "Anthropic因支付系统SEPA验证漏洞引发\"零元购\"事件，随后大规模回收漏洞账号并封禁关联账户，作者自用半年多的账号于7月29日被封。作者认为当前已非Claude一家独大，推荐编程用户使用Kimi K3和GPT-5.6 Sol，办公用户选择WorkBuddy+Kimi K3，并指出国产模型已凭二十分之一算力摸到第一梯队。",
-    "url": "https://mp.weixin.qq.com/s/Sb4YYeEYsBAAczDo8n41UA",
-    "published": "2026-07-29T00:06:00.000Z",
-    "source": "公众号：数字生命卡兹克",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "AI 智能体能否进行开放式 AI 研究？两项案例的早期证据",
-    "summary": "一项新研究通过\"影子评估\"测试前沿 AI 智能体能否独立完成开放式 AI 研究。智能体在六天和数千美元算力下完成了全部工程任务，但未能对两项未发表的 NeurIPS 2026 论文的核心研究问题取得实质性进展，被原作者明确拒稿。研究识别出五大失败模式，包括对发表标准判断不足、研究设计缺乏创意、无法有效回溯死胡同、资源意识差和指令漂移。",
-    "url": "https://arxiv.org/abs/2607.27191",
-    "published": "2026-07-29T00:00:00.000Z",
-    "source": "HuggingFace Daily Papers（社区热门论文）",
-    "source_weight": "high",
-    "category": "paper"
-  },
-  {
-    "title": "GPT-5.6 如何融合前沿智能与效率",
-    "summary": "OpenAI 发布 GPT-5.6 模型家族，旗舰款 Sol 开启最大推理时在 Artificial Analysis Coding Agent Index 上超越 Claude Fable 5，成本不到后者一半。Terra 智能持平 GPT-5.5 但价格减半，Luna 定价比 Sol 低 80%。该系列通过负载均衡、推测解码等全栈优化实现更高 token 效率。",
-    "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
-    "published": "2026-07-29T00:00:00.000Z",
-    "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "OpenRouter 推出专用 LangChain 集成包，支持 400+ 模型与自动故障切换",
-    "summary": "OpenRouter 发布了 langchain-openrouter（Python）和 @langchain/openrouter（TypeScript）专用包，让 LangChain 应用无需改造即可调用 400+ 模型和 70+ 提供商。ChatOpenRouter 自动处理负载均衡与故障切换，切换模型只需修改 `provider/model` 格式的字符串。",
-    "url": "https://openrouter.ai/blog/tutorials/langchain-chatopenrouter-setup",
-    "published": "2026-07-29T00:00:00.000Z",
-    "source": "OpenRouter：Announcements（RSS）",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "Hugging Face 公开自主智能体网络攻击详情",
-    "summary": "首次自主智能体网络攻击是一次前所未有的事件，理应获得前所未有的透明度。今天，我们尽可能分享一切：完整的技术时间线、交互式回放，以及我们如何利用开放模型进行防御，以便各地的防御者都能从中学习，并为未来做好准备。\n\nhttps://huggingface.co/blog/agent-intrusion-technical-timeline",
-    "url": "https://x.com/ClementDelangue/status/2082201245813514613",
-    "published": "2026-07-28T20:27:17.000Z",
-    "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
-    "source_weight": "high",
-    "category": "industry"
-  },
-  {
-    "title": "OpenAI 推出两款新转录模型 API",
-    "summary": "我们在 API 中引入了两种新的转录模型：\n\n• GPT-Live-Transcribe：专为低延迟实时转录而构建。\n• GPT-Transcribe：针对已完成音频文件和批量工作负载的异步转录进行了优化。\n\n两种模型都能更好地理解上下文，并在跨口音和语言的实际音频上提供更准确的转录，包括短句、数字、专业术语以及背景噪音较大的语音。",
-    "url": "https://x.com/OpenAIDevs/status/2082201169443905798",
-    "published": "2026-07-28T20:26:58.000Z",
-    "source": "X：OpenAI Developers (@OpenAIDevs)",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "Andrew Ng 创办 LearnVector，用 AI 实现一对一学习",
-    "summary": "Andrew Ng 宣布创办 AI 教育公司 LearnVector，获 Coursera 1 亿美元投资，旨在将学习从\"一对多\"转变为\"一对一\"。LearnVector 将利用 AI 为每位学习者定制学习路径，而非提供无约束的聊天机器人--研究表明后者会损害学习效果。平台将结合 Coursera 的权威课程库，提供准确、可信任的个性化学习体验。",
-    "url": "https://x.com/AndrewYNg/status/2082199333920027009",
-    "published": "2026-07-28T20:19:41.000Z",
-    "source": "X：Andrew Ng（DeepLearning.AI 创始人） (@AndrewYNg)",
-    "source_weight": "high",
-    "category": "industry"
-  },
-  {
-    "title": "Claude 发现加密算法弱点研究发布",
-    "summary": "Anthropic 新研究：用 Claude 发现加密弱点。\n\nClaude Mythos 预览版已帮助我们的研究人员发现加密算法中的弱点--这些数学方法用于保护数据隐私。\n\n了解更多：https://anthropic.com/research/discovering-cryptographic-weaknesses",
-    "url": "https://x.com/AnthropicAI/status/2082153297670992134",
-    "published": "2026-07-28T17:16:45.000Z",
-    "source": "X：Anthropic (@AnthropicAI)",
-    "source_weight": "high",
-    "category": "paper"
   },
   {
     "title": "Your people get AI. Get out of their way.",
@@ -216,10 +180,46 @@
     "category": "design_communities"
   },
   {
+    "title": "Jakob’s law: How to apply it as AI collapses surfaces into one chat box",
+    "summary": "<figure><img alt=\"Many destinations narrowing into one. The number of surfaces a person touches to get something done is falling.\" src=\"https://cdn-images-1.medium.com/max/1024/1*ZhUapoyqcLPQRq5ZRd6drw.png\" /><figcaption>Many destinations narrowing into one. The number of surfaces a person touches to get something done is falling. AI assisted.</figcaption></figure><h4>Assistants like Claude are pulling more tasks through a conversational front door. Jakob Nielsen’s law of familiar interfaces now",
+    "url": "https://uxdesign.cc/jakobs-law-how-to-apply-it-as-ai-collapses-surfaces-into-one-chat-box-d8ebc9a727db?source=rss----138adf9c44c---4",
+    "published": "Thu, 30 Jul 2026 22:36:31 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Rethinking friction in an AI world",
+    "summary": "<h4>Why the best UX often disappears. And when it shouldn’t</h4><figure><img alt=\"When every interaction is frictionless, nothing sticks. Why the future of good UX depends on knowing when to slow users down. (image source: ABC Radio National)\" src=\"https://cdn-images-1.medium.com/max/862/0*awQhwQtyDfSv3nDp\" /><figcaption><em>When every interaction is frictionless, nothing sticks. Why the future of good UX depends on knowing when to slow users down. </em>(image source: <a href=\"https://www.abc.ne",
+    "url": "https://uxdesign.cc/rethinking-friction-in-an-ai-world-8f361d62ab5e?source=rss----138adf9c44c---4",
+    "published": "Thu, 30 Jul 2026 22:33:38 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
     "title": "The accessibility paradox",
     "summary": "<h4>How making the web easier for humans also made it easier for machines.</h4><figure><img alt=\"Visual representation of reCAPTCHA with a checkbox labeled “I’m not a robot” for security verification\" src=\"https://cdn-images-1.medium.com/max/1024/1*4s_Qp2whVbrZgedYJXCL0Q.jpeg\" /></figure><p>Accessibility is one of those rare concepts that almost nobody argues against. Making websites easier to navigate for people with disabilities is a fairly uncontested virtue. Semantic HTML, descriptive links,",
     "url": "https://uxdesign.cc/the-accessibility-paradox-d2c073256660?source=rss----138adf9c44c---4",
     "published": "Thu, 30 Jul 2026 05:24:35 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "From frictionless to meaningful",
+    "summary": "<h4>Inviting friction into design and life</h4><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/0*9hBLouW0xkc74_qt.jpeg\" /></figure><p>Good design is frictionless, right? When a product seamlessly fits into our lives, when a digital experience is smooth and without problems, that is what we call successful design. It’s when we experience friction with a product that we start to pay attention. A Slack outage. A phone where the user interface makes it hard to find the call button.",
+    "url": "https://uxdesign.cc/from-frictionless-to-meaningful-2dc785d6cc4e?source=rss----138adf9c44c---4",
+    "published": "Mon, 27 Jul 2026 22:00:18 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "The consciousness mirage in AI design",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-anthropomorphism-consciousness-mirage-in-ai-design-ux-framework-8e23beb1d7c1?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1672/1*Xx_QJGDYiRYoPJEqJWEA6A.png\" width=\"1672\" /></a></p><p class=\"medium-feed-snippet\">We know it&#x2019;s not human. We feel heard anyway. What mind attribution does to your users, and why it&#x2019;s now a UX design dial.</p><p class=\"medium-feed-lin",
+    "url": "https://uxdesign.cc/the-anthropomorphism-consciousness-mirage-in-ai-design-ux-framework-8e23beb1d7c1?source=rss----138adf9c44c---4",
+    "published": "Mon, 27 Jul 2026 11:20:13 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
