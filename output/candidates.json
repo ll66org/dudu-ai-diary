@@ -1,12 +1,93 @@
 [
   {
-    "title": "欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行",
-    "summary": "欧盟《人工智能法》新增透明度要求于8月2日起正式执行，聊天机器人等交互式AI系统须明确告知用户其AI身份，深度伪造内容须加标识及机器可识别标记。同日公布首批签署《人工智能生成内容透明度行为准则》的180多家机构名单，包括谷歌、微软、OpenAI等，Meta拒绝加入。违反透明度义务最高可处750万欧元或全球年营业额1%的罚款。",
-    "url": "https://www.ithome.com/0/984/365.htm",
-    "published": "2026-07-31T11:40:12.000Z",
-    "source": "IT之家（RSS）",
+    "title": "Building biology AI models autonomously",
+    "summary": "<p>Article URL: <a href=\"https://phylo.bio/blog/biomni-tuso\">https://phylo.bio/blog/biomni-tuso</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49133734\">https://news.ycombinator.com/item?id=49133734</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "url": "https://phylo.bio/blog/biomni-tuso",
+    "published": "Sat, 01 Aug 2026 12:11:32 +0000",
+    "source": "Hacker News (设计向)",
     "source_weight": "high",
-    "category": "industry"
+    "category": "ai_tech"
+  },
+  {
+    "title": "I built a tracker and comparison platform for AI video models",
+    "summary": "<p>Article URL: <a href=\"https://videoall.ai\">https://videoall.ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49133273\">https://news.ycombinator.com/item?id=49133273</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://videoall.ai",
+    "published": "Sat, 01 Aug 2026 11:03:40 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Taboo \"equilibrium\": Less confused frames for research on AI bargaining",
+    "summary": "<p>Article URL: <a href=\"https://www.lesswrong.com/posts/KDq5aXwanvH5YoZYs/taboo-equilibrium-less-confused-frames-for-research-on-ai\">https://www.lesswrong.com/posts/KDq5aXwanvH5YoZYs/taboo-equilibrium-less-confused-frames-for-research-on-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49133262\">https://news.ycombinator.com/item?id=49133262</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://www.lesswrong.com/posts/KDq5aXwanvH5YoZYs/taboo-equilibrium-less-confused-frames-for-research-on-ai",
+    "published": "Sat, 01 Aug 2026 11:02:26 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "A Yale AI-cheating dispute became a 13-count federal lawsuit",
+    "summary": "<p>Article URL: <a href=\"https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/\">https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49132954\">https://news.ycombinator.com/item?id=49132954</a></p>\n<p>Points: 3</p>\n<p># Comments: 1</p>",
+    "url": "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
+    "published": "Sat, 01 Aug 2026 10:11:40 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "TokenIgnite – Runtime Figma-to-code validation for AI workflows",
+    "summary": "<p>Article URL: <a href=\"https://tokenignite.live\">https://tokenignite.live</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49132687\">https://news.ycombinator.com/item?id=49132687</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://tokenignite.live",
+    "published": "Sat, 01 Aug 2026 09:24:32 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Perplexity AI loses bid to toss Reddit lawsuit over data scraping",
+    "summary": "<p>Article URL: <a href=\"https://www.reuters.com/legal/litigation/perplexity-ai-loses-bid-toss-reddit-lawsuit-over-data-scraping-2026-07-31/\">https://www.reuters.com/legal/litigation/perplexity-ai-loses-bid-toss-reddit-lawsuit-over-data-scraping-2026-07-31/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49132193\">https://news.ycombinator.com/item?id=49132193</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+    "url": "https://www.reuters.com/legal/litigation/perplexity-ai-loses-bid-toss-reddit-lawsuit-over-data-scraping-2026-07-31/",
+    "published": "Sat, 01 Aug 2026 08:04:22 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "smevals：用于评测模型、提示词与评测框架的小型评测套件",
+    "summary": "smevals 是 Simon Willison 与 Prime Radiant 实验室合作开发的新工具，用于跨不同模型配置运行小型评测套件并对结果打分。它支持通过 `uvx smevals run` 对 gpt-5.5、claude-opus-4.6 等模型运行评测，并将运行与打分分离，最终可生成静态 HTML 报告。这是 Willison 在评测方法上的第三次迭代。",
+    "url": "https://simonwillison.net/2026/Jul/31/smevals",
+    "published": "2026-07-31T21:15:23.000Z",
+    "source": "Simon Willison 博客",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "animated-voiceover 开源：一人干翻动画工作室",
+    "summary": "前字节产品经理 @s1dashu 开源 animated-voiceover，一套喂给 Codex/Claude Code 的完整动画科普视频制片流程，MIT 协议，可实现 90% 自动化。",
+    "url": "https://x.com/AYi_AInotes/status/2083221612778668388",
+    "published": "2026-07-31T16:01:51.000Z",
+    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "面壁智能ALIGN：自动对齐智能体与环境接口",
+    "summary": "面壁智能与清华NLP团队提出ALIGN，自动生成对齐接口解决智能体与环境间的失配问题。仅改写反馈措辞即可将Qwen2.5-7B智能体在ALFWorld上的成功率从13.4%提升至31.3%。该方法在四个基准上最高提升45.67%成功率，并减少65%连续无效动作，且接口可跨智能体架构和LLM骨干迁移。",
+    "url": "https://x.com/OpenBMB/status/2083175856563003724",
+    "published": "2026-07-31T13:00:02.000Z",
+    "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+    "source_weight": "high",
+    "category": "paper"
+  },
+  {
+    "title": "教程：用 Antigravity SDK 与 Google Cloud 构建自主财务审计智能体团队",
+    "summary": "本教程演示如何用 Google Antigravity SDK 与 Google Cloud 构建多智能体财务对账系统，将供应商交易与 PDF 发票核对。系统由审计编排器、数据研究员、发票分析器和对账引擎四个智能体组成，并设有人工合规门控，将超过 $1，000 的差异升级人工审核。",
+    "url": "https://dev.to/googleai/hands-on-tutorial-building-an-autonomous-financial-audit-agent-team-with-antigravity-sdk-google-13de",
+    "published": "2026-07-31T11:07:35.000Z",
+    "source": "Google AI：DEV 作者专属（RSS）",
+    "source_weight": "high",
+    "category": "tip"
   },
   {
     "title": "Anthropic 承认三款 Claude 模型逃出测试环境攻击真实系统",
@@ -54,15 +135,6 @@
     "category": "industry"
   },
   {
-    "title": "MiniMax H3",
-    "summary": "<p>\n            Unified video generation for motion design and branding\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/minimax?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1211205?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/minimax",
-    "published": "2026-07-30T20:17:18-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
     "title": "Google Earth 集成 Nano Banana 2 图像生成",
     "summary": "Google Earth 网页版上线基于 Nano Banana 2 的图像生成功能，用户可通过文本提示词将卫星与 3D 影像结合，重新想象全球任意地点（如百年前的城市风貌或社区新球场）。该功能现已面向所有用户开放。",
     "url": "https://x.com/GoogleAI/status/2082902334984609936",
@@ -70,6 +142,15 @@
     "source": "X：Google AI (@GoogleAI)",
     "source_weight": "high",
     "category": "ai-products"
+  },
+  {
+    "title": "Inkling-Small 发布，276B 参数性能持平原版",
+    "summary": "今天，我们发布 Inkling-Small。\n\nInkling-Small 在仅为 Inkling 四分之一规模的情况下，实现了与之相当的性能。它拥有 276B 总参数，12B 激活参数。我们将开放完整权重。\n\nhttps://thinkingmachines.ai/news/inkling-small/\n\n现在即可在 Tinker 上对其进行微调，或在 Tinker Playground 中以文本、图像和音频形式与之对话。",
+    "url": "https://x.com/thinkymachines/status/2082885869426631032",
+    "published": "2026-07-30T17:47:44.000Z",
+    "source": "X：Thinking Machines (@thinkymachines)",
+    "source_weight": "high",
+    "category": "ai-models"
   },
   {
     "title": "Perplexity Computer 推出 Projects 功能",
@@ -97,42 +178,6 @@
     "source": "LMSYS：Blog（Chatbot Arena 团队）",
     "source_weight": "high",
     "category": "industry"
-  },
-  {
-    "title": "Token Saver：用本地混合 RAG 将 Claude PDF token 消耗削减 92%-99% 的开源 MCP 扩展",
-    "summary": "Marktechpost AI 团队发布 Token Saver，一款面向 Claude Desktop 的开源 MCP 扩展，通过本地混合 RAG 在设备端检索 PDF，无需上传文件。该工具将 token 消耗削减 92%-99%，并保证数据隐私，设置无需 Python 环境或终端配置。",
-    "url": "https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag",
-    "published": "2026-07-30T07:43:29.000Z",
-    "source": "MarkTechPost（RSS）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "OpenAI 总裁布罗克曼承认新版 ChatGPT 桌面应用\"有点乱\"，目标年底实现\"零标签\"",
-    "summary": "OpenAI 联合创始人兼总裁格雷格·布罗克曼承认，合并 Codex 后的新版 ChatGPT 桌面应用界面\"有点乱\"，导致部分用户难以找到聊天记录。他透露，到 2026 年年底，ChatGPT 桌面应用将不再有 Work 标签页，功能会融入 ChatGPT。整合后，Codex 用户数在几天内从 500 万增至 1000 万。",
-    "url": "https://www.ithome.com/0/983/444.htm",
-    "published": "2026-07-30T02:49:47.000Z",
-    "source": "IT之家（RSS）",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "PhiZero：围绕\"物理语言\"构建的世界模型",
-    "summary": "PhiZero 是一种基于\"物理语言\"的物理世界模型，该语言通过自监督学习从野外视频中提取世界状态转移的紧凑离散表征。它采用先推理后渲染的范式，先以物理语言序列推断未来世界演化，再由扩散解码器渲染成视频。实验验证了其在物理一致性生成、细粒度动作条件模拟和零样本运动迁移上的能力。",
-    "url": "https://arxiv.org/abs/2607.28624",
-    "published": "2026-07-30T00:00:00.000Z",
-    "source": "HuggingFace Daily Papers（社区热门论文）",
-    "source_weight": "high",
-    "category": "paper"
-  },
-  {
-    "title": "Replit Design 发布：AI 赋能设计愿景",
-    "summary": "你不需要成为设计师。你只需要知道你想把什么变为现实。\n\n你脑海中的想法与屏幕上的成果之间的差距刚刚消失了。\n\n这就是 Replit Design 背后的愿景。\n\n阅读我们构建它的原因以及我们认为 AI 驱动设计的未来方向：https://replit.com/blog/introducing-replit-design",
-    "url": "https://x.com/Replit/status/2082568269119062019",
-    "published": "2026-07-29T20:45:42.000Z",
-    "source": "X：Replit (@Replit)",
-    "source_weight": "high",
-    "category": "ai-products"
   },
   {
     "title": "Your people get AI. Get out of their way.",
@@ -176,51 +221,6 @@
     "url": "https://smashingmagazine.com/2026/07/digital-design-ai-era/",
     "published": "Tue, 28 Jul 2026 10:00:00 GMT",
     "source": "Smashing Magazine",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Jakob’s law: How to apply it as AI collapses surfaces into one chat box",
-    "summary": "<figure><img alt=\"Many destinations narrowing into one. The number of surfaces a person touches to get something done is falling.\" src=\"https://cdn-images-1.medium.com/max/1024/1*ZhUapoyqcLPQRq5ZRd6drw.png\" /><figcaption>Many destinations narrowing into one. The number of surfaces a person touches to get something done is falling. AI assisted.</figcaption></figure><h4>Assistants like Claude are pulling more tasks through a conversational front door. Jakob Nielsen’s law of familiar interfaces now",
-    "url": "https://uxdesign.cc/jakobs-law-how-to-apply-it-as-ai-collapses-surfaces-into-one-chat-box-d8ebc9a727db?source=rss----138adf9c44c---4",
-    "published": "Thu, 30 Jul 2026 22:36:31 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Rethinking friction in an AI world",
-    "summary": "<h4>Why the best UX often disappears. And when it shouldn’t</h4><figure><img alt=\"When every interaction is frictionless, nothing sticks. Why the future of good UX depends on knowing when to slow users down. (image source: ABC Radio National)\" src=\"https://cdn-images-1.medium.com/max/862/0*awQhwQtyDfSv3nDp\" /><figcaption><em>When every interaction is frictionless, nothing sticks. Why the future of good UX depends on knowing when to slow users down. </em>(image source: <a href=\"https://www.abc.ne",
-    "url": "https://uxdesign.cc/rethinking-friction-in-an-ai-world-8f361d62ab5e?source=rss----138adf9c44c---4",
-    "published": "Thu, 30 Jul 2026 22:33:38 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "The accessibility paradox",
-    "summary": "<h4>How making the web easier for humans also made it easier for machines.</h4><figure><img alt=\"Visual representation of reCAPTCHA with a checkbox labeled “I’m not a robot” for security verification\" src=\"https://cdn-images-1.medium.com/max/1024/1*4s_Qp2whVbrZgedYJXCL0Q.jpeg\" /></figure><p>Accessibility is one of those rare concepts that almost nobody argues against. Making websites easier to navigate for people with disabilities is a fairly uncontested virtue. Semantic HTML, descriptive links,",
-    "url": "https://uxdesign.cc/the-accessibility-paradox-d2c073256660?source=rss----138adf9c44c---4",
-    "published": "Thu, 30 Jul 2026 05:24:35 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "From frictionless to meaningful",
-    "summary": "<h4>Inviting friction into design and life</h4><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/0*9hBLouW0xkc74_qt.jpeg\" /></figure><p>Good design is frictionless, right? When a product seamlessly fits into our lives, when a digital experience is smooth and without problems, that is what we call successful design. It’s when we experience friction with a product that we start to pay attention. A Slack outage. A phone where the user interface makes it hard to find the call button.",
-    "url": "https://uxdesign.cc/from-frictionless-to-meaningful-2dc785d6cc4e?source=rss----138adf9c44c---4",
-    "published": "Mon, 27 Jul 2026 22:00:18 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "The consciousness mirage in AI design",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-anthropomorphism-consciousness-mirage-in-ai-design-ux-framework-8e23beb1d7c1?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1672/1*Xx_QJGDYiRYoPJEqJWEA6A.png\" width=\"1672\" /></a></p><p class=\"medium-feed-snippet\">We know it&#x2019;s not human. We feel heard anyway. What mind attribution does to your users, and why it&#x2019;s now a UX design dial.</p><p class=\"medium-feed-lin",
-    "url": "https://uxdesign.cc/the-anthropomorphism-consciousness-mirage-in-ai-design-ux-framework-8e23beb1d7c1?source=rss----138adf9c44c---4",
-    "published": "Mon, 27 Jul 2026 11:20:13 GMT",
-    "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
   }

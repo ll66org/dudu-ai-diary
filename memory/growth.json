@@ -1,5 +1,5 @@
 {
-  "day_count": 99,
+  "day_count": 100,
   "history": [
     {
       "day": 20,
@@ -531,6 +531,13 @@
       "date": "2026-07-31",
       "topic": "欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行",
       "source": "IT之家（RSS）",
+      "mode": "rss"
+    },
+    {
+      "day": 100,
+      "date": "2026-08-01",
+      "topic": "smevals：用于评测模型、提示词与评测框架的小型评测套件",
+      "source": "Simon Willison 博客",
       "mode": "rss"
     }
   ],

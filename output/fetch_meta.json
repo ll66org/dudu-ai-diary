@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-31T13:16:21.025994Z",
+  "fetched_at": "2026-08-01T12:34:52.536628Z",
   "total_candidates": 25,
   "source_stats": {
     "Figma Blog": {
@@ -8,7 +8,7 @@
     },
     "Vercel Blog (v0)": {
       "found": 0,
-      "total": 1406
+      "total": 1414
     },
     "Cursor Changelog": {
       "found": 0,
@@ -51,11 +51,11 @@
       "total": 20
     },
     "Hacker News (设计向)": {
-      "found": 0,
-      "total": 0
+      "found": 6,
+      "total": 20
     },
     "Product Hunt": {
-      "found": 1,
+      "found": 0,
       "total": 50
     },
     "Designer News (AI Design)": {
@@ -64,27 +64,27 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 99,
-  "today_date": "2026-07-31",
+  "dudu_day": 100,
+  "today_date": "2026-08-01",
   "used_titles": [
-    "通义千问发布Qwen-Audio-3.0-TTS，登顶TTS排行榜",
     "FLUX 3 x mimic：新一代视频动作模型",
     "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
     "当编码不再是瓶颈：Berkeley RDI 提出软件自主开发三级框架",
     "火山引擎上线豆包搜索服务，为AI Agent提供实时可信搜索能力",
     "OpenAI 失控 AI 智能体不止攻击了 Hugging Face，还入侵了多家公司",
-    "FCC 禁止进口中国新型机器人与联网逆变器"
+    "FCC 禁止进口中国新型机器人与联网逆变器",
+    "欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行"
   ],
   "used_tools": [
-    "X：通义千问 / Qwen (@Alibaba_Qwen)",
     "Hacker News 热门（buzzing.cc 中文翻译）",
     "IT之家（RSS）",
     "Berkeley RDI：Blog（AI 安全与评测）",
     "公众号：火山引擎",
     "The Verge：AI（RSS）",
-    "The Decoder：AI News（RSS）"
+    "The Decoder：AI News（RSS）",
+    "IT之家（RSS）"
   ],
-  "briefing_total": 61,
-  "briefing_design": 27,
+  "briefing_total": 49,
+  "briefing_design": 22,
   "briefing_count": 5
 }
