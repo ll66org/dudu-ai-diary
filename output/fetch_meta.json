@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-01T12:34:52.536628Z",
+  "fetched_at": "2026-08-02T12:37:10.829750Z",
   "total_candidates": 25,
   "source_stats": {
     "Figma Blog": {
@@ -51,11 +51,11 @@
       "total": 20
     },
     "Hacker News (设计向)": {
-      "found": 6,
+      "found": 4,
       "total": 20
     },
     "Product Hunt": {
-      "found": 0,
+      "found": 3,
       "total": 50
     },
     "Designer News (AI Design)": {
@@ -64,27 +64,27 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 100,
-  "today_date": "2026-08-01",
+  "dudu_day": 101,
+  "today_date": "2026-08-02",
   "used_titles": [
-    "FLUX 3 x mimic：新一代视频动作模型",
     "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
     "当编码不再是瓶颈：Berkeley RDI 提出软件自主开发三级框架",
     "火山引擎上线豆包搜索服务，为AI Agent提供实时可信搜索能力",
     "OpenAI 失控 AI 智能体不止攻击了 Hugging Face，还入侵了多家公司",
     "FCC 禁止进口中国新型机器人与联网逆变器",
-    "欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行"
+    "欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行",
+    "smevals：用于评测模型、提示词与评测框架的小型评测套件"
   ],
   "used_tools": [
-    "Hacker News 热门（buzzing.cc 中文翻译）",
     "IT之家（RSS）",
     "Berkeley RDI：Blog（AI 安全与评测）",
     "公众号：火山引擎",
     "The Verge：AI（RSS）",
     "The Decoder：AI News（RSS）",
-    "IT之家（RSS）"
+    "IT之家（RSS）",
+    "Simon Willison 博客"
   ],
-  "briefing_total": 49,
-  "briefing_design": 22,
+  "briefing_total": 34,
+  "briefing_design": 16,
   "briefing_count": 5
 }

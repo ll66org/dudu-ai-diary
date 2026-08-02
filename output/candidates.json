@@ -1,66 +1,66 @@
 [
   {
-    "title": "Building biology AI models autonomously",
-    "summary": "<p>Article URL: <a href=\"https://phylo.bio/blog/biomni-tuso\">https://phylo.bio/blog/biomni-tuso</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49133734\">https://news.ycombinator.com/item?id=49133734</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
-    "url": "https://phylo.bio/blog/biomni-tuso",
-    "published": "Sat, 01 Aug 2026 12:11:32 +0000",
+    "title": "Shadscan – Deterministic UI Audits for Shadcn Apps",
+    "summary": "<p>Article URL: <a href=\"https://github.com/TheOrcDev/shadscan\">https://github.com/TheOrcDev/shadscan</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49143742\">https://news.ycombinator.com/item?id=49143742</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://github.com/TheOrcDev/shadscan",
+    "published": "Sun, 02 Aug 2026 12:09:30 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "I built a tracker and comparison platform for AI video models",
-    "summary": "<p>Article URL: <a href=\"https://videoall.ai\">https://videoall.ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49133273\">https://news.ycombinator.com/item?id=49133273</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://videoall.ai",
-    "published": "Sat, 01 Aug 2026 11:03:40 +0000",
+    "title": "Best way to avoid bloat and AI – selfcontaining OS",
+    "summary": "<p>I wanted an OS that I could truly own. Most modern systems have become server-controlled clients, bloated with dependencies (Gtk4/Qt/Rust/Wayland) and centralized source control on GitHub. If you cannot audit the dependency tree and Big Corp controls the source, it is no longer real open source.<p>I built OneManBSD to address this. It is an OpenBSD-based system built on a single 2012 ThinkPad L430.<p>Project Video: https://www.youtube.com/watch?v=2wHaoQhXOYY\nProject Page: https://bialamusic.c",
+    "url": "https://news.ycombinator.com/item?id=49143571",
+    "published": "Sun, 02 Aug 2026 11:47:09 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Taboo \"equilibrium\": Less confused frames for research on AI bargaining",
-    "summary": "<p>Article URL: <a href=\"https://www.lesswrong.com/posts/KDq5aXwanvH5YoZYs/taboo-equilibrium-less-confused-frames-for-research-on-ai\">https://www.lesswrong.com/posts/KDq5aXwanvH5YoZYs/taboo-equilibrium-less-confused-frames-for-research-on-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49133262\">https://news.ycombinator.com/item?id=49133262</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://www.lesswrong.com/posts/KDq5aXwanvH5YoZYs/taboo-equilibrium-less-confused-frames-for-research-on-ai",
-    "published": "Sat, 01 Aug 2026 11:02:26 +0000",
+    "title": "Show HN: Documan – AI Powered Requirement Management Workspace",
+    "summary": "<p>That is a tool that I have developed based on my own needs since it was a shame not to use AI for requirement generation. There are ancient tools like IBM DOORS but they require buying seat licences and they don't have any support for LLMs.\nI see that requirement management is a mess most of time, people are going back and forth between tools and Excel and Word. Customer couldn't track requirement history and don't be able to oversee which documents needs to be changed for specific system req",
+    "url": "https://github.com/bbayer/DocuMan",
+    "published": "Sun, 02 Aug 2026 10:38:26 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "A Yale AI-cheating dispute became a 13-count federal lawsuit",
-    "summary": "<p>Article URL: <a href=\"https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/\">https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49132954\">https://news.ycombinator.com/item?id=49132954</a></p>\n<p>Points: 3</p>\n<p># Comments: 1</p>",
-    "url": "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
-    "published": "Sat, 01 Aug 2026 10:11:40 +0000",
+    "title": "Ask HN: Am I the only one getting so many cursor ads?",
+    "summary": "<p>Its the same cast sitting on a table yapping or some genz building some random robot slop</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49142728\">https://news.ycombinator.com/item?id=49142728</a></p>\n<p>Points: 3</p>\n<p># Comments: 2</p>",
+    "url": "https://news.ycombinator.com/item?id=49142728",
+    "published": "Sun, 02 Aug 2026 09:35:53 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "TokenIgnite – Runtime Figma-to-code validation for AI workflows",
-    "summary": "<p>Article URL: <a href=\"https://tokenignite.live\">https://tokenignite.live</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49132687\">https://news.ycombinator.com/item?id=49132687</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://tokenignite.live",
-    "published": "Sat, 01 Aug 2026 09:24:32 +0000",
-    "source": "Hacker News (设计向)",
+    "title": "Termexo",
+    "summary": "<p>\n            A local Windows workbench for Claude Code and Codex\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/termexo?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1212781?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/termexo",
+    "published": "2026-08-01T23:05:43-07:00",
+    "source": "Product Hunt",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Perplexity AI loses bid to toss Reddit lawsuit over data scraping",
-    "summary": "<p>Article URL: <a href=\"https://www.reuters.com/legal/litigation/perplexity-ai-loses-bid-toss-reddit-lawsuit-over-data-scraping-2026-07-31/\">https://www.reuters.com/legal/litigation/perplexity-ai-loses-bid-toss-reddit-lawsuit-over-data-scraping-2026-07-31/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49132193\">https://news.ycombinator.com/item?id=49132193</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
-    "url": "https://www.reuters.com/legal/litigation/perplexity-ai-loses-bid-toss-reddit-lawsuit-over-data-scraping-2026-07-31/",
-    "published": "Sat, 01 Aug 2026 08:04:22 +0000",
-    "source": "Hacker News (设计向)",
+    "title": "Bolcho AI",
+    "summary": "<p>\n            Build Voice AI agents that actually speak India\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/bolcho-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1212580?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/bolcho-ai",
+    "published": "2026-08-01T15:44:45-07:00",
+    "source": "Product Hunt",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "smevals：用于评测模型、提示词与评测框架的小型评测套件",
-    "summary": "smevals 是 Simon Willison 与 Prime Radiant 实验室合作开发的新工具，用于跨不同模型配置运行小型评测套件并对结果打分。它支持通过 `uvx smevals run` 对 gpt-5.5、claude-opus-4.6 等模型运行评测，并将运行与打分分离，最终可生成静态 HTML 报告。这是 Willison 在评测方法上的第三次迭代。",
-    "url": "https://simonwillison.net/2026/Jul/31/smevals",
-    "published": "2026-07-31T21:15:23.000Z",
-    "source": "Simon Willison 博客",
+    "title": "Lumichats(Free)",
+    "summary": "<p>\n            A Claude Code alternative for people who avoid the terminal\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/lumichats-offline?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1212303?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/lumichats-offline",
+    "published": "2026-08-01T07:10:42-07:00",
+    "source": "Product Hunt",
     "source_weight": "high",
-    "category": "tip"
+    "category": "ai_tech"
   },
   {
     "title": "animated-voiceover 开源：一人干翻动画工作室",
@@ -198,15 +198,6 @@
     "category": "design_communities"
   },
   {
-    "title": "The UX of Contrast: Lessons from Indika’s Game Design",
-    "summary": "<figure><img alt=\"The article cover featuring the official Indika key art from the Steam page.\" src=\"https://cdn-images-1.medium.com/max/1024/0*f0Ma5iX_z0Sg7sRp.jpg\" /></figure><h4>Introducing PX Contrast: a deliberate layering of conflicting player experiences leading to intentional multiple interpretations</h4><p>Contrast is one of the most familiar <a href=\"https://www.nngroup.com/articles/visual-hierarchy-ux-definition/\">visual tools</a> for guiding attention in design. But in Indika it beco",
-    "url": "https://uxdesign.cc/the-ux-of-contrast-what-indika-taught-me-about-designing-intentional-contradiction-c880e9eaf084?source=rss----138adf9c44c---4",
-    "published": "Wed, 29 Jul 2026 21:57:08 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
     "title": "The Bull And Bear Case For Digital Design In The Age Of AI",
     "summary": "As AI reshapes product design, it could give designers greater autonomy or expose the gaps that autonomy makes harder to hide. Exploring both the bull and bear cases, Andy Budd examines what happens when designers need less permission to act.",
     "url": "https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/",
@@ -221,6 +212,15 @@
     "url": "https://smashingmagazine.com/2026/07/digital-design-ai-era/",
     "published": "Tue, 28 Jul 2026 10:00:00 GMT",
     "source": "Smashing Magazine",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Jakob’s law: How to apply it as AI collapses surfaces into one chat box",
+    "summary": "<figure><img alt=\"Many destinations narrowing into one. The number of surfaces a person touches to get something done is falling.\" src=\"https://cdn-images-1.medium.com/max/1024/1*ZhUapoyqcLPQRq5ZRd6drw.png\" /><figcaption>Many destinations narrowing into one. The number of surfaces a person touches to get something done is falling. AI assisted.</figcaption></figure><h4>Assistants like Claude are pulling more tasks through a conversational front door. Jakob Nielsen’s law of familiar interfaces now",
+    "url": "https://uxdesign.cc/jakobs-law-how-to-apply-it-as-ai-collapses-surfaces-into-one-chat-box-d8ebc9a727db?source=rss----138adf9c44c---4",
+    "published": "Thu, 30 Jul 2026 22:36:31 GMT",
+    "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
   }

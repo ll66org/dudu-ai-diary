@@ -1,5 +1,5 @@
 {
-  "day_count": 100,
+  "day_count": 101,
   "history": [
     {
       "day": 20,
@@ -536,6 +536,13 @@
     {
       "day": 100,
       "date": "2026-08-01",
+      "topic": "smevals：用于评测模型、提示词与评测框架的小型评测套件",
+      "source": "Simon Willison 博客",
+      "mode": "rss"
+    },
+    {
+      "day": 101,
+      "date": "2026-08-02",
       "topic": "smevals：用于评测模型、提示词与评测框架的小型评测套件",
       "source": "Simon Willison 博客",
       "mode": "rss"
