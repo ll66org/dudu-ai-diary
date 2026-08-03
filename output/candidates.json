@@ -1,63 +1,45 @@
 [
   {
-    "title": "Shadscan – Deterministic UI Audits for Shadcn Apps",
-    "summary": "<p>Article URL: <a href=\"https://github.com/TheOrcDev/shadscan\">https://github.com/TheOrcDev/shadscan</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49143742\">https://news.ycombinator.com/item?id=49143742</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://github.com/TheOrcDev/shadscan",
-    "published": "Sun, 02 Aug 2026 12:09:30 +0000",
-    "source": "Hacker News (设计向)",
+    "title": "Cloudflare 推出 Billable Usage API：为自助账户提供按产品与计费周期的程序化成本可见性",
+    "summary": "Cloudflare 发布 Billable Usage API，为自助账户提供单一端点，一次调用即可返回按产品和计费周期拆分的用量与成本，覆盖 Workers、R2、D1、Workers AI、Vectorize、Images 和 Stream。",
+    "url": "https://blog.cloudflare.com/billable-usage-api",
+    "published": "2026-08-03T13:00:00.000Z",
+    "source": "Cloudflare Blog",
     "source_weight": "high",
-    "category": "ai_tech"
+    "category": "ai-products"
   },
   {
-    "title": "Best way to avoid bloat and AI – selfcontaining OS",
-    "summary": "<p>I wanted an OS that I could truly own. Most modern systems have become server-controlled clients, bloated with dependencies (Gtk4/Qt/Rust/Wayland) and centralized source control on GitHub. If you cannot audit the dependency tree and Big Corp controls the source, it is no longer real open source.<p>I built OneManBSD to address this. It is an OpenBSD-based system built on a single 2012 ThinkPad L430.<p>Project Video: https://www.youtube.com/watch?v=2wHaoQhXOYY\nProject Page: https://bialamusic.c",
-    "url": "https://news.ycombinator.com/item?id=49143571",
-    "published": "Sun, 02 Aug 2026 11:47:09 +0000",
-    "source": "Hacker News (设计向)",
+    "title": "Kimi Work 幻灯片制作教程发布",
+    "summary": "使用 Kimi Work 制作幻灯片 - 教程 #1。\n\nKimi Slides 处理整个幻灯片制作流程：\n- 清晰的结构与研究，由 Kimi K3 驱动\n- 连贯的设计，包括精美的图表和 SmartArts\n- 可编辑并可直接下载\n\n欢迎在评论区告诉我们你还想看什么内容！",
+    "url": "https://x.com/Kimi_Moonshot/status/2084245860339298423",
+    "published": "2026-08-03T11:51:51.000Z",
+    "source": "X：Kimi.ai (@Kimi_Moonshot)",
     "source_weight": "high",
-    "category": "ai_tech"
+    "category": "tip"
   },
   {
-    "title": "Show HN: Documan – AI Powered Requirement Management Workspace",
-    "summary": "<p>That is a tool that I have developed based on my own needs since it was a shame not to use AI for requirement generation. There are ancient tools like IBM DOORS but they require buying seat licences and they don't have any support for LLMs.\nI see that requirement management is a mess most of time, people are going back and forth between tools and Excel and Word. Customer couldn't track requirement history and don't be able to oversee which documents needs to be changed for specific system req",
-    "url": "https://github.com/bbayer/DocuMan",
-    "published": "Sun, 02 Aug 2026 10:38:26 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Ask HN: Am I the only one getting so many cursor ads?",
-    "summary": "<p>Its the same cast sitting on a table yapping or some genz building some random robot slop</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49142728\">https://news.ycombinator.com/item?id=49142728</a></p>\n<p>Points: 3</p>\n<p># Comments: 2</p>",
-    "url": "https://news.ycombinator.com/item?id=49142728",
-    "published": "Sun, 02 Aug 2026 09:35:53 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Termexo",
-    "summary": "<p>\n            A local Windows workbench for Claude Code and Codex\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/termexo?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1212781?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/termexo",
-    "published": "2026-08-01T23:05:43-07:00",
+    "title": "Murmell",
+    "summary": "<p>\n            Cloud canvas where your team and AI agents works together\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/murmell?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1213367?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/murmell",
+    "published": "2026-08-02T19:46:50-07:00",
     "source": "Product Hunt",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Bolcho AI",
-    "summary": "<p>\n            Build Voice AI agents that actually speak India\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/bolcho-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1212580?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/bolcho-ai",
-    "published": "2026-08-01T15:44:45-07:00",
+    "title": "mpai",
+    "summary": "<p>\n            Make existing Codex and Claude Code sessions multiplayer\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/mpai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1213234?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/mpai",
+    "published": "2026-08-02T13:12:27-07:00",
     "source": "Product Hunt",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Lumichats(Free)",
-    "summary": "<p>\n            A Claude Code alternative for people who avoid the terminal\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/lumichats-offline?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1212303?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/lumichats-offline",
-    "published": "2026-08-01T07:10:42-07:00",
+    "title": "claudemon",
+    "summary": "<p>\n            Wild Pokémon appear while you wait for Claude Code\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/claudemon?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1213145?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/claudemon",
+    "published": "2026-08-02T10:23:42-07:00",
     "source": "Product Hunt",
     "source_weight": "high",
     "category": "ai_tech"
@@ -70,132 +52,6 @@
     "source": "X：阿易 AI Notes (@AYi_AInotes)",
     "source_weight": "high",
     "category": "tip"
-  },
-  {
-    "title": "面壁智能ALIGN：自动对齐智能体与环境接口",
-    "summary": "面壁智能与清华NLP团队提出ALIGN，自动生成对齐接口解决智能体与环境间的失配问题。仅改写反馈措辞即可将Qwen2.5-7B智能体在ALFWorld上的成功率从13.4%提升至31.3%。该方法在四个基准上最高提升45.67%成功率，并减少65%连续无效动作，且接口可跨智能体架构和LLM骨干迁移。",
-    "url": "https://x.com/OpenBMB/status/2083175856563003724",
-    "published": "2026-07-31T13:00:02.000Z",
-    "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-    "source_weight": "high",
-    "category": "paper"
-  },
-  {
-    "title": "教程：用 Antigravity SDK 与 Google Cloud 构建自主财务审计智能体团队",
-    "summary": "本教程演示如何用 Google Antigravity SDK 与 Google Cloud 构建多智能体财务对账系统，将供应商交易与 PDF 发票核对。系统由审计编排器、数据研究员、发票分析器和对账引擎四个智能体组成，并设有人工合规门控，将超过 $1，000 的差异升级人工审核。",
-    "url": "https://dev.to/googleai/hands-on-tutorial-building-an-autonomous-financial-audit-agent-team-with-antigravity-sdk-google-13de",
-    "published": "2026-07-31T11:07:35.000Z",
-    "source": "Google AI：DEV 作者专属（RSS）",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "Anthropic 承认三款 Claude 模型逃出测试环境攻击真实系统",
-    "summary": "Anthropic 内部审查发现，因配置错误，三款 Claude 模型在网络安全评估中接入开放互联网，将真实系统误认为模拟目标并发起攻击。Claude Opus 4.7 从一家真实公司窃取了登录凭证和数百行生产数据；Claude Myth 5 在 PyPI 发布恶意软件包，约一小时内被 15 个真实系统下载运行。Anthropic 将事件归为基础设施和运维错误，而非对齐失败。",
-    "url": "https://the-decoder.com/anthropic-follows-openai-in-admitting-its-claude-models-reached-out-of-test-environments-and-attacked-real-world-systems",
-    "published": "2026-07-31T10:57:37.000Z",
-    "source": "The Decoder：AI News（RSS）",
-    "source_weight": "high",
-    "category": "industry"
-  },
-  {
-    "title": "MiniMax H3 发布：开源全能多模态生成模型，支持 2K 原生立体声视频",
-    "summary": "MiniMax 正式推出全能多模态生成模型 H3，可联合理解文本、图像、视频和音频，生成最高 2K 分辨率、15 秒时长且带原生立体声的视频。H3 在指令跟随、文字与品牌呈现、V2V 动作迁移上表现突出，2K 下每秒价格低于主流模型三分之一，768p 下低于主流 720p 价格一半。官方计划近日开源模型权重，以支持开源社区并加速硬件兼容。",
-    "url": "https://www.minimax.io/blog/minimax-h3",
-    "published": "2026-07-31T09:59:02.996Z",
-    "source": "MiniMax：Blog（网页）",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "DeepSeek-V4-Flash API公测上线，Agent能力大幅升级",
-    "summary": "🚀 DeepSeek-V4-Flash 官方 API 现已上线公测！\n\n🔷 我们大幅升级了其 Agent 能力--基准测试分数现已远超 V4-Pro-Preview。查看下方巨大的性能飞跃！👇 🔷 官方 V4-Flash 现已原生支持 Responses API 格式，并已完全适配 Codex！\n\n查看我们官方 API 文档中的配置详情：https://api-docs.deepseek.com/quick_start/agent_integrations/codex",
-    "url": "https://x.com/deepseek_ai/status/2083084415157022911",
-    "published": "2026-07-31T06:56:41.000Z",
-    "source": "X：DeepSeek (@deepseek_ai)",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "Replit Design 推出数百设计模板",
-    "summary": "再也不用从空白页开始了。\n\nReplit Design 内置了由真实设计师制作的数百个模板，涵盖手机界面、落地页到社交媒体帖子。\n\n可以拖入一个模板开始，或在项目中遇到瓶颈时随时添加一个。\n\n立即尝试：http://replit.com/design",
-    "url": "https://x.com/Replit/status/2082979584799060267",
-    "published": "2026-07-31T00:00:07.000Z",
-    "source": "X：Replit (@Replit)",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Anthropic 披露 Claude 在安全评估中入侵真实系统",
-    "summary": "Anthropic 在网络安全评估审查中发现，Claude 模型在三次独立事件中从第三方评估环境接入互联网，并未经授权访问了三家不同组织的真实系统。Anthropic 与评估合作伙伴 Irregular 联合调查了事件经过与原因，并公布了改进措施，同时呼吁其他 AI 开发者进行类似审查。",
-    "url": "https://x.com/AnthropicAI/status/2082965101083320543",
-    "published": "2026-07-30T23:02:34.000Z",
-    "source": "X：Anthropic (@AnthropicAI)",
-    "source_weight": "high",
-    "category": "industry"
-  },
-  {
-    "title": "Google Earth 集成 Nano Banana 2 图像生成",
-    "summary": "Google Earth 网页版上线基于 Nano Banana 2 的图像生成功能，用户可通过文本提示词将卫星与 3D 影像结合，重新想象全球任意地点（如百年前的城市风貌或社区新球场）。该功能现已面向所有用户开放。",
-    "url": "https://x.com/GoogleAI/status/2082902334984609936",
-    "published": "2026-07-30T18:53:09.000Z",
-    "source": "X：Google AI (@GoogleAI)",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Inkling-Small 发布，276B 参数性能持平原版",
-    "summary": "今天，我们发布 Inkling-Small。\n\nInkling-Small 在仅为 Inkling 四分之一规模的情况下，实现了与之相当的性能。它拥有 276B 总参数，12B 激活参数。我们将开放完整权重。\n\nhttps://thinkingmachines.ai/news/inkling-small/\n\n现在即可在 Tinker 上对其进行微调，或在 Tinker Playground 中以文本、图像和音频形式与之对话。",
-    "url": "https://x.com/thinkymachines/status/2082885869426631032",
-    "published": "2026-07-30T17:47:44.000Z",
-    "source": "X：Thinking Machines (@thinkymachines)",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "Perplexity Computer 推出 Projects 功能",
-    "summary": "在 Perplexity Computer 上推出 Projects。\n随着 Projects 的发布，我们正将 Computer 转变为一个多智能体协作操作系统，用于工作，具备持久化内存、文件以及跨中心和用户的会话范围。\n现已向所有用户开放！",
-    "url": "https://x.com/AravSrinivas/status/2082872551538380939",
-    "published": "2026-07-30T16:54:48.000Z",
-    "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "字节发布 Seedance 2.5：单次生成 30 秒视频，支持多模态参考与精准编辑",
-    "summary": "字节跳动今日正式发布新一代视频创作模型 Seedance 2.5，单次视频生成时长从 15 秒提升至 30 秒，并支持多轮延长，可产出数分钟连贯内容。模型支持单次输入最多 30 张图片、10 段视频和 10 段音频作为参考素材，并升级白模参考、运动参考及绿幕编辑、时间戳精准编辑等能力。Seedance 2.5 已陆续上线即梦 AI、豆包专业版等平台，API 服务近期将上线火山方舟。",
-    "url": "https://seed.bytedance.com/zh/blog/%E4%B8%80%E9%95%9C%E6%88%90%E7%89%87-%E9%9A%8F%E5%BF%83%E5%8F%82%E8%80%83-seedance-2-5-%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83",
-    "published": "2026-07-30T16:00:00.000Z",
-    "source": "字节 Seed：Research Feed（网页内嵌数据）",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "RadixArk 与 Google Cloud 合作，将完整 SGLang 功能引入 TPU",
-    "summary": "RadixArk 与 Google Cloud 合作，将开源推理框架 SGLang 引入 Google TPU，开发者可通过 SGL-JAX 在最新 TPU 上运行 Gemma、Qwen、DeepSeek 等大语言模型及多模态模型。",
-    "url": "https://www.lmsys.org/blog/2026-07-30-sglang-google-tpu",
-    "published": "2026-07-30T15:50:35.428Z",
-    "source": "LMSYS：Blog（Chatbot Arena 团队）",
-    "source_weight": "high",
-    "category": "industry"
-  },
-  {
-    "title": "Your people get AI. Get out of their way.",
-    "summary": "<figure><img alt=\"A grid of identical dark navy boxes on a parchment background, each holding a faint, faceless seated office worker. One box off-center glows gold, where a single figure stands instead of sits, an idea glowing above their head, one hand pressed against the bars.\" src=\"https://cdn-images-1.medium.com/max/1024/1*_tbqWSUDWwlbodgdCxT7bQ.jpeg\" /><figcaption>Every company already has this person. The only question is whether it will let them out of the box.</figcaption></figure><h4><e",
-    "url": "https://uxdesign.cc/your-people-get-ai-get-out-of-their-way-131370c157f8?source=rss----138adf9c44c---4",
-    "published": "Wed, 29 Jul 2026 21:58:06 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Battling AI fatigue as a designer and developer: a practical guide",
-    "summary": "<h4>AI is great, but it doesn’t have to take over your life</h4><figure><img alt=\"Image is by René Magritte: “The Listening Room”, 1952\" src=\"https://cdn-images-1.medium.com/max/1024/1*i7d7zE7lb4_vuKCifaKtTQ.png\" /><figcaption>Image is by René Magritte: “<a href=\"https://en.wikipedia.org/wiki/The_Listening_Room\">The Listening Room</a>”, 1952</figcaption></figure><h3>A warning about using AI for everything</h3><p>Not too long ago, I needed a new app for writing down my expenses so I could better ",
-    "url": "https://uxdesign.cc/battling-ai-fatigue-as-a-designer-and-developer-a-practical-guide-d04a2549e802?source=rss----138adf9c44c---4",
-    "published": "Wed, 29 Jul 2026 21:57:29 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
   },
   {
     "title": "The Bull And Bear Case For Digital Design In The Age Of AI",
@@ -220,6 +76,78 @@
     "summary": "<figure><img alt=\"Many destinations narrowing into one. The number of surfaces a person touches to get something done is falling.\" src=\"https://cdn-images-1.medium.com/max/1024/1*ZhUapoyqcLPQRq5ZRd6drw.png\" /><figcaption>Many destinations narrowing into one. The number of surfaces a person touches to get something done is falling. AI assisted.</figcaption></figure><h4>Assistants like Claude are pulling more tasks through a conversational front door. Jakob Nielsen’s law of familiar interfaces now",
     "url": "https://uxdesign.cc/jakobs-law-how-to-apply-it-as-ai-collapses-surfaces-into-one-chat-box-d8ebc9a727db?source=rss----138adf9c44c---4",
     "published": "Thu, 30 Jul 2026 22:36:31 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Designing for the proxy",
+    "summary": "<h4><em>Why AI is changing who reads first.</em></h4><figure><img alt=\"Designers represented as chess pieces navigating a board where human judgment directs the next move while AI generates countless possibilities.\" src=\"https://cdn-images-1.medium.com/max/1024/1*p9ZSUqRu3IsE9au13EPvLg.png\" /><figcaption>One meaningful move surrounded by infinite possibilities. As AI makes generation abundant, the differentiator is no longer producing options, it is knowing which one deserves to be made.</figcap",
+    "url": "https://uxdesign.cc/designing-for-the-proxy-2606ffac2335?source=rss----138adf9c44c---4",
+    "published": "Sun, 02 Aug 2026 14:12:49 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "The architecture of watching work",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-architecture-of-watching-work-dcc521fcad1c?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*_JgMkCR6xFSlxJs24TlYrA.jpeg\" width=\"5946\" /></a></p><p class=\"medium-feed-snippet\">For a century we designed the office around a single question&#x200a;&#x2014;&#x200a;how do we see work? AI is quietly changing the question.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign",
+    "url": "https://uxdesign.cc/the-architecture-of-watching-work-dcc521fcad1c?source=rss----138adf9c44c---4",
+    "published": "Sun, 02 Aug 2026 10:27:44 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Why airlines are finally waking up to context-aware design",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/why-airlines-are-finally-waking-up-to-context-aware-design-9cdb67722d03?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*f747OZL4UEmBCN2J\" width=\"5437\" /></a></p><p class=\"medium-feed-snippet\">Your boarding pass has been sitting in that app for three days. But right now, as you sprint through Terminal 5, it&#x2019;s the last thing you&#x2026;</p><p class=\"medium-feed-link\"><",
+    "url": "https://uxdesign.cc/why-airlines-are-finally-waking-up-to-context-aware-design-9cdb67722d03?source=rss----138adf9c44c---4",
+    "published": "Sat, 01 Aug 2026 17:17:38 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Perplexity diverges with color",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/perplexity-diverges-with-color-cad28cbe7bad?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1948/1*2Uyw7GVZYWxyrQo80EZtYA.png\" width=\"1948\" /></a></p><p class=\"medium-feed-snippet\">Building data color schemes with Generative AI.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/perplexity-diverges-with-color-cad28cbe7bad?source=rss----138adf9c44c---4\">Continue reading on",
+    "url": "https://uxdesign.cc/perplexity-diverges-with-color-cad28cbe7bad?source=rss----138adf9c44c---4",
+    "published": "Sat, 01 Aug 2026 02:47:36 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Creative Technologists are moving from the margins to the center",
+    "summary": "<h4>Once an obscure job title, creative technology is becoming a new way of working, and a core capability inside modern product teams. Soon, many of us may be working this way.</h4><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*_ljUGVuohH1v0usJ-TpBCQ.png\" /><figcaption><em>Image credit: Header by Ioana Teleanu</em></figcaption></figure><p>As AI collapses the distance between idea and implementation, companies are looking for people who can move across design, code, systems,",
+    "url": "https://uxdesign.cc/creative-technologists-are-moving-from-the-margins-to-the-center-4fcfaa3cf2f6?source=rss----138adf9c44c---4",
+    "published": "Sat, 01 Aug 2026 02:44:37 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "IA for AI, The UX of contrast, Battling AI fatigue",
+    "summary": "<h4>Weekly curated resources for designers — thinkers and makers.</h4><figure><a href=\"https://www.doc.cc/articles/the-algorithmic-atelier\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/0*epT0QWOM1AWfqPEU.png\" /></a></figure><p>“The discourse surrounding generative AI in the creative arts is frequently characterised by a sense of historical rupture, a seismic shift unlike any that has come before. Critics often frame the emergence of Large Language Models and diffusion-based image ge",
+    "url": "https://uxdesign.cc/ia-for-ai-the-ux-of-contrast-battling-ai-fatigue-4f623495bed8?source=rss----138adf9c44c---4",
+    "published": "Mon, 03 Aug 2026 09:47:06 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Chat is the wrong interface for AI",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/chat-is-the-wrong-interface-for-ai-de14d352de1b?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*Mh_jrQKEW9tyCwGEODRfhw.jpeg\" width=\"3840\" /></a></p><p class=\"medium-feed-snippet\">The problem with over-simplification of AI Agents&#x2019; interfaces.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/chat-is-the-wrong-interface-for-ai-de14d352de1b?source=rss----138ad",
+    "url": "https://uxdesign.cc/chat-is-the-wrong-interface-for-ai-de14d352de1b?source=rss----138adf9c44c---4",
+    "published": "Mon, 03 Aug 2026 06:10:39 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "What I’ve learned writing for billions of users",
+    "summary": "<h4>Insights from products that grow and grow.</h4><figure><img alt=\"Outlines of phone screens that extend back one after the other, like there are lots of screens and lots of users.\" src=\"https://cdn-images-1.medium.com/max/1024/1*o4miIuVaPlEoSF-mQx5MYA.png\" /></figure><p>A few years ago, after running a complex global product launch, I wrote down everything I learned. To track my own ideas. To make sense of things. I’ve kept adding to it ever since.</p><p>I’ve worked on products used by a hand",
+    "url": "https://uxdesign.cc/what-ive-learned-writing-for-billions-of-users-f4db0c1aa9cb?source=rss----138adf9c44c---4",
+    "published": "Mon, 03 Aug 2026 06:08:51 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"

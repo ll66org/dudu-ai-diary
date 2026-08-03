@@ -1,5 +1,21 @@
 [
   {
+    "title": "Cloudflare 推出 Billable Usage API：为自助账户提供按产品与计费周期的程序化成本可见性",
+    "summary": "Cloudflare 发布 Billable Usage API，为自助账户提供单一端点，一次调用即可返回按产品和计费周期拆分的用量与成本，覆盖 Workers、R2、D1、Workers AI、Vectorize、Images 和 Stream。",
+    "source": "Cloudflare Blog",
+    "url": "https://blog.cloudflare.com/billable-usage-api",
+    "published_at": "2026-08-03T13:00:00.000Z",
+    "category": "ai-products"
+  },
+  {
+    "title": "Kimi Work 幻灯片制作教程发布",
+    "summary": "使用 Kimi Work 制作幻灯片 - 教程 #1。\n\nKimi Slides 处理整个幻灯片制作流程：\n- 清晰的结构与研究，由 Kimi K3 驱动\n- 连贯的设计，包括精美的图表和 SmartArts\n- 可编辑并可直接下载\n\n欢迎在评论区告诉我们你还想看什么内容！",
+    "source": "X：Kimi.ai (@Kimi_Moonshot)",
+    "url": "https://x.com/Kimi_Moonshot/status/2084245860339298423",
+    "published_at": "2026-08-03T11:51:51.000Z",
+    "category": "tip"
+  },
+  {
     "title": "smevals：用于评测模型、提示词与评测框架的小型评测套件",
     "summary": "smevals 是 Simon Willison 与 Prime Radiant 实验室合作开发的新工具，用于跨不同模型配置运行小型评测套件并对结果打分。它支持通过 `uvx smevals run` 对 gpt-5.5、claude-opus-4.6 等模型运行评测，并将运行与打分分离，最终可生成静态 HTML 报告",
     "source": "Simon Willison 博客",
@@ -16,27 +32,11 @@
     "category": "tip"
   },
   {
-    "title": "面壁智能ALIGN：自动对齐智能体与环境接口",
-    "summary": "面壁智能与清华NLP团队提出ALIGN，自动生成对齐接口解决智能体与环境间的失配问题。仅改写反馈措辞即可将Qwen2.5-7B智能体在ALFWorld上的成功率从13.4%提升至31.3%。该方法在四个基准上最高提升45.67%成功率，并减少65%连续无效动作，且接口可跨智能体架构和LLM骨干迁移。",
-    "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-    "url": "https://x.com/OpenBMB/status/2083175856563003724",
-    "published_at": "2026-07-31T13:00:02.000Z",
-    "category": "paper"
-  },
-  {
-    "title": "欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行",
-    "summary": "欧盟《人工智能法》新增透明度要求于8月2日起正式执行，聊天机器人等交互式AI系统须明确告知用户其AI身份，深度伪造内容须加标识及机器可识别标记。同日公布首批签署《人工智能生成内容透明度行为准则》的180多家机构名单，包括谷歌、微软、OpenAI等，Meta拒绝加入。违反透明度义务最高可处750万欧元或全球年营业额1%的",
-    "source": "IT之家（RSS）",
-    "url": "https://www.ithome.com/0/984/365.htm",
-    "published_at": "2026-07-31T11:40:12.000Z",
-    "category": "industry"
-  },
-  {
-    "title": "教程：用 Antigravity SDK 与 Google Cloud 构建自主财务审计智能体团队",
-    "summary": "本教程演示如何用 Google Antigravity SDK 与 Google Cloud 构建多智能体财务对账系统，将供应商交易与 PDF 发票核对。系统由审计编排器、数据研究员、发票分析器和对账引擎四个智能体组成，并设有人工合规门控，将超过 $1，000 的差异升级人工审核。",
-    "source": "Google AI：DEV 作者专属（RSS）",
-    "url": "https://dev.to/googleai/hands-on-tutorial-building-an-autonomous-financial-audit-agent-team-with-antigravity-sdk-google-13de",
-    "published_at": "2026-07-31T11:07:35.000Z",
-    "category": "tip"
+    "title": "Cloudflare 推出 @cloudflare/computer 预览版：为智能体提供虚拟文件系统与多执行环境",
+    "summary": "Cloudflare 发布 @cloudflare/computer 早期预览版，这是一个开源智能体运行时，为每个智能体提供虚拟文件系统，并支持在 isolate、容器沙箱或浏览器中执行代码。",
+    "source": "Cloudflare Blog",
+    "url": "https://blog.cloudflare.com/cloudflare-computer",
+    "published_at": "2026-08-03T13:15:24.000Z",
+    "category": "ai-products"
   }
 ]

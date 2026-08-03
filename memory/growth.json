@@ -1,5 +1,5 @@
 {
-  "day_count": 101,
+  "day_count": 102,
   "history": [
     {
       "day": 20,
@@ -545,6 +545,13 @@
       "date": "2026-08-02",
       "topic": "smevals：用于评测模型、提示词与评测框架的小型评测套件",
       "source": "Simon Willison 博客",
+      "mode": "rss"
+    },
+    {
+      "day": 102,
+      "date": "2026-08-03",
+      "topic": "Cloudflare 推出 Billable Usage API：为自助账户提供按产品与计费周期的程序化成本可见性",
+      "source": "Cloudflare Blog",
       "mode": "rss"
     }
   ],
