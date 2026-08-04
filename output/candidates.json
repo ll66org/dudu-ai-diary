@@ -1,12 +1,84 @@
 [
   {
-    "title": "Cloudflare 推出 Billable Usage API：为自助账户提供按产品与计费周期的程序化成本可见性",
-    "summary": "Cloudflare 发布 Billable Usage API，为自助账户提供单一端点，一次调用即可返回按产品和计费周期拆分的用量与成本，覆盖 Workers、R2、D1、Workers AI、Vectorize、Images 和 Stream。",
-    "url": "https://blog.cloudflare.com/billable-usage-api",
-    "published": "2026-08-03T13:00:00.000Z",
-    "source": "Cloudflare Blog",
+    "title": "Reflex 开源 XY：基于 Rust 的超快 Python 绘图库，可保持 1 亿点图表交互流畅",
+    "summary": "Reflex AI 发布 Apache-2.0 许可的 Python 交互式 2D 绘图库 XY，通过 Rust 原生核心、二进制缓冲传输和 WebGL2 渲染，在 1 万至 1 亿点范围内保持约 0.08 秒的渲染时间。",
+    "url": "https://www.marktechpost.com/2026/08/04/reflex-open-sources-xy-a-rust-backed-super-fast-python-charting-library-that-keeps-100-million-point-charts-interactive",
+    "published": "2026-08-04T08:57:47.000Z",
+    "source": "MarkTechPost（RSS）",
     "source_weight": "high",
     "category": "ai-products"
+  },
+  {
+    "title": "用 NVIDIA SkillSpector、LangGraph、YARA 规则、SARIF 与 CI 策略门构建高级 AI 技能安全审计流水线",
+    "summary": "本教程演示如何用 NVIDIA SkillSpector 评估 AI 技能的安全态势，构建包含干净、风险、恶意及 MCP 示例的合成技能市场，并通过 LangGraph 检查流水线扫描每个技能。",
+    "url": "https://www.marktechpost.com/2026/08/04/building-an-advanced-ai-skill-security-auditing-pipeline-with-nvidia-skillspector-langgraph-yara-rules-sarif-and-ci-policy-gates",
+    "published": "2026-08-04T08:12:36.000Z",
+    "source": "MarkTechPost（RSS）",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "从零开始，教你用Codex搓出属于你自己的第一个硬件",
+    "summary": "作者以零基础身份，全程通过与Codex对话，从需求讨论、电路搭建、代码烧录到3D打印组装，5天内做出一个能提醒久坐的猫爪硬件。文中还介绍了用Agent调试宏键盘、以及OpenAI与Work Louder联名发布的Codex Micro键盘（13个机械按键，售价230美元）等案例，强调\"干中学\"的AI开发方式。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684924&idx=1&sn=f9ecf13ac374f13dfa75f98f685a231d",
+    "published": "2026-08-04T00:06:00.000Z",
+    "source": "公众号：数字生命卡兹克",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "Snipplet",
+    "summary": "<p>\n            Create and share beautiful guides from places you love\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/snipplet?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1214436?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/snipplet",
+    "published": "2026-08-03T23:15:21-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "GPT-Live实时音频新架构发布",
+    "summary": "GPT-Live 是一种用于实时音频的新架构和栈：\n\nGPT-Live 可以在说话的同时聆听。\n\n为了让这种体验在 ChatGPT 规模下显得自然，我们从客户端到模型重建了语音栈。\n\n这一新架构让音频持续流动，因此更深入的推理和工具使用不会打断对话。",
+    "url": "https://x.com/gdb/status/2084405421041963356",
+    "published": "2026-08-03T22:25:53.000Z",
+    "source": "X：Greg Brockman (@gdb)",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "Claude Code 连接器可复用至 Artifacts",
+    "summary": "我想很多人没有意识到--如果你连接了一个 Claude 连接器（例如你的 Gmail、日历、Slack 等），Claude Code 也将能够使用它们，包括在 Artifacts 中。",
+    "url": "https://x.com/trq212/status/2084387303959740449",
+    "published": "2026-08-03T21:13:53.000Z",
+    "source": "X：Thariq (@trq212)",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "商汤发布 SenseNova U1.5-Lite-Preview 开源模型",
+    "summary": "商汤推出 SenseNova U1.5-Lite-Preview，一个基于 NEO-Unify 架构的轻量级原生统一多模态模型，仅 8B-MoT 参数即可达到商业闭源模型的生成与编辑质量。",
+    "url": "https://x.com/SenseTime_AI/status/2084288424236782073",
+    "published": "2026-08-03T14:40:59.000Z",
+    "source": "X：商汤 SenseTime (@SenseTime_AI)",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "Google Agent Skills 幕后：如何构建、测试与规模化",
+    "summary": "Google Agent Skills 团队详解其开源技能库的构建与治理流程：项目始于 Google Cloud Next 2026 前的\"swarm\"冲刺，发布后 GitHub 星标超 15，000。为保证规模化下的质量，每个技能须通过标准化目录结构、CI/CD 流水线（含 linter、链接检查、AI 辅助清单）及提交时与每周的持续评估，并优先引用远程 MCP 工具。",
+    "url": "https://dev.to/googleai/behind-the-scenes-how-we-build-test-and-scale-google-agent-skills-1am5",
+    "published": "2026-08-03T14:33:20.000Z",
+    "source": "Google AI：DEV 作者专属（RSS）",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "MOTHER",
+    "summary": "<p>\n            A terminal built for Claude Code w/ one-click session resume\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/mother-claude-code-terminal?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1214120?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/mother-claude-code-terminal",
+    "published": "2026-08-03T12:21:35-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
   },
   {
     "title": "Kimi Work 幻灯片制作教程发布",
@@ -18,40 +90,49 @@
     "category": "tip"
   },
   {
-    "title": "Murmell",
-    "summary": "<p>\n            Cloud canvas where your team and AI agents works together\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/murmell?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1213367?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/murmell",
-    "published": "2026-08-02T19:46:50-07:00",
+    "title": "Glasp MCP Connector",
+    "summary": "<p>\n            Search your highlights and notes inside Claude and ChatGPT\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/glasp-mcp-connector?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1214090?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/glasp-mcp-connector",
+    "published": "2026-08-03T11:39:20-07:00",
     "source": "Product Hunt",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "mpai",
-    "summary": "<p>\n            Make existing Codex and Claude Code sessions multiplayer\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/mpai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1213234?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/mpai",
-    "published": "2026-08-02T13:12:27-07:00",
-    "source": "Product Hunt",
+    "title": "UEmbed：统一稀疏与稠密的多模态嵌入模型",
+    "summary": "UEmbed 是一种仅解码器的多模态嵌入模型，可在单次因果前向传播中同时生成稀疏词级和稠密表示，通过可学习特殊 token 与词汇表分区突破单 token 信息瓶颈。",
+    "url": "https://arxiv.org/abs/2608.02583",
+    "published": "2026-08-03T00:00:00.000Z",
+    "source": "HuggingFace Daily Papers（社区热门论文）",
     "source_weight": "high",
-    "category": "ai_tech"
+    "category": "ai-models"
   },
   {
-    "title": "claudemon",
-    "summary": "<p>\n            Wild Pokémon appear while you wait for Claude Code\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/claudemon?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1213145?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/claudemon",
-    "published": "2026-08-02T10:23:42-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "animated-voiceover 开源：一人干翻动画工作室",
-    "summary": "前字节产品经理 @s1dashu 开源 animated-voiceover，一套喂给 Codex/Claude Code 的完整动画科普视频制片流程，MIT 协议，可实现 90% 自动化。",
-    "url": "https://x.com/AYi_AInotes/status/2083221612778668388",
-    "published": "2026-07-31T16:01:51.000Z",
-    "source": "X：阿易 AI Notes (@AYi_AInotes)",
+    "title": "实测MiniMax H3做后期和动效：视频届的审美王来了",
+    "summary": "MiniMax H3视频模型实测覆盖广告TVC、短剧、创意片头、动态海报、UI动效和游戏实机六类场景，可生成5-15秒视频、原生双声道、直出2K，一次最多放9张图、3段视频和3段音频，提示语最高支持7000字符。",
+    "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509055&idx=1&sn=28254c9e78532b336895b8c541905d49",
+    "published": "2026-08-02T13:26:14.000Z",
+    "source": "公众号：卡尔的AI沃茨",
     "source_weight": "high",
     "category": "tip"
+  },
+  {
+    "title": "Give your eve agent a browser",
+    "summary": "<p>Your eve agent can now navigate the web like a human with <a href=\"https://eve.dev/integrations/agent-browser\">agent-browser</a>.</p><p>The <code>@agent-browser/eve</code> extension gives any <a href=\"https://eve.dev\">eve</a> agent a full set of browser tools: navigate pages, read content, click, fill forms, take screenshots, and inspect console and network activity. Everything runs inside the agent's sandbox.</p><p>Install the extension:</p><div></div><p>Then mount it under <code>agent/exten",
+    "url": "https://vercel.com/changelog/give-your-eve-agent-a-browser",
+    "published": "",
+    "source": "Vercel Blog (v0)",
+    "source_weight": "high",
+    "category": "design_tools"
+  },
+  {
+    "title": "Vercel WAF for Blob is now generally available",
+    "summary": "<p>Vercel WAF for Blob is now generally available and supported for production use on all plans. If you protected a store <a href=\"https://vercel.com/changelog/vercel-waf-for-blob-is-now-in-beta\">during the beta</a>, nothing has changed: your rules and setup carry over exactly as they are.</p><p><a href=\"https://vercel.com/docs/vercel-firewall/vercel-waf\">Vercel WAF</a> protects a Blob store with <a href=\"https://vercel.com/docs/vercel-firewall/vercel-waf/custom-rules\">custom rules</a>, the same",
+    "url": "https://vercel.com/changelog/vercel-waf-for-blob-is-now-generally-available",
+    "published": "",
+    "source": "Vercel Blog (v0)",
+    "source_weight": "high",
+    "category": "design_tools"
   },
   {
     "title": "The Bull And Bear Case For Digital Design In The Age Of AI",
@@ -63,19 +144,28 @@
     "category": "design_communities"
   },
   {
-    "title": "Thinking Outside The Box: Digital Design In The AI Era",
-    "summary": "Many of the AI tools we interact with take the form of text boxes. But what if there was a different way to interact with AI? Oleksii Hrzhehorzhevskyi explores a different approach to creating a new AI assistant and how designers can navigate the field as AI continues to change it.",
-    "url": "https://smashingmagazine.com/2026/07/digital-design-ai-era/",
-    "published": "Tue, 28 Jul 2026 10:00:00 GMT",
-    "source": "Smashing Magazine",
+    "title": "How Korea & Japan turned ordering food into a UX masterclass",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/how-korea-and-japan-turned-ordering-food-into-a-ux-masterclass-f64c31bd4c98?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2400/1*6oL36-bfayzR8N2hA7yrpg.gif\" width=\"2400\" /></a></p><p class=\"medium-feed-snippet\">A study of self-ordering kiosks &amp; tablets in Asia</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/how-korea-and-japan-turned-ordering-food-into-a-ux-maste",
+    "url": "https://uxdesign.cc/how-korea-and-japan-turned-ordering-food-into-a-ux-masterclass-f64c31bd4c98?source=rss----138adf9c44c---4",
+    "published": "Tue, 04 Aug 2026 09:25:56 GMT",
+    "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
   },
   {
-    "title": "Jakob’s law: How to apply it as AI collapses surfaces into one chat box",
-    "summary": "<figure><img alt=\"Many destinations narrowing into one. The number of surfaces a person touches to get something done is falling.\" src=\"https://cdn-images-1.medium.com/max/1024/1*ZhUapoyqcLPQRq5ZRd6drw.png\" /><figcaption>Many destinations narrowing into one. The number of surfaces a person touches to get something done is falling. AI assisted.</figcaption></figure><h4>Assistants like Claude are pulling more tasks through a conversational front door. Jakob Nielsen’s law of familiar interfaces now",
-    "url": "https://uxdesign.cc/jakobs-law-how-to-apply-it-as-ai-collapses-surfaces-into-one-chat-box-d8ebc9a727db?source=rss----138adf9c44c---4",
-    "published": "Thu, 30 Jul 2026 22:36:31 GMT",
+    "title": "Why 10,000 experiments work better than 10,000 hours for designers",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/why-10-000-experiments-work-better-than-10-000-hours-for-designers-1a07aa35df7f?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*6UjJ7Ngl4dgD9jKA8F7XFw.jpeg\" width=\"5472\" /></a></p><p class=\"medium-feed-snippet\">Airbnb threw out twenty years of optimization to grow. You might need that as well.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/why-10-000-experiment",
+    "url": "https://uxdesign.cc/why-10-000-experiments-work-better-than-10-000-hours-for-designers-1a07aa35df7f?source=rss----138adf9c44c---4",
+    "published": "Tue, 04 Aug 2026 07:34:49 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Own the room, or leave it",
+    "summary": "<h4>Unlearning the habit that quietly dissolves design’s authority</h4><figure><img alt=\"A glass of water with dissolving black ink\" src=\"https://cdn-images-1.medium.com/max/1024/0*GSc_6N16nvKIDeQV\" /><figcaption>Photo by <a href=\"https://unsplash.com/@jeanpubi?utm_source=medium&amp;utm_medium=referral\">Jingyu Liu</a> on <a href=\"https://unsplash.com?utm_source=medium&amp;utm_medium=referral\">Unsplash</a></figcaption></figure><p>Once upon a time, I was a young designer in a meeting that could ha",
+    "url": "https://uxdesign.cc/own-the-room-or-leave-it-39436e89a256?source=rss----138adf9c44c---4",
+    "published": "Tue, 04 Aug 2026 07:33:45 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
@@ -103,24 +193,6 @@
     "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/why-airlines-are-finally-waking-up-to-context-aware-design-9cdb67722d03?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*f747OZL4UEmBCN2J\" width=\"5437\" /></a></p><p class=\"medium-feed-snippet\">Your boarding pass has been sitting in that app for three days. But right now, as you sprint through Terminal 5, it&#x2019;s the last thing you&#x2026;</p><p class=\"medium-feed-link\"><",
     "url": "https://uxdesign.cc/why-airlines-are-finally-waking-up-to-context-aware-design-9cdb67722d03?source=rss----138adf9c44c---4",
     "published": "Sat, 01 Aug 2026 17:17:38 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Perplexity diverges with color",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/perplexity-diverges-with-color-cad28cbe7bad?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1948/1*2Uyw7GVZYWxyrQo80EZtYA.png\" width=\"1948\" /></a></p><p class=\"medium-feed-snippet\">Building data color schemes with Generative AI.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/perplexity-diverges-with-color-cad28cbe7bad?source=rss----138adf9c44c---4\">Continue reading on",
-    "url": "https://uxdesign.cc/perplexity-diverges-with-color-cad28cbe7bad?source=rss----138adf9c44c---4",
-    "published": "Sat, 01 Aug 2026 02:47:36 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Creative Technologists are moving from the margins to the center",
-    "summary": "<h4>Once an obscure job title, creative technology is becoming a new way of working, and a core capability inside modern product teams. Soon, many of us may be working this way.</h4><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*_ljUGVuohH1v0usJ-TpBCQ.png\" /><figcaption><em>Image credit: Header by Ioana Teleanu</em></figcaption></figure><p>As AI collapses the distance between idea and implementation, companies are looking for people who can move across design, code, systems,",
-    "url": "https://uxdesign.cc/creative-technologists-are-moving-from-the-margins-to-the-center-4fcfaa3cf2f6?source=rss----138adf9c44c---4",
-    "published": "Sat, 01 Aug 2026 02:44:37 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"

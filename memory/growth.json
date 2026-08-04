@@ -1,5 +1,5 @@
 {
-  "day_count": 102,
+  "day_count": 103,
   "history": [
     {
       "day": 20,
@@ -552,6 +552,13 @@
       "date": "2026-08-03",
       "topic": "Cloudflare 推出 Billable Usage API：为自助账户提供按产品与计费周期的程序化成本可见性",
       "source": "Cloudflare Blog",
+      "mode": "rss"
+    },
+    {
+      "day": 103,
+      "date": "2026-08-04",
+      "topic": "Reflex 开源 XY：基于 Rust 的超快 Python 绘图库，可保持 1 亿点图表交互流畅",
+      "source": "MarkTechPost（RSS）",
       "mode": "rss"
     }
   ],

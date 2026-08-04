@@ -1,14 +1,14 @@
 {
-  "fetched_at": "2026-08-03T13:58:45.601136Z",
-  "total_candidates": 17,
+  "fetched_at": "2026-08-04T13:18:22.079898Z",
+  "total_candidates": 25,
   "source_stats": {
     "Figma Blog": {
       "found": 0,
       "total": 0
     },
     "Vercel Blog (v0)": {
-      "found": 0,
-      "total": 1415
+      "found": 2,
+      "total": 1419
     },
     "Cursor Changelog": {
       "found": 0,
@@ -31,7 +31,7 @@
       "total": 66
     },
     "Smashing Magazine": {
-      "found": 2,
+      "found": 1,
       "total": 40
     },
     "UX Collective": {
@@ -44,7 +44,7 @@
     },
     "CSS-Tricks": {
       "found": 0,
-      "total": 15
+      "total": 0
     },
     "A List Apart": {
       "found": 0,
@@ -64,27 +64,27 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 102,
-  "today_date": "2026-08-03",
+  "dudu_day": 103,
+  "today_date": "2026-08-04",
   "used_titles": [
-    "当编码不再是瓶颈：Berkeley RDI 提出软件自主开发三级框架",
     "火山引擎上线豆包搜索服务，为AI Agent提供实时可信搜索能力",
     "OpenAI 失控 AI 智能体不止攻击了 Hugging Face，还入侵了多家公司",
     "FCC 禁止进口中国新型机器人与联网逆变器",
     "欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行",
     "smevals：用于评测模型、提示词与评测框架的小型评测套件",
-    "smevals：用于评测模型、提示词与评测框架的小型评测套件"
+    "smevals：用于评测模型、提示词与评测框架的小型评测套件",
+    "Cloudflare 推出 Billable Usage API：为自助账户提供按产品与计费周期的程序化成本可见性"
   ],
   "used_tools": [
-    "Berkeley RDI：Blog（AI 安全与评测）",
     "公众号：火山引擎",
     "The Verge：AI（RSS）",
     "The Decoder：AI News（RSS）",
     "IT之家（RSS）",
     "Simon Willison 博客",
-    "Simon Willison 博客"
+    "Simon Willison 博客",
+    "Cloudflare Blog"
   ],
-  "briefing_total": 15,
-  "briefing_design": 4,
+  "briefing_total": 31,
+  "briefing_design": 11,
   "briefing_count": 5
 }

@@ -1,42 +1,42 @@
 [
   {
-    "title": "Cloudflare 推出 Billable Usage API：为自助账户提供按产品与计费周期的程序化成本可见性",
-    "summary": "Cloudflare 发布 Billable Usage API，为自助账户提供单一端点，一次调用即可返回按产品和计费周期拆分的用量与成本，覆盖 Workers、R2、D1、Workers AI、Vectorize、Images 和 Stream。",
-    "source": "Cloudflare Blog",
-    "url": "https://blog.cloudflare.com/billable-usage-api",
-    "published_at": "2026-08-03T13:00:00.000Z",
+    "title": "Reflex 开源 XY：基于 Rust 的超快 Python 绘图库，可保持 1 亿点图表交互流畅",
+    "summary": "Reflex AI 发布 Apache-2.0 许可的 Python 交互式 2D 绘图库 XY，通过 Rust 原生核心、二进制缓冲传输和 WebGL2 渲染，在 1 万至 1 亿点范围内保持约 0.08 秒的渲染时间。",
+    "source": "MarkTechPost（RSS）",
+    "url": "https://www.marktechpost.com/2026/08/04/reflex-open-sources-xy-a-rust-backed-super-fast-python-charting-library-that-keeps-100-million-point-charts-interactive",
+    "published_at": "2026-08-04T08:57:47.000Z",
     "category": "ai-products"
   },
   {
-    "title": "Kimi Work 幻灯片制作教程发布",
-    "summary": "使用 Kimi Work 制作幻灯片 - 教程 #1。\n\nKimi Slides 处理整个幻灯片制作流程：\n- 清晰的结构与研究，由 Kimi K3 驱动\n- 连贯的设计，包括精美的图表和 SmartArts\n- 可编辑并可直接下载\n\n欢迎在评论区告诉我们你还想看什么内容！",
-    "source": "X：Kimi.ai (@Kimi_Moonshot)",
-    "url": "https://x.com/Kimi_Moonshot/status/2084245860339298423",
-    "published_at": "2026-08-03T11:51:51.000Z",
+    "title": "用 NVIDIA SkillSpector、LangGraph、YARA 规则、SARIF 与 CI 策略门构建高级 AI 技能安全审计流水线",
+    "summary": "本教程演示如何用 NVIDIA SkillSpector 评估 AI 技能的安全态势，构建包含干净、风险、恶意及 MCP 示例的合成技能市场，并通过 LangGraph 检查流水线扫描每个技能。",
+    "source": "MarkTechPost（RSS）",
+    "url": "https://www.marktechpost.com/2026/08/04/building-an-advanced-ai-skill-security-auditing-pipeline-with-nvidia-skillspector-langgraph-yara-rules-sarif-and-ci-policy-gates",
+    "published_at": "2026-08-04T08:12:36.000Z",
     "category": "tip"
   },
   {
-    "title": "smevals：用于评测模型、提示词与评测框架的小型评测套件",
-    "summary": "smevals 是 Simon Willison 与 Prime Radiant 实验室合作开发的新工具，用于跨不同模型配置运行小型评测套件并对结果打分。它支持通过 `uvx smevals run` 对 gpt-5.5、claude-opus-4.6 等模型运行评测，并将运行与打分分离，最终可生成静态 HTML 报告",
-    "source": "Simon Willison 博客",
-    "url": "https://simonwillison.net/2026/Jul/31/smevals",
-    "published_at": "2026-07-31T21:15:23.000Z",
+    "title": "从零开始，教你用Codex搓出属于你自己的第一个硬件",
+    "summary": "作者以零基础身份，全程通过与Codex对话，从需求讨论、电路搭建、代码烧录到3D打印组装，5天内做出一个能提醒久坐的猫爪硬件。文中还介绍了用Agent调试宏键盘、以及OpenAI与Work Louder联名发布的Codex Micro键盘（13个机械按键，售价230美元）等案例，强调\"干中学\"的AI开发方式。",
+    "source": "公众号：数字生命卡兹克",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684924&idx=1&sn=f9ecf13ac374f13dfa75f98f685a231d",
+    "published_at": "2026-08-04T00:06:00.000Z",
     "category": "tip"
   },
   {
-    "title": "animated-voiceover 开源：一人干翻动画工作室",
-    "summary": "前字节产品经理 @s1dashu 开源 animated-voiceover，一套喂给 Codex/Claude Code 的完整动画科普视频制片流程，MIT 协议，可实现 90% 自动化。",
-    "source": "X：阿易 AI Notes (@AYi_AInotes)",
-    "url": "https://x.com/AYi_AInotes/status/2083221612778668388",
-    "published_at": "2026-07-31T16:01:51.000Z",
-    "category": "tip"
-  },
-  {
-    "title": "Cloudflare 推出 @cloudflare/computer 预览版：为智能体提供虚拟文件系统与多执行环境",
-    "summary": "Cloudflare 发布 @cloudflare/computer 早期预览版，这是一个开源智能体运行时，为每个智能体提供虚拟文件系统，并支持在 isolate、容器沙箱或浏览器中执行代码。",
-    "source": "Cloudflare Blog",
-    "url": "https://blog.cloudflare.com/cloudflare-computer",
-    "published_at": "2026-08-03T13:15:24.000Z",
+    "title": "GPT-Live实时音频新架构发布",
+    "summary": "GPT-Live 是一种用于实时音频的新架构和栈：\n\nGPT-Live 可以在说话的同时聆听。\n\n为了让这种体验在 ChatGPT 规模下显得自然，我们从客户端到模型重建了语音栈。\n\n这一新架构让音频持续流动，因此更深入的推理和工具使用不会打断对话。",
+    "source": "X：Greg Brockman (@gdb)",
+    "url": "https://x.com/gdb/status/2084405421041963356",
+    "published_at": "2026-08-03T22:25:53.000Z",
     "category": "ai-products"
+  },
+  {
+    "title": "Claude Code 连接器可复用至 Artifacts",
+    "summary": "我想很多人没有意识到--如果你连接了一个 Claude 连接器（例如你的 Gmail、日历、Slack 等），Claude Code 也将能够使用它们，包括在 Artifacts 中。",
+    "source": "X：Thariq (@trq212)",
+    "url": "https://x.com/trq212/status/2084387303959740449",
+    "published_at": "2026-08-03T21:13:53.000Z",
+    "category": "tip"
   }
 ]
