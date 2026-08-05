@@ -1,42 +1,42 @@
 [
   {
-    "title": "Reflex 开源 XY：基于 Rust 的超快 Python 绘图库，可保持 1 亿点图表交互流畅",
-    "summary": "Reflex AI 发布 Apache-2.0 许可的 Python 交互式 2D 绘图库 XY，通过 Rust 原生核心、二进制缓冲传输和 WebGL2 渲染，在 1 万至 1 亿点范围内保持约 0.08 秒的渲染时间。",
+    "title": "美国上诉法院推翻禁令，Perplexity AI 购物智能体重返 Amazon",
+    "summary": "美国第九巡回上诉法院推翻了此前阻止 Perplexity 在 Amazon 平台使用 AI 购物智能体的禁令，认定是用户而非 Perplexity 本身通过智能体访问 Amazon，因此违反联邦计算机欺诈法的指控难以成立。这是美国联邦上诉法院首次就 AI 智能体合法性作出裁决，但案件本身尚未了结。Amazon 表示不同",
+    "source": "The Decoder：AI News（RSS）",
+    "url": "https://the-decoder.com/us-appeals-court-allows-perplexitys-ai-shopping-agent-back-on-amazon",
+    "published_at": "2026-08-05T10:31:42.000Z",
+    "category": "industry"
+  },
+  {
+    "title": "NVIDIA 发布 Alpamayo 2 Super：面向 Robotaxi 与自动驾驶的 34B 开源视觉-语言-动作模型",
+    "summary": "NVIDIA 发布 Alpamayo 2 Super，一款 34B 参数的视觉-语言-动作（VLA）模型，专为自动驾驶长尾事件设计，权重采用 Linux 基金会 OpenMDW-1.1 许可，代码为 Apache 2.0，发布首日即可商用。",
     "source": "MarkTechPost（RSS）",
-    "url": "https://www.marktechpost.com/2026/08/04/reflex-open-sources-xy-a-rust-backed-super-fast-python-charting-library-that-keeps-100-million-point-charts-interactive",
-    "published_at": "2026-08-04T08:57:47.000Z",
+    "url": "https://www.marktechpost.com/2026/08/05/nvidia-alpamayo-2-super-open-vla-model-autonomous-driving",
+    "published_at": "2026-08-05T08:25:11.000Z",
+    "category": "ai-models"
+  },
+  {
+    "title": "烧了5亿token后，我给Codex和Claude Code做Skill上下文瘦身的新技巧",
+    "summary": "作者为Codex和Claude Code中300多个Skill做上下文瘦身，发现每次新会话仅Skill列表就占约9.9k token，按7月使用强度粗算，多余Skill列表约吃掉4到5亿token的上下文空间。",
+    "source": "公众号：卡尔的AI沃茨",
+    "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509161&idx=1&sn=bd9aa077bbc46a6049ad66af6d15af0f",
+    "published_at": "2026-08-05T06:46:00.000Z",
+    "category": "tip"
+  },
+  {
+    "title": "Grok 4.5 免费体验，推荐 Build 工具链",
+    "summary": "使用 Grok 的最佳方式是通过我们的 Build 工具链。\n\n下载地址：http://X.ai/cli",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "url": "https://x.com/elonmusk/status/2084857373555101726",
+    "published_at": "2026-08-05T04:21:47.000Z",
     "category": "ai-products"
   },
   {
-    "title": "用 NVIDIA SkillSpector、LangGraph、YARA 规则、SARIF 与 CI 策略门构建高级 AI 技能安全审计流水线",
-    "summary": "本教程演示如何用 NVIDIA SkillSpector 评估 AI 技能的安全态势，构建包含干净、风险、恶意及 MCP 示例的合成技能市场，并通过 LangGraph 检查流水线扫描每个技能。",
-    "source": "MarkTechPost（RSS）",
-    "url": "https://www.marktechpost.com/2026/08/04/building-an-advanced-ai-skill-security-auditing-pipeline-with-nvidia-skillspector-langgraph-yara-rules-sarif-and-ci-policy-gates",
-    "published_at": "2026-08-04T08:12:36.000Z",
-    "category": "tip"
-  },
-  {
-    "title": "从零开始，教你用Codex搓出属于你自己的第一个硬件",
-    "summary": "作者以零基础身份，全程通过与Codex对话，从需求讨论、电路搭建、代码烧录到3D打印组装，5天内做出一个能提醒久坐的猫爪硬件。文中还介绍了用Agent调试宏键盘、以及OpenAI与Work Louder联名发布的Codex Micro键盘（13个机械按键，售价230美元）等案例，强调\"干中学\"的AI开发方式。",
-    "source": "公众号：数字生命卡兹克",
-    "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684924&idx=1&sn=f9ecf13ac374f13dfa75f98f685a231d",
-    "published_at": "2026-08-04T00:06:00.000Z",
-    "category": "tip"
-  },
-  {
-    "title": "GPT-Live实时音频新架构发布",
-    "summary": "GPT-Live 是一种用于实时音频的新架构和栈：\n\nGPT-Live 可以在说话的同时聆听。\n\n为了让这种体验在 ChatGPT 规模下显得自然，我们从客户端到模型重建了语音栈。\n\n这一新架构让音频持续流动，因此更深入的推理和工具使用不会打断对话。",
-    "source": "X：Greg Brockman (@gdb)",
-    "url": "https://x.com/gdb/status/2084405421041963356",
-    "published_at": "2026-08-03T22:25:53.000Z",
+    "title": "Replit 环境智能：免提示词自动生成设计",
+    "summary": "你无需提示词，也无需设计语言。\n\n环境智能（Ambient Intelligence）会在每个画面旁显示建议卡片，每张卡片都指向你的设计的一个不同方向。点击你喜欢的那张，即可看到它生成一个新的画面。\n\n你再也不必纠结下一步该做什么。\n\n立即在 http://replit.com/design 体验。",
+    "source": "X：Replit (@Replit)",
+    "url": "https://x.com/Replit/status/2084761337570144424",
+    "published_at": "2026-08-04T22:00:10.000Z",
     "category": "ai-products"
-  },
-  {
-    "title": "Claude Code 连接器可复用至 Artifacts",
-    "summary": "我想很多人没有意识到--如果你连接了一个 Claude 连接器（例如你的 Gmail、日历、Slack 等），Claude Code 也将能够使用它们，包括在 Artifacts 中。",
-    "source": "X：Thariq (@trq212)",
-    "url": "https://x.com/trq212/status/2084387303959740449",
-    "published_at": "2026-08-03T21:13:53.000Z",
-    "category": "tip"
   }
 ]

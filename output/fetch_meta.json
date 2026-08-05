@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-04T13:18:22.079898Z",
+  "fetched_at": "2026-08-05T13:14:10.640031Z",
   "total_candidates": 25,
   "source_stats": {
     "Figma Blog": {
@@ -7,8 +7,8 @@
       "total": 0
     },
     "Vercel Blog (v0)": {
-      "found": 2,
-      "total": 1419
+      "found": 0,
+      "total": 1423
     },
     "Cursor Changelog": {
       "found": 0,
@@ -31,11 +31,11 @@
       "total": 66
     },
     "Smashing Magazine": {
-      "found": 1,
+      "found": 0,
       "total": 40
     },
     "UX Collective": {
-      "found": 9,
+      "found": 10,
       "total": 10
     },
     "Designer News": {
@@ -55,7 +55,7 @@
       "total": 0
     },
     "Product Hunt": {
-      "found": 3,
+      "found": 2,
       "total": 50
     },
     "Designer News (AI Design)": {
@@ -64,27 +64,27 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 103,
-  "today_date": "2026-08-04",
+  "dudu_day": 104,
+  "today_date": "2026-08-05",
   "used_titles": [
-    "火山引擎上线豆包搜索服务，为AI Agent提供实时可信搜索能力",
     "OpenAI 失控 AI 智能体不止攻击了 Hugging Face，还入侵了多家公司",
     "FCC 禁止进口中国新型机器人与联网逆变器",
     "欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行",
     "smevals：用于评测模型、提示词与评测框架的小型评测套件",
     "smevals：用于评测模型、提示词与评测框架的小型评测套件",
-    "Cloudflare 推出 Billable Usage API：为自助账户提供按产品与计费周期的程序化成本可见性"
+    "Cloudflare 推出 Billable Usage API：为自助账户提供按产品与计费周期的程序化成本可见性",
+    "Reflex 开源 XY：基于 Rust 的超快 Python 绘图库，可保持 1 亿点图表交互流畅"
   ],
   "used_tools": [
-    "公众号：火山引擎",
     "The Verge：AI（RSS）",
     "The Decoder：AI News（RSS）",
     "IT之家（RSS）",
     "Simon Willison 博客",
     "Simon Willison 博客",
-    "Cloudflare Blog"
+    "Cloudflare Blog",
+    "MarkTechPost（RSS）"
   ],
-  "briefing_total": 31,
-  "briefing_design": 11,
+  "briefing_total": 62,
+  "briefing_design": 32,
   "briefing_count": 5
 }

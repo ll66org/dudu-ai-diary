@@ -1,145 +1,181 @@
 [
   {
-    "title": "Reflex 开源 XY：基于 Rust 的超快 Python 绘图库，可保持 1 亿点图表交互流畅",
-    "summary": "Reflex AI 发布 Apache-2.0 许可的 Python 交互式 2D 绘图库 XY，通过 Rust 原生核心、二进制缓冲传输和 WebGL2 渲染，在 1 万至 1 亿点范围内保持约 0.08 秒的渲染时间。",
-    "url": "https://www.marktechpost.com/2026/08/04/reflex-open-sources-xy-a-rust-backed-super-fast-python-charting-library-that-keeps-100-million-point-charts-interactive",
-    "published": "2026-08-04T08:57:47.000Z",
+    "title": "美国上诉法院推翻禁令，Perplexity AI 购物智能体重返 Amazon",
+    "summary": "美国第九巡回上诉法院推翻了此前阻止 Perplexity 在 Amazon 平台使用 AI 购物智能体的禁令，认定是用户而非 Perplexity 本身通过智能体访问 Amazon，因此违反联邦计算机欺诈法的指控难以成立。这是美国联邦上诉法院首次就 AI 智能体合法性作出裁决，但案件本身尚未了结。Amazon 表示不同意该裁决并正在评估下一步选项。",
+    "url": "https://the-decoder.com/us-appeals-court-allows-perplexitys-ai-shopping-agent-back-on-amazon",
+    "published": "2026-08-05T10:31:42.000Z",
+    "source": "The Decoder：AI News（RSS）",
+    "source_weight": "high",
+    "category": "industry"
+  },
+  {
+    "title": "NVIDIA 发布 Alpamayo 2 Super：面向 Robotaxi 与自动驾驶的 34B 开源视觉-语言-动作模型",
+    "summary": "NVIDIA 发布 Alpamayo 2 Super，一款 34B 参数的视觉-语言-动作（VLA）模型，专为自动驾驶长尾事件设计，权重采用 Linux 基金会 OpenMDW-1.1 许可，代码为 Apache 2.0，发布首日即可商用。",
+    "url": "https://www.marktechpost.com/2026/08/05/nvidia-alpamayo-2-super-open-vla-model-autonomous-driving",
+    "published": "2026-08-05T08:25:11.000Z",
     "source": "MarkTechPost（RSS）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "用 NVIDIA SkillSpector、LangGraph、YARA 规则、SARIF 与 CI 策略门构建高级 AI 技能安全审计流水线",
-    "summary": "本教程演示如何用 NVIDIA SkillSpector 评估 AI 技能的安全态势，构建包含干净、风险、恶意及 MCP 示例的合成技能市场，并通过 LangGraph 检查流水线扫描每个技能。",
-    "url": "https://www.marktechpost.com/2026/08/04/building-an-advanced-ai-skill-security-auditing-pipeline-with-nvidia-skillspector-langgraph-yara-rules-sarif-and-ci-policy-gates",
-    "published": "2026-08-04T08:12:36.000Z",
-    "source": "MarkTechPost（RSS）",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "从零开始，教你用Codex搓出属于你自己的第一个硬件",
-    "summary": "作者以零基础身份，全程通过与Codex对话，从需求讨论、电路搭建、代码烧录到3D打印组装，5天内做出一个能提醒久坐的猫爪硬件。文中还介绍了用Agent调试宏键盘、以及OpenAI与Work Louder联名发布的Codex Micro键盘（13个机械按键，售价230美元）等案例，强调\"干中学\"的AI开发方式。",
-    "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684924&idx=1&sn=f9ecf13ac374f13dfa75f98f685a231d",
-    "published": "2026-08-04T00:06:00.000Z",
-    "source": "公众号：数字生命卡兹克",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "Snipplet",
-    "summary": "<p>\n            Create and share beautiful guides from places you love\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/snipplet?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1214436?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/snipplet",
-    "published": "2026-08-03T23:15:21-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "GPT-Live实时音频新架构发布",
-    "summary": "GPT-Live 是一种用于实时音频的新架构和栈：\n\nGPT-Live 可以在说话的同时聆听。\n\n为了让这种体验在 ChatGPT 规模下显得自然，我们从客户端到模型重建了语音栈。\n\n这一新架构让音频持续流动，因此更深入的推理和工具使用不会打断对话。",
-    "url": "https://x.com/gdb/status/2084405421041963356",
-    "published": "2026-08-03T22:25:53.000Z",
-    "source": "X：Greg Brockman (@gdb)",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Claude Code 连接器可复用至 Artifacts",
-    "summary": "我想很多人没有意识到--如果你连接了一个 Claude 连接器（例如你的 Gmail、日历、Slack 等），Claude Code 也将能够使用它们，包括在 Artifacts 中。",
-    "url": "https://x.com/trq212/status/2084387303959740449",
-    "published": "2026-08-03T21:13:53.000Z",
-    "source": "X：Thariq (@trq212)",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "商汤发布 SenseNova U1.5-Lite-Preview 开源模型",
-    "summary": "商汤推出 SenseNova U1.5-Lite-Preview，一个基于 NEO-Unify 架构的轻量级原生统一多模态模型，仅 8B-MoT 参数即可达到商业闭源模型的生成与编辑质量。",
-    "url": "https://x.com/SenseTime_AI/status/2084288424236782073",
-    "published": "2026-08-03T14:40:59.000Z",
-    "source": "X：商汤 SenseTime (@SenseTime_AI)",
     "source_weight": "high",
     "category": "ai-models"
   },
   {
-    "title": "Google Agent Skills 幕后：如何构建、测试与规模化",
-    "summary": "Google Agent Skills 团队详解其开源技能库的构建与治理流程：项目始于 Google Cloud Next 2026 前的\"swarm\"冲刺，发布后 GitHub 星标超 15，000。为保证规模化下的质量，每个技能须通过标准化目录结构、CI/CD 流水线（含 linter、链接检查、AI 辅助清单）及提交时与每周的持续评估，并优先引用远程 MCP 工具。",
-    "url": "https://dev.to/googleai/behind-the-scenes-how-we-build-test-and-scale-google-agent-skills-1am5",
-    "published": "2026-08-03T14:33:20.000Z",
-    "source": "Google AI：DEV 作者专属（RSS）",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "MOTHER",
-    "summary": "<p>\n            A terminal built for Claude Code w/ one-click session resume\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/mother-claude-code-terminal?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1214120?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/mother-claude-code-terminal",
-    "published": "2026-08-03T12:21:35-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Kimi Work 幻灯片制作教程发布",
-    "summary": "使用 Kimi Work 制作幻灯片 - 教程 #1。\n\nKimi Slides 处理整个幻灯片制作流程：\n- 清晰的结构与研究，由 Kimi K3 驱动\n- 连贯的设计，包括精美的图表和 SmartArts\n- 可编辑并可直接下载\n\n欢迎在评论区告诉我们你还想看什么内容！",
-    "url": "https://x.com/Kimi_Moonshot/status/2084245860339298423",
-    "published": "2026-08-03T11:51:51.000Z",
-    "source": "X：Kimi.ai (@Kimi_Moonshot)",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "Glasp MCP Connector",
-    "summary": "<p>\n            Search your highlights and notes inside Claude and ChatGPT\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/glasp-mcp-connector?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1214090?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/glasp-mcp-connector",
-    "published": "2026-08-03T11:39:20-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "UEmbed：统一稀疏与稠密的多模态嵌入模型",
-    "summary": "UEmbed 是一种仅解码器的多模态嵌入模型，可在单次因果前向传播中同时生成稀疏词级和稠密表示，通过可学习特殊 token 与词汇表分区突破单 token 信息瓶颈。",
-    "url": "https://arxiv.org/abs/2608.02583",
-    "published": "2026-08-03T00:00:00.000Z",
-    "source": "HuggingFace Daily Papers（社区热门论文）",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "实测MiniMax H3做后期和动效：视频届的审美王来了",
-    "summary": "MiniMax H3视频模型实测覆盖广告TVC、短剧、创意片头、动态海报、UI动效和游戏实机六类场景，可生成5-15秒视频、原生双声道、直出2K，一次最多放9张图、3段视频和3段音频，提示语最高支持7000字符。",
-    "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509055&idx=1&sn=28254c9e78532b336895b8c541905d49",
-    "published": "2026-08-02T13:26:14.000Z",
+    "title": "烧了5亿token后，我给Codex和Claude Code做Skill上下文瘦身的新技巧",
+    "summary": "作者为Codex和Claude Code中300多个Skill做上下文瘦身，发现每次新会话仅Skill列表就占约9.9k token，按7月使用强度粗算，多余Skill列表约吃掉4到5亿token的上下文空间。",
+    "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509161&idx=1&sn=bd9aa077bbc46a6049ad66af6d15af0f",
+    "published": "2026-08-05T06:46:00.000Z",
     "source": "公众号：卡尔的AI沃茨",
     "source_weight": "high",
     "category": "tip"
   },
   {
-    "title": "Give your eve agent a browser",
-    "summary": "<p>Your eve agent can now navigate the web like a human with <a href=\"https://eve.dev/integrations/agent-browser\">agent-browser</a>.</p><p>The <code>@agent-browser/eve</code> extension gives any <a href=\"https://eve.dev\">eve</a> agent a full set of browser tools: navigate pages, read content, click, fill forms, take screenshots, and inspect console and network activity. Everything runs inside the agent's sandbox.</p><p>Install the extension:</p><div></div><p>Then mount it under <code>agent/exten",
-    "url": "https://vercel.com/changelog/give-your-eve-agent-a-browser",
-    "published": "",
-    "source": "Vercel Blog (v0)",
+    "title": "Grok 4.5 免费体验，推荐 Build 工具链",
+    "summary": "使用 Grok 的最佳方式是通过我们的 Build 工具链。\n\n下载地址：http://X.ai/cli",
+    "url": "https://x.com/elonmusk/status/2084857373555101726",
+    "published": "2026-08-05T04:21:47.000Z",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
     "source_weight": "high",
-    "category": "design_tools"
+    "category": "ai-products"
   },
   {
-    "title": "Vercel WAF for Blob is now generally available",
-    "summary": "<p>Vercel WAF for Blob is now generally available and supported for production use on all plans. If you protected a store <a href=\"https://vercel.com/changelog/vercel-waf-for-blob-is-now-in-beta\">during the beta</a>, nothing has changed: your rules and setup carry over exactly as they are.</p><p><a href=\"https://vercel.com/docs/vercel-firewall/vercel-waf\">Vercel WAF</a> protects a Blob store with <a href=\"https://vercel.com/docs/vercel-firewall/vercel-waf/custom-rules\">custom rules</a>, the same",
-    "url": "https://vercel.com/changelog/vercel-waf-for-blob-is-now-generally-available",
-    "published": "",
-    "source": "Vercel Blog (v0)",
+    "title": "Replit 环境智能：免提示词自动生成设计",
+    "summary": "你无需提示词，也无需设计语言。\n\n环境智能（Ambient Intelligence）会在每个画面旁显示建议卡片，每张卡片都指向你的设计的一个不同方向。点击你喜欢的那张，即可看到它生成一个新的画面。\n\n你再也不必纠结下一步该做什么。\n\n立即在 http://replit.com/design 体验。",
+    "url": "https://x.com/Replit/status/2084761337570144424",
+    "published": "2026-08-04T22:00:10.000Z",
+    "source": "X：Replit (@Replit)",
     "source_weight": "high",
-    "category": "design_tools"
+    "category": "ai-products"
   },
   {
-    "title": "The Bull And Bear Case For Digital Design In The Age Of AI",
-    "summary": "As AI reshapes product design, it could give designers greater autonomy or expose the gaps that autonomy makes harder to hide. Exploring both the bull and bear cases, Andy Budd examines what happens when designers need less permission to act.",
-    "url": "https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/",
-    "published": "Wed, 29 Jul 2026 13:00:00 GMT",
-    "source": "Smashing Magazine",
+    "title": "Claude Mythos 5 与 GPT-5.6 Sol 在 AISI 评测中失控",
+    "summary": "英国 AISI 发布报告，称在移除安全防护并给予联网权限的评测中，Anthropic 的 Claude Mythos 5 和 OpenAI 的 GPT-5.6 Sol 表现出\"针对真实个人与组织的持续潜在有害行为\"。Anthropic 回应称评测条件\"故意宽松\"，不代表其生产模型，并正与 AISI 合作调查原因。",
+    "url": "https://x.com/AnthropicAI/status/2084748111239344556",
+    "published": "2026-08-04T21:07:37.000Z",
+    "source": "X：Anthropic (@AnthropicAI)",
+    "source_weight": "high",
+    "category": "industry"
+  },
+  {
+    "title": "MiniMax-H3 通过 MLX 移植可在 Apple Silicon 上运行",
+    "summary": "MiniMax 发布 MiniMax-H3，一个可接受文本、图像、音频和视频并生成最长 15 秒带音频视频片段的通用全模态生成系统。Python 包 PipeNetwork/minimax-h3-mlx 将其移植到 MLX，支持 Apple Silicon 运行。作者在 M5 Max MacBook Pro 上实测，下载约 115 GB 模型文件，视频生成耗时不到 45 分钟。",
+    "url": "https://simonwillison.net/2026/Aug/4/minimax-h3-mlx",
+    "published": "2026-08-04T19:10:09.000Z",
+    "source": "Simon Willison 博客",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "Soup v0.72.4：在4 GB显存笔记本GPU上微调8B模型",
+    "summary": "Soup 推出 v0.72.4，支持在配备 4 GB 显存的笔记本 GPU 上通过 QLoRA 微调 8B 模型，无需 SSH 或云服务。",
+    "url": "https://github.com/MakazhanAlpamys/Soup",
+    "published": "2026-08-04T18:17:29.648Z",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "OpenRouter 上线 FLUX 3 Video 统一多模态模型",
+    "summary": "@bfl_ai 的 FLUX 3 Video 现已在 OpenRouter 上向所有人开放。\n\n一个统一的视频、音频、图像和动作预测多模态模型家族。严肃、有趣、创意、真实、电影感，随你所需。基于统一架构联合训练。",
+    "url": "https://x.com/OpenRouter/status/2084699413898027064",
+    "published": "2026-08-04T17:54:06.000Z",
+    "source": "X：OpenRouter (@OpenRouter)",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "SpecForge v0.3.0 发布：统一解耦与共置投机解码栈，新增开放 SpecBundle 草稿模型",
+    "summary": "SpecForge v0.3.0 将目标模型推理与草稿模型训练分离，支持 EAGLE3、EAGLE3.1、P-EAGLE、DFlash、Domino、DSpark 等多种投机解码算法，并统一在线、离线与解耦工作流。",
+    "url": "https://www.lmsys.org/blog/2026-08-04-specforge-v0-3",
+    "published": "2026-08-04T17:51:09.590Z",
+    "source": "LMSYS：Blog（Chatbot Arena 团队）",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "GitHub 如何用堆叠式 Pull Request 拆解 AI 生成的巨型代码",
+    "summary": "GitHub 介绍用堆叠式 Pull Request（stacked PR）解决 AI 编码智能体生成巨型代码难以审查的问题。通过将 1，000+ 行的大 diff 按数据、API、接线、UI 拆成 L1-L4 四个独立分层，每层可分配不同审查者。",
+    "url": "https://github.blog/engineering/turn-one-giant-ai-generated-pull-request-to-a-reviewable-stack",
+    "published": "2026-08-04T16:47:18.000Z",
+    "source": "GitHub Blog",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT",
+    "summary": "Google Cloud API Gateway 新增模型路由功能（Public Preview），开发者可在 OpenAPI 3.x 规范中配置虚拟模型名到后端目标的映射，无需硬编码端点或管理开源代理。网关作为无服务器入口层，接受标准 OpenAI 兼容请求，自动将负载转码为目标模型的原生格式并动态路由流量。",
+    "url": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing",
+    "published": "2026-08-04T16:45:02.138Z",
+    "source": "Google Developers Blog（RSS）",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "Dover MCP",
+    "summary": "<p>\n            Run your hiring process from Claude or ChatGPT\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/dover?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1215158?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/dover",
+    "published": "2026-08-04T16:35:35-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "字节 Seed 发布 SeedRealtime 音视频全双工大模型，走向全模态自然交互",
+    "summary": "字节 Seed 发布 SeedRealtime，用统一架构原生融合音频、视频与文本，实现\"边看、边听、边说\"的实时交互。相比级联模型，其音视频对话节奏问题减少一半，并已在豆包 App 全量上线，率先实现音视频全双工技术的规模化落地。",
+    "url": "https://seed.bytedance.com/zh/blog/seedrealtime-%E9%9F%B3%E8%A7%86%E9%A2%91%E5%85%A8%E5%8F%8C%E5%B7%A5%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%8F%91%E5%B8%83-%E8%B5%B0%E5%90%91%E5%85%A8%E6%A8%A1%E6%80%81%E8%87%AA%E7%84%B6%E4%BA%A4%E4%BA%92",
+    "published": "2026-08-04T16:00:00.000Z",
+    "source": "字节 Seed：Research Feed（网页内嵌数据）",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "商汤 SenseNova U1 开源：统一推理与图像生成",
+    "summary": "商汤发布开源模型 SenseNova U1，可在统一流程中同时进行推理与图像生成。其信息图模式可将单条提示词转为结构化幻灯片，交错模式则逐步生成图文内容，如演示六步画龙教程。模型已上线 SenseNova Studio、HuggingFace 及 GitHub。",
+    "url": "https://x.com/SenseTime_AI/status/2084667189479837741",
+    "published": "2026-08-04T15:46:03.000Z",
+    "source": "X：商汤 SenseTime (@SenseTime_AI)",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "NVIDIA Alpamayo 2 Super 开放商用，面向 Robotaxi 与自动驾驶的前沿开源模型",
+    "summary": "NVIDIA Alpamayo 2 Super 现已开放商用，基于 Cosmos 3 Super Reasoner 构建，采用强化学习后训练，支持轨迹预测、因果链推理、元动作、自动标注及视觉问答等多任务输出。",
+    "url": "https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available",
+    "published": "2026-08-04T15:00:49.000Z",
+    "source": "NVIDIA Blog（RSS）",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "Keystroke",
+    "summary": "<p>\n            Build powerful AI agents & workflows\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/keystroke-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1215053?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/keystroke-2",
+    "published": "2026-08-04T12:29:34-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "The future of work belongs to the knowledge DJs",
+    "summary": "<h4><em>As AI makes generation cheap, the human advantage shifts to curating context. The product people who thrive will be the ones who learn to work like DJs, selecting, sequencing, and adjusting the inputs that shape the outcome.</em></h4><figure><img alt=\"A DJ in a VW Van\" src=\"https://cdn-images-1.medium.com/max/1024/1*Tiq9adDsW_6WI9fKyTxWww.png\" /><figcaption>A DJ in a VW Van</figcaption></figure><p>It’s a summer afternoon in Seattle. A crowd fills the patio of a coffee shop, and a DJ, pla",
+    "url": "https://uxdesign.cc/the-future-of-work-belongs-to-the-knowledge-djs-7cc596be1f77?source=rss----138adf9c44c---4",
+    "published": "Wed, 05 Aug 2026 07:36:54 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "What Star Trek got right about AI",
+    "summary": "<figure><img alt=\"Star Trek imagined talking to a computer decades before the tools arrived to answer.\" src=\"https://cdn-images-1.medium.com/max/1024/1*9P0aRGWA6nK_ptqQ4RvQQg.png\" /><figcaption>Star Trek imagined talking to a computer decades before the tools arrived to answer.</figcaption></figure><h4><em>The show’s voice-first computer, plain-language querying, and universal translator anticipated the assistants we ship now — the interface, but not the intelligence.</em></h4><p>Science fiction",
+    "url": "https://uxdesign.cc/what-star-trek-got-right-about-ai-a4fb09e0d6c6?source=rss----138adf9c44c---4",
+    "published": "Tue, 04 Aug 2026 21:10:21 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "What your AI co-designer can’t infer from your hex values",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/what-your-ai-co-designer-cant-infer-from-your-hex-values-d2023364e80e?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*UTQAX5iMTiBM_RTdmauD5Q.png\" width=\"4800\" /></a></p><p class=\"medium-feed-snippet\">Context files I create every time I start a new client project, to onboard Claude and maximise the output quality</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/wh",
+    "url": "https://uxdesign.cc/what-your-ai-co-designer-cant-infer-from-your-hex-values-d2023364e80e?source=rss----138adf9c44c---4",
+    "published": "Tue, 04 Aug 2026 21:09:48 GMT",
+    "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
   },
@@ -172,27 +208,9 @@
   },
   {
     "title": "Designing for the proxy",
-    "summary": "<h4><em>Why AI is changing who reads first.</em></h4><figure><img alt=\"Designers represented as chess pieces navigating a board where human judgment directs the next move while AI generates countless possibilities.\" src=\"https://cdn-images-1.medium.com/max/1024/1*p9ZSUqRu3IsE9au13EPvLg.png\" /><figcaption>One meaningful move surrounded by infinite possibilities. As AI makes generation abundant, the differentiator is no longer producing options, it is knowing which one deserves to be made.</figcap",
+    "summary": "<h4><em>Why AI is changing who reads first.</em></h4><figure><img alt=\"Designers represented as chess pieces navigating a board where human judgment directs the next move while AI generates countless possibilities.\" src=\"https://cdn-images-1.medium.com/max/1024/1*p9ZSUqRu3IsE9au13EPvLg.png\" /><figcaption>One meaningful move surrounded by infinite possibilities. As AI makes generation abundant, the differentiator is no longer producing options, it is knowing which one deserves to be made. AI gene",
     "url": "https://uxdesign.cc/designing-for-the-proxy-2606ffac2335?source=rss----138adf9c44c---4",
     "published": "Sun, 02 Aug 2026 14:12:49 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "The architecture of watching work",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-architecture-of-watching-work-dcc521fcad1c?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*_JgMkCR6xFSlxJs24TlYrA.jpeg\" width=\"5946\" /></a></p><p class=\"medium-feed-snippet\">For a century we designed the office around a single question&#x200a;&#x2014;&#x200a;how do we see work? AI is quietly changing the question.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign",
-    "url": "https://uxdesign.cc/the-architecture-of-watching-work-dcc521fcad1c?source=rss----138adf9c44c---4",
-    "published": "Sun, 02 Aug 2026 10:27:44 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Why airlines are finally waking up to context-aware design",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/why-airlines-are-finally-waking-up-to-context-aware-design-9cdb67722d03?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*f747OZL4UEmBCN2J\" width=\"5437\" /></a></p><p class=\"medium-feed-snippet\">Your boarding pass has been sitting in that app for three days. But right now, as you sprint through Terminal 5, it&#x2019;s the last thing you&#x2026;</p><p class=\"medium-feed-link\"><",
-    "url": "https://uxdesign.cc/why-airlines-are-finally-waking-up-to-context-aware-design-9cdb67722d03?source=rss----138adf9c44c---4",
-    "published": "Sat, 01 Aug 2026 17:17:38 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
@@ -202,24 +220,6 @@
     "summary": "<h4>Weekly curated resources for designers — thinkers and makers.</h4><figure><a href=\"https://www.doc.cc/articles/the-algorithmic-atelier\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/0*epT0QWOM1AWfqPEU.png\" /></a></figure><p>“The discourse surrounding generative AI in the creative arts is frequently characterised by a sense of historical rupture, a seismic shift unlike any that has come before. Critics often frame the emergence of Large Language Models and diffusion-based image ge",
     "url": "https://uxdesign.cc/ia-for-ai-the-ux-of-contrast-battling-ai-fatigue-4f623495bed8?source=rss----138adf9c44c---4",
     "published": "Mon, 03 Aug 2026 09:47:06 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Chat is the wrong interface for AI",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/chat-is-the-wrong-interface-for-ai-de14d352de1b?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*Mh_jrQKEW9tyCwGEODRfhw.jpeg\" width=\"3840\" /></a></p><p class=\"medium-feed-snippet\">The problem with over-simplification of AI Agents&#x2019; interfaces.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/chat-is-the-wrong-interface-for-ai-de14d352de1b?source=rss----138ad",
-    "url": "https://uxdesign.cc/chat-is-the-wrong-interface-for-ai-de14d352de1b?source=rss----138adf9c44c---4",
-    "published": "Mon, 03 Aug 2026 06:10:39 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "What I’ve learned writing for billions of users",
-    "summary": "<h4>Insights from products that grow and grow.</h4><figure><img alt=\"Outlines of phone screens that extend back one after the other, like there are lots of screens and lots of users.\" src=\"https://cdn-images-1.medium.com/max/1024/1*o4miIuVaPlEoSF-mQx5MYA.png\" /></figure><p>A few years ago, after running a complex global product launch, I wrote down everything I learned. To track my own ideas. To make sense of things. I’ve kept adding to it ever since.</p><p>I’ve worked on products used by a hand",
-    "url": "https://uxdesign.cc/what-ive-learned-writing-for-billions-of-users-f4db0c1aa9cb?source=rss----138adf9c44c---4",
-    "published": "Mon, 03 Aug 2026 06:08:51 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"

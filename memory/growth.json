@@ -1,5 +1,5 @@
 {
-  "day_count": 103,
+  "day_count": 104,
   "history": [
     {
       "day": 20,
@@ -559,6 +559,13 @@
       "date": "2026-08-04",
       "topic": "Reflex 开源 XY：基于 Rust 的超快 Python 绘图库，可保持 1 亿点图表交互流畅",
       "source": "MarkTechPost（RSS）",
+      "mode": "rss"
+    },
+    {
+      "day": 104,
+      "date": "2026-08-05",
+      "topic": "美国上诉法院推翻禁令，Perplexity AI 购物智能体重返 Amazon",
+      "source": "The Decoder：AI News（RSS）",
       "mode": "rss"
     }
   ],
