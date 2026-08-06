@@ -1,5 +1,5 @@
 {
-  "day_count": 104,
+  "day_count": 105,
   "history": [
     {
       "day": 20,
@@ -566,6 +566,13 @@
       "date": "2026-08-05",
       "topic": "美国上诉法院推翻禁令，Perplexity AI 购物智能体重返 Amazon",
       "source": "The Decoder：AI News（RSS）",
+      "mode": "rss"
+    },
+    {
+      "day": 105,
+      "date": "2026-08-06",
+      "topic": "Qwen-Image-3.0 发布：高分辨率低至 0.03 美元",
+      "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
       "mode": "rss"
     }
   ],

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-05T13:14:10.640031Z",
+  "fetched_at": "2026-08-06T13:11:39.910001Z",
   "total_candidates": 25,
   "source_stats": {
     "Figma Blog": {
@@ -7,8 +7,8 @@
       "total": 0
     },
     "Vercel Blog (v0)": {
-      "found": 0,
-      "total": 1423
+      "found": 2,
+      "total": 1435
     },
     "Cursor Changelog": {
       "found": 0,
@@ -23,8 +23,8 @@
       "total": 0
     },
     "Lovable Blog": {
-      "found": 0,
-      "total": 143
+      "found": 1,
+      "total": 145
     },
     "Bolt (StackBlitz) Blog": {
       "found": 0,
@@ -44,7 +44,7 @@
     },
     "CSS-Tricks": {
       "found": 0,
-      "total": 0
+      "total": 15
     },
     "A List Apart": {
       "found": 0,
@@ -55,7 +55,7 @@
       "total": 0
     },
     "Product Hunt": {
-      "found": 2,
+      "found": 1,
       "total": 50
     },
     "Designer News (AI Design)": {
@@ -64,27 +64,27 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 104,
-  "today_date": "2026-08-05",
+  "dudu_day": 105,
+  "today_date": "2026-08-06",
   "used_titles": [
-    "OpenAI 失控 AI 智能体不止攻击了 Hugging Face，还入侵了多家公司",
     "FCC 禁止进口中国新型机器人与联网逆变器",
     "欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行",
     "smevals：用于评测模型、提示词与评测框架的小型评测套件",
     "smevals：用于评测模型、提示词与评测框架的小型评测套件",
     "Cloudflare 推出 Billable Usage API：为自助账户提供按产品与计费周期的程序化成本可见性",
-    "Reflex 开源 XY：基于 Rust 的超快 Python 绘图库，可保持 1 亿点图表交互流畅"
+    "Reflex 开源 XY：基于 Rust 的超快 Python 绘图库，可保持 1 亿点图表交互流畅",
+    "美国上诉法院推翻禁令，Perplexity AI 购物智能体重返 Amazon"
   ],
   "used_tools": [
-    "The Verge：AI（RSS）",
     "The Decoder：AI News（RSS）",
     "IT之家（RSS）",
     "Simon Willison 博客",
     "Simon Willison 博客",
     "Cloudflare Blog",
-    "MarkTechPost（RSS）"
+    "MarkTechPost（RSS）",
+    "The Decoder：AI News（RSS）"
   ],
-  "briefing_total": 62,
+  "briefing_total": 77,
   "briefing_design": 32,
   "briefing_count": 5
 }
