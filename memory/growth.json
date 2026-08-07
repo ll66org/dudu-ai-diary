@@ -1,5 +1,5 @@
 {
-  "day_count": 105,
+  "day_count": 106,
   "history": [
     {
       "day": 20,
@@ -573,6 +573,13 @@
       "date": "2026-08-06",
       "topic": "Qwen-Image-3.0 发布：高分辨率低至 0.03 美元",
       "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+      "mode": "rss"
+    },
+    {
+      "day": 106,
+      "date": "2026-08-07",
+      "topic": "Runway 上线 Seedance 2.5，支持 50 个角色参考",
+      "source": "X：Runway (@runwayml)",
       "mode": "rss"
     }
   ],
