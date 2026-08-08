@@ -1,42 +1,42 @@
 [
   {
+    "title": "Claude Code 会话间可互发消息",
+    "summary": "Claude Code 新功能：你的会话现在可以互相发送消息了。\n\n无需在另一个会话中重新解释自己，你现在可以让 Claude 代为传达。它会发送一份摘要（而非你的历史记录或文件），另一个会话会在任务进行中接收该摘要。",
+    "source": "X：Claude Devs (@ClaudeDevs)",
+    "url": "https://x.com/ClaudeDevs/status/2085817074816070014",
+    "published_at": "2026-08-07T19:55:17.000Z",
+    "category": "ai-products"
+  },
+  {
+    "title": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
+    "summary": "Cloudflare 推出 Kitesurf，一款专为 AI 智能体设计的浏览器，完全运行在 Workers 上，基于 V8 隔离环境，现已在 Browser Run 中免费开放测试。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "url": "https://blog.cloudflare.com/kitesurf",
+    "published_at": "2026-08-07T18:54:34.746Z",
+    "category": "ai-products"
+  },
+  {
+    "title": "Suno移动端上线Voices功能",
+    "summary": "Voices 功能已在 Suno 移动应用 iOS 和 Android 版正式上线！📱✨\n\n现在你可以直接在手机上录制人声，并将其用于你的歌曲中。只需在创作界面点击\"+ Voice\"按钮，录制至少一分钟，然后让音乐流淌起来。（Pro 和 Premier 套餐可无限使用，免费套餐可体验有限版本！）\n\n打开应用，录制你的声",
+    "source": "X：Suno (@suno)",
+    "url": "https://x.com/suno/status/2085731234970227145",
+    "published_at": "2026-08-07T14:14:12.000Z",
+    "category": "ai-products"
+  },
+  {
+    "title": "斯坦福与 Arc Institute 用 AI 设计全新病毒基因组，16 种在实验室成功杀死细菌",
+    "summary": "斯坦福大学与 Arc Institute 团队用 AI 模型 Evo 从零设计完整病毒基因组，并在实验室构建出 16 种自然界不存在的功能性病毒。Evo 提出 70 万个候选基因组，团队仅筛选最有希望的 285 个序列合成并植入细菌，其中 16 个成功复制并杀死宿主。该研究已通过同行评审发表于《Science》，但 E",
+    "source": "The Decoder：AI News（RSS）",
+    "url": "https://the-decoder.com/stanford-and-arc-institute-scientists-used-ai-to-design-new-viruses-that-killed-bacteria-in-the-lab",
+    "published_at": "2026-08-07T12:50:56.000Z",
+    "category": "paper"
+  },
+  {
     "title": "Runway 上线 Seedance 2.5，支持 50 个角色参考",
     "summary": "Seedance 2.5 现已登陆 Runway。每次生成最多可引用 50 个角色参考，构建充满角色的完整世界；可创作最长 30 秒、带完整音效与对白的片段，再按你的故事需求随意剪辑与延展。\n\n点击下方链接立即开始。",
     "source": "X：Runway (@runwayml)",
     "url": "https://x.com/runwayml/status/2085684483366523193",
     "published_at": "2026-08-07T11:08:25.000Z",
     "category": "ai-products"
-  },
-  {
-    "title": "独立开发者用 VoxCPM 克隆网红声音，让 AI 终于\"会聊天\"了",
-    "summary": "独立开发者叶小叔用面壁智能开源的 VoxCPM 克隆千万粉丝网红声音，搭建 STT → LLM → VoxCPM（TTS）三段式实时对话管道，TTS 首包延迟不到 1 秒，端到端体感 2 到 3 秒。",
-    "source": "公众号：面壁智能（MiniCPM）",
-    "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247498927&idx=1&sn=c5fbfaac5ede8b1008d17337a1bdc70b",
-    "published_at": "2026-08-07T06:41:21.000Z",
-    "category": "tip"
-  },
-  {
-    "title": "Seedance 2.5 API上线，视频生成开启「电影级长叙事」",
-    "summary": "火山引擎正式上线 Seedance 2.5 API，将单次视频生成时长从15秒提升至30秒，并支持最高50个全模态素材参考。模型在指令遵循、长叙事、真人感及声画质感上大幅提升，能稳定保持多角色外形与场景关系，兼容十余种语言。",
-    "source": "公众号：火山引擎",
-    "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzU1NzI5NQ%3D%3D&mid=2247543416&idx=1&sn=badeafc780a939033a1e4cb0bba4221c",
-    "published_at": "2026-08-07T06:01:45.000Z",
-    "category": "ai-products"
-  },
-  {
-    "title": "Anthropic 更新 Claude Fable 5 生物安全防护，误报率大幅降低",
-    "summary": "Anthropic 更新了 Claude Fable 5 的生物安全防护机制，将生物相关查询的\"回退\"次数减少约 85%，用户在日常健康与教育问题上将更少遇到系统切换至较弱模型的情况。此次更新扩大了模型可协助的生物任务范围，但涉及双重用途的病毒学、毒理学和分子设计请求仍会回退至 Opus 5。Anthropic 表示正",
-    "source": "Anthropic：Newsroom（网页）",
-    "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
-    "published_at": "2026-08-07T02:41:46.636Z",
-    "category": "ai-products"
-  },
-  {
-    "title": "GitHub Copilot 应用中的斜杠命令使用指南",
-    "summary": "GitHub Copilot 应用中的斜杠命令可帮助管理会话、导航项目和自定义 Copilot 工作流。与 CLI 版不同，应用版命令更侧重工作流，如 /plan 用于编码前规划、/spar 用于挑战方案假设、/autopilot 用于自动执行实现。/clear 和 /model 在 CLI 和应用中均可用。",
-    "source": "GitHub Blog",
-    "url": "https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app",
-    "published_at": "2026-08-06T19:49:34.000Z",
-    "category": "tip"
   }
 ]

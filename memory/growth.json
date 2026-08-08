@@ -1,5 +1,5 @@
 {
-  "day_count": 106,
+  "day_count": 107,
   "history": [
     {
       "day": 20,
@@ -580,6 +580,13 @@
       "date": "2026-08-07",
       "topic": "Runway 上线 Seedance 2.5，支持 50 个角色参考",
       "source": "X：Runway (@runwayml)",
+      "mode": "rss"
+    },
+    {
+      "day": 107,
+      "date": "2026-08-08",
+      "topic": "Claude Code 会话间可互发消息",
+      "source": "X：Claude Devs (@ClaudeDevs)",
       "mode": "rss"
     }
   ],

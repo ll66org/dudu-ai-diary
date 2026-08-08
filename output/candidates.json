@@ -1,12 +1,48 @@
 [
   {
-    "title": "Runway 上线 Seedance 2.5，支持 50 个角色参考",
-    "summary": "Seedance 2.5 现已登陆 Runway。每次生成最多可引用 50 个角色参考，构建充满角色的完整世界；可创作最长 30 秒、带完整音效与对白的片段，再按你的故事需求随意剪辑与延展。\n\n点击下方链接立即开始。",
-    "url": "https://x.com/runwayml/status/2085684483366523193",
-    "published": "2026-08-07T11:08:25.000Z",
-    "source": "X：Runway (@runwayml)",
+    "title": "Claude Code 会话间可互发消息",
+    "summary": "Claude Code 新功能：你的会话现在可以互相发送消息了。\n\n无需在另一个会话中重新解释自己，你现在可以让 Claude 代为传达。它会发送一份摘要（而非你的历史记录或文件），另一个会话会在任务进行中接收该摘要。",
+    "url": "https://x.com/ClaudeDevs/status/2085817074816070014",
+    "published": "2026-08-07T19:55:17.000Z",
+    "source": "X：Claude Devs (@ClaudeDevs)",
     "source_weight": "high",
     "category": "ai-products"
+  },
+  {
+    "title": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
+    "summary": "Cloudflare 推出 Kitesurf，一款专为 AI 智能体设计的浏览器，完全运行在 Workers 上，基于 V8 隔离环境，现已在 Browser Run 中免费开放测试。",
+    "url": "https://blog.cloudflare.com/kitesurf",
+    "published": "2026-08-07T18:54:34.746Z",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "Suno移动端上线Voices功能",
+    "summary": "Voices 功能已在 Suno 移动应用 iOS 和 Android 版正式上线！📱✨\n\n现在你可以直接在手机上录制人声，并将其用于你的歌曲中。只需在创作界面点击\"+ Voice\"按钮，录制至少一分钟，然后让音乐流淌起来。（Pro 和 Premier 套餐可无限使用，免费套餐可体验有限版本！）\n\n打开应用，录制你的声音，并在评论区告诉我们你的使用体验！",
+    "url": "https://x.com/suno/status/2085731234970227145",
+    "published": "2026-08-07T14:14:12.000Z",
+    "source": "X：Suno (@suno)",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "Toolport",
+    "summary": "<p>\n            Every tool, one port. One MCP setup for all your AI agents\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/conduit-12?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1217619?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/conduit-12",
+    "published": "2026-08-07T13:20:13-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "斯坦福与 Arc Institute 用 AI 设计全新病毒基因组，16 种在实验室成功杀死细菌",
+    "summary": "斯坦福大学与 Arc Institute 团队用 AI 模型 Evo 从零设计完整病毒基因组，并在实验室构建出 16 种自然界不存在的功能性病毒。Evo 提出 70 万个候选基因组，团队仅筛选最有希望的 285 个序列合成并植入细菌，其中 16 个成功复制并杀死宿主。该研究已通过同行评审发表于《Science》，但 Evo 未接受人类病原体数据训练，且能否推广至其他病毒类群仍是未知数。",
+    "url": "https://the-decoder.com/stanford-and-arc-institute-scientists-used-ai-to-design-new-viruses-that-killed-bacteria-in-the-lab",
+    "published": "2026-08-07T12:50:56.000Z",
+    "source": "The Decoder：AI News（RSS）",
+    "source_weight": "high",
+    "category": "paper"
   },
   {
     "title": "独立开发者用 VoxCPM 克隆网红声音，让 AI 终于\"会聊天\"了",
@@ -34,15 +70,6 @@
     "source": "Anthropic：Newsroom（网页）",
     "source_weight": "high",
     "category": "ai-products"
-  },
-  {
-    "title": "Kitesurf",
-    "summary": "<p>\n            Browser built for agents, running on Cloudflare Workers\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/cloudflare?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1217044?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/cloudflare",
-    "published": "2026-08-06T21:59:49-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
   },
   {
     "title": "GitHub Copilot 应用中的斜杠命令使用指南",
@@ -108,22 +135,13 @@
     "category": "ai-models"
   },
   {
-    "title": "Microsoft 的 SkillOpt 证明优化后的智能体技能工件可在不同模型规模及 Codex 与 Claude Code 之间迁移",
-    "summary": "Microsoft 与上海交大、同济、复旦团队提出的 SkillOpt 通过文本空间优化训练单一技能文档，冻结目标模型，使优化后的技能工件可跨模型规模和跨工具链迁移。在 Codex 上优化的 SpreadsheetBench 技能部署到 Claude Code 后得分 81.8，超过后者自行训练技能得到的 80.4。全部 4 项跨模型、4 项跨工具链和 3 项跨基准迁移结果均高于目标的无技能基线。",
-    "url": "https://www.marktechpost.com/2026/08/05/microsoft-skillopt-agent-skill-transfer-portability",
-    "published": "2026-08-06T00:37:42.000Z",
-    "source": "MarkTechPost（RSS）",
+    "title": "Vercel Container Registry repositories can now be made public",
+    "summary": "<p><a href=\"https://vercel.com/docs/container-registry\">Vercel Container Registry</a> now lets you make a repository public, so anyone with a Vercel account can pull and use its images.</p><p>Sharing already granted read access to up to 100 teams, and making a repository public opens that access to every Vercel team rather than a named set. Public access is read-only, so anyone can pull and use the images but cannot push, delete, or otherwise change the repository. Repositories stay private by d",
+    "url": "https://vercel.com/changelog/vercel-container-registry-repositories-can-now-be-made-public",
+    "published": "",
+    "source": "Vercel Blog (v0)",
     "source_weight": "high",
-    "category": "paper"
-  },
-  {
-    "title": "用 Claude Fable 5 一次性生成完整《Raccoon Heist》游戏",
-    "summary": "Simon Willison 将 2022 年 GPT-3 和 DALL-E 生成的游戏概念与截图输入 Claude Fable 5（运行于 Claude Code for web），成功构建出可玩的 3D 浏览器游戏。",
-    "url": "https://simonwillison.net/2026/Aug/5/raccoon-heist",
-    "published": "2026-08-05T19:42:38.000Z",
-    "source": "Simon Willison 博客",
-    "source_weight": "high",
-    "category": "tip"
+    "category": "design_tools"
   },
   {
     "title": "Bottle your judgment and make it outlive you",
@@ -189,19 +207,19 @@
     "category": "design_communities"
   },
   {
-    "title": "Design @ ACME",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/design-acme-9d0cffa8af51?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2496/1*AEeqcnWN85TwUoJJ-EAdLQ.png\" width=\"2496\" /></a></p><p class=\"medium-feed-snippet\">Be better</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/design-acme-9d0cffa8af51?source=rss----138adf9c44c---4\">Continue reading on UX Collective »</a></p></div>",
-    "url": "https://uxdesign.cc/design-acme-9d0cffa8af51?source=rss----138adf9c44c---4",
-    "published": "Fri, 07 Aug 2026 00:20:24 GMT",
-    "source": "UX Collective",
+    "title": "How Baseline Can Help You Ship Less JavaScript",
+    "summary": "The gap between “you need a library for this” and “the browser does this” keeps closing. A practical guide to auditing your dependencies and finding what the web platform can now handle for you.",
+    "url": "https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/",
+    "published": "Fri, 07 Aug 2026 13:00:00 GMT",
+    "source": "Smashing Magazine",
     "source_weight": "medium",
     "category": "design_communities"
   },
   {
-    "title": "The cybernetic application",
-    "summary": "<h4><em>How can we build systems where information goes to live?</em></h4><p>Systems thinker <a href=\"https://en.wikipedia.org/wiki/Stafford_Beer\">Stafford Beer</a> said that “The purpose of a system is what it does.” A purpose (among several) of our information systems is, therefore, to sow confusion and disorientation among our ideas, leaving them disorganized, lost, and abandoned. The cybernetic application is one that — by it’s nature — helps the user avoid such errors.</p><p>To be more spec",
-    "url": "https://uxdesign.cc/the-cybernetic-application-455c41751c4a?source=rss----138adf9c44c---4",
-    "published": "Fri, 07 Aug 2026 00:16:56 GMT",
+    "title": "Design @ ACME",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/design-acme-9d0cffa8af51?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2496/1*AEeqcnWN85TwUoJJ-EAdLQ.png\" width=\"2496\" /></a></p><p class=\"medium-feed-snippet\">Learning from Coyote&#x2019;s mishaps, misfortunes, and sidesplitting calamities</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/design-acme-9d0cffa8af51?source=rss----138adf9c44c---4\">Continue reading on UX C",
+    "url": "https://uxdesign.cc/design-acme-9d0cffa8af51?source=rss----138adf9c44c---4",
+    "published": "Fri, 07 Aug 2026 00:20:24 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
