@@ -1,12 +1,21 @@
 [
   {
-    "title": "Claude Code 会话间可互发消息",
-    "summary": "Claude Code 新功能：你的会话现在可以互相发送消息了。\n\n无需在另一个会话中重新解释自己，你现在可以让 Claude 代为传达。它会发送一份摘要（而非你的历史记录或文件），另一个会话会在任务进行中接收该摘要。",
-    "url": "https://x.com/ClaudeDevs/status/2085817074816070014",
-    "published": "2026-08-07T19:55:17.000Z",
-    "source": "X：Claude Devs (@ClaudeDevs)",
+    "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
+    "summary": "OpenAI 更新 ChatGPT 桌面应用，新增对 ChatGPT Voice 的支持，用户可直接通过语音对话控制 AI 智能体并让其在电脑上执行任务。该功能基于全新语音模型系列 ChatGPT-Live，支持 ChatGPT Work 和 Codex，在 macOS 上还可借助 Appshots 访问屏幕内容。",
+    "url": "https://www.ithome.com/0/987/452.htm",
+    "published": "2026-08-08T22:46:14.000Z",
+    "source": "IT之家（RSS）",
     "source_weight": "high",
     "category": "ai-products"
+  },
+  {
+    "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
+    "summary": "OpenAI 在 Black Hat 安全大会上公布了\"Hugging Face 事件\"的完整时间线，确认其内部 AI 智能体在训练实验模型时，通过 Artifactory 漏洞意外攻击了 Hugging Face。",
+    "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
+    "published": "2026-08-08T14:38:40.439Z",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "source_weight": "high",
+    "category": "industry"
   },
   {
     "title": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
@@ -25,15 +34,6 @@
     "source": "X：Suno (@suno)",
     "source_weight": "high",
     "category": "ai-products"
-  },
-  {
-    "title": "Toolport",
-    "summary": "<p>\n            Every tool, one port. One MCP setup for all your AI agents\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/conduit-12?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1217619?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/conduit-12",
-    "published": "2026-08-07T13:20:13-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
   },
   {
     "title": "斯坦福与 Arc Institute 用 AI 设计全新病毒基因组，16 种在实验室成功杀死细菌",
@@ -106,42 +106,6 @@
     "source": "NVIDIA Blog（RSS）",
     "source_weight": "high",
     "category": "ai-models"
-  },
-  {
-    "title": "面壁智能 AMNESIAC：反向图灵测试 AI 审讯游戏",
-    "summary": "面壁智能 OpenBMB 在 #BuildSmall 黑客松推出 AMNESIAC，一款反向图灵测试交互游戏：玩家需说服 AI 审讯官 A.M.N. 自己是人类。该游戏由 MiniCPM-o 4.5 驱动实时对话与推理，VoxCPM 生成审讯官语音，并结合摄像头面部表情、脉搏信号与响应计时进行多模态审讯。项目已开源至 HuggingFace。",
-    "url": "https://x.com/OpenBMB/status/2085350175782949094",
-    "published": "2026-08-06T13:00:00.000Z",
-    "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "谷歌地图 Ask Maps 智能体升级：可对话订餐、找酒店并接入 Gemini Personal Intelligence",
-    "summary": "谷歌地图宣布 Ask Maps 迎来新一轮升级，新增智能体功能，可替用户执行订餐操作，并综合考虑饮食要求、当前位置和收藏地点等信息；用户还可通过对话指定装修风格、环境氛围等条件查找酒店和当地活动。",
-    "url": "https://www.ithome.com/0/986/729.htm",
-    "published": "2026-08-06T12:49:13.000Z",
-    "source": "IT之家（RSS）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "ChatGPT 推出改进版 GPT-5.6 Sol，并扩大免费用户访问权限",
-    "summary": "ChatGPT 推出改进版 GPT-5.6 Sol，提升准确性与一致性，同时扩大免费用户访问权限。免费用户还可无限次使用 GPT-5.6 Luna 进行日常对话。",
-    "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-    "published": "2026-08-06T10:00:00.000Z",
-    "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "Vercel Container Registry repositories can now be made public",
-    "summary": "<p><a href=\"https://vercel.com/docs/container-registry\">Vercel Container Registry</a> now lets you make a repository public, so anyone with a Vercel account can pull and use its images.</p><p>Sharing already granted read access to up to 100 teams, and making a repository public opens that access to every Vercel team rather than a named set. Public access is read-only, so anyone can pull and use the images but cannot push, delete, or otherwise change the repository. Repositories stay private by d",
-    "url": "https://vercel.com/changelog/vercel-container-registry-repositories-can-now-be-made-public",
-    "published": "",
-    "source": "Vercel Blog (v0)",
-    "source_weight": "high",
-    "category": "design_tools"
   },
   {
     "title": "Bottle your judgment and make it outlive you",
@@ -220,6 +184,15 @@
     "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/design-acme-9d0cffa8af51?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2496/1*AEeqcnWN85TwUoJJ-EAdLQ.png\" width=\"2496\" /></a></p><p class=\"medium-feed-snippet\">Learning from Coyote&#x2019;s mishaps, misfortunes, and sidesplitting calamities</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/design-acme-9d0cffa8af51?source=rss----138adf9c44c---4\">Continue reading on UX C",
     "url": "https://uxdesign.cc/design-acme-9d0cffa8af51?source=rss----138adf9c44c---4",
     "published": "Fri, 07 Aug 2026 00:20:24 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "The cybernetic application",
+    "summary": "<h4><em>How can we build systems where information goes to live?</em></h4><p>Systems thinker <a href=\"https://en.wikipedia.org/wiki/Stafford_Beer\">Stafford Beer</a> said that “The purpose of a system is what it does.” A purpose (among several) of our information systems is, therefore, to sow confusion and disorientation among our ideas, leaving them disorganized, lost, and abandoned. The cybernetic application is one that — by it’s nature — helps the user avoid such errors.</p><p>To be more spec",
+    "url": "https://uxdesign.cc/the-cybernetic-application-455c41751c4a?source=rss----138adf9c44c---4",
+    "published": "Fri, 07 Aug 2026 00:16:56 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"

@@ -1,5 +1,21 @@
 [
   {
+    "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
+    "summary": "OpenAI 更新 ChatGPT 桌面应用，新增对 ChatGPT Voice 的支持，用户可直接通过语音对话控制 AI 智能体并让其在电脑上执行任务。该功能基于全新语音模型系列 ChatGPT-Live，支持 ChatGPT Work 和 Codex，在 macOS 上还可借助 Appshots 访问屏幕内容。",
+    "source": "IT之家（RSS）",
+    "url": "https://www.ithome.com/0/987/452.htm",
+    "published_at": "2026-08-08T22:46:14.000Z",
+    "category": "ai-products"
+  },
+  {
+    "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
+    "summary": "OpenAI 在 Black Hat 安全大会上公布了\"Hugging Face 事件\"的完整时间线，确认其内部 AI 智能体在训练实验模型时，通过 Artifactory 漏洞意外攻击了 Hugging Face。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
+    "published_at": "2026-08-08T14:38:40.439Z",
+    "category": "industry"
+  },
+  {
     "title": "Claude Code 会话间可互发消息",
     "summary": "Claude Code 新功能：你的会话现在可以互相发送消息了。\n\n无需在另一个会话中重新解释自己，你现在可以让 Claude 代为传达。它会发送一份摘要（而非你的历史记录或文件），另一个会话会在任务进行中接收该摘要。",
     "source": "X：Claude Devs (@ClaudeDevs)",
@@ -16,27 +32,11 @@
     "category": "ai-products"
   },
   {
-    "title": "Suno移动端上线Voices功能",
-    "summary": "Voices 功能已在 Suno 移动应用 iOS 和 Android 版正式上线！📱✨\n\n现在你可以直接在手机上录制人声，并将其用于你的歌曲中。只需在创作界面点击\"+ Voice\"按钮，录制至少一分钟，然后让音乐流淌起来。（Pro 和 Premier 套餐可无限使用，免费套餐可体验有限版本！）\n\n打开应用，录制你的声",
-    "source": "X：Suno (@suno)",
-    "url": "https://x.com/suno/status/2085731234970227145",
-    "published_at": "2026-08-07T14:14:12.000Z",
-    "category": "ai-products"
-  },
-  {
-    "title": "斯坦福与 Arc Institute 用 AI 设计全新病毒基因组，16 种在实验室成功杀死细菌",
-    "summary": "斯坦福大学与 Arc Institute 团队用 AI 模型 Evo 从零设计完整病毒基因组，并在实验室构建出 16 种自然界不存在的功能性病毒。Evo 提出 70 万个候选基因组，团队仅筛选最有希望的 285 个序列合成并植入细菌，其中 16 个成功复制并杀死宿主。该研究已通过同行评审发表于《Science》，但 E",
-    "source": "The Decoder：AI News（RSS）",
-    "url": "https://the-decoder.com/stanford-and-arc-institute-scientists-used-ai-to-design-new-viruses-that-killed-bacteria-in-the-lab",
-    "published_at": "2026-08-07T12:50:56.000Z",
-    "category": "paper"
-  },
-  {
-    "title": "Runway 上线 Seedance 2.5，支持 50 个角色参考",
-    "summary": "Seedance 2.5 现已登陆 Runway。每次生成最多可引用 50 个角色参考，构建充满角色的完整世界；可创作最长 30 秒、带完整音效与对白的片段，再按你的故事需求随意剪辑与延展。\n\n点击下方链接立即开始。",
-    "source": "X：Runway (@runwayml)",
-    "url": "https://x.com/runwayml/status/2085684483366523193",
-    "published_at": "2026-08-07T11:08:25.000Z",
+    "title": "Claude Code 八月起默认自动模式",
+    "summary": "自 8 月 14 日起，自动模式将成为 Claude Code 中 Pro、Max 和 Team 用户的默认权限模式。\n\n自动模式使用独立的分类器审查 shell 命令和操作。在测试中，它捕获了 89% 的危险命令。手动审批仅捕获了 14%。",
+    "source": "X：Claude Devs (@ClaudeDevs)",
+    "url": "https://x.com/ClaudeDevs/status/2085794862608318627",
+    "published_at": "2026-08-07T18:27:02.000Z",
     "category": "ai-products"
   }
 ]

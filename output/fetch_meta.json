@@ -1,14 +1,14 @@
 {
-  "fetched_at": "2026-08-08T11:57:32.176991Z",
-  "total_candidates": 25,
+  "fetched_at": "2026-08-09T11:57:46.807521Z",
+  "total_candidates": 22,
   "source_stats": {
     "Figma Blog": {
       "found": 0,
       "total": 0
     },
     "Vercel Blog (v0)": {
-      "found": 1,
-      "total": 1445
+      "found": 0,
+      "total": 1446
     },
     "Cursor Changelog": {
       "found": 0,
@@ -44,7 +44,7 @@
     },
     "CSS-Tricks": {
       "found": 0,
-      "total": 15
+      "total": 0
     },
     "A List Apart": {
       "found": 0,
@@ -55,7 +55,7 @@
       "total": 0
     },
     "Product Hunt": {
-      "found": 1,
+      "found": 0,
       "total": 50
     },
     "Designer News (AI Design)": {
@@ -64,27 +64,27 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 107,
-  "today_date": "2026-08-08",
+  "dudu_day": 108,
+  "today_date": "2026-08-09",
   "used_titles": [
-    "smevals：用于评测模型、提示词与评测框架的小型评测套件",
     "smevals：用于评测模型、提示词与评测框架的小型评测套件",
     "Cloudflare 推出 Billable Usage API：为自助账户提供按产品与计费周期的程序化成本可见性",
     "Reflex 开源 XY：基于 Rust 的超快 Python 绘图库，可保持 1 亿点图表交互流畅",
     "美国上诉法院推翻禁令，Perplexity AI 购物智能体重返 Amazon",
     "Qwen-Image-3.0 发布：高分辨率低至 0.03 美元",
-    "Runway 上线 Seedance 2.5，支持 50 个角色参考"
+    "Runway 上线 Seedance 2.5，支持 50 个角色参考",
+    "Claude Code 会话间可互发消息"
   ],
   "used_tools": [
-    "Simon Willison 博客",
     "Simon Willison 博客",
     "Cloudflare Blog",
     "MarkTechPost（RSS）",
     "The Decoder：AI News（RSS）",
     "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
-    "X：Runway (@runwayml)"
+    "X：Runway (@runwayml)",
+    "X：Claude Devs (@ClaudeDevs)"
   ],
-  "briefing_total": 56,
-  "briefing_design": 18,
+  "briefing_total": 42,
+  "briefing_design": 17,
   "briefing_count": 5
 }

@@ -1,5 +1,5 @@
 {
-  "day_count": 107,
+  "day_count": 108,
   "history": [
     {
       "day": 20,
@@ -587,6 +587,13 @@
       "date": "2026-08-08",
       "topic": "Claude Code 会话间可互发消息",
       "source": "X：Claude Devs (@ClaudeDevs)",
+      "mode": "rss"
+    },
+    {
+      "day": 108,
+      "date": "2026-08-09",
+      "topic": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
+      "source": "IT之家（RSS）",
       "mode": "rss"
     }
   ],
