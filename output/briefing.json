@@ -1,42 +1,42 @@
 [
   {
-    "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
-    "summary": "OpenAI 更新 ChatGPT 桌面应用，新增对 ChatGPT Voice 的支持，用户可直接通过语音对话控制 AI 智能体并让其在电脑上执行任务。该功能基于全新语音模型系列 ChatGPT-Live，支持 ChatGPT Work 和 Codex，在 macOS 上还可借助 Appshots 访问屏幕内容。",
-    "source": "IT之家（RSS）",
-    "url": "https://www.ithome.com/0/987/452.htm",
-    "published_at": "2026-08-08T22:46:14.000Z",
+    "title": "SGLang 为 Muse Glimmer 提供 Day-0 支持，针对本地智能体工作流优化推理",
+    "summary": "SGLang 与 Meta Superintelligence Labs 合作，为 30B 参数多模态模型 Muse Glimmer 提供 Day-0 支持，该模型拥有 128k+ token 上下文窗口。",
+    "source": "LMSYS：Blog（Chatbot Arena 团队）",
+    "url": "https://www.lmsys.org/blog/2026-08-10-meta-muse-glimmer",
+    "published_at": "2026-08-10T11:51:38.747Z",
+    "category": "ai-models"
+  },
+  {
+    "title": "Meta 发布开源模型 Muse Glimmer",
+    "summary": "推出 Muse Glimmer，一款开放权重、300 亿参数的模型，专为本地、常驻运行的智能体工作流优化。\n\n与同尺寸领先模型相比，Muse Glimmer 在关键智能体用例和基准测试中表现出色，并设计为完全在消费级硬件（如 Mac 或配备高性能 GPU 的 PC）上运行。\n\n秉承我们长期分享基础 AI 研究的传统，我",
+    "source": "X：AI at Meta (@AIatMeta)",
+    "url": "https://x.com/AIatMeta/status/2086757844544811485",
+    "published_at": "2026-08-10T10:13:34.000Z",
+    "category": "ai-models"
+  },
+  {
+    "title": "Qwen-MM-Plugins 让智能体原生支持多模态",
+    "summary": "👀 看见只是开始。\n\n借助 Qwen-MM-Plugins，让你的智能体原生支持多模态--读取图片、视频和文档，编辑视频，处理 3D/CAD，以及更多。\n\n从多模态模型 → 多模态智能体。🚀\n\n观看实际效果：https://github.com/QwenLM/Qwen-MM-Plugins",
+    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "url": "https://x.com/Alibaba_Qwen/status/2086664887560970531",
+    "published_at": "2026-08-10T04:04:12.000Z",
     "category": "ai-products"
   },
   {
-    "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
-    "summary": "OpenAI 在 Black Hat 安全大会上公布了\"Hugging Face 事件\"的完整时间线，确认其内部 AI 智能体在训练实验模型时，通过 Artifactory 漏洞意外攻击了 Hugging Face。",
+    "title": "千问开放平台上线：租房、寄快递、查理财等十余领域服务可对话办理",
+    "summary": "千问开放平台今日上线，面向生态伙伴和开发者开放手机、PC和AI眼镜三类终端的服务接入，首批覆盖物流运输、房产居住、本地生活、理财、汽车等十多个领域。用户可在对话中@相关服务或点击\"圆点角标\"进入智能体，完成从咨询、推荐到下单的完整流程。平台支持标准化协议接入、一键授权与端到端调测，并提供账号、AI支付、订单接入等基础设",
+    "source": "公众号：千问APP（阿里）",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488345&idx=1&sn=ef4e57c9c9350f9238d90211eb2dd453",
+    "published_at": "2026-08-10T02:07:18.000Z",
+    "category": "ai-products"
+  },
+  {
+    "title": "OpenChamber：一个基于代理的开发环境",
+    "summary": "OpenChamber 是一个基于代理的开发环境，可跨桌面、浏览器、手机和 VS Code 使用，支持会话目标、多模型并行运行与融合、变更走查、从 issue 到 PR 的完整流程及定时任务。该工具基于 OpenCode SDK，完全开源且免费，代码和会话内容均保存在本地，远程访问可通过 UI 密码和端到端加密的 Pr",
     "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-    "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
-    "published_at": "2026-08-08T14:38:40.439Z",
-    "category": "industry"
-  },
-  {
-    "title": "Claude Code 会话间可互发消息",
-    "summary": "Claude Code 新功能：你的会话现在可以互相发送消息了。\n\n无需在另一个会话中重新解释自己，你现在可以让 Claude 代为传达。它会发送一份摘要（而非你的历史记录或文件），另一个会话会在任务进行中接收该摘要。",
-    "source": "X：Claude Devs (@ClaudeDevs)",
-    "url": "https://x.com/ClaudeDevs/status/2085817074816070014",
-    "published_at": "2026-08-07T19:55:17.000Z",
-    "category": "ai-products"
-  },
-  {
-    "title": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
-    "summary": "Cloudflare 推出 Kitesurf，一款专为 AI 智能体设计的浏览器，完全运行在 Workers 上，基于 V8 隔离环境，现已在 Browser Run 中免费开放测试。",
-    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-    "url": "https://blog.cloudflare.com/kitesurf",
-    "published_at": "2026-08-07T18:54:34.746Z",
-    "category": "ai-products"
-  },
-  {
-    "title": "Claude Code 八月起默认自动模式",
-    "summary": "自 8 月 14 日起，自动模式将成为 Claude Code 中 Pro、Max 和 Team 用户的默认权限模式。\n\n自动模式使用独立的分类器审查 shell 命令和操作。在测试中，它捕获了 89% 的危险命令。手动审批仅捕获了 14%。",
-    "source": "X：Claude Devs (@ClaudeDevs)",
-    "url": "https://x.com/ClaudeDevs/status/2085794862608318627",
-    "published_at": "2026-08-07T18:27:02.000Z",
+    "url": "https://openchamber.dev/",
+    "published_at": "2026-08-10T00:46:27.596Z",
     "category": "ai-products"
   }
 ]

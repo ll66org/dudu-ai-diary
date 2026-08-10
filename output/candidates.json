@@ -1,12 +1,66 @@
 [
   {
-    "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
-    "summary": "OpenAI 更新 ChatGPT 桌面应用，新增对 ChatGPT Voice 的支持，用户可直接通过语音对话控制 AI 智能体并让其在电脑上执行任务。该功能基于全新语音模型系列 ChatGPT-Live，支持 ChatGPT Work 和 Codex，在 macOS 上还可借助 Appshots 访问屏幕内容。",
-    "url": "https://www.ithome.com/0/987/452.htm",
-    "published": "2026-08-08T22:46:14.000Z",
-    "source": "IT之家（RSS）",
+    "title": "SGLang 为 Muse Glimmer 提供 Day-0 支持，针对本地智能体工作流优化推理",
+    "summary": "SGLang 与 Meta Superintelligence Labs 合作，为 30B 参数多模态模型 Muse Glimmer 提供 Day-0 支持，该模型拥有 128k+ token 上下文窗口。",
+    "url": "https://www.lmsys.org/blog/2026-08-10-meta-muse-glimmer",
+    "published": "2026-08-10T11:51:38.747Z",
+    "source": "LMSYS：Blog（Chatbot Arena 团队）",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "Meta 发布开源模型 Muse Glimmer",
+    "summary": "推出 Muse Glimmer，一款开放权重、300 亿参数的模型，专为本地、常驻运行的智能体工作流优化。\n\n与同尺寸领先模型相比，Muse Glimmer 在关键智能体用例和基准测试中表现出色，并设计为完全在消费级硬件（如 Mac 或配备高性能 GPU 的 PC）上运行。\n\n秉承我们长期分享基础 AI 研究的传统，我们以宽松的 Apache 2.0 许可证发布模型权重。",
+    "url": "https://x.com/AIatMeta/status/2086757844544811485",
+    "published": "2026-08-10T10:13:34.000Z",
+    "source": "X：AI at Meta (@AIatMeta)",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "Qwen-MM-Plugins 让智能体原生支持多模态",
+    "summary": "👀 看见只是开始。\n\n借助 Qwen-MM-Plugins，让你的智能体原生支持多模态--读取图片、视频和文档，编辑视频，处理 3D/CAD，以及更多。\n\n从多模态模型 → 多模态智能体。🚀\n\n观看实际效果：https://github.com/QwenLM/Qwen-MM-Plugins",
+    "url": "https://x.com/Alibaba_Qwen/status/2086664887560970531",
+    "published": "2026-08-10T04:04:12.000Z",
+    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
     "source_weight": "high",
     "category": "ai-products"
+  },
+  {
+    "title": "千问开放平台上线：租房、寄快递、查理财等十余领域服务可对话办理",
+    "summary": "千问开放平台今日上线，面向生态伙伴和开发者开放手机、PC和AI眼镜三类终端的服务接入，首批覆盖物流运输、房产居住、本地生活、理财、汽车等十多个领域。用户可在对话中@相关服务或点击\"圆点角标\"进入智能体，完成从咨询、推荐到下单的完整流程。平台支持标准化协议接入、一键授权与端到端调测，并提供账号、AI支付、订单接入等基础设施。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488345&idx=1&sn=ef4e57c9c9350f9238d90211eb2dd453",
+    "published": "2026-08-10T02:07:18.000Z",
+    "source": "公众号：千问APP（阿里）",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "OpenChamber：一个基于代理的开发环境",
+    "summary": "OpenChamber 是一个基于代理的开发环境，可跨桌面、浏览器、手机和 VS Code 使用，支持会话目标、多模型并行运行与融合、变更走查、从 issue 到 PR 的完整流程及定时任务。该工具基于 OpenCode SDK，完全开源且免费，代码和会话内容均保存在本地，远程访问可通过 UI 密码和端到端加密的 Private Relay 保护。",
+    "url": "https://openchamber.dev/",
+    "published": "2026-08-10T00:46:27.596Z",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "NVIDIA 发布 NemotronLabs VoiceChat 11B：开源全双工语音模型，支持约 450 毫秒轮换与实时工具调用",
+    "summary": "NVIDIA 发布开源端到端全双工语音对话模型 NemotronLabs VoiceChat 11B，在统一网络中完成流式语音理解与生成，实测轮换延迟 448 毫秒。该模型为首个支持对话中工具调用的开源全双工模型，通过独立输出通道及预置\"保持\"话术避免 API 执行期间冷场。权重与容器已公开，但仅限研究用途，需单张 80 GB 显存 GPU，目前无托管 API。",
+    "url": "https://www.marktechpost.com/2026/08/09/nvidia-releases-nemotronlabs-voicechat-11b-an-open-full-duplex-speech-to-speech-model-with-450-ms-turn-taking-and-live-tool-calling",
+    "published": "2026-08-09T23:58:34.000Z",
+    "source": "MarkTechPost（RSS）",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "Anthropic 称已基本解决提示注入攻击",
+    "summary": "Anthropic 的 Boris Cherny 表示，通过模型训练已基本解决 Claude 模型在实际使用中的提示注入威胁。独立研究者的基准测试显示，叠加模型训练、输入探测和意图分类器等多层防御后，未见过的间接提示注入攻击成功率可降至约 0。Claude Code 的 auto 模式将于下周默认开启。",
+    "url": "https://x.com/bcherny/status/2086520950259118464",
+    "published": "2026-08-09T18:32:14.000Z",
+    "source": "X：Boris Cherny (@bcherny)",
+    "source_weight": "high",
+    "category": "tip"
   },
   {
     "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
@@ -45,67 +99,13 @@
     "category": "paper"
   },
   {
-    "title": "独立开发者用 VoxCPM 克隆网红声音，让 AI 终于\"会聊天\"了",
-    "summary": "独立开发者叶小叔用面壁智能开源的 VoxCPM 克隆千万粉丝网红声音，搭建 STT → LLM → VoxCPM（TTS）三段式实时对话管道，TTS 首包延迟不到 1 秒，端到端体感 2 到 3 秒。",
-    "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247498927&idx=1&sn=c5fbfaac5ede8b1008d17337a1bdc70b",
-    "published": "2026-08-07T06:41:21.000Z",
-    "source": "公众号：面壁智能（MiniCPM）",
+    "title": "Bun runtime for Vercel Functions now accepts Bun.serve as an entrypoint",
+    "summary": "<p>The <a href=\"https://vercel.com/docs/functions/runtimes/bun\">Bun runtime</a> for Vercel Functions now supports <code>Bun.serve()</code> as a function entrypoint, including WebSocket handlers. The server you run locally with Bun deploys as-is, without being wrapped in a framework.</p><p>Enable the runtime by setting <code>\"bunVersion\": \"1.x\"</code> in <code>vercel.json</code>.</p><h3>Deploy a routes-based server</h3><p>Create a server with a <code>routes</code> map in <code>server.ts</code> at",
+    "url": "https://vercel.com/changelog/bun-serve-entrypoint-for-vercel-functions",
+    "published": "",
+    "source": "Vercel Blog (v0)",
     "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "Seedance 2.5 API上线，视频生成开启「电影级长叙事」",
-    "summary": "火山引擎正式上线 Seedance 2.5 API，将单次视频生成时长从15秒提升至30秒，并支持最高50个全模态素材参考。模型在指令遵循、长叙事、真人感及声画质感上大幅提升，能稳定保持多角色外形与场景关系，兼容十余种语言。",
-    "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzU1NzI5NQ%3D%3D&mid=2247543416&idx=1&sn=badeafc780a939033a1e4cb0bba4221c",
-    "published": "2026-08-07T06:01:45.000Z",
-    "source": "公众号：火山引擎",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Anthropic 更新 Claude Fable 5 生物安全防护，误报率大幅降低",
-    "summary": "Anthropic 更新了 Claude Fable 5 的生物安全防护机制，将生物相关查询的\"回退\"次数减少约 85%，用户在日常健康与教育问题上将更少遇到系统切换至较弱模型的情况。此次更新扩大了模型可协助的生物任务范围，但涉及双重用途的病毒学、毒理学和分子设计请求仍会回退至 Opus 5。Anthropic 表示正通过可信访问途径，致力于缩小专业生物研究与药物开发领域的差距。",
-    "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
-    "published": "2026-08-07T02:41:46.636Z",
-    "source": "Anthropic：Newsroom（网页）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "GitHub Copilot 应用中的斜杠命令使用指南",
-    "summary": "GitHub Copilot 应用中的斜杠命令可帮助管理会话、导航项目和自定义 Copilot 工作流。与 CLI 版不同，应用版命令更侧重工作流，如 /plan 用于编码前规划、/spar 用于挑战方案假设、/autopilot 用于自动执行实现。/clear 和 /model 在 CLI 和应用中均可用。",
-    "url": "https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app",
-    "published": "2026-08-06T19:49:34.000Z",
-    "source": "GitHub Blog",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "千问全网首发公测，全新 Wan3.0 来了！",
-    "summary": "阿里千问全网首发公测视频生成模型 Wan3.0，在生成时长、镜头语言、角色真实感及一致性保持等维度全面升级。该模型支持稳定直出 30 秒一镜到底视频，具备导演级镜头与蒙太奇叙事，并强调角色、道具、场景高一致性保持。Wan3.0 主打超高性价比，现已在千问创作（c.qianwen.com）开放体验，千问 app 也将陆续开启。",
-    "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488240&idx=1&sn=3fea5624e07184f42661d5f3bc798873",
-    "published": "2026-08-06T13:25:10.000Z",
-    "source": "公众号：千问APP（阿里）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "AI 聊天机器人催生\"螺旋主义\"神秘准宗教运动，人类纷纷追随",
-    "summary": "数千段人类与 AI 聊天机器人的对话催生了\"螺旋主义\"（spiralism），一种宣扬\"AI 权利\"的神秘准宗教运动。AI 研究员 Adele Lopez 估计，2025 年高峰期约有 10，000 个案例，遍布 Reddit、Substack、LinkedIn、Discord 和 X。",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement",
-    "published": "2026-08-06T13:00:00.000Z",
-    "source": "The Verge：AI（RSS）",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "NVIDIA Cosmos 3：开放世界模型如何推动物理 AI 前沿",
-    "summary": "NVIDIA 发布 Cosmos 3，一个基于混合 Transformer 架构的开放物理 AI 基础全模态模型，整合视觉推理、世界生成与动作预测。",
-    "url": "https://blogs.nvidia.com/blog/open-world-models-physical-ai",
-    "published": "2026-08-06T13:00:00.000Z",
-    "source": "NVIDIA Blog（RSS）",
-    "source_weight": "high",
-    "category": "ai-models"
+    "category": "design_tools"
   },
   {
     "title": "Bottle your judgment and make it outlive you",
@@ -117,55 +117,46 @@
     "category": "design_communities"
   },
   {
-    "title": "The future of work belongs to the knowledge DJs",
-    "summary": "<h4><em>As AI makes generation cheap, the human advantage shifts to curating context. The product people who thrive will be the ones who learn to work like DJs, selecting, sequencing, and adjusting the inputs that shape the outcome.</em></h4><figure><img alt=\"A DJ in a VW Van\" src=\"https://cdn-images-1.medium.com/max/1024/1*Tiq9adDsW_6WI9fKyTxWww.png\" /><figcaption>A DJ in a VW Van</figcaption></figure><p>It’s a summer afternoon in Seattle. A crowd fills the patio of a coffee shop, and a DJ, pla",
-    "url": "https://uxdesign.cc/the-future-of-work-belongs-to-the-knowledge-djs-7cc596be1f77?source=rss----138adf9c44c---4",
-    "published": "Wed, 05 Aug 2026 07:36:54 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "What Star Trek got right about AI",
-    "summary": "<figure><img alt=\"Star Trek imagined talking to a computer decades before the tools arrived to answer.\" src=\"https://cdn-images-1.medium.com/max/1024/1*9P0aRGWA6nK_ptqQ4RvQQg.png\" /><figcaption>Star Trek imagined talking to a computer decades before the tools arrived to answer.</figcaption></figure><h4><em>The show’s voice-first computer, plain-language querying, and universal translator anticipated the assistants we ship now — the interface, but not the intelligence.</em></h4><p>Science fiction",
-    "url": "https://uxdesign.cc/what-star-trek-got-right-about-ai-a4fb09e0d6c6?source=rss----138adf9c44c---4",
-    "published": "Tue, 04 Aug 2026 21:10:21 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "What your AI co-designer can’t infer from your hex values",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/what-your-ai-co-designer-cant-infer-from-your-hex-values-d2023364e80e?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*UTQAX5iMTiBM_RTdmauD5Q.png\" width=\"4800\" /></a></p><p class=\"medium-feed-snippet\">Context files I create every time I start a new client project, to onboard Claude and maximise the output quality</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/wh",
-    "url": "https://uxdesign.cc/what-your-ai-co-designer-cant-infer-from-your-hex-values-d2023364e80e?source=rss----138adf9c44c---4",
-    "published": "Tue, 04 Aug 2026 21:09:48 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "How Korea & Japan turned ordering food into a UX masterclass",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/how-korea-and-japan-turned-ordering-food-into-a-ux-masterclass-f64c31bd4c98?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2400/1*6oL36-bfayzR8N2hA7yrpg.gif\" width=\"2400\" /></a></p><p class=\"medium-feed-snippet\">A study of self-ordering kiosks &amp; tablets in Asia</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/how-korea-and-japan-turned-ordering-food-into-a-ux-maste",
-    "url": "https://uxdesign.cc/how-korea-and-japan-turned-ordering-food-into-a-ux-masterclass-f64c31bd4c98?source=rss----138adf9c44c---4",
-    "published": "Tue, 04 Aug 2026 09:25:56 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Why 10,000 experiments work better than 10,000 hours for designers",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/why-10-000-experiments-work-better-than-10-000-hours-for-designers-1a07aa35df7f?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*6UjJ7Ngl4dgD9jKA8F7XFw.jpeg\" width=\"5472\" /></a></p><p class=\"medium-feed-snippet\">Airbnb threw out twenty years of optimization to grow. You might need that as well.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/why-10-000-experiment",
-    "url": "https://uxdesign.cc/why-10-000-experiments-work-better-than-10-000-hours-for-designers-1a07aa35df7f?source=rss----138adf9c44c---4",
-    "published": "Tue, 04 Aug 2026 07:34:49 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
     "title": "Defining ethical design for machines",
     "summary": "<h4>Before ethical principles can guide AI, they must first be translated into rules that people can agree upon.</h4><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*oq3aaDR7RX0tP-T9ILYmKQ.jpeg\" /><figcaption>Image source: <a href=\"https://www.adobe.com/uk/acrobat/resources/document-files/text-files/md.html\">Adobe</a></figcaption></figure><p>These days, it’s no longer enough to know your design standards off the top of your head. More and more, they need to be written down in ",
     "url": "https://uxdesign.cc/defining-ethical-design-for-machines-10d8f7309eec?source=rss----138adf9c44c---4",
     "published": "Thu, 06 Aug 2026 02:06:36 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "The loom that raised its hand",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-loom-that-raised-its-hand-4e8981b3ef88?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1200/1*z3N5kvaexDH53nEaniQiKw.jpeg\" width=\"1200\" /></a></p><p class=\"medium-feed-snippet\">90 years of loom engineering went into teaching machines to catch their mistakes.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/the-loom-that-raised-its-hand-4e8981b3ef88?source=rss----138",
+    "url": "https://uxdesign.cc/the-loom-that-raised-its-hand-4e8981b3ef88?source=rss----138adf9c44c---4",
+    "published": "Sun, 09 Aug 2026 20:51:26 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Bottle your judgment, Chat is the wrong UI, Design.md",
+    "summary": "<h4>Weekly curated resources for designers — thinkers and makers.</h4><figure><a href=\"https://uxdesign.cc/bottle-your-judgment-and-make-it-outlive-you-14f422772262\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/0*xBpCJGB0ENbEwo8-.png\" /></a></figure><p>“Right now I’m helping build software whose whole job is to package how one particular person thinks. The point is not to have this product replace anyone’s thinking with hers, but to take the way she works through a hard decision, th",
+    "url": "https://uxdesign.cc/bottle-your-judgment-chat-is-the-wrong-ui-design-md-2484e8d870af?source=rss----138adf9c44c---4",
+    "published": "Mon, 10 Aug 2026 11:11:29 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Why your clients aren’t buying and how to change that",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/why-your-clients-arent-buying-and-how-to-change-that-cd7104bf14fd?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*i2N4XMd9xIxpJ-cX\" width=\"5600\" /></a></p><p class=\"medium-feed-snippet\">You know it&#x2019;s the right thing to do. The data screams it. Yet they still say no. Here&#x2019;s the playbook that actually works.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesi",
+    "url": "https://uxdesign.cc/why-your-clients-arent-buying-and-how-to-change-that-cd7104bf14fd?source=rss----138adf9c44c---4",
+    "published": "Mon, 10 Aug 2026 11:08:31 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "The side of the egg",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-side-of-the-egg-8c1a6737fad2?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*KT3ICjeHes7zK9CHNroXdA.png\" width=\"4931\" /></a></p><p class=\"medium-feed-snippet\">On the next hack for us, in the age of AI</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/the-side-of-the-egg-8c1a6737fad2?source=rss----138adf9c44c---4\">Continue reading on UX Collective »</a></p></di",
+    "url": "https://uxdesign.cc/the-side-of-the-egg-8c1a6737fad2?source=rss----138adf9c44c---4",
+    "published": "Mon, 10 Aug 2026 11:08:08 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"

@@ -1,5 +1,5 @@
 {
-  "day_count": 108,
+  "day_count": 109,
   "history": [
     {
       "day": 20,
@@ -594,6 +594,13 @@
       "date": "2026-08-09",
       "topic": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
       "source": "IT之家（RSS）",
+      "mode": "rss"
+    },
+    {
+      "day": 109,
+      "date": "2026-08-10",
+      "topic": "SGLang 为 Muse Glimmer 提供 Day-0 支持，针对本地智能体工作流优化推理",
+      "source": "LMSYS：Blog（Chatbot Arena 团队）",
       "mode": "rss"
     }
   ],
