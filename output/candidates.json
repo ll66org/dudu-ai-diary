@@ -1,12 +1,120 @@
 [
   {
-    "title": "SGLang 为 Muse Glimmer 提供 Day-0 支持，针对本地智能体工作流优化推理",
-    "summary": "SGLang 与 Meta Superintelligence Labs 合作，为 30B 参数多模态模型 Muse Glimmer 提供 Day-0 支持，该模型拥有 128k+ token 上下文窗口。",
-    "url": "https://www.lmsys.org/blog/2026-08-10-meta-muse-glimmer",
-    "published": "2026-08-10T11:51:38.747Z",
-    "source": "LMSYS：Blog（Chatbot Arena 团队）",
+    "title": "OpenAI risks White House relationship with hiring of AI policy executive",
+    "summary": "<p>Article URL: <a href=\"https://nypost.com/2026/08/10/business/openai-risks-white-house-relationship-with-hiring-of-nuisance-ai-policy-executive-sources/\">https://nypost.com/2026/08/10/business/openai-risks-white-house-relationship-with-hiring-of-nuisance-ai-policy-executive-sources/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49257008\">https://news.ycombinator.com/item?id=49257008</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://nypost.com/2026/08/10/business/openai-risks-white-house-relationship-with-hiring-of-nuisance-ai-policy-executive-sources/",
+    "published": "Tue, 11 Aug 2026 12:11:44 +0000",
+    "source": "Hacker News (设计向)",
     "source_weight": "high",
-    "category": "ai-models"
+    "category": "ai_tech"
+  },
+  {
+    "title": "Show HN: The Rotten Tomatoes for AI films, ranked by the tools that made them",
+    "summary": "<p>I wanted a rotten tomatoes for ai film, hence popcorn.movie, because AI films need a critical and technical review that's different to movies, and we're in the 1895-1920's of ai movies right now.<p>Many festivals, people, industries, sites reject or suppress ai, for many great reasons (slop), and of course slopscrolling and other sites have the slop problem, as does this - the idea is to look past the slop to the real stories and technically great content, with an view that ai is a tool.<p>\"i",
+    "url": "https://popcorn.movie/",
+    "published": "Tue, 11 Aug 2026 12:07:05 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Show HN: Ebman – a k9s-style terminal UI for AWS Elastic Beanstalk",
+    "summary": "<p>Article URL: <a href=\"https://github.com/tombaldwin/ebman\">https://github.com/tombaldwin/ebman</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49256919\">https://news.ycombinator.com/item?id=49256919</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://github.com/tombaldwin/ebman",
+    "published": "Tue, 11 Aug 2026 12:03:48 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "How the government is using AI to speed up the planning system",
+    "summary": "<p>Article URL: <a href=\"https://takes.jamesomalley.co.uk/p/build-gemini-build\">https://takes.jamesomalley.co.uk/p/build-gemini-build</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49256771\">https://news.ycombinator.com/item?id=49256771</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://takes.jamesomalley.co.uk/p/build-gemini-build",
+    "published": "Tue, 11 Aug 2026 11:50:18 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Google Builds a New Gemini Model Team as AI Investments Accelerate",
+    "summary": "<p>Article URL: <a href=\"https://www.nextplatform.com/cloud/2026/08/06/google-builds-a-new-gemini-model-team-as-ai-investments-accelerate/5284258\">https://www.nextplatform.com/cloud/2026/08/06/google-builds-a-new-gemini-model-team-as-ai-investments-accelerate/5284258</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49256377\">https://news.ycombinator.com/item?id=49256377</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "url": "https://www.nextplatform.com/cloud/2026/08/06/google-builds-a-new-gemini-model-team-as-ai-investments-accelerate/5284258",
+    "published": "Tue, 11 Aug 2026 11:14:33 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Show HN: Overlay – Design with your React components and CSS tokens in your IDE",
+    "summary": "<p>Hey HN, I'm Francesco. I've spent the last year building Overlay, a UI editor that runs inside your IDE and renders your actual React components (not a redraw of them), using your real CSS tokens.<p>I'm a design engineer and, especially with AI, I found myself spending more and more time in the codebase rather than in Figma. Trying out ideas in code with AI is a lot of fun, but there are specific moments where I need to sketch things out on a classical visual canvas. The problem is, when you ",
+    "url": "https://www.overlay.studio/",
+    "published": "Tue, 11 Aug 2026 11:06:14 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Linus Torvalds says AI has made 'huge' Linux kernel updates the new normal",
+    "summary": "<p>Article URL: <a href=\"https://www.theregister.com/os-platforms/2026/08/10/linus-torvalds-says-ai-has-made-huge-linux-kernel-updates-the-new-normal/5285268\">https://www.theregister.com/os-platforms/2026/08/10/linus-torvalds-says-ai-has-made-huge-linux-kernel-updates-the-new-normal/5285268</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49256195\">https://news.ycombinator.com/item?id=49256195</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+    "url": "https://www.theregister.com/os-platforms/2026/08/10/linus-torvalds-says-ai-has-made-huge-linux-kernel-updates-the-new-normal/5285268",
+    "published": "Tue, 11 Aug 2026 10:56:30 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "We built a realtime system for responsive voice AI in six months",
+    "summary": "<p>Article URL: <a href=\"https://openai.com/index/continuous-voice-interaction-with-gpt-live/\">https://openai.com/index/continuous-voice-interaction-with-gpt-live/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49256018\">https://news.ycombinator.com/item?id=49256018</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live/",
+    "published": "Tue, 11 Aug 2026 10:36:51 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
+    "summary": "ZCode针对GLM深度优化，今日上线Goal、Subagents、Remote Control与闲时任务四大功能。在Z.ai Code Bench测试中，GLM-5.2搭配ZCode较搭配Claude Code任务整体通过率高2.39%；ZCode缓存命中率超98%，叠加1.5倍限时额度加成后，GLM Coding Plan整体使用量接近常规额度的1.8倍。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494052&idx=1&sn=ee3ab3d0f4550e9120927c53a27522c9",
+    "published": "2026-08-11T05:52:25.000Z",
+    "source": "公众号：智谱（GLM）",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "用 ComfyUI API 实现 MiniMax-H3 多模态视频与音频生成流水线",
+    "summary": "本教程演示如何以 ComfyUI 为无头推理后端，构建端到端的 MiniMax-H3 视频生成工作流。通过 Python 直接构建执行图，支持文生视频、首尾帧条件生成和参考图像条件生成，并自动根据 GPU 显存选择 quality、balanced、squeeze 三种权重配置。流水线涵盖模型自动下载、节点模式校验、音视频联合解码与进度监控，无需图形界面即可复现实验。",
+    "url": "https://www.marktechpost.com/2026/08/10/implementing-a-minimax-h3-multimodal-video-and-audio-generation-pipeline-with-comfyui-apis",
+    "published": "2026-08-11T05:44:38.000Z",
+    "source": "MarkTechPost（RSS）",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "Xirp",
+    "summary": "<p>\n            The agentic development environment built by Spotify\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/spotify?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1219999?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/spotify",
+    "published": "2026-08-10T21:39:44-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Claude 未发布研究版将黎曼 zeta 函数零点下界从 41.6% 提升至 67.2%",
+    "summary": "Anthropic 员工让 Claude 尝试攻克黎曼猜想，虽未成功，但一个未发布的研究版 Claude 在相关问题上取得突破：将满足黎曼猜想的 zeta 函数零点比例下界从 41.6% 提升至 67.2%。",
+    "url": "https://www.anthropic.com/research/riemann-zeta",
+    "published": "2026-08-10T17:46:50.781Z",
+    "source": "Anthropic：Research（发表成果 · 网页）",
+    "source_weight": "high",
+    "category": "paper"
+  },
+  {
+    "title": "智能体真的会用电脑吗？a16z 用数据给出答案",
+    "summary": "a16z 数据显示，计算机操作智能体在 OSWorld-Verified 基准上的最佳成绩已从一年前的 42% 升至 85%，超过人类测试者约 72% 的水平，Claude Fable 5 以 85% 领先。",
+    "url": "https://www.a16z.news/p/can-agents-use-a-computer-yet-weve",
+    "published": "2026-08-10T14:00:46.000Z",
+    "source": "a16z：News（RSS）",
+    "source_weight": "high",
+    "category": "tip"
   },
   {
     "title": "Meta 发布开源模型 Muse Glimmer",
@@ -72,36 +180,27 @@
     "category": "industry"
   },
   {
-    "title": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
-    "summary": "Cloudflare 推出 Kitesurf，一款专为 AI 智能体设计的浏览器，完全运行在 Workers 上，基于 V8 隔离环境，现已在 Browser Run 中免费开放测试。",
-    "url": "https://blog.cloudflare.com/kitesurf",
-    "published": "2026-08-07T18:54:34.746Z",
-    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "title": "Vercel Connect now supports CLI setup for 100+ connectors",
+    "summary": "<p>You can now integrate 100+ services through Vercel Connect from the CLI. Previously, <code>vercel connect create</code> completed setup in the terminal for some services, and opened the dashboard for everything else.</p><p>Pass the service name to create a connector, then attach it to your project:</p><div></div><p>The CLI pre-populates the brand name, icon, auth type, and MCP or discovery URL, then prompts for any credentials the service requires and creates the connector.</p><p>After attach",
+    "url": "https://vercel.com/changelog/vercel-cli-100-services",
+    "published": "",
+    "source": "Vercel Blog (v0)",
     "source_weight": "high",
-    "category": "ai-products"
+    "category": "design_tools"
   },
   {
-    "title": "Suno移动端上线Voices功能",
-    "summary": "Voices 功能已在 Suno 移动应用 iOS 和 Android 版正式上线！📱✨\n\n现在你可以直接在手机上录制人声，并将其用于你的歌曲中。只需在创作界面点击\"+ Voice\"按钮，录制至少一分钟，然后让音乐流淌起来。（Pro 和 Premier 套餐可无限使用，免费套餐可体验有限版本！）\n\n打开应用，录制你的声音，并在评论区告诉我们你的使用体验！",
-    "url": "https://x.com/suno/status/2085731234970227145",
-    "published": "2026-08-07T14:14:12.000Z",
-    "source": "X：Suno (@suno)",
+    "title": "A sandbox without a network boundary is only half a sandbox",
+    "summary": "<p>Running untrusted code safely requires more than separating it from the host. You also have to control what that code can reach.</p><p>This matters more as AI agents gain the ability to read files, execute commands, install packages, and generate programs of their own. A microVM can prevent that code from accessing the host or another workload. By itself, it cannot stop the code from exfiltrating data, probing internal services, attacking systems elsewhere on the internet, or using credential",
+    "url": "https://vercel.com/blog/a-sandbox-without-a-network-boundary-is-only-half-a-sandbox",
+    "published": "",
+    "source": "Vercel Blog (v0)",
     "source_weight": "high",
-    "category": "ai-products"
+    "category": "design_tools"
   },
   {
-    "title": "斯坦福与 Arc Institute 用 AI 设计全新病毒基因组，16 种在实验室成功杀死细菌",
-    "summary": "斯坦福大学与 Arc Institute 团队用 AI 模型 Evo 从零设计完整病毒基因组，并在实验室构建出 16 种自然界不存在的功能性病毒。Evo 提出 70 万个候选基因组，团队仅筛选最有希望的 285 个序列合成并植入细菌，其中 16 个成功复制并杀死宿主。该研究已通过同行评审发表于《Science》，但 Evo 未接受人类病原体数据训练，且能否推广至其他病毒类群仍是未知数。",
-    "url": "https://the-decoder.com/stanford-and-arc-institute-scientists-used-ai-to-design-new-viruses-that-killed-bacteria-in-the-lab",
-    "published": "2026-08-07T12:50:56.000Z",
-    "source": "The Decoder：AI News（RSS）",
-    "source_weight": "high",
-    "category": "paper"
-  },
-  {
-    "title": "Bun runtime for Vercel Functions now accepts Bun.serve as an entrypoint",
-    "summary": "<p>The <a href=\"https://vercel.com/docs/functions/runtimes/bun\">Bun runtime</a> for Vercel Functions now supports <code>Bun.serve()</code> as a function entrypoint, including WebSocket handlers. The server you run locally with Bun deploys as-is, without being wrapped in a framework.</p><p>Enable the runtime by setting <code>\"bunVersion\": \"1.x\"</code> in <code>vercel.json</code>.</p><h3>Deploy a routes-based server</h3><p>Create a server with a <code>routes</code> map in <code>server.ts</code> at",
-    "url": "https://vercel.com/changelog/bun-serve-entrypoint-for-vercel-functions",
+    "title": "Vercel Sandbox now runs on Vercel Managed Images",
+    "summary": "<p>Today we are introducing Vercel Managed Images (VMI), a set of versioned, open-source base images you can use as-is or extend. The source for every image lives in the public <a href=\"https://github.com/vercel/sandbox\">vercel/sandbox</a> repository.</p><p>Managed images replace Sandbox runtimes, which are now deprecated. Starting with version 3 of the Sandbox SDK, new sandboxes default to <code>vercel/sandbox/universal:latest</code>. It ships with Node.js, Python, common coding agents and stan",
+    "url": "https://vercel.com/changelog/vercel-sandbox-managed-images",
     "published": "",
     "source": "Vercel Blog (v0)",
     "source_weight": "high",
@@ -121,69 +220,6 @@
     "summary": "<h4>Before ethical principles can guide AI, they must first be translated into rules that people can agree upon.</h4><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*oq3aaDR7RX0tP-T9ILYmKQ.jpeg\" /><figcaption>Image source: <a href=\"https://www.adobe.com/uk/acrobat/resources/document-files/text-files/md.html\">Adobe</a></figcaption></figure><p>These days, it’s no longer enough to know your design standards off the top of your head. More and more, they need to be written down in ",
     "url": "https://uxdesign.cc/defining-ethical-design-for-machines-10d8f7309eec?source=rss----138adf9c44c---4",
     "published": "Thu, 06 Aug 2026 02:06:36 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "The loom that raised its hand",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-loom-that-raised-its-hand-4e8981b3ef88?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1200/1*z3N5kvaexDH53nEaniQiKw.jpeg\" width=\"1200\" /></a></p><p class=\"medium-feed-snippet\">90 years of loom engineering went into teaching machines to catch their mistakes.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/the-loom-that-raised-its-hand-4e8981b3ef88?source=rss----138",
-    "url": "https://uxdesign.cc/the-loom-that-raised-its-hand-4e8981b3ef88?source=rss----138adf9c44c---4",
-    "published": "Sun, 09 Aug 2026 20:51:26 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Bottle your judgment, Chat is the wrong UI, Design.md",
-    "summary": "<h4>Weekly curated resources for designers — thinkers and makers.</h4><figure><a href=\"https://uxdesign.cc/bottle-your-judgment-and-make-it-outlive-you-14f422772262\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/0*xBpCJGB0ENbEwo8-.png\" /></a></figure><p>“Right now I’m helping build software whose whole job is to package how one particular person thinks. The point is not to have this product replace anyone’s thinking with hers, but to take the way she works through a hard decision, th",
-    "url": "https://uxdesign.cc/bottle-your-judgment-chat-is-the-wrong-ui-design-md-2484e8d870af?source=rss----138adf9c44c---4",
-    "published": "Mon, 10 Aug 2026 11:11:29 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Why your clients aren’t buying and how to change that",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/why-your-clients-arent-buying-and-how-to-change-that-cd7104bf14fd?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*i2N4XMd9xIxpJ-cX\" width=\"5600\" /></a></p><p class=\"medium-feed-snippet\">You know it&#x2019;s the right thing to do. The data screams it. Yet they still say no. Here&#x2019;s the playbook that actually works.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesi",
-    "url": "https://uxdesign.cc/why-your-clients-arent-buying-and-how-to-change-that-cd7104bf14fd?source=rss----138adf9c44c---4",
-    "published": "Mon, 10 Aug 2026 11:08:31 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "The side of the egg",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-side-of-the-egg-8c1a6737fad2?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*KT3ICjeHes7zK9CHNroXdA.png\" width=\"4931\" /></a></p><p class=\"medium-feed-snippet\">On the next hack for us, in the age of AI</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/the-side-of-the-egg-8c1a6737fad2?source=rss----138adf9c44c---4\">Continue reading on UX Collective »</a></p></di",
-    "url": "https://uxdesign.cc/the-side-of-the-egg-8c1a6737fad2?source=rss----138adf9c44c---4",
-    "published": "Mon, 10 Aug 2026 11:08:08 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "How Baseline Can Help You Ship Less JavaScript",
-    "summary": "The gap between “you need a library for this” and “the browser does this” keeps closing. A practical guide to auditing your dependencies and finding what the web platform can now handle for you.",
-    "url": "https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/",
-    "published": "Fri, 07 Aug 2026 13:00:00 GMT",
-    "source": "Smashing Magazine",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Design @ ACME",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/design-acme-9d0cffa8af51?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2496/1*AEeqcnWN85TwUoJJ-EAdLQ.png\" width=\"2496\" /></a></p><p class=\"medium-feed-snippet\">Learning from Coyote&#x2019;s mishaps, misfortunes, and sidesplitting calamities</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/design-acme-9d0cffa8af51?source=rss----138adf9c44c---4\">Continue reading on UX C",
-    "url": "https://uxdesign.cc/design-acme-9d0cffa8af51?source=rss----138adf9c44c---4",
-    "published": "Fri, 07 Aug 2026 00:20:24 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "The cybernetic application",
-    "summary": "<h4><em>How can we build systems where information goes to live?</em></h4><p>Systems thinker <a href=\"https://en.wikipedia.org/wiki/Stafford_Beer\">Stafford Beer</a> said that “The purpose of a system is what it does.” A purpose (among several) of our information systems is, therefore, to sow confusion and disorientation among our ideas, leaving them disorganized, lost, and abandoned. The cybernetic application is one that — by it’s nature — helps the user avoid such errors.</p><p>To be more spec",
-    "url": "https://uxdesign.cc/the-cybernetic-application-455c41751c4a?source=rss----138adf9c44c---4",
-    "published": "Fri, 07 Aug 2026 00:16:56 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"

@@ -1,14 +1,14 @@
 {
-  "fetched_at": "2026-08-10T12:10:46.420701Z",
-  "total_candidates": 21,
+  "fetched_at": "2026-08-11T12:12:22.114243Z",
+  "total_candidates": 25,
   "source_stats": {
     "Figma Blog": {
       "found": 0,
       "total": 0
     },
     "Vercel Blog (v0)": {
-      "found": 1,
-      "total": 1447
+      "found": 3,
+      "total": 1451
     },
     "Cursor Changelog": {
       "found": 0,
@@ -51,11 +51,11 @@
       "total": 20
     },
     "Hacker News (设计向)": {
-      "found": 0,
-      "total": 0
+      "found": 8,
+      "total": 20
     },
     "Product Hunt": {
-      "found": 0,
+      "found": 1,
       "total": 50
     },
     "Designer News (AI Design)": {
@@ -64,27 +64,27 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 109,
-  "today_date": "2026-08-10",
+  "dudu_day": 110,
+  "today_date": "2026-08-11",
   "used_titles": [
-    "Cloudflare 推出 Billable Usage API：为自助账户提供按产品与计费周期的程序化成本可见性",
     "Reflex 开源 XY：基于 Rust 的超快 Python 绘图库，可保持 1 亿点图表交互流畅",
     "美国上诉法院推翻禁令，Perplexity AI 购物智能体重返 Amazon",
     "Qwen-Image-3.0 发布：高分辨率低至 0.03 美元",
     "Runway 上线 Seedance 2.5，支持 50 个角色参考",
     "Claude Code 会话间可互发消息",
-    "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务"
+    "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
+    "SGLang 为 Muse Glimmer 提供 Day-0 支持，针对本地智能体工作流优化推理"
   ],
   "used_tools": [
-    "Cloudflare Blog",
     "MarkTechPost（RSS）",
     "The Decoder：AI News（RSS）",
     "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
     "X：Runway (@runwayml)",
     "X：Claude Devs (@ClaudeDevs)",
-    "IT之家（RSS）"
+    "IT之家（RSS）",
+    "LMSYS：Blog（Chatbot Arena 团队）"
   ],
-  "briefing_total": 29,
+  "briefing_total": 37,
   "briefing_design": 14,
   "briefing_count": 5
 }

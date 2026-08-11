@@ -1,5 +1,5 @@
 {
-  "day_count": 109,
+  "day_count": 110,
   "history": [
     {
       "day": 20,
@@ -601,6 +601,13 @@
       "date": "2026-08-10",
       "topic": "SGLang 为 Muse Glimmer 提供 Day-0 支持，针对本地智能体工作流优化推理",
       "source": "LMSYS：Blog（Chatbot Arena 团队）",
+      "mode": "rss"
+    },
+    {
+      "day": 110,
+      "date": "2026-08-11",
+      "topic": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
+      "source": "公众号：智谱（GLM）",
       "mode": "rss"
     }
   ],

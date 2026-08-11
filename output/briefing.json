@@ -1,42 +1,42 @@
 [
   {
-    "title": "SGLang 为 Muse Glimmer 提供 Day-0 支持，针对本地智能体工作流优化推理",
-    "summary": "SGLang 与 Meta Superintelligence Labs 合作，为 30B 参数多模态模型 Muse Glimmer 提供 Day-0 支持，该模型拥有 128k+ token 上下文窗口。",
-    "source": "LMSYS：Blog（Chatbot Arena 团队）",
-    "url": "https://www.lmsys.org/blog/2026-08-10-meta-muse-glimmer",
-    "published_at": "2026-08-10T11:51:38.747Z",
-    "category": "ai-models"
-  },
-  {
-    "title": "Meta 发布开源模型 Muse Glimmer",
-    "summary": "推出 Muse Glimmer，一款开放权重、300 亿参数的模型，专为本地、常驻运行的智能体工作流优化。\n\n与同尺寸领先模型相比，Muse Glimmer 在关键智能体用例和基准测试中表现出色，并设计为完全在消费级硬件（如 Mac 或配备高性能 GPU 的 PC）上运行。\n\n秉承我们长期分享基础 AI 研究的传统，我",
-    "source": "X：AI at Meta (@AIatMeta)",
-    "url": "https://x.com/AIatMeta/status/2086757844544811485",
-    "published_at": "2026-08-10T10:13:34.000Z",
-    "category": "ai-models"
-  },
-  {
-    "title": "Qwen-MM-Plugins 让智能体原生支持多模态",
-    "summary": "👀 看见只是开始。\n\n借助 Qwen-MM-Plugins，让你的智能体原生支持多模态--读取图片、视频和文档，编辑视频，处理 3D/CAD，以及更多。\n\n从多模态模型 → 多模态智能体。🚀\n\n观看实际效果：https://github.com/QwenLM/Qwen-MM-Plugins",
-    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-    "url": "https://x.com/Alibaba_Qwen/status/2086664887560970531",
-    "published_at": "2026-08-10T04:04:12.000Z",
+    "title": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
+    "summary": "ZCode针对GLM深度优化，今日上线Goal、Subagents、Remote Control与闲时任务四大功能。在Z.ai Code Bench测试中，GLM-5.2搭配ZCode较搭配Claude Code任务整体通过率高2.39%；ZCode缓存命中率超98%，叠加1.5倍限时额度加成后，GLM Coding ",
+    "source": "公众号：智谱（GLM）",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494052&idx=1&sn=ee3ab3d0f4550e9120927c53a27522c9",
+    "published_at": "2026-08-11T05:52:25.000Z",
     "category": "ai-products"
   },
   {
-    "title": "千问开放平台上线：租房、寄快递、查理财等十余领域服务可对话办理",
-    "summary": "千问开放平台今日上线，面向生态伙伴和开发者开放手机、PC和AI眼镜三类终端的服务接入，首批覆盖物流运输、房产居住、本地生活、理财、汽车等十多个领域。用户可在对话中@相关服务或点击\"圆点角标\"进入智能体，完成从咨询、推荐到下单的完整流程。平台支持标准化协议接入、一键授权与端到端调测，并提供账号、AI支付、订单接入等基础设",
-    "source": "公众号：千问APP（阿里）",
-    "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488345&idx=1&sn=ef4e57c9c9350f9238d90211eb2dd453",
-    "published_at": "2026-08-10T02:07:18.000Z",
+    "title": "用 ComfyUI API 实现 MiniMax-H3 多模态视频与音频生成流水线",
+    "summary": "本教程演示如何以 ComfyUI 为无头推理后端，构建端到端的 MiniMax-H3 视频生成工作流。通过 Python 直接构建执行图，支持文生视频、首尾帧条件生成和参考图像条件生成，并自动根据 GPU 显存选择 quality、balanced、squeeze 三种权重配置。流水线涵盖模型自动下载、节点模式校验、音",
+    "source": "MarkTechPost（RSS）",
+    "url": "https://www.marktechpost.com/2026/08/10/implementing-a-minimax-h3-multimodal-video-and-audio-generation-pipeline-with-comfyui-apis",
+    "published_at": "2026-08-11T05:44:38.000Z",
+    "category": "tip"
+  },
+  {
+    "title": "Claude 未发布研究版将黎曼 zeta 函数零点下界从 41.6% 提升至 67.2%",
+    "summary": "Anthropic 员工让 Claude 尝试攻克黎曼猜想，虽未成功，但一个未发布的研究版 Claude 在相关问题上取得突破：将满足黎曼猜想的 zeta 函数零点比例下界从 41.6% 提升至 67.2%。",
+    "source": "Anthropic：Research（发表成果 · 网页）",
+    "url": "https://www.anthropic.com/research/riemann-zeta",
+    "published_at": "2026-08-10T17:46:50.781Z",
+    "category": "paper"
+  },
+  {
+    "title": "Claude Code 自动模式默认开启原理",
+    "summary": "我们最近将自动模式设为 Claude Code 的默认选项，这意味着你不再需要批准每一个操作。\n\n但什么决定某个操作是否可以安全运行？看看它是如何工作的：",
+    "source": "X：Claude Devs (@ClaudeDevs)",
+    "url": "https://x.com/ClaudeDevs/status/2086844755770757531",
+    "published_at": "2026-08-10T15:58:56.000Z",
     "category": "ai-products"
   },
   {
-    "title": "OpenChamber：一个基于代理的开发环境",
-    "summary": "OpenChamber 是一个基于代理的开发环境，可跨桌面、浏览器、手机和 VS Code 使用，支持会话目标、多模型并行运行与融合、变更走查、从 issue 到 PR 的完整流程及定时任务。该工具基于 OpenCode SDK，完全开源且免费，代码和会话内容均保存在本地，远程访问可通过 UI 密码和端到端加密的 Pr",
-    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-    "url": "https://openchamber.dev/",
-    "published_at": "2026-08-10T00:46:27.596Z",
-    "category": "ai-products"
+    "title": "智能体真的会用电脑吗？a16z 用数据给出答案",
+    "summary": "a16z 数据显示，计算机操作智能体在 OSWorld-Verified 基准上的最佳成绩已从一年前的 42% 升至 85%，超过人类测试者约 72% 的水平，Claude Fable 5 以 85% 领先。",
+    "source": "a16z：News（RSS）",
+    "url": "https://www.a16z.news/p/can-agents-use-a-computer-yet-weve",
+    "published_at": "2026-08-10T14:00:46.000Z",
+    "category": "tip"
   }
 ]
