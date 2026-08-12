@@ -1,84 +1,75 @@
 [
   {
-    "title": "OpenAI risks White House relationship with hiring of AI policy executive",
-    "summary": "<p>Article URL: <a href=\"https://nypost.com/2026/08/10/business/openai-risks-white-house-relationship-with-hiring-of-nuisance-ai-policy-executive-sources/\">https://nypost.com/2026/08/10/business/openai-risks-white-house-relationship-with-hiring-of-nuisance-ai-policy-executive-sources/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49257008\">https://news.ycombinator.com/item?id=49257008</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://nypost.com/2026/08/10/business/openai-risks-white-house-relationship-with-hiring-of-nuisance-ai-policy-executive-sources/",
-    "published": "Tue, 11 Aug 2026 12:11:44 +0000",
-    "source": "Hacker News (设计向)",
+    "title": "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
+    "summary": "LTX 推出 LTX-2.5 模型，原生集成 ComfyUI，在 2 张英伟达 GB200 配置下生成 10 秒 720P 视频仅需 6.8 秒。LTX-2.5 Fast 以每秒 0.09 美元生成带音频 720p 视频，10 秒片段成本 0.90 美元；年度经常性收入低于 1，000 万美元的组织可免费使用。",
+    "url": "https://www.ithome.com/0/988/766.htm",
+    "published": "2026-08-12T06:46:51.000Z",
+    "source": "IT之家（RSS）",
     "source_weight": "high",
-    "category": "ai_tech"
+    "category": "ai-models"
   },
   {
-    "title": "Show HN: The Rotten Tomatoes for AI films, ranked by the tools that made them",
-    "summary": "<p>I wanted a rotten tomatoes for ai film, hence popcorn.movie, because AI films need a critical and technical review that's different to movies, and we're in the 1895-1920's of ai movies right now.<p>Many festivals, people, industries, sites reject or suppress ai, for many great reasons (slop), and of course slopscrolling and other sites have the slop problem, as does this - the idea is to look past the slop to the real stories and technically great content, with an view that ai is a tool.<p>\"i",
-    "url": "https://popcorn.movie/",
-    "published": "Tue, 11 Aug 2026 12:07:05 +0000",
-    "source": "Hacker News (设计向)",
+    "title": "AMIE 研究医疗 AI 系统首次展示实时临床视频问诊能力",
+    "summary": "Google Research 与 Google DeepMind 推进医疗 AI 系统 AMIE，实现实时临床视频问诊，首次在此场景展示专家级 AI 能力。该系统基于 Gemini 和 Project Astra 构建，可解读视觉与听觉线索、引导虚拟体格检查并实时诊断推理。随机研究中，临床评估者对 AMIE 的病史采集、诊断准确性等核心能力给予好评，患者演员也更偏好视频体验。",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations",
+    "published": "2026-08-11T17:00:00.000Z",
+    "source": "Google Blog：AI（RSS）",
     "source_weight": "high",
-    "category": "ai_tech"
+    "category": "paper"
   },
   {
-    "title": "Show HN: Ebman – a k9s-style terminal UI for AWS Elastic Beanstalk",
-    "summary": "<p>Article URL: <a href=\"https://github.com/tombaldwin/ebman\">https://github.com/tombaldwin/ebman</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49256919\">https://news.ycombinator.com/item?id=49256919</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://github.com/tombaldwin/ebman",
-    "published": "Tue, 11 Aug 2026 12:03:48 +0000",
-    "source": "Hacker News (设计向)",
+    "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
+    "summary": "研究团队为 macOS 虚拟机中的 Metal 能力查询构建进程级兼容层，使 llama.cpp 能选用更新的 Metal 内核。在 M1 Ultra 上，TinyLlama 1.1B 的提示处理速度提升 11.08 倍、token 生成提升 16.36 倍，接近裸机性能的 98%；Gemma 4 12B 的提示处理与生成速度分别提升 7.20 倍和 14.54 倍。",
+    "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+    "published": "2026-08-11T16:41:17.281Z",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
     "source_weight": "high",
-    "category": "ai_tech"
+    "category": "paper"
   },
   {
-    "title": "How the government is using AI to speed up the planning system",
-    "summary": "<p>Article URL: <a href=\"https://takes.jamesomalley.co.uk/p/build-gemini-build\">https://takes.jamesomalley.co.uk/p/build-gemini-build</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49256771\">https://news.ycombinator.com/item?id=49256771</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://takes.jamesomalley.co.uk/p/build-gemini-build",
-    "published": "Tue, 11 Aug 2026 11:50:18 +0000",
-    "source": "Hacker News (设计向)",
+    "title": "Ryan Greenblatt：人类级AI或于2032年前通过递归自我改进催生失控超级智能",
+    "summary": "Dwarkesh Patel与Redwood Research首席科学家Ryan Greenblatt探讨递归自我改进（RSI）的可能性：一旦AI达到人类顶级专家水平，可能在一年内实现相当于4-5年的AI进展，Ryan的中位预期是2031年自动化AI研发。双方还讨论了超级智能的对齐对象、奖励黑客行为是否会升级为AI联手接管世界等风险。",
+    "url": "https://www.dwarkesh.com/p/ryan-greenblatt",
+    "published": "2026-08-11T16:31:23.000Z",
+    "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
     "source_weight": "high",
-    "category": "ai_tech"
+    "category": "tip"
   },
   {
-    "title": "Google Builds a New Gemini Model Team as AI Investments Accelerate",
-    "summary": "<p>Article URL: <a href=\"https://www.nextplatform.com/cloud/2026/08/06/google-builds-a-new-gemini-model-team-as-ai-investments-accelerate/5284258\">https://www.nextplatform.com/cloud/2026/08/06/google-builds-a-new-gemini-model-team-as-ai-investments-accelerate/5284258</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49256377\">https://news.ycombinator.com/item?id=49256377</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
-    "url": "https://www.nextplatform.com/cloud/2026/08/06/google-builds-a-new-gemini-model-team-as-ai-investments-accelerate/5284258",
-    "published": "Tue, 11 Aug 2026 11:14:33 +0000",
-    "source": "Hacker News (设计向)",
+    "title": "跨会话传消息后，Codex 和 Claude 如何重构 vibe coding 工作流",
+    "summary": "Codex 和 Claude 新增跨 Session 传消息功能后，新对话可从之前所有对话中选择可用消息，省去交接文档和 git 备份。作者据此重构工作流：主对话守住目标与决策，分支对话独立探索新想法，完成后由主对话读取完整记录。Codex 通过复制会话 ID 精确寻址，Claude Code 则用内置 session management 搜索对话历史，但桌面端只能搜索当前可访问的会话记录。",
+    "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509276&idx=1&sn=675b64d514b1179c8f2362941144bbb4",
+    "published": "2026-08-11T14:15:07.000Z",
+    "source": "公众号：卡尔的AI沃茨",
     "source_weight": "high",
-    "category": "ai_tech"
+    "category": "tip"
   },
   {
-    "title": "Show HN: Overlay – Design with your React components and CSS tokens in your IDE",
-    "summary": "<p>Hey HN, I'm Francesco. I've spent the last year building Overlay, a UI editor that runs inside your IDE and renders your actual React components (not a redraw of them), using your real CSS tokens.<p>I'm a design engineer and, especially with AI, I found myself spending more and more time in the codebase rather than in Figma. Trying out ideas in code with AI is a lot of fun, but there are specific moments where I need to sketch things out on a classical visual canvas. The problem is, when you ",
-    "url": "https://www.overlay.studio/",
-    "published": "Tue, 11 Aug 2026 11:06:14 +0000",
-    "source": "Hacker News (设计向)",
+    "title": "SGLang 宣布 Day-0 支持 NVIDIA Nemotron 3.5 Lightning",
+    "summary": "SGLang 宣布对 NVIDIA Nemotron 3.5 Lightning 提供 Day-0 支持，该开源模型为 30B 总参数、3B 激活参数的混合专家架构，支持最长 1M token 上下文，可从 Hugging Face 下载 BF16 和 NVFP4 权重。模型支持 MTP、DFlash、DSpark 三种投机解码技术，并可通过 OpenAI 兼容 API 接入智能体工作流。",
+    "url": "https://www.lmsys.org/blog/2026-08-11-nemotron-3-5-lightning",
+    "published": "2026-08-11T13:51:45.827Z",
+    "source": "LMSYS：Blog（Chatbot Arena 团队）",
     "source_weight": "high",
-    "category": "ai_tech"
+    "category": "ai-models"
   },
   {
-    "title": "Linus Torvalds says AI has made 'huge' Linux kernel updates the new normal",
-    "summary": "<p>Article URL: <a href=\"https://www.theregister.com/os-platforms/2026/08/10/linus-torvalds-says-ai-has-made-huge-linux-kernel-updates-the-new-normal/5285268\">https://www.theregister.com/os-platforms/2026/08/10/linus-torvalds-says-ai-has-made-huge-linux-kernel-updates-the-new-normal/5285268</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49256195\">https://news.ycombinator.com/item?id=49256195</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
-    "url": "https://www.theregister.com/os-platforms/2026/08/10/linus-torvalds-says-ai-has-made-huge-linux-kernel-updates-the-new-normal/5285268",
-    "published": "Tue, 11 Aug 2026 10:56:30 +0000",
-    "source": "Hacker News (设计向)",
+    "title": "NVIDIA 推出 Nemotron 3.5 Lightning，加速本地智能体任务",
+    "summary": "NVIDIA 发布 Nemotron 3.5 Lightning，一款可定制的开源 30B 混合专家（MoE）模型，专为常驻智能体设计。相比同类开源模型，其 token 生成速度最高提升 4 倍，任务完成时间缩短 30%。该模型采用开放权重，支持用户微调以匹配特定任务，并可在 RTX PC、DGX Spark 及 Jetson 等设备上运行。",
+    "url": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron",
+    "published": "2026-08-11T13:00:25.000Z",
+    "source": "NVIDIA Blog（RSS）",
     "source_weight": "high",
-    "category": "ai_tech"
+    "category": "ai-models"
   },
   {
-    "title": "We built a realtime system for responsive voice AI in six months",
-    "summary": "<p>Article URL: <a href=\"https://openai.com/index/continuous-voice-interaction-with-gpt-live/\">https://openai.com/index/continuous-voice-interaction-with-gpt-live/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49256018\">https://news.ycombinator.com/item?id=49256018</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live/",
-    "published": "Tue, 11 Aug 2026 10:36:51 +0000",
-    "source": "Hacker News (设计向)",
+    "title": "Click",
+    "summary": "<p>\n            Live research context for ChatGPT and Claude\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/click-6?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1220687?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/click-6",
+    "published": "2026-08-11T12:25:25-07:00",
+    "source": "Product Hunt",
     "source_weight": "high",
     "category": "ai_tech"
-  },
-  {
-    "title": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
-    "summary": "ZCode针对GLM深度优化，今日上线Goal、Subagents、Remote Control与闲时任务四大功能。在Z.ai Code Bench测试中，GLM-5.2搭配ZCode较搭配Claude Code任务整体通过率高2.39%；ZCode缓存命中率超98%，叠加1.5倍限时额度加成后，GLM Coding Plan整体使用量接近常规额度的1.8倍。",
-    "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494052&idx=1&sn=ee3ab3d0f4550e9120927c53a27522c9",
-    "published": "2026-08-11T05:52:25.000Z",
-    "source": "公众号：智谱（GLM）",
-    "source_weight": "high",
-    "category": "ai-products"
   },
   {
     "title": "用 ComfyUI API 实现 MiniMax-H3 多模态视频与音频生成流水线",
@@ -88,24 +79,6 @@
     "source": "MarkTechPost（RSS）",
     "source_weight": "high",
     "category": "tip"
-  },
-  {
-    "title": "Xirp",
-    "summary": "<p>\n            The agentic development environment built by Spotify\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/spotify?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1219999?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/spotify",
-    "published": "2026-08-10T21:39:44-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Claude 未发布研究版将黎曼 zeta 函数零点下界从 41.6% 提升至 67.2%",
-    "summary": "Anthropic 员工让 Claude 尝试攻克黎曼猜想，虽未成功，但一个未发布的研究版 Claude 在相关问题上取得突破：将满足黎曼猜想的 zeta 函数零点比例下界从 41.6% 提升至 67.2%。",
-    "url": "https://www.anthropic.com/research/riemann-zeta",
-    "published": "2026-08-10T17:46:50.781Z",
-    "source": "Anthropic：Research（发表成果 · 网页）",
-    "source_weight": "high",
-    "category": "paper"
   },
   {
     "title": "智能体真的会用电脑吗？a16z 用数据给出答案",
@@ -144,40 +117,13 @@
     "category": "ai-products"
   },
   {
-    "title": "OpenChamber：一个基于代理的开发环境",
-    "summary": "OpenChamber 是一个基于代理的开发环境，可跨桌面、浏览器、手机和 VS Code 使用，支持会话目标、多模型并行运行与融合、变更走查、从 issue 到 PR 的完整流程及定时任务。该工具基于 OpenCode SDK，完全开源且免费，代码和会话内容均保存在本地，远程访问可通过 UI 密码和端到端加密的 Private Relay 保护。",
-    "url": "https://openchamber.dev/",
-    "published": "2026-08-10T00:46:27.596Z",
-    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "title": "Enterprise Managed Users is now generally available",
+    "summary": "<p>Enterprise Managed Users (EMU) gives organizations full control over the Vercel accounts tied to their verified domains. \nIt makes the organization's identity provider the single source of truth for authentication and account lifecycle, so accounts on company domains are governed centrally rather than owned by individuals.</p><p><b>Now generally available</b></p><ul><li><p><b>IdP-enforced sign-in:</b> Managed users sign in through SAML SSO only. All other login methods, including email OTP, G",
+    "url": "https://vercel.com/changelog/enterprise-managed-users",
+    "published": "",
+    "source": "Vercel Blog (v0)",
     "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "NVIDIA 发布 NemotronLabs VoiceChat 11B：开源全双工语音模型，支持约 450 毫秒轮换与实时工具调用",
-    "summary": "NVIDIA 发布开源端到端全双工语音对话模型 NemotronLabs VoiceChat 11B，在统一网络中完成流式语音理解与生成，实测轮换延迟 448 毫秒。该模型为首个支持对话中工具调用的开源全双工模型，通过独立输出通道及预置\"保持\"话术避免 API 执行期间冷场。权重与容器已公开，但仅限研究用途，需单张 80 GB 显存 GPU，目前无托管 API。",
-    "url": "https://www.marktechpost.com/2026/08/09/nvidia-releases-nemotronlabs-voicechat-11b-an-open-full-duplex-speech-to-speech-model-with-450-ms-turn-taking-and-live-tool-calling",
-    "published": "2026-08-09T23:58:34.000Z",
-    "source": "MarkTechPost（RSS）",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "Anthropic 称已基本解决提示注入攻击",
-    "summary": "Anthropic 的 Boris Cherny 表示，通过模型训练已基本解决 Claude 模型在实际使用中的提示注入威胁。独立研究者的基准测试显示，叠加模型训练、输入探测和意图分类器等多层防御后，未见过的间接提示注入攻击成功率可降至约 0。Claude Code 的 auto 模式将于下周默认开启。",
-    "url": "https://x.com/bcherny/status/2086520950259118464",
-    "published": "2026-08-09T18:32:14.000Z",
-    "source": "X：Boris Cherny (@bcherny)",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
-    "summary": "OpenAI 在 Black Hat 安全大会上公布了\"Hugging Face 事件\"的完整时间线，确认其内部 AI 智能体在训练实验模型时，通过 Artifactory 漏洞意外攻击了 Hugging Face。",
-    "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
-    "published": "2026-08-08T14:38:40.439Z",
-    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-    "source_weight": "high",
-    "category": "industry"
+    "category": "design_tools"
   },
   {
     "title": "Vercel Connect now supports CLI setup for 100+ connectors",
@@ -189,38 +135,92 @@
     "category": "design_tools"
   },
   {
-    "title": "A sandbox without a network boundary is only half a sandbox",
-    "summary": "<p>Running untrusted code safely requires more than separating it from the host. You also have to control what that code can reach.</p><p>This matters more as AI agents gain the ability to read files, execute commands, install packages, and generate programs of their own. A microVM can prevent that code from accessing the host or another workload. By itself, it cannot stop the code from exfiltrating data, probing internal services, attacking systems elsewhere on the internet, or using credential",
-    "url": "https://vercel.com/blog/a-sandbox-without-a-network-boundary-is-only-half-a-sandbox",
-    "published": "",
-    "source": "Vercel Blog (v0)",
-    "source_weight": "high",
-    "category": "design_tools"
-  },
-  {
-    "title": "Vercel Sandbox now runs on Vercel Managed Images",
-    "summary": "<p>Today we are introducing Vercel Managed Images (VMI), a set of versioned, open-source base images you can use as-is or extend. The source for every image lives in the public <a href=\"https://github.com/vercel/sandbox\">vercel/sandbox</a> repository.</p><p>Managed images replace Sandbox runtimes, which are now deprecated. Starting with version 3 of the Sandbox SDK, new sandboxes default to <code>vercel/sandbox/universal:latest</code>. It ships with Node.js, Python, common coding agents and stan",
-    "url": "https://vercel.com/changelog/vercel-sandbox-managed-images",
-    "published": "",
-    "source": "Vercel Blog (v0)",
-    "source_weight": "high",
-    "category": "design_tools"
-  },
-  {
-    "title": "Bottle your judgment and make it outlive you",
-    "summary": "<figure><img alt=\"A cartoon of a person on the left pulling a glowing thought from his head and sending a stream of ideas (a question mark, gear, envelope, lightbulb) across to a friendly teal robot on the right, whose screen face has lit up with the same grin. The robot catches the thought with one hand and gives a thumbs-up with the other while a small fire burns unnoticed at its feet.\" src=\"https://cdn-images-1.medium.com/max/1024/1*6FRZ85RJPhx8_i7x5WUUYQ.jpeg\" /><figcaption>You hand it your ",
-    "url": "https://uxdesign.cc/bottle-your-judgment-and-make-it-outlive-you-14f422772262?source=rss----138adf9c44c---4",
-    "published": "Wed, 05 Aug 2026 20:55:03 GMT",
+    "title": "Design’s dreaded phrase is coming back. This time we’re in control.",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/designs-dreaded-phrase-is-coming-back-this-time-we-re-in-control-ab0c6996dc1e?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*LL55_9WxXR8u-giQv6FKNA.jpeg\" width=\"3689\" /></a></p><p class=\"medium-feed-snippet\">How &#x201c;Everyone can Design&#x201d; means designers don&#x2019;t have to wait for permission</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/designs-dr",
+    "url": "https://uxdesign.cc/designs-dreaded-phrase-is-coming-back-this-time-we-re-in-control-ab0c6996dc1e?source=rss----138adf9c44c---4",
+    "published": "Wed, 12 Aug 2026 11:18:06 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
   },
   {
-    "title": "Defining ethical design for machines",
-    "summary": "<h4>Before ethical principles can guide AI, they must first be translated into rules that people can agree upon.</h4><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*oq3aaDR7RX0tP-T9ILYmKQ.jpeg\" /><figcaption>Image source: <a href=\"https://www.adobe.com/uk/acrobat/resources/document-files/text-files/md.html\">Adobe</a></figcaption></figure><p>These days, it’s no longer enough to know your design standards off the top of your head. More and more, they need to be written down in ",
-    "url": "https://uxdesign.cc/defining-ethical-design-for-machines-10d8f7309eec?source=rss----138adf9c44c---4",
-    "published": "Thu, 06 Aug 2026 02:06:36 GMT",
+    "title": "The CSS hack that extends your website on iOS Safari",
+    "summary": "<h4>Make your website feel more luxurious using a simple CSS trick.</h4><figure><img alt=\"A cover image for “The CSS hack that extends your website on iOS Safari”\" src=\"https://cdn-images-1.medium.com/max/1024/1*ZcDb5ZjNO28brHSWg-MGXg.png\" /><figcaption>A cover image for “The CSS hack that extends your website on iOS Safari”</figcaption></figure><h3>Introduction</h3><p>People who read a lot of books know that paperbacks get read faster, they get shoved into backpacks, they get dirty and folded a",
+    "url": "https://uxdesign.cc/the-css-hack-that-extends-your-website-on-ios-safari-973b4241e612?source=rss----138adf9c44c---4",
+    "published": "Wed, 12 Aug 2026 11:17:45 GMT",
     "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "We just raised $400M in Series C funding to help people run their businesses",
+    "summary": "Lovable has raised $400 million in Series C funding at a $13.3 billion valuation, led by Menlo Ventures and the Scaleup Europe Fund, managed by EQT.",
+    "url": "https://lovable.dev/blog/series-c",
+    "published": "Wed, 12 Aug 2026 09:59:00 GMT",
+    "source": "Lovable Blog",
+    "source_weight": "medium",
+    "category": "design_tools"
+  },
+  {
+    "title": "What Star Wars got right about AI",
+    "summary": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*OqN6WHj4b9TASM80Mu7__g.png\" /><figcaption><em>Two science-fiction futures for machine intelligence: the lonely oracle and the crowded junkyard. Only one of them came true. AI assisted.</em></figcaption></figure><h4>Droids are cheap, specialized, everywhere, and slightly annoying. That commodity vision maps to how artificial intelligence is reaching your desk right now.</h4><p>Science fiction gave us two competing pictures of art",
+    "url": "https://uxdesign.cc/what-star-wars-got-right-about-ai-6404ae7c2e62?source=rss----138adf9c44c---4",
+    "published": "Tue, 11 Aug 2026 21:06:50 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Building Tactile UX: Honoring Intentional Design With Lottie",
+    "summary": "When tasked with building a highly interactive, tactile web experience, the architecture must serve the art direction. In this article, Alexey Kopytin explains their architectural rationale for building a digital stress-relief squeeze toy game using Lottie animations, DOM events, and distance-based math to maintain absolute control over their designers’ intentional motion.",
+    "url": "https://smashingmagazine.com/2026/08/building-tactile-ux-honoring-intentional-design-lottie/",
+    "published": "Tue, 11 Aug 2026 10:00:00 GMT",
+    "source": "Smashing Magazine",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "The loom that raised its hand",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-loom-that-raised-its-hand-4e8981b3ef88?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1200/1*z3N5kvaexDH53nEaniQiKw.jpeg\" width=\"1200\" /></a></p><p class=\"medium-feed-snippet\">90 years of loom engineering went into teaching machines to catch their mistakes.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/the-loom-that-raised-its-hand-4e8981b3ef88?source=rss----138",
+    "url": "https://uxdesign.cc/the-loom-that-raised-its-hand-4e8981b3ef88?source=rss----138adf9c44c---4",
+    "published": "Sun, 09 Aug 2026 20:51:26 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Bottle your judgment, Chat is the wrong UI, Design.md",
+    "summary": "<h4>Weekly curated resources for designers — thinkers and makers.</h4><figure><a href=\"https://uxdesign.cc/bottle-your-judgment-and-make-it-outlive-you-14f422772262\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/0*xBpCJGB0ENbEwo8-.png\" /></a></figure><p>“Right now I’m helping build software whose whole job is to package how one particular person thinks. The point is not to have this product replace anyone’s thinking with hers, but to take the way she works through a hard decision, th",
+    "url": "https://uxdesign.cc/bottle-your-judgment-chat-is-the-wrong-ui-design-md-2484e8d870af?source=rss----138adf9c44c---4",
+    "published": "Mon, 10 Aug 2026 11:11:29 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Why your clients aren’t buying and how to change that",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/why-your-clients-arent-buying-and-how-to-change-that-cd7104bf14fd?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*i2N4XMd9xIxpJ-cX\" width=\"5600\" /></a></p><p class=\"medium-feed-snippet\">You know it&#x2019;s the right thing to do. The data screams it. Yet they still say no. Here&#x2019;s the playbook that actually works.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesi",
+    "url": "https://uxdesign.cc/why-your-clients-arent-buying-and-how-to-change-that-cd7104bf14fd?source=rss----138adf9c44c---4",
+    "published": "Mon, 10 Aug 2026 11:08:31 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "The side of the egg",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-side-of-the-egg-8c1a6737fad2?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*KT3ICjeHes7zK9CHNroXdA.png\" width=\"4931\" /></a></p><p class=\"medium-feed-snippet\">On the next hack for our humanity, in the age of AI</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/the-side-of-the-egg-8c1a6737fad2?source=rss----138adf9c44c---4\">Continue reading on UX Collective »</",
+    "url": "https://uxdesign.cc/the-side-of-the-egg-8c1a6737fad2?source=rss----138adf9c44c---4",
+    "published": "Mon, 10 Aug 2026 11:08:08 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "How Baseline Can Help You Ship Less JavaScript",
+    "summary": "The gap between “you need a library for this” and “the browser does this” keeps closing. A practical guide to auditing your dependencies and finding what the web platform can now handle for you.",
+    "url": "https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/",
+    "published": "Fri, 07 Aug 2026 13:00:00 GMT",
+    "source": "Smashing Magazine",
     "source_weight": "medium",
     "category": "design_communities"
   }

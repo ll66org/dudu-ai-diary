@@ -1,42 +1,42 @@
 [
   {
-    "title": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
-    "summary": "ZCode针对GLM深度优化，今日上线Goal、Subagents、Remote Control与闲时任务四大功能。在Z.ai Code Bench测试中，GLM-5.2搭配ZCode较搭配Claude Code任务整体通过率高2.39%；ZCode缓存命中率超98%，叠加1.5倍限时额度加成后，GLM Coding ",
-    "source": "公众号：智谱（GLM）",
-    "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494052&idx=1&sn=ee3ab3d0f4550e9120927c53a27522c9",
-    "published_at": "2026-08-11T05:52:25.000Z",
-    "category": "ai-products"
+    "title": "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
+    "summary": "LTX 推出 LTX-2.5 模型，原生集成 ComfyUI，在 2 张英伟达 GB200 配置下生成 10 秒 720P 视频仅需 6.8 秒。LTX-2.5 Fast 以每秒 0.09 美元生成带音频 720p 视频，10 秒片段成本 0.90 美元；年度经常性收入低于 1，000 万美元的组织可免费使用。",
+    "source": "IT之家（RSS）",
+    "url": "https://www.ithome.com/0/988/766.htm",
+    "published_at": "2026-08-12T06:46:51.000Z",
+    "category": "ai-models"
   },
   {
-    "title": "用 ComfyUI API 实现 MiniMax-H3 多模态视频与音频生成流水线",
-    "summary": "本教程演示如何以 ComfyUI 为无头推理后端，构建端到端的 MiniMax-H3 视频生成工作流。通过 Python 直接构建执行图，支持文生视频、首尾帧条件生成和参考图像条件生成，并自动根据 GPU 显存选择 quality、balanced、squeeze 三种权重配置。流水线涵盖模型自动下载、节点模式校验、音",
-    "source": "MarkTechPost（RSS）",
-    "url": "https://www.marktechpost.com/2026/08/10/implementing-a-minimax-h3-multimodal-video-and-audio-generation-pipeline-with-comfyui-apis",
-    "published_at": "2026-08-11T05:44:38.000Z",
-    "category": "tip"
-  },
-  {
-    "title": "Claude 未发布研究版将黎曼 zeta 函数零点下界从 41.6% 提升至 67.2%",
-    "summary": "Anthropic 员工让 Claude 尝试攻克黎曼猜想，虽未成功，但一个未发布的研究版 Claude 在相关问题上取得突破：将满足黎曼猜想的 zeta 函数零点比例下界从 41.6% 提升至 67.2%。",
-    "source": "Anthropic：Research（发表成果 · 网页）",
-    "url": "https://www.anthropic.com/research/riemann-zeta",
-    "published_at": "2026-08-10T17:46:50.781Z",
+    "title": "AMIE 研究医疗 AI 系统首次展示实时临床视频问诊能力",
+    "summary": "Google Research 与 Google DeepMind 推进医疗 AI 系统 AMIE，实现实时临床视频问诊，首次在此场景展示专家级 AI 能力。该系统基于 Gemini 和 Project Astra 构建，可解读视觉与听觉线索、引导虚拟体格检查并实时诊断推理。随机研究中，临床评估者对 AMIE 的病史采",
+    "source": "Google Blog：AI（RSS）",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations",
+    "published_at": "2026-08-11T17:00:00.000Z",
     "category": "paper"
   },
   {
-    "title": "Claude Code 自动模式默认开启原理",
-    "summary": "我们最近将自动模式设为 Claude Code 的默认选项，这意味着你不再需要批准每一个操作。\n\n但什么决定某个操作是否可以安全运行？看看它是如何工作的：",
-    "source": "X：Claude Devs (@ClaudeDevs)",
-    "url": "https://x.com/ClaudeDevs/status/2086844755770757531",
-    "published_at": "2026-08-10T15:58:56.000Z",
-    "category": "ai-products"
+    "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
+    "summary": "研究团队为 macOS 虚拟机中的 Metal 能力查询构建进程级兼容层，使 llama.cpp 能选用更新的 Metal 内核。在 M1 Ultra 上，TinyLlama 1.1B 的提示处理速度提升 11.08 倍、token 生成提升 16.36 倍，接近裸机性能的 98%；Gemma 4 12B 的提示处理与",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+    "published_at": "2026-08-11T16:41:17.281Z",
+    "category": "paper"
   },
   {
-    "title": "智能体真的会用电脑吗？a16z 用数据给出答案",
-    "summary": "a16z 数据显示，计算机操作智能体在 OSWorld-Verified 基准上的最佳成绩已从一年前的 42% 升至 85%，超过人类测试者约 72% 的水平，Claude Fable 5 以 85% 领先。",
-    "source": "a16z：News（RSS）",
-    "url": "https://www.a16z.news/p/can-agents-use-a-computer-yet-weve",
-    "published_at": "2026-08-10T14:00:46.000Z",
+    "title": "Ryan Greenblatt：人类级AI或于2032年前通过递归自我改进催生失控超级智能",
+    "summary": "Dwarkesh Patel与Redwood Research首席科学家Ryan Greenblatt探讨递归自我改进（RSI）的可能性：一旦AI达到人类顶级专家水平，可能在一年内实现相当于4-5年的AI进展，Ryan的中位预期是2031年自动化AI研发。双方还讨论了超级智能的对齐对象、奖励黑客行为是否会升级为AI联手",
+    "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+    "url": "https://www.dwarkesh.com/p/ryan-greenblatt",
+    "published_at": "2026-08-11T16:31:23.000Z",
+    "category": "tip"
+  },
+  {
+    "title": "跨会话传消息后，Codex 和 Claude 如何重构 vibe coding 工作流",
+    "summary": "Codex 和 Claude 新增跨 Session 传消息功能后，新对话可从之前所有对话中选择可用消息，省去交接文档和 git 备份。作者据此重构工作流：主对话守住目标与决策，分支对话独立探索新想法，完成后由主对话读取完整记录。Codex 通过复制会话 ID 精确寻址，Claude Code 则用内置 session",
+    "source": "公众号：卡尔的AI沃茨",
+    "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509276&idx=1&sn=675b64d514b1179c8f2362941144bbb4",
+    "published_at": "2026-08-11T14:15:07.000Z",
     "category": "tip"
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "day_count": 110,
+  "day_count": 111,
   "history": [
     {
       "day": 20,
@@ -608,6 +608,13 @@
       "date": "2026-08-11",
       "topic": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
       "source": "公众号：智谱（GLM）",
+      "mode": "rss"
+    },
+    {
+      "day": 111,
+      "date": "2026-08-12",
+      "topic": "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
+      "source": "IT之家（RSS）",
       "mode": "rss"
     }
   ],
