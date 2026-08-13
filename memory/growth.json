@@ -1,5 +1,5 @@
 {
-  "day_count": 111,
+  "day_count": 112,
   "history": [
     {
       "day": 20,
@@ -615,6 +615,13 @@
       "date": "2026-08-12",
       "topic": "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
       "source": "IT之家（RSS）",
+      "mode": "rss"
+    },
+    {
+      "day": 112,
+      "date": "2026-08-13",
+      "topic": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
+      "source": "公众号：数字生命卡兹克",
       "mode": "rss"
     }
   ],

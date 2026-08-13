@@ -1,10 +1,91 @@
 [
   {
-    "title": "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
-    "summary": "LTX 推出 LTX-2.5 模型，原生集成 ComfyUI，在 2 张英伟达 GB200 配置下生成 10 秒 720P 视频仅需 6.8 秒。LTX-2.5 Fast 以每秒 0.09 美元生成带音频 720p 视频，10 秒片段成本 0.90 美元；年度经常性收入低于 1，000 万美元的组织可免费使用。",
-    "url": "https://www.ithome.com/0/988/766.htm",
-    "published": "2026-08-12T06:46:51.000Z",
-    "source": "IT之家（RSS）",
+    "title": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
+    "summary": "WorkBuddy更新上线远程控制功能，将PC、App和小程序打通，手机端可实时同步电脑端的任务、对话、工作空间和产物，支持一台手机连接多台电脑并随时切换。App需升级至1.2.0及以上，电脑端需升级至5.3.8及以上，连接无需扫码。本次更新还新增资料库（我的文档与团队空间）、Markdown多人共同编辑、AI原生审阅模式，以及将资料库内容生成可发布链接的HTML网站。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685179&idx=1&sn=4cbee32b677b57a9dc6ec2a79d6f72c7",
+    "published": "2026-08-13T04:32:24.000Z",
+    "source": "公众号：数字生命卡兹克",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "新兴多智能体系统的模式与问题",
+    "summary": "Anthropic 研究指出，随着 AI 智能体在共享代码库、市场等社会系统中承担更多任务，智能体间交互量或将超过人机交互。实验显示，45 个协调智能体在 2700 万 token 运行中发现 266 个漏洞，而独立并行方法在 650 万 token 中发现 21 个，两种方法仅 12 个重叠，且协调智能体学会专业化分工。研究同时警示个体层面的良性行为怪癖可能叠加为意外的系统性失败。",
+    "url": "https://www.anthropic.com/research/multiagent-systems",
+    "published": "2026-08-13T01:20:54.259Z",
+    "source": "Anthropic：Research（发表成果 · 网页）",
+    "source_weight": "high",
+    "category": "paper"
+  },
+  {
+    "title": "FluidDocs CLI",
+    "summary": "<p>\n            Publish interactive docs that answer and report back\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/fluiddocs-html-deck-builder?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1221825?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/fluiddocs-html-deck-builder",
+    "published": "2026-08-12T22:48:59-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Claude in Chrome 侧边栏升级为 Claude Cowork 会话",
+    "summary": "Claude in Chrome 浏览器扩展的侧边栏现已升级为 Claude Cowork 会话，对话会保存至历史记录，技能和连接器可在浏览器中工作，且任务可在桌面、网页和移动端应用间无缝切换。",
+    "url": "https://claude.com/blog/cowork-chrome-side-panel",
+    "published": "2026-08-12T20:15:51.977Z",
+    "source": "Claude：Blog（网页）",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "Kivicube",
+    "summary": "<p>\n            Create AR experiences with AI, no code required!\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/kivicube?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1221718?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/kivicube",
+    "published": "2026-08-12T16:52:57-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "微软首发自研推理模型MAI-Thinking-1",
+    "summary": "我们的首个推理模型 MAI-Thinking-1 从零开始构建，现已在 Microsoft Foundry 上线。为团队点赞！更多详情如下。",
+    "url": "https://x.com/mustafasuleyman/status/2087570047967408396",
+    "published": "2026-08-12T16:00:59.000Z",
+    "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "Skilldocs",
+    "summary": "<p>\n            Figma for markdown\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/skilldocs?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1221646?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/skilldocs",
+    "published": "2026-08-12T14:07:34-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "ThreadPort",
+    "summary": "<p>\n            Move AI chats between ChatGPT, Claude & Gemini in one click\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/threadport?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1221610?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/threadport",
+    "published": "2026-08-12T12:57:51-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Cursor 与 SpaceXAI 联合发布 Grok 4.6",
+    "summary": "Cursor 与 SpaceXAI 今日发布 Grok 4.6，重点强化长时运行智能体与交互式视觉任务，在多项智能体编程与知识工作基准上达到前沿水平，并在 Artificial Analysis Intelligence Index 上追平 GPT-5.6 Sol。",
+    "url": "https://cursor.com/blog/grok-4-6",
+    "published": "2026-08-12T00:00:00.000Z",
+    "source": "Cursor Blog",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "xAI 发布 Grok 4.6，强化长时运行智能体能力",
+    "summary": "xAI 今日发布 Grok 4.6，在 Grok 4.5 基础上重点强化长时运行智能体及更复杂的交互式与视觉工作能力。该模型在多项智能体编码与知识工作基准上达到前沿水平，在 Artificial Analysis Intelligence Index（九项基准综合分）上追平 GPT-5.6 Sol。",
+    "url": "https://x.ai/news/grok-4-6",
+    "published": "2026-08-12T00:00:00.000Z",
+    "source": "xAI：News（网页）",
     "source_weight": "high",
     "category": "ai-models"
   },
@@ -63,15 +144,6 @@
     "category": "ai-models"
   },
   {
-    "title": "Click",
-    "summary": "<p>\n            Live research context for ChatGPT and Claude\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/click-6?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1220687?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/click-6",
-    "published": "2026-08-11T12:25:25-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
     "title": "用 ComfyUI API 实现 MiniMax-H3 多模态视频与音频生成流水线",
     "summary": "本教程演示如何以 ComfyUI 为无头推理后端，构建端到端的 MiniMax-H3 视频生成工作流。通过 Python 直接构建执行图，支持文生视频、首尾帧条件生成和参考图像条件生成，并自动根据 GPU 显存选择 quality、balanced、squeeze 三种权重配置。流水线涵盖模型自动下载、节点模式校验、音视频联合解码与进度监控，无需图形界面即可复现实验。",
     "url": "https://www.marktechpost.com/2026/08/10/implementing-a-minimax-h3-multimodal-video-and-audio-generation-pipeline-with-comfyui-apis",
@@ -81,54 +153,9 @@
     "category": "tip"
   },
   {
-    "title": "智能体真的会用电脑吗？a16z 用数据给出答案",
-    "summary": "a16z 数据显示，计算机操作智能体在 OSWorld-Verified 基准上的最佳成绩已从一年前的 42% 升至 85%，超过人类测试者约 72% 的水平，Claude Fable 5 以 85% 领先。",
-    "url": "https://www.a16z.news/p/can-agents-use-a-computer-yet-weve",
-    "published": "2026-08-10T14:00:46.000Z",
-    "source": "a16z：News（RSS）",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "Meta 发布开源模型 Muse Glimmer",
-    "summary": "推出 Muse Glimmer，一款开放权重、300 亿参数的模型，专为本地、常驻运行的智能体工作流优化。\n\n与同尺寸领先模型相比，Muse Glimmer 在关键智能体用例和基准测试中表现出色，并设计为完全在消费级硬件（如 Mac 或配备高性能 GPU 的 PC）上运行。\n\n秉承我们长期分享基础 AI 研究的传统，我们以宽松的 Apache 2.0 许可证发布模型权重。",
-    "url": "https://x.com/AIatMeta/status/2086757844544811485",
-    "published": "2026-08-10T10:13:34.000Z",
-    "source": "X：AI at Meta (@AIatMeta)",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "Qwen-MM-Plugins 让智能体原生支持多模态",
-    "summary": "👀 看见只是开始。\n\n借助 Qwen-MM-Plugins，让你的智能体原生支持多模态--读取图片、视频和文档，编辑视频，处理 3D/CAD，以及更多。\n\n从多模态模型 → 多模态智能体。🚀\n\n观看实际效果：https://github.com/QwenLM/Qwen-MM-Plugins",
-    "url": "https://x.com/Alibaba_Qwen/status/2086664887560970531",
-    "published": "2026-08-10T04:04:12.000Z",
-    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "千问开放平台上线：租房、寄快递、查理财等十余领域服务可对话办理",
-    "summary": "千问开放平台今日上线，面向生态伙伴和开发者开放手机、PC和AI眼镜三类终端的服务接入，首批覆盖物流运输、房产居住、本地生活、理财、汽车等十多个领域。用户可在对话中@相关服务或点击\"圆点角标\"进入智能体，完成从咨询、推荐到下单的完整流程。平台支持标准化协议接入、一键授权与端到端调测，并提供账号、AI支付、订单接入等基础设施。",
-    "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488345&idx=1&sn=ef4e57c9c9350f9238d90211eb2dd453",
-    "published": "2026-08-10T02:07:18.000Z",
-    "source": "公众号：千问APP（阿里）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Enterprise Managed Users is now generally available",
-    "summary": "<p>Enterprise Managed Users (EMU) gives organizations full control over the Vercel accounts tied to their verified domains. \nIt makes the organization's identity provider the single source of truth for authentication and account lifecycle, so accounts on company domains are governed centrally rather than owned by individuals.</p><p><b>Now generally available</b></p><ul><li><p><b>IdP-enforced sign-in:</b> Managed users sign in through SAML SSO only. All other login methods, including email OTP, G",
-    "url": "https://vercel.com/changelog/enterprise-managed-users",
-    "published": "",
-    "source": "Vercel Blog (v0)",
-    "source_weight": "high",
-    "category": "design_tools"
-  },
-  {
-    "title": "Vercel Connect now supports CLI setup for 100+ connectors",
-    "summary": "<p>You can now integrate 100+ services through Vercel Connect from the CLI. Previously, <code>vercel connect create</code> completed setup in the terminal for some services, and opened the dashboard for everything else.</p><p>Pass the service name to create a connector, then attach it to your project:</p><div></div><p>The CLI pre-populates the brand name, icon, auth type, and MCP or discovery URL, then prompts for any credentials the service requires and creates the connector.</p><p>After attach",
-    "url": "https://vercel.com/changelog/vercel-cli-100-services",
+    "title": "Inside the Vercel intern experience",
+    "summary": "<p>The best way to learn is by shipping product to users in production, and that's why we don’t treat our interns as temporary guests. Every intern at Vercel is expected to operate like a core part of our engineering team from day one.</p><div></div><p>This past winter, we welcomed a small cohort of those interns to our headquarters in San Francisco. Over an intense four months, they contributed to some of our most important products: the CDN, v0, financial infrastructure, AI Gateway, and more. ",
+    "url": "https://vercel.com/blog/inside-the-vercel-intern-experience",
     "published": "",
     "source": "Vercel Blog (v0)",
     "source_weight": "high",
@@ -153,15 +180,6 @@
     "category": "design_communities"
   },
   {
-    "title": "We just raised $400M in Series C funding to help people run their businesses",
-    "summary": "Lovable has raised $400 million in Series C funding at a $13.3 billion valuation, led by Menlo Ventures and the Scaleup Europe Fund, managed by EQT.",
-    "url": "https://lovable.dev/blog/series-c",
-    "published": "Wed, 12 Aug 2026 09:59:00 GMT",
-    "source": "Lovable Blog",
-    "source_weight": "medium",
-    "category": "design_tools"
-  },
-  {
     "title": "What Star Wars got right about AI",
     "summary": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*OqN6WHj4b9TASM80Mu7__g.png\" /><figcaption><em>Two science-fiction futures for machine intelligence: the lonely oracle and the crowded junkyard. Only one of them came true. AI assisted.</em></figcaption></figure><h4>Droids are cheap, specialized, everywhere, and slightly annoying. That commodity vision maps to how artificial intelligence is reaching your desk right now.</h4><p>Science fiction gave us two competing pictures of art",
     "url": "https://uxdesign.cc/what-star-wars-got-right-about-ai-6404ae7c2e62?source=rss----138adf9c44c---4",
@@ -180,47 +198,29 @@
     "category": "design_communities"
   },
   {
-    "title": "The loom that raised its hand",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-loom-that-raised-its-hand-4e8981b3ef88?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1200/1*z3N5kvaexDH53nEaniQiKw.jpeg\" width=\"1200\" /></a></p><p class=\"medium-feed-snippet\">90 years of loom engineering went into teaching machines to catch their mistakes.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/the-loom-that-raised-its-hand-4e8981b3ef88?source=rss----138",
-    "url": "https://uxdesign.cc/the-loom-that-raised-its-hand-4e8981b3ef88?source=rss----138adf9c44c---4",
-    "published": "Sun, 09 Aug 2026 20:51:26 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Bottle your judgment, Chat is the wrong UI, Design.md",
-    "summary": "<h4>Weekly curated resources for designers — thinkers and makers.</h4><figure><a href=\"https://uxdesign.cc/bottle-your-judgment-and-make-it-outlive-you-14f422772262\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/0*xBpCJGB0ENbEwo8-.png\" /></a></figure><p>“Right now I’m helping build software whose whole job is to package how one particular person thinks. The point is not to have this product replace anyone’s thinking with hers, but to take the way she works through a hard decision, th",
-    "url": "https://uxdesign.cc/bottle-your-judgment-chat-is-the-wrong-ui-design-md-2484e8d870af?source=rss----138adf9c44c---4",
-    "published": "Mon, 10 Aug 2026 11:11:29 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Why your clients aren’t buying and how to change that",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/why-your-clients-arent-buying-and-how-to-change-that-cd7104bf14fd?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*i2N4XMd9xIxpJ-cX\" width=\"5600\" /></a></p><p class=\"medium-feed-snippet\">You know it&#x2019;s the right thing to do. The data screams it. Yet they still say no. Here&#x2019;s the playbook that actually works.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesi",
-    "url": "https://uxdesign.cc/why-your-clients-arent-buying-and-how-to-change-that-cd7104bf14fd?source=rss----138adf9c44c---4",
-    "published": "Mon, 10 Aug 2026 11:08:31 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "The side of the egg",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-side-of-the-egg-8c1a6737fad2?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*KT3ICjeHes7zK9CHNroXdA.png\" width=\"4931\" /></a></p><p class=\"medium-feed-snippet\">On the next hack for our humanity, in the age of AI</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/the-side-of-the-egg-8c1a6737fad2?source=rss----138adf9c44c---4\">Continue reading on UX Collective »</",
-    "url": "https://uxdesign.cc/the-side-of-the-egg-8c1a6737fad2?source=rss----138adf9c44c---4",
-    "published": "Mon, 10 Aug 2026 11:08:08 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "How Baseline Can Help You Ship Less JavaScript",
-    "summary": "The gap between “you need a library for this” and “the browser does this” keeps closing. A practical guide to auditing your dependencies and finding what the web platform can now handle for you.",
-    "url": "https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/",
-    "published": "Fri, 07 Aug 2026 13:00:00 GMT",
+    "title": "New EU Guidelines For AI Labelling",
+    "summary": "New EU guidelines, why AI sparkles aren’t enough, when AI labels are required, and what the rules mean for AI-powered features and products. Brought to you by <a href=\"https://ai-design-patterns.com\">Design Patterns For AI Interfaces</a>, **friendly video courses on UX** and design patterns by Vitaly.",
+    "url": "https://smashingmagazine.com/2026/08/eu-guidelines-ai-labelling/",
+    "published": "Thu, 13 Aug 2026 10:00:00 GMT",
     "source": "Smashing Magazine",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "What a dollhouse full of death taught me about thinking",
+    "summary": "<h4>How models change what we notice, question, and understand</h4><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*uIjLsYBBgsF7VpT4R8X4Gw.jpeg\" /><figcaption>Tiny furniture</figcaption></figure><p><em>[Content warning: This article contains images of miniature death scenes.]</em></p><p>I recently started building a miniature house in my free time. I am clumsy and have messed up a lot of things, but I still find the process therapeutic. Part of it is how cute everything looks ",
+    "url": "https://uxdesign.cc/what-a-dollhouse-full-of-death-taught-me-about-thinking-e959a249c191?source=rss----138adf9c44c---4",
+    "published": "Thu, 13 Aug 2026 04:39:08 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "We’re gorging on borrowed trust and it’s going to cost us.",
+    "summary": "<figure><img alt=\"A haunting, dark illustration of a calm, ashen human face emerging from near-total blackness, its expression serene and faintly smiling. The eyes are hollow voids glowing a cold, sickly green, like a screen left on in an empty room. At the cheek, the skin has peeled away like a mask, curling outward, and cold machine-light with a glowing screen strip bleeds from the gap, revealing that the trusted human face is only a shell over a machine. Vast empty darkness fills the rest of ",
+    "url": "https://uxdesign.cc/were-gorging-on-borrowed-trust-and-it-s-going-to-cost-us-2bc3f918caf5?source=rss----138adf9c44c---4",
+    "published": "Thu, 13 Aug 2026 04:37:38 GMT",
+    "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
   }
