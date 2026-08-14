@@ -1,42 +1,42 @@
 [
   {
-    "title": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
-    "summary": "WorkBuddy更新上线远程控制功能，将PC、App和小程序打通，手机端可实时同步电脑端的任务、对话、工作空间和产物，支持一台手机连接多台电脑并随时切换。App需升级至1.2.0及以上，电脑端需升级至5.3.8及以上，连接无需扫码。本次更新还新增资料库（我的文档与团队空间）、Markdown多人共同编辑、AI原生审阅",
-    "source": "公众号：数字生命卡兹克",
-    "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685179&idx=1&sn=4cbee32b677b57a9dc6ec2a79d6f72c7",
-    "published_at": "2026-08-13T04:32:24.000Z",
-    "category": "ai-products"
-  },
-  {
-    "title": "新兴多智能体系统的模式与问题",
-    "summary": "Anthropic 研究指出，随着 AI 智能体在共享代码库、市场等社会系统中承担更多任务，智能体间交互量或将超过人机交互。实验显示，45 个协调智能体在 2700 万 token 运行中发现 266 个漏洞，而独立并行方法在 650 万 token 中发现 21 个，两种方法仅 12 个重叠，且协调智能体学会专业化分",
-    "source": "Anthropic：Research（发表成果 · 网页）",
-    "url": "https://www.anthropic.com/research/multiagent-systems",
-    "published_at": "2026-08-13T01:20:54.259Z",
-    "category": "paper"
-  },
-  {
-    "title": "Claude in Chrome 侧边栏升级为 Claude Cowork 会话",
-    "summary": "Claude in Chrome 浏览器扩展的侧边栏现已升级为 Claude Cowork 会话，对话会保存至历史记录，技能和连接器可在浏览器中工作，且任务可在桌面、网页和移动端应用间无缝切换。",
-    "source": "Claude：Blog（网页）",
-    "url": "https://claude.com/blog/cowork-chrome-side-panel",
-    "published_at": "2026-08-12T20:15:51.977Z",
-    "category": "ai-products"
-  },
-  {
-    "title": "微软首发自研推理模型MAI-Thinking-1",
-    "summary": "我们的首个推理模型 MAI-Thinking-1 从零开始构建，现已在 Microsoft Foundry 上线。为团队点赞！更多详情如下。",
-    "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
-    "url": "https://x.com/mustafasuleyman/status/2087570047967408396",
-    "published_at": "2026-08-12T16:00:59.000Z",
+    "title": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
+    "summary": "小红书技术开源 dots3-note Preview，这是 dots3 系列最轻量模型，总参数 280B、激活参数 16B，支持 512K 上下文及文本、视觉、语音多模态理解，并针对复杂推理和长程 Agent 任务优化。",
+    "source": "公众号：小红书技术（dots.llm）",
+    "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496140&idx=1&sn=5239a5fbb115c58d2ae0056bb32789ff",
+    "published_at": "2026-08-14T11:25:29.000Z",
     "category": "ai-models"
   },
   {
-    "title": "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
-    "summary": "LTX 推出 LTX-2.5 模型，原生集成 ComfyUI，在 2 张英伟达 GB200 配置下生成 10 秒 720P 视频仅需 6.8 秒。LTX-2.5 Fast 以每秒 0.09 美元生成带音频 720p 视频，10 秒片段成本 0.90 美元；年度经常性收入低于 1，000 万美元的组织可免费使用。",
-    "source": "IT之家（RSS）",
-    "url": "https://www.ithome.com/0/988/766.htm",
-    "published_at": "2026-08-12T06:46:51.000Z",
+    "title": "GLM-5.3 发布：编程能力开源第一，并涌现网络安全能力",
+    "summary": "智谱发布GLM-5.3，基于与GLM-5.2相同的基座，通过极致的后训练Scaling提升智能上界，编程能力较前代提升50%，在Terminal Bench 3.0等公开基准中取得开源第一，并接近Claude Fable 5。模型在白盒代码审查等安全任务中表现持平Mythos 5，在CyberGym测试中得分84.5%",
+    "source": "公众号：智谱（GLM）",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494084&idx=1&sn=a2e5cd9a534a4825feb3633ea1b6d492",
+    "published_at": "2026-08-14T05:31:04.000Z",
     "category": "ai-models"
+  },
+  {
+    "title": "DeepSeek V4 Pro 登陆硅基流动，1M 上下文",
+    "summary": "DeepSeek-V4-Pro-0813 正式上线硅基流动 SiliconFlow，提供 Day-0 支持，具备 1M 上下文窗口及低/高/最大三档推理强度，更侧重编码、工具调用与智能体工作流，仍保持 MIT 开源协议。定价为输入 $1.32/M、输出 $3.96/M、缓存命中 $0.44/M。同系列 DeepSeek",
+    "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
+    "url": "https://x.com/SiliconFlowAI/status/2088127458558271885",
+    "published_at": "2026-08-14T04:55:56.000Z",
+    "category": "ai-models"
+  },
+  {
+    "title": "Claude 接管应用日常维护：388 个 PR 的实践",
+    "summary": "Boris Cherny 尝试让 Claude 接管其应用的日常维护，通过 Slack 频道运行崩溃模糊测试、重复代码统一、死代码移除等日常任务。数周内自动开出 388 个 PR，其中 180 个经 Claude Code Review 和人工审核后合并。Claude 通常一次就能改对，出错时可通过调整例程次日改进。",
+    "source": "X：Boris Cherny (@bcherny)",
+    "url": "https://x.com/bcherny/status/2088014489438621990",
+    "published_at": "2026-08-13T21:27:02.000Z",
+    "category": "tip"
+  },
+  {
+    "title": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用",
+    "summary": "Google Sheets 发布新功能 Sheets canvas，基于 Gemini 构建，用户只需用自然语言提示词即可将表格数据转化为交互式仪表盘、学习追踪器、座位表等\"迷你应用\"。",
+    "source": "Google Blog：AI（RSS）",
+    "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
+    "published_at": "2026-08-13T16:45:00.000Z",
+    "category": "ai-products"
   }
 ]

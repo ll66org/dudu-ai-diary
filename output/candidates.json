@@ -1,12 +1,120 @@
 [
   {
-    "title": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
-    "summary": "WorkBuddy更新上线远程控制功能，将PC、App和小程序打通，手机端可实时同步电脑端的任务、对话、工作空间和产物，支持一台手机连接多台电脑并随时切换。App需升级至1.2.0及以上，电脑端需升级至5.3.8及以上，连接无需扫码。本次更新还新增资料库（我的文档与团队空间）、Markdown多人共同编辑、AI原生审阅模式，以及将资料库内容生成可发布链接的HTML网站。",
-    "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685179&idx=1&sn=4cbee32b677b57a9dc6ec2a79d6f72c7",
-    "published": "2026-08-13T04:32:24.000Z",
-    "source": "公众号：数字生命卡兹克",
+    "title": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
+    "summary": "小红书技术开源 dots3-note Preview，这是 dots3 系列最轻量模型，总参数 280B、激活参数 16B，支持 512K 上下文及文本、视觉、语音多模态理解，并针对复杂推理和长程 Agent 任务优化。",
+    "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496140&idx=1&sn=5239a5fbb115c58d2ae0056bb32789ff",
+    "published": "2026-08-14T11:25:29.000Z",
+    "source": "公众号：小红书技术（dots.llm）",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "GLM-5.3 发布：编程能力开源第一，并涌现网络安全能力",
+    "summary": "智谱发布GLM-5.3，基于与GLM-5.2相同的基座，通过极致的后训练Scaling提升智能上界，编程能力较前代提升50%，在Terminal Bench 3.0等公开基准中取得开源第一，并接近Claude Fable 5。模型在白盒代码审查等安全任务中表现持平Mythos 5，在CyberGym测试中得分84.5%。模型权重将在两周后开源，即日起上线ZCode、AutoClaw等工具。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494084&idx=1&sn=a2e5cd9a534a4825feb3633ea1b6d492",
+    "published": "2026-08-14T05:31:04.000Z",
+    "source": "公众号：智谱（GLM）",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "DeepSeek V4 Pro 登陆硅基流动，1M 上下文",
+    "summary": "DeepSeek-V4-Pro-0813 正式上线硅基流动 SiliconFlow，提供 Day-0 支持，具备 1M 上下文窗口及低/高/最大三档推理强度，更侧重编码、工具调用与智能体工作流，仍保持 MIT 开源协议。定价为输入 $1.32/M、输出 $3.96/M、缓存命中 $0.44/M。同系列 DeepSeek-V4-Flash-0731 则面向追求速度与成本效益的日常生产场景。",
+    "url": "https://x.com/SiliconFlowAI/status/2088127458558271885",
+    "published": "2026-08-14T04:55:56.000Z",
+    "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "Claude 接管应用日常维护：388 个 PR 的实践",
+    "summary": "Boris Cherny 尝试让 Claude 接管其应用的日常维护，通过 Slack 频道运行崩溃模糊测试、重复代码统一、死代码移除等日常任务。数周内自动开出 388 个 PR，其中 180 个经 Claude Code Review 和人工审核后合并。Claude 通常一次就能改对，出错时可通过调整例程次日改进。",
+    "url": "https://x.com/bcherny/status/2088014489438621990",
+    "published": "2026-08-13T21:27:02.000Z",
+    "source": "X：Boris Cherny (@bcherny)",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "ChordViz",
+    "summary": "<p>\n            Build your own music visualizer for MIDI & audio\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/chordviz?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1222530?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/chordviz",
+    "published": "2026-08-13T18:28:45-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用",
+    "summary": "Google Sheets 发布新功能 Sheets canvas，基于 Gemini 构建，用户只需用自然语言提示词即可将表格数据转化为交互式仪表盘、学习追踪器、座位表等\"迷你应用\"。",
+    "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
+    "published": "2026-08-13T16:45:00.000Z",
+    "source": "Google Blog：AI（RSS）",
     "source_weight": "high",
     "category": "ai-products"
+  },
+  {
+    "title": "Qwen3.8-2.4T-A95B 开源，硅基流动即日上线",
+    "summary": "阿里开源 Qwen3.8-2.4T-A95B，硅基流动已提供 Day-0 支持。该模型拥有 2.4T 参数、95B 激活参数，主打自主编码、深度研究与端到端智能体执行。API 定价为输入 $2.00/百万 token，输出 $6.00/百万 token，缓存输入 $0.25/百万 token。",
+    "url": "https://x.com/SiliconFlowAI/status/2087903227224412222",
+    "published": "2026-08-13T14:04:55.000Z",
+    "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "DeepSeek Harness v0.1 开发者预览版发布",
+    "summary": "DeepSeek Harness v0.1 现已推出开发者预览版，并以 MIT 许可证开源。该智能体框架基于 Cordis 元框架构建，核心设计为\"一切皆插件\"，模型、工具、技能、会话、沙箱、文件系统、循环、编排及 UI 均可自由组合、替换和扩展。",
+    "url": "https://x.com/deepseek_ai/status/2087887408440164663",
+    "published": "2026-08-13T13:02:03.000Z",
+    "source": "X：DeepSeek (@deepseek_ai)",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "Compass Calendar",
+    "summary": "<p>\n            The keyboard-first calendar to get organized quickly\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/compass-calendar?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1222394?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/compass-calendar",
+    "published": "2026-08-13T12:31:57-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Cursor 推出 builds：云智能体启动速度提升至 3 倍",
+    "summary": "Cursor 推出 builds 功能，在后台持续准备就绪的开发环境副本，让云智能体启动时无需从零搭建，响应速度最高提升 3 倍。内部环境启动快 10 倍，首个 token 生成快 3 倍；智能体始终从最近一次成功的 build 启动，依赖更新或安装脚本出错时不会影响运行。8 月 17 日起所有环境默认启用 builds，无需额外费用。",
+    "url": "https://cursor.com/blog/builds",
+    "published": "2026-08-13T12:00:00.000Z",
+    "source": "Cursor Blog",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能",
+    "summary": "GPT-5.6 模型家族以更低成本实现前沿级智能体性能，并新增推理持久化、原生多智能体编排和程序化工具调用等 API 能力。在 ARC-AGI-3 上，启用保留推理和压缩后，Sol 得分从 13.3% 跃升至 38.3%，且输出 token 减少约 6 倍。Luna 在 BrowseComp 上以 84.04% 的得分追平 GPT-5.5（84.36%），成本从 $33.27 降至 $1.33。",
+    "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+    "published": "2026-08-13T11:00:00.000Z",
+    "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "Freebuff",
+    "summary": "<p>\n            Free coding agents to kill Claude, Cursor, Replit, and Devin\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/freebuff-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1222324?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/freebuff-2",
+    "published": "2026-08-13T10:04:37-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Port22",
+    "summary": "<p>\n            Claude Code, Codex & more on your phone\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/port22?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1222175?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/port22",
+    "published": "2026-08-13T06:28:31-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
   },
   {
     "title": "新兴多智能体系统的模式与问题",
@@ -18,31 +126,13 @@
     "category": "paper"
   },
   {
-    "title": "FluidDocs CLI",
-    "summary": "<p>\n            Publish interactive docs that answer and report back\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/fluiddocs-html-deck-builder?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1221825?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/fluiddocs-html-deck-builder",
-    "published": "2026-08-12T22:48:59-07:00",
-    "source": "Product Hunt",
+    "title": "DeepSeek V4 Pro与Grok 4.6同日发布，双双逼近Claude Fable 5体验",
+    "summary": "DeepSeek V4 Pro正式版与Grok 4.6在2小时内先后发布，均为1.6T/1.5T参数模型，逼近Claude Fable 5体验。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685175&idx=1&sn=64c383b5b757945397894270c5f38301",
+    "published": "2026-08-12T22:22:28.000Z",
+    "source": "公众号：数字生命卡兹克",
     "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Claude in Chrome 侧边栏升级为 Claude Cowork 会话",
-    "summary": "Claude in Chrome 浏览器扩展的侧边栏现已升级为 Claude Cowork 会话，对话会保存至历史记录，技能和连接器可在浏览器中工作，且任务可在桌面、网页和移动端应用间无缝切换。",
-    "url": "https://claude.com/blog/cowork-chrome-side-panel",
-    "published": "2026-08-12T20:15:51.977Z",
-    "source": "Claude：Blog（网页）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Kivicube",
-    "summary": "<p>\n            Create AR experiences with AI, no code required!\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/kivicube?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1221718?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/kivicube",
-    "published": "2026-08-12T16:52:57-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
+    "category": "tip"
   },
   {
     "title": "微软首发自研推理模型MAI-Thinking-1",
@@ -54,24 +144,6 @@
     "category": "ai-models"
   },
   {
-    "title": "Skilldocs",
-    "summary": "<p>\n            Figma for markdown\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/skilldocs?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1221646?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/skilldocs",
-    "published": "2026-08-12T14:07:34-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "ThreadPort",
-    "summary": "<p>\n            Move AI chats between ChatGPT, Claude & Gemini in one click\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/threadport?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1221610?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/threadport",
-    "published": "2026-08-12T12:57:51-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
     "title": "Cursor 与 SpaceXAI 联合发布 Grok 4.6",
     "summary": "Cursor 与 SpaceXAI 今日发布 Grok 4.6，重点强化长时运行智能体与交互式视觉任务，在多项智能体编程与知识工作基准上达到前沿水平，并在 Artificial Analysis Intelligence Index 上追平 GPT-5.6 Sol。",
     "url": "https://cursor.com/blog/grok-4-6",
@@ -79,87 +151,6 @@
     "source": "Cursor Blog",
     "source_weight": "high",
     "category": "ai-models"
-  },
-  {
-    "title": "xAI 发布 Grok 4.6，强化长时运行智能体能力",
-    "summary": "xAI 今日发布 Grok 4.6，在 Grok 4.5 基础上重点强化长时运行智能体及更复杂的交互式与视觉工作能力。该模型在多项智能体编码与知识工作基准上达到前沿水平，在 Artificial Analysis Intelligence Index（九项基准综合分）上追平 GPT-5.6 Sol。",
-    "url": "https://x.ai/news/grok-4-6",
-    "published": "2026-08-12T00:00:00.000Z",
-    "source": "xAI：News（网页）",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "AMIE 研究医疗 AI 系统首次展示实时临床视频问诊能力",
-    "summary": "Google Research 与 Google DeepMind 推进医疗 AI 系统 AMIE，实现实时临床视频问诊，首次在此场景展示专家级 AI 能力。该系统基于 Gemini 和 Project Astra 构建，可解读视觉与听觉线索、引导虚拟体格检查并实时诊断推理。随机研究中，临床评估者对 AMIE 的病史采集、诊断准确性等核心能力给予好评，患者演员也更偏好视频体验。",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations",
-    "published": "2026-08-11T17:00:00.000Z",
-    "source": "Google Blog：AI（RSS）",
-    "source_weight": "high",
-    "category": "paper"
-  },
-  {
-    "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
-    "summary": "研究团队为 macOS 虚拟机中的 Metal 能力查询构建进程级兼容层，使 llama.cpp 能选用更新的 Metal 内核。在 M1 Ultra 上，TinyLlama 1.1B 的提示处理速度提升 11.08 倍、token 生成提升 16.36 倍，接近裸机性能的 98%；Gemma 4 12B 的提示处理与生成速度分别提升 7.20 倍和 14.54 倍。",
-    "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-    "published": "2026-08-11T16:41:17.281Z",
-    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-    "source_weight": "high",
-    "category": "paper"
-  },
-  {
-    "title": "Ryan Greenblatt：人类级AI或于2032年前通过递归自我改进催生失控超级智能",
-    "summary": "Dwarkesh Patel与Redwood Research首席科学家Ryan Greenblatt探讨递归自我改进（RSI）的可能性：一旦AI达到人类顶级专家水平，可能在一年内实现相当于4-5年的AI进展，Ryan的中位预期是2031年自动化AI研发。双方还讨论了超级智能的对齐对象、奖励黑客行为是否会升级为AI联手接管世界等风险。",
-    "url": "https://www.dwarkesh.com/p/ryan-greenblatt",
-    "published": "2026-08-11T16:31:23.000Z",
-    "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "跨会话传消息后，Codex 和 Claude 如何重构 vibe coding 工作流",
-    "summary": "Codex 和 Claude 新增跨 Session 传消息功能后，新对话可从之前所有对话中选择可用消息，省去交接文档和 git 备份。作者据此重构工作流：主对话守住目标与决策，分支对话独立探索新想法，完成后由主对话读取完整记录。Codex 通过复制会话 ID 精确寻址，Claude Code 则用内置 session management 搜索对话历史，但桌面端只能搜索当前可访问的会话记录。",
-    "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509276&idx=1&sn=675b64d514b1179c8f2362941144bbb4",
-    "published": "2026-08-11T14:15:07.000Z",
-    "source": "公众号：卡尔的AI沃茨",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "SGLang 宣布 Day-0 支持 NVIDIA Nemotron 3.5 Lightning",
-    "summary": "SGLang 宣布对 NVIDIA Nemotron 3.5 Lightning 提供 Day-0 支持，该开源模型为 30B 总参数、3B 激活参数的混合专家架构，支持最长 1M token 上下文，可从 Hugging Face 下载 BF16 和 NVFP4 权重。模型支持 MTP、DFlash、DSpark 三种投机解码技术，并可通过 OpenAI 兼容 API 接入智能体工作流。",
-    "url": "https://www.lmsys.org/blog/2026-08-11-nemotron-3-5-lightning",
-    "published": "2026-08-11T13:51:45.827Z",
-    "source": "LMSYS：Blog（Chatbot Arena 团队）",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "NVIDIA 推出 Nemotron 3.5 Lightning，加速本地智能体任务",
-    "summary": "NVIDIA 发布 Nemotron 3.5 Lightning，一款可定制的开源 30B 混合专家（MoE）模型，专为常驻智能体设计。相比同类开源模型，其 token 生成速度最高提升 4 倍，任务完成时间缩短 30%。该模型采用开放权重，支持用户微调以匹配特定任务，并可在 RTX PC、DGX Spark 及 Jetson 等设备上运行。",
-    "url": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron",
-    "published": "2026-08-11T13:00:25.000Z",
-    "source": "NVIDIA Blog（RSS）",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "用 ComfyUI API 实现 MiniMax-H3 多模态视频与音频生成流水线",
-    "summary": "本教程演示如何以 ComfyUI 为无头推理后端，构建端到端的 MiniMax-H3 视频生成工作流。通过 Python 直接构建执行图，支持文生视频、首尾帧条件生成和参考图像条件生成，并自动根据 GPU 显存选择 quality、balanced、squeeze 三种权重配置。流水线涵盖模型自动下载、节点模式校验、音视频联合解码与进度监控，无需图形界面即可复现实验。",
-    "url": "https://www.marktechpost.com/2026/08/10/implementing-a-minimax-h3-multimodal-video-and-audio-generation-pipeline-with-comfyui-apis",
-    "published": "2026-08-11T05:44:38.000Z",
-    "source": "MarkTechPost（RSS）",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "Inside the Vercel intern experience",
-    "summary": "<p>The best way to learn is by shipping product to users in production, and that's why we don’t treat our interns as temporary guests. Every intern at Vercel is expected to operate like a core part of our engineering team from day one.</p><div></div><p>This past winter, we welcomed a small cohort of those interns to our headquarters in San Francisco. Over an intense four months, they contributed to some of our most important products: the CDN, v0, financial infrastructure, AI Gateway, and more. ",
-    "url": "https://vercel.com/blog/inside-the-vercel-intern-experience",
-    "published": "",
-    "source": "Vercel Blog (v0)",
-    "source_weight": "high",
-    "category": "design_tools"
   },
   {
     "title": "Design’s dreaded phrase is coming back. This time we’re in control.",
@@ -198,29 +189,38 @@
     "category": "design_communities"
   },
   {
+    "title": "Rethinking design leadership with swarms and flocks",
+    "summary": "<h4>How structured emergence solves manager burnout, team bottlenecks, and systemic design debt</h4><figure><img alt=\"Observing the flock based on how individual biological behaviors aggregate into structured group intelligence (image source: Asa Leonard)\" src=\"https://cdn-images-1.medium.com/max/1024/0*MYZe9Xn4c2bYGWYy.png\" /><figcaption>Observing the flock based on how individual biological behaviors aggregate into structured group intelligence (image source: <a href=\"https://cedarcreeknaturen",
+    "url": "https://uxdesign.cc/rethinking-design-leadership-with-swarms-and-flocks-9298db8c59d2?source=rss----138adf9c44c---4",
+    "published": "Thu, 13 Aug 2026 22:18:13 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "What Star Wars got wrong about AI (so far)",
+    "summary": "<figure><img alt=\"Two generations learned what a thinking machine looks like from a production line of individuals. The picture did not hold.\" src=\"https://cdn-images-1.medium.com/max/1024/1*QQJugqv1amAjrmEtCW5ZYA.png\" /><figcaption>Two generations learned what a thinking machine looks like from a production line of individuals and the picture is not holding. AI assisted.</figcaption></figure><h4><em>The saga imagined thinking machines as immortal individuals in metal bodies. Real AI showed up a",
+    "url": "https://uxdesign.cc/what-star-wars-got-wrong-about-ai-so-far-227472bd24ea?source=rss----138adf9c44c---4",
+    "published": "Thu, 13 Aug 2026 22:17:13 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Framer is killing the marketplace… or are they?",
+    "summary": "<h4>10 controversies and a brief history of the Framer marketplace</h4><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*mZTmhHm2OZffI-KBiQ5jhg.png\" /></figure><p><em>Full disclosure, I do not work at Framer, nor do I have any affiliation with them. I’m just a regular creator who has been in the space for a while and watched the evolution unfold in real time.</em></p><p>I sold my first Framer template in April 2023. That was over 3 years ago. I’ve been in the Framer space since",
+    "url": "https://uxdesign.cc/framer-is-killing-the-marketplace-or-are-they-cc96a67763b3?source=rss----138adf9c44c---4",
+    "published": "Thu, 13 Aug 2026 22:16:40 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
     "title": "New EU Guidelines For AI Labelling",
-    "summary": "New EU guidelines, why AI sparkles aren’t enough, when AI labels are required, and what the rules mean for AI-powered features and products. Brought to you by <a href=\"https://ai-design-patterns.com\">Design Patterns For AI Interfaces</a>, **friendly video courses on UX** and design patterns by Vitaly.",
+    "summary": "New EU guidelines, why AI sparkles aren’t enough, when AI labels are required, and what the rules mean for AI-powered features and products.",
     "url": "https://smashingmagazine.com/2026/08/eu-guidelines-ai-labelling/",
     "published": "Thu, 13 Aug 2026 10:00:00 GMT",
     "source": "Smashing Magazine",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "What a dollhouse full of death taught me about thinking",
-    "summary": "<h4>How models change what we notice, question, and understand</h4><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*uIjLsYBBgsF7VpT4R8X4Gw.jpeg\" /><figcaption>Tiny furniture</figcaption></figure><p><em>[Content warning: This article contains images of miniature death scenes.]</em></p><p>I recently started building a miniature house in my free time. I am clumsy and have messed up a lot of things, but I still find the process therapeutic. Part of it is how cute everything looks ",
-    "url": "https://uxdesign.cc/what-a-dollhouse-full-of-death-taught-me-about-thinking-e959a249c191?source=rss----138adf9c44c---4",
-    "published": "Thu, 13 Aug 2026 04:39:08 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "We’re gorging on borrowed trust and it’s going to cost us.",
-    "summary": "<figure><img alt=\"A haunting, dark illustration of a calm, ashen human face emerging from near-total blackness, its expression serene and faintly smiling. The eyes are hollow voids glowing a cold, sickly green, like a screen left on in an empty room. At the cheek, the skin has peeled away like a mask, curling outward, and cold machine-light with a glowing screen strip bleeds from the gap, revealing that the trusted human face is only a shell over a machine. Vast empty darkness fills the rest of ",
-    "url": "https://uxdesign.cc/were-gorging-on-borrowed-trust-and-it-s-going-to-cost-us-2bc3f918caf5?source=rss----138adf9c44c---4",
-    "published": "Thu, 13 Aug 2026 04:37:38 GMT",
-    "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
   }

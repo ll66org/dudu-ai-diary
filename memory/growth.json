@@ -1,5 +1,5 @@
 {
-  "day_count": 112,
+  "day_count": 113,
   "history": [
     {
       "day": 20,
@@ -622,6 +622,13 @@
       "date": "2026-08-13",
       "topic": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
       "source": "公众号：数字生命卡兹克",
+      "mode": "rss"
+    },
+    {
+      "day": 113,
+      "date": "2026-08-14",
+      "topic": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
+      "source": "公众号：小红书技术（dots.llm）",
       "mode": "rss"
     }
   ],

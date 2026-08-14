@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-13T12:25:56.089874Z",
+  "fetched_at": "2026-08-14T12:11:36.318447Z",
   "total_candidates": 25,
   "source_stats": {
     "Figma Blog": {
@@ -7,8 +7,8 @@
       "total": 0
     },
     "Vercel Blog (v0)": {
-      "found": 1,
-      "total": 1464
+      "found": 0,
+      "total": 1470
     },
     "Cursor Changelog": {
       "found": 0,
@@ -35,7 +35,7 @@
       "total": 40
     },
     "UX Collective": {
-      "found": 9,
+      "found": 10,
       "total": 10
     },
     "Designer News": {
@@ -44,7 +44,7 @@
     },
     "CSS-Tricks": {
       "found": 0,
-      "total": 15
+      "total": 0
     },
     "A List Apart": {
       "found": 0,
@@ -64,27 +64,27 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 112,
-  "today_date": "2026-08-13",
+  "dudu_day": 113,
+  "today_date": "2026-08-14",
   "used_titles": [
-    "Qwen-Image-3.0 发布：高分辨率低至 0.03 美元",
     "Runway 上线 Seedance 2.5，支持 50 个角色参考",
     "Claude Code 会话间可互发消息",
     "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
     "SGLang 为 Muse Glimmer 提供 Day-0 支持，针对本地智能体工作流优化推理",
     "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
-    "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI"
+    "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
+    "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式"
   ],
   "used_tools": [
-    "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
     "X：Runway (@runwayml)",
     "X：Claude Devs (@ClaudeDevs)",
     "IT之家（RSS）",
     "LMSYS：Blog（Chatbot Arena 团队）",
     "公众号：智谱（GLM）",
-    "IT之家（RSS）"
+    "IT之家（RSS）",
+    "公众号：数字生命卡兹克"
   ],
   "briefing_total": 46,
-  "briefing_design": 17,
+  "briefing_design": 23,
   "briefing_count": 5
 }
