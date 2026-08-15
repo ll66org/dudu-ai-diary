@@ -1,5 +1,29 @@
 [
   {
+    "title": "Claude 文本水印机制如何运作",
+    "summary": "未来 Claude 模型生成的文本将包含水印，用于判断文本由 Claude 撰写的可能性，这是 Anthropic 为遵守欧盟《AI 法案》而实施的变更。该方法基于 Google DeepMind 的 SynthID-Text 技术，对输出质量、创造力和可读性无实际影响，读者无法区分水印文本与普通文本，且不增加额外 t",
+    "source": "Anthropic：Newsroom（网页）",
+    "url": "https://www.anthropic.com/news/claude-text-watermark",
+    "published_at": "2026-08-14T19:22:48.546Z",
+    "category": "industry"
+  },
+  {
+    "title": "通义千问开源 Qwen3.8 系列模型",
+    "summary": "通义千问兑现承诺，开源 Qwen3.8 系列模型。其中 Qwen3.8-27B 为原生多模态稠密模型，仅 27B 参数即全面超越 Qwen3.7-Plus，原生支持 262K 上下文，可通过 YaRN 扩展至 1M tokens，采用 Apache 2.0 许可。Max 级 Qwen3.8-2.4T-A95B 的开放权",
+    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "url": "https://x.com/Alibaba_Qwen/status/2088280182356611304",
+    "published_at": "2026-08-14T15:02:48.000Z",
+    "category": "ai-models"
+  },
+  {
+    "title": "Cursor 正式被 SpaceX 收购",
+    "summary": "Cursor 已被 SpaceX 正式收购，完成自 4 月启动的收购流程。合并后 Cursor 将获得全球最大 GPU 集群，以构建更强且运行成本更低的模型，从而以更低价格向客户提供更强大的模型。本周三发布的 Grok 4.6 是双方合作成果的早期体现。",
+    "source": "Cursor Blog",
+    "url": "https://cursor.com/blog/joining-spacex",
+    "published_at": "2026-08-14T12:00:00.000Z",
+    "category": "industry"
+  },
+  {
     "title": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
     "summary": "小红书技术开源 dots3-note Preview，这是 dots3 系列最轻量模型，总参数 280B、激活参数 16B，支持 512K 上下文及文本、视觉、语音多模态理解，并针对复杂推理和长程 Agent 任务优化。",
     "source": "公众号：小红书技术（dots.llm）",
@@ -14,29 +38,5 @@
     "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494084&idx=1&sn=a2e5cd9a534a4825feb3633ea1b6d492",
     "published_at": "2026-08-14T05:31:04.000Z",
     "category": "ai-models"
-  },
-  {
-    "title": "DeepSeek V4 Pro 登陆硅基流动，1M 上下文",
-    "summary": "DeepSeek-V4-Pro-0813 正式上线硅基流动 SiliconFlow，提供 Day-0 支持，具备 1M 上下文窗口及低/高/最大三档推理强度，更侧重编码、工具调用与智能体工作流，仍保持 MIT 开源协议。定价为输入 $1.32/M、输出 $3.96/M、缓存命中 $0.44/M。同系列 DeepSeek",
-    "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
-    "url": "https://x.com/SiliconFlowAI/status/2088127458558271885",
-    "published_at": "2026-08-14T04:55:56.000Z",
-    "category": "ai-models"
-  },
-  {
-    "title": "Claude 接管应用日常维护：388 个 PR 的实践",
-    "summary": "Boris Cherny 尝试让 Claude 接管其应用的日常维护，通过 Slack 频道运行崩溃模糊测试、重复代码统一、死代码移除等日常任务。数周内自动开出 388 个 PR，其中 180 个经 Claude Code Review 和人工审核后合并。Claude 通常一次就能改对，出错时可通过调整例程次日改进。",
-    "source": "X：Boris Cherny (@bcherny)",
-    "url": "https://x.com/bcherny/status/2088014489438621990",
-    "published_at": "2026-08-13T21:27:02.000Z",
-    "category": "tip"
-  },
-  {
-    "title": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用",
-    "summary": "Google Sheets 发布新功能 Sheets canvas，基于 Gemini 构建，用户只需用自然语言提示词即可将表格数据转化为交互式仪表盘、学习追踪器、座位表等\"迷你应用\"。",
-    "source": "Google Blog：AI（RSS）",
-    "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
-    "published_at": "2026-08-13T16:45:00.000Z",
-    "category": "ai-products"
   }
 ]

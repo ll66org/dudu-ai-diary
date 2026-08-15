@@ -1,12 +1,66 @@
 [
   {
-    "title": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
-    "summary": "小红书技术开源 dots3-note Preview，这是 dots3 系列最轻量模型，总参数 280B、激活参数 16B，支持 512K 上下文及文本、视觉、语音多模态理解，并针对复杂推理和长程 Agent 任务优化。",
-    "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496140&idx=1&sn=5239a5fbb115c58d2ae0056bb32789ff",
-    "published": "2026-08-14T11:25:29.000Z",
-    "source": "公众号：小红书技术（dots.llm）",
+    "title": "LiquidGlassSkill: Claude skill to implement Apple Liquid Glass UI styles",
+    "summary": "<p>Article URL: <a href=\"https://github.com/stormaref/LiquidGlassSkill\">https://github.com/stormaref/LiquidGlassSkill</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49309425\">https://news.ycombinator.com/item?id=49309425</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "url": "https://github.com/stormaref/LiquidGlassSkill",
+    "published": "Sat, 15 Aug 2026 10:31:58 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Show HN: AI First Virtual Linux Desktop as a Mac App",
+    "summary": "<p>Article URL: <a href=\"https://aifcc.franzai.com/\">https://aifcc.franzai.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49308944\">https://news.ycombinator.com/item?id=49308944</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://aifcc.franzai.com/",
+    "published": "Sat, 15 Aug 2026 08:54:44 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Secondhand UK and Irish booksellers suspect AI firms behind strange bulk orders",
+    "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/technology/2026/aug/15/uk-ireland-booksellers-suspect-ai-companies-bulk-orders-data-acquisition\">https://www.theguardian.com/technology/2026/aug/15/uk-ireland-booksellers-suspect-ai-companies-bulk-orders-data-acquisition</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49308856\">https://news.ycombinator.com/item?id=49308856</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "url": "https://www.theguardian.com/technology/2026/aug/15/uk-ireland-booksellers-suspect-ai-companies-bulk-orders-data-acquisition",
+    "published": "Sat, 15 Aug 2026 08:35:23 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Show HN: Riffn. An instant voice link with your AI agents and local models",
+    "summary": "<p>I get my best ideas when I'm out walking or driving. I built Riffn to make sure I can capitalize on those ideas when and where they happen - while I'm away from my desk, usually outside. I used to use voice recording a lot. So I built Riffn to replace that with a direct voice link to any model or agent I wanted to talk to when my hands and eyes were busy. This lets me develop ideas and keep pushing forward on my apps and other projects when I'm out and about.<p>Riffn is an iOS app that gives ",
+    "url": "https://riffn.io/how-riffn-works/",
+    "published": "Sat, 15 Aug 2026 06:05:09 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Claude 文本水印机制如何运作",
+    "summary": "未来 Claude 模型生成的文本将包含水印，用于判断文本由 Claude 撰写的可能性，这是 Anthropic 为遵守欧盟《AI 法案》而实施的变更。该方法基于 Google DeepMind 的 SynthID-Text 技术，对输出质量、创造力和可读性无实际影响，读者无法区分水印文本与普通文本，且不增加额外 token 或成本。",
+    "url": "https://www.anthropic.com/news/claude-text-watermark",
+    "published": "2026-08-14T19:22:48.546Z",
+    "source": "Anthropic：Newsroom（网页）",
+    "source_weight": "high",
+    "category": "industry"
+  },
+  {
+    "title": "通义千问开源 Qwen3.8 系列模型",
+    "summary": "通义千问兑现承诺，开源 Qwen3.8 系列模型。其中 Qwen3.8-27B 为原生多模态稠密模型，仅 27B 参数即全面超越 Qwen3.7-Plus，原生支持 262K 上下文，可通过 YaRN 扩展至 1M tokens，采用 Apache 2.0 许可。Max 级 Qwen3.8-2.4T-A95B 的开放权重也已同步发布。",
+    "url": "https://x.com/Alibaba_Qwen/status/2088280182356611304",
+    "published": "2026-08-14T15:02:48.000Z",
+    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
     "source_weight": "high",
     "category": "ai-models"
+  },
+  {
+    "title": "Cursor 正式被 SpaceX 收购",
+    "summary": "Cursor 已被 SpaceX 正式收购，完成自 4 月启动的收购流程。合并后 Cursor 将获得全球最大 GPU 集群，以构建更强且运行成本更低的模型，从而以更低价格向客户提供更强大的模型。本周三发布的 Grok 4.6 是双方合作成果的早期体现。",
+    "url": "https://cursor.com/blog/joining-spacex",
+    "published": "2026-08-14T12:00:00.000Z",
+    "source": "Cursor Blog",
+    "source_weight": "high",
+    "category": "industry"
   },
   {
     "title": "GLM-5.3 发布：编程能力开源第一，并涌现网络安全能力",
@@ -36,15 +90,6 @@
     "category": "tip"
   },
   {
-    "title": "ChordViz",
-    "summary": "<p>\n            Build your own music visualizer for MIDI & audio\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/chordviz?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1222530?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/chordviz",
-    "published": "2026-08-13T18:28:45-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
     "title": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用",
     "summary": "Google Sheets 发布新功能 Sheets canvas，基于 Gemini 构建，用户只需用自然语言提示词即可将表格数据转化为交互式仪表盘、学习追踪器、座位表等\"迷你应用\"。",
     "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
@@ -72,15 +117,6 @@
     "category": "ai-products"
   },
   {
-    "title": "Compass Calendar",
-    "summary": "<p>\n            The keyboard-first calendar to get organized quickly\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/compass-calendar?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1222394?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/compass-calendar",
-    "published": "2026-08-13T12:31:57-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
     "title": "Cursor 推出 builds：云智能体启动速度提升至 3 倍",
     "summary": "Cursor 推出 builds 功能，在后台持续准备就绪的开发环境副本，让云智能体启动时无需从零搭建，响应速度最高提升 3 倍。内部环境启动快 10 倍，首个 token 生成快 3 倍；智能体始终从最近一次成功的 build 启动，依赖更新或安装脚本出错时不会影响运行。8 月 17 日起所有环境默认启用 builds，无需额外费用。",
     "url": "https://cursor.com/blog/builds",
@@ -99,24 +135,6 @@
     "category": "tip"
   },
   {
-    "title": "Freebuff",
-    "summary": "<p>\n            Free coding agents to kill Claude, Cursor, Replit, and Devin\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/freebuff-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1222324?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/freebuff-2",
-    "published": "2026-08-13T10:04:37-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Port22",
-    "summary": "<p>\n            Claude Code, Codex & more on your phone\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/port22?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1222175?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/port22",
-    "published": "2026-08-13T06:28:31-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
     "title": "新兴多智能体系统的模式与问题",
     "summary": "Anthropic 研究指出，随着 AI 智能体在共享代码库、市场等社会系统中承担更多任务，智能体间交互量或将超过人机交互。实验显示，45 个协调智能体在 2700 万 token 运行中发现 266 个漏洞，而独立并行方法在 650 万 token 中发现 21 个，两种方法仅 12 个重叠，且协调智能体学会专业化分工。研究同时警示个体层面的良性行为怪癖可能叠加为意外的系统性失败。",
     "url": "https://www.anthropic.com/research/multiagent-systems",
@@ -133,24 +151,6 @@
     "source": "公众号：数字生命卡兹克",
     "source_weight": "high",
     "category": "tip"
-  },
-  {
-    "title": "微软首发自研推理模型MAI-Thinking-1",
-    "summary": "我们的首个推理模型 MAI-Thinking-1 从零开始构建，现已在 Microsoft Foundry 上线。为团队点赞！更多详情如下。",
-    "url": "https://x.com/mustafasuleyman/status/2087570047967408396",
-    "published": "2026-08-12T16:00:59.000Z",
-    "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "Cursor 与 SpaceXAI 联合发布 Grok 4.6",
-    "summary": "Cursor 与 SpaceXAI 今日发布 Grok 4.6，重点强化长时运行智能体与交互式视觉任务，在多项智能体编程与知识工作基准上达到前沿水平，并在 Artificial Analysis Intelligence Index 上追平 GPT-5.6 Sol。",
-    "url": "https://cursor.com/blog/grok-4-6",
-    "published": "2026-08-12T00:00:00.000Z",
-    "source": "Cursor Blog",
-    "source_weight": "high",
-    "category": "ai-models"
   },
   {
     "title": "Design’s dreaded phrase is coming back. This time we’re in control.",

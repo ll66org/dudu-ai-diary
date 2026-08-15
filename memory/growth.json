@@ -1,5 +1,5 @@
 {
-  "day_count": 113,
+  "day_count": 114,
   "history": [
     {
       "day": 20,
@@ -629,6 +629,13 @@
       "date": "2026-08-14",
       "topic": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
       "source": "公众号：小红书技术（dots.llm）",
+      "mode": "rss"
+    },
+    {
+      "day": 114,
+      "date": "2026-08-15",
+      "topic": "Claude 文本水印机制如何运作",
+      "source": "Anthropic：Newsroom（网页）",
       "mode": "rss"
     }
   ],
