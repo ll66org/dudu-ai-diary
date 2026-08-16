@@ -1,46 +1,37 @@
 [
   {
-    "title": "LiquidGlassSkill: Claude skill to implement Apple Liquid Glass UI styles",
-    "summary": "<p>Article URL: <a href=\"https://github.com/stormaref/LiquidGlassSkill\">https://github.com/stormaref/LiquidGlassSkill</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49309425\">https://news.ycombinator.com/item?id=49309425</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
-    "url": "https://github.com/stormaref/LiquidGlassSkill",
-    "published": "Sat, 15 Aug 2026 10:31:58 +0000",
+    "title": "Vero: Can AI Agents Build Formally Verified Software Repositories?",
+    "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2608.13522\">https://arxiv.org/abs/2608.13522</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49318896\">https://news.ycombinator.com/item?id=49318896</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://arxiv.org/abs/2608.13522",
+    "published": "Sun, 16 Aug 2026 11:03:32 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Show HN: AI First Virtual Linux Desktop as a Mac App",
-    "summary": "<p>Article URL: <a href=\"https://aifcc.franzai.com/\">https://aifcc.franzai.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49308944\">https://news.ycombinator.com/item?id=49308944</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://aifcc.franzai.com/",
-    "published": "Sat, 15 Aug 2026 08:54:44 +0000",
+    "title": "Show HN: RNet – AI token service provider",
+    "summary": "<p>I built rNet.<p>Why I built ? : I was using both an agentic IDE and a Hostinger deployment agent. One day, I ran out of credits on the deployment agent. To keep using it, I either had to wait for credits to reset or upgrade to a higher subscription or buy tokens. At the same time, I already had a subscription for the IDE, but I could not use those credits on Hostinger. simply despite having credits, we cannot use them.<p>The basic idea is simple: users buy credits once on our platform and the",
+    "url": "https://news.ycombinator.com/item?id=49318304",
+    "published": "Sun, 16 Aug 2026 09:11:32 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Secondhand UK and Irish booksellers suspect AI firms behind strange bulk orders",
-    "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/technology/2026/aug/15/uk-ireland-booksellers-suspect-ai-companies-bulk-orders-data-acquisition\">https://www.theguardian.com/technology/2026/aug/15/uk-ireland-booksellers-suspect-ai-companies-bulk-orders-data-acquisition</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49308856\">https://news.ycombinator.com/item?id=49308856</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
-    "url": "https://www.theguardian.com/technology/2026/aug/15/uk-ireland-booksellers-suspect-ai-companies-bulk-orders-data-acquisition",
-    "published": "Sat, 15 Aug 2026 08:35:23 +0000",
-    "source": "Hacker News (设计向)",
+    "title": "新兴多智能体系统的模式与问题",
+    "summary": "随着AI智能体在共享代码库、市场等社会系统中承担更多任务，智能体间的真实交互将激增，其交互量可能超过人机交互。Anthropic实验显示，协调式智能体群在2700万token运行中发现266个漏洞，远超独立并行方法的21个，但两者互补性明显。智能体虽擅长工具使用，但在长期协作与协调方面仍面临挑战。",
+    "url": "https://www.anthropic.com/research/multiagent-systems",
+    "published": "2026-08-16T11:17:57.393Z",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
     "source_weight": "high",
-    "category": "ai_tech"
+    "category": "paper"
   },
   {
-    "title": "Show HN: Riffn. An instant voice link with your AI agents and local models",
-    "summary": "<p>I get my best ideas when I'm out walking or driving. I built Riffn to make sure I can capitalize on those ideas when and where they happen - while I'm away from my desk, usually outside. I used to use voice recording a lot. So I built Riffn to replace that with a direct voice link to any model or agent I wanted to talk to when my hands and eyes were busy. This lets me develop ideas and keep pushing forward on my apps and other projects when I'm out and about.<p>Riffn is an iOS app that gives ",
-    "url": "https://riffn.io/how-riffn-works/",
-    "published": "Sat, 15 Aug 2026 06:05:09 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Claude 文本水印机制如何运作",
-    "summary": "未来 Claude 模型生成的文本将包含水印，用于判断文本由 Claude 撰写的可能性，这是 Anthropic 为遵守欧盟《AI 法案》而实施的变更。该方法基于 Google DeepMind 的 SynthID-Text 技术，对输出质量、创造力和可读性无实际影响，读者无法区分水印文本与普通文本，且不增加额外 token 或成本。",
-    "url": "https://www.anthropic.com/news/claude-text-watermark",
-    "published": "2026-08-14T19:22:48.546Z",
-    "source": "Anthropic：Newsroom（网页）",
+    "title": "Cursor 正式被 SpaceX 收购",
+    "summary": "Cursor 已被 SpaceX 正式收购，完成自 4 月启动的收购流程。借助 SpaceX 全球最大规模的 GPU 集群，Cursor 将构建更强且运行成本更低的模型，并以更低价格向客户提供更强大的模型。本周三发布的 Grok 4.6 是双方合作成果的早期体现。",
+    "url": "https://cursor.com/blog/joining-spacex",
+    "published": "2026-08-15T20:05:54.703Z",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
     "source_weight": "high",
     "category": "industry"
   },
@@ -126,55 +117,10 @@
     "category": "ai-products"
   },
   {
-    "title": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能",
-    "summary": "GPT-5.6 模型家族以更低成本实现前沿级智能体性能，并新增推理持久化、原生多智能体编排和程序化工具调用等 API 能力。在 ARC-AGI-3 上，启用保留推理和压缩后，Sol 得分从 13.3% 跃升至 38.3%，且输出 token 减少约 6 倍。Luna 在 BrowseComp 上以 84.04% 的得分追平 GPT-5.5（84.36%），成本从 $33.27 降至 $1.33。",
-    "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
-    "published": "2026-08-13T11:00:00.000Z",
-    "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "新兴多智能体系统的模式与问题",
-    "summary": "Anthropic 研究指出，随着 AI 智能体在共享代码库、市场等社会系统中承担更多任务，智能体间交互量或将超过人机交互。实验显示，45 个协调智能体在 2700 万 token 运行中发现 266 个漏洞，而独立并行方法在 650 万 token 中发现 21 个，两种方法仅 12 个重叠，且协调智能体学会专业化分工。研究同时警示个体层面的良性行为怪癖可能叠加为意外的系统性失败。",
-    "url": "https://www.anthropic.com/research/multiagent-systems",
-    "published": "2026-08-13T01:20:54.259Z",
-    "source": "Anthropic：Research（发表成果 · 网页）",
-    "source_weight": "high",
-    "category": "paper"
-  },
-  {
-    "title": "DeepSeek V4 Pro与Grok 4.6同日发布，双双逼近Claude Fable 5体验",
-    "summary": "DeepSeek V4 Pro正式版与Grok 4.6在2小时内先后发布，均为1.6T/1.5T参数模型，逼近Claude Fable 5体验。",
-    "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685175&idx=1&sn=64c383b5b757945397894270c5f38301",
-    "published": "2026-08-12T22:22:28.000Z",
-    "source": "公众号：数字生命卡兹克",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
     "title": "Design’s dreaded phrase is coming back. This time we’re in control.",
     "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/designs-dreaded-phrase-is-coming-back-this-time-we-re-in-control-ab0c6996dc1e?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*LL55_9WxXR8u-giQv6FKNA.jpeg\" width=\"3689\" /></a></p><p class=\"medium-feed-snippet\">How &#x201c;Everyone can Design&#x201d; means designers don&#x2019;t have to wait for permission</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/designs-dr",
     "url": "https://uxdesign.cc/designs-dreaded-phrase-is-coming-back-this-time-we-re-in-control-ab0c6996dc1e?source=rss----138adf9c44c---4",
     "published": "Wed, 12 Aug 2026 11:18:06 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "The CSS hack that extends your website on iOS Safari",
-    "summary": "<h4>Make your website feel more luxurious using a simple CSS trick.</h4><figure><img alt=\"A cover image for “The CSS hack that extends your website on iOS Safari”\" src=\"https://cdn-images-1.medium.com/max/1024/1*ZcDb5ZjNO28brHSWg-MGXg.png\" /><figcaption>A cover image for “The CSS hack that extends your website on iOS Safari”</figcaption></figure><h3>Introduction</h3><p>People who read a lot of books know that paperbacks get read faster, they get shoved into backpacks, they get dirty and folded a",
-    "url": "https://uxdesign.cc/the-css-hack-that-extends-your-website-on-ios-safari-973b4241e612?source=rss----138adf9c44c---4",
-    "published": "Wed, 12 Aug 2026 11:17:45 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "What Star Wars got right about AI",
-    "summary": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*OqN6WHj4b9TASM80Mu7__g.png\" /><figcaption><em>Two science-fiction futures for machine intelligence: the lonely oracle and the crowded junkyard. Only one of them came true. AI assisted.</em></figcaption></figure><h4>Droids are cheap, specialized, everywhere, and slightly annoying. That commodity vision maps to how artificial intelligence is reaching your desk right now.</h4><p>Science fiction gave us two competing pictures of art",
-    "url": "https://uxdesign.cc/what-star-wars-got-right-about-ai-6404ae7c2e62?source=rss----138adf9c44c---4",
-    "published": "Tue, 11 Aug 2026 21:06:50 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
@@ -222,6 +168,60 @@
     "published": "Thu, 13 Aug 2026 10:00:00 GMT",
     "source": "Smashing Magazine",
     "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "What a dollhouse full of death taught me about thinking",
+    "summary": "<h4>How models change what we notice, question, and understand</h4><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*uIjLsYBBgsF7VpT4R8X4Gw.jpeg\" /><figcaption>Tiny furniture</figcaption></figure><p><em>[Content warning: This article contains images of miniature death scenes.]</em></p><p>I recently started building a miniature house in my free time. I am clumsy and have messed up a lot of things, but I still find the process therapeutic. Part of it is how cute everything looks ",
+    "url": "https://uxdesign.cc/what-a-dollhouse-full-of-death-taught-me-about-thinking-e959a249c191?source=rss----138adf9c44c---4",
+    "published": "Thu, 13 Aug 2026 04:39:08 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "We’re gorging on borrowed trust and it’s going to cost us.",
+    "summary": "<figure><img alt=\"A haunting, dark illustration of a calm, ashen human face emerging from near-total blackness, its expression serene and faintly smiling. The eyes are hollow voids glowing a cold, sickly green, like a screen left on in an empty room. At the cheek, the skin has peeled away like a mask, curling outward, and cold machine-light with a glowing screen strip bleeds from the gap, revealing that the trusted human face is only a shell over a machine. Vast empty darkness fills the rest of ",
+    "url": "https://uxdesign.cc/were-gorging-on-borrowed-trust-and-it-s-going-to-cost-us-2bc3f918caf5?source=rss----138adf9c44c---4",
+    "published": "Thu, 13 Aug 2026 04:37:38 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "You already know how to make it accessible",
+    "summary": "<h4><em>A translation guide for designers who think accessibility is a separate skill set</em></h4><p>Every year, <a href=\"https://webaim.org/\">WebAIM</a> crawls the home pages of the top one million websites and runs them through an automated accessibility scanner. The <a href=\"https://webaim.org/projects/million/\">2026 results</a>, published this spring, found errors on <strong>95.9% of home pages</strong>, averaging <strong>56 detectable accessibility barriers per page</strong>. That number a",
+    "url": "https://uxdesign.cc/you-already-know-how-to-make-it-accessible-b29513a9b217?source=rss----138adf9c44c---4",
+    "published": "Sun, 16 Aug 2026 10:08:38 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "How to become an AI Designer",
+    "summary": "<h4>A realistic guide to shipping your own designs.</h4><figure><img alt=\"A stylized terminal that says ‘ship it’.\" src=\"https://cdn-images-1.medium.com/max/1024/1*DPP633WIrk6_3kIrF0tOWQ.png\" /></figure><p><em>Your company wants you to use more tokens. Engineers are shipping faster than you can prototype. Vibecoded slop is all over your LinkedIn feed. Agents are the future. Figma’s over. Anthropic just released Claude Design. Taste is everything. Eng just shipped another PR! Design is dead. Actu",
+    "url": "https://uxdesign.cc/how-to-become-an-ai-designer-ff8ee8aed205?source=rss----138adf9c44c---4",
+    "published": "Sat, 15 Aug 2026 13:16:28 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Who gets the meter?",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/who-gets-the-meter-7cd1cd1ad5e4?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1169/0*sKAWsl_jj2DSQlng\" width=\"1169\" /></a></p><p class=\"medium-feed-snippet\">We&#x2019;ve spent 180 years trying not to feel the cost of the machine. AI just turned the meter back on.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/who-gets-the-meter-7cd1cd1ad5e4?source=rss----138adf9c44c",
+    "url": "https://uxdesign.cc/who-gets-the-meter-7cd1cd1ad5e4?source=rss----138adf9c44c---4",
+    "published": "Sat, 15 Aug 2026 13:15:07 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "What’s !important #17: Custom Highlight API, CSS Navigation Matching, Fixing text-stroke, and More",
+    "summary": "<p>Plus, how to style skeleton UIs, how to enable diagonal scrolling, how images can overflow themselves, and yet, still more. Basically, how to do a lot of really cool (CSS) stuff.</p>\n<hr />\n<p><small><a href=\"https://css-tricks.com/whats-important-17/\" rel=\"nofollow\">What’s !important #17: Custom Highlight API, CSS Navigation Matching, Fixing text-stroke, and More</a> originally handwritten and published with love on <a href=\"https://css-tricks.com\" rel=\"nofollow\">CSS-Tricks</a>. You should r",
+    "url": "https://css-tricks.com/whats-important-17/",
+    "published": "Fri, 14 Aug 2026 14:01:51 +0000",
+    "source": "CSS-Tricks",
+    "source_weight": "low",
     "category": "design_communities"
   }
 ]

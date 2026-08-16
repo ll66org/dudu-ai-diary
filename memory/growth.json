@@ -1,5 +1,5 @@
 {
-  "day_count": 114,
+  "day_count": 115,
   "history": [
     {
       "day": 20,
@@ -636,6 +636,13 @@
       "date": "2026-08-15",
       "topic": "Claude 文本水印机制如何运作",
       "source": "Anthropic：Newsroom（网页）",
+      "mode": "rss"
+    },
+    {
+      "day": 115,
+      "date": "2026-08-16",
+      "topic": "新兴多智能体系统的模式与问题",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "mode": "rss"
     }
   ],

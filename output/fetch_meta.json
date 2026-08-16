@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-15T11:48:11.009920Z",
+  "fetched_at": "2026-08-16T11:48:33.028792Z",
   "total_candidates": 25,
   "source_stats": {
     "Figma Blog": {
@@ -51,7 +51,7 @@
       "total": 20
     },
     "Hacker News (设计向)": {
-      "found": 4,
+      "found": 2,
       "total": 20
     },
     "Product Hunt": {
@@ -64,27 +64,27 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 114,
-  "today_date": "2026-08-15",
+  "dudu_day": 115,
+  "today_date": "2026-08-16",
   "used_titles": [
-    "Claude Code 会话间可互发消息",
     "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
     "SGLang 为 Muse Glimmer 提供 Day-0 支持，针对本地智能体工作流优化推理",
     "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
     "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
     "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
-    "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理"
+    "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
+    "Claude 文本水印机制如何运作"
   ],
   "used_tools": [
-    "X：Claude Devs (@ClaudeDevs)",
     "IT之家（RSS）",
     "LMSYS：Blog（Chatbot Arena 团队）",
     "公众号：智谱（GLM）",
     "IT之家（RSS）",
     "公众号：数字生命卡兹克",
-    "公众号：小红书技术（dots.llm）"
+    "公众号：小红书技术（dots.llm）",
+    "Anthropic：Newsroom（网页）"
   ],
-  "briefing_total": 29,
-  "briefing_design": 16,
+  "briefing_total": 20,
+  "briefing_design": 13,
   "briefing_count": 5
 }
