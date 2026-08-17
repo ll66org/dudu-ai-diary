@@ -1,5 +1,5 @@
 {
-  "day_count": 115,
+  "day_count": 116,
   "history": [
     {
       "day": 20,
@@ -643,6 +643,13 @@
       "date": "2026-08-16",
       "topic": "新兴多智能体系统的模式与问题",
       "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "mode": "rss"
+    },
+    {
+      "day": 116,
+      "date": "2026-08-17",
+      "topic": "Qwen 3.8 27B 表现出色，但默认推理强度过高导致过度思考",
+      "source": "Simon Willison 博客",
       "mode": "rss"
     }
   ],

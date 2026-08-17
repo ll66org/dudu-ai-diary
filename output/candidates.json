@@ -1,30 +1,66 @@
 [
   {
-    "title": "Vero: Can AI Agents Build Formally Verified Software Repositories?",
-    "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2608.13522\">https://arxiv.org/abs/2608.13522</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49318896\">https://news.ycombinator.com/item?id=49318896</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://arxiv.org/abs/2608.13522",
-    "published": "Sun, 16 Aug 2026 11:03:32 +0000",
+    "title": "We built AI accelerators to reduce the time from AI prototype to production",
+    "summary": "<p>Article URL: <a href=\"https://geekyants.com/ai-accelerator\">https://geekyants.com/ai-accelerator</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49329365\">https://news.ycombinator.com/item?id=49329365</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://geekyants.com/ai-accelerator",
+    "published": "Mon, 17 Aug 2026 11:48:19 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Show HN: RNet – AI token service provider",
-    "summary": "<p>I built rNet.<p>Why I built ? : I was using both an agentic IDE and a Hostinger deployment agent. One day, I ran out of credits on the deployment agent. To keep using it, I either had to wait for credits to reset or upgrade to a higher subscription or buy tokens. At the same time, I already had a subscription for the IDE, but I could not use those credits on Hostinger. simply despite having credits, we cannot use them.<p>The basic idea is simple: users buy credits once on our platform and the",
-    "url": "https://news.ycombinator.com/item?id=49318304",
-    "published": "Sun, 16 Aug 2026 09:11:32 +0000",
+    "title": "Show HN: Logofolio: fresh logo design, daily",
+    "summary": "<p>Article URL: <a href=\"https://logofolio.com\">https://logofolio.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49329263\">https://news.ycombinator.com/item?id=49329263</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://logofolio.com",
+    "published": "Mon, 17 Aug 2026 11:30:48 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "新兴多智能体系统的模式与问题",
-    "summary": "随着AI智能体在共享代码库、市场等社会系统中承担更多任务，智能体间的真实交互将激增，其交互量可能超过人机交互。Anthropic实验显示，协调式智能体群在2700万token运行中发现266个漏洞，远超独立并行方法的21个，但两者互补性明显。智能体虽擅长工具使用，但在长期协作与协调方面仍面临挑战。",
-    "url": "https://www.anthropic.com/research/multiagent-systems",
-    "published": "2026-08-16T11:17:57.393Z",
-    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "title": "Why Stripe's $7B OpenRouter Acquisition Is About Owning the AI Routing Layer",
+    "summary": "<p>Article URL: <a href=\"https://medium.com/@glennlenormand/stripe-didnt-pay-7-billion-for-openrouter-it-bought-the-tollbooth-of-the-ai-economy-5849f9891488\">https://medium.com/@glennlenormand/stripe-didnt-pay-7-billion-for-openrouter-it-bought-the-tollbooth-of-the-ai-economy-5849f9891488</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49329233\">https://news.ycombinator.com/item?id=49329233</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+    "url": "https://medium.com/@glennlenormand/stripe-didnt-pay-7-billion-for-openrouter-it-bought-the-tollbooth-of-the-ai-economy-5849f9891488",
+    "published": "Mon, 17 Aug 2026 11:26:07 +0000",
+    "source": "Hacker News (设计向)",
     "source_weight": "high",
-    "category": "paper"
+    "category": "ai_tech"
+  },
+  {
+    "title": "AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design",
+    "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2608.13560\">https://arxiv.org/abs/2608.13560</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49329066\">https://news.ycombinator.com/item?id=49329066</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://arxiv.org/abs/2608.13560",
+    "published": "Mon, 17 Aug 2026 11:04:04 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "How to Create a Cursor Plugin: Context Engineering You Can Install",
+    "summary": "<p>Plugins are how you ship rules, skills, agents, MCP, and hooks as one bundle. Here's the structure, local workflow, and practices that keep agent context lean.<p>https://www.rajkumarsamra.me/blog/how-to-create-a-cursor-plugin</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49328890\">https://news.ycombinator.com/item?id=49328890</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "url": "https://news.ycombinator.com/item?id=49328890",
+    "published": "Mon, 17 Aug 2026 10:42:28 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Qwen 3.8 27B 表现出色，但默认推理强度过高导致过度思考",
+    "summary": "阿里 Qwen 实验室发布 Apache 2 许可的 27B 参数视觉大模型 Qwen 3.8 27B，官方基准显示其超越前代 Qwen 3.6 27B 及闭源 Qwen 3.7-Plus。",
+    "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b",
+    "published": "2026-08-16T22:00:39.000Z",
+    "source": "Simon Willison 博客",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "Vendo",
+    "summary": "<p>\n            Let your users build their own features inside your product\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/vendo?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1224529?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/vendo",
+    "published": "2026-08-16T15:13:45-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
   },
   {
     "title": "Cursor 正式被 SpaceX 收购",
@@ -52,78 +88,6 @@
     "source": "Cursor Blog",
     "source_weight": "high",
     "category": "industry"
-  },
-  {
-    "title": "GLM-5.3 发布：编程能力开源第一，并涌现网络安全能力",
-    "summary": "智谱发布GLM-5.3，基于与GLM-5.2相同的基座，通过极致的后训练Scaling提升智能上界，编程能力较前代提升50%，在Terminal Bench 3.0等公开基准中取得开源第一，并接近Claude Fable 5。模型在白盒代码审查等安全任务中表现持平Mythos 5，在CyberGym测试中得分84.5%。模型权重将在两周后开源，即日起上线ZCode、AutoClaw等工具。",
-    "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494084&idx=1&sn=a2e5cd9a534a4825feb3633ea1b6d492",
-    "published": "2026-08-14T05:31:04.000Z",
-    "source": "公众号：智谱（GLM）",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "DeepSeek V4 Pro 登陆硅基流动，1M 上下文",
-    "summary": "DeepSeek-V4-Pro-0813 正式上线硅基流动 SiliconFlow，提供 Day-0 支持，具备 1M 上下文窗口及低/高/最大三档推理强度，更侧重编码、工具调用与智能体工作流，仍保持 MIT 开源协议。定价为输入 $1.32/M、输出 $3.96/M、缓存命中 $0.44/M。同系列 DeepSeek-V4-Flash-0731 则面向追求速度与成本效益的日常生产场景。",
-    "url": "https://x.com/SiliconFlowAI/status/2088127458558271885",
-    "published": "2026-08-14T04:55:56.000Z",
-    "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "Claude 接管应用日常维护：388 个 PR 的实践",
-    "summary": "Boris Cherny 尝试让 Claude 接管其应用的日常维护，通过 Slack 频道运行崩溃模糊测试、重复代码统一、死代码移除等日常任务。数周内自动开出 388 个 PR，其中 180 个经 Claude Code Review 和人工审核后合并。Claude 通常一次就能改对，出错时可通过调整例程次日改进。",
-    "url": "https://x.com/bcherny/status/2088014489438621990",
-    "published": "2026-08-13T21:27:02.000Z",
-    "source": "X：Boris Cherny (@bcherny)",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用",
-    "summary": "Google Sheets 发布新功能 Sheets canvas，基于 Gemini 构建，用户只需用自然语言提示词即可将表格数据转化为交互式仪表盘、学习追踪器、座位表等\"迷你应用\"。",
-    "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
-    "published": "2026-08-13T16:45:00.000Z",
-    "source": "Google Blog：AI（RSS）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Qwen3.8-2.4T-A95B 开源，硅基流动即日上线",
-    "summary": "阿里开源 Qwen3.8-2.4T-A95B，硅基流动已提供 Day-0 支持。该模型拥有 2.4T 参数、95B 激活参数，主打自主编码、深度研究与端到端智能体执行。API 定价为输入 $2.00/百万 token，输出 $6.00/百万 token，缓存输入 $0.25/百万 token。",
-    "url": "https://x.com/SiliconFlowAI/status/2087903227224412222",
-    "published": "2026-08-13T14:04:55.000Z",
-    "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "DeepSeek Harness v0.1 开发者预览版发布",
-    "summary": "DeepSeek Harness v0.1 现已推出开发者预览版，并以 MIT 许可证开源。该智能体框架基于 Cordis 元框架构建，核心设计为\"一切皆插件\"，模型、工具、技能、会话、沙箱、文件系统、循环、编排及 UI 均可自由组合、替换和扩展。",
-    "url": "https://x.com/deepseek_ai/status/2087887408440164663",
-    "published": "2026-08-13T13:02:03.000Z",
-    "source": "X：DeepSeek (@deepseek_ai)",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Cursor 推出 builds：云智能体启动速度提升至 3 倍",
-    "summary": "Cursor 推出 builds 功能，在后台持续准备就绪的开发环境副本，让云智能体启动时无需从零搭建，响应速度最高提升 3 倍。内部环境启动快 10 倍，首个 token 生成快 3 倍；智能体始终从最近一次成功的 build 启动，依赖更新或安装脚本出错时不会影响运行。8 月 17 日起所有环境默认启用 builds，无需额外费用。",
-    "url": "https://cursor.com/blog/builds",
-    "published": "2026-08-13T12:00:00.000Z",
-    "source": "Cursor Blog",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Design’s dreaded phrase is coming back. This time we’re in control.",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/designs-dreaded-phrase-is-coming-back-this-time-we-re-in-control-ab0c6996dc1e?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*LL55_9WxXR8u-giQv6FKNA.jpeg\" width=\"3689\" /></a></p><p class=\"medium-feed-snippet\">How &#x201c;Everyone can Design&#x201d; means designers don&#x2019;t have to wait for permission</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/designs-dr",
-    "url": "https://uxdesign.cc/designs-dreaded-phrase-is-coming-back-this-time-we-re-in-control-ab0c6996dc1e?source=rss----138adf9c44c---4",
-    "published": "Wed, 12 Aug 2026 11:18:06 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
   },
   {
     "title": "Building Tactile UX: Honoring Intentional Design With Lottie",
@@ -171,24 +135,6 @@
     "category": "design_communities"
   },
   {
-    "title": "What a dollhouse full of death taught me about thinking",
-    "summary": "<h4>How models change what we notice, question, and understand</h4><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*uIjLsYBBgsF7VpT4R8X4Gw.jpeg\" /><figcaption>Tiny furniture</figcaption></figure><p><em>[Content warning: This article contains images of miniature death scenes.]</em></p><p>I recently started building a miniature house in my free time. I am clumsy and have messed up a lot of things, but I still find the process therapeutic. Part of it is how cute everything looks ",
-    "url": "https://uxdesign.cc/what-a-dollhouse-full-of-death-taught-me-about-thinking-e959a249c191?source=rss----138adf9c44c---4",
-    "published": "Thu, 13 Aug 2026 04:39:08 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "We’re gorging on borrowed trust and it’s going to cost us.",
-    "summary": "<figure><img alt=\"A haunting, dark illustration of a calm, ashen human face emerging from near-total blackness, its expression serene and faintly smiling. The eyes are hollow voids glowing a cold, sickly green, like a screen left on in an empty room. At the cheek, the skin has peeled away like a mask, curling outward, and cold machine-light with a glowing screen strip bleeds from the gap, revealing that the trusted human face is only a shell over a machine. Vast empty darkness fills the rest of ",
-    "url": "https://uxdesign.cc/were-gorging-on-borrowed-trust-and-it-s-going-to-cost-us-2bc3f918caf5?source=rss----138adf9c44c---4",
-    "published": "Thu, 13 Aug 2026 04:37:38 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
     "title": "You already know how to make it accessible",
     "summary": "<h4><em>A translation guide for designers who think accessibility is a separate skill set</em></h4><p>Every year, <a href=\"https://webaim.org/\">WebAIM</a> crawls the home pages of the top one million websites and runs them through an automated accessibility scanner. The <a href=\"https://webaim.org/projects/million/\">2026 results</a>, published this spring, found errors on <strong>95.9% of home pages</strong>, averaging <strong>56 detectable accessibility barriers per page</strong>. That number a",
     "url": "https://uxdesign.cc/you-already-know-how-to-make-it-accessible-b29513a9b217?source=rss----138adf9c44c---4",
@@ -211,6 +157,24 @@
     "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/who-gets-the-meter-7cd1cd1ad5e4?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1169/0*sKAWsl_jj2DSQlng\" width=\"1169\" /></a></p><p class=\"medium-feed-snippet\">We&#x2019;ve spent 180 years trying not to feel the cost of the machine. AI just turned the meter back on.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/who-gets-the-meter-7cd1cd1ad5e4?source=rss----138adf9c44c",
     "url": "https://uxdesign.cc/who-gets-the-meter-7cd1cd1ad5e4?source=rss----138adf9c44c---4",
     "published": "Sat, 15 Aug 2026 13:15:07 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Rethinking leadership, Judgment as bottleneck, Ethical UX for machines",
+    "summary": "<h4>Weekly curated resources for designers — thinkers and makers.</h4><figure><a href=\"https://uxdesign.cc/rethinking-design-leadership-with-swarms-and-flocks-9298db8c59d2\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/0*n1q2BNwJWNmCEciK.png\" /></a></figure><p>“Design leadership is currently suffering from a bad case of mechanical thinking. We talk endlessly about cross-functional alignment, product development and operations, and predicting roadmaps. But mechanical systems are britt",
+    "url": "https://uxdesign.cc/rethinking-leadership-judgment-as-bottleneck-ethical-ux-for-machines-5927df9a399e?source=rss----138adf9c44c---4",
+    "published": "Mon, 17 Aug 2026 11:23:18 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "AI adoption and the slow erosion of design idealism",
+    "summary": "<h4>How years of client work, deadlines, and professional practice reshape a designer’s relationship with emerging technology.</h4><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/0*2F5T3iNd9kt_Mq0q\" /><figcaption>Photo by <a href=\"https://unsplash.com/@korner_kosmos?utm_source=medium&amp;utm_medium=referral\">K. K.</a> on <a href=\"https://unsplash.com?utm_source=medium&amp;utm_medium=referral\">Unsplash</a></figcaption></figure><p>I was having lunch with a couple of friends the o",
+    "url": "https://uxdesign.cc/ai-adoption-and-the-slow-erosion-of-design-idealism-fab75761ebd6?source=rss----138adf9c44c---4",
+    "published": "Mon, 17 Aug 2026 07:37:27 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"

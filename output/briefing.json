@@ -1,5 +1,13 @@
 [
   {
+    "title": "Qwen 3.8 27B 表现出色，但默认推理强度过高导致过度思考",
+    "summary": "阿里 Qwen 实验室发布 Apache 2 许可的 27B 参数视觉大模型 Qwen 3.8 27B，官方基准显示其超越前代 Qwen 3.6 27B 及闭源 Qwen 3.7-Plus。",
+    "source": "Simon Willison 博客",
+    "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b",
+    "published_at": "2026-08-16T22:00:39.000Z",
+    "category": "tip"
+  },
+  {
     "title": "新兴多智能体系统的模式与问题",
     "summary": "随着AI智能体在共享代码库、市场等社会系统中承担更多任务，智能体间的真实交互将激增，其交互量可能超过人机交互。Anthropic实验显示，协调式智能体群在2700万token运行中发现266个漏洞，远超独立并行方法的21个，但两者互补性明显。智能体虽擅长工具使用，但在长期协作与协调方面仍面临挑战。",
     "source": "Hacker News 热门（buzzing.cc 中文翻译）",
@@ -30,13 +38,5 @@
     "url": "https://cursor.com/blog/joining-spacex",
     "published_at": "2026-08-14T12:00:00.000Z",
     "category": "industry"
-  },
-  {
-    "title": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
-    "summary": "小红书技术开源 dots3-note Preview，这是 dots3 系列最轻量模型，总参数 280B、激活参数 16B，支持 512K 上下文及文本、视觉、语音多模态理解，并针对复杂推理和长程 Agent 任务优化。",
-    "source": "公众号：小红书技术（dots.llm）",
-    "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496140&idx=1&sn=5239a5fbb115c58d2ae0056bb32789ff",
-    "published_at": "2026-08-14T11:25:29.000Z",
-    "category": "ai-models"
   }
 ]
