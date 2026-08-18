@@ -1,5 +1,5 @@
 {
-  "day_count": 116,
+  "day_count": 117,
   "history": [
     {
       "day": 20,
@@ -650,6 +650,13 @@
       "date": "2026-08-17",
       "topic": "Qwen 3.8 27B 表现出色，但默认推理强度过高导致过度思考",
       "source": "Simon Willison 博客",
+      "mode": "rss"
+    },
+    {
+      "day": 117,
+      "date": "2026-08-18",
+      "topic": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
       "mode": "rss"
     }
   ],

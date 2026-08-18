@@ -1,63 +1,108 @@
 [
   {
-    "title": "We built AI accelerators to reduce the time from AI prototype to production",
-    "summary": "<p>Article URL: <a href=\"https://geekyants.com/ai-accelerator\">https://geekyants.com/ai-accelerator</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49329365\">https://news.ycombinator.com/item?id=49329365</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://geekyants.com/ai-accelerator",
-    "published": "Mon, 17 Aug 2026 11:48:19 +0000",
+    "title": "Wound/wait deadlock-proof mutex design",
+    "summary": "<p>Article URL: <a href=\"https://www.kernel.org/doc/html/latest/locking/ww-mutex-design.html\">https://www.kernel.org/doc/html/latest/locking/ww-mutex-design.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49344048\">https://news.ycombinator.com/item?id=49344048</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://www.kernel.org/doc/html/latest/locking/ww-mutex-design.html",
+    "published": "Tue, 18 Aug 2026 11:19:58 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Show HN: Logofolio: fresh logo design, daily",
-    "summary": "<p>Article URL: <a href=\"https://logofolio.com\">https://logofolio.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49329263\">https://news.ycombinator.com/item?id=49329263</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://logofolio.com",
-    "published": "Mon, 17 Aug 2026 11:30:48 +0000",
+    "title": "AI automation: Lock in payroll savings or reinvest capacity into growth",
+    "summary": "<p>Article URL: <a href=\"https://urnicus.com/blog/the-quiet-cost/\">https://urnicus.com/blog/the-quiet-cost/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49343598\">https://news.ycombinator.com/item?id=49343598</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "url": "https://urnicus.com/blog/the-quiet-cost/",
+    "published": "Tue, 18 Aug 2026 10:18:49 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Why Stripe's $7B OpenRouter Acquisition Is About Owning the AI Routing Layer",
-    "summary": "<p>Article URL: <a href=\"https://medium.com/@glennlenormand/stripe-didnt-pay-7-billion-for-openrouter-it-bought-the-tollbooth-of-the-ai-economy-5849f9891488\">https://medium.com/@glennlenormand/stripe-didnt-pay-7-billion-for-openrouter-it-bought-the-tollbooth-of-the-ai-economy-5849f9891488</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49329233\">https://news.ycombinator.com/item?id=49329233</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
-    "url": "https://medium.com/@glennlenormand/stripe-didnt-pay-7-billion-for-openrouter-it-bought-the-tollbooth-of-the-ai-economy-5849f9891488",
-    "published": "Mon, 17 Aug 2026 11:26:07 +0000",
+    "title": "Arctype – An AI workspace that builds documents, apps, and handles email",
+    "summary": "<p>Article URL: <a href=\"https://arctype.org/\">https://arctype.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49343205\">https://news.ycombinator.com/item?id=49343205</a></p>\n<p>Points: 2</p>\n<p># Comments: 1</p>",
+    "url": "https://arctype.org/",
+    "published": "Tue, 18 Aug 2026 09:07:44 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design",
-    "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2608.13560\">https://arxiv.org/abs/2608.13560</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49329066\">https://news.ycombinator.com/item?id=49329066</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://arxiv.org/abs/2608.13560",
-    "published": "Mon, 17 Aug 2026 11:04:04 +0000",
-    "source": "Hacker News (设计向)",
+    "title": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护",
+    "summary": "OpenAI 发布 ChatGPT for Teens，为 13-17 岁用户自动启用，内置更强安全保护与家长控制。新增 Study Mode、负责任作业提醒、测验与学习可视化，以及可设定默认开启时段的 Study Hours，引导青少年分步解题而非直接给答案。OpenAI 同时宣布与 CodeAI 合作，帮助青少年理解、质疑并创造性地使用 AI。",
+    "url": "https://openai.com/index/chatgpt-for-teens",
+    "published": "2026-08-18T11:00:00.000Z",
+    "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
     "source_weight": "high",
-    "category": "ai_tech"
+    "category": "ai-products"
   },
   {
-    "title": "How to Create a Cursor Plugin: Context Engineering You Can Install",
-    "summary": "<p>Plugins are how you ship rules, skills, agents, MCP, and hooks as one bundle. Here's the structure, local workflow, and practices that keep agent context lean.<p>https://www.rajkumarsamra.me/blog/how-to-create-a-cursor-plugin</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49328890\">https://news.ycombinator.com/item?id=49328890</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
-    "url": "https://news.ycombinator.com/item?id=49328890",
-    "published": "Mon, 17 Aug 2026 10:42:28 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Qwen 3.8 27B 表现出色，但默认推理强度过高导致过度思考",
-    "summary": "阿里 Qwen 实验室发布 Apache 2 许可的 27B 参数视觉大模型 Qwen 3.8 27B，官方基准显示其超越前代 Qwen 3.6 27B 及闭源 Qwen 3.7-Plus。",
-    "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b",
-    "published": "2026-08-16T22:00:39.000Z",
-    "source": "Simon Willison 博客",
+    "title": "设计 AI 评测：先求清晰，再谈可视化",
+    "summary": "本文演示如何用开源评测框架 Inspect AI 和 Harbor 评估 agent 技能，并借助 Google Sheets 和 Data Studio 进行可视化分析。",
+    "url": "https://dev.to/googleai/designing-ai-evals-clarity-now-and-visualization-next-4eii",
+    "published": "2026-08-18T07:00:00.000Z",
+    "source": "Google AI：DEV 作者专属（RSS）",
     "source_weight": "high",
     "category": "tip"
   },
   {
-    "title": "Vendo",
-    "summary": "<p>\n            Let your users build their own features inside your product\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/vendo?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1224529?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/vendo",
-    "published": "2026-08-16T15:13:45-07:00",
+    "title": "一个实用的深度思考Prompt：用\"双向钢人论证\"让AI帮你挖出最本质的答案",
+    "summary": "作者基于Reddit上\"让Claude真正开始思考\"的帖子，引入逻辑学中的\"钢人论证\"（steelman）概念，并自创了一个\"双向钢人Prompt\"。该Prompt通过重述真实问题、强化正反双方观点、找出关键变量、逼AI给出明确判断四步，旨在避免模型谄媚，帮助用户找到问题最本质的答案。作者以自己选择公司司庆日的真实案例演示了使用效果。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685329&idx=1&sn=9471278dc489641c097b228912965ed4",
+    "published": "2026-08-17T23:58:00.000Z",
+    "source": "公众号：数字生命卡兹克",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "用 Google 的 Agent Development Kit 构建零信任 AI 智能体",
+    "summary": "Google 开源了基于 ADK 和 Gemini 的零信任客服与退货智能体示例，演示如何防御提示注入等攻击。该架构在 LLM 上下文之外通过三层硬性安全机制保障：硬件支持的加密签名确保数据库写入不可抵赖、gVisor 沙箱隔离动态代码执行、确定性语义网关校验业务逻辑。系统提示词只是软约束，无法作为安全边界。",
+    "url": "https://developers.googleblog.com/build-zero-trust-ai-agents-with-googles-agent-development-kit",
+    "published": "2026-08-17T23:22:25.902Z",
+    "source": "Google Developers Blog（RSS）",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "Controller AI",
+    "summary": "<p>\n            Build deterministic agents that actually follow your process\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/insight-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1225574?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/insight-ai",
+    "published": "2026-08-17T22:58:52-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
+    "summary": "Cursor 今日起向所有付费计划用户开放 Origin 代码托管的早期测试版，提供仓库、拉取请求、代码浏览及 GitHub 同步功能。用户可创建以 cursor.com/codebase/ 为前缀的仓库，或将 GitHub 仓库同步至 Origin，双向同步评论与审查。Vercel、Depot 和 Buildkite 集成已可用，智能体功能即将推出。",
+    "url": "https://cursor.com/changelog/origin-code-hosting",
+    "published": "2026-08-17T22:14:00.748Z",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "Shepherd Terminal",
+    "summary": "<p>\n            A persistent terminal for Codex and Claude side by side\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/shepherd-terminal-designed-for-agent?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1225417?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/shepherd-terminal-designed-for-agent",
+    "published": "2026-08-17T15:56:18-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "inclusionAI 开源 ConceptEdit：基于概念缩放与密集监督的图像编辑数据生成管线",
+    "summary": "蚂蚁集团 inclusionAI 开源 ConceptEdit，一个基于概念缩放与密集监督的图像编辑数据生成管线。该管线通过三阶段流程（VLM 生成指令、FLUX 执行编辑、VQA 评估筛选）构建大规模、基于分类法的图像编辑数据集，并提供单概念与多概念两种变体。项目采用 MIT 许可证，支持断点续跑，需 OpenAI 兼容 VLM 端点与本地 FLUX 检查点。",
+    "url": "https://github.com/inclusionAI/ConceptEdit",
+    "published": "2026-08-17T07:22:08.000Z",
+    "source": "蚂蚁 inclusionAI：GitHub 新仓库",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "ElevenLabs MCP in Claude",
+    "summary": "<p>\n            Create and manage ElevenLabs voice agents in your chat\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/elevenlabs-mcp-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1225074?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/elevenlabs-mcp-2",
+    "published": "2026-08-17T07:15:56-07:00",
     "source": "Product Hunt",
     "source_weight": "high",
     "category": "ai_tech"
@@ -72,31 +117,22 @@
     "category": "industry"
   },
   {
-    "title": "通义千问开源 Qwen3.8 系列模型",
-    "summary": "通义千问兑现承诺，开源 Qwen3.8 系列模型。其中 Qwen3.8-27B 为原生多模态稠密模型，仅 27B 参数即全面超越 Qwen3.7-Plus，原生支持 262K 上下文，可通过 YaRN 扩展至 1M tokens，采用 Apache 2.0 许可。Max 级 Qwen3.8-2.4T-A95B 的开放权重也已同步发布。",
-    "url": "https://x.com/Alibaba_Qwen/status/2088280182356611304",
-    "published": "2026-08-14T15:02:48.000Z",
-    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "Cursor 正式被 SpaceX 收购",
-    "summary": "Cursor 已被 SpaceX 正式收购，完成自 4 月启动的收购流程。合并后 Cursor 将获得全球最大 GPU 集群，以构建更强且运行成本更低的模型，从而以更低价格向客户提供更强大的模型。本周三发布的 Grok 4.6 是双方合作成果的早期体现。",
-    "url": "https://cursor.com/blog/joining-spacex",
-    "published": "2026-08-14T12:00:00.000Z",
-    "source": "Cursor Blog",
-    "source_weight": "high",
-    "category": "industry"
-  },
-  {
-    "title": "Building Tactile UX: Honoring Intentional Design With Lottie",
-    "summary": "When tasked with building a highly interactive, tactile web experience, the architecture must serve the art direction. In this article, Alexey Kopytin explains their architectural rationale for building a digital stress-relief squeeze toy game using Lottie animations, DOM events, and distance-based math to maintain absolute control over their designers’ intentional motion.",
-    "url": "https://smashingmagazine.com/2026/08/building-tactile-ux-honoring-intentional-design-lottie/",
-    "published": "Tue, 11 Aug 2026 10:00:00 GMT",
-    "source": "Smashing Magazine",
+    "title": "How we migrated lovable.dev away from Next.js and turned it into another Lovable app",
+    "summary": "42M monthly visitors, 400 routes and 850K lines of code moved from Next.js on Vercel to TanStack Start on Lovable—route by route, mostly by agents, with one 11-minute incident along the way.",
+    "url": "https://lovable.dev/blog/how-we-migrated-lovable-dev-away-from-nextjs",
+    "published": "Tue, 18 Aug 2026 09:00:00 GMT",
+    "source": "Lovable Blog",
     "source_weight": "medium",
-    "category": "design_communities"
+    "category": "design_tools"
+  },
+  {
+    "title": "MCP 101: What it is and how it works in Lovable",
+    "summary": "A breakdown of what MCP is and three ways we use it in Lovable.",
+    "url": "https://lovable.dev/blog/mcp-101",
+    "published": "Tue, 18 Aug 2026 03:35:00 GMT",
+    "source": "Lovable Blog",
+    "source_weight": "medium",
+    "category": "design_tools"
   },
   {
     "title": "Rethinking design leadership with swarms and flocks",
