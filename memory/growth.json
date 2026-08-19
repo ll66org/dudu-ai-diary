@@ -1,5 +1,5 @@
 {
-  "day_count": 117,
+  "day_count": 118,
   "history": [
     {
       "day": 20,
@@ -657,6 +657,13 @@
       "date": "2026-08-18",
       "topic": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护",
       "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "mode": "rss"
+    },
+    {
+      "day": 118,
+      "date": "2026-08-19",
+      "topic": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
+      "source": "公众号：智谱（GLM）",
       "mode": "rss"
     }
   ],

@@ -1,39 +1,75 @@
 [
   {
-    "title": "Wound/wait deadlock-proof mutex design",
-    "summary": "<p>Article URL: <a href=\"https://www.kernel.org/doc/html/latest/locking/ww-mutex-design.html\">https://www.kernel.org/doc/html/latest/locking/ww-mutex-design.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49344048\">https://news.ycombinator.com/item?id=49344048</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://www.kernel.org/doc/html/latest/locking/ww-mutex-design.html",
-    "published": "Tue, 18 Aug 2026 11:19:58 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "AI automation: Lock in payroll savings or reinvest capacity into growth",
-    "summary": "<p>Article URL: <a href=\"https://urnicus.com/blog/the-quiet-cost/\">https://urnicus.com/blog/the-quiet-cost/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49343598\">https://news.ycombinator.com/item?id=49343598</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
-    "url": "https://urnicus.com/blog/the-quiet-cost/",
-    "published": "Tue, 18 Aug 2026 10:18:49 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Arctype – An AI workspace that builds documents, apps, and handles email",
-    "summary": "<p>Article URL: <a href=\"https://arctype.org/\">https://arctype.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49343205\">https://news.ycombinator.com/item?id=49343205</a></p>\n<p>Points: 2</p>\n<p># Comments: 1</p>",
-    "url": "https://arctype.org/",
-    "published": "Tue, 18 Aug 2026 09:07:44 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护",
-    "summary": "OpenAI 发布 ChatGPT for Teens，为 13-17 岁用户自动启用，内置更强安全保护与家长控制。新增 Study Mode、负责任作业提醒、测验与学习可视化，以及可设定默认开启时段的 Study Hours，引导青少年分步解题而非直接给答案。OpenAI 同时宣布与 CodeAI 合作，帮助青少年理解、质疑并创造性地使用 AI。",
-    "url": "https://openai.com/index/chatgpt-for-teens",
-    "published": "2026-08-18T11:00:00.000Z",
-    "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+    "title": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
+    "summary": "GLM-5.3 API即日上线，擅长复杂编码、防御性网络安全与长程任务，在AA综合智能指数中取得60分，与Claude Fable 5、GPT-5.6 Sol等闭源旗舰同级，并与Kimi K3并列开源模型第一。该模型以更小参数规模和更低调用成本降低前沿智能门槛，单任务成本为旗舰模型中最低。API定价与GLM-5.2持平，模型权重将于下周五开源。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494105&idx=1&sn=8d7409e0fb846a3c7803c142b5d1a8e7",
+    "published": "2026-08-19T01:03:29.000Z",
+    "source": "公众号：智谱（GLM）",
     "source_weight": "high",
     "category": "ai-products"
+  },
+  {
+    "title": "Claude Watermark",
+    "summary": "<p>\n            Find and remove every trace AI leaves in your text\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/claude-watermark?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1226478?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/claude-watermark",
+    "published": "2026-08-18T23:46:06-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Claude 如何加速蛋白质设计与分析化学研究",
+    "summary": "Anthropic 公布两项实验：Claude（Mythos Preview 和 Opus 4.8）针对 15 个靶点设计蛋白质结合剂，成功 14 个，命中率达 22.6%-35.1%。",
+    "url": "https://www.anthropic.com/research/Claude-accelerates-protein-design",
+    "published": "2026-08-18T22:27:16.191Z",
+    "source": "Anthropic：Research（发表成果 · 网页）",
+    "source_weight": "high",
+    "category": "paper"
+  },
+  {
+    "title": "Fairphone Gen 6+",
+    "summary": "<p>\n            A modular phone built to last through 2033\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/fairphone?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1226377?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/fairphone",
+    "published": "2026-08-18T21:10:09-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Claude 现已支持 Gmail 邮件与 Google Drive 文件管理",
+    "summary": "Claude 现在可以在 Gmail 中发送邮件，并管理 Google Drive 中的文件。\n\n让 Claude 回复某个邮件线程，它会起草并发送回复。你可以控制何时需要你的批准。\n\n从连接器菜单中选择连接 Gmail 或 Google Drive 即可试用。所有付费套餐均可用。",
+    "url": "https://x.com/claudeai/status/2089806039088517356",
+    "published": "2026-08-18T20:06:01.000Z",
+    "source": "X：Claude (@claudeai)",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "Claude Tag 如何担任 Anthropic CI/CD 故障的一线响应者",
+    "summary": "Anthropic 的 CI 工程师用 Claude Tag 构建了值班智能体，作为 CI/CD 故障的一线响应者。Claude 在事故发生后中位 14 分钟发布首份基于证据的分析，最快案例中 3 分钟内验证修复并确认错误率恢复基线。该方案通过 Slack 频道、Datadog 或 Grafana 工具访问及 GitHub 技能文件实现，Anthropic 已发布通用设置套件供其他团队部署。",
+    "url": "https://claude.com/blog/ai-ci-cd-on-call",
+    "published": "2026-08-18T19:26:08.389Z",
+    "source": "Claude：Blog（网页）",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "Balsa UI",
+    "summary": "<p>\n            Create design systems, build with agents\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/balsa-ui?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1226289?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/balsa-ui",
+    "published": "2026-08-18T16:54:45-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Cherry Blossom",
+    "summary": "<p>\n            Build Fab-ready Custom PCBs with one prompt\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/cherry-blossom?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1226192?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/cherry-blossom",
+    "published": "2026-08-18T13:02:14-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
   },
   {
     "title": "设计 AI 评测：先求清晰，再谈可视化",
@@ -43,6 +79,24 @@
     "source": "Google AI：DEV 作者专属（RSS）",
     "source_weight": "high",
     "category": "tip"
+  },
+  {
+    "title": "Origin by Cursor",
+    "summary": "<p>\n            The Git forge built for the age of coding agents\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/cursor?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1225966?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/cursor",
+    "published": "2026-08-18T06:58:25-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型",
+    "summary": "Sentence Transformers v6.0 新增第四种模型类型 MultiVectorEncoder，可直接加载 PyLate、Stanford-NLP ColBERT 及 colpali-engine 检查点，用于 ColBERT 式晚期交互检索。",
+    "url": "https://huggingface.co/blog/multi-vector-encoder",
+    "published": "2026-08-18T00:00:00.000Z",
+    "source": "Hugging Face：Blog（RSS）",
+    "source_weight": "high",
+    "category": "ai-products"
   },
   {
     "title": "一个实用的深度思考Prompt：用\"双向钢人论证\"让AI帮你挖出最本质的答案",
@@ -63,15 +117,6 @@
     "category": "tip"
   },
   {
-    "title": "Controller AI",
-    "summary": "<p>\n            Build deterministic agents that actually follow your process\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/insight-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1225574?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/insight-ai",
-    "published": "2026-08-17T22:58:52-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
     "title": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
     "summary": "Cursor 今日起向所有付费计划用户开放 Origin 代码托管的早期测试版，提供仓库、拉取请求、代码浏览及 GitHub 同步功能。用户可创建以 cursor.com/codebase/ 为前缀的仓库，或将 GitHub 仓库同步至 Origin，双向同步评论与审查。Vercel、Depot 和 Buildkite 集成已可用，智能体功能即将推出。",
     "url": "https://cursor.com/changelog/origin-code-hosting",
@@ -79,15 +124,6 @@
     "source": "Hacker News 热门（buzzing.cc 中文翻译）",
     "source_weight": "high",
     "category": "ai-products"
-  },
-  {
-    "title": "Shepherd Terminal",
-    "summary": "<p>\n            A persistent terminal for Codex and Claude side by side\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/shepherd-terminal-designed-for-agent?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1225417?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/shepherd-terminal-designed-for-agent",
-    "published": "2026-08-17T15:56:18-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
   },
   {
     "title": "inclusionAI 开源 ConceptEdit：基于概念缩放与密集监督的图像编辑数据生成管线",
@@ -99,64 +135,55 @@
     "category": "ai-products"
   },
   {
-    "title": "ElevenLabs MCP in Claude",
-    "summary": "<p>\n            Create and manage ElevenLabs voice agents in your chat\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/elevenlabs-mcp-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1225074?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/elevenlabs-mcp-2",
-    "published": "2026-08-17T07:15:56-07:00",
-    "source": "Product Hunt",
+    "title": "Chat SDK adds Instagram adapter",
+    "summary": "<p>You can now build bots for Instagram with the new <a href=\"https://chat-sdk.dev/adapters/official/instagram\">Instagram adapter</a> for Chat SDK.</p><p>Bots can send and receive DMs and media, render cards as quick replies and link buttons, show typing indicators, receive reactions, and handle story replies.</p><div></div><p>The adapter connects through Meta's Instagram Messaging API and requires a professional Business or Creator account.</p><p>Messages are buffered, so streamed responses sen",
+    "url": "https://vercel.com/changelog/chat-sdk-adds-instagram-adapter",
+    "published": "",
+    "source": "Vercel Blog (v0)",
     "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Cursor 正式被 SpaceX 收购",
-    "summary": "Cursor 已被 SpaceX 正式收购，完成自 4 月启动的收购流程。借助 SpaceX 全球最大规模的 GPU 集群，Cursor 将构建更强且运行成本更低的模型，并以更低价格向客户提供更强大的模型。本周三发布的 Grok 4.6 是双方合作成果的早期体现。",
-    "url": "https://cursor.com/blog/joining-spacex",
-    "published": "2026-08-15T20:05:54.703Z",
-    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-    "source_weight": "high",
-    "category": "industry"
-  },
-  {
-    "title": "How we migrated lovable.dev away from Next.js and turned it into another Lovable app",
-    "summary": "42M monthly visitors, 400 routes and 850K lines of code moved from Next.js on Vercel to TanStack Start on Lovable—route by route, mostly by agents, with one 11-minute incident along the way.",
-    "url": "https://lovable.dev/blog/how-we-migrated-lovable-dev-away-from-nextjs",
-    "published": "Tue, 18 Aug 2026 09:00:00 GMT",
-    "source": "Lovable Blog",
-    "source_weight": "medium",
     "category": "design_tools"
   },
   {
-    "title": "MCP 101: What it is and how it works in Lovable",
-    "summary": "A breakdown of what MCP is and three ways we use it in Lovable.",
-    "url": "https://lovable.dev/blog/mcp-101",
-    "published": "Tue, 18 Aug 2026 03:35:00 GMT",
-    "source": "Lovable Blog",
-    "source_weight": "medium",
+    "title": "Vercel for Platforms can now deploy from your users' GitHub repositories",
+    "summary": "<p>Teams building on <a href=\"https://vercel.com/docs/platforms\">Vercel for Platforms</a> can now create deployments directly from their users' GitHub repositories, without requiring them to install the Vercel GitHub App. When <a href=\"https://vercel.com/docs/rest-api/reference/endpoints/deployments/create-a-new-deployment\">creating a deployment</a>, pass a <code>gitAccessToken</code> alongside <code>gitSource</code>. Vercel uses the token to retrieve the source and build the deployment.</p><p>T",
+    "url": "https://vercel.com/changelog/vercel-for-platforms-can-now-deploy-from-your-users-github-repositories",
+    "published": "",
+    "source": "Vercel Blog (v0)",
+    "source_weight": "high",
     "category": "design_tools"
   },
   {
-    "title": "Rethinking design leadership with swarms and flocks",
-    "summary": "<h4>How structured emergence solves manager burnout, team bottlenecks, and systemic design debt</h4><figure><img alt=\"Observing the flock based on how individual biological behaviors aggregate into structured group intelligence (image source: Asa Leonard)\" src=\"https://cdn-images-1.medium.com/max/1024/0*MYZe9Xn4c2bYGWYy.png\" /><figcaption>Observing the flock based on how individual biological behaviors aggregate into structured group intelligence (image source: <a href=\"https://cedarcreeknaturen",
-    "url": "https://uxdesign.cc/rethinking-design-leadership-with-swarms-and-flocks-9298db8c59d2?source=rss----138adf9c44c---4",
-    "published": "Thu, 13 Aug 2026 22:18:13 GMT",
+    "title": "$1 million hacker challenge for Vercel Sandbox",
+    "summary": "<p>Agents need to run untrusted code, and the microVM has become the standard way to do it: a dedicated guest kernel per workload, isolated from the host and from every other workload on the same machine. </p><p>But recent security research and real-world incidents have revealed that agents running untrusted code do not need to cross a VM boundary to escape containment; they only need one network path the security model failed to account for, which we explained in our post <a href=\"https://verce",
+    "url": "https://vercel.com/blog/one-million-dollar-hacker-challenge-for-vercel-sandbox",
+    "published": "",
+    "source": "Vercel Blog (v0)",
+    "source_weight": "high",
+    "category": "design_tools"
+  },
+  {
+    "title": "Is the future of software certain once AI is everywhere?",
+    "summary": "<h4>Extinction is the wrong lens. Evolution is the right one.</h4><figure><img alt=\"Cover Illustration for an article titled “Is the future of software certain once AI is everywhere?”. Four AI robots stand around a broken laptop with X-shaped eyes, scattered debris, a skull, and a gravestone reading “RIP Software.” The image visualizes the debate about whether AI will replace traditional software.\" src=\"https://cdn-images-1.medium.com/max/1024/1*S9Babiz8jzdfqAKTlQlaag.png\" /></figure><p>In Augus",
+    "url": "https://uxdesign.cc/is-the-future-of-software-certain-once-ai-is-everywhere-f93e1bc5697f?source=rss----138adf9c44c---4",
+    "published": "Wed, 19 Aug 2026 09:26:12 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
   },
   {
-    "title": "What Star Wars got wrong about AI (so far)",
-    "summary": "<figure><img alt=\"Two generations learned what a thinking machine looks like from a production line of individuals. The picture did not hold.\" src=\"https://cdn-images-1.medium.com/max/1024/1*QQJugqv1amAjrmEtCW5ZYA.png\" /><figcaption>Two generations learned what a thinking machine looks like from a production line of individuals and the picture is not holding. AI assisted.</figcaption></figure><h4><em>The saga imagined thinking machines as immortal individuals in metal bodies. Real AI showed up a",
-    "url": "https://uxdesign.cc/what-star-wars-got-wrong-about-ai-so-far-227472bd24ea?source=rss----138adf9c44c---4",
-    "published": "Thu, 13 Aug 2026 22:17:13 GMT",
+    "title": "What The Matrix got right about AI",
+    "summary": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*0Oq1k5xQnH5uULrX58MU3g.png\" /><figcaption>The famous choice was never about the pills, it was about whether to see the system at all. AI assisted.</figcaption></figure><h4>More Than 25 Years On, The First Film’s Picture Of Machine Intelligence Reads Less Like Science Fiction And More Like A Product Roadmap</h4><p><em>The Matrix </em>arrived in 1999 wearing sunglasses and a trench coat, and most people filed it under cool action ",
+    "url": "https://uxdesign.cc/what-the-matrix-got-right-about-ai-c741b38dca68?source=rss----138adf9c44c---4",
+    "published": "Tue, 18 Aug 2026 21:43:01 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
   },
   {
-    "title": "Framer is killing the marketplace… or are they?",
-    "summary": "<h4>10 controversies and a brief history of the Framer marketplace</h4><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*mZTmhHm2OZffI-KBiQ5jhg.png\" /></figure><p><em>Full disclosure, I do not work at Framer, nor do I have any affiliation with them. I’m just a regular creator who has been in the space for a while and watched the evolution unfold in real time.</em></p><p>I sold my first Framer template in April 2023. That was over 3 years ago. I’ve been in the Framer space since",
-    "url": "https://uxdesign.cc/framer-is-killing-the-marketplace-or-are-they-cc96a67763b3?source=rss----138adf9c44c---4",
-    "published": "Thu, 13 Aug 2026 22:16:40 GMT",
+    "title": "How to experiment when designing in a regulated field like Healthcare",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/how-to-experiment-when-designing-in-a-regulated-field-like-healthcare-64fca3bb7655?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*7jHOyZSPQj-eemyK6vDdBw.jpeg\" width=\"4608\" /></a></p><p class=\"medium-feed-snippet\">You can&#x2019;t vibe code your way through HIPAA violations</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/how-to-experiment-when-designing-in-a-reg",
+    "url": "https://uxdesign.cc/how-to-experiment-when-designing-in-a-regulated-field-like-healthcare-64fca3bb7655?source=rss----138adf9c44c---4",
+    "published": "Tue, 18 Aug 2026 21:41:12 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
@@ -195,33 +222,6 @@
     "published": "Sat, 15 Aug 2026 13:15:07 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Rethinking leadership, Judgment as bottleneck, Ethical UX for machines",
-    "summary": "<h4>Weekly curated resources for designers — thinkers and makers.</h4><figure><a href=\"https://uxdesign.cc/rethinking-design-leadership-with-swarms-and-flocks-9298db8c59d2\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/0*n1q2BNwJWNmCEciK.png\" /></a></figure><p>“Design leadership is currently suffering from a bad case of mechanical thinking. We talk endlessly about cross-functional alignment, product development and operations, and predicting roadmaps. But mechanical systems are britt",
-    "url": "https://uxdesign.cc/rethinking-leadership-judgment-as-bottleneck-ethical-ux-for-machines-5927df9a399e?source=rss----138adf9c44c---4",
-    "published": "Mon, 17 Aug 2026 11:23:18 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "AI adoption and the slow erosion of design idealism",
-    "summary": "<h4>How years of client work, deadlines, and professional practice reshape a designer’s relationship with emerging technology.</h4><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/0*2F5T3iNd9kt_Mq0q\" /><figcaption>Photo by <a href=\"https://unsplash.com/@korner_kosmos?utm_source=medium&amp;utm_medium=referral\">K. K.</a> on <a href=\"https://unsplash.com?utm_source=medium&amp;utm_medium=referral\">Unsplash</a></figcaption></figure><p>I was having lunch with a couple of friends the o",
-    "url": "https://uxdesign.cc/ai-adoption-and-the-slow-erosion-of-design-idealism-fab75761ebd6?source=rss----138adf9c44c---4",
-    "published": "Mon, 17 Aug 2026 07:37:27 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "What’s !important #17: Custom Highlight API, CSS Navigation Matching, Fixing text-stroke, and More",
-    "summary": "<p>Plus, how to style skeleton UIs, how to enable diagonal scrolling, how images can overflow themselves, and yet, still more. Basically, how to do a lot of really cool (CSS) stuff.</p>\n<hr />\n<p><small><a href=\"https://css-tricks.com/whats-important-17/\" rel=\"nofollow\">What’s !important #17: Custom Highlight API, CSS Navigation Matching, Fixing text-stroke, and More</a> originally handwritten and published with love on <a href=\"https://css-tricks.com\" rel=\"nofollow\">CSS-Tricks</a>. You should r",
-    "url": "https://css-tricks.com/whats-important-17/",
-    "published": "Fri, 14 Aug 2026 14:01:51 +0000",
-    "source": "CSS-Tricks",
-    "source_weight": "low",
     "category": "design_communities"
   }
 ]

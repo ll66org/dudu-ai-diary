@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-18T11:53:55.553892Z",
+  "fetched_at": "2026-08-19T11:56:38.089524Z",
   "total_candidates": 25,
   "source_stats": {
     "Figma Blog": {
@@ -7,8 +7,8 @@
       "total": 0
     },
     "Vercel Blog (v0)": {
-      "found": 0,
-      "total": 1473
+      "found": 3,
+      "total": 1480
     },
     "Cursor Changelog": {
       "found": 0,
@@ -23,7 +23,7 @@
       "total": 0
     },
     "Lovable Blog": {
-      "found": 2,
+      "found": 0,
       "total": 149
     },
     "Bolt (StackBlitz) Blog": {
@@ -51,11 +51,11 @@
       "total": 20
     },
     "Hacker News (设计向)": {
-      "found": 3,
-      "total": 20
+      "found": 0,
+      "total": 0
     },
     "Product Hunt": {
-      "found": 3,
+      "found": 6,
       "total": 50
     },
     "Designer News (AI Design)": {
@@ -64,27 +64,27 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 117,
-  "today_date": "2026-08-18",
+  "dudu_day": 118,
+  "today_date": "2026-08-19",
   "used_titles": [
-    "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
     "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
     "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
     "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
     "Claude 文本水印机制如何运作",
     "新兴多智能体系统的模式与问题",
-    "Qwen 3.8 27B 表现出色，但默认推理强度过高导致过度思考"
+    "Qwen 3.8 27B 表现出色，但默认推理强度过高导致过度思考",
+    "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护"
   ],
   "used_tools": [
-    "公众号：智谱（GLM）",
     "IT之家（RSS）",
     "公众号：数字生命卡兹克",
     "公众号：小红书技术（dots.llm）",
     "Anthropic：Newsroom（网页）",
     "Hacker News 热门（buzzing.cc 中文翻译）",
-    "Simon Willison 博客"
+    "Simon Willison 博客",
+    "OpenAI：官网动态（RSS · 排除企业/客户案例）"
   ],
-  "briefing_total": 16,
-  "briefing_design": 9,
+  "briefing_total": 23,
+  "briefing_design": 12,
   "briefing_count": 5
 }
