@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-19T11:56:38.089524Z",
+  "fetched_at": "2026-08-20T11:55:29.451757Z",
   "total_candidates": 25,
   "source_stats": {
     "Figma Blog": {
@@ -7,8 +7,8 @@
       "total": 0
     },
     "Vercel Blog (v0)": {
-      "found": 3,
-      "total": 1480
+      "found": 0,
+      "total": 1486
     },
     "Cursor Changelog": {
       "found": 0,
@@ -31,11 +31,11 @@
       "total": 66
     },
     "Smashing Magazine": {
-      "found": 1,
+      "found": 0,
       "total": 40
     },
     "UX Collective": {
-      "found": 8,
+      "found": 7,
       "total": 10
     },
     "Designer News": {
@@ -43,7 +43,7 @@
       "total": 0
     },
     "CSS-Tricks": {
-      "found": 1,
+      "found": 2,
       "total": 15
     },
     "A List Apart": {
@@ -51,11 +51,11 @@
       "total": 20
     },
     "Hacker News (设计向)": {
-      "found": 0,
-      "total": 0
+      "found": 3,
+      "total": 20
     },
     "Product Hunt": {
-      "found": 6,
+      "found": 4,
       "total": 50
     },
     "Designer News (AI Design)": {
@@ -64,27 +64,27 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 118,
-  "today_date": "2026-08-19",
+  "dudu_day": 119,
+  "today_date": "2026-08-20",
   "used_titles": [
-    "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
     "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
     "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
     "Claude 文本水印机制如何运作",
     "新兴多智能体系统的模式与问题",
     "Qwen 3.8 27B 表现出色，但默认推理强度过高导致过度思考",
-    "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护"
+    "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护",
+    "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低"
   ],
   "used_tools": [
-    "IT之家（RSS）",
     "公众号：数字生命卡兹克",
     "公众号：小红书技术（dots.llm）",
     "Anthropic：Newsroom（网页）",
     "Hacker News 热门（buzzing.cc 中文翻译）",
     "Simon Willison 博客",
-    "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+    "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+    "公众号：智谱（GLM）"
   ],
-  "briefing_total": 23,
-  "briefing_design": 12,
+  "briefing_total": 25,
+  "briefing_design": 13,
   "briefing_count": 5
 }

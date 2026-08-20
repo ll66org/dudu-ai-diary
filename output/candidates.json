@@ -1,39 +1,93 @@
 [
   {
-    "title": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
-    "summary": "GLM-5.3 API即日上线，擅长复杂编码、防御性网络安全与长程任务，在AA综合智能指数中取得60分，与Claude Fable 5、GPT-5.6 Sol等闭源旗舰同级，并与Kimi K3并列开源模型第一。该模型以更小参数规模和更低调用成本降低前沿智能门槛，单任务成本为旗舰模型中最低。API定价与GLM-5.2持平，模型权重将于下周五开源。",
-    "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494105&idx=1&sn=8d7409e0fb846a3c7803c142b5d1a8e7",
-    "published": "2026-08-19T01:03:29.000Z",
-    "source": "公众号：智谱（GLM）",
+    "title": "Survey of 106 European design engineers on what would make them change jobs",
+    "summary": "<p>Article URL: <a href=\"https://hymera.co/research-what-makes-a-design-engineer-leave-their-job\">https://hymera.co/research-what-makes-a-design-engineer-leave-their-job</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49373170\">https://news.ycombinator.com/item?id=49373170</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "url": "https://hymera.co/research-what-makes-a-design-engineer-leave-their-job",
+    "published": "Thu, 20 Aug 2026 11:29:32 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Nutrition standards for AI-designed foods across borders",
+    "summary": "<p>Article URL: <a href=\"https://www.worldsolve.org/?view=problem&amp;id=5047\">https://www.worldsolve.org/?view=problem&amp;id=5047</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49372218\">https://news.ycombinator.com/item?id=49372218</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "url": "https://www.worldsolve.org/?view=problem&id=5047",
+    "published": "Thu, 20 Aug 2026 09:13:06 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Show HN: Editor UI toolkit for building AI writing workflows",
+    "summary": "<p>Article URL: <a href=\"https://imperavi.com/redactor/ai-assistant/\">https://imperavi.com/redactor/ai-assistant/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49372193\">https://news.ycombinator.com/item?id=49372193</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://imperavi.com/redactor/ai-assistant/",
+    "published": "Thu, 20 Aug 2026 09:09:31 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "阿里发布 Qwen-UI-Agent，主打让模型真正\"会用\"每一块屏幕",
+    "summary": "阿里巴巴正式推出 Qwen-UI-Agent，一个以真实世界为中心的 GUI 智能体基座模型，覆盖移动端、电脑端、网页端及深度搜索（DeepSearch）环境。",
+    "url": "https://www.ithome.com/0/992/239.htm",
+    "published": "2026-08-20T09:45:51.000Z",
+    "source": "IT之家（RSS）",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "ProtoNote",
+    "summary": "<p>\n            Share AI-built prototypes, get feedback pinned to the page\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/protonote?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1227394?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/protonote",
+    "published": "2026-08-19T23:59:05-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "MiniMax Design",
+    "summary": "<p>\n            Your own agent team for open-ended creation\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/minimax?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1227288?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/minimax",
+    "published": "2026-08-19T21:06:04-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "FastMetal 让 Mac 本地 30 秒生成视频",
+    "summary": "一段 5 秒 480P 视频，完全在 Mac 上生成，耗时 30 秒。无需 CUDA，无需云端，仅占用 3.9 GiB 内存。\n\nFastMetal 将 FastWan-QAD 系列带到 Apple Silicon。DiT、DMD 采样器和解码器均通过 MLX 在 Metal 上运行，默认 INT8。\n\n三个模型：1.3B 支持 480P，5B 支持 720P，14B 追求画质。\n\n📷 博客：http://haoailab.com/blogs/fastmetal 📷 代码：http://github.com/hao-ai-lab/FastVideo 📷 模型：http://huggingface.co/collections/FastVideo/fastmetal",
+    "url": "https://x.com/haoailab/status/2090177721913770407",
+    "published": "2026-08-19T20:42:57.000Z",
+    "source": "X：Sky Computing Lab (@haoailab)",
     "source_weight": "high",
     "category": "ai-products"
   },
   {
-    "title": "Claude Watermark",
-    "summary": "<p>\n            Find and remove every trace AI leaves in your text\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/claude-watermark?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1226478?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/claude-watermark",
-    "published": "2026-08-18T23:46:06-07:00",
+    "title": "Shape",
+    "summary": "<p>\n            The agentic IDE for designers and programmers\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/shape-5?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1227189?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/shape-5",
+    "published": "2026-08-19T16:56:11-07:00",
     "source": "Product Hunt",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Claude 如何加速蛋白质设计与分析化学研究",
-    "summary": "Anthropic 公布两项实验：Claude（Mythos Preview 和 Opus 4.8）针对 15 个靶点设计蛋白质结合剂，成功 14 个，命中率达 22.6%-35.1%。",
-    "url": "https://www.anthropic.com/research/Claude-accelerates-protein-design",
-    "published": "2026-08-18T22:27:16.191Z",
-    "source": "Anthropic：Research（发表成果 · 网页）",
-    "source_weight": "high",
-    "category": "paper"
-  },
-  {
-    "title": "Fairphone Gen 6+",
-    "summary": "<p>\n            A modular phone built to last through 2033\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/fairphone?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1226377?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/fairphone",
-    "published": "2026-08-18T21:10:09-07:00",
+    "title": "Prized",
+    "summary": "<p>\n            Let non-engineers build secure internal tools \n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/prized?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1227170?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/prized",
+    "published": "2026-08-19T15:38:09-07:00",
     "source": "Product Hunt",
     "source_weight": "high",
     "category": "ai_tech"
+  },
+  {
+    "title": "Liquid AI 发布 LFM2.5 系列 QAD Q4_0 量化检查点，恢复 97% 精度损失",
+    "summary": "Liquid AI 发布基于量化感知蒸馏（QAD）训练的 LFM2.5-230M、350M、1.2B-Instruct 和 2.6B 四款 Q4_0 GGUF 检查点，在保持原生 Q4_0 内存与速度的同时，恢复 BF16 平均精度损失的 97%。",
+    "url": "https://huggingface.co/blog/LiquidAI/qad",
+    "published": "2026-08-19T13:48:49.000Z",
+    "source": "Hugging Face：Blog（RSS）",
+    "source_weight": "high",
+    "category": "ai-models"
   },
   {
     "title": "Claude 现已支持 Gmail 邮件与 Google Drive 文件管理",
@@ -45,33 +99,6 @@
     "category": "ai-products"
   },
   {
-    "title": "Claude Tag 如何担任 Anthropic CI/CD 故障的一线响应者",
-    "summary": "Anthropic 的 CI 工程师用 Claude Tag 构建了值班智能体，作为 CI/CD 故障的一线响应者。Claude 在事故发生后中位 14 分钟发布首份基于证据的分析，最快案例中 3 分钟内验证修复并确认错误率恢复基线。该方案通过 Slack 频道、Datadog 或 Grafana 工具访问及 GitHub 技能文件实现，Anthropic 已发布通用设置套件供其他团队部署。",
-    "url": "https://claude.com/blog/ai-ci-cd-on-call",
-    "published": "2026-08-18T19:26:08.389Z",
-    "source": "Claude：Blog（网页）",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "Balsa UI",
-    "summary": "<p>\n            Create design systems, build with agents\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/balsa-ui?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1226289?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/balsa-ui",
-    "published": "2026-08-18T16:54:45-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Cherry Blossom",
-    "summary": "<p>\n            Build Fab-ready Custom PCBs with one prompt\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/cherry-blossom?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1226192?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/cherry-blossom",
-    "published": "2026-08-18T13:02:14-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
     "title": "设计 AI 评测：先求清晰，再谈可视化",
     "summary": "本文演示如何用开源评测框架 Inspect AI 和 Harbor 评估 agent 技能，并借助 Google Sheets 和 Data Studio 进行可视化分析。",
     "url": "https://dev.to/googleai/designing-ai-evals-clarity-now-and-visualization-next-4eii",
@@ -79,15 +106,6 @@
     "source": "Google AI：DEV 作者专属（RSS）",
     "source_weight": "high",
     "category": "tip"
-  },
-  {
-    "title": "Origin by Cursor",
-    "summary": "<p>\n            The Git forge built for the age of coding agents\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/cursor?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1225966?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/cursor",
-    "published": "2026-08-18T06:58:25-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
   },
   {
     "title": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型",
@@ -126,40 +144,31 @@
     "category": "ai-products"
   },
   {
-    "title": "inclusionAI 开源 ConceptEdit：基于概念缩放与密集监督的图像编辑数据生成管线",
-    "summary": "蚂蚁集团 inclusionAI 开源 ConceptEdit，一个基于概念缩放与密集监督的图像编辑数据生成管线。该管线通过三阶段流程（VLM 生成指令、FLUX 执行编辑、VQA 评估筛选）构建大规模、基于分类法的图像编辑数据集，并提供单概念与多概念两种变体。项目采用 MIT 许可证，支持断点续跑，需 OpenAI 兼容 VLM 端点与本地 FLUX 检查点。",
-    "url": "https://github.com/inclusionAI/ConceptEdit",
-    "published": "2026-08-17T07:22:08.000Z",
-    "source": "蚂蚁 inclusionAI：GitHub 新仓库",
+    "title": "Claude 如何加速蛋白质设计与分析化学研究",
+    "summary": "Anthropic 公布两项实验：Claude（Mythos Preview 和 Opus 4.8）针对 15 个靶点设计蛋白质结合剂，成功 14 个，命中率达 22.6%-35.1%。",
+    "url": "https://www.anthropic.com/research/Claude-accelerates-protein-design",
+    "published": "2026-08-17T16:00:00.000Z",
+    "source": "Anthropic：Research（发表成果 · 网页）",
     "source_weight": "high",
-    "category": "ai-products"
+    "category": "paper"
   },
   {
-    "title": "Chat SDK adds Instagram adapter",
-    "summary": "<p>You can now build bots for Instagram with the new <a href=\"https://chat-sdk.dev/adapters/official/instagram\">Instagram adapter</a> for Chat SDK.</p><p>Bots can send and receive DMs and media, render cards as quick replies and link buttons, show typing indicators, receive reactions, and handle story replies.</p><div></div><p>The adapter connects through Meta's Instagram Messaging API and requires a professional Business or Creator account.</p><p>Messages are buffered, so streamed responses sen",
-    "url": "https://vercel.com/changelog/chat-sdk-adds-instagram-adapter",
-    "published": "",
-    "source": "Vercel Blog (v0)",
+    "title": "Claude Tag 如何担任 Anthropic CI/CD 故障的一线响应者",
+    "summary": "Anthropic 的 CI 工程师用 Claude Tag 构建了值班智能体，作为 CI/CD 故障的一线响应者。Claude 在事故发生后中位 14 分钟发布首份基于证据的分析，最快案例中 3 分钟内验证修复并确认错误率恢复基线。该方案通过 Slack 频道、Datadog 或 Grafana 工具访问及 GitHub 技能文件实现，Anthropic 已发布通用设置套件供其他团队部署。",
+    "url": "https://claude.com/blog/ai-ci-cd-on-call",
+    "published": "2026-08-17T16:00:00.000Z",
+    "source": "Claude：Blog（网页）",
     "source_weight": "high",
-    "category": "design_tools"
+    "category": "tip"
   },
   {
-    "title": "Vercel for Platforms can now deploy from your users' GitHub repositories",
-    "summary": "<p>Teams building on <a href=\"https://vercel.com/docs/platforms\">Vercel for Platforms</a> can now create deployments directly from their users' GitHub repositories, without requiring them to install the Vercel GitHub App. When <a href=\"https://vercel.com/docs/rest-api/reference/endpoints/deployments/create-a-new-deployment\">creating a deployment</a>, pass a <code>gitAccessToken</code> alongside <code>gitSource</code>. Vercel uses the token to retrieve the source and build the deployment.</p><p>T",
-    "url": "https://vercel.com/changelog/vercel-for-platforms-can-now-deploy-from-your-users-github-repositories",
-    "published": "",
-    "source": "Vercel Blog (v0)",
-    "source_weight": "high",
-    "category": "design_tools"
-  },
-  {
-    "title": "$1 million hacker challenge for Vercel Sandbox",
-    "summary": "<p>Agents need to run untrusted code, and the microVM has become the standard way to do it: a dedicated guest kernel per workload, isolated from the host and from every other workload on the same machine. </p><p>But recent security research and real-world incidents have revealed that agents running untrusted code do not need to cross a VM boundary to escape containment; they only need one network path the security model failed to account for, which we explained in our post <a href=\"https://verce",
-    "url": "https://vercel.com/blog/one-million-dollar-hacker-challenge-for-vercel-sandbox",
-    "published": "",
-    "source": "Vercel Blog (v0)",
-    "source_weight": "high",
-    "category": "design_tools"
+    "title": "Why don’t we download airport apps?",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/why-dont-we-download-airport-apps-095c7be5a384?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*X2yZwPo3nWRFtGrx\" width=\"7360\" /></a></p><p class=\"medium-feed-snippet\">A billion passengers, millions of smartphones, and one stubborn question: do airports really need their own apps?</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/why-dont-we-download-airport-apps-0",
+    "url": "https://uxdesign.cc/why-dont-we-download-airport-apps-095c7be5a384?source=rss----138adf9c44c---4",
+    "published": "Wed, 19 Aug 2026 22:01:37 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
   },
   {
     "title": "Is the future of software certain once AI is everywhere?",
@@ -189,37 +198,28 @@
     "category": "design_communities"
   },
   {
-    "title": "New EU Guidelines For AI Labelling",
-    "summary": "New EU guidelines, why AI sparkles aren’t enough, when AI labels are required, and what the rules mean for AI-powered features and products.",
-    "url": "https://smashingmagazine.com/2026/08/eu-guidelines-ai-labelling/",
-    "published": "Thu, 13 Aug 2026 10:00:00 GMT",
-    "source": "Smashing Magazine",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "You already know how to make it accessible",
-    "summary": "<h4><em>A translation guide for designers who think accessibility is a separate skill set</em></h4><p>Every year, <a href=\"https://webaim.org/\">WebAIM</a> crawls the home pages of the top one million websites and runs them through an automated accessibility scanner. The <a href=\"https://webaim.org/projects/million/\">2026 results</a>, published this spring, found errors on <strong>95.9% of home pages</strong>, averaging <strong>56 detectable accessibility barriers per page</strong>. That number a",
-    "url": "https://uxdesign.cc/you-already-know-how-to-make-it-accessible-b29513a9b217?source=rss----138adf9c44c---4",
-    "published": "Sun, 16 Aug 2026 10:08:38 GMT",
+    "title": "What nobody tells you about AI ethics",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/ai-ethics-ux-accountability-gradient-56094d538453?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1536/1*S8OB7T_kb-ZSjryH4s2-sQ.png\" width=\"1536\" /></a></p><p class=\"medium-feed-snippet\">Why making the human behind the machine visible changes what we call morally right, and its effect on the alignment of AI with human values.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesig",
+    "url": "https://uxdesign.cc/ai-ethics-ux-accountability-gradient-56094d538453?source=rss----138adf9c44c---4",
+    "published": "Thu, 20 Aug 2026 10:21:43 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
   },
   {
-    "title": "How to become an AI Designer",
-    "summary": "<h4>A realistic guide to shipping your own designs.</h4><figure><img alt=\"A stylized terminal that says ‘ship it’.\" src=\"https://cdn-images-1.medium.com/max/1024/1*DPP633WIrk6_3kIrF0tOWQ.png\" /></figure><p><em>Your company wants you to use more tokens. Engineers are shipping faster than you can prototype. Vibecoded slop is all over your LinkedIn feed. Agents are the future. Figma’s over. Anthropic just released Claude Design. Taste is everything. Eng just shipped another PR! Design is dead. Actu",
-    "url": "https://uxdesign.cc/how-to-become-an-ai-designer-ff8ee8aed205?source=rss----138adf9c44c---4",
-    "published": "Sat, 15 Aug 2026 13:16:28 GMT",
+    "title": "It really wasn’t your fault, Coyote",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/it-really-wasnt-your-fault-coyote-e82dbecc43bd?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2560/1*NbFmzzhxnbtGuDcAhxeWQQ.png\" width=\"2560\" /></a></p><p class=\"medium-feed-snippet\">ACME&#x2019;s brutal design crit.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/it-really-wasnt-your-fault-coyote-e82dbecc43bd?source=rss----138adf9c44c---4\">Continue reading on UX Coll",
+    "url": "https://uxdesign.cc/it-really-wasnt-your-fault-coyote-e82dbecc43bd?source=rss----138adf9c44c---4",
+    "published": "Thu, 20 Aug 2026 04:29:36 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
   },
   {
-    "title": "Who gets the meter?",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/who-gets-the-meter-7cd1cd1ad5e4?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1169/0*sKAWsl_jj2DSQlng\" width=\"1169\" /></a></p><p class=\"medium-feed-snippet\">We&#x2019;ve spent 180 years trying not to feel the cost of the machine. AI just turned the meter back on.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/who-gets-the-meter-7cd1cd1ad5e4?source=rss----138adf9c44c",
-    "url": "https://uxdesign.cc/who-gets-the-meter-7cd1cd1ad5e4?source=rss----138adf9c44c---4",
-    "published": "Sat, 15 Aug 2026 13:15:07 GMT",
+    "title": "Rethinking leadership, Judgment as bottleneck, Ethical UX for machines",
+    "summary": "<h4>Weekly curated resources for designers — thinkers and makers.</h4><figure><a href=\"https://uxdesign.cc/rethinking-design-leadership-with-swarms-and-flocks-9298db8c59d2\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/0*n1q2BNwJWNmCEciK.png\" /></a></figure><p>“Design leadership is currently suffering from a bad case of mechanical thinking. We talk endlessly about cross-functional alignment, product development and operations, and predicting roadmaps. But mechanical systems are britt",
+    "url": "https://uxdesign.cc/rethinking-leadership-judgment-as-bottleneck-ethical-ux-for-machines-5927df9a399e?source=rss----138adf9c44c---4",
+    "published": "Mon, 17 Aug 2026 11:23:18 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"

@@ -1,5 +1,29 @@
 [
   {
+    "title": "阿里发布 Qwen-UI-Agent，主打让模型真正\"会用\"每一块屏幕",
+    "summary": "阿里巴巴正式推出 Qwen-UI-Agent，一个以真实世界为中心的 GUI 智能体基座模型，覆盖移动端、电脑端、网页端及深度搜索（DeepSearch）环境。",
+    "source": "IT之家（RSS）",
+    "url": "https://www.ithome.com/0/992/239.htm",
+    "published_at": "2026-08-20T09:45:51.000Z",
+    "category": "ai-models"
+  },
+  {
+    "title": "FastMetal 让 Mac 本地 30 秒生成视频",
+    "summary": "一段 5 秒 480P 视频，完全在 Mac 上生成，耗时 30 秒。无需 CUDA，无需云端，仅占用 3.9 GiB 内存。\n\nFastMetal 将 FastWan-QAD 系列带到 Apple Silicon。DiT、DMD 采样器和解码器均通过 MLX 在 Metal 上运行，默认 INT8。\n\n三个模型：1.",
+    "source": "X：Sky Computing Lab (@haoailab)",
+    "url": "https://x.com/haoailab/status/2090177721913770407",
+    "published_at": "2026-08-19T20:42:57.000Z",
+    "category": "ai-products"
+  },
+  {
+    "title": "Liquid AI 发布 LFM2.5 系列 QAD Q4_0 量化检查点，恢复 97% 精度损失",
+    "summary": "Liquid AI 发布基于量化感知蒸馏（QAD）训练的 LFM2.5-230M、350M、1.2B-Instruct 和 2.6B 四款 Q4_0 GGUF 检查点，在保持原生 Q4_0 内存与速度的同时，恢复 BF16 平均精度损失的 97%。",
+    "source": "Hugging Face：Blog（RSS）",
+    "url": "https://huggingface.co/blog/LiquidAI/qad",
+    "published_at": "2026-08-19T13:48:49.000Z",
+    "category": "ai-models"
+  },
+  {
     "title": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
     "summary": "GLM-5.3 API即日上线，擅长复杂编码、防御性网络安全与长程任务，在AA综合智能指数中取得60分，与Claude Fable 5、GPT-5.6 Sol等闭源旗舰同级，并与Kimi K3并列开源模型第一。该模型以更小参数规模和更低调用成本降低前沿智能门槛，单任务成本为旗舰模型中最低。API定价与GLM-5.2持平",
     "source": "公众号：智谱（GLM）",
@@ -8,35 +32,11 @@
     "category": "ai-products"
   },
   {
-    "title": "Claude 如何加速蛋白质设计与分析化学研究",
-    "summary": "Anthropic 公布两项实验：Claude（Mythos Preview 和 Opus 4.8）针对 15 个靶点设计蛋白质结合剂，成功 14 个，命中率达 22.6%-35.1%。",
-    "source": "Anthropic：Research（发表成果 · 网页）",
-    "url": "https://www.anthropic.com/research/Claude-accelerates-protein-design",
-    "published_at": "2026-08-18T22:27:16.191Z",
-    "category": "paper"
-  },
-  {
     "title": "Claude 现已支持 Gmail 邮件与 Google Drive 文件管理",
     "summary": "Claude 现在可以在 Gmail 中发送邮件，并管理 Google Drive 中的文件。\n\n让 Claude 回复某个邮件线程，它会起草并发送回复。你可以控制何时需要你的批准。\n\n从连接器菜单中选择连接 Gmail 或 Google Drive 即可试用。所有付费套餐均可用。",
     "source": "X：Claude (@claudeai)",
     "url": "https://x.com/claudeai/status/2089806039088517356",
     "published_at": "2026-08-18T20:06:01.000Z",
-    "category": "ai-products"
-  },
-  {
-    "title": "Claude Tag 如何担任 Anthropic CI/CD 故障的一线响应者",
-    "summary": "Anthropic 的 CI 工程师用 Claude Tag 构建了值班智能体，作为 CI/CD 故障的一线响应者。Claude 在事故发生后中位 14 分钟发布首份基于证据的分析，最快案例中 3 分钟内验证修复并确认错误率恢复基线。该方案通过 Slack 频道、Datadog 或 Grafana 工具访问及 GitH",
-    "source": "Claude：Blog（网页）",
-    "url": "https://claude.com/blog/ai-ci-cd-on-call",
-    "published_at": "2026-08-18T19:26:08.389Z",
-    "category": "tip"
-  },
-  {
-    "title": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护",
-    "summary": "OpenAI 发布 ChatGPT for Teens，为 13-17 岁用户自动启用，内置更强安全保护与家长控制。新增 Study Mode、负责任作业提醒、测验与学习可视化，以及可设定默认开启时段的 Study Hours，引导青少年分步解题而非直接给答案。OpenAI 同时宣布与 CodeAI 合作，帮助青少年理",
-    "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-    "url": "https://openai.com/index/chatgpt-for-teens",
-    "published_at": "2026-08-18T11:00:00.000Z",
     "category": "ai-products"
   }
 ]
