@@ -1,42 +1,42 @@
 [
   {
-    "title": "阿里发布 Qwen-UI-Agent，主打让模型真正\"会用\"每一块屏幕",
-    "summary": "阿里巴巴正式推出 Qwen-UI-Agent，一个以真实世界为中心的 GUI 智能体基座模型，覆盖移动端、电脑端、网页端及深度搜索（DeepSearch）环境。",
-    "source": "IT之家（RSS）",
-    "url": "https://www.ithome.com/0/992/239.htm",
-    "published_at": "2026-08-20T09:45:51.000Z",
+    "title": "DeepSeek-V4-Flash-Vision-Exp 发布",
+    "summary": "DeepSeek 上线实验性多模态视觉理解模型 DeepSeek-V4-Flash-Vision-Exp，可通过设置 model='deepseek-v4-flash-vision-exp' 在 API 平台访问。",
+    "source": "DeepSeek：API 更新日志",
+    "url": "https://api-docs.deepseek.com/zh-cn/updates#%E6%97%B6%E9%97%B4-2026-08-21",
+    "published_at": "2026-08-21T09:26:04.727Z",
     "category": "ai-models"
   },
   {
-    "title": "FastMetal 让 Mac 本地 30 秒生成视频",
-    "summary": "一段 5 秒 480P 视频，完全在 Mac 上生成，耗时 30 秒。无需 CUDA，无需云端，仅占用 3.9 GiB 内存。\n\nFastMetal 将 FastWan-QAD 系列带到 Apple Silicon。DiT、DMD 采样器和解码器均通过 MLX 在 Metal 上运行，默认 INT8。\n\n三个模型：1.",
-    "source": "X：Sky Computing Lab (@haoailab)",
-    "url": "https://x.com/haoailab/status/2090177721913770407",
-    "published_at": "2026-08-19T20:42:57.000Z",
+    "title": "Claude Platform 正式上线 Computer Use、Skills API 与 Files API，新增浏览器操作工具",
+    "summary": "Anthropic 宣布 Computer Use、Skills API 与 Files API 在 Claude Platform 全面可用，并新增浏览器操作工具，让智能体可操作软件、调用团队技能并返回成品文件。",
+    "source": "Claude：Blog（网页）",
+    "url": "https://claude.com/blog/computer-use-skills-api-files-api",
+    "published_at": "2026-08-20T20:27:01.660Z",
     "category": "ai-products"
   },
   {
-    "title": "Liquid AI 发布 LFM2.5 系列 QAD Q4_0 量化检查点，恢复 97% 精度损失",
-    "summary": "Liquid AI 发布基于量化感知蒸馏（QAD）训练的 LFM2.5-230M、350M、1.2B-Instruct 和 2.6B 四款 Q4_0 GGUF 检查点，在保持原生 Q4_0 内存与速度的同时，恢复 BF16 平均精度损失的 97%。",
-    "source": "Hugging Face：Blog（RSS）",
-    "url": "https://huggingface.co/blog/LiquidAI/qad",
-    "published_at": "2026-08-19T13:48:49.000Z",
-    "category": "ai-models"
-  },
-  {
-    "title": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
-    "summary": "GLM-5.3 API即日上线，擅长复杂编码、防御性网络安全与长程任务，在AA综合智能指数中取得60分，与Claude Fable 5、GPT-5.6 Sol等闭源旗舰同级，并与Kimi K3并列开源模型第一。该模型以更小参数规模和更低调用成本降低前沿智能门槛，单任务成本为旗舰模型中最低。API定价与GLM-5.2持平",
-    "source": "公众号：智谱（GLM）",
-    "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494105&idx=1&sn=8d7409e0fb846a3c7803c142b5d1a8e7",
-    "published_at": "2026-08-19T01:03:29.000Z",
+    "title": "Anthropic 如何开展 AI 教学",
+    "summary": "Anthropic 发布 Claude Academy，为全球数百万用户提供 AI 教学资源，帮助其安全、有效地使用 AI。该学院课程借鉴其内部员工培训方法，包括 4D AI Fluency Framework 及\"ever-boarding\"持续学习项目，并强调以问题为中心、培养持久思维模式而非特定操作行为。",
+    "source": "Claude：Blog（网页）",
+    "url": "https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai",
+    "published_at": "2026-08-20T17:56:58.396Z",
     "category": "ai-products"
   },
   {
-    "title": "Claude 现已支持 Gmail 邮件与 Google Drive 文件管理",
-    "summary": "Claude 现在可以在 Gmail 中发送邮件，并管理 Google Drive 中的文件。\n\n让 Claude 回复某个邮件线程，它会起草并发送回复。你可以控制何时需要你的批准。\n\n从连接器菜单中选择连接 Gmail 或 Google Drive 即可试用。所有付费套餐均可用。",
-    "source": "X：Claude (@claudeai)",
-    "url": "https://x.com/claudeai/status/2089806039088517356",
-    "published_at": "2026-08-18T20:06:01.000Z",
+    "title": "AlloyDB ScaNN 如何将向量搜索扩展到 100 亿向量",
+    "summary": "AlloyDB 的 ScaNN 索引现已支持超过 100 亿向量的规模，通过全新的四层树架构（预览版）实现，将查询复杂度从 O（N^1/2） 降至 O（N^1/4）。内部测试中，该架构在 100 亿向量规模下可实现 p95 延迟不超过 51 毫秒、召回率达 95%。该功能可通过快速入门指南部署，新用户可享受 30 天免",
+    "source": "Google Cloud：Databases（RSS）",
+    "url": "https://cloud.google.com/blog/products/databases/alloydb-scann-index-four-level-tree-improves-vector-search",
+    "published_at": "2026-08-20T16:00:00.000Z",
     "category": "ai-products"
+  },
+  {
+    "title": "Claude Code 初创公司指南：五大规则与创始人洞见",
+    "summary": "Anthropic 发布面向初创公司的 Claude Code 使用指南，基于对十余家高增长公司的调研，总结出\"人人皆可交付、自动化繁琐工作、信任但验证、为重构而构建、原型-自用-产品化\"五大规则。",
+    "source": "Claude：Blog（网页）",
+    "url": "https://claude.com/blog/claude-code-guide-for-startups",
+    "published_at": "2026-08-20T13:26:53.704Z",
+    "category": "tip"
   }
 ]
