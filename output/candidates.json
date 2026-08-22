@@ -1,39 +1,21 @@
 [
   {
-    "title": "DeepSeek-V4-Flash-Vision-Exp 发布",
-    "summary": "DeepSeek 上线实验性多模态视觉理解模型 DeepSeek-V4-Flash-Vision-Exp，可通过设置 model='deepseek-v4-flash-vision-exp' 在 API 平台访问。",
-    "url": "https://api-docs.deepseek.com/zh-cn/updates#%E6%97%B6%E9%97%B4-2026-08-21",
-    "published": "2026-08-21T09:26:04.727Z",
-    "source": "DeepSeek：API 更新日志",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "ShogunAI",
-    "summary": "<p>\n            Your personal AGI on your PC. Built to finish real work.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/shogunai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1228269?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/shogunai",
-    "published": "2026-08-21T00:04:00-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Claude Platform 正式上线 Computer Use、Skills API 与 Files API，新增浏览器操作工具",
-    "summary": "Anthropic 宣布 Computer Use、Skills API 与 Files API 在 Claude Platform 全面可用，并新增浏览器操作工具，让智能体可操作软件、调用团队技能并返回成品文件。",
-    "url": "https://claude.com/blog/computer-use-skills-api-files-api",
-    "published": "2026-08-20T20:27:01.660Z",
+    "title": "Claude Mythos 5 网络安全能力扩展至更多防御者",
+    "summary": "Anthropic 宣布 Claude Mythos 5 现已集成至 Claude Security，并即将登陆合作伙伴的网络安全防御工具。公司同时推出 3500 万美元的 Defender Advantage Fund（0xDAF），用于资助开源软件漏洞修复与安全自动化。",
+    "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
+    "published": "2026-08-21T17:58:29.461Z",
     "source": "Claude：Blog（网页）",
     "source_weight": "high",
     "category": "ai-products"
   },
   {
-    "title": "Anthropic 如何开展 AI 教学",
-    "summary": "Anthropic 发布 Claude Academy，为全球数百万用户提供 AI 教学资源，帮助其安全、有效地使用 AI。该学院课程借鉴其内部员工培训方法，包括 4D AI Fluency Framework 及\"ever-boarding\"持续学习项目，并强调以问题为中心、培养持久思维模式而非特定操作行为。",
-    "url": "https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai",
-    "published": "2026-08-20T17:56:58.396Z",
+    "title": "AI 原生 SDLC 实战手册：Anthropic 如何用 Claude 重塑软件开发生命周期",
+    "summary": "Anthropic 发布 AI 原生 SDLC 实战手册，提出将传统六阶段软件开发生命周期重构为 AI 嵌入各环节的闭环流程。手册指出，当代码不再是瓶颈时，规划、审查、部署等人速环节成为新约束，需通过 Claude 将需求压缩为 intent.md、以技能编码标准、用持续评测替代阶段门禁，并保留人工对关键代码的审查。",
+    "url": "https://claude.com/blog/the-ai-native-sdlc-playbook",
+    "published": "2026-08-21T14:28:27.351Z",
     "source": "Claude：Blog（网页）",
     "source_weight": "high",
-    "category": "ai-products"
+    "category": "tip"
   },
   {
     "title": "AlloyDB ScaNN 如何将向量搜索扩展到 100 亿向量",
@@ -54,22 +36,13 @@
     "category": "tip"
   },
   {
-    "title": "Lynqo",
-    "summary": "<p>\n            Your machine is a P2P server, review suite & clipboard sync.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/lynqo-your-local-nas-server?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1227894?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/lynqo-your-local-nas-server",
-    "published": "2026-08-20T10:40:39-07:00",
-    "source": "Product Hunt",
+    "title": "Claude Platform 发布 Python SDK v1.0，迁移至 httpx2",
+    "summary": "Anthropic 发布 Claude Python SDK v1.0，HTTP 层从 httpx 迁移至 API 兼容的 httpx2，并移除 Text Completions API 等长期弃用功能。",
+    "url": "https://platform.claude.com/docs/en/release-notes/overview#august-20-2026",
+    "published": "2026-08-20T00:00:00.000Z",
+    "source": "Claude Platform：开发者版本说明（RSS）",
     "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Epho",
-    "summary": "<p>\n            Run Claude Code, Codex or Opencode in cloud with your repo\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/epho-claude-code-in-the-cloud?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1227815?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/epho-claude-code-in-the-cloud",
-    "published": "2026-08-20T08:33:36-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
+    "category": "ai-products"
   },
   {
     "title": "FastMetal 让 Mac 本地 30 秒生成视频",
@@ -81,6 +54,24 @@
     "category": "ai-products"
   },
   {
+    "title": "Claude Platform 正式上线 Computer Use、Skills API 与 Files API，新增浏览器操作工具",
+    "summary": "Anthropic 宣布 Computer Use、Skills API 与 Files API 在 Claude Platform 全面可用，并新增浏览器操作工具，让智能体可操作软件、调用团队技能并返回成品文件。",
+    "url": "https://claude.com/blog/computer-use-skills-api-files-api",
+    "published": "2026-08-19T16:00:00.000Z",
+    "source": "Claude：Blog（网页）",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "Anthropic 如何开展 AI 教学",
+    "summary": "Anthropic 发布 Claude Academy，为全球数百万用户提供 AI 教学资源，帮助其安全、有效地使用 AI。该学院课程借鉴其内部员工培训方法，包括 4D AI Fluency Framework 及\"ever-boarding\"持续学习项目，并强调以问题为中心、培养持久思维模式而非特定操作行为。",
+    "url": "https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai",
+    "published": "2026-08-19T16:00:00.000Z",
+    "source": "Claude：Blog（网页）",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
     "title": "Liquid AI 发布 LFM2.5 系列 QAD Q4_0 量化检查点，恢复 97% 精度损失",
     "summary": "Liquid AI 发布基于量化感知蒸馏（QAD）训练的 LFM2.5-230M、350M、1.2B-Instruct 和 2.6B 四款 Q4_0 GGUF 检查点，在保持原生 Q4_0 内存与速度的同时，恢复 BF16 平均精度损失的 97%。",
     "url": "https://huggingface.co/blog/LiquidAI/qad",
@@ -88,33 +79,6 @@
     "source": "Hugging Face：Blog（RSS）",
     "source_weight": "high",
     "category": "ai-models"
-  },
-  {
-    "title": "Grok Build 全面上线网页与移动端，所有套餐可用",
-    "summary": "Grok Build 现已面向所有套餐开放，支持网页、iOS 和 Android 端使用。用户描述应用、游戏或网站后，Grok 可在聊天中实时生成可运行版本。该功能自 7 月推出 Early Beta 以来，新增了发布分享、接入 X 及调用 Grok 自身模型等能力，发布的应用可获得 grok.me 链接并支持自定义域名、导出到 GitHub 等。",
-    "url": "https://x.ai/news/grok-build-for-everyone",
-    "published": "2026-08-19T00:00:00.000Z",
-    "source": "xAI：News（网页）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Claude 现已支持 Gmail 邮件与 Google Drive 文件管理",
-    "summary": "Claude 现在可以在 Gmail 中发送邮件，并管理 Google Drive 中的文件。\n\n让 Claude 回复某个邮件线程，它会起草并发送回复。你可以控制何时需要你的批准。\n\n从连接器菜单中选择连接 Gmail 或 Google Drive 即可试用。所有付费套餐均可用。",
-    "url": "https://x.com/claudeai/status/2089806039088517356",
-    "published": "2026-08-18T20:06:01.000Z",
-    "source": "X：Claude (@claudeai)",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Custom metrics are now supported in Vercel Observability",
-    "summary": "<p>You can now emit your own metrics directly from your Vercel Functions and analyze them alongside Vercel's built-in observability data.</p><p>Use the <code>metric()</code> function from the <code>@vercel/functions</code> package to record any value you care about, like request latency or business events, and attach attributes to filter and group by:</p><div></div><p>Once emitted, your custom metrics are available across Observability:\n• <b>Query builder:</b> slice and aggregate metrics on the ",
-    "url": "https://vercel.com/changelog/custom-metrics-are-now-supported-in-vercel-observability",
-    "published": "",
-    "source": "Vercel Blog (v0)",
-    "source_weight": "high",
-    "category": "design_tools"
   },
   {
     "title": "Why don’t we download airport apps?",
@@ -193,15 +157,6 @@
     "summary": "<p>As someone who teaches beginning web development, I find that building a WordPress site makes for a great final project. Hosting those projects has always been a roadblock though.</p>\n<hr />\n<p><small><a href=\"https://css-tricks.com/wordpress-student-plan/\" rel=\"nofollow\">WordPress.com Student Plan</a> originally handwritten and published with love on <a href=\"https://css-tricks.com\" rel=\"nofollow\">CSS-Tricks</a>. You should really <a href=\"https://css-tricks.com/newsletters/\">get the newslet",
     "url": "https://css-tricks.com/wordpress-student-plan/",
     "published": "Wed, 19 Aug 2026 08:50:00 +0000",
-    "source": "CSS-Tricks",
-    "source_weight": "low",
-    "category": "design_communities"
-  },
-  {
-    "title": "What’s !important #17: Custom Highlight API, CSS Navigation Matching, Fixing text-stroke, and More",
-    "summary": "<p>Plus, how to style skeleton UIs, how to enable diagonal scrolling, how images can overflow themselves, and yet, still more. Basically, how to do a lot of really cool (CSS) stuff.</p>\n<hr />\n<p><small><a href=\"https://css-tricks.com/whats-important-17/\" rel=\"nofollow\">What’s !important #17: Custom Highlight API, CSS Navigation Matching, Fixing text-stroke, and More</a> originally handwritten and published with love on <a href=\"https://css-tricks.com\" rel=\"nofollow\">CSS-Tricks</a>. You should r",
-    "url": "https://css-tricks.com/whats-important-17/",
-    "published": "Fri, 14 Aug 2026 14:01:51 +0000",
     "source": "CSS-Tricks",
     "source_weight": "low",
     "category": "design_communities"

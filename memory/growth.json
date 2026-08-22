@@ -1,5 +1,5 @@
 {
-  "day_count": 120,
+  "day_count": 121,
   "history": [
     {
       "day": 20,
@@ -678,6 +678,13 @@
       "date": "2026-08-21",
       "topic": "DeepSeek-V4-Flash-Vision-Exp 发布",
       "source": "DeepSeek：API 更新日志",
+      "mode": "rss"
+    },
+    {
+      "day": 121,
+      "date": "2026-08-22",
+      "topic": "Claude Mythos 5 网络安全能力扩展至更多防御者",
+      "source": "Claude：Blog（网页）",
       "mode": "rss"
     }
   ],
