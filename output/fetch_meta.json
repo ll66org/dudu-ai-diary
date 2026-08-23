@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-08-22T11:49:12.063471Z",
-  "total_candidates": 18,
+  "fetched_at": "2026-08-23T11:49:13.881862Z",
+  "total_candidates": 12,
   "source_stats": {
     "Figma Blog": {
       "found": 0,
@@ -64,27 +64,27 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 121,
-  "today_date": "2026-08-22",
+  "dudu_day": 122,
+  "today_date": "2026-08-23",
   "used_titles": [
-    "Claude 文本水印机制如何运作",
     "新兴多智能体系统的模式与问题",
     "Qwen 3.8 27B 表现出色，但默认推理强度过高导致过度思考",
     "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护",
     "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
     "阿里发布 Qwen-UI-Agent，主打让模型真正\"会用\"每一块屏幕",
-    "DeepSeek-V4-Flash-Vision-Exp 发布"
+    "DeepSeek-V4-Flash-Vision-Exp 发布",
+    "Claude Mythos 5 网络安全能力扩展至更多防御者"
   ],
   "used_tools": [
-    "Anthropic：Newsroom（网页）",
     "Hacker News 热门（buzzing.cc 中文翻译）",
     "Simon Willison 博客",
     "OpenAI：官网动态（RSS · 排除企业/客户案例）",
     "公众号：智谱（GLM）",
     "IT之家（RSS）",
-    "DeepSeek：API 更新日志"
+    "DeepSeek：API 更新日志",
+    "Claude：Blog（网页）"
   ],
-  "briefing_total": 19,
-  "briefing_design": 11,
+  "briefing_total": 13,
+  "briefing_design": 5,
   "briefing_count": 5
 }

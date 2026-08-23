@@ -1,14 +1,5 @@
 [
   {
-    "title": "Claude Mythos 5 网络安全能力扩展至更多防御者",
-    "summary": "Anthropic 宣布 Claude Mythos 5 现已集成至 Claude Security，并即将登陆合作伙伴的网络安全防御工具。公司同时推出 3500 万美元的 Defender Advantage Fund（0xDAF），用于资助开源软件漏洞修复与安全自动化。",
-    "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
-    "published": "2026-08-21T17:58:29.461Z",
-    "source": "Claude：Blog（网页）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
     "title": "AI 原生 SDLC 实战手册：Anthropic 如何用 Claude 重塑软件开发生命周期",
     "summary": "Anthropic 发布 AI 原生 SDLC 实战手册，提出将传统六阶段软件开发生命周期重构为 AI 嵌入各环节的闭环流程。手册指出，当代码不再是瓶颈时，规划、审查、部署等人速环节成为新约束，需通过 Claude 将需求压缩为 intent.md、以技能编码标准、用持续评测替代阶段门禁，并保留人工对关键代码的审查。",
     "url": "https://claude.com/blog/the-ai-native-sdlc-playbook",
@@ -36,51 +27,6 @@
     "category": "tip"
   },
   {
-    "title": "Claude Platform 发布 Python SDK v1.0，迁移至 httpx2",
-    "summary": "Anthropic 发布 Claude Python SDK v1.0，HTTP 层从 httpx 迁移至 API 兼容的 httpx2，并移除 Text Completions API 等长期弃用功能。",
-    "url": "https://platform.claude.com/docs/en/release-notes/overview#august-20-2026",
-    "published": "2026-08-20T00:00:00.000Z",
-    "source": "Claude Platform：开发者版本说明（RSS）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "FastMetal 让 Mac 本地 30 秒生成视频",
-    "summary": "一段 5 秒 480P 视频，完全在 Mac 上生成，耗时 30 秒。无需 CUDA，无需云端，仅占用 3.9 GiB 内存。\n\nFastMetal 将 FastWan-QAD 系列带到 Apple Silicon。DiT、DMD 采样器和解码器均通过 MLX 在 Metal 上运行，默认 INT8。\n\n三个模型：1.3B 支持 480P，5B 支持 720P，14B 追求画质。\n\n📷 博客：http://haoailab.com/blogs/fastmetal 📷 代码：http://github.com/hao-ai-lab/FastVideo 📷 模型：http://huggingface.co/collections/FastVideo/fastmetal",
-    "url": "https://x.com/haoailab/status/2090177721913770407",
-    "published": "2026-08-19T20:42:57.000Z",
-    "source": "X：Sky Computing Lab (@haoailab)",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Claude Platform 正式上线 Computer Use、Skills API 与 Files API，新增浏览器操作工具",
-    "summary": "Anthropic 宣布 Computer Use、Skills API 与 Files API 在 Claude Platform 全面可用，并新增浏览器操作工具，让智能体可操作软件、调用团队技能并返回成品文件。",
-    "url": "https://claude.com/blog/computer-use-skills-api-files-api",
-    "published": "2026-08-19T16:00:00.000Z",
-    "source": "Claude：Blog（网页）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Anthropic 如何开展 AI 教学",
-    "summary": "Anthropic 发布 Claude Academy，为全球数百万用户提供 AI 教学资源，帮助其安全、有效地使用 AI。该学院课程借鉴其内部员工培训方法，包括 4D AI Fluency Framework 及\"ever-boarding\"持续学习项目，并强调以问题为中心、培养持久思维模式而非特定操作行为。",
-    "url": "https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai",
-    "published": "2026-08-19T16:00:00.000Z",
-    "source": "Claude：Blog（网页）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Liquid AI 发布 LFM2.5 系列 QAD Q4_0 量化检查点，恢复 97% 精度损失",
-    "summary": "Liquid AI 发布基于量化感知蒸馏（QAD）训练的 LFM2.5-230M、350M、1.2B-Instruct 和 2.6B 四款 Q4_0 GGUF 检查点，在保持原生 Q4_0 内存与速度的同时，恢复 BF16 平均精度损失的 97%。",
-    "url": "https://huggingface.co/blog/LiquidAI/qad",
-    "published": "2026-08-19T13:48:49.000Z",
-    "source": "Hugging Face：Blog（RSS）",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
     "title": "Why don’t we download airport apps?",
     "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/why-dont-we-download-airport-apps-095c7be5a384?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*X2yZwPo3nWRFtGrx\" width=\"7360\" /></a></p><p class=\"medium-feed-snippet\">A billion passengers, millions of smartphones, and one stubborn question: do airports really need their own apps?</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/why-dont-we-download-airport-apps-0",
     "url": "https://uxdesign.cc/why-dont-we-download-airport-apps-095c7be5a384?source=rss----138adf9c44c---4",
@@ -103,15 +49,6 @@
     "summary": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*0Oq1k5xQnH5uULrX58MU3g.png\" /><figcaption>The famous choice was never about the pills, it was about whether to see the system at all. AI assisted.</figcaption></figure><h4>More Than 25 Years On, The First Film’s Picture Of Machine Intelligence Reads Less Like Science Fiction And More Like A Product Roadmap</h4><p><em>The Matrix </em>arrived in 1999 wearing sunglasses and a trench coat, and most people filed it under cool action ",
     "url": "https://uxdesign.cc/what-the-matrix-got-right-about-ai-c741b38dca68?source=rss----138adf9c44c---4",
     "published": "Tue, 18 Aug 2026 21:43:01 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "How to experiment when designing in a regulated field like Healthcare",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/how-to-experiment-when-designing-in-a-regulated-field-like-healthcare-64fca3bb7655?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*7jHOyZSPQj-eemyK6vDdBw.jpeg\" width=\"4608\" /></a></p><p class=\"medium-feed-snippet\">You can&#x2019;t vibe code your way through HIPAA violations</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/how-to-experiment-when-designing-in-a-reg",
-    "url": "https://uxdesign.cc/how-to-experiment-when-designing-in-a-regulated-field-like-healthcare-64fca3bb7655?source=rss----138adf9c44c---4",
-    "published": "Tue, 18 Aug 2026 21:41:12 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
@@ -144,10 +81,19 @@
     "category": "design_communities"
   },
   {
-    "title": "Rethinking leadership, Judgment as bottleneck, Ethical UX for machines",
-    "summary": "<h4>Weekly curated resources for designers — thinkers and makers.</h4><figure><a href=\"https://uxdesign.cc/rethinking-design-leadership-with-swarms-and-flocks-9298db8c59d2\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/0*n1q2BNwJWNmCEciK.png\" /></a></figure><p>“Design leadership is currently suffering from a bad case of mechanical thinking. We talk endlessly about cross-functional alignment, product development and operations, and predicting roadmaps. But mechanical systems are britt",
-    "url": "https://uxdesign.cc/rethinking-leadership-judgment-as-bottleneck-ethical-ux-for-machines-5927df9a399e?source=rss----138adf9c44c---4",
-    "published": "Mon, 17 Aug 2026 11:23:18 GMT",
+    "title": "Nobody wants a blank page. Nobody touches a perfect one.",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/nobody-wants-a-blank-page-nobody-touches-a-perfect-one-48d452a26dae?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1600/0*B_NyIQXcamP4wKu9\" width=\"1600\" /></a></p><p class=\"medium-feed-snippet\">Why people can&#x2019;t begin from nothing, and won&#x2019;t touch anything finished.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/nobody-wants-a-blank-page-nobody-touches-a",
+    "url": "https://uxdesign.cc/nobody-wants-a-blank-page-nobody-touches-a-perfect-one-48d452a26dae?source=rss----138adf9c44c---4",
+    "published": "Sun, 23 Aug 2026 11:22:08 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Sterling Cooper built your UX process. We need to redefine it in the age of AI and systems.",
+    "summary": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*gSGlC_KpqH0V_DPvnxwYYg.png\" /><figcaption><em>Modern creative work was assembled in the mid-century ad agency, and UX inherited the whole show. Now is time for a reset in the age of AI. AI assisted.</em></figcaption></figure><h4><em>The rituals of the 1960s ad shop — the whiskey, the pitch room, the account man, the campaign— still shape how UX teams fail in many environments. We have to change that.</em></h4><blockquote>A<stron",
+    "url": "https://uxdesign.cc/sterling-cooper-built-your-ux-process-we-need-to-redefine-it-in-the-age-of-ai-and-systems-520a2d3b2a60?source=rss----138adf9c44c---4",
+    "published": "Sun, 23 Aug 2026 09:35:34 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"

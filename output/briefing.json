@@ -1,13 +1,5 @@
 [
   {
-    "title": "Claude Mythos 5 网络安全能力扩展至更多防御者",
-    "summary": "Anthropic 宣布 Claude Mythos 5 现已集成至 Claude Security，并即将登陆合作伙伴的网络安全防御工具。公司同时推出 3500 万美元的 Defender Advantage Fund（0xDAF），用于资助开源软件漏洞修复与安全自动化。",
-    "source": "Claude：Blog（网页）",
-    "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
-    "published_at": "2026-08-21T17:58:29.461Z",
-    "category": "ai-products"
-  },
-  {
     "title": "AI 原生 SDLC 实战手册：Anthropic 如何用 Claude 重塑软件开发生命周期",
     "summary": "Anthropic 发布 AI 原生 SDLC 实战手册，提出将传统六阶段软件开发生命周期重构为 AI 嵌入各环节的闭环流程。手册指出，当代码不再是瓶颈时，规划、审查、部署等人速环节成为新约束，需通过 Claude 将需求压缩为 intent.md、以技能编码标准、用持续评测替代阶段门禁，并保留人工对关键代码的审查。",
     "source": "Claude：Blog（网页）",
@@ -22,6 +14,14 @@
     "url": "https://api-docs.deepseek.com/zh-cn/updates#%E6%97%B6%E9%97%B4-2026-08-21",
     "published_at": "2026-08-21T09:26:04.727Z",
     "category": "ai-models"
+  },
+  {
+    "title": "Claude Mythos 5 网络安全能力扩展至更多防御者",
+    "summary": "Anthropic 宣布 Claude Mythos 5 现已集成至 Claude Security，并即将登陆合作伙伴的网络安全防御工具。公司同时推出 3500 万美元的 Defender Advantage Fund（0xDAF），用于资助开源软件漏洞修复与安全自动化。",
+    "source": "Claude：Blog（网页）",
+    "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
+    "published_at": "2026-08-20T16:00:00.000Z",
+    "category": "ai-products"
   },
   {
     "title": "AlloyDB ScaNN 如何将向量搜索扩展到 100 亿向量",
