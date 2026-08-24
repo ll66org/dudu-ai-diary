@@ -1,30 +1,12 @@
 [
   {
-    "title": "AI 原生 SDLC 实战手册：Anthropic 如何用 Claude 重塑软件开发生命周期",
-    "summary": "Anthropic 发布 AI 原生 SDLC 实战手册，提出将传统六阶段软件开发生命周期重构为 AI 嵌入各环节的闭环流程。手册指出，当代码不再是瓶颈时，规划、审查、部署等人速环节成为新约束，需通过 Claude 将需求压缩为 intent.md、以技能编码标准、用持续评测替代阶段门禁，并保留人工对关键代码的审查。",
-    "url": "https://claude.com/blog/the-ai-native-sdlc-playbook",
-    "published": "2026-08-21T14:28:27.351Z",
-    "source": "Claude：Blog（网页）",
+    "title": "Lucid Train",
+    "summary": "<p>\n            Build system design for new and existing codebase\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/lucid-train?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1230122?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/lucid-train",
+    "published": "2026-08-23T10:08:08-07:00",
+    "source": "Product Hunt",
     "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "AlloyDB ScaNN 如何将向量搜索扩展到 100 亿向量",
-    "summary": "AlloyDB 的 ScaNN 索引现已支持超过 100 亿向量的规模，通过全新的四层树架构（预览版）实现，将查询复杂度从 O（N^1/2） 降至 O（N^1/4）。内部测试中，该架构在 100 亿向量规模下可实现 p95 延迟不超过 51 毫秒、召回率达 95%。该功能可通过快速入门指南部署，新用户可享受 30 天免费试用。",
-    "url": "https://cloud.google.com/blog/products/databases/alloydb-scann-index-four-level-tree-improves-vector-search",
-    "published": "2026-08-20T16:00:00.000Z",
-    "source": "Google Cloud：Databases（RSS）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Claude Code 初创公司指南：五大规则与创始人洞见",
-    "summary": "Anthropic 发布面向初创公司的 Claude Code 使用指南，基于对十余家高增长公司的调研，总结出\"人人皆可交付、自动化繁琐工作、信任但验证、为重构而构建、原型-自用-产品化\"五大规则。",
-    "url": "https://claude.com/blog/claude-code-guide-for-startups",
-    "published": "2026-08-20T13:26:53.704Z",
-    "source": "Claude：Blog（网页）",
-    "source_weight": "high",
-    "category": "tip"
+    "category": "ai_tech"
   },
   {
     "title": "Why don’t we download airport apps?",
@@ -40,15 +22,6 @@
     "summary": "<h4>Extinction is the wrong lens. Evolution is the right one.</h4><figure><img alt=\"Cover Illustration for an article titled “Is the future of software certain once AI is everywhere?”. Four AI robots stand around a broken laptop with X-shaped eyes, scattered debris, a skull, and a gravestone reading “RIP Software.” The image visualizes the debate about whether AI will replace traditional software.\" src=\"https://cdn-images-1.medium.com/max/1024/1*S9Babiz8jzdfqAKTlQlaag.png\" /></figure><p>In Augus",
     "url": "https://uxdesign.cc/is-the-future-of-software-certain-once-ai-is-everywhere-f93e1bc5697f?source=rss----138adf9c44c---4",
     "published": "Wed, 19 Aug 2026 09:26:12 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "What The Matrix got right about AI",
-    "summary": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*0Oq1k5xQnH5uULrX58MU3g.png\" /><figcaption>The famous choice was never about the pills, it was about whether to see the system at all. AI assisted.</figcaption></figure><h4>More Than 25 Years On, The First Film’s Picture Of Machine Intelligence Reads Less Like Science Fiction And More Like A Product Roadmap</h4><p><em>The Matrix </em>arrived in 1999 wearing sunglasses and a trench coat, and most people filed it under cool action ",
-    "url": "https://uxdesign.cc/what-the-matrix-got-right-about-ai-c741b38dca68?source=rss----138adf9c44c---4",
-    "published": "Tue, 18 Aug 2026 21:43:01 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
@@ -81,6 +54,15 @@
     "category": "design_communities"
   },
   {
+    "title": "Stop using OKLCH lightness for your color scale",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/stop-using-oklch-lightness-for-your-color-scale-02025deca49d?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*rYTMOiBmAldBeY_imswJpA.png\" width=\"5824\" /></a></p><p class=\"medium-feed-snippet\">It&#x2019;s brilliant at generating color, but it can&#x2019;t predict contrast&#x200a;&#x2014;&#x200a;and there&#x2019;s a better number for your palette weights.</p><p class=\"medium-f",
+    "url": "https://uxdesign.cc/stop-using-oklch-lightness-for-your-color-scale-02025deca49d?source=rss----138adf9c44c---4",
+    "published": "Sun, 23 Aug 2026 20:37:16 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
     "title": "Nobody wants a blank page. Nobody touches a perfect one.",
     "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/nobody-wants-a-blank-page-nobody-touches-a-perfect-one-48d452a26dae?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1600/0*B_NyIQXcamP4wKu9\" width=\"1600\" /></a></p><p class=\"medium-feed-snippet\">Why people can&#x2019;t begin from nothing, and won&#x2019;t touch anything finished.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/nobody-wants-a-blank-page-nobody-touches-a",
     "url": "https://uxdesign.cc/nobody-wants-a-blank-page-nobody-touches-a-perfect-one-48d452a26dae?source=rss----138adf9c44c---4",
@@ -94,6 +76,15 @@
     "summary": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*gSGlC_KpqH0V_DPvnxwYYg.png\" /><figcaption><em>Modern creative work was assembled in the mid-century ad agency, and UX inherited the whole show. Now is time for a reset in the age of AI. AI assisted.</em></figcaption></figure><h4><em>The rituals of the 1960s ad shop — the whiskey, the pitch room, the account man, the campaign— still shape how UX teams fail in many environments. We have to change that.</em></h4><blockquote>A<stron",
     "url": "https://uxdesign.cc/sterling-cooper-built-your-ux-process-we-need-to-redefine-it-in-the-age-of-ai-and-systems-520a2d3b2a60?source=rss----138adf9c44c---4",
     "published": "Sun, 23 Aug 2026 09:35:34 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "No log off, How to become an AI Designer, vibe coded portfolios",
+    "summary": "<h4>Weekly curated resources for designers — thinkers and makers.</h4><figure><a href=\"https://www.doc.cc/articles/we-used-to-log-off\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/0*YbJpdLVM_7GERGTS.png\" /></a></figure><p>“Online used to be a place you could leave. We designed the exit out of it because an exit reads as a leak. Here is why building it back is a design responsibility, and what that means now that AI is dissolving the last seam.”</p><p><a href=\"https://www.doc.cc/arti",
+    "url": "https://uxdesign.cc/no-log-off-how-to-become-an-ai-designer-vibe-coded-portfolios-deb7ca0e0f5d?source=rss----138adf9c44c---4",
+    "published": "Mon, 24 Aug 2026 11:15:25 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"

@@ -1,5 +1,5 @@
 {
-  "day_count": 122,
+  "day_count": 123,
   "history": [
     {
       "day": 20,
@@ -690,6 +690,13 @@
     {
       "day": 122,
       "date": "2026-08-23",
+      "topic": "AI 原生 SDLC 实战手册：Anthropic 如何用 Claude 重塑软件开发生命周期",
+      "source": "Claude：Blog（网页）",
+      "mode": "rss"
+    },
+    {
+      "day": 123,
+      "date": "2026-08-24",
       "topic": "AI 原生 SDLC 实战手册：Anthropic 如何用 Claude 重塑软件开发生命周期",
       "source": "Claude：Blog（网页）",
       "mode": "rss"
