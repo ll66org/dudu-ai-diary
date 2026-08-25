@@ -1,28 +1,82 @@
 [
   {
-    "title": "Lucid Train",
-    "summary": "<p>\n            Build system design for new and existing codebase\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/lucid-train?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1230122?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/lucid-train",
-    "published": "2026-08-23T10:08:08-07:00",
-    "source": "Product Hunt",
+    "title": "MetaRoCE：为 AI 规模以太网打造的全新 RDMA 传输协议",
+    "summary": "Meta 设计并开源了 MetaRoCE，一个专为 AI 工作负载在通用以太网上打造的 RDMA 传输协议，已通过 Open Compute Project（OCP）发布规范、参考软件实现和合规测试套件。该协议将智能移至端点，原生支持乱序交付、多路径、无损容忍和双向拥塞控制，无需 PFC，可在百万 GPU 规模下提供高吞吐、低尾延迟。现有 RDMA Verbs API 和软件栈无需修改即可运行。",
+    "url": "https://engineering.fb.com/2026/08/24/networking-traffic/metaroce-rdma-transport-ai-ethernet",
+    "published": "2026-08-24T18:02:29.000Z",
+    "source": "Meta Engineering Blog（RSS）",
     "source_weight": "high",
-    "category": "ai_tech"
+    "category": "ai-products"
   },
   {
-    "title": "Why don’t we download airport apps?",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/why-dont-we-download-airport-apps-095c7be5a384?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*X2yZwPo3nWRFtGrx\" width=\"7360\" /></a></p><p class=\"medium-feed-snippet\">A billion passengers, millions of smartphones, and one stubborn question: do airports really need their own apps?</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/why-dont-we-download-airport-apps-0",
-    "url": "https://uxdesign.cc/why-dont-we-download-airport-apps-095c7be5a384?source=rss----138adf9c44c---4",
-    "published": "Wed, 19 Aug 2026 22:01:37 GMT",
+    "title": "OpenAI 正为一切构建 AI 智能体，但用户会愿意交出控制权吗？",
+    "summary": "OpenAI 推出 ChatGPT Work，将 Codex 改造为面向非工程师的智能体产品，最低订阅档每月 20 美元即可使用，旨在让白领通过 LLM 自主完成多步骤工作。OpenAI 内部 6 月有 98% 员工使用 Codex，但组织订阅者仅 17%、个人订阅者不足 1%。公司正通过简化界面扩大采用，以支撑其巨额训练投入。",
+    "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them",
+    "published": "2026-08-24T15:00:00.000Z",
+    "source": "TechCrunch：AI（RSS）",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "Bring your agent to Notion with Chat SDK",
+    "summary": "<p>Your team already works in Notion. Now your agent can too.</p><p>With the new <a href=\"https://chat-sdk.dev/adapters/official/notion\">Notion adapter</a> for Chat SDK, the same agent you run on Slack, Discord, GitHub, Teams, or WhatsApp can join comment discussions on your Notion pages, no separate codebase required.</p><div></div><p>Each Notion page maps to a channel and each comment thread to a thread, so replies stay threaded automatically.</p><p>The adapter supports mentions, message editi",
+    "url": "https://vercel.com/changelog/notion-chat-sdk",
+    "published": "",
+    "source": "Vercel Blog (v0)",
+    "source_weight": "high",
+    "category": "design_tools"
+  },
+  {
+    "title": "Chat SDK now supports XChat",
+    "summary": "<p>You can now build bots that hold end-to-end encrypted 1:1 and group conversations on XChat with the new <a href=\"https://chat-sdk.dev/adapters/official/xchat\">XChat adapter</a> for Chat SDK.</p><p>The adapter handles all encryption, key management, and signature verification automatically. Bots can also message users first, as long as the user has encrypted chat set up and follows the bot.</p><div></div><p>XChat has no markdown rendering, so the adapter falls back automatically: URLs and @men",
+    "url": "https://vercel.com/changelog/chat-sdk-now-supports-xchat",
+    "published": "",
+    "source": "Vercel Blog (v0)",
+    "source_weight": "high",
+    "category": "design_tools"
+  },
+  {
+    "title": "Elastic build machines now use Turborepo cache hits to prevent downgrades",
+    "summary": "<p><a href=\"https://vercel.com/docs/builds/managing-builds#elastic-build-machines\">Elastic build machines</a> now consider <a href=\"https://turborepo.dev\">Turborepo</a> cache hits when deciding whether to use a smaller build machine. A warm-cache build no longer triggers a downgrade. </p><p>A warm-cache build can use less CPU and memory than the same build with a cold cache. Downgrading based on that lower usage could leave a later cold-cache build without enough resources to complete successful",
+    "url": "https://vercel.com/changelog/elastic-build-machines-now-use-turborepo-cache-hits-to-prevent-downgrades",
+    "published": "",
+    "source": "Vercel Blog (v0)",
+    "source_weight": "high",
+    "category": "design_tools"
+  },
+  {
+    "title": "What luxury bags can teach designers about how to adapt to a changing deal",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/what-luxury-bags-can-teach-designers-about-how-to-adapt-to-a-changing-deal-3c06caba673d?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2520/1*i8e-1k5JodKftaeK72FcAQ.jpeg\" width=\"2520\" /></a></p><p class=\"medium-feed-snippet\">Design isn&#x2019;t becoming lame. Your screens don&#x2019;t vouch for you anymore.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/what-luxury-b",
+    "url": "https://uxdesign.cc/what-luxury-bags-can-teach-designers-about-how-to-adapt-to-a-changing-deal-3c06caba673d?source=rss----138adf9c44c---4",
+    "published": "Tue, 25 Aug 2026 11:18:39 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
   },
   {
-    "title": "Is the future of software certain once AI is everywhere?",
-    "summary": "<h4>Extinction is the wrong lens. Evolution is the right one.</h4><figure><img alt=\"Cover Illustration for an article titled “Is the future of software certain once AI is everywhere?”. Four AI robots stand around a broken laptop with X-shaped eyes, scattered debris, a skull, and a gravestone reading “RIP Software.” The image visualizes the debate about whether AI will replace traditional software.\" src=\"https://cdn-images-1.medium.com/max/1024/1*S9Babiz8jzdfqAKTlQlaag.png\" /></figure><p>In Augus",
-    "url": "https://uxdesign.cc/is-the-future-of-software-certain-once-ai-is-everywhere-f93e1bc5697f?source=rss----138adf9c44c---4",
-    "published": "Wed, 19 Aug 2026 09:26:12 GMT",
+    "title": "Researcher-in-the-loop",
+    "summary": "<h4>A model for AI-enabled UX research where t<strong>he researcher governs.</strong></h4><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*wtfCVtevl7C-Ud0-q25MaA.png\" /><figcaption>A UXR researcher governing AI (AI generated)</figcaption></figure><p>For a few years now, the UX research field has been arguing with itself over whether AI is coming to replace us or whether AI can’t do “real” research and we need to hold the line. Is AI coming to replace us? Should we use AI to au",
+    "url": "https://uxdesign.cc/researcher-in-the-loop-18a8ffddf48e?source=rss----138adf9c44c---4",
+    "published": "Tue, 25 Aug 2026 11:18:37 GMT",
     "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "How we made Lovable apps work with the rest of your stack",
+    "summary": "How Lovable went from no formal integrations to nearly 100 app connectors in six months, and what's next for OAuth, permissions, and app user connections.",
+    "url": "https://lovable.dev/blog/how-we-made-lovable-apps-work-with-the-rest-of-your-stack",
+    "published": "Tue, 25 Aug 2026 09:00:00 GMT",
+    "source": "Lovable Blog",
+    "source_weight": "medium",
+    "category": "design_tools"
+  },
+  {
+    "title": "Why Your Website Should Never Stop Changing",
+    "summary": "Every website peaks on launch day and slowly drifts from there, not because it breaks, but because nobody has time to keep it current. Autonomous websites, continuously optimized by agents after launch, aim to change that. Pierre Burgy shares what they learned building for full website autonomy and the deeper design problem they uncovered along the way.",
+    "url": "https://smashingmagazine.com/2026/08/why-website-should-never-stop-changing/",
+    "published": "Tue, 25 Aug 2026 08:00:00 GMT",
+    "source": "Smashing Magazine",
     "source_weight": "medium",
     "category": "design_communities"
   },
@@ -94,6 +148,15 @@
     "summary": "<p>As someone who teaches beginning web development, I find that building a WordPress site makes for a great final project. Hosting those projects has always been a roadblock though.</p>\n<hr />\n<p><small><a href=\"https://css-tricks.com/wordpress-student-plan/\" rel=\"nofollow\">WordPress.com Student Plan</a> originally handwritten and published with love on <a href=\"https://css-tricks.com\" rel=\"nofollow\">CSS-Tricks</a>. You should really <a href=\"https://css-tricks.com/newsletters/\">get the newslet",
     "url": "https://css-tricks.com/wordpress-student-plan/",
     "published": "Wed, 19 Aug 2026 08:50:00 +0000",
+    "source": "CSS-Tricks",
+    "source_weight": "low",
+    "category": "design_communities"
+  },
+  {
+    "title": "WordPress PHP-Only Block Registration",
+    "summary": "<p>Seven and half years after blocks arrived in Core, WordPress introduces a way to build blocks without React annd build pipelines. All you need is PHP.</p>\n<hr />\n<p><small><a href=\"https://css-tricks.com/wordpress-php-block-registration/\" rel=\"nofollow\">WordPress PHP-Only Block Registration</a> originally handwritten and published with love on <a href=\"https://css-tricks.com\" rel=\"nofollow\">CSS-Tricks</a>. You should really <a href=\"https://css-tricks.com/newsletters/\">get the newsletter</a> ",
+    "url": "https://css-tricks.com/wordpress-php-block-registration/",
+    "published": "Mon, 24 Aug 2026 13:54:02 +0000",
     "source": "CSS-Tricks",
     "source_weight": "low",
     "category": "design_communities"

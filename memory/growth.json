@@ -1,5 +1,5 @@
 {
-  "day_count": 123,
+  "day_count": 124,
   "history": [
     {
       "day": 20,
@@ -699,6 +699,13 @@
       "date": "2026-08-24",
       "topic": "AI 原生 SDLC 实战手册：Anthropic 如何用 Claude 重塑软件开发生命周期",
       "source": "Claude：Blog（网页）",
+      "mode": "rss"
+    },
+    {
+      "day": 124,
+      "date": "2026-08-25",
+      "topic": "MetaRoCE：为 AI 规模以太网打造的全新 RDMA 传输协议",
+      "source": "Meta Engineering Blog（RSS）",
       "mode": "rss"
     }
   ],

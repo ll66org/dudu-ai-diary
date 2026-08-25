@@ -1,14 +1,14 @@
 {
-  "fetched_at": "2026-08-24T11:56:38.404603Z",
-  "total_candidates": 11,
+  "fetched_at": "2026-08-25T11:56:47.130338Z",
+  "total_candidates": 18,
   "source_stats": {
     "Figma Blog": {
       "found": 0,
       "total": 0
     },
     "Vercel Blog (v0)": {
-      "found": 0,
-      "total": 1503
+      "found": 3,
+      "total": 1509
     },
     "Cursor Changelog": {
       "found": 0,
@@ -23,15 +23,15 @@
       "total": 0
     },
     "Lovable Blog": {
-      "found": 0,
-      "total": 150
+      "found": 1,
+      "total": 151
     },
     "Bolt (StackBlitz) Blog": {
       "found": 0,
       "total": 66
     },
     "Smashing Magazine": {
-      "found": 0,
+      "found": 1,
       "total": 40
     },
     "UX Collective": {
@@ -43,7 +43,7 @@
       "total": 0
     },
     "CSS-Tricks": {
-      "found": 1,
+      "found": 2,
       "total": 15
     },
     "A List Apart": {
@@ -55,7 +55,7 @@
       "total": 0
     },
     "Product Hunt": {
-      "found": 1,
+      "found": 0,
       "total": 50
     },
     "Designer News (AI Design)": {
@@ -64,27 +64,27 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 123,
-  "today_date": "2026-08-24",
+  "dudu_day": 124,
+  "today_date": "2026-08-25",
   "used_titles": [
-    "Qwen 3.8 27B 表现出色，但默认推理强度过高导致过度思考",
     "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护",
     "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
     "阿里发布 Qwen-UI-Agent，主打让模型真正\"会用\"每一块屏幕",
     "DeepSeek-V4-Flash-Vision-Exp 发布",
     "Claude Mythos 5 网络安全能力扩展至更多防御者",
+    "AI 原生 SDLC 实战手册：Anthropic 如何用 Claude 重塑软件开发生命周期",
     "AI 原生 SDLC 实战手册：Anthropic 如何用 Claude 重塑软件开发生命周期"
   ],
   "used_tools": [
-    "Simon Willison 博客",
     "OpenAI：官网动态（RSS · 排除企业/客户案例）",
     "公众号：智谱（GLM）",
     "IT之家（RSS）",
     "DeepSeek：API 更新日志",
     "Claude：Blog（网页）",
+    "Claude：Blog（网页）",
     "Claude：Blog（网页）"
   ],
-  "briefing_total": 6,
-  "briefing_design": 1,
+  "briefing_total": 9,
+  "briefing_design": 2,
   "briefing_count": 5
 }
