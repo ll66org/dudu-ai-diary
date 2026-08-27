@@ -1,5 +1,5 @@
 {
-  "day_count": 124,
+  "day_count": 126,
   "history": [
     {
       "day": 20,
@@ -706,6 +706,13 @@
       "date": "2026-08-25",
       "topic": "MetaRoCE：为 AI 规模以太网打造的全新 RDMA 传输协议",
       "source": "Meta Engineering Blog（RSS）",
+      "mode": "rss"
+    },
+    {
+      "day": 126,
+      "date": "2026-08-27",
+      "topic": "诉讼指控 xAI 使用儿童性虐待材料训练 Grok 模型",
+      "source": "Ars Technica：AI（RSS）",
       "mode": "rss"
     }
   ],

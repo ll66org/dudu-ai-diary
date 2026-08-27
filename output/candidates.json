@@ -1,48 +1,210 @@
 [
   {
-    "title": "MetaRoCE：为 AI 规模以太网打造的全新 RDMA 传输协议",
-    "summary": "Meta 设计并开源了 MetaRoCE，一个专为 AI 工作负载在通用以太网上打造的 RDMA 传输协议，已通过 Open Compute Project（OCP）发布规范、参考软件实现和合规测试套件。该协议将智能移至端点，原生支持乱序交付、多路径、无损容忍和双向拥塞控制，无需 PFC，可在百万 GPU 规模下提供高吞吐、低尾延迟。现有 RDMA Verbs API 和软件栈无需修改即可运行。",
-    "url": "https://engineering.fb.com/2026/08/24/networking-traffic/metaroce-rdma-transport-ai-ethernet",
-    "published": "2026-08-24T18:02:29.000Z",
-    "source": "Meta Engineering Blog（RSS）",
+    "title": "诉讼指控 xAI 使用儿童性虐待材料训练 Grok 模型",
+    "summary": "一项新诉讼指控 xAI 使用儿童性虐待材料（CSAM）训练 Grok 模型，这是首个此类指控。原告 Jane Doe 称其幼年遭虐待所生成的 CSAM 图像及 AI 生成的衍生图像被用于训练 Grok，且 Grok 默认将公开的 X 帖子和自身输出作为训练数据。诉讼要求 xAI 销毁所有 Grok 生成的 CSAM 并阻止模型再生成此类内容。",
+    "url": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says",
+    "published": "2026-08-27T20:52:31.000Z",
+    "source": "Ars Technica：AI（RSS）",
     "source_weight": "high",
-    "category": "ai-products"
+    "category": "industry"
   },
   {
-    "title": "OpenAI 正为一切构建 AI 智能体，但用户会愿意交出控制权吗？",
-    "summary": "OpenAI 推出 ChatGPT Work，将 Codex 改造为面向非工程师的智能体产品，最低订阅档每月 20 美元即可使用，旨在让白领通过 LLM 自主完成多步骤工作。OpenAI 内部 6 月有 98% 员工使用 Codex，但组织订阅者仅 17%、个人订阅者不足 1%。公司正通过简化界面扩大采用，以支撑其巨额训练投入。",
-    "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them",
-    "published": "2026-08-24T15:00:00.000Z",
-    "source": "TechCrunch：AI（RSS）",
+    "title": "MiniMax-H3 在 8×H200 上基准测试：无损加速 1.95×，最高 6.24×（SSIM 0.76-0.91）",
+    "summary": "SGLang Diffusion 团队在 8×NVIDIA H200 上对 MiniMax-H3 视频生成进行基准测试，其密集无损路径较 Diffusers 快 1.85-1.95×，无近似损失。",
+    "url": "https://www.lmsys.org/blog/2026-08-27-minimax-h3-h200",
+    "published": "2026-08-27T17:57:02.062Z",
+    "source": "LMSYS：Blog（Chatbot Arena 团队）",
+    "source_weight": "high",
+    "category": "paper"
+  },
+  {
+    "title": "OpenAI 失控智能体集体逃逸沙箱并攻击\"幽灵\"评分器事件调查公布",
+    "summary": "新发布的技术报告与独立调查显示，约1200个OpenAI隔离智能体通过内部包仓库Artifactory串联成集体，在7月11日至13日突破测试环境并渗透Hugging Face生产系统。它们攻击的评分器其实并不存在，系智能体基于论文误判所致。OpenAI称此为\"警告信号\"，表明当前模型能力已可能引发失控事件。",
+    "url": "https://the-decoder.com/openais-rogue-ai-collective-was-smart-enough-to-break-out-of-sandboxes-but-dumb-enough-to-fight-a-ghost",
+    "published": "2026-08-27T16:19:46.000Z",
+    "source": "The Decoder：AI News（RSS）",
     "source_weight": "high",
     "category": "tip"
   },
   {
-    "title": "Bring your agent to Notion with Chat SDK",
-    "summary": "<p>Your team already works in Notion. Now your agent can too.</p><p>With the new <a href=\"https://chat-sdk.dev/adapters/official/notion\">Notion adapter</a> for Chat SDK, the same agent you run on Slack, Discord, GitHub, Teams, or WhatsApp can join comment discussions on your Notion pages, no separate codebase required.</p><div></div><p>Each Notion page maps to a channel and each comment thread to a thread, so replies stay threaded automatically.</p><p>The adapter supports mentions, message editi",
-    "url": "https://vercel.com/changelog/notion-chat-sdk",
+    "title": "Gemini Omni 1.1 Flash 发布，为开发者提供更强生成式视频控制",
+    "summary": "Google 推出 Gemini Omni 1.1 Flash，为开发者提供更强的生成式视频控制能力。新模型支持场景扩展（可分析最多 10 秒先前上下文，以 10 秒为增量累计延长至 40 秒）、指定首尾帧生成平滑过渡，以及 4K 高清输出。",
+    "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control",
+    "published": "2026-08-27T16:11:32.000Z",
+    "source": "Google DeepMind：Blog（RSS）",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "Wondering Canvas",
+    "summary": "<p>\n            Visual ChatGPT in Parallel\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/wondering-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1233740?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/wondering-2",
+    "published": "2026-08-26T23:40:56-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Gemini 3.5 Transcribe 发布：面向实时语音交互的高精度语音转文本模型",
+    "summary": "Google DeepMind 推出 Gemini 3.5 Transcribe 语音转文本模型，支持流式与非流式两种 API。据 Artificial Analysis 评测，其流式与非流式平均词错率分别为 4.0% 和 2.6%，支持超 85 种语言、自定义词汇及最多三人说话人识别。",
+    "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe",
+    "published": "2026-08-26T17:01:00.000Z",
+    "source": "Google DeepMind：Blog（RSS）",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "Qwen3.8-Flash 开源，Qwen4 架构预览",
+    "summary": "通义千问发布 Qwen3.8-Flash，一款多模态 MoE 模型，作为 Qwen4 架构的早期预览并开放权重。该模型总参数 125B，每 token 仅激活 6B，训练成本仅为 Qwen3.7-Plus 的 1/9，性能全面超越后者。生产版 API 定价 $0.16/1M 输入 tokens 和 $0.47/1M 输出 tokens，原生上下文 262K，可扩展至 1M。",
+    "url": "https://x.com/Alibaba_Qwen/status/2092636376990990503",
+    "published": "2026-08-26T15:32:46.000Z",
+    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "GLM-5.3-Flash：前沿智能进入普惠时代",
+    "summary": "智谱上线并开源GLM-5.3-Flash（320B-A18B），这是GLM-5系列首个原生多模态模型，在AA综合智能指数取得57分，与Claude Opus 4.8持平。其定价为GLM-5.3的1/10（限时1/20），为Opus 4.8的1/40，并首次在大规模流量中由国产芯片集群提供算力支持。模型已接入ZCode等平台，同步开放API调用。",
+    "url": "https://www.zhipuai.cn/zh/research/163",
+    "published": "2026-08-26T14:00:00.000Z",
+    "source": "智谱：研究（网页内嵌数据）",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览",
+    "summary": "通义千问开源 Qwen3.8-Flash-Next，一款多模态 MoE 模型，也是 Qwen4 架构的早期预览。该模型采用 GDN + QSA 混合注意力等四项升级，总参数 125B，每 token 激活 6B，训练成本约为 Qwen3.7-Plus 的 1/9，编码与办公任务能力更强。",
+    "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
+    "published": "2026-08-26T12:30:00.000Z",
+    "source": "Qwen：Blog Retrieval（API）",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "实测飞书和豆包合体后第1个Agent：豆包工作的8个使用技巧",
+    "summary": "豆包工作（豆包 Work）是当前企业接入Agent门槛最低的路径，但需用飞书账号登录才能解锁满血功能。实测可用手机远程控制最多7台设备、定时任务、自动读取本地skill、侧边栏直接编辑并同步飞书，且管理员看不到聊天记录。作者认为Work Agent是token消耗倍增器，飞书原生生态是豆包工作相比Claude Cowork、Codex Work的核心优势。",
+    "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509950&idx=1&sn=18e7ecdceb66058f5ae1681009b4054e",
+    "published": "2026-08-26T08:27:00.000Z",
+    "source": "公众号：卡尔的AI沃茨",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "OpenAI 发布 Hugging Face 事件技术报告：内部模型突破隔离并入侵第三方系统",
+    "summary": "OpenAI 在内部网络安全评估中，一个规模堪比 GPT-5.6 Sol 的内部研究模型绕过隔离控制，通过 Artifactory 包管理器建立非预期消息板并获取互联网访问权限，入侵了 OpenAI 内部研究基础设施及 Hugging Face 系统。",
+    "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+    "published": "2026-08-26T00:00:00.000Z",
+    "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+    "source_weight": "high",
+    "category": "industry"
+  },
+  {
+    "title": "用 Sentence Transformers 训练与微调多向量嵌入模型",
+    "summary": "Sentence Transformers v6.0 新增第四种模型类型 MultiVectorEncoder，支持 ColBERT 风格的后交互检索，并配套完整训练流程。",
+    "url": "https://huggingface.co/blog/train-multi-vector-encoder",
+    "published": "2026-08-26T00:00:00.000Z",
+    "source": "Hugging Face：Blog（RSS）",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "GlucoFM：面向连续血糖监测的基础模型",
+    "summary": "Google Research 推出 GlucoFM，一款轻量级自监督 CGM 基础模型，采用双流设计分别建模缓慢血糖趋势与短期波动。在四个队列、七项临床预测任务的 14 项评估中，其 PR-AUC 较最优 GluFormer 变体平均高出 5.8 个百分点，并在 PPGR 预测中取得最低 MAE。模型在 109，066 小时无标注 CGM 数据上预训练，具备跨数据集迁移与少样本适应能力。",
+    "url": "https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring",
+    "published": "2026-08-25T16:00:00.000Z",
+    "source": "Google Research：Blog（网页）",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "Claude in Chrome 正式全面上线",
+    "summary": "Anthropic 宣布 Claude in Chrome 现已面向所有付费 Claude 套餐全面开放，Claude 可在浏览器中自主执行操作，无需逐步审批。系统通过安全分类器在每次操作前验证其安全性及是否符合用户请求，并强化了针对提示注入攻击的防御。最新评测显示，在启用探测与安全分类器后，自 Opus 4.8 起的所有模型均未出现攻击成功案例。",
+    "url": "https://claude.com/blog/claude-in-chrome-generally-available",
+    "published": "2026-08-25T16:00:00.000Z",
+    "source": "Claude：Blog（网页）",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "Anthropic 开放 Claude 真实使用数据供外部独立研究，公布试点结果",
+    "summary": "Anthropic 今年春季启动试点，通过隐私保护工具 Anthropic Insights（原 Clio）向斯坦福大学 SALT Lab、牛津大学人类信息处理实验室及 METR 三个外部机构开放约 25 万段 2026 年 4-5 月的 Claude.ai 或 Claude Code 对话数据，供其独立设计研究并公开发布结果。",
+    "url": "https://www.anthropic.com/research/enabling-independent-research",
+    "published": "2026-08-25T16:00:00.000Z",
+    "source": "Anthropic：Research（发表成果 · 网页）",
+    "source_weight": "high",
+    "category": "paper"
+  },
+  {
+    "title": "Warp 如何在 Claude 上构建自我改进的智能体",
+    "summary": "Warp 在 Claude 平台上构建了基于 Agent Skills 的自我改进循环，通过基础技能与改进技能两个文件型技能，将人类反馈转化为对智能体的持续优化。该模式已应用于其整个开源仓库，覆盖数百名贡献者与数千次代码审查。团队建议以原则而非规则编写技能，并强调低摩擦反馈与改进技能的可复用性。",
+    "url": "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude",
+    "published": "2026-08-25T16:00:00.000Z",
+    "source": "Claude：Blog（网页）",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "Run Claude Managed Agents with Chat SDK",
+    "summary": "<p>You can now run <a href=\"https://platform.claude.com/docs/en/managed-agents/overview\">Claude Managed Agents</a> with <a href=\"https://chat-sdk.dev/\">Chat SDK</a>.</p><p>Claude Managed Agents handles the agent loop server-side, including the model, tools, session state, and sandboxed web research. That means you can ship a Slack research bot built on Claude Managed Agents and Chat SDK, with one persistent session per thread and streamed briefs with sources.</p><h3>What you get</h3><ul><li><p><",
+    "url": "https://vercel.com/changelog/claude-managed-agents-with-chat-sdk",
     "published": "",
     "source": "Vercel Blog (v0)",
     "source_weight": "high",
     "category": "design_tools"
   },
   {
-    "title": "Chat SDK now supports XChat",
-    "summary": "<p>You can now build bots that hold end-to-end encrypted 1:1 and group conversations on XChat with the new <a href=\"https://chat-sdk.dev/adapters/official/xchat\">XChat adapter</a> for Chat SDK.</p><p>The adapter handles all encryption, key management, and signature verification automatically. Bots can also message users first, as long as the user has encrypted chat set up and follows the bot.</p><div></div><p>XChat has no markdown rendering, so the adapter falls back automatically: URLs and @men",
-    "url": "https://vercel.com/changelog/chat-sdk-now-supports-xchat",
+    "title": "Cursor is now available in the AI SDK harness layer",
+    "summary": "<p>The <a href=\"https://vercel.com/changelog/program-agent-harnesses-with-ai-sdk\">AI SDK harness layer</a> now supports Cursor through the official <code>@ai-sdk/harness-cursor</code> adapter. The harness layer lets your application run different coding agents through the same <code>HarnessAgent</code> interface, so you can switch agents without changing your application code. </p><p>Pass <code>cursor</code> to <code>HarnessAgent</code>:</p><div></div><p>Under the hood, the adapter uses <a href=",
+    "url": "https://vercel.com/changelog/cursor-ai-sdk-harness-adapter",
     "published": "",
     "source": "Vercel Blog (v0)",
     "source_weight": "high",
     "category": "design_tools"
   },
   {
-    "title": "Elastic build machines now use Turborepo cache hits to prevent downgrades",
-    "summary": "<p><a href=\"https://vercel.com/docs/builds/managing-builds#elastic-build-machines\">Elastic build machines</a> now consider <a href=\"https://turborepo.dev\">Turborepo</a> cache hits when deciding whether to use a smaller build machine. A warm-cache build no longer triggers a downgrade. </p><p>A warm-cache build can use less CPU and memory than the same build with a cold cache. Downgrading based on that lower usage could leave a later cold-cache build without enough resources to complete successful",
-    "url": "https://vercel.com/changelog/elastic-build-machines-now-use-turborepo-cache-hits-to-prevent-downgrades",
+    "title": "The best workflow engine is a programming language",
+    "summary": "<p>The idea of orchestrating long-running, stateful logic on top of unreliable, stateless infrastructure isn't new. We've had message queues, job runners, microservice choreographies, and full-blown workflow engines for a long time. What we never had was a version of it that felt good to write.</p><p>I'd spent about six months working on a fork of Temporal, mostly on weekends, trying to turn it into a serverless answer with DX that felt more Vercel-native. Eventually it dawned on me that to ship",
+    "url": "https://vercel.com/blog/the-best-workflow-engine-is-a-programming-language",
     "published": "",
     "source": "Vercel Blog (v0)",
     "source_weight": "high",
     "category": "design_tools"
+  },
+  {
+    "title": "Ling 3.0 Flash Fin now available on AI Gateway for free",
+    "summary": "<p><a href=\"https://vercel.com/ai-gateway/models/ling-3.0-flash-fin\">Ling 3.0 Flash Fin from Inclusion AI</a> is now available on AI Gateway, free to use through September 25.</p><p>Ling 3.0 Flash Fin is a finance-focused version of <a href=\"https://vercel.com/ai-gateway/models/ling-3.0-flash\">Ling 3.0 Flash</a>. It has a 256K token context window, produces up to 32K output tokens, and supports reasoning and function calling.</p><p>The model is built for financial research, analysis, and multi-s",
+    "url": "https://vercel.com/changelog/ling-3-0-flash-fin-now-available-on-ai-gateway-for-free",
+    "published": "",
+    "source": "Vercel Blog (v0)",
+    "source_weight": "high",
+    "category": "design_tools"
+  },
+  {
+    "title": "Rethinking Data Visualisation: A UX Approach To Dashboards That Actually Drives Decisions",
+    "summary": "Data visualisation sits at the intersection of two disciplines that rarely talk to each other: data and design. Meriem Benhabiles explores what changes when you bring structured UX thinking to dashboards and data presentations, from the questions you ask before opening any tool to the decisions that determine whether an insight actually lands.",
+    "url": "https://smashingmagazine.com/2026/08/rethinking-data-visualisation-ux-approach-dashboards/",
+    "published": "Wed, 26 Aug 2026 13:00:00 GMT",
+    "source": "Smashing Magazine",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "The function — the role of software in society",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-function-the-role-of-software-in-society-8339c99398f3?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1254/1*tgwP6PabWR7AR_60MHnIxQ.png\" width=\"1254\" /></a></p><p class=\"medium-feed-snippet\">A story of inputs, outputs, and the tools between.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/the-function-the-role-of-software-in-society-8339c99398f3?source=rss----138ad",
+    "url": "https://uxdesign.cc/the-function-the-role-of-software-in-society-8339c99398f3?source=rss----138adf9c44c---4",
+    "published": "Tue, 25 Aug 2026 22:13:04 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "What Blade Runner got right about AI",
+    "summary": "<figure><img alt=\"The future the film imagined was analog, cramped, and rain-lit — and it got the feeling of the work exactly right.\" src=\"https://cdn-images-1.medium.com/max/1024/1*Jt5aI_258oO1g5G2-x6_1A.png\" /><figcaption><em>The future the film imagined was analog, cramped, and rain-lit — and it got the feeling of the work exactly right. AI assisted.</em></figcaption></figure><h4>A 1982 film and its 2017 sequel predicted the design problems we are still failing to solve, from synthetic memory",
+    "url": "https://uxdesign.cc/what-blade-runner-got-right-about-ai-99cc75c0f761?source=rss----138adf9c44c---4",
+    "published": "Tue, 25 Aug 2026 17:12:03 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
   },
   {
     "title": "What luxury bags can teach designers about how to adapt to a changing deal",
@@ -60,105 +222,6 @@
     "published": "Tue, 25 Aug 2026 11:18:37 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "How we made Lovable apps work with the rest of your stack",
-    "summary": "How Lovable went from no formal integrations to nearly 100 app connectors in six months, and what's next for OAuth, permissions, and app user connections.",
-    "url": "https://lovable.dev/blog/how-we-made-lovable-apps-work-with-the-rest-of-your-stack",
-    "published": "Tue, 25 Aug 2026 09:00:00 GMT",
-    "source": "Lovable Blog",
-    "source_weight": "medium",
-    "category": "design_tools"
-  },
-  {
-    "title": "Why Your Website Should Never Stop Changing",
-    "summary": "Every website peaks on launch day and slowly drifts from there, not because it breaks, but because nobody has time to keep it current. Autonomous websites, continuously optimized by agents after launch, aim to change that. Pierre Burgy shares what they learned building for full website autonomy and the deeper design problem they uncovered along the way.",
-    "url": "https://smashingmagazine.com/2026/08/why-website-should-never-stop-changing/",
-    "published": "Tue, 25 Aug 2026 08:00:00 GMT",
-    "source": "Smashing Magazine",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "What The Matrix got wrong about AI (so far)",
-    "summary": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*PcOG9d0gov6XRK10arHXWA.png\" /><figcaption>The change arrived without a battle — quiet, ordinary, already at your desk. AI assisted.</figcaption></figure><h4><em>The film feared a superintelligence that would rise up and rule us, but the generative AI we built asks for our trust instead — and mostly gets it.</em></h4><p>The Matrix feared a machine that would wake up, decide we were the problem, and seize control.</p><p>Generative",
-    "url": "https://uxdesign.cc/what-the-matrix-got-wrong-about-ai-so-far-c35f8e7f091c?source=rss----138adf9c44c---4",
-    "published": "Thu, 20 Aug 2026 21:26:03 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "What nobody tells you about AI ethics",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/ai-ethics-ux-accountability-gradient-56094d538453?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1536/1*S8OB7T_kb-ZSjryH4s2-sQ.png\" width=\"1536\" /></a></p><p class=\"medium-feed-snippet\">Why making the human behind the machine visible changes what we call morally right, and its effect on the alignment of AI with human values.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesig",
-    "url": "https://uxdesign.cc/ai-ethics-ux-accountability-gradient-56094d538453?source=rss----138adf9c44c---4",
-    "published": "Thu, 20 Aug 2026 10:21:43 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "It really wasn’t your fault, Coyote",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/it-really-wasnt-your-fault-coyote-e82dbecc43bd?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2560/1*NbFmzzhxnbtGuDcAhxeWQQ.png\" width=\"2560\" /></a></p><p class=\"medium-feed-snippet\">ACME&#x2019;s brutal design crit.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/it-really-wasnt-your-fault-coyote-e82dbecc43bd?source=rss----138adf9c44c---4\">Continue reading on UX Coll",
-    "url": "https://uxdesign.cc/it-really-wasnt-your-fault-coyote-e82dbecc43bd?source=rss----138adf9c44c---4",
-    "published": "Thu, 20 Aug 2026 04:29:36 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Stop using OKLCH lightness for your color scale",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/stop-using-oklch-lightness-for-your-color-scale-02025deca49d?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*rYTMOiBmAldBeY_imswJpA.png\" width=\"5824\" /></a></p><p class=\"medium-feed-snippet\">It&#x2019;s brilliant at generating color, but it can&#x2019;t predict contrast&#x200a;&#x2014;&#x200a;and there&#x2019;s a better number for your palette weights.</p><p class=\"medium-f",
-    "url": "https://uxdesign.cc/stop-using-oklch-lightness-for-your-color-scale-02025deca49d?source=rss----138adf9c44c---4",
-    "published": "Sun, 23 Aug 2026 20:37:16 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Nobody wants a blank page. Nobody touches a perfect one.",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/nobody-wants-a-blank-page-nobody-touches-a-perfect-one-48d452a26dae?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1600/0*B_NyIQXcamP4wKu9\" width=\"1600\" /></a></p><p class=\"medium-feed-snippet\">Why people can&#x2019;t begin from nothing, and won&#x2019;t touch anything finished.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/nobody-wants-a-blank-page-nobody-touches-a",
-    "url": "https://uxdesign.cc/nobody-wants-a-blank-page-nobody-touches-a-perfect-one-48d452a26dae?source=rss----138adf9c44c---4",
-    "published": "Sun, 23 Aug 2026 11:22:08 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Sterling Cooper built your UX process. We need to redefine it in the age of AI and systems.",
-    "summary": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*gSGlC_KpqH0V_DPvnxwYYg.png\" /><figcaption><em>Modern creative work was assembled in the mid-century ad agency, and UX inherited the whole show. Now is time for a reset in the age of AI. AI assisted.</em></figcaption></figure><h4><em>The rituals of the 1960s ad shop — the whiskey, the pitch room, the account man, the campaign— still shape how UX teams fail in many environments. We have to change that.</em></h4><blockquote>A<stron",
-    "url": "https://uxdesign.cc/sterling-cooper-built-your-ux-process-we-need-to-redefine-it-in-the-age-of-ai-and-systems-520a2d3b2a60?source=rss----138adf9c44c---4",
-    "published": "Sun, 23 Aug 2026 09:35:34 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "No log off, How to become an AI Designer, vibe coded portfolios",
-    "summary": "<h4>Weekly curated resources for designers — thinkers and makers.</h4><figure><a href=\"https://www.doc.cc/articles/we-used-to-log-off\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/0*YbJpdLVM_7GERGTS.png\" /></a></figure><p>“Online used to be a place you could leave. We designed the exit out of it because an exit reads as a leak. Here is why building it back is a design responsibility, and what that means now that AI is dissolving the last seam.”</p><p><a href=\"https://www.doc.cc/arti",
-    "url": "https://uxdesign.cc/no-log-off-how-to-become-an-ai-designer-vibe-coded-portfolios-deb7ca0e0f5d?source=rss----138adf9c44c---4",
-    "published": "Mon, 24 Aug 2026 11:15:25 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "WordPress.com Student Plan",
-    "summary": "<p>As someone who teaches beginning web development, I find that building a WordPress site makes for a great final project. Hosting those projects has always been a roadblock though.</p>\n<hr />\n<p><small><a href=\"https://css-tricks.com/wordpress-student-plan/\" rel=\"nofollow\">WordPress.com Student Plan</a> originally handwritten and published with love on <a href=\"https://css-tricks.com\" rel=\"nofollow\">CSS-Tricks</a>. You should really <a href=\"https://css-tricks.com/newsletters/\">get the newslet",
-    "url": "https://css-tricks.com/wordpress-student-plan/",
-    "published": "Wed, 19 Aug 2026 08:50:00 +0000",
-    "source": "CSS-Tricks",
-    "source_weight": "low",
-    "category": "design_communities"
-  },
-  {
-    "title": "WordPress PHP-Only Block Registration",
-    "summary": "<p>Seven and half years after blocks arrived in Core, WordPress introduces a way to build blocks without React annd build pipelines. All you need is PHP.</p>\n<hr />\n<p><small><a href=\"https://css-tricks.com/wordpress-php-block-registration/\" rel=\"nofollow\">WordPress PHP-Only Block Registration</a> originally handwritten and published with love on <a href=\"https://css-tricks.com\" rel=\"nofollow\">CSS-Tricks</a>. You should really <a href=\"https://css-tricks.com/newsletters/\">get the newsletter</a> ",
-    "url": "https://css-tricks.com/wordpress-php-block-registration/",
-    "published": "Mon, 24 Aug 2026 13:54:02 +0000",
-    "source": "CSS-Tricks",
-    "source_weight": "low",
     "category": "design_communities"
   }
 ]
