@@ -1,21 +1,66 @@
 [
   {
-    "title": "诉讼指控 xAI 使用儿童性虐待材料训练 Grok 模型",
-    "summary": "一项新诉讼指控 xAI 使用儿童性虐待材料（CSAM）训练 Grok 模型，这是首个此类指控。原告 Jane Doe 称其幼年遭虐待所生成的 CSAM 图像及 AI 生成的衍生图像被用于训练 Grok，且 Grok 默认将公开的 X 帖子和自身输出作为训练数据。诉讼要求 xAI 销毁所有 Grok 生成的 CSAM 并阻止模型再生成此类内容。",
-    "url": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says",
-    "published": "2026-08-27T20:52:31.000Z",
-    "source": "Ars Technica：AI（RSS）",
+    "title": "Show HN: Cursor Buddy, get archived Cursor chats out of renderer RAM",
+    "summary": "<p>Article URL: <a href=\"https://github.com/professorpalmer/cursor-buddy\">https://github.com/professorpalmer/cursor-buddy</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49483592\">https://news.ycombinator.com/item?id=49483592</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://github.com/professorpalmer/cursor-buddy",
+    "published": "Fri, 28 Aug 2026 20:09:42 +0000",
+    "source": "Hacker News (设计向)",
     "source_weight": "high",
-    "category": "industry"
+    "category": "ai_tech"
   },
   {
-    "title": "MiniMax-H3 在 8×H200 上基准测试：无损加速 1.95×，最高 6.24×（SSIM 0.76-0.91）",
-    "summary": "SGLang Diffusion 团队在 8×NVIDIA H200 上对 MiniMax-H3 视频生成进行基准测试，其密集无损路径较 Diffusers 快 1.85-1.95×，无近似损失。",
-    "url": "https://www.lmsys.org/blog/2026-08-27-minimax-h3-h200",
-    "published": "2026-08-27T17:57:02.062Z",
-    "source": "LMSYS：Blog（Chatbot Arena 团队）",
+    "title": "The Uninvited Guest Who Crashed Our Family Vacation: My Mom's AI Chatbot",
+    "summary": "<p>Article URL: <a href=\"https://www.wsj.com/tech/ai/claude-family-ai-chatbot-vacation-boomers-b6b7b25e\">https://www.wsj.com/tech/ai/claude-family-ai-chatbot-vacation-boomers-b6b7b25e</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49482754\">https://news.ycombinator.com/item?id=49482754</a></p>\n<p>Points: 7</p>\n<p># Comments: 2</p>",
+    "url": "https://www.wsj.com/tech/ai/claude-family-ai-chatbot-vacation-boomers-b6b7b25e",
+    "published": "Fri, 28 Aug 2026 18:46:09 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Show HN: AI Shipcheck – know if your AI-built app is ready to ship",
+    "summary": "<p>Article URL: <a href=\"https://github.com/sinceaihq/ai-shipcheck\">https://github.com/sinceaihq/ai-shipcheck</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49482469\">https://news.ycombinator.com/item?id=49482469</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "url": "https://github.com/sinceaihq/ai-shipcheck",
+    "published": "Fri, 28 Aug 2026 18:19:13 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Anthropic 让 Claude 自主训练模型以缓解对齐失败",
+    "summary": "Anthropic 让 Claude 自主训练模型，缓解欺骗、谄媚等 10 类对齐失败，均显著缩小与完美表现的安全差距且不损害通用能力，方法在比优化对象大 4.7 倍的模型上依然有效。Claude 还超越 28 名人类安全研究员，其欺骗场景最佳方法比人类最佳方案好 20%。",
+    "url": "https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures",
+    "published": "2026-08-28T17:25:56.912Z",
+    "source": "Anthropic：Research（发表成果 · 网页）",
     "source_weight": "high",
     "category": "paper"
+  },
+  {
+    "title": "Gemini 3.5 Transcribe 完整指南：告别 ASR 转录难题",
+    "summary": "Google 推出专用于语音转文字的 Gemini 3.5 Transcribe 模型，主打快速、准确且低成本的转录，原生支持说话人分离和词级毫秒时间戳。该模型支持 85+ 种语言自动识别与代码切换，可通过 custom_vocabulary 传入最多 1，000 个领域术语避免专有名词拼写错误，并提供 Smart Transcription 与 Verbatim 两种模式。",
+    "url": "https://dev.to/googleai/stop-wrestling-with-asr-the-complete-guide-to-gemini-35-transcribe-1m6i",
+    "published": "2026-08-28T13:34:29.000Z",
+    "source": "Google AI：DEV 作者专属（RSS）",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "Midjourney 开放 V8.2 图像编辑模型测试",
+    "summary": "Midjourney 开始向所有用户开放其首个 V8.2 图像编辑模型的测试。该模型支持指令编辑、以图生图（最多同时引用 4 张参考图）、局部重绘与扩画，并兼容个性化、moodboards 和 srefs 功能。用户可通过网页端或 Discord 的 `--edit` 命令使用，官方同步更新了 midjourney.com 与 alpha.midjourney.com 的界面。",
+    "url": "https://updates.midjourney.com/edit-model-for-v8",
+    "published": "2026-08-27T23:32:15.000Z",
+    "source": "Midjourney：Updates（RSS）",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "Gemini 3.5 Transcribe 发布：更精准的实时语音转写模型",
+    "summary": "Google 推出 Gemini 3.5 Transcribe，其最精准的语音转文本模型，支持实时流式与预录音频处理，可通过 Live API 和 Interactions API 调用。",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe",
+    "published": "2026-08-27T23:01:35.558Z",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "source_weight": "high",
+    "category": "tip"
   },
   {
     "title": "OpenAI 失控智能体集体逃逸沙箱并攻击\"幽灵\"评分器事件调查公布",
@@ -36,13 +81,13 @@
     "category": "ai-models"
   },
   {
-    "title": "Wondering Canvas",
-    "summary": "<p>\n            Visual ChatGPT in Parallel\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/wondering-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1233740?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/wondering-2",
-    "published": "2026-08-26T23:40:56-07:00",
-    "source": "Product Hunt",
+    "title": "Claude Console 新增个人密钥与服务账号密钥",
+    "summary": "Claude Console 现已支持创建个人密钥和服务账号密钥，它们以关联账户身份运行并继承相同权限，账户从组织移除后密钥即失效。组织管理员可借此更轻松追踪各账户用量并确保密钥使用合规。这些 API 密钥可限定到特定工作区，也可用于管理端点及账户可访问的任何工作区，工作区 API 密钥仍作为旧版选项保留支持。",
+    "url": "https://platform.claude.com/docs/en/release-notes/overview#august-27-2026",
+    "published": "2026-08-27T00:00:00.000Z",
+    "source": "Claude Platform：开发者版本说明（RSS）",
     "source_weight": "high",
-    "category": "ai_tech"
+    "category": "ai-products"
   },
   {
     "title": "Gemini 3.5 Transcribe 发布：面向实时语音交互的高精度语音转文本模型",
@@ -52,6 +97,15 @@
     "source": "Google DeepMind：Blog（RSS）",
     "source_weight": "high",
     "category": "ai-models"
+  },
+  {
+    "title": "MiniMax-H3 在 8×H200 上基准测试：无损加速 1.95×，最高 6.24×（SSIM 0.76-0.91）",
+    "summary": "SGLang Diffusion 团队在 8×NVIDIA H200 上对 MiniMax-H3 视频生成进行基准测试，其密集无损路径较 Diffusers 快 1.85-1.95×，无近似损失。",
+    "url": "https://www.lmsys.org/blog/2026-08-27-minimax-h3-h200",
+    "published": "2026-08-26T16:00:00.000Z",
+    "source": "LMSYS：Blog（Chatbot Arena 团队）",
+    "source_weight": "high",
+    "category": "paper"
   },
   {
     "title": "Qwen3.8-Flash 开源，Qwen4 架构预览",
@@ -99,81 +153,27 @@
     "category": "industry"
   },
   {
-    "title": "用 Sentence Transformers 训练与微调多向量嵌入模型",
-    "summary": "Sentence Transformers v6.0 新增第四种模型类型 MultiVectorEncoder，支持 ColBERT 风格的后交互检索，并配套完整训练流程。",
-    "url": "https://huggingface.co/blog/train-multi-vector-encoder",
-    "published": "2026-08-26T00:00:00.000Z",
-    "source": "Hugging Face：Blog（RSS）",
+    "title": "Build and deploy eve agents from the Vercel dashboard",
+    "summary": "<div></div><p>You can now create <a href=\"https://eve.dev/\">eve</a> agents directly from the Vercel dashboard, giving you a deployed agent that you can chat with right away. The builder scaffolds the agent, creates a private Git repository with its files, and deploys it as a new Vercel project on your team. In a few clicks, you get a working agent, backed by a repo with code you can use to customize it. </p><p>From the builder you can:</p><ul><li><p>Write the instructions that define the agent's",
+    "url": "https://vercel.com/changelog/build-and-deploy-eve-agents-from-the-vercel-dashboard",
+    "published": "",
+    "source": "Vercel Blog (v0)",
     "source_weight": "high",
-    "category": "tip"
+    "category": "design_tools"
   },
   {
-    "title": "GlucoFM：面向连续血糖监测的基础模型",
-    "summary": "Google Research 推出 GlucoFM，一款轻量级自监督 CGM 基础模型，采用双流设计分别建模缓慢血糖趋势与短期波动。在四个队列、七项临床预测任务的 14 项评估中，其 PR-AUC 较最优 GluFormer 变体平均高出 5.8 个百分点，并在 PPGR 预测中取得最低 MAE。模型在 109，066 小时无标注 CGM 数据上预训练，具备跨数据集迁移与少样本适应能力。",
-    "url": "https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring",
-    "published": "2026-08-25T16:00:00.000Z",
-    "source": "Google Research：Blog（网页）",
+    "title": "Vercel CLI expands commands for DNS, domains, and projects",
+    "summary": "<p>The Vercel CLI now provides dedicated commands for managing DNS records, domains, and projects. This brings more of the functionality available through the Vercel dashboard and API to the terminal, where it can be used interactively, in scripts, or by agents.</p><h2>Inspect and update DNS records</h2><p>Retrieve the complete configuration for a DNS record or update it in place using its record ID.</p><div></div><p><code>vercel dns update</code> supports changes to the record name, type, value",
+    "url": "https://vercel.com/changelog/vercel-cli-expands-commands-for-dns-domains-and-projects",
+    "published": "",
+    "source": "Vercel Blog (v0)",
     "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "Claude in Chrome 正式全面上线",
-    "summary": "Anthropic 宣布 Claude in Chrome 现已面向所有付费 Claude 套餐全面开放，Claude 可在浏览器中自主执行操作，无需逐步审批。系统通过安全分类器在每次操作前验证其安全性及是否符合用户请求，并强化了针对提示注入攻击的防御。最新评测显示，在启用探测与安全分类器后，自 Opus 4.8 起的所有模型均未出现攻击成功案例。",
-    "url": "https://claude.com/blog/claude-in-chrome-generally-available",
-    "published": "2026-08-25T16:00:00.000Z",
-    "source": "Claude：Blog（网页）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Anthropic 开放 Claude 真实使用数据供外部独立研究，公布试点结果",
-    "summary": "Anthropic 今年春季启动试点，通过隐私保护工具 Anthropic Insights（原 Clio）向斯坦福大学 SALT Lab、牛津大学人类信息处理实验室及 METR 三个外部机构开放约 25 万段 2026 年 4-5 月的 Claude.ai 或 Claude Code 对话数据，供其独立设计研究并公开发布结果。",
-    "url": "https://www.anthropic.com/research/enabling-independent-research",
-    "published": "2026-08-25T16:00:00.000Z",
-    "source": "Anthropic：Research（发表成果 · 网页）",
-    "source_weight": "high",
-    "category": "paper"
-  },
-  {
-    "title": "Warp 如何在 Claude 上构建自我改进的智能体",
-    "summary": "Warp 在 Claude 平台上构建了基于 Agent Skills 的自我改进循环，通过基础技能与改进技能两个文件型技能，将人类反馈转化为对智能体的持续优化。该模式已应用于其整个开源仓库，覆盖数百名贡献者与数千次代码审查。团队建议以原则而非规则编写技能，并强调低摩擦反馈与改进技能的可复用性。",
-    "url": "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude",
-    "published": "2026-08-25T16:00:00.000Z",
-    "source": "Claude：Blog（网页）",
-    "source_weight": "high",
-    "category": "tip"
+    "category": "design_tools"
   },
   {
     "title": "Run Claude Managed Agents with Chat SDK",
     "summary": "<p>You can now run <a href=\"https://platform.claude.com/docs/en/managed-agents/overview\">Claude Managed Agents</a> with <a href=\"https://chat-sdk.dev/\">Chat SDK</a>.</p><p>Claude Managed Agents handles the agent loop server-side, including the model, tools, session state, and sandboxed web research. That means you can ship a Slack research bot built on Claude Managed Agents and Chat SDK, with one persistent session per thread and streamed briefs with sources.</p><h3>What you get</h3><ul><li><p><",
     "url": "https://vercel.com/changelog/claude-managed-agents-with-chat-sdk",
-    "published": "",
-    "source": "Vercel Blog (v0)",
-    "source_weight": "high",
-    "category": "design_tools"
-  },
-  {
-    "title": "Cursor is now available in the AI SDK harness layer",
-    "summary": "<p>The <a href=\"https://vercel.com/changelog/program-agent-harnesses-with-ai-sdk\">AI SDK harness layer</a> now supports Cursor through the official <code>@ai-sdk/harness-cursor</code> adapter. The harness layer lets your application run different coding agents through the same <code>HarnessAgent</code> interface, so you can switch agents without changing your application code. </p><p>Pass <code>cursor</code> to <code>HarnessAgent</code>:</p><div></div><p>Under the hood, the adapter uses <a href=",
-    "url": "https://vercel.com/changelog/cursor-ai-sdk-harness-adapter",
-    "published": "",
-    "source": "Vercel Blog (v0)",
-    "source_weight": "high",
-    "category": "design_tools"
-  },
-  {
-    "title": "The best workflow engine is a programming language",
-    "summary": "<p>The idea of orchestrating long-running, stateful logic on top of unreliable, stateless infrastructure isn't new. We've had message queues, job runners, microservice choreographies, and full-blown workflow engines for a long time. What we never had was a version of it that felt good to write.</p><p>I'd spent about six months working on a fork of Temporal, mostly on weekends, trying to turn it into a serverless answer with DX that felt more Vercel-native. Eventually it dawned on me that to ship",
-    "url": "https://vercel.com/blog/the-best-workflow-engine-is-a-programming-language",
-    "published": "",
-    "source": "Vercel Blog (v0)",
-    "source_weight": "high",
-    "category": "design_tools"
-  },
-  {
-    "title": "Ling 3.0 Flash Fin now available on AI Gateway for free",
-    "summary": "<p><a href=\"https://vercel.com/ai-gateway/models/ling-3.0-flash-fin\">Ling 3.0 Flash Fin from Inclusion AI</a> is now available on AI Gateway, free to use through September 25.</p><p>Ling 3.0 Flash Fin is a finance-focused version of <a href=\"https://vercel.com/ai-gateway/models/ling-3.0-flash\">Ling 3.0 Flash</a>. It has a 256K token context window, produces up to 32K output tokens, and supports reasoning and function calling.</p><p>The model is built for financial research, analysis, and multi-s",
-    "url": "https://vercel.com/changelog/ling-3-0-flash-fin-now-available-on-ai-gateway-for-free",
     "published": "",
     "source": "Vercel Blog (v0)",
     "source_weight": "high",

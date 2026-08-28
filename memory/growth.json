@@ -1,5 +1,5 @@
 {
-  "day_count": 126,
+  "day_count": 127,
   "history": [
     {
       "day": 20,
@@ -713,6 +713,13 @@
       "date": "2026-08-27",
       "topic": "诉讼指控 xAI 使用儿童性虐待材料训练 Grok 模型",
       "source": "Ars Technica：AI（RSS）",
+      "mode": "rss"
+    },
+    {
+      "day": 127,
+      "date": "2026-08-28",
+      "topic": "Anthropic 让 Claude 自主训练模型以缓解对齐失败",
+      "source": "Anthropic：Research（发表成果 · 网页）",
       "mode": "rss"
     }
   ],
