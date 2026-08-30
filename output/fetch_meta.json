@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-08-29T15:44:51.780245Z",
-  "total_candidates": 23,
+  "fetched_at": "2026-08-30T15:26:53.916449Z",
+  "total_candidates": 25,
   "source_stats": {
     "Figma Blog": {
       "found": 0,
@@ -35,7 +35,7 @@
       "total": 40
     },
     "UX Collective": {
-      "found": 8,
+      "found": 6,
       "total": 10
     },
     "Designer News": {
@@ -51,11 +51,11 @@
       "total": 20
     },
     "Hacker News (设计向)": {
-      "found": 0,
-      "total": 0
+      "found": 4,
+      "total": 20
     },
     "Product Hunt": {
-      "found": 0,
+      "found": 1,
       "total": 50
     },
     "Designer News (AI Design)": {
@@ -64,27 +64,27 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 128,
-  "today_date": "2026-08-29",
+  "dudu_day": 129,
+  "today_date": "2026-08-30",
   "used_titles": [
-    "DeepSeek-V4-Flash-Vision-Exp 发布",
     "Claude Mythos 5 网络安全能力扩展至更多防御者",
     "AI 原生 SDLC 实战手册：Anthropic 如何用 Claude 重塑软件开发生命周期",
     "AI 原生 SDLC 实战手册：Anthropic 如何用 Claude 重塑软件开发生命周期",
     "MetaRoCE：为 AI 规模以太网打造的全新 RDMA 传输协议",
     "诉讼指控 xAI 使用儿童性虐待材料训练 Grok 模型",
-    "Anthropic 让 Claude 自主训练模型以缓解对齐失败"
+    "Anthropic 让 Claude 自主训练模型以缓解对齐失败",
+    "开放世界多智能体环境中的自主数学发现"
   ],
   "used_tools": [
-    "DeepSeek：API 更新日志",
     "Claude：Blog（网页）",
     "Claude：Blog（网页）",
     "Claude：Blog（网页）",
     "Meta Engineering Blog（RSS）",
     "Ars Technica：AI（RSS）",
-    "Anthropic：Research（发表成果 · 网页）"
+    "Anthropic：Research（发表成果 · 网页）",
+    "Hacker News 热门（buzzing.cc 中文翻译）"
   ],
-  "briefing_total": 28,
+  "briefing_total": 24,
   "briefing_design": 14,
   "briefing_count": 5
 }
