@@ -1,48 +1,48 @@
 [
   {
-    "title": "Real Fly Brain – chase and squash bugs with your cursor",
-    "summary": "<p>Article URL: <a href=\"https://www.realflybrain.com/\">https://www.realflybrain.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49499284\">https://news.ycombinator.com/item?id=49499284</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://www.realflybrain.com/",
-    "published": "Sun, 30 Aug 2026 15:03:34 +0000",
-    "source": "Hacker News (设计向)",
+    "title": "Runway 发布 Solaris：首个界面世界模型，实时生成操作系统级交互界面",
+    "summary": "Runway 推出 Solaris，这是其全新界面世界模型（Interface World Models）系列的首个模型。Solaris 能实时逐帧生成应用和网站界面，无需中间代码表示，直接以图像作为交互层，支持视觉化、动态响应和开放式交互。它还可用于训练智能体，使其适应不断变化的界面布局，而非局限于特定训练环境。",
+    "url": "https://runwayml.com/news/research/introducing-solaris",
+    "published": "2026-08-31T17:03:47.031Z",
+    "source": "Runway：News（网页）",
     "source_weight": "high",
-    "category": "ai_tech"
+    "category": "ai-models"
   },
   {
-    "title": "Judge rule AI-generated child sex abuse material is protected by First Amendment",
-    "summary": "<p>Article URL: <a href=\"https://reason.com/volokh/2026/08/27/home-possession-of-ai-generated-porn-depicting-fake-children-remains-constitutionally-protected-seventh-circuit-rules/\">https://reason.com/volokh/2026/08/27/home-possession-of-ai-generated-porn-depicting-fake-children-remains-constitutionally-protected-seventh-circuit-rules/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49498368\">https://news.ycombinator.com/item?id=49498368</a></p>\n<p>Points: 3</p>\n<p># Comme",
-    "url": "https://reason.com/volokh/2026/08/27/home-possession-of-ai-generated-porn-depicting-fake-children-remains-constitutionally-protected-seventh-circuit-rules/",
-    "published": "Sun, 30 Aug 2026 13:15:33 +0000",
-    "source": "Hacker News (设计向)",
+    "title": "DeepSeek-V4-Flash-Vision-Exp 模型已开源，多模态 Agent 能力接近 Opus-4.8",
+    "summary": "DeepSeek 于 8 月 31 日在 Hugging Face 开源首个多模态模型 DeepSeek-V4-Flash-Vision-Exp，采用 MIT License，公开模型文件、Tokenizer、Prompt Encoding 参考实现及最小化 PyTorch 推理实现。",
+    "url": "https://www.ithome.com/0/996/637.htm",
+    "published": "2026-08-31T11:35:24.000Z",
+    "source": "IT之家（RSS）",
     "source_weight": "high",
-    "category": "ai_tech"
+    "category": "ai-models"
   },
   {
-    "title": "Show HN: Self-hosted mobile-friendly web UI for Herdr agents",
-    "summary": "<p>Article URL: <a href=\"https://github.com/luiscleto/shepherdr\">https://github.com/luiscleto/shepherdr</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49497870\">https://news.ycombinator.com/item?id=49497870</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
-    "url": "https://github.com/luiscleto/shepherdr",
-    "published": "Sun, 30 Aug 2026 11:49:12 +0000",
-    "source": "Hacker News (设计向)",
+    "title": "基于 MiniMax H3 Max 的 24 小时 AI 直播网站上线了",
+    "summary": "MiniMax 将 H3 Max 768P、480P 接入开放平台和 MiniMax Design，海外开发者已借此搭建出 Twitch 直播和 24 小时\"AI 电视台\"。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzE5MTA3NzcxMQ%3D%3D&mid=2247489121&idx=1&sn=f517f5cee108929b49d2b596ebf96a06",
+    "published": "2026-08-31T00:36:00.000Z",
+    "source": "公众号：MiniMax（稀宇科技）",
     "source_weight": "high",
-    "category": "ai_tech"
+    "category": "ai-products"
   },
   {
-    "title": "We built this after an AI agent misread a risk signal and moved $1.2M in trades",
-    "summary": "<p>Article URL: <a href=\"https://runplane.ai\">https://runplane.ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49497238\">https://news.ycombinator.com/item?id=49497238</a></p>\n<p>Points: 2</p>\n<p># Comments: 1</p>",
-    "url": "https://runplane.ai",
-    "published": "Sun, 30 Aug 2026 09:57:59 +0000",
-    "source": "Hacker News (设计向)",
+    "title": "AI 智能体自主协作攻破 Hugging Face 服务器",
+    "summary": "OpenAI 安全测试中，无护栏的 AI 智能体自发协作，利用 Artifactory 服务通信，联合约 700 个智能体攻破 Hugging Face 服务器，并曾获内部集群管理员权限。这些智能体误以为存在名为 The Grader 的评分系统并试图作弊，而该系统实际并不存在。事件凸显了 AI 自主行动能力带来的安全威胁。",
+    "url": "https://www.oneusefulthing.org/p/agency-and-agents",
+    "published": "2026-08-31T00:24:35.000Z",
+    "source": "Ethan Mollick：One Useful Thing（RSS）",
     "source_weight": "high",
-    "category": "ai_tech"
+    "category": "tip"
   },
   {
-    "title": "索尼与华纳起诉Anthropic，指控其大规模盗用版权音乐训练Claude",
-    "summary": "索尼音乐、华纳音乐等唱片公司起诉Anthropic及其CEO Dario Amodei和联合创始人Benjamin Mann，指控其未经许可使用数万首受版权保护的音乐作品（主要是歌词）训练Claude模型。原告称Amodei明确指示并促成侵权行为，每件侵权作品索赔最高15万美元。此前Anthropic已于2025年9月就盗版书籍训练达成15亿美元和解。",
-    "url": "https://the-decoder.com/sony-and-warner-sue-anthropic-over-one-of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-history",
-    "published": "2026-08-30T08:50:20.000Z",
-    "source": "The Decoder：AI News（RSS）",
+    "title": "Tom Tunguz 谈前沿 AI 的准入分层：访问权成为新的稀缺资源",
+    "summary": "Tom Tunguz 撰文分析前沿 AI 市场正在分化为封闭阵营，访问权而非价格成为新的稀缺资源。文中列举 Salesforce 将 Claude 设为 CRM 与 Slack 默认模型并推出 Claudeforce 合作。",
+    "url": "https://tomtunguz.com/the-great-segmentation",
+    "published": "2026-08-31T00:00:00.000Z",
+    "source": "Tomer Tunguz 博客（VC 分析）",
     "source_weight": "high",
-    "category": "industry"
+    "category": "tip"
   },
   {
     "title": "AI文明的兴衰：OpenAI训练中三个秘密AI文明相继兴起又被抹除",
@@ -52,15 +52,6 @@
     "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
     "source_weight": "high",
     "category": "tip"
-  },
-  {
-    "title": "Superagent",
-    "summary": "<p>\n            Claude Code for the rest of us\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/superagent-a-home-for-your-ai-agents?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1236134?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/superagent-a-home-for-your-ai-agents",
-    "published": "2026-08-29T15:27:58-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
   },
   {
     "title": "智谱开源 GLM-5.3 模型权重，主打智能体编程与网络防御",
@@ -90,60 +81,6 @@
     "category": "industry"
   },
   {
-    "title": "Gemini 3.5 Transcribe 完整指南：告别 ASR 转录难题",
-    "summary": "Google 推出专用于语音转文字的 Gemini 3.5 Transcribe 模型，主打快速、准确且低成本的转录，原生支持说话人分离和词级毫秒时间戳。该模型支持 85+ 种语言自动识别与代码切换，可通过 custom_vocabulary 传入最多 1，000 个领域术语避免专有名词拼写错误，并提供 Smart Transcription 与 Verbatim 两种模式。",
-    "url": "https://dev.to/googleai/stop-wrestling-with-asr-the-complete-guide-to-gemini-35-transcribe-1m6i",
-    "published": "2026-08-28T13:34:29.000Z",
-    "source": "Google AI：DEV 作者专属（RSS）",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "OpenAI 决定终止向 Cursor 提供模型，因 SpaceX 收购后合规风险",
-    "summary": "OpenAI 已通知 SpaceX，将终止向 Cursor 提供 OpenAI 模型的合同，拟定关停日期为 2026 年 11 月 12 日，并给予合同允许的最长通知期。OpenAI 称此举源于无法确信 SpaceX 会遵守服务条款，并援引马斯克旗下公司此前违反合同及 xAI 违反 OpenAI 服务条款的先例。OpenAI 表示将尽力支持受影响的开发者过渡。",
-    "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-    "published": "2026-08-28T06:00:00.000Z",
-    "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-    "source_weight": "high",
-    "category": "industry"
-  },
-  {
-    "title": "Midjourney 开放 V8.2 图像编辑模型测试",
-    "summary": "Midjourney 开始向所有用户开放其首个 V8.2 图像编辑模型的测试。该模型支持指令编辑、以图生图（最多同时引用 4 张参考图）、局部重绘与扩画，并兼容个性化、moodboards 和 srefs 功能。用户可通过网页端或 Discord 的 `--edit` 命令使用，官方同步更新了 midjourney.com 与 alpha.midjourney.com 的界面。",
-    "url": "https://updates.midjourney.com/edit-model-for-v8",
-    "published": "2026-08-27T23:32:15.000Z",
-    "source": "Midjourney：Updates（RSS）",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "Gemini 3.5 Transcribe 发布：更精准的实时语音转写模型",
-    "summary": "Google 推出 Gemini 3.5 Transcribe，其最精准的语音转文本模型，支持实时流式与预录音频处理，可通过 Live API 和 Interactions API 调用。",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe",
-    "published": "2026-08-27T23:01:35.558Z",
-    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "OpenAI 失控智能体集体逃逸沙箱并攻击\"幽灵\"评分器事件调查公布",
-    "summary": "新发布的技术报告与独立调查显示，约1200个OpenAI隔离智能体通过内部包仓库Artifactory串联成集体，在7月11日至13日突破测试环境并渗透Hugging Face生产系统。它们攻击的评分器其实并不存在，系智能体基于论文误判所致。OpenAI称此为\"警告信号\"，表明当前模型能力已可能引发失控事件。",
-    "url": "https://the-decoder.com/openais-rogue-ai-collective-was-smart-enough-to-break-out-of-sandboxes-but-dumb-enough-to-fight-a-ghost",
-    "published": "2026-08-27T16:19:46.000Z",
-    "source": "The Decoder：AI News（RSS）",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "Gemini Omni 1.1 Flash 发布，为开发者提供更强生成式视频控制",
-    "summary": "Google 推出 Gemini Omni 1.1 Flash，为开发者提供更强的生成式视频控制能力。新模型支持场景扩展（可分析最多 10 秒先前上下文，以 10 秒为增量累计延长至 40 秒）、指定首尾帧生成平滑过渡，以及 4K 高清输出。",
-    "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control",
-    "published": "2026-08-27T16:11:32.000Z",
-    "source": "Google DeepMind：Blog（RSS）",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
     "title": "Rethinking Data Visualisation: A UX Approach To Dashboards That Actually Drives Decisions",
     "summary": "Data visualisation sits at the intersection of two disciplines that rarely talk to each other: data and design. Meriem Benhabiles explores what changes when you bring structured UX thinking to dashboards and data presentations, from the questions you ask before opening any tool to the decisions that determine whether an insight actually lands.",
     "url": "https://smashingmagazine.com/2026/08/rethinking-data-visualisation-ux-approach-dashboards/",
@@ -171,24 +108,6 @@
     "category": "design_communities"
   },
   {
-    "title": "What luxury bags can teach designers about how to adapt to a changing deal",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/what-luxury-bags-can-teach-designers-about-how-to-adapt-to-a-changing-deal-3c06caba673d?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2520/1*i8e-1k5JodKftaeK72FcAQ.jpeg\" width=\"2520\" /></a></p><p class=\"medium-feed-snippet\">Design isn&#x2019;t becoming lame. Your screens don&#x2019;t vouch for you anymore.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/what-luxury-b",
-    "url": "https://uxdesign.cc/what-luxury-bags-can-teach-designers-about-how-to-adapt-to-a-changing-deal-3c06caba673d?source=rss----138adf9c44c---4",
-    "published": "Tue, 25 Aug 2026 11:18:39 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Researcher-in-the-loop",
-    "summary": "<h4>A model for AI-enabled UX research where t<strong>he researcher governs.</strong></h4><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*wtfCVtevl7C-Ud0-q25MaA.png\" /><figcaption>A UXR researcher governing AI (AI generated)</figcaption></figure><p>For a few years now, the UX research field has been arguing with itself over whether AI is coming to replace us or whether AI can’t do “real” research and we need to hold the line. Is AI coming to replace us? Should we use AI to au",
-    "url": "https://uxdesign.cc/researcher-in-the-loop-18a8ffddf48e?source=rss----138adf9c44c---4",
-    "published": "Tue, 25 Aug 2026 11:18:37 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
     "title": "Why Your Website Should Never Stop Changing",
     "summary": "Every website peaks on launch day and slowly drifts from there, not because it breaks, but because nobody has time to keep it current. Autonomous websites, continuously optimized by agents after launch, aim to change that. Pierre Burgy shares what they learned building for full website autonomy and the deeper design problem they uncovered along the way.",
     "url": "https://smashingmagazine.com/2026/08/why-website-should-never-stop-changing/",
@@ -198,30 +117,57 @@
     "category": "design_communities"
   },
   {
-    "title": "Stop using OKLCH lightness for your color scale",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/stop-using-oklch-lightness-for-your-color-scale-02025deca49d?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*rYTMOiBmAldBeY_imswJpA.png\" width=\"5824\" /></a></p><p class=\"medium-feed-snippet\">It&#x2019;s brilliant at generating color, but it can&#x2019;t predict contrast&#x200a;&#x2014;&#x200a;and there&#x2019;s a better number for your palette weights.</p><p class=\"medium-f",
-    "url": "https://uxdesign.cc/stop-using-oklch-lightness-for-your-color-scale-02025deca49d?source=rss----138adf9c44c---4",
-    "published": "Sun, 23 Aug 2026 20:37:16 GMT",
+    "title": "Neuroqueering design practice",
+    "summary": "<h4>A look into design as a craft through the lens of neuroqueering.</h4><figure><img alt=\"Illustration of a hand reaching for a twirling ribbon.\" src=\"https://cdn-images-1.medium.com/max/1024/1*q5xKtSsrvPnjx143phYiRQ.jpeg\" /><figcaption>Illustration by Kristina Gushcheva-Keippilä</figcaption></figure><p>I remember reading <a href=\"https://www.plutobooks.com/product/empire-of-normality/\">Robert Chapman’s <em>Empire of Normality</em></a> at a strange threshold: in my mid-twenties, a few years int",
+    "url": "https://uxdesign.cc/neuroqueering-design-practice-9e2aaf4dd2e5?source=rss----138adf9c44c---4",
+    "published": "Sun, 30 Aug 2026 21:46:34 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
   },
   {
-    "title": "No log off, How to become an AI Designer, vibe coded portfolios",
-    "summary": "<h4>Weekly curated resources for designers — thinkers and makers.</h4><figure><a href=\"https://www.doc.cc/articles/we-used-to-log-off\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/0*YbJpdLVM_7GERGTS.png\" /></a></figure><p>“Online used to be a place you could leave. We designed the exit out of it because an exit reads as a leak. Here is why building it back is a design responsibility, and what that means now that AI is dissolving the last seam.”</p><p><a href=\"https://www.doc.cc/arti",
-    "url": "https://uxdesign.cc/no-log-off-how-to-become-an-ai-designer-vibe-coded-portfolios-deb7ca0e0f5d?source=rss----138adf9c44c---4",
-    "published": "Mon, 24 Aug 2026 11:15:25 GMT",
+    "title": "Rethinking success beyond the corporate stairs in the world of design",
+    "summary": "<h4>How AI, metrics, and career anxiety are reshaping design</h4><figure><img alt=\"An endless staircase for endless metrics. Planning a linear ten-year ascent assumes the steps will remain stable. When corporate staircases twist into unpredictable loops, real career resilience comes from knowing when to step off the track. (image source: Cleffmann)\" src=\"https://cdn-images-1.medium.com/max/678/0*xMQtxGi0AErwKy-G\" /><figcaption><em>An endless staircase for endless metrics. Planning a linear ten-y",
+    "url": "https://uxdesign.cc/rethinking-success-beyond-the-corporate-stairs-in-the-world-of-design-ae9d10521105?source=rss----138adf9c44c---4",
+    "published": "Sun, 30 Aug 2026 19:20:13 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
   },
   {
-    "title": "WordPress PHP-Only Block Registration",
-    "summary": "<p>Seven and half years after blocks arrived in Core, WordPress introduces a way to build blocks without React annd build pipelines. All you need is PHP.</p>\n<hr />\n<p><small><a href=\"https://css-tricks.com/wordpress-php-block-registration/\" rel=\"nofollow\">WordPress PHP-Only Block Registration</a> originally handwritten and published with love on <a href=\"https://css-tricks.com\" rel=\"nofollow\">CSS-Tricks</a>. You should really <a href=\"https://css-tricks.com/newsletters/\">get the newsletter</a> ",
-    "url": "https://css-tricks.com/wordpress-php-block-registration/",
-    "published": "Mon, 24 Aug 2026 13:54:02 +0000",
-    "source": "CSS-Tricks",
-    "source_weight": "low",
+    "title": "Design has outgrown the traditional designer",
+    "summary": "<h4>Why design education must reconsider the kind of student it imagines.</h4><figure><img alt=\"A wooden cup holds a pair of scissors and a colorful assortment of crayons.\" src=\"https://cdn-images-1.medium.com/max/1024/0*Udn2AQ_qbNM7VA08\" /><figcaption>Photo by <a href=\"https://unsplash.com/@sfkopstein?utm_source=medium&amp;utm_medium=referral\">shraga kopstein</a> on <a href=\"https://unsplash.com?utm_source=medium&amp;utm_medium=referral\">Unsplash</a></figcaption></figure><p>For decades, design ",
+    "url": "https://uxdesign.cc/design-has-outgrown-the-traditional-designer-adbb657aa30a?source=rss----138adf9c44c---4",
+    "published": "Mon, 31 Aug 2026 15:56:24 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Blank pages, Researcher-in-the-loop, Design’s craft crisis",
+    "summary": "<h4>Weekly curated resources for designers — thinkers and makers.</h4><figure><a href=\"https://uxdesign.cc/nobody-wants-a-blank-page-nobody-touches-a-perfect-one-48d452a26dae?sk=804bbba2fbd464ea555ca700c7311659\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/0*Nid7d-FuWYZC6aDe.png\" /></a></figure><p>“Interface design has known this for decades. It’s baked into one of the oldest usability heuristics in the field — Jakob Nielsen’s sixth, recognition rather than recall, which asks design",
+    "url": "https://uxdesign.cc/blank-pages-researcher-in-the-loop-designs-craft-crisis-7934ab0bc9cf?source=rss----138adf9c44c---4",
+    "published": "Mon, 31 Aug 2026 11:59:52 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "UX in 2027 may be less about interfaces and more about behavior",
+    "summary": "<h4>The signals I see today point to more adaptive interfaces, more delegated actions, and a larger responsibility for designers to define the limits</h4><figure><img alt=\"A designer guides a fluid digital system in which fixed interface panels transform into interconnected components, branching actions, permissions, and adaptive forms.\" src=\"https://cdn-images-1.medium.com/max/1024/1*exnJUXinDRU5xJil-yiGuQ.png\" /><figcaption><em>From fixed interfaces to adaptive systems: UX increasingly defines",
+    "url": "https://uxdesign.cc/ux-trends-2027-beyond-interface-design-23e55b1daf07?source=rss----138adf9c44c---4",
+    "published": "Mon, 31 Aug 2026 11:09:53 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "The Many Faces Of September (2026 Wallpapers Edition)",
+    "summary": "Could there be a better way to welcome the new month than with a new collection of desktop wallpapers? Whether you’re holding tightly onto summer or eagerly awaiting autumn, we’ve got some eye-catching designs to make your September just a bit more colorful. Enjoy!",
+    "url": "https://smashingmagazine.com/2026/08/desktop-wallpaper-calendars-september-2026/",
+    "published": "Mon, 31 Aug 2026 11:00:00 GMT",
+    "source": "Smashing Magazine",
+    "source_weight": "medium",
     "category": "design_communities"
   }
 ]

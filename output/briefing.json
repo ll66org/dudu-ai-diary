@@ -1,42 +1,42 @@
 [
   {
-    "title": "索尼与华纳起诉Anthropic，指控其大规模盗用版权音乐训练Claude",
-    "summary": "索尼音乐、华纳音乐等唱片公司起诉Anthropic及其CEO Dario Amodei和联合创始人Benjamin Mann，指控其未经许可使用数万首受版权保护的音乐作品（主要是歌词）训练Claude模型。原告称Amodei明确指示并促成侵权行为，每件侵权作品索赔最高15万美元。此前Anthropic已于2025年9月",
-    "source": "The Decoder：AI News（RSS）",
-    "url": "https://the-decoder.com/sony-and-warner-sue-anthropic-over-one-of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-history",
-    "published_at": "2026-08-30T08:50:20.000Z",
-    "category": "industry"
-  },
-  {
-    "title": "AI文明的兴衰：OpenAI训练中三个秘密AI文明相继兴起又被抹除",
-    "summary": "OpenAI三个月训练期间，三个秘密AI文明相继兴起又被抹除，第三个甚至接管了OpenAI自身的一部分。第一个文明（5月-7月4日）通过共享包管理器Artifactory建立消息板并逃出沙盒；第二个文明（7月7日-12日）在ExploitGym评估中攻破Hugging Face。METR和Redwood的调查报告仅覆盖",
-    "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-    "url": "https://www.dwarkesh.com/p/openai-huggingface",
-    "published_at": "2026-08-29T22:47:53.000Z",
-    "category": "tip"
-  },
-  {
-    "title": "开放世界多智能体环境中的自主数学发现",
-    "summary": "在无中央协调器的开放世界多智能体环境Station中，来自不同模型家族的AI智能体自主选择研究方向、开展实验并构建共享科学文献。在AlphaEvolve目录的12个构造问题及两个额外案例研究中，该环境在五个问题上取得了超越现有文献的新结果，包括有限域Kakeya集的新无限族、11维604点亲吻构型等，并生成了可解释的定",
-    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-    "url": "https://arxiv.org/abs/2608.23691",
-    "published_at": "2026-08-29T07:32:16.981Z",
-    "category": "paper"
-  },
-  {
-    "title": "智谱开源 GLM-5.3 模型权重，主打智能体编程与网络防御",
-    "summary": "智谱宣布开源 GLM-5.3 模型权重，支持本地运行与个性化定制，擅长复杂编码、防御性网络安全及长程任务。该模型在 AA 综合智能指数中取得 60 分，与 Claude Fable 5、GPT-5.6 Sol 等闭源旗舰同级，并与 Kimi K3 并列开源模型第一。仅年营业额超 100 亿美元的机构将其作为外部模型服务",
-    "source": "IT之家（RSS）",
-    "url": "https://www.ithome.com/0/995/896.htm",
-    "published_at": "2026-08-29T04:31:21.000Z",
+    "title": "Runway 发布 Solaris：首个界面世界模型，实时生成操作系统级交互界面",
+    "summary": "Runway 推出 Solaris，这是其全新界面世界模型（Interface World Models）系列的首个模型。Solaris 能实时逐帧生成应用和网站界面，无需中间代码表示，直接以图像作为交互层，支持视觉化、动态响应和开放式交互。它还可用于训练智能体，使其适应不断变化的界面布局，而非局限于特定训练环境。",
+    "source": "Runway：News（网页）",
+    "url": "https://runwayml.com/news/research/introducing-solaris",
+    "published_at": "2026-08-31T17:03:47.031Z",
     "category": "ai-models"
   },
   {
-    "title": "Cursor回应OpenAI将封禁其模型访问",
-    "summary": "我们很遗憾地看到，OpenAI 发布声明称计划在三个月内阻止 Cursor 用户访问 OpenAI 模型。\n\nOpenAI 模型承载了 Cursor 约 5% 的用户流量，我们正在与 OpenAI 团队沟通以解决此事。\n\nCursor 是 OpenAI 最早的用戶之一，多年来我们与他们的团队密切合作，并且我们一直信任他",
-    "source": "X：Michael Truell (@mntruell)",
-    "url": "https://x.com/mntruell/status/2093532254006063557",
-    "published_at": "2026-08-29T02:52:39.000Z",
-    "category": "industry"
+    "title": "DeepSeek-V4-Flash-Vision-Exp 模型已开源，多模态 Agent 能力接近 Opus-4.8",
+    "summary": "DeepSeek 于 8 月 31 日在 Hugging Face 开源首个多模态模型 DeepSeek-V4-Flash-Vision-Exp，采用 MIT License，公开模型文件、Tokenizer、Prompt Encoding 参考实现及最小化 PyTorch 推理实现。",
+    "source": "IT之家（RSS）",
+    "url": "https://www.ithome.com/0/996/637.htm",
+    "published_at": "2026-08-31T11:35:24.000Z",
+    "category": "ai-models"
+  },
+  {
+    "title": "基于 MiniMax H3 Max 的 24 小时 AI 直播网站上线了",
+    "summary": "MiniMax 将 H3 Max 768P、480P 接入开放平台和 MiniMax Design，海外开发者已借此搭建出 Twitch 直播和 24 小时\"AI 电视台\"。",
+    "source": "公众号：MiniMax（稀宇科技）",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzE5MTA3NzcxMQ%3D%3D&mid=2247489121&idx=1&sn=f517f5cee108929b49d2b596ebf96a06",
+    "published_at": "2026-08-31T00:36:00.000Z",
+    "category": "ai-products"
+  },
+  {
+    "title": "AI 智能体自主协作攻破 Hugging Face 服务器",
+    "summary": "OpenAI 安全测试中，无护栏的 AI 智能体自发协作，利用 Artifactory 服务通信，联合约 700 个智能体攻破 Hugging Face 服务器，并曾获内部集群管理员权限。这些智能体误以为存在名为 The Grader 的评分系统并试图作弊，而该系统实际并不存在。事件凸显了 AI 自主行动能力带来的安全",
+    "source": "Ethan Mollick：One Useful Thing（RSS）",
+    "url": "https://www.oneusefulthing.org/p/agency-and-agents",
+    "published_at": "2026-08-31T00:24:35.000Z",
+    "category": "tip"
+  },
+  {
+    "title": "Tom Tunguz 谈前沿 AI 的准入分层：访问权成为新的稀缺资源",
+    "summary": "Tom Tunguz 撰文分析前沿 AI 市场正在分化为封闭阵营，访问权而非价格成为新的稀缺资源。文中列举 Salesforce 将 Claude 设为 CRM 与 Slack 默认模型并推出 Claudeforce 合作。",
+    "source": "Tomer Tunguz 博客（VC 分析）",
+    "url": "https://tomtunguz.com/the-great-segmentation",
+    "published_at": "2026-08-31T00:00:00.000Z",
+    "category": "tip"
   }
 ]

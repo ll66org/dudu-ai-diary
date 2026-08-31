@@ -1,5 +1,5 @@
 {
-  "day_count": 129,
+  "day_count": 130,
   "history": [
     {
       "day": 20,
@@ -734,6 +734,13 @@
       "date": "2026-08-30",
       "topic": "索尼与华纳起诉Anthropic，指控其大规模盗用版权音乐训练Claude",
       "source": "The Decoder：AI News（RSS）",
+      "mode": "rss"
+    },
+    {
+      "day": 130,
+      "date": "2026-08-31",
+      "topic": "Runway 发布 Solaris：首个界面世界模型，实时生成操作系统级交互界面",
+      "source": "Runway：News（网页）",
       "mode": "rss"
     }
   ],
