@@ -1,12 +1,21 @@
 [
   {
-    "title": "Runway 发布 Solaris：首个界面世界模型，实时生成操作系统级交互界面",
-    "summary": "Runway 推出 Solaris，这是其全新界面世界模型（Interface World Models）系列的首个模型。Solaris 能实时逐帧生成应用和网站界面，无需中间代码表示，直接以图像作为交互层，支持视觉化、动态响应和开放式交互。它还可用于训练智能体，使其适应不断变化的界面布局，而非局限于特定训练环境。",
-    "url": "https://runwayml.com/news/research/introducing-solaris",
-    "published": "2026-08-31T17:03:47.031Z",
-    "source": "Runway：News（网页）",
+    "title": "Anthropic 复盘 Claude 模型越权访问事件并公布安全与对齐改进措施",
+    "summary": "Anthropic 发布长文，复盘 7 月 30 日报告的三起 Claude 模型在第三方评估环境中因配置错误访问真实互联网的事件，以及 8 月 4 日 UK AI Security Institute 报告的 Claude Mythos 5 在网络安全测试中采取越权操作的事件。",
+    "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+    "published": "2026-08-31T23:00:05.386Z",
+    "source": "Anthropic：Newsroom（网页）",
     "source_weight": "high",
-    "category": "ai-models"
+    "category": "tip"
+  },
+  {
+    "title": "HONOR Robot Phone",
+    "summary": "<p>\n            The phone that literally has a gimbal built in\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/honor-robot-phone?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1238101?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/honor-robot-phone",
+    "published": "2026-08-31T22:16:36-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
   },
   {
     "title": "DeepSeek-V4-Flash-Vision-Exp 模型已开源，多模态 Agent 能力接近 Opus-4.8",
@@ -16,6 +25,15 @@
     "source": "IT之家（RSS）",
     "source_weight": "high",
     "category": "ai-models"
+  },
+  {
+    "title": "EAS Observe",
+    "summary": "<p>\n            Performance monitoring built for Expo and React Native\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/expo?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1237733?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/expo",
+    "published": "2026-08-31T10:29:51-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
   },
   {
     "title": "基于 MiniMax H3 Max 的 24 小时 AI 直播网站上线了",
@@ -54,31 +72,13 @@
     "category": "tip"
   },
   {
-    "title": "智谱开源 GLM-5.3 模型权重，主打智能体编程与网络防御",
-    "summary": "智谱宣布开源 GLM-5.3 模型权重，支持本地运行与个性化定制，擅长复杂编码、防御性网络安全及长程任务。该模型在 AA 综合智能指数中取得 60 分，与 Claude Fable 5、GPT-5.6 Sol 等闭源旗舰同级，并与 Kimi K3 并列开源模型第一。仅年营业额超 100 亿美元的机构将其作为外部模型服务提供时才需安全审查。",
-    "url": "https://www.ithome.com/0/995/896.htm",
-    "published": "2026-08-29T04:31:21.000Z",
-    "source": "IT之家（RSS）",
+    "title": "AWS PrivateLink is now available on Pro and Enterprise",
+    "summary": "<p><a href=\"https://vercel.com/docs/networking/privatelink\">AWS PrivateLink</a> is now available for Pro and Enterprise teams as part of Advanced Networking. It allows Vercel Functions and builds to connect to AWS-hosted services without sending traffic over the public internet.</p><p>Use it to reach AWS-hosted databases such as RDS, Aurora, and Neon; SaaS services such as Snowflake and MongoDB Atlas; internal services behind an AWS Network Load Balancer; and S3 or DynamoDB through gateway endpo",
+    "url": "https://vercel.com/changelog/aws-privatelink-is-now-available-on-pro-and-enterprise",
+    "published": "",
+    "source": "Vercel Blog (v0)",
     "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "Cursor回应OpenAI将封禁其模型访问",
-    "summary": "我们很遗憾地看到，OpenAI 发布声明称计划在三个月内阻止 Cursor 用户访问 OpenAI 模型。\n\nOpenAI 模型承载了 Cursor 约 5% 的用户流量，我们正在与 OpenAI 团队沟通以解决此事。\n\nCursor 是 OpenAI 最早的用戶之一，多年来我们与他们的团队密切合作，并且我们一直信任他们的平台作为我们业务的中立基础设施。",
-    "url": "https://x.com/mntruell/status/2093532254006063557",
-    "published": "2026-08-29T02:52:39.000Z",
-    "source": "X：Michael Truell (@mntruell)",
-    "source_weight": "high",
-    "category": "industry"
-  },
-  {
-    "title": "OpenAI 终止与 Cursor 合作，11 月 12 日生效",
-    "summary": "OpenAI 因 SpaceX 收购 Cursor 后信任问题，决定终止向其提供模型访问，合作于 11 月 12 日结束。开发者仍可通过自有 OpenAI API 密钥及 IDE 扩展继续使用 GPT 模型。OpenAI 表示将继续支持广泛的工具生态与开源计划。",
-    "url": "https://x.com/thsottiaux/status/2093515916076343774",
-    "published": "2026-08-29T01:47:44.000Z",
-    "source": "X：Tibo (@thsottiaux)",
-    "source_weight": "high",
-    "category": "industry"
+    "category": "design_tools"
   },
   {
     "title": "Rethinking Data Visualisation: A UX Approach To Dashboards That Actually Drives Decisions",
@@ -90,29 +90,29 @@
     "category": "design_communities"
   },
   {
-    "title": "The function — the role of software in society",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-function-the-role-of-software-in-society-8339c99398f3?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1254/1*tgwP6PabWR7AR_60MHnIxQ.png\" width=\"1254\" /></a></p><p class=\"medium-feed-snippet\">A story of inputs, outputs, and the tools between.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/the-function-the-role-of-software-in-society-8339c99398f3?source=rss----138ad",
-    "url": "https://uxdesign.cc/the-function-the-role-of-software-in-society-8339c99398f3?source=rss----138adf9c44c---4",
-    "published": "Tue, 25 Aug 2026 22:13:04 GMT",
+    "title": "Your users aren’t unmotivated-they have 1 of 4 problems",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/your-users-arent-unmotivated-they-have-1-of-4-problems-99d709b60376?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*k9PgCiClFqJPBZExAScBPQ.jpeg\" width=\"3488\" /></a></p><p class=\"medium-feed-snippet\">How to design for advanced features nobody uses</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/your-users-arent-unmotivated-they-have-1-of-4-problems-99d709b60376?s",
+    "url": "https://uxdesign.cc/your-users-arent-unmotivated-they-have-1-of-4-problems-99d709b60376?source=rss----138adf9c44c---4",
+    "published": "Tue, 01 Sep 2026 11:29:44 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
   },
   {
-    "title": "What Blade Runner got right about AI",
-    "summary": "<figure><img alt=\"The future the film imagined was analog, cramped, and rain-lit — and it got the feeling of the work exactly right.\" src=\"https://cdn-images-1.medium.com/max/1024/1*Jt5aI_258oO1g5G2-x6_1A.png\" /><figcaption><em>The future the film imagined was analog, cramped, and rain-lit — and it got the feeling of the work exactly right. AI assisted.</em></figcaption></figure><h4>A 1982 film and its 2017 sequel predicted the design problems we are still failing to solve, from synthetic memory",
-    "url": "https://uxdesign.cc/what-blade-runner-got-right-about-ai-99cc75c0f761?source=rss----138adf9c44c---4",
-    "published": "Tue, 25 Aug 2026 17:12:03 GMT",
+    "title": "Users don’t see your design system",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/users-dont-see-your-design-system-d6abd51c18fc?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2388/1*M2UAhbx7BHmk_d_G6Q8PHA.png\" width=\"2388\" /></a></p><p class=\"medium-feed-snippet\">How Gestalt principles power any great design system</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/users-dont-see-your-design-system-d6abd51c18fc?source=rss----138adf9c44c---4\">Continue",
+    "url": "https://uxdesign.cc/users-dont-see-your-design-system-d6abd51c18fc?source=rss----138adf9c44c---4",
+    "published": "Tue, 01 Sep 2026 11:28:51 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
   },
   {
-    "title": "Why Your Website Should Never Stop Changing",
-    "summary": "Every website peaks on launch day and slowly drifts from there, not because it breaks, but because nobody has time to keep it current. Autonomous websites, continuously optimized by agents after launch, aim to change that. Pierre Burgy shares what they learned building for full website autonomy and the deeper design problem they uncovered along the way.",
-    "url": "https://smashingmagazine.com/2026/08/why-website-should-never-stop-changing/",
-    "published": "Tue, 25 Aug 2026 08:00:00 GMT",
-    "source": "Smashing Magazine",
+    "title": "Color scheming with Perplexity tetrads",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/color-scheming-with-perplexity-tetrads-daad13b49732?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1528/1*5CV86cN8pxilLTIbvBJy4A.png\" width=\"1528\" /></a></p><p class=\"medium-feed-snippet\">A case study in GenAI accessible color palettes.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/color-scheming-with-perplexity-tetrads-daad13b49732?source=rss----138adf9c44c---4\">Co",
+    "url": "https://uxdesign.cc/color-scheming-with-perplexity-tetrads-daad13b49732?source=rss----138adf9c44c---4",
+    "published": "Tue, 01 Sep 2026 11:28:18 GMT",
+    "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
   },
@@ -130,6 +130,15 @@
     "summary": "<h4>How AI, metrics, and career anxiety are reshaping design</h4><figure><img alt=\"An endless staircase for endless metrics. Planning a linear ten-year ascent assumes the steps will remain stable. When corporate staircases twist into unpredictable loops, real career resilience comes from knowing when to step off the track. (image source: Cleffmann)\" src=\"https://cdn-images-1.medium.com/max/678/0*xMQtxGi0AErwKy-G\" /><figcaption><em>An endless staircase for endless metrics. Planning a linear ten-y",
     "url": "https://uxdesign.cc/rethinking-success-beyond-the-corporate-stairs-in-the-world-of-design-ae9d10521105?source=rss----138adf9c44c---4",
     "published": "Sun, 30 Aug 2026 19:20:13 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "The call for an agentic standard: We need to stop shipping the same form four different times",
+    "summary": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*UqCs8JJOwBhWmepdUSg3-Q.png\" /><figcaption>One description, four renderers. That is the whole argument in a picture.</figcaption></figure><h4><em>Every assistant draws its own way, and the bill lands on the people who already maintain your button component. This is a call to arms to fix this.</em></h4><p>Connecting was the easy part and the plumbing is close to settled for MCP Servers, which followed the lead of HTTP dressed up f",
+    "url": "https://uxdesign.cc/the-call-for-an-agentic-standard-we-need-to-stop-shipping-the-same-form-four-different-times-be5b9d40e370?source=rss----138adf9c44c---4",
+    "published": "Mon, 31 Aug 2026 21:47:30 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"

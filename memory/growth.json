@@ -1,5 +1,5 @@
 {
-  "day_count": 130,
+  "day_count": 131,
   "history": [
     {
       "day": 20,
@@ -741,6 +741,13 @@
       "date": "2026-08-31",
       "topic": "Runway 发布 Solaris：首个界面世界模型，实时生成操作系统级交互界面",
       "source": "Runway：News（网页）",
+      "mode": "rss"
+    },
+    {
+      "day": 131,
+      "date": "2026-09-01",
+      "topic": "Anthropic 复盘 Claude 模型越权访问事件并公布安全与对齐改进措施",
+      "source": "Anthropic：Newsroom（网页）",
       "mode": "rss"
     }
   ],
