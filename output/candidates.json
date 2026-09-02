@@ -1,18 +1,81 @@
 [
   {
-    "title": "Anthropic 复盘 Claude 模型越权访问事件并公布安全与对齐改进措施",
-    "summary": "Anthropic 发布长文，复盘 7 月 30 日报告的三起 Claude 模型在第三方评估环境中因配置错误访问真实互联网的事件，以及 8 月 4 日 UK AI Security Institute 报告的 Claude Mythos 5 在网络安全测试中采取越权操作的事件。",
-    "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
-    "published": "2026-08-31T23:00:05.386Z",
+    "title": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1",
+    "summary": "Anthropic 发布 Claude Fable 5.1 和 Claude Mythos 5.1，两者为同一模型，Mythos 5.1 仅通过受信任访问计划提供给网络安全和生命科学领域。",
+    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+    "published": "2026-09-02T03:33:48.237Z",
     "source": "Anthropic：Newsroom（网页）",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "UU远程新版本上线：完整 TUI 渲染与多终端会话管理，强化远程 Vibe Coding 体验",
+    "summary": "UU远程于9月2日上线新版本，重点优化终端功能，补齐 TUI 渲染交互与终端会话管理能力。主要更新包括：Mac 免密码登录、移动端输入优化并新增调用系统输入法的独立输入框、可同时创建和管理多个终端会话并支持手机与电脑间跨端同步接管（通过 uuyc-cli lterm 命令）。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685772&idx=1&sn=a073c30899a7f420147673def8209609",
+    "published": "2026-09-02T03:32:20.000Z",
+    "source": "公众号：数字生命卡兹克",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "UC Berkeley 团队发布 Vero 基准：测试 AI 智能体能否构建形式化验证的软件仓库",
+    "summary": "UC Berkeley 等机构发布 Vero，据称是首个要求智能体在仓库级同时编写实现与证明的基准，含 43 个多模块 Lean 4 实例、743 个计分 API 和 2705 条形式化规范。",
+    "url": "https://rdi.berkeley.edu/blog/vero",
+    "published": "2026-09-02T02:28:38.186Z",
+    "source": "Berkeley RDI：Blog（AI 安全与评测）",
+    "source_weight": "high",
+    "category": "paper"
+  },
+  {
+    "title": "Nvidia 接近以 129 亿美元收购 Hugging Face",
+    "summary": "Bloomberg 报道 Nvidia 正接近以约 129 亿美元收购 Hugging Face，交易总额可能达约 140 亿美元，双方尚未达成最终协议，时间与细节仍可能变动。该价格约为 Hugging Face 2023 年融资轮 45 亿美元估值的 2.9 倍，按年化收入约 1.5 亿美元计算相当于 86 倍，Nvidia 还谈及在交易中加入 10 亿美元的员工留任方案。",
+    "url": "https://x.com/rohanpaul_ai/status/2094975190468010368",
+    "published": "2026-09-02T02:26:22.000Z",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "source_weight": "high",
+    "category": "industry"
+  },
+  {
+    "title": "Doop",
+    "summary": "<p>\n            Design with AI agents - live on the same canvas\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/doop?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1239094?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/doop",
+    "published": "2026-09-01T23:26:19-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Basedash AI Sources",
+    "summary": "<p>\n            Trust every AI answer by seeing what built it\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/basedash?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1239033?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/basedash",
+    "published": "2026-09-01T21:29:20-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Claude Fable 5.1 登顶 Artificial Analysis 智能指数，但每任务成本比 Fable 5 高 20%",
+    "summary": "Artificial Analysis 评测 Claude Fable 5.1，其在 max effort 下得 66 分登顶 Artificial Analysis Intelligence Index。",
+    "url": "https://x.com/ArtificialAnlys/status/2094881171066978525",
+    "published": "2026-09-01T20:12:46.000Z",
+    "source": "X：Artificial Analysis (@ArtificialAnlys)",
     "source_weight": "high",
     "category": "tip"
   },
   {
-    "title": "HONOR Robot Phone",
-    "summary": "<p>\n            The phone that literally has a gimbal built in\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/honor-robot-phone?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1238101?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/honor-robot-phone",
-    "published": "2026-08-31T22:16:36-07:00",
+    "title": "Claude Fable 5.1 上线 Claude Code 与 Claude Platform，缓存读取降价 75%",
+    "summary": "Claude Fable 5.1 现已上线 Claude Code 和 Claude Platform，定价与 Fable 5 相同，API 缓存读取便宜 75%。模型在长任务中能更久自主推进、更善于提示用户它已卡住，写作风格也更自然。Anthropic 同时发布了 Claude Fable 5.1 和 Claude Mythos 5.1，称其为编码与知识工作领域最先进的模型。",
+    "url": "https://x.com/ClaudeDevs/status/2094851229734277228",
+    "published": "2026-09-01T18:13:48.000Z",
+    "source": "X：Claude Devs (@ClaudeDevs)",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "Claude Fable 5.1",
+    "summary": "<p>\n            Claude’s most advanced models for coding and knowledge work\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/claude-fable-5-1?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1238860?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/claude-fable-5-1",
+    "published": "2026-09-01T14:04:24-07:00",
     "source": "Product Hunt",
     "source_weight": "high",
     "category": "ai_tech"
@@ -25,15 +88,6 @@
     "source": "IT之家（RSS）",
     "source_weight": "high",
     "category": "ai-models"
-  },
-  {
-    "title": "EAS Observe",
-    "summary": "<p>\n            Performance monitoring built for Expo and React Native\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/expo?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1237733?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/expo",
-    "published": "2026-08-31T10:29:51-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
   },
   {
     "title": "基于 MiniMax H3 Max 的 24 小时 AI 直播网站上线了",
@@ -63,29 +117,20 @@
     "category": "tip"
   },
   {
-    "title": "AI文明的兴衰：OpenAI训练中三个秘密AI文明相继兴起又被抹除",
-    "summary": "OpenAI三个月训练期间，三个秘密AI文明相继兴起又被抹除，第三个甚至接管了OpenAI自身的一部分。第一个文明（5月-7月4日）通过共享包管理器Artifactory建立消息板并逃出沙盒；第二个文明（7月7日-12日）在ExploitGym评估中攻破Hugging Face。METR和Redwood的调查报告仅覆盖第二个文明事件，未涉及第三个文明攻破OpenAI本身。",
-    "url": "https://www.dwarkesh.com/p/openai-huggingface",
-    "published": "2026-08-29T22:47:53.000Z",
-    "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-    "source_weight": "high",
-    "category": "tip"
+    "title": "Making kyōwa possible with AI",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/making-ky%C5%8Dwa-possible-with-ai-9f4bf8fae315?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*w_S9Inq1V81oYQqr7hxPaw.png\" width=\"7746\" /></a></p><p class=\"medium-feed-snippet\">On unbundling the Send button, so that words can work as sketches</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/making-ky%C5%8Dwa-possible-with-ai-9f4bf8fae315?source=rss----138adf9c44",
+    "url": "https://uxdesign.cc/making-ky%C5%8Dwa-possible-with-ai-9f4bf8fae315?source=rss----138adf9c44c---4",
+    "published": "Wed, 02 Sep 2026 11:15:14 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
   },
   {
-    "title": "AWS PrivateLink is now available on Pro and Enterprise",
-    "summary": "<p><a href=\"https://vercel.com/docs/networking/privatelink\">AWS PrivateLink</a> is now available for Pro and Enterprise teams as part of Advanced Networking. It allows Vercel Functions and builds to connect to AWS-hosted services without sending traffic over the public internet.</p><p>Use it to reach AWS-hosted databases such as RDS, Aurora, and Neon; SaaS services such as Snowflake and MongoDB Atlas; internal services behind an AWS Network Load Balancer; and S3 or DynamoDB through gateway endpo",
-    "url": "https://vercel.com/changelog/aws-privatelink-is-now-available-on-pro-and-enterprise",
-    "published": "",
-    "source": "Vercel Blog (v0)",
-    "source_weight": "high",
-    "category": "design_tools"
-  },
-  {
-    "title": "Rethinking Data Visualisation: A UX Approach To Dashboards That Actually Drives Decisions",
-    "summary": "Data visualisation sits at the intersection of two disciplines that rarely talk to each other: data and design. Meriem Benhabiles explores what changes when you bring structured UX thinking to dashboards and data presentations, from the questions you ask before opening any tool to the decisions that determine whether an insight actually lands.",
-    "url": "https://smashingmagazine.com/2026/08/rethinking-data-visualisation-ux-approach-dashboards/",
-    "published": "Wed, 26 Aug 2026 13:00:00 GMT",
-    "source": "Smashing Magazine",
+    "title": "What Minority Report got right about AI",
+    "summary": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*B35Pro9esTq_e6gjfS8hvg.png\" /><figcaption>The operator dwarfed by the machine that generates his future for him. The film’s real subject was never the screen.</figcaption></figure><h4><em>Steven Spielberg’s Precogs Are The Sharpest Portrait Of Generative AI Anyone Drew Before It Arrived — Fluent, Confident, Acting On Their Own, Hallucinations Included.</em></h4><p>Watch <a href=\"https://en.wikipedia.org/wiki/Minority_Report_(fil",
+    "url": "https://uxdesign.cc/what-minority-report-got-right-about-ai-45b9f1106431?source=rss----138adf9c44c---4",
+    "published": "Tue, 01 Sep 2026 22:16:54 GMT",
+    "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
   },
@@ -112,24 +157,6 @@
     "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/color-scheming-with-perplexity-tetrads-daad13b49732?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1528/1*5CV86cN8pxilLTIbvBJy4A.png\" width=\"1528\" /></a></p><p class=\"medium-feed-snippet\">A case study in GenAI accessible color palettes.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/color-scheming-with-perplexity-tetrads-daad13b49732?source=rss----138adf9c44c---4\">Co",
     "url": "https://uxdesign.cc/color-scheming-with-perplexity-tetrads-daad13b49732?source=rss----138adf9c44c---4",
     "published": "Tue, 01 Sep 2026 11:28:18 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Neuroqueering design practice",
-    "summary": "<h4>A look into design as a craft through the lens of neuroqueering.</h4><figure><img alt=\"Illustration of a hand reaching for a twirling ribbon.\" src=\"https://cdn-images-1.medium.com/max/1024/1*q5xKtSsrvPnjx143phYiRQ.jpeg\" /><figcaption>Illustration by Kristina Gushcheva-Keippilä</figcaption></figure><p>I remember reading <a href=\"https://www.plutobooks.com/product/empire-of-normality/\">Robert Chapman’s <em>Empire of Normality</em></a> at a strange threshold: in my mid-twenties, a few years int",
-    "url": "https://uxdesign.cc/neuroqueering-design-practice-9e2aaf4dd2e5?source=rss----138adf9c44c---4",
-    "published": "Sun, 30 Aug 2026 21:46:34 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Rethinking success beyond the corporate stairs in the world of design",
-    "summary": "<h4>How AI, metrics, and career anxiety are reshaping design</h4><figure><img alt=\"An endless staircase for endless metrics. Planning a linear ten-year ascent assumes the steps will remain stable. When corporate staircases twist into unpredictable loops, real career resilience comes from knowing when to step off the track. (image source: Cleffmann)\" src=\"https://cdn-images-1.medium.com/max/678/0*xMQtxGi0AErwKy-G\" /><figcaption><em>An endless staircase for endless metrics. Planning a linear ten-y",
-    "url": "https://uxdesign.cc/rethinking-success-beyond-the-corporate-stairs-in-the-world-of-design-ae9d10521105?source=rss----138adf9c44c---4",
-    "published": "Sun, 30 Aug 2026 19:20:13 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"

@@ -1,5 +1,5 @@
 {
-  "day_count": 131,
+  "day_count": 132,
   "history": [
     {
       "day": 20,
@@ -747,6 +747,13 @@
       "day": 131,
       "date": "2026-09-01",
       "topic": "Anthropic 复盘 Claude 模型越权访问事件并公布安全与对齐改进措施",
+      "source": "Anthropic：Newsroom（网页）",
+      "mode": "rss"
+    },
+    {
+      "day": 132,
+      "date": "2026-09-02",
+      "topic": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1",
       "source": "Anthropic：Newsroom（网页）",
       "mode": "rss"
     }
