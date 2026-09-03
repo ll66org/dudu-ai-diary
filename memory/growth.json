@@ -1,5 +1,5 @@
 {
-  "day_count": 132,
+  "day_count": 133,
   "history": [
     {
       "day": 20,
@@ -755,6 +755,13 @@
       "date": "2026-09-02",
       "topic": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1",
       "source": "Anthropic：Newsroom（网页）",
+      "mode": "rss"
+    },
+    {
+      "day": 133,
+      "date": "2026-09-03",
+      "topic": "NVIDIA 宣布以 129.303 亿美元收购 Hugging Face",
+      "source": "NVIDIA Blog（RSS）",
       "mode": "rss"
     }
   ],

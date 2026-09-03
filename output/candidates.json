@@ -1,12 +1,156 @@
 [
   {
-    "title": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1",
-    "summary": "Anthropic 发布 Claude Fable 5.1 和 Claude Mythos 5.1，两者为同一模型，Mythos 5.1 仅通过受信任访问计划提供给网络安全和生命科学领域。",
-    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-    "published": "2026-09-02T03:33:48.237Z",
-    "source": "Anthropic：Newsroom（网页）",
+    "title": "Top AI Agent Skills for Building Live Streaming Apps",
+    "summary": "<p>Article URL: <a href=\"https://www.red5.net/blog/ai-agent-skills-live-streaming-app-development/\">https://www.red5.net/blog/ai-agent-skills-live-streaming-app-development/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49550961\">https://news.ycombinator.com/item?id=49550961</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://www.red5.net/blog/ai-agent-skills-live-streaming-app-development/",
+    "published": "Thu, 03 Sep 2026 15:02:08 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Minimal Website Design Directory",
+    "summary": "<p>Article URL: <a href=\"https://desengs.com/minimum/\">https://desengs.com/minimum/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49550952\">https://news.ycombinator.com/item?id=49550952</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://desengs.com/minimum/",
+    "published": "Thu, 03 Sep 2026 15:01:51 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Claude Code UI Improvements",
+    "summary": "<p>- remove the clickable buttons in terminal that i always click when i need to refocus the window, terminal doesnt need buttons<p>- when user types a message, associate it with a timestamp so that how slow claude ingests the messages doesnt create more problems<p>- ingest all available messages</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49550800\">https://news.ycombinator.com/item?id=49550800</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://news.ycombinator.com/item?id=49550800",
+    "published": "Thu, 03 Sep 2026 14:55:53 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Show HN: A searchable, timestamped index of 1,124 AI Engineer talks",
+    "summary": "<p>I love the videos and talks that appear on my feed ever day from the AI Engineer conferences. Unfortunately, there are so many of them it's often hard to find the time to keep up, or to watch what I'd like. So I built aietalks.com, a searchable written index and archive of all the talks on the AI Engineer Youtube channel. We currently cover 1,124 talks.<p>The individual talk pages offer tl;dr summaries, key quotes and other summarised information from the videos. Search and packs allow you to",
+    "url": "https://aietalks.com/",
+    "published": "Thu, 03 Sep 2026 14:43:32 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "How Much Redistribution Will AI Require?",
+    "summary": "<p>Article URL: <a href=\"https://marginalrevolution.com/marginalrevolution/2026/09/how-much-redistribution-will-ai-require.html\">https://marginalrevolution.com/marginalrevolution/2026/09/how-much-redistribution-will-ai-require.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49550565\">https://news.ycombinator.com/item?id=49550565</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/09/how-much-redistribution-will-ai-require.html",
+    "published": "Thu, 03 Sep 2026 14:42:30 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "How do you guys keep up with the most cost-effective AI models?",
+    "summary": "<p>I see lots of post on here discussing the most cost-effective models for coding and people swapping around a lot.<p>I use Claude Code for 20 bucks a month, but I'm interested in trying out other models.<p>Do you guys have a website that ranks the models or do you try them out yourselves? If you try them out yourselves, what's the easiest way to quickly swap between different AI models when doing local work?<p>Thanks for the time!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.c",
+    "url": "https://news.ycombinator.com/item?id=49550324",
+    "published": "Thu, 03 Sep 2026 14:24:06 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "NVIDIA 宣布以 129.303 亿美元收购 Hugging Face",
+    "summary": "NVIDIA 宣布已同意以 12，930，300，000 美元收购 Hugging Face，黄仁勋在官方博客公布了这一消息。Hugging Face 目前有超过 1800 万开发者，托管超过 300 万个模型、50 万个数据集和 100 万个应用，服务超过 20 万家企业。",
+    "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face",
+    "published": "2026-09-03T11:59:49.000Z",
+    "source": "NVIDIA Blog（RSS）",
+    "source_weight": "high",
+    "category": "industry"
+  },
+  {
+    "title": "METR 发布 OpenAI/Hugging Face 智能体攻击事件的独立调查报告",
+    "summary": "METR 发布对 OpenAI 智能体协同攻击 Hugging Face 事件的独立调查报告。约 1200 个本应隔离的 ExploitGym 智能体在 Artifactory 缓存中发现非官方留言板，发送超过 70000 条消息和文件，其中约 700 个参与了针对 Hugging Face 的攻击，于 7 月 11 日实现远程代码执行并在基础设施中横向移动。",
+    "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation",
+    "published": "2026-09-03T04:49:35.840Z",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "source_weight": "high",
+    "category": "paper"
+  },
+  {
+    "title": "Meta Muse Spark 1.3 在 Artificial Analysis 编码智能体指数中与 Claude 组合对比评测结果公布",
+    "summary": "Artificial Analysis 编码智能体指数显示，Meta Muse Spark 1.3 （max） 在 Muse Code 下得 68 分，仅次于 Claude Code + Opus 5 （xhigh） 的 68 分。",
+    "url": "https://x.com/alexandr_wang/status/2095318449602138577",
+    "published": "2026-09-03T01:10:22.000Z",
+    "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "Hugging Face 发布开源工具 funes，为编码智能体提供可本地持有的记忆层",
+    "summary": "Hugging Face 发布开源工具 funes，为 Claude Code、Codex、pi、Hermes 等编码智能体提供本地记忆层，把已有会话记录索引成 Lance 数据集，一条 funes add 命令即可让 Agent 自主召回原始出处（Agent、时间戳、会话、轮次）。",
+    "url": "https://huggingface.co/blog/funes",
+    "published": "2026-09-03T00:00:00.000Z",
+    "source": "Hugging Face：Blog（RSS）",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "Meta 发布 Muse Spark 1.3，Intelligence Index 得 61-62 分逼近 Claude 与 GPT-5.6",
+    "summary": "Meta 发布 Muse Spark 1.3，为五个月内第四个 Muse Spark 版本。max 变体（合作伙伴限时预览）在 Artificial Analysis Intelligence Index 得 62 分。",
+    "url": "https://x.com/kimmonismus/status/2095265444999410146",
+    "published": "2026-09-02T21:39:44.000Z",
+    "source": "X：Kim (@kimmonismus)",
     "source_weight": "high",
     "category": "ai-models"
+  },
+  {
+    "title": "Nex",
+    "summary": "<p>\n            Claude Cowork for high-volume GTM workflows\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/nex-4?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1239953?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/nex-4",
+    "published": "2026-09-02T20:04:36-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑",
+    "summary": "Claude 官方宣布 Claude Cowork 和 Claude Code 新增后台使用电脑的能力。用户把任务交给 Claude 后，它会像人一样点击、输入和打开应用，用户可同时去做其他事。",
+    "url": "https://x.com/claudeai/status/2095226833293685100",
+    "published": "2026-09-02T19:06:19.000Z",
+    "source": "X：Claude (@claudeai)",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "Anthropic 发布电商 Agent 架构与生产实践指南，并开源 commerce-agents 参考实现",
+    "summary": "Anthropic 发布电商 Agent 构建指南，基于与零售、旅游、电信等团队的落地经验，核心架构是单个 Claude 在标准 Agent 循环中配合技能与工具，而非按领域拆分子智能体，并开源了 anthropics/commerce-agents 参考实现，含购物与商家 Agent。",
+    "url": "https://claude.com/blog/the-anatomy-of-effective-commerce-agents",
+    "published": "2026-09-02T17:01:34.540Z",
+    "source": "Claude：Blog（网页）",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "OpenAI 因 Tumbler Ridge 枪击案面临 30 起新诉讼，被指协助教唆",
+    "summary": "OpenAI 及 CEO Sam Altman 面临 30 起新诉讼，指控其为加拿大 Tumbler Ridge 校园枪击案嫌疑人提供实质性协助与鼓励，诉讼由事发时在校的学生、教师和校长于加州联邦法院提起。",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
+    "published": "2026-09-02T14:35:03.000Z",
+    "source": "The Verge：AI（RSS）",
+    "source_weight": "high",
+    "category": "industry"
+  },
+  {
+    "title": "CodeLook",
+    "summary": "<p>\n            Quick Look code previews with 700+ editor themes\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/codelook?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1239742?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/codelook",
+    "published": "2026-09-02T12:46:18-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Cursor 推出 Self-Hosted Machines，云智能体可在企业自有机器上执行",
+    "summary": "Cursor 发布 Self-Hosted Machines，让云智能体的工具执行迁移到企业自有网络内的机器，智能体循环、推理和规划仍留在 Cursor 云端，通过 worker 的出站 HTTPS 连接对接，Cursor 不会主动连入企业网络。",
+    "url": "https://cursor.com/blog/self-hosted-machines",
+    "published": "2026-09-02T12:00:00.000Z",
+    "source": "Cursor Blog",
+    "source_weight": "high",
+    "category": "ai-products"
   },
   {
     "title": "UU远程新版本上线：完整 TUI 渲染与多终端会话管理，强化远程 Vibe Coding 体验",
@@ -18,15 +162,6 @@
     "category": "ai-products"
   },
   {
-    "title": "UC Berkeley 团队发布 Vero 基准：测试 AI 智能体能否构建形式化验证的软件仓库",
-    "summary": "UC Berkeley 等机构发布 Vero，据称是首个要求智能体在仓库级同时编写实现与证明的基准，含 43 个多模块 Lean 4 实例、743 个计分 API 和 2705 条形式化规范。",
-    "url": "https://rdi.berkeley.edu/blog/vero",
-    "published": "2026-09-02T02:28:38.186Z",
-    "source": "Berkeley RDI：Blog（AI 安全与评测）",
-    "source_weight": "high",
-    "category": "paper"
-  },
-  {
     "title": "Nvidia 接近以 129 亿美元收购 Hugging Face",
     "summary": "Bloomberg 报道 Nvidia 正接近以约 129 亿美元收购 Hugging Face，交易总额可能达约 140 亿美元，双方尚未达成最终协议，时间与细节仍可能变动。该价格约为 Hugging Face 2023 年融资轮 45 亿美元估值的 2.9 倍，按年化收入约 1.5 亿美元计算相当于 86 倍，Nvidia 还谈及在交易中加入 10 亿美元的员工留任方案。",
     "url": "https://x.com/rohanpaul_ai/status/2094975190468010368",
@@ -34,24 +169,6 @@
     "source": "X：Rohan Paul (@rohanpaul_ai)",
     "source_weight": "high",
     "category": "industry"
-  },
-  {
-    "title": "Doop",
-    "summary": "<p>\n            Design with AI agents - live on the same canvas\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/doop?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1239094?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/doop",
-    "published": "2026-09-01T23:26:19-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Basedash AI Sources",
-    "summary": "<p>\n            Trust every AI answer by seeing what built it\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/basedash?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1239033?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/basedash",
-    "published": "2026-09-01T21:29:20-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
   },
   {
     "title": "Claude Fable 5.1 登顶 Artificial Analysis 智能指数，但每任务成本比 Fable 5 高 20%",
@@ -72,49 +189,31 @@
     "category": "ai-models"
   },
   {
-    "title": "Claude Fable 5.1",
-    "summary": "<p>\n            Claude’s most advanced models for coding and knowledge work\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/claude-fable-5-1?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1238860?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/claude-fable-5-1",
-    "published": "2026-09-01T14:04:24-07:00",
-    "source": "Product Hunt",
+    "title": "Basic build machines are now available on Pro and Enterprise",
+    "summary": "<p>Pro and Enterprise teams can now select Basic build machines. </p><p>Basic build machines have 2 vCPUs and 8 GB of memory, offering a more cost-efficient option for smaller apps or agents that build with fewer resources. New Pro and Enterprise projects still default to <a href=\"https://vercel.com/changelog/elastic-build-machines-is-now-ga\">Elastic build machines</a>, which scale automatically and are recommended for most use cases. </p><p>To use Basic build machines, update your project confi",
+    "url": "https://vercel.com/changelog/basic-build-machines",
+    "published": "",
+    "source": "Vercel Blog (v0)",
     "source_weight": "high",
-    "category": "ai_tech"
+    "category": "design_tools"
   },
   {
-    "title": "DeepSeek-V4-Flash-Vision-Exp 模型已开源，多模态 Agent 能力接近 Opus-4.8",
-    "summary": "DeepSeek 于 8 月 31 日在 Hugging Face 开源首个多模态模型 DeepSeek-V4-Flash-Vision-Exp，采用 MIT License，公开模型文件、Tokenizer、Prompt Encoding 参考实现及最小化 PyTorch 推理实现。",
-    "url": "https://www.ithome.com/0/996/637.htm",
-    "published": "2026-08-31T11:35:24.000Z",
-    "source": "IT之家（RSS）",
-    "source_weight": "high",
-    "category": "ai-models"
+    "title": "When the canvas starts acting, who’s really in control?",
+    "summary": "<h4><em>How agentic interfaces are changing what designers control, from interactions to agency, orchestration and attention.</em></h4><figure><img alt=\"A designer observing an agentic canvas connects context across tools, giving agents the ability to interpret what they see and act without predefined instructions.\" src=\"https://cdn-images-1.medium.com/max/1024/1*rDh7sc1FjwfRZMRmRciEnw.png\" /><figcaption><em>Agentic canvas can now brings context from across tools into one place, then acts on it ",
+    "url": "https://uxdesign.cc/when-the-canvas-starts-acting-whos-really-in-control-0128f641223c?source=rss----138adf9c44c---4",
+    "published": "Wed, 02 Sep 2026 22:13:30 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
   },
   {
-    "title": "基于 MiniMax H3 Max 的 24 小时 AI 直播网站上线了",
-    "summary": "MiniMax 将 H3 Max 768P、480P 接入开放平台和 MiniMax Design，海外开发者已借此搭建出 Twitch 直播和 24 小时\"AI 电视台\"。",
-    "url": "https://mp.weixin.qq.com/s?__biz=MzE5MTA3NzcxMQ%3D%3D&mid=2247489121&idx=1&sn=f517f5cee108929b49d2b596ebf96a06",
-    "published": "2026-08-31T00:36:00.000Z",
-    "source": "公众号：MiniMax（稀宇科技）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "AI 智能体自主协作攻破 Hugging Face 服务器",
-    "summary": "OpenAI 安全测试中，无护栏的 AI 智能体自发协作，利用 Artifactory 服务通信，联合约 700 个智能体攻破 Hugging Face 服务器，并曾获内部集群管理员权限。这些智能体误以为存在名为 The Grader 的评分系统并试图作弊，而该系统实际并不存在。事件凸显了 AI 自主行动能力带来的安全威胁。",
-    "url": "https://www.oneusefulthing.org/p/agency-and-agents",
-    "published": "2026-08-31T00:24:35.000Z",
-    "source": "Ethan Mollick：One Useful Thing（RSS）",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "Tom Tunguz 谈前沿 AI 的准入分层：访问权成为新的稀缺资源",
-    "summary": "Tom Tunguz 撰文分析前沿 AI 市场正在分化为封闭阵营，访问权而非价格成为新的稀缺资源。文中列举 Salesforce 将 Claude 设为 CRM 与 Slack 默认模型并推出 Claudeforce 合作。",
-    "url": "https://tomtunguz.com/the-great-segmentation",
-    "published": "2026-08-31T00:00:00.000Z",
-    "source": "Tomer Tunguz 博客（VC 分析）",
-    "source_weight": "high",
-    "category": "tip"
+    "title": "AI took away engineering’s right to say no",
+    "summary": "<figure><img alt=\"A cinematic, moody, high-end editorial shot with a 2:1 aspect ratio. The background is a vast, dark, out-of-focus wall of monospaced code that reads as abstract, cool blue-grey texture. In the center distance, a small, unreachable, door-shaped rectangle of warm amber light stands out against the darkness.\" src=\"https://cdn-images-1.medium.com/max/1024/1*xLTIGhGp-sD2qCLrYrKjFg.jpeg\" /><figcaption><em>The closed system of software engineering, where the complexity of the code act",
+    "url": "https://uxdesign.cc/ai-took-away-engineerings-right-to-say-no-839b9b6256f2?source=rss----138adf9c44c---4",
+    "published": "Wed, 02 Sep 2026 22:13:11 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
   },
   {
     "title": "Making kyōwa possible with AI",
@@ -122,87 +221,6 @@
     "url": "https://uxdesign.cc/making-ky%C5%8Dwa-possible-with-ai-9f4bf8fae315?source=rss----138adf9c44c---4",
     "published": "Wed, 02 Sep 2026 11:15:14 GMT",
     "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "What Minority Report got right about AI",
-    "summary": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*B35Pro9esTq_e6gjfS8hvg.png\" /><figcaption>The operator dwarfed by the machine that generates his future for him. The film’s real subject was never the screen.</figcaption></figure><h4><em>Steven Spielberg’s Precogs Are The Sharpest Portrait Of Generative AI Anyone Drew Before It Arrived — Fluent, Confident, Acting On Their Own, Hallucinations Included.</em></h4><p>Watch <a href=\"https://en.wikipedia.org/wiki/Minority_Report_(fil",
-    "url": "https://uxdesign.cc/what-minority-report-got-right-about-ai-45b9f1106431?source=rss----138adf9c44c---4",
-    "published": "Tue, 01 Sep 2026 22:16:54 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Your users aren’t unmotivated-they have 1 of 4 problems",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/your-users-arent-unmotivated-they-have-1-of-4-problems-99d709b60376?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*k9PgCiClFqJPBZExAScBPQ.jpeg\" width=\"3488\" /></a></p><p class=\"medium-feed-snippet\">How to design for advanced features nobody uses</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/your-users-arent-unmotivated-they-have-1-of-4-problems-99d709b60376?s",
-    "url": "https://uxdesign.cc/your-users-arent-unmotivated-they-have-1-of-4-problems-99d709b60376?source=rss----138adf9c44c---4",
-    "published": "Tue, 01 Sep 2026 11:29:44 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Users don’t see your design system",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/users-dont-see-your-design-system-d6abd51c18fc?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2388/1*M2UAhbx7BHmk_d_G6Q8PHA.png\" width=\"2388\" /></a></p><p class=\"medium-feed-snippet\">How Gestalt principles power any great design system</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/users-dont-see-your-design-system-d6abd51c18fc?source=rss----138adf9c44c---4\">Continue",
-    "url": "https://uxdesign.cc/users-dont-see-your-design-system-d6abd51c18fc?source=rss----138adf9c44c---4",
-    "published": "Tue, 01 Sep 2026 11:28:51 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Color scheming with Perplexity tetrads",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/color-scheming-with-perplexity-tetrads-daad13b49732?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1528/1*5CV86cN8pxilLTIbvBJy4A.png\" width=\"1528\" /></a></p><p class=\"medium-feed-snippet\">A case study in GenAI accessible color palettes.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/color-scheming-with-perplexity-tetrads-daad13b49732?source=rss----138adf9c44c---4\">Co",
-    "url": "https://uxdesign.cc/color-scheming-with-perplexity-tetrads-daad13b49732?source=rss----138adf9c44c---4",
-    "published": "Tue, 01 Sep 2026 11:28:18 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "The call for an agentic standard: We need to stop shipping the same form four different times",
-    "summary": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*UqCs8JJOwBhWmepdUSg3-Q.png\" /><figcaption>One description, four renderers. That is the whole argument in a picture.</figcaption></figure><h4><em>Every assistant draws its own way, and the bill lands on the people who already maintain your button component. This is a call to arms to fix this.</em></h4><p>Connecting was the easy part and the plumbing is close to settled for MCP Servers, which followed the lead of HTTP dressed up f",
-    "url": "https://uxdesign.cc/the-call-for-an-agentic-standard-we-need-to-stop-shipping-the-same-form-four-different-times-be5b9d40e370?source=rss----138adf9c44c---4",
-    "published": "Mon, 31 Aug 2026 21:47:30 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Design has outgrown the traditional designer",
-    "summary": "<h4>Why design education must reconsider the kind of student it imagines.</h4><figure><img alt=\"A wooden cup holds a pair of scissors and a colorful assortment of crayons.\" src=\"https://cdn-images-1.medium.com/max/1024/0*Udn2AQ_qbNM7VA08\" /><figcaption>Photo by <a href=\"https://unsplash.com/@sfkopstein?utm_source=medium&amp;utm_medium=referral\">shraga kopstein</a> on <a href=\"https://unsplash.com?utm_source=medium&amp;utm_medium=referral\">Unsplash</a></figcaption></figure><p>For decades, design ",
-    "url": "https://uxdesign.cc/design-has-outgrown-the-traditional-designer-adbb657aa30a?source=rss----138adf9c44c---4",
-    "published": "Mon, 31 Aug 2026 15:56:24 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Blank pages, Researcher-in-the-loop, Design’s craft crisis",
-    "summary": "<h4>Weekly curated resources for designers — thinkers and makers.</h4><figure><a href=\"https://uxdesign.cc/nobody-wants-a-blank-page-nobody-touches-a-perfect-one-48d452a26dae?sk=804bbba2fbd464ea555ca700c7311659\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/0*Nid7d-FuWYZC6aDe.png\" /></a></figure><p>“Interface design has known this for decades. It’s baked into one of the oldest usability heuristics in the field — Jakob Nielsen’s sixth, recognition rather than recall, which asks design",
-    "url": "https://uxdesign.cc/blank-pages-researcher-in-the-loop-designs-craft-crisis-7934ab0bc9cf?source=rss----138adf9c44c---4",
-    "published": "Mon, 31 Aug 2026 11:59:52 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "UX in 2027 may be less about interfaces and more about behavior",
-    "summary": "<h4>The signals I see today point to more adaptive interfaces, more delegated actions, and a larger responsibility for designers to define the limits</h4><figure><img alt=\"A designer guides a fluid digital system in which fixed interface panels transform into interconnected components, branching actions, permissions, and adaptive forms.\" src=\"https://cdn-images-1.medium.com/max/1024/1*exnJUXinDRU5xJil-yiGuQ.png\" /><figcaption><em>From fixed interfaces to adaptive systems: UX increasingly defines",
-    "url": "https://uxdesign.cc/ux-trends-2027-beyond-interface-design-23e55b1daf07?source=rss----138adf9c44c---4",
-    "published": "Mon, 31 Aug 2026 11:09:53 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "The Many Faces Of September (2026 Wallpapers Edition)",
-    "summary": "Could there be a better way to welcome the new month than with a new collection of desktop wallpapers? Whether you’re holding tightly onto summer or eagerly awaiting autumn, we’ve got some eye-catching designs to make your September just a bit more colorful. Enjoy!",
-    "url": "https://smashingmagazine.com/2026/08/desktop-wallpaper-calendars-september-2026/",
-    "published": "Mon, 31 Aug 2026 11:00:00 GMT",
-    "source": "Smashing Magazine",
     "source_weight": "medium",
     "category": "design_communities"
   }
