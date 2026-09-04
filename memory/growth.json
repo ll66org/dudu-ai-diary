@@ -1,5 +1,5 @@
 {
-  "day_count": 133,
+  "day_count": 134,
   "history": [
     {
       "day": 20,
@@ -762,6 +762,13 @@
       "date": "2026-09-03",
       "topic": "NVIDIA 宣布以 129.303 亿美元收购 Hugging Face",
       "source": "NVIDIA Blog（RSS）",
+      "mode": "rss"
+    },
+    {
+      "day": 134,
+      "date": "2026-09-04",
+      "topic": "GPT-6 Astra 基准表现分歧，ARC-AGI-3 效率超人类令 Chollet 提前 AGI 预测",
+      "source": "The Decoder：AI News（RSS）",
       "mode": "rss"
     }
   ],

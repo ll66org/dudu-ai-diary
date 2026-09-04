@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-03T15:09:09.704716Z",
+  "fetched_at": "2026-09-04T15:04:52.016906Z",
   "total_candidates": 25,
   "source_stats": {
     "Figma Blog": {
@@ -7,8 +7,8 @@
       "total": 0
     },
     "Vercel Blog (v0)": {
-      "found": 1,
-      "total": 1547
+      "found": 0,
+      "total": 1551
     },
     "Cursor Changelog": {
       "found": 0,
@@ -35,7 +35,7 @@
       "total": 40
     },
     "UX Collective": {
-      "found": 9,
+      "found": 10,
       "total": 10
     },
     "Designer News": {
@@ -51,11 +51,11 @@
       "total": 20
     },
     "Hacker News (设计向)": {
-      "found": 6,
+      "found": 9,
       "total": 20
     },
     "Product Hunt": {
-      "found": 2,
+      "found": 0,
       "total": 50
     },
     "Designer News (AI Design)": {
@@ -64,27 +64,27 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 133,
-  "today_date": "2026-09-03",
+  "dudu_day": 134,
+  "today_date": "2026-09-04",
   "used_titles": [
-    "诉讼指控 xAI 使用儿童性虐待材料训练 Grok 模型",
     "Anthropic 让 Claude 自主训练模型以缓解对齐失败",
     "开放世界多智能体环境中的自主数学发现",
     "索尼与华纳起诉Anthropic，指控其大规模盗用版权音乐训练Claude",
     "Runway 发布 Solaris：首个界面世界模型，实时生成操作系统级交互界面",
     "Anthropic 复盘 Claude 模型越权访问事件并公布安全与对齐改进措施",
-    "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1"
+    "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1",
+    "NVIDIA 宣布以 129.303 亿美元收购 Hugging Face"
   ],
   "used_tools": [
-    "Ars Technica：AI（RSS）",
     "Anthropic：Research（发表成果 · 网页）",
     "Hacker News 热门（buzzing.cc 中文翻译）",
     "The Decoder：AI News（RSS）",
     "Runway：News（网页）",
     "Anthropic：Newsroom（网页）",
-    "Anthropic：Newsroom（网页）"
+    "Anthropic：Newsroom（网页）",
+    "NVIDIA Blog（RSS）"
   ],
-  "briefing_total": 34,
-  "briefing_design": 15,
+  "briefing_total": 48,
+  "briefing_design": 21,
   "briefing_count": 5
 }

@@ -1,66 +1,138 @@
 [
   {
-    "title": "Top AI Agent Skills for Building Live Streaming Apps",
-    "summary": "<p>Article URL: <a href=\"https://www.red5.net/blog/ai-agent-skills-live-streaming-app-development/\">https://www.red5.net/blog/ai-agent-skills-live-streaming-app-development/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49550961\">https://news.ycombinator.com/item?id=49550961</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://www.red5.net/blog/ai-agent-skills-live-streaming-app-development/",
-    "published": "Thu, 03 Sep 2026 15:02:08 +0000",
+    "title": "AI coding agent PR merge rates: Claude 84%, Codex 74%, Devin 43%, humans 85%",
+    "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2607.21832\">https://arxiv.org/abs/2607.21832</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49565335\">https://news.ycombinator.com/item?id=49565335</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://arxiv.org/abs/2607.21832",
+    "published": "Fri, 04 Sep 2026 14:38:53 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Minimal Website Design Directory",
-    "summary": "<p>Article URL: <a href=\"https://desengs.com/minimum/\">https://desengs.com/minimum/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49550952\">https://news.ycombinator.com/item?id=49550952</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://desengs.com/minimum/",
-    "published": "Thu, 03 Sep 2026 15:01:51 +0000",
+    "title": "Fluxion: A Propagator-Based Reactive Web UI Framework in Common Lisp",
+    "summary": "<p>Article URL: <a href=\"https://glenneth.org/content/posts/2026-04-25-fluxion-reactive-web-ui-common-lisp.html\">https://glenneth.org/content/posts/2026-04-25-fluxion-reactive-web-ui-common-lisp.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49565317\">https://news.ycombinator.com/item?id=49565317</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://glenneth.org/content/posts/2026-04-25-fluxion-reactive-web-ui-common-lisp.html",
+    "published": "Fri, 04 Sep 2026 14:37:20 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Claude Code UI Improvements",
-    "summary": "<p>- remove the clickable buttons in terminal that i always click when i need to refocus the window, terminal doesnt need buttons<p>- when user types a message, associate it with a timestamp so that how slow claude ingests the messages doesnt create more problems<p>- ingest all available messages</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49550800\">https://news.ycombinator.com/item?id=49550800</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://news.ycombinator.com/item?id=49550800",
-    "published": "Thu, 03 Sep 2026 14:55:53 +0000",
+    "title": "Can you learn programming by building with AI? (poll)",
+    "summary": "<p>Article URL: <a href=\"https://textlog.cc/post/3183\">https://textlog.cc/post/3183</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49565210\">https://news.ycombinator.com/item?id=49565210</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+    "url": "https://textlog.cc/post/3183",
+    "published": "Fri, 04 Sep 2026 14:30:17 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Show HN: A searchable, timestamped index of 1,124 AI Engineer talks",
-    "summary": "<p>I love the videos and talks that appear on my feed ever day from the AI Engineer conferences. Unfortunately, there are so many of them it's often hard to find the time to keep up, or to watch what I'd like. So I built aietalks.com, a searchable written index and archive of all the talks on the AI Engineer Youtube channel. We currently cover 1,124 talks.<p>The individual talk pages offer tl;dr summaries, key quotes and other summarised information from the videos. Search and packs allow you to",
-    "url": "https://aietalks.com/",
-    "published": "Thu, 03 Sep 2026 14:43:32 +0000",
+    "title": "Show HN: Floyi, a topic-first content workflow for Google and AI search",
+    "summary": "<p>Hi HN!<p>I'm an SEO and AI search consultant. I've spent years creating topical maps and content strategies for brands and that led me to building Floyi.<p>I’ve seen over the years, long before AI-generated content, how content strategies started with individual keywords and disconnected article ideas. Teams published more, but organic traffic stalled and sometimes declined because the content focus was fragmented.<p>That’s why I always start by defining the brand, what it wants to be known f",
+    "url": "https://floyi.com/",
+    "published": "Fri, 04 Sep 2026 14:16:18 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "How Much Redistribution Will AI Require?",
-    "summary": "<p>Article URL: <a href=\"https://marginalrevolution.com/marginalrevolution/2026/09/how-much-redistribution-will-ai-require.html\">https://marginalrevolution.com/marginalrevolution/2026/09/how-much-redistribution-will-ai-require.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49550565\">https://news.ycombinator.com/item?id=49550565</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
-    "url": "https://marginalrevolution.com/marginalrevolution/2026/09/how-much-redistribution-will-ai-require.html",
-    "published": "Thu, 03 Sep 2026 14:42:30 +0000",
+    "title": "Show HN: Casefile – Git why for AI-assisted development",
+    "summary": "<p>During my work at Brokk last year we developed a task-slicing system. The idea was to have a bunch of tasks where each task can be implemented and verified in isolation. So I can mentally focus only on one task at a time with checking the evidence it works as expected. Most follow-up tasks are based on their predecessor(s).<p>After my time at Brokk I picked up this idea and developed Casefile. To avoid loading the entire previous session context, the agent creates a task log. So a follow-up t",
+    "url": "https://github.com/lutzleonhardt/casefile",
+    "published": "Fri, 04 Sep 2026 14:16:01 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "How do you guys keep up with the most cost-effective AI models?",
-    "summary": "<p>I see lots of post on here discussing the most cost-effective models for coding and people swapping around a lot.<p>I use Claude Code for 20 bucks a month, but I'm interested in trying out other models.<p>Do you guys have a website that ranks the models or do you try them out yourselves? If you try them out yourselves, what's the easiest way to quickly swap between different AI models when doing local work?<p>Thanks for the time!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.c",
-    "url": "https://news.ycombinator.com/item?id=49550324",
-    "published": "Thu, 03 Sep 2026 14:24:06 +0000",
+    "title": "Show HN: Audioreality.ai – email to private daily podcast summary show",
+    "summary": "<p>Hey all,<p>TLDR: When you sign up you get an email alias @audioreality.ai that you can use to sign up for newsletters, have agents send output to, etc. Once a day you get a private podcast with a multi-host format/conversation, so it’s not a basic summary and it’s not a verbatim readout. You can configure multiple shows too, so I personally have some based on different subjects I’m interested in.<p>I built this because I have much more opportunity to listen to content than sit and read (exerc",
+    "url": "https://www.audioreality.ai",
+    "published": "Fri, 04 Sep 2026 14:15:33 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "NVIDIA 宣布以 129.303 亿美元收购 Hugging Face",
-    "summary": "NVIDIA 宣布已同意以 12，930，300，000 美元收购 Hugging Face，黄仁勋在官方博客公布了这一消息。Hugging Face 目前有超过 1800 万开发者，托管超过 300 万个模型、50 万个数据集和 100 万个应用，服务超过 20 万家企业。",
-    "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face",
-    "published": "2026-09-03T11:59:49.000Z",
-    "source": "NVIDIA Blog（RSS）",
+    "title": "Why AI coding agents fake completion, and how to build a bijective validator",
+    "summary": "<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49564889\">https://news.ycombinator.com/item?id=49564889</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://news.ycombinator.com/item?id=49564889",
+    "published": "Fri, 04 Sep 2026 14:08:43 +0000",
+    "source": "Hacker News (设计向)",
     "source_weight": "high",
-    "category": "industry"
+    "category": "ai_tech"
+  },
+  {
+    "title": "Show HN: Kovavue – a rented Linux box where your AI agent works like a human",
+    "summary": "<p>Article URL: <a href=\"https://kovavue.kovanex.dev\">https://kovavue.kovanex.dev</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49564582\">https://news.ycombinator.com/item?id=49564582</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://kovavue.kovanex.dev",
+    "published": "Fri, 04 Sep 2026 13:45:40 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "A New NASA Design Turbocharges Nuclear Spacecraft",
+    "summary": "<p>Article URL: <a href=\"https://spectrum.ieee.org/bimodal-nuclear-spacecraft\">https://spectrum.ieee.org/bimodal-nuclear-spacecraft</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49564475\">https://news.ycombinator.com/item?id=49564475</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "url": "https://spectrum.ieee.org/bimodal-nuclear-spacecraft",
+    "published": "Fri, 04 Sep 2026 13:39:25 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "GPT-6 Astra 基准表现分歧，ARC-AGI-3 效率超人类令 Chollet 提前 AGI 预测",
+    "summary": "GPT-6 Astra 的基准结论相互矛盾：Epoch AI 以 169 分将其排在 267 个模型之首，Artificial Analysis 给出 61 分，仅与前代 Sol 持平、落后 Claude Fable 5.1 的 66 分。",
+    "url": "https://the-decoder.com/benchmarks-disagree-on-gpt-6-astra-but-its-human-beating-efficiency-on-arc-agi-3-pulls-chollets-agi-forecast-forward",
+    "published": "2026-09-04T11:07:36.000Z",
+    "source": "The Decoder：AI News（RSS）",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "开发者用 Claude Fable 5 在 Claude Code 中将 1993 年 Amiga 游戏 Babylonian Twins 移植到 Godot",
+    "summary": "作者让 Claude Fable 5 在 Claude Code 中分三步移植其 1993 年 Amiga 游戏：34，000 行 C++ 一个晚上迁入 Godot 4，72，758 行无注释 68000 汇编先用 vasm 重建出与发售版字节一致的二进制再移植，并把 1993 原作作为第二启动项嵌入新游戏。",
+    "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot",
+    "published": "2026-09-04T00:07:47.851Z",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "Perplexity 宣布将接入 OpenAI GPT-6 Astra，称其在 WANDR 评测中居首",
+    "summary": "Perplexity CEO Aravind Srinivas 祝贺 OpenAI 发布 GPT-6 Astra，称其在宽度和深度研究任务上远超其他模型且更具成本效益，将很快向 Perplexity Computer 的 Pro 和 Max 用户开放。",
+    "url": "https://x.com/AravSrinivas/status/2095621195131695352",
+    "published": "2026-09-03T21:13:22.000Z",
+    "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "François Chollet 评 GPT-6 Astra 在 ARC-AGI-3 上的表现",
+    "summary": "François Chollet 发文称 GPT-6 Astra 在交互式推理任务上带来阶跃式能力提升，使用标准 harness 在 ARC-AGI-3 上得 66%，配合持续对话 harness 和自定义 compaction 接近 100%，每局成本约 $360。",
+    "url": "https://x.com/fchollet/status/2095598451115614371",
+    "published": "2026-09-03T19:42:59.000Z",
+    "source": "X：Francois Chollet (@fchollet)",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "Artificial Analysis 评测 GPT-6 Astra：编码智能体追平 Fable 5 但价格涨至 2.5 倍",
+    "summary": "Artificial Analysis 发布 GPT-6 Astra 评测，其 Coding Agent Index 得分 67，约等于 Claude Opus 5 和 Fable 5，且成本不到 Fable 5 的一半；token 效率比 GPT-5.6 Sol （max） 高约 70%。",
+    "url": "https://x.com/ArtificialAnlys/status/2095595489031000350",
+    "published": "2026-09-03T19:31:13.000Z",
+    "source": "X：Artificial Analysis (@ArtificialAnlys)",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "Google Cloud 教你用 Cloud Run instances 以每月 $5.70 搭建常驻 Agent",
+    "summary": "Shir Meir Lador 在 Google AI 开发者博客介绍如何用 Cloud Run instances 以每月 $5.70（1 vCPU、1Gi 内存、共享 CPU）在云端 24/7 运行常驻 Agent。",
+    "url": "https://dev.to/googleai/build-a-long-running-agent-in-the-cloud-for-570month-113c",
+    "published": "2026-09-03T15:54:57.000Z",
+    "source": "Google AI：DEV 作者专属（RSS）",
+    "source_weight": "high",
+    "category": "tip"
   },
   {
     "title": "METR 发布 OpenAI/Hugging Face 智能体攻击事件的独立调查报告",
@@ -81,6 +153,24 @@
     "category": "tip"
   },
   {
+    "title": "xAI 发布 Grok Bot 企业版，Grok 与 Cursor Enterprise 客户两周免费",
+    "summary": "xAI 宣布 Grok Bot 面向企业开放，Grok 和 Cursor Enterprise 客户未来两周可免费使用并邀请全组织成员，包括没有现有席位的员工。",
+    "url": "https://x.ai/news/grok-bot-for-enterprise",
+    "published": "2026-09-03T00:00:00.000Z",
+    "source": "xAI：News（网页）",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "xAI 设计 Grok Bot：为持久化智能体重构交互界面",
+    "summary": "xAI 发布设计文章，介绍 Grok Bot 如何为超越单次会话的持久化智能体设计界面。产品以 Bot 为主要对象而非会话，Bot 拥有身份、记忆、自己的计算机和工具；头像动效呈现空闲、工作、等待、阻塞、思考、完成等状态；工作区提供状态、预览、接管三级访问。",
+    "url": "https://x.ai/news/designing-grok-bot",
+    "published": "2026-09-03T00:00:00.000Z",
+    "source": "xAI：News（网页）",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
     "title": "Hugging Face 发布开源工具 funes，为编码智能体提供可本地持有的记忆层",
     "summary": "Hugging Face 发布开源工具 funes，为 Claude Code、Codex、pi、Hermes 等编码智能体提供本地记忆层，把已有会话记录索引成 Lance 数据集，一条 funes add 命令即可让 Agent 自主召回原始出处（Agent、时间戳、会话、轮次）。",
     "url": "https://huggingface.co/blog/funes",
@@ -99,15 +189,6 @@
     "category": "ai-models"
   },
   {
-    "title": "Nex",
-    "summary": "<p>\n            Claude Cowork for high-volume GTM workflows\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/nex-4?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1239953?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/nex-4",
-    "published": "2026-09-02T20:04:36-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
     "title": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑",
     "summary": "Claude 官方宣布 Claude Cowork 和 Claude Code 新增后台使用电脑的能力。用户把任务交给 Claude 后，它会像人一样点击、输入和打开应用，用户可同时去做其他事。",
     "url": "https://x.com/claudeai/status/2095226833293685100",
@@ -117,15 +198,6 @@
     "category": "ai-products"
   },
   {
-    "title": "Anthropic 发布电商 Agent 架构与生产实践指南，并开源 commerce-agents 参考实现",
-    "summary": "Anthropic 发布电商 Agent 构建指南，基于与零售、旅游、电信等团队的落地经验，核心架构是单个 Claude 在标准 Agent 循环中配合技能与工具，而非按领域拆分子智能体，并开源了 anthropics/commerce-agents 参考实现，含购物与商家 Agent。",
-    "url": "https://claude.com/blog/the-anatomy-of-effective-commerce-agents",
-    "published": "2026-09-02T17:01:34.540Z",
-    "source": "Claude：Blog（网页）",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
     "title": "OpenAI 因 Tumbler Ridge 枪击案面临 30 起新诉讼，被指协助教唆",
     "summary": "OpenAI 及 CEO Sam Altman 面临 30 起新诉讼，指控其为加拿大 Tumbler Ridge 校园枪击案嫌疑人提供实质性协助与鼓励，诉讼由事发时在校的学生、教师和校长于加州联邦法院提起。",
     "url": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
@@ -133,69 +205,6 @@
     "source": "The Verge：AI（RSS）",
     "source_weight": "high",
     "category": "industry"
-  },
-  {
-    "title": "CodeLook",
-    "summary": "<p>\n            Quick Look code previews with 700+ editor themes\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/codelook?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1239742?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/codelook",
-    "published": "2026-09-02T12:46:18-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Cursor 推出 Self-Hosted Machines，云智能体可在企业自有机器上执行",
-    "summary": "Cursor 发布 Self-Hosted Machines，让云智能体的工具执行迁移到企业自有网络内的机器，智能体循环、推理和规划仍留在 Cursor 云端，通过 worker 的出站 HTTPS 连接对接，Cursor 不会主动连入企业网络。",
-    "url": "https://cursor.com/blog/self-hosted-machines",
-    "published": "2026-09-02T12:00:00.000Z",
-    "source": "Cursor Blog",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "UU远程新版本上线：完整 TUI 渲染与多终端会话管理，强化远程 Vibe Coding 体验",
-    "summary": "UU远程于9月2日上线新版本，重点优化终端功能，补齐 TUI 渲染交互与终端会话管理能力。主要更新包括：Mac 免密码登录、移动端输入优化并新增调用系统输入法的独立输入框、可同时创建和管理多个终端会话并支持手机与电脑间跨端同步接管（通过 uuyc-cli lterm 命令）。",
-    "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685772&idx=1&sn=a073c30899a7f420147673def8209609",
-    "published": "2026-09-02T03:32:20.000Z",
-    "source": "公众号：数字生命卡兹克",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Nvidia 接近以 129 亿美元收购 Hugging Face",
-    "summary": "Bloomberg 报道 Nvidia 正接近以约 129 亿美元收购 Hugging Face，交易总额可能达约 140 亿美元，双方尚未达成最终协议，时间与细节仍可能变动。该价格约为 Hugging Face 2023 年融资轮 45 亿美元估值的 2.9 倍，按年化收入约 1.5 亿美元计算相当于 86 倍，Nvidia 还谈及在交易中加入 10 亿美元的员工留任方案。",
-    "url": "https://x.com/rohanpaul_ai/status/2094975190468010368",
-    "published": "2026-09-02T02:26:22.000Z",
-    "source": "X：Rohan Paul (@rohanpaul_ai)",
-    "source_weight": "high",
-    "category": "industry"
-  },
-  {
-    "title": "Claude Fable 5.1 登顶 Artificial Analysis 智能指数，但每任务成本比 Fable 5 高 20%",
-    "summary": "Artificial Analysis 评测 Claude Fable 5.1，其在 max effort 下得 66 分登顶 Artificial Analysis Intelligence Index。",
-    "url": "https://x.com/ArtificialAnlys/status/2094881171066978525",
-    "published": "2026-09-01T20:12:46.000Z",
-    "source": "X：Artificial Analysis (@ArtificialAnlys)",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "Claude Fable 5.1 上线 Claude Code 与 Claude Platform，缓存读取降价 75%",
-    "summary": "Claude Fable 5.1 现已上线 Claude Code 和 Claude Platform，定价与 Fable 5 相同，API 缓存读取便宜 75%。模型在长任务中能更久自主推进、更善于提示用户它已卡住，写作风格也更自然。Anthropic 同时发布了 Claude Fable 5.1 和 Claude Mythos 5.1，称其为编码与知识工作领域最先进的模型。",
-    "url": "https://x.com/ClaudeDevs/status/2094851229734277228",
-    "published": "2026-09-01T18:13:48.000Z",
-    "source": "X：Claude Devs (@ClaudeDevs)",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "Basic build machines are now available on Pro and Enterprise",
-    "summary": "<p>Pro and Enterprise teams can now select Basic build machines. </p><p>Basic build machines have 2 vCPUs and 8 GB of memory, offering a more cost-efficient option for smaller apps or agents that build with fewer resources. New Pro and Enterprise projects still default to <a href=\"https://vercel.com/changelog/elastic-build-machines-is-now-ga\">Elastic build machines</a>, which scale automatically and are recommended for most use cases. </p><p>To use Basic build machines, update your project confi",
-    "url": "https://vercel.com/changelog/basic-build-machines",
-    "published": "",
-    "source": "Vercel Blog (v0)",
-    "source_weight": "high",
-    "category": "design_tools"
   },
   {
     "title": "When the canvas starts acting, who’s really in control?",
@@ -211,15 +220,6 @@
     "summary": "<figure><img alt=\"A cinematic, moody, high-end editorial shot with a 2:1 aspect ratio. The background is a vast, dark, out-of-focus wall of monospaced code that reads as abstract, cool blue-grey texture. In the center distance, a small, unreachable, door-shaped rectangle of warm amber light stands out against the darkness.\" src=\"https://cdn-images-1.medium.com/max/1024/1*xLTIGhGp-sD2qCLrYrKjFg.jpeg\" /><figcaption><em>The closed system of software engineering, where the complexity of the code act",
     "url": "https://uxdesign.cc/ai-took-away-engineerings-right-to-say-no-839b9b6256f2?source=rss----138adf9c44c---4",
     "published": "Wed, 02 Sep 2026 22:13:11 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Making kyōwa possible with AI",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/making-ky%C5%8Dwa-possible-with-ai-9f4bf8fae315?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*w_S9Inq1V81oYQqr7hxPaw.png\" width=\"7746\" /></a></p><p class=\"medium-feed-snippet\">On unbundling the Send button, so that words can work as sketches</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/making-ky%C5%8Dwa-possible-with-ai-9f4bf8fae315?source=rss----138adf9c44",
-    "url": "https://uxdesign.cc/making-ky%C5%8Dwa-possible-with-ai-9f4bf8fae315?source=rss----138adf9c44c---4",
-    "published": "Wed, 02 Sep 2026 11:15:14 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"

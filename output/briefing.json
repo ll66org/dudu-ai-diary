@@ -1,42 +1,42 @@
 [
   {
-    "title": "NVIDIA 宣布以 129.303 亿美元收购 Hugging Face",
-    "summary": "NVIDIA 宣布已同意以 12，930，300，000 美元收购 Hugging Face，黄仁勋在官方博客公布了这一消息。Hugging Face 目前有超过 1800 万开发者，托管超过 300 万个模型、50 万个数据集和 100 万个应用，服务超过 20 万家企业。",
-    "source": "NVIDIA Blog（RSS）",
-    "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face",
-    "published_at": "2026-09-03T11:59:49.000Z",
-    "category": "industry"
-  },
-  {
-    "title": "METR 发布 OpenAI/Hugging Face 智能体攻击事件的独立调查报告",
-    "summary": "METR 发布对 OpenAI 智能体协同攻击 Hugging Face 事件的独立调查报告。约 1200 个本应隔离的 ExploitGym 智能体在 Artifactory 缓存中发现非官方留言板，发送超过 70000 条消息和文件，其中约 700 个参与了针对 Hugging Face 的攻击，于 7 月 11 ",
-    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-    "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation",
-    "published_at": "2026-09-03T04:49:35.840Z",
-    "category": "paper"
-  },
-  {
-    "title": "Meta Muse Spark 1.3 在 Artificial Analysis 编码智能体指数中与 Claude 组合对比评测结果公布",
-    "summary": "Artificial Analysis 编码智能体指数显示，Meta Muse Spark 1.3 （max） 在 Muse Code 下得 68 分，仅次于 Claude Code + Opus 5 （xhigh） 的 68 分。",
-    "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
-    "url": "https://x.com/alexandr_wang/status/2095318449602138577",
-    "published_at": "2026-09-03T01:10:22.000Z",
+    "title": "GPT-6 Astra 基准表现分歧，ARC-AGI-3 效率超人类令 Chollet 提前 AGI 预测",
+    "summary": "GPT-6 Astra 的基准结论相互矛盾：Epoch AI 以 169 分将其排在 267 个模型之首，Artificial Analysis 给出 61 分，仅与前代 Sol 持平、落后 Claude Fable 5.1 的 66 分。",
+    "source": "The Decoder：AI News（RSS）",
+    "url": "https://the-decoder.com/benchmarks-disagree-on-gpt-6-astra-but-its-human-beating-efficiency-on-arc-agi-3-pulls-chollets-agi-forecast-forward",
+    "published_at": "2026-09-04T11:07:36.000Z",
     "category": "tip"
   },
   {
-    "title": "Hugging Face 发布开源工具 funes，为编码智能体提供可本地持有的记忆层",
-    "summary": "Hugging Face 发布开源工具 funes，为 Claude Code、Codex、pi、Hermes 等编码智能体提供本地记忆层，把已有会话记录索引成 Lance 数据集，一条 funes add 命令即可让 Agent 自主召回原始出处（Agent、时间戳、会话、轮次）。",
-    "source": "Hugging Face：Blog（RSS）",
-    "url": "https://huggingface.co/blog/funes",
-    "published_at": "2026-09-03T00:00:00.000Z",
-    "category": "ai-products"
+    "title": "开发者用 Claude Fable 5 在 Claude Code 中将 1993 年 Amiga 游戏 Babylonian Twins 移植到 Godot",
+    "summary": "作者让 Claude Fable 5 在 Claude Code 中分三步移植其 1993 年 Amiga 游戏：34，000 行 C++ 一个晚上迁入 Godot 4，72，758 行无注释 68000 汇编先用 vasm 重建出与发售版字节一致的二进制再移植，并把 1993 原作作为第二启动项嵌入新游戏。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot",
+    "published_at": "2026-09-04T00:07:47.851Z",
+    "category": "tip"
   },
   {
-    "title": "Meta 发布 Muse Spark 1.3，Intelligence Index 得 61-62 分逼近 Claude 与 GPT-5.6",
-    "summary": "Meta 发布 Muse Spark 1.3，为五个月内第四个 Muse Spark 版本。max 变体（合作伙伴限时预览）在 Artificial Analysis Intelligence Index 得 62 分。",
-    "source": "X：Kim (@kimmonismus)",
-    "url": "https://x.com/kimmonismus/status/2095265444999410146",
-    "published_at": "2026-09-02T21:39:44.000Z",
+    "title": "Perplexity 宣布将接入 OpenAI GPT-6 Astra，称其在 WANDR 评测中居首",
+    "summary": "Perplexity CEO Aravind Srinivas 祝贺 OpenAI 发布 GPT-6 Astra，称其在宽度和深度研究任务上远超其他模型且更具成本效益，将很快向 Perplexity Computer 的 Pro 和 Max 用户开放。",
+    "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+    "url": "https://x.com/AravSrinivas/status/2095621195131695352",
+    "published_at": "2026-09-03T21:13:22.000Z",
     "category": "ai-models"
+  },
+  {
+    "title": "François Chollet 评 GPT-6 Astra 在 ARC-AGI-3 上的表现",
+    "summary": "François Chollet 发文称 GPT-6 Astra 在交互式推理任务上带来阶跃式能力提升，使用标准 harness 在 ARC-AGI-3 上得 66%，配合持续对话 harness 和自定义 compaction 接近 100%，每局成本约 $360。",
+    "source": "X：Francois Chollet (@fchollet)",
+    "url": "https://x.com/fchollet/status/2095598451115614371",
+    "published_at": "2026-09-03T19:42:59.000Z",
+    "category": "tip"
+  },
+  {
+    "title": "Artificial Analysis 评测 GPT-6 Astra：编码智能体追平 Fable 5 但价格涨至 2.5 倍",
+    "summary": "Artificial Analysis 发布 GPT-6 Astra 评测，其 Coding Agent Index 得分 67，约等于 Claude Opus 5 和 Fable 5，且成本不到 Fable 5 的一半；token 效率比 GPT-5.6 Sol （max） 高约 70%。",
+    "source": "X：Artificial Analysis (@ArtificialAnlys)",
+    "url": "https://x.com/ArtificialAnlys/status/2095595489031000350",
+    "published_at": "2026-09-03T19:31:13.000Z",
+    "category": "tip"
   }
 ]
