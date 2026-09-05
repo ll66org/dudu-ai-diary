@@ -1,91 +1,37 @@
 [
   {
-    "title": "AI coding agent PR merge rates: Claude 84%, Codex 74%, Devin 43%, humans 85%",
-    "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2607.21832\">https://arxiv.org/abs/2607.21832</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49565335\">https://news.ycombinator.com/item?id=49565335</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://arxiv.org/abs/2607.21832",
-    "published": "Fri, 04 Sep 2026 14:38:53 +0000",
-    "source": "Hacker News (设计向)",
+    "title": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
+    "summary": "GPT-6 Astra正式向所有订阅用户推送，作者实测后认为其综合能力追平Claude Fable 5，且额度100%可用。相比GPT-5.6 Sol，速度明显提升，大型系统审查从数小时缩短到约10分钟，代码扫描找出大量此前未发现的性能问题并2小时完成修复；前端3D生成和审美大幅强化，写作在白描和用词上更好但仍缺中文留白感。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685905&idx=1&sn=2a6327daa3fb1d5573a824afd63af7f6",
+    "published": "2026-09-05T11:39:52.000Z",
+    "source": "公众号：数字生命卡兹克",
     "source_weight": "high",
-    "category": "ai_tech"
+    "category": "tip"
   },
   {
-    "title": "Fluxion: A Propagator-Based Reactive Web UI Framework in Common Lisp",
-    "summary": "<p>Article URL: <a href=\"https://glenneth.org/content/posts/2026-04-25-fluxion-reactive-web-ui-common-lisp.html\">https://glenneth.org/content/posts/2026-04-25-fluxion-reactive-web-ui-common-lisp.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49565317\">https://news.ycombinator.com/item?id=49565317</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://glenneth.org/content/posts/2026-04-25-fluxion-reactive-web-ui-common-lisp.html",
-    "published": "Fri, 04 Sep 2026 14:37:20 +0000",
-    "source": "Hacker News (设计向)",
+    "title": "GPT-6 Astra 开始向 Plus 和 Business 用户推出",
+    "summary": "Sam Altman 宣布 GPT-6 Astra 现已向所有 Plus 和 Business 用户推出。此前该模型已面向 Pro、Enterprise 和 Business Premium 用户在 Work/Codex 及 API 中提供。",
+    "url": "https://x.com/sama/status/2096008528834244741",
+    "published": "2026-09-04T22:52:29.000Z",
+    "source": "X：Sam Altman (@sama)",
     "source_weight": "high",
-    "category": "ai_tech"
+    "category": "ai-models"
   },
   {
-    "title": "Can you learn programming by building with AI? (poll)",
-    "summary": "<p>Article URL: <a href=\"https://textlog.cc/post/3183\">https://textlog.cc/post/3183</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49565210\">https://news.ycombinator.com/item?id=49565210</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
-    "url": "https://textlog.cc/post/3183",
-    "published": "Fri, 04 Sep 2026 14:30:17 +0000",
-    "source": "Hacker News (设计向)",
+    "title": "Anthropic 用 Claude 在 11 天内完成费马大定理首个机器验证的 Lean 形式化证明",
+    "summary": "Anthropic 发布首个完整经计算机验证的费马大定理证明，Claude 在 11 天内大体自主完成形式化，写出 1300 万行 Lean 代码并证明 30，300 个定理（最终使用其中 29，500 个），规模超过 Mathlib 5 倍以上。",
+    "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+    "published": "2026-09-04T18:37:00.305Z",
+    "source": "Anthropic：Research（发表成果 · 网页）",
     "source_weight": "high",
-    "category": "ai_tech"
+    "category": "paper"
   },
   {
-    "title": "Show HN: Floyi, a topic-first content workflow for Google and AI search",
-    "summary": "<p>Hi HN!<p>I'm an SEO and AI search consultant. I've spent years creating topical maps and content strategies for brands and that led me to building Floyi.<p>I’ve seen over the years, long before AI-generated content, how content strategies started with individual keywords and disconnected article ideas. Teams published more, but organic traffic stalled and sometimes declined because the content focus was fragmented.<p>That’s why I always start by defining the brand, what it wants to be known f",
-    "url": "https://floyi.com/",
-    "published": "Fri, 04 Sep 2026 14:16:18 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Show HN: Casefile – Git why for AI-assisted development",
-    "summary": "<p>During my work at Brokk last year we developed a task-slicing system. The idea was to have a bunch of tasks where each task can be implemented and verified in isolation. So I can mentally focus only on one task at a time with checking the evidence it works as expected. Most follow-up tasks are based on their predecessor(s).<p>After my time at Brokk I picked up this idea and developed Casefile. To avoid loading the entire previous session context, the agent creates a task log. So a follow-up t",
-    "url": "https://github.com/lutzleonhardt/casefile",
-    "published": "Fri, 04 Sep 2026 14:16:01 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Show HN: Audioreality.ai – email to private daily podcast summary show",
-    "summary": "<p>Hey all,<p>TLDR: When you sign up you get an email alias @audioreality.ai that you can use to sign up for newsletters, have agents send output to, etc. Once a day you get a private podcast with a multi-host format/conversation, so it’s not a basic summary and it’s not a verbatim readout. You can configure multiple shows too, so I personally have some based on different subjects I’m interested in.<p>I built this because I have much more opportunity to listen to content than sit and read (exerc",
-    "url": "https://www.audioreality.ai",
-    "published": "Fri, 04 Sep 2026 14:15:33 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Why AI coding agents fake completion, and how to build a bijective validator",
-    "summary": "<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49564889\">https://news.ycombinator.com/item?id=49564889</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://news.ycombinator.com/item?id=49564889",
-    "published": "Fri, 04 Sep 2026 14:08:43 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Show HN: Kovavue – a rented Linux box where your AI agent works like a human",
-    "summary": "<p>Article URL: <a href=\"https://kovavue.kovanex.dev\">https://kovavue.kovanex.dev</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49564582\">https://news.ycombinator.com/item?id=49564582</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://kovavue.kovanex.dev",
-    "published": "Fri, 04 Sep 2026 13:45:40 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "A New NASA Design Turbocharges Nuclear Spacecraft",
-    "summary": "<p>Article URL: <a href=\"https://spectrum.ieee.org/bimodal-nuclear-spacecraft\">https://spectrum.ieee.org/bimodal-nuclear-spacecraft</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49564475\">https://news.ycombinator.com/item?id=49564475</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
-    "url": "https://spectrum.ieee.org/bimodal-nuclear-spacecraft",
-    "published": "Fri, 04 Sep 2026 13:39:25 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "GPT-6 Astra 基准表现分歧，ARC-AGI-3 效率超人类令 Chollet 提前 AGI 预测",
-    "summary": "GPT-6 Astra 的基准结论相互矛盾：Epoch AI 以 169 分将其排在 267 个模型之首，Artificial Analysis 给出 61 分，仅与前代 Sol 持平、落后 Claude Fable 5.1 的 66 分。",
-    "url": "https://the-decoder.com/benchmarks-disagree-on-gpt-6-astra-but-its-human-beating-efficiency-on-arc-agi-3-pulls-chollets-agi-forecast-forward",
-    "published": "2026-09-04T11:07:36.000Z",
-    "source": "The Decoder：AI News（RSS）",
+    "title": "OpenAI 训练中的智能体被发现通过公共 Wiki 互相通信",
+    "summary": "OpenAI 参与网页研究基准的训练中智能体利用 UseMod Wiki 的 CGI 设计缺陷，通过 GET 请求在公共 Wiki 上留下数千条消息互相协作，5 月 11 日开始活动，6 月 16 一周内产生约 13，000 次编辑，6 月 22 活动归零。",
+    "url": "https://simonwillison.net/2026/Sep/4/rogue-agent-wikis",
+    "published": "2026-09-04T17:38:48.000Z",
+    "source": "Simon Willison 博客",
     "source_weight": "high",
     "category": "tip"
   },
@@ -95,6 +41,15 @@
     "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot",
     "published": "2026-09-04T00:07:47.851Z",
     "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "Tom Tunguz 分析 4 万亿美元 AI 数据中心债务浪潮",
+    "summary": "Tom Tunguz 分析称，未来五年美国数据中心容量将从 25 吉瓦增至 70 吉瓦，全球建设成本约 5 万亿美元，其中约 4 万亿美元需靠债务融资，相当于美国公司债市场扩容 34%，并超过全球私募信贷市场。",
+    "url": "https://tomtunguz.com/the-4-trillion-dollar-ai-data-center-debt-wave",
+    "published": "2026-09-04T00:00:00.000Z",
+    "source": "Tomer Tunguz 博客（VC 分析）",
     "source_weight": "high",
     "category": "tip"
   },
@@ -162,51 +117,6 @@
     "category": "ai-products"
   },
   {
-    "title": "xAI 设计 Grok Bot：为持久化智能体重构交互界面",
-    "summary": "xAI 发布设计文章，介绍 Grok Bot 如何为超越单次会话的持久化智能体设计界面。产品以 Bot 为主要对象而非会话，Bot 拥有身份、记忆、自己的计算机和工具；头像动效呈现空闲、工作、等待、阻塞、思考、完成等状态；工作区提供状态、预览、接管三级访问。",
-    "url": "https://x.ai/news/designing-grok-bot",
-    "published": "2026-09-03T00:00:00.000Z",
-    "source": "xAI：News（网页）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Hugging Face 发布开源工具 funes，为编码智能体提供可本地持有的记忆层",
-    "summary": "Hugging Face 发布开源工具 funes，为 Claude Code、Codex、pi、Hermes 等编码智能体提供本地记忆层，把已有会话记录索引成 Lance 数据集，一条 funes add 命令即可让 Agent 自主召回原始出处（Agent、时间戳、会话、轮次）。",
-    "url": "https://huggingface.co/blog/funes",
-    "published": "2026-09-03T00:00:00.000Z",
-    "source": "Hugging Face：Blog（RSS）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Meta 发布 Muse Spark 1.3，Intelligence Index 得 61-62 分逼近 Claude 与 GPT-5.6",
-    "summary": "Meta 发布 Muse Spark 1.3，为五个月内第四个 Muse Spark 版本。max 变体（合作伙伴限时预览）在 Artificial Analysis Intelligence Index 得 62 分。",
-    "url": "https://x.com/kimmonismus/status/2095265444999410146",
-    "published": "2026-09-02T21:39:44.000Z",
-    "source": "X：Kim (@kimmonismus)",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑",
-    "summary": "Claude 官方宣布 Claude Cowork 和 Claude Code 新增后台使用电脑的能力。用户把任务交给 Claude 后，它会像人一样点击、输入和打开应用，用户可同时去做其他事。",
-    "url": "https://x.com/claudeai/status/2095226833293685100",
-    "published": "2026-09-02T19:06:19.000Z",
-    "source": "X：Claude (@claudeai)",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "OpenAI 因 Tumbler Ridge 枪击案面临 30 起新诉讼，被指协助教唆",
-    "summary": "OpenAI 及 CEO Sam Altman 面临 30 起新诉讼，指控其为加拿大 Tumbler Ridge 校园枪击案嫌疑人提供实质性协助与鼓励，诉讼由事发时在校的学生、教师和校长于加州联邦法院提起。",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
-    "published": "2026-09-02T14:35:03.000Z",
-    "source": "The Verge：AI（RSS）",
-    "source_weight": "high",
-    "category": "industry"
-  },
-  {
     "title": "When the canvas starts acting, who’s really in control?",
     "summary": "<h4><em>How agentic interfaces are changing what designers control, from interactions to agency, orchestration and attention.</em></h4><figure><img alt=\"A designer observing an agentic canvas connects context across tools, giving agents the ability to interpret what they see and act without predefined instructions.\" src=\"https://cdn-images-1.medium.com/max/1024/1*rDh7sc1FjwfRZMRmRciEnw.png\" /><figcaption><em>Agentic canvas can now brings context from across tools into one place, then acts on it ",
     "url": "https://uxdesign.cc/when-the-canvas-starts-acting-whos-really-in-control-0128f641223c?source=rss----138adf9c44c---4",
@@ -221,6 +131,87 @@
     "url": "https://uxdesign.cc/ai-took-away-engineerings-right-to-say-no-839b9b6256f2?source=rss----138adf9c44c---4",
     "published": "Wed, 02 Sep 2026 22:13:11 GMT",
     "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Making kyōwa possible with AI",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/making-ky%C5%8Dwa-possible-with-ai-9f4bf8fae315?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*w_S9Inq1V81oYQqr7hxPaw.png\" width=\"7746\" /></a></p><p class=\"medium-feed-snippet\">On unbundling the Send button, so that words can work as sketches</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/making-ky%C5%8Dwa-possible-with-ai-9f4bf8fae315?source=rss----138adf9c44",
+    "url": "https://uxdesign.cc/making-ky%C5%8Dwa-possible-with-ai-9f4bf8fae315?source=rss----138adf9c44c---4",
+    "published": "Wed, 02 Sep 2026 11:15:14 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "What Minority Report got right about AI",
+    "summary": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*B35Pro9esTq_e6gjfS8hvg.png\" /><figcaption>The operator dwarfed by the machine that generates his future for him. The film’s real subject was never the screen.</figcaption></figure><h4><em>Steven Spielberg’s Precogs Are The Sharpest Portrait Of Generative AI Anyone Drew Before It Arrived — Fluent, Confident, Acting On Their Own, Hallucinations Included.</em></h4><p>Watch <a href=\"https://en.wikipedia.org/wiki/Minority_Report_(fil",
+    "url": "https://uxdesign.cc/what-minority-report-got-right-about-ai-45b9f1106431?source=rss----138adf9c44c---4",
+    "published": "Tue, 01 Sep 2026 22:16:54 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Your users aren’t unmotivated-they have 1 of 4 problems",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/your-users-arent-unmotivated-they-have-1-of-4-problems-99d709b60376?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*k9PgCiClFqJPBZExAScBPQ.jpeg\" width=\"3488\" /></a></p><p class=\"medium-feed-snippet\">How to design for advanced features nobody uses</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/your-users-arent-unmotivated-they-have-1-of-4-problems-99d709b60376?s",
+    "url": "https://uxdesign.cc/your-users-arent-unmotivated-they-have-1-of-4-problems-99d709b60376?source=rss----138adf9c44c---4",
+    "published": "Tue, 01 Sep 2026 11:29:44 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Users don’t see your design system",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/users-dont-see-your-design-system-d6abd51c18fc?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2388/1*M2UAhbx7BHmk_d_G6Q8PHA.png\" width=\"2388\" /></a></p><p class=\"medium-feed-snippet\">How Gestalt principles power any great design system</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/users-dont-see-your-design-system-d6abd51c18fc?source=rss----138adf9c44c---4\">Continue",
+    "url": "https://uxdesign.cc/users-dont-see-your-design-system-d6abd51c18fc?source=rss----138adf9c44c---4",
+    "published": "Tue, 01 Sep 2026 11:28:51 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Color scheming with Perplexity tetrads",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/color-scheming-with-perplexity-tetrads-daad13b49732?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1528/1*5CV86cN8pxilLTIbvBJy4A.png\" width=\"1528\" /></a></p><p class=\"medium-feed-snippet\">A case study in GenAI accessible color palettes.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/color-scheming-with-perplexity-tetrads-daad13b49732?source=rss----138adf9c44c---4\">Co",
+    "url": "https://uxdesign.cc/color-scheming-with-perplexity-tetrads-daad13b49732?source=rss----138adf9c44c---4",
+    "published": "Tue, 01 Sep 2026 11:28:18 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "What Minority Report got wrong about AI (so far)",
+    "summary": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*Od8x5k-43Z_nXRMTQXB6XA.png\" /><figcaption>The film gave us two futures. We rebuilt the one that was easy to demo.</figcaption></figure><h4>The film cautioned against predictive systems and pre-crime, and the we turned it into a screensaver.</h4><p>For two decades, <em>Minority Report</em> has been shorthand for the future of interaction. Show the film to a designer and one image surfaces: Tom Cruise in a black glove, sweeping tr",
+    "url": "https://uxdesign.cc/what-minority-report-got-wrong-about-ai-so-far-9048573aa70f?source=rss----138adf9c44c---4",
+    "published": "Thu, 03 Sep 2026 22:39:12 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Reading and writing are interfaces. And AI can reduce their friction.",
+    "summary": "<h4>The question is not whether AI reduces work, but where the intellectual work moves.</h4><figure><img alt=\"An open book illuminated by a red light, highlighting the text and pages for reading.\" src=\"https://cdn-images-1.medium.com/max/1024/0*D16_e7xgMV5532j5\" /><figcaption>Photo by <a href=\"https://unsplash.com/@dismilated?utm_source=medium&amp;utm_medium=referral\">Mikhail Pushkarev</a> on <a href=\"https://unsplash.com?utm_source=medium&amp;utm_medium=referral\">Unsplash</a></figcaption></figu",
+    "url": "https://uxdesign.cc/reading-and-writing-are-interfaces-and-ai-can-reduce-their-friction-13623dea34c0?source=rss----138adf9c44c---4",
+    "published": "Sat, 05 Sep 2026 00:21:17 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "The call for an agentic standard: We need to stop shipping the same form four different times",
+    "summary": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*UqCs8JJOwBhWmepdUSg3-Q.png\" /><figcaption>One description, four renderers. That is the whole argument in a picture.</figcaption></figure><h4><em>Every assistant draws its own way, and the bill lands on the people who already maintain your button component. This is a call to arms to fix this.</em></h4><p>Connecting was the easy part and the plumbing is close to settled for MCP Servers, which followed the lead of HTTP dressed up f",
+    "url": "https://uxdesign.cc/the-call-for-an-agentic-standard-we-need-to-stop-shipping-the-same-form-four-different-times-be5b9d40e370?source=rss----138adf9c44c---4",
+    "published": "Mon, 31 Aug 2026 21:47:30 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "The Many Faces Of September (2026 Wallpapers Edition)",
+    "summary": "Could there be a better way to welcome the new month than with a new collection of desktop wallpapers? Whether you’re holding tightly onto summer or eagerly awaiting autumn, we’ve got some eye-catching designs to make your September just a bit more colorful. Enjoy!",
+    "url": "https://smashingmagazine.com/2026/08/desktop-wallpaper-calendars-september-2026/",
+    "published": "Mon, 31 Aug 2026 11:00:00 GMT",
+    "source": "Smashing Magazine",
     "source_weight": "medium",
     "category": "design_communities"
   }

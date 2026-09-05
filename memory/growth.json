@@ -1,5 +1,5 @@
 {
-  "day_count": 134,
+  "day_count": 135,
   "history": [
     {
       "day": 20,
@@ -769,6 +769,13 @@
       "date": "2026-09-04",
       "topic": "GPT-6 Astra 基准表现分歧，ARC-AGI-3 效率超人类令 Chollet 提前 AGI 预测",
       "source": "The Decoder：AI News（RSS）",
+      "mode": "rss"
+    },
+    {
+      "day": 135,
+      "date": "2026-09-05",
+      "topic": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
+      "source": "公众号：数字生命卡兹克",
       "mode": "rss"
     }
   ],
