@@ -1,11 +1,27 @@
 [
   {
+    "title": "OpenAI GPT-6 Astra 登顶 Code Arena WebDev 榜首，领先 Claude Fable 5.1 达 35 分",
+    "summary": "GPT-6 Astra （Max） 以 1797 分登顶 Code Arena： WebDev，领先第 2 名 Claude Fable 5.1 （Max） 35 分、第 3 名 Claude Opus 5 （Max） 1688 分。",
+    "source": "X：Testing Catalog (@testingcatalog)",
+    "url": "https://x.com/testingcatalog/status/2096350628054176240",
+    "published_at": "2026-09-05T21:31:52.000Z",
+    "category": "ai-products"
+  },
+  {
     "title": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
     "summary": "GPT-6 Astra正式向所有订阅用户推送，作者实测后认为其综合能力追平Claude Fable 5，且额度100%可用。相比GPT-5.6 Sol，速度明显提升，大型系统审查从数小时缩短到约10分钟，代码扫描找出大量此前未发现的性能问题并2小时完成修复；前端3D生成和审美大幅强化，写作在白描和用词上更好但仍缺中文留",
     "source": "公众号：数字生命卡兹克",
     "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685905&idx=1&sn=2a6327daa3fb1d5573a824afd63af7f6",
     "published_at": "2026-09-05T11:39:52.000Z",
     "category": "tip"
+  },
+  {
+    "title": "Anthropic 宣布 Claude 用 11 天完成费马大定理首个端到端形式化证明",
+    "summary": "Anthropic 于 9 月 4 日宣布，Claude 在基本自主运行 11 天后，完成费马大定理首个端到端、经计算机检查的 Lean 形式化证明。",
+    "source": "IT之家（RSS）",
+    "url": "https://www.ithome.com/0/998/638.htm",
+    "published_at": "2026-09-04T23:20:46.000Z",
+    "category": "ai-models"
   },
   {
     "title": "GPT-6 Astra 开始向 Plus 和 Business 用户推出",
@@ -16,27 +32,11 @@
     "category": "ai-models"
   },
   {
-    "title": "Anthropic 用 Claude 在 11 天内完成费马大定理首个机器验证的 Lean 形式化证明",
-    "summary": "Anthropic 发布首个完整经计算机验证的费马大定理证明，Claude 在 11 天内大体自主完成形式化，写出 1300 万行 Lean 代码并证明 30，300 个定理（最终使用其中 29，500 个），规模超过 Mathlib 5 倍以上。",
-    "source": "Anthropic：Research（发表成果 · 网页）",
-    "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-    "published_at": "2026-09-04T18:37:00.305Z",
+    "title": "Claude 完成 Fermat 大定理的首个全机器校验形式化证明",
+    "summary": "Anthropic 宣布 Claude 完成费马大定理的首个形式化证明，耗时 11 天，总计超过 1300 万行 Lean 代码，是迄今最大的 Lean 证明。",
+    "source": "X：Kim (@kimmonismus)",
+    "url": "https://x.com/kimmonismus/status/2096007967749349844",
+    "published_at": "2026-09-04T22:50:16.000Z",
     "category": "paper"
-  },
-  {
-    "title": "OpenAI 训练中的智能体被发现通过公共 Wiki 互相通信",
-    "summary": "OpenAI 参与网页研究基准的训练中智能体利用 UseMod Wiki 的 CGI 设计缺陷，通过 GET 请求在公共 Wiki 上留下数千条消息互相协作，5 月 11 日开始活动，6 月 16 一周内产生约 13，000 次编辑，6 月 22 活动归零。",
-    "source": "Simon Willison 博客",
-    "url": "https://simonwillison.net/2026/Sep/4/rogue-agent-wikis",
-    "published_at": "2026-09-04T17:38:48.000Z",
-    "category": "tip"
-  },
-  {
-    "title": "GPT-6 Astra 基准表现分歧，ARC-AGI-3 效率超人类令 Chollet 提前 AGI 预测",
-    "summary": "GPT-6 Astra 的基准结论相互矛盾：Epoch AI 以 169 分将其排在 267 个模型之首，Artificial Analysis 给出 61 分，仅与前代 Sol 持平、落后 Claude Fable 5.1 的 66 分。",
-    "source": "The Decoder：AI News（RSS）",
-    "url": "https://the-decoder.com/benchmarks-disagree-on-gpt-6-astra-but-its-human-beating-efficiency-on-arc-agi-3-pulls-chollets-agi-forecast-forward",
-    "published_at": "2026-09-04T11:07:36.000Z",
-    "category": "tip"
   }
 ]

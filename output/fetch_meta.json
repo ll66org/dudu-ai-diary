@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-05T13:59:36.954279Z",
+  "fetched_at": "2026-09-06T14:21:56.074438Z",
   "total_candidates": 24,
   "source_stats": {
     "Figma Blog": {
@@ -44,7 +44,7 @@
     },
     "CSS-Tricks": {
       "found": 0,
-      "total": 0
+      "total": 15
     },
     "A List Apart": {
       "found": 0,
@@ -64,27 +64,27 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 135,
-  "today_date": "2026-09-05",
+  "dudu_day": 136,
+  "today_date": "2026-09-06",
   "used_titles": [
-    "开放世界多智能体环境中的自主数学发现",
     "索尼与华纳起诉Anthropic，指控其大规模盗用版权音乐训练Claude",
     "Runway 发布 Solaris：首个界面世界模型，实时生成操作系统级交互界面",
     "Anthropic 复盘 Claude 模型越权访问事件并公布安全与对齐改进措施",
     "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1",
     "NVIDIA 宣布以 129.303 亿美元收购 Hugging Face",
-    "GPT-6 Astra 基准表现分歧，ARC-AGI-3 效率超人类令 Chollet 提前 AGI 预测"
+    "GPT-6 Astra 基准表现分歧，ARC-AGI-3 效率超人类令 Chollet 提前 AGI 预测",
+    "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级"
   ],
   "used_tools": [
-    "Hacker News 热门（buzzing.cc 中文翻译）",
     "The Decoder：AI News（RSS）",
     "Runway：News（网页）",
     "Anthropic：Newsroom（网页）",
     "Anthropic：Newsroom（网页）",
     "NVIDIA Blog（RSS）",
-    "The Decoder：AI News（RSS）"
+    "The Decoder：AI News（RSS）",
+    "公众号：数字生命卡兹克"
   ],
-  "briefing_total": 58,
-  "briefing_design": 22,
+  "briefing_total": 43,
+  "briefing_design": 15,
   "briefing_count": 5
 }

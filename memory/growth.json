@@ -1,5 +1,5 @@
 {
-  "day_count": 135,
+  "day_count": 136,
   "history": [
     {
       "day": 20,
@@ -776,6 +776,13 @@
       "date": "2026-09-05",
       "topic": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
       "source": "公众号：数字生命卡兹克",
+      "mode": "rss"
+    },
+    {
+      "day": 136,
+      "date": "2026-09-06",
+      "topic": "OpenAI GPT-6 Astra 登顶 Code Arena WebDev 榜首，领先 Claude Fable 5.1 达 35 分",
+      "source": "X：Testing Catalog (@testingcatalog)",
       "mode": "rss"
     }
   ],
