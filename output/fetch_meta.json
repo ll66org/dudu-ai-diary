@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-09-06T14:21:56.074438Z",
-  "total_candidates": 24,
+  "fetched_at": "2026-09-07T16:38:03.510596Z",
+  "total_candidates": 15,
   "source_stats": {
     "Figma Blog": {
       "found": 0,
@@ -24,18 +24,18 @@
     },
     "Lovable Blog": {
       "found": 0,
-      "total": 152
+      "total": 153
     },
     "Bolt (StackBlitz) Blog": {
       "found": 0,
       "total": 66
     },
     "Smashing Magazine": {
-      "found": 1,
+      "found": 0,
       "total": 40
     },
     "UX Collective": {
-      "found": 10,
+      "found": 9,
       "total": 10
     },
     "Designer News": {
@@ -64,27 +64,27 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 136,
-  "today_date": "2026-09-06",
+  "dudu_day": 137,
+  "today_date": "2026-09-07",
   "used_titles": [
-    "索尼与华纳起诉Anthropic，指控其大规模盗用版权音乐训练Claude",
     "Runway 发布 Solaris：首个界面世界模型，实时生成操作系统级交互界面",
     "Anthropic 复盘 Claude 模型越权访问事件并公布安全与对齐改进措施",
     "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1",
     "NVIDIA 宣布以 129.303 亿美元收购 Hugging Face",
     "GPT-6 Astra 基准表现分歧，ARC-AGI-3 效率超人类令 Chollet 提前 AGI 预测",
-    "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级"
+    "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
+    "OpenAI GPT-6 Astra 登顶 Code Arena WebDev 榜首，领先 Claude Fable 5.1 达 35 分"
   ],
   "used_tools": [
-    "The Decoder：AI News（RSS）",
     "Runway：News（网页）",
     "Anthropic：Newsroom（网页）",
     "Anthropic：Newsroom（网页）",
     "NVIDIA Blog（RSS）",
     "The Decoder：AI News（RSS）",
-    "公众号：数字生命卡兹克"
+    "公众号：数字生命卡兹克",
+    "X：Testing Catalog (@testingcatalog)"
   ],
-  "briefing_total": 43,
-  "briefing_design": 15,
+  "briefing_total": 26,
+  "briefing_design": 8,
   "briefing_count": 5
 }

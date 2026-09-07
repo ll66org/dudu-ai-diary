@@ -1,5 +1,13 @@
 [
   {
+    "title": "GPT-6 Astra爆火后，卡兹克谈执行能力贬值与判断力断层",
+    "summary": "GPT-6 Astra上线后，大量用户用它自主操控Blender、Houdini、Unity、Aseprite等专业软件，做出游戏Demo、3D复刻旧金山艺术宫等作品，其中旧金山艺术宫案例里Astra自己搜索几百张参考图、翻到美国国会图书馆的老扫描文件找柱子尺寸，多数工作在夜间自主完成。",
+    "source": "公众号：数字生命卡兹克",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685960&idx=1&sn=df5885920be226f9514f47a7f2d30621",
+    "published_at": "2026-09-07T00:08:00.000Z",
+    "category": "tip"
+  },
+  {
     "title": "OpenAI GPT-6 Astra 登顶 Code Arena WebDev 榜首，领先 Claude Fable 5.1 达 35 分",
     "summary": "GPT-6 Astra （Max） 以 1797 分登顶 Code Arena： WebDev，领先第 2 名 Claude Fable 5.1 （Max） 35 分、第 3 名 Claude Opus 5 （Max） 1688 分。",
     "source": "X：Testing Catalog (@testingcatalog)",
@@ -30,13 +38,5 @@
     "url": "https://x.com/sama/status/2096008528834244741",
     "published_at": "2026-09-04T22:52:29.000Z",
     "category": "ai-models"
-  },
-  {
-    "title": "Claude 完成 Fermat 大定理的首个全机器校验形式化证明",
-    "summary": "Anthropic 宣布 Claude 完成费马大定理的首个形式化证明，耗时 11 天，总计超过 1300 万行 Lean 代码，是迄今最大的 Lean 证明。",
-    "source": "X：Kim (@kimmonismus)",
-    "url": "https://x.com/kimmonismus/status/2096007967749349844",
-    "published_at": "2026-09-04T22:50:16.000Z",
-    "category": "paper"
   }
 ]

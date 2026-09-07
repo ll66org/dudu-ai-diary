@@ -1,12 +1,12 @@
 [
   {
-    "title": "OpenAI GPT-6 Astra 登顶 Code Arena WebDev 榜首，领先 Claude Fable 5.1 达 35 分",
-    "summary": "GPT-6 Astra （Max） 以 1797 分登顶 Code Arena： WebDev，领先第 2 名 Claude Fable 5.1 （Max） 35 分、第 3 名 Claude Opus 5 （Max） 1688 分。",
-    "url": "https://x.com/testingcatalog/status/2096350628054176240",
-    "published": "2026-09-05T21:31:52.000Z",
-    "source": "X：Testing Catalog (@testingcatalog)",
+    "title": "GPT-6 Astra爆火后，卡兹克谈执行能力贬值与判断力断层",
+    "summary": "GPT-6 Astra上线后，大量用户用它自主操控Blender、Houdini、Unity、Aseprite等专业软件，做出游戏Demo、3D复刻旧金山艺术宫等作品，其中旧金山艺术宫案例里Astra自己搜索几百张参考图、翻到美国国会图书馆的老扫描文件找柱子尺寸，多数工作在夜间自主完成。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685960&idx=1&sn=df5885920be226f9514f47a7f2d30621",
+    "published": "2026-09-07T00:08:00.000Z",
+    "source": "公众号：数字生命卡兹克",
     "source_weight": "high",
-    "category": "ai-products"
+    "category": "tip"
   },
   {
     "title": "Anthropic 宣布 Claude 用 11 天完成费马大定理首个端到端形式化证明",
@@ -50,69 +50,6 @@
     "url": "https://simonwillison.net/2026/Sep/4/rogue-agent-wikis",
     "published": "2026-09-04T17:38:48.000Z",
     "source": "Simon Willison 博客",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "开发者用 Claude Fable 5 在 Claude Code 中将 1993 年 Amiga 游戏 Babylonian Twins 移植到 Godot",
-    "summary": "作者让 Claude Fable 5 在 Claude Code 中分三步移植其 1993 年 Amiga 游戏：34，000 行 C++ 一个晚上迁入 Godot 4，72，758 行无注释 68000 汇编先用 vasm 重建出与发售版字节一致的二进制再移植，并把 1993 原作作为第二启动项嵌入新游戏。",
-    "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot",
-    "published": "2026-09-04T00:07:47.851Z",
-    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "Tom Tunguz 分析 4 万亿美元 AI 数据中心债务浪潮",
-    "summary": "Tom Tunguz 分析称，未来五年美国数据中心容量将从 25 吉瓦增至 70 吉瓦，全球建设成本约 5 万亿美元，其中约 4 万亿美元需靠债务融资，相当于美国公司债市场扩容 34%，并超过全球私募信贷市场。",
-    "url": "https://tomtunguz.com/the-4-trillion-dollar-ai-data-center-debt-wave",
-    "published": "2026-09-04T00:00:00.000Z",
-    "source": "Tomer Tunguz 博客（VC 分析）",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "Perplexity 宣布将接入 OpenAI GPT-6 Astra，称其在 WANDR 评测中居首",
-    "summary": "Perplexity CEO Aravind Srinivas 祝贺 OpenAI 发布 GPT-6 Astra，称其在宽度和深度研究任务上远超其他模型且更具成本效益，将很快向 Perplexity Computer 的 Pro 和 Max 用户开放。",
-    "url": "https://x.com/AravSrinivas/status/2095621195131695352",
-    "published": "2026-09-03T21:13:22.000Z",
-    "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "François Chollet 评 GPT-6 Astra 在 ARC-AGI-3 上的表现",
-    "summary": "François Chollet 发文称 GPT-6 Astra 在交互式推理任务上带来阶跃式能力提升，使用标准 harness 在 ARC-AGI-3 上得 66%，配合持续对话 harness 和自定义 compaction 接近 100%，每局成本约 $360。",
-    "url": "https://x.com/fchollet/status/2095598451115614371",
-    "published": "2026-09-03T19:42:59.000Z",
-    "source": "X：Francois Chollet (@fchollet)",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "Artificial Analysis 评测 GPT-6 Astra：编码智能体追平 Fable 5 但价格涨至 2.5 倍",
-    "summary": "Artificial Analysis 发布 GPT-6 Astra 评测，其 Coding Agent Index 得分 67，约等于 Claude Opus 5 和 Fable 5，且成本不到 Fable 5 的一半；token 效率比 GPT-5.6 Sol （max） 高约 70%。",
-    "url": "https://x.com/ArtificialAnlys/status/2095595489031000350",
-    "published": "2026-09-03T19:31:13.000Z",
-    "source": "X：Artificial Analysis (@ArtificialAnlys)",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "Claude 用 11 天完成费马大定理的首个完整机器验证证明",
-    "summary": "Anthropic 发布首个完整机器验证的费马大定理证明，Claude 在 11 天内基本自主完成，写出 1300 万行 Lean 代码并证明 29，500 个中间定理。",
-    "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-    "published": "2026-09-03T16:00:00.000Z",
-    "source": "Anthropic：Research（发表成果 · 网页）",
-    "source_weight": "high",
-    "category": "paper"
-  },
-  {
-    "title": "Google Cloud 教你用 Cloud Run instances 以每月 $5.70 搭建常驻 Agent",
-    "summary": "Shir Meir Lador 在 Google AI 开发者博客介绍如何用 Cloud Run instances 以每月 $5.70（1 vCPU、1Gi 内存、共享 CPU）在云端 24/7 运行常驻 Agent。",
-    "url": "https://dev.to/googleai/build-a-long-running-agent-in-the-cloud-for-570month-113c",
-    "published": "2026-09-03T15:54:57.000Z",
-    "source": "Google AI：DEV 作者专属（RSS）",
     "source_weight": "high",
     "category": "tip"
   },
@@ -171,19 +108,19 @@
     "category": "design_communities"
   },
   {
-    "title": "Color scheming with Perplexity tetrads",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/color-scheming-with-perplexity-tetrads-daad13b49732?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1528/1*5CV86cN8pxilLTIbvBJy4A.png\" width=\"1528\" /></a></p><p class=\"medium-feed-snippet\">A case study in GenAI accessible color palettes.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/color-scheming-with-perplexity-tetrads-daad13b49732?source=rss----138adf9c44c---4\">Co",
-    "url": "https://uxdesign.cc/color-scheming-with-perplexity-tetrads-daad13b49732?source=rss----138adf9c44c---4",
-    "published": "Tue, 01 Sep 2026 11:28:18 GMT",
+    "title": "What Minority Report got wrong about AI (so far)",
+    "summary": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*Od8x5k-43Z_nXRMTQXB6XA.png\" /><figcaption>The film gave us two futures. We rebuilt the one that was easy to demo.</figcaption></figure><h4>The film cautioned against predictive systems and pre-crime, and the we turned it into a screensaver.</h4><p>For two decades, <em>Minority Report</em> has been shorthand for the future of interaction. Show the film to a designer and one image surfaces: Tom Cruise in a black glove, sweeping tr",
+    "url": "https://uxdesign.cc/what-minority-report-got-wrong-about-ai-so-far-9048573aa70f?source=rss----138adf9c44c---4",
+    "published": "Thu, 03 Sep 2026 22:39:12 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
   },
   {
-    "title": "What Minority Report got wrong about AI (so far)",
-    "summary": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*Od8x5k-43Z_nXRMTQXB6XA.png\" /><figcaption>The film gave us two futures. We rebuilt the one that was easy to demo.</figcaption></figure><h4>The film cautioned against predictive systems and pre-crime, and the we turned it into a screensaver.</h4><p>For two decades, <em>Minority Report</em> has been shorthand for the future of interaction. Show the film to a designer and one image surfaces: Tom Cruise in a black glove, sweeping tr",
-    "url": "https://uxdesign.cc/what-minority-report-got-wrong-about-ai-so-far-9048573aa70f?source=rss----138adf9c44c---4",
-    "published": "Thu, 03 Sep 2026 22:39:12 GMT",
+    "title": "AI in Product teams: In 2026, the growing impact on collaboration",
+    "summary": "<h4>Is the time of blind AI-tool-pushing over? There seems to be a shift in how companies approach AI. Less piecemeal initiatives, more strategic thinking and adoption, which is increasingly affecting how design, engineering and product work together.</h4><figure><img alt=\"Black and white photograph of seven men playing chess\" src=\"https://cdn-images-1.medium.com/max/1024/1*PZBimY3u6oqDrffnKL8pSw.jpeg\" /><figcaption>To stay competitive in 2026, companies are slowly but steadily building AI strat",
+    "url": "https://uxdesign.cc/ai-in-product-teams-in-2026-the-growing-impact-on-collaboration-8ea9f6024dca?source=rss----138adf9c44c---4",
+    "published": "Sun, 06 Sep 2026 23:47:16 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
@@ -194,24 +131,6 @@
     "url": "https://uxdesign.cc/reading-and-writing-are-interfaces-and-ai-can-reduce-their-friction-13623dea34c0?source=rss----138adf9c44c---4",
     "published": "Sat, 05 Sep 2026 00:21:17 GMT",
     "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "The call for an agentic standard: We need to stop shipping the same form four different times",
-    "summary": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*UqCs8JJOwBhWmepdUSg3-Q.png\" /><figcaption>One description, four renderers. That is the whole argument in a picture.</figcaption></figure><h4><em>Every assistant draws its own way, and the bill lands on the people who already maintain your button component. This is a call to arms to fix this.</em></h4><p>Connecting was the easy part and the plumbing is close to settled for MCP Servers, which followed the lead of HTTP dressed up f",
-    "url": "https://uxdesign.cc/the-call-for-an-agentic-standard-we-need-to-stop-shipping-the-same-form-four-different-times-be5b9d40e370?source=rss----138adf9c44c---4",
-    "published": "Mon, 31 Aug 2026 21:47:30 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "The Many Faces Of September (2026 Wallpapers Edition)",
-    "summary": "Could there be a better way to welcome the new month than with a new collection of desktop wallpapers? Whether you’re holding tightly onto summer or eagerly awaiting autumn, we’ve got some eye-catching designs to make your September just a bit more colorful. Enjoy!",
-    "url": "https://smashingmagazine.com/2026/08/desktop-wallpaper-calendars-september-2026/",
-    "published": "Mon, 31 Aug 2026 11:00:00 GMT",
-    "source": "Smashing Magazine",
     "source_weight": "medium",
     "category": "design_communities"
   }
