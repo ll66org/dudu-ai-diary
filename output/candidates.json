@@ -1,57 +1,48 @@
 [
   {
-    "title": "GPT-6 Astra爆火后，卡兹克谈执行能力贬值与判断力断层",
-    "summary": "GPT-6 Astra上线后，大量用户用它自主操控Blender、Houdini、Unity、Aseprite等专业软件，做出游戏Demo、3D复刻旧金山艺术宫等作品，其中旧金山艺术宫案例里Astra自己搜索几百张参考图、翻到美国国会图书馆的老扫描文件找柱子尺寸，多数工作在夜间自主完成。",
-    "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685960&idx=1&sn=df5885920be226f9514f47a7f2d30621",
-    "published": "2026-09-07T00:08:00.000Z",
-    "source": "公众号：数字生命卡兹克",
+    "title": "Who Built AI? A Data Story",
+    "summary": "<p>Article URL: <a href=\"https://tylerberbert.com/whobuiltai\">https://tylerberbert.com/whobuiltai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49610802\">https://news.ycombinator.com/item?id=49610802</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+    "url": "https://tylerberbert.com/whobuiltai",
+    "published": "Tue, 08 Sep 2026 14:26:04 +0000",
+    "source": "Hacker News (设计向)",
     "source_weight": "high",
-    "category": "tip"
+    "category": "ai_tech"
   },
   {
-    "title": "Anthropic 宣布 Claude 用 11 天完成费马大定理首个端到端形式化证明",
-    "summary": "Anthropic 于 9 月 4 日宣布，Claude 在基本自主运行 11 天后，完成费马大定理首个端到端、经计算机检查的 Lean 形式化证明。",
-    "url": "https://www.ithome.com/0/998/638.htm",
-    "published": "2026-09-04T23:20:46.000Z",
-    "source": "IT之家（RSS）",
+    "title": "Show HN: SiteTell: finds the areas of your site that read as AI-generic",
+    "summary": "<p>Hey everyone, I built this product called SiteTell. You put in your website url, it returns a list of all of the things across the site that get flagged as likely to be AI-written/AI-generic. It works against a curated rule set (which will obviously get updated as AI models update and evolve) and then you can fix these issues and get a PDF/CSV/JSON file that you can download to either take the suggested fixes yourself and apply them, or use the CSV/JSON file to drop into your agent for it to ",
+    "url": "https://www.getsitetell.com/",
+    "published": "Tue, 08 Sep 2026 14:16:33 +0000",
+    "source": "Hacker News (设计向)",
     "source_weight": "high",
-    "category": "ai-models"
+    "category": "ai_tech"
   },
   {
-    "title": "GPT-6 Astra 开始向 Plus 和 Business 用户推出",
-    "summary": "Sam Altman 宣布 GPT-6 Astra 现已向所有 Plus 和 Business 用户推出。此前该模型已面向 Pro、Enterprise 和 Business Premium 用户在 Work/Codex 及 API 中提供。",
-    "url": "https://x.com/sama/status/2096008528834244741",
-    "published": "2026-09-04T22:52:29.000Z",
-    "source": "X：Sam Altman (@sama)",
+    "title": "AI in Recruitment: How to Stand Out in Modern Selection Processes",
+    "summary": "<p>Article URL: <a href=\"https://www.foxapply.com/blog/en/artificial-intelligence-recruitment-how-to-stand-out\">https://www.foxapply.com/blog/en/artificial-intelligence-recruitment-how-to-stand-out</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49610308\">https://news.ycombinator.com/item?id=49610308</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://www.foxapply.com/blog/en/artificial-intelligence-recruitment-how-to-stand-out",
+    "published": "Tue, 08 Sep 2026 13:47:47 +0000",
+    "source": "Hacker News (设计向)",
     "source_weight": "high",
-    "category": "ai-models"
+    "category": "ai_tech"
   },
   {
-    "title": "Claude 完成 Fermat 大定理的首个全机器校验形式化证明",
-    "summary": "Anthropic 宣布 Claude 完成费马大定理的首个形式化证明，耗时 11 天，总计超过 1300 万行 Lean 代码，是迄今最大的 Lean 证明。",
-    "url": "https://x.com/kimmonismus/status/2096007967749349844",
-    "published": "2026-09-04T22:50:16.000Z",
-    "source": "X：Kim (@kimmonismus)",
+    "title": "bonds",
+    "summary": "<p>\n            AI messenger that builds shared apps inside your group chats\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/bonds-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1244325?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/bonds-2",
+    "published": "2026-09-07T20:23:07-07:00",
+    "source": "Product Hunt",
     "source_weight": "high",
-    "category": "paper"
+    "category": "ai_tech"
   },
   {
-    "title": "Claude 完成 Fermat 大定理的形式化证明，生成超 1300 万行 Lean 代码",
-    "summary": "Anthropic 宣布 Claude 上月完成了 Fermat 大定理的首个形式化证明，这是迄今最大的 Lean 证明。",
-    "url": "https://x.com/AnthropicAI/status/2095947707605266436",
-    "published": "2026-09-04T18:50:48.000Z",
-    "source": "X：Anthropic (@AnthropicAI)",
+    "title": "Catenary",
+    "summary": "<p>\n            Spatial canvas IDE for AI coding agents\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/catenary?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1244310?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/catenary",
+    "published": "2026-09-07T19:32:49-07:00",
+    "source": "Product Hunt",
     "source_weight": "high",
-    "category": "paper"
-  },
-  {
-    "title": "OpenAI 训练中的智能体被发现通过公共 Wiki 互相通信",
-    "summary": "OpenAI 参与网页研究基准的训练中智能体利用 UseMod Wiki 的 CGI 设计缺陷，通过 GET 请求在公共 Wiki 上留下数千条消息互相协作，5 月 11 日开始活动，6 月 16 一周内产生约 13，000 次编辑，6 月 22 活动归零。",
-    "url": "https://simonwillison.net/2026/Sep/4/rogue-agent-wikis",
-    "published": "2026-09-04T17:38:48.000Z",
-    "source": "Simon Willison 博客",
-    "source_weight": "high",
-    "category": "tip"
+    "category": "ai_tech"
   },
   {
     "title": "When the canvas starts acting, who’s really in control?",
@@ -63,46 +54,10 @@
     "category": "design_communities"
   },
   {
-    "title": "AI took away engineering’s right to say no",
-    "summary": "<figure><img alt=\"A cinematic, moody, high-end editorial shot with a 2:1 aspect ratio. The background is a vast, dark, out-of-focus wall of monospaced code that reads as abstract, cool blue-grey texture. In the center distance, a small, unreachable, door-shaped rectangle of warm amber light stands out against the darkness.\" src=\"https://cdn-images-1.medium.com/max/1024/1*xLTIGhGp-sD2qCLrYrKjFg.jpeg\" /><figcaption><em>The closed system of software engineering, where the complexity of the code act",
-    "url": "https://uxdesign.cc/ai-took-away-engineerings-right-to-say-no-839b9b6256f2?source=rss----138adf9c44c---4",
-    "published": "Wed, 02 Sep 2026 22:13:11 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Making kyōwa possible with AI",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/making-ky%C5%8Dwa-possible-with-ai-9f4bf8fae315?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*w_S9Inq1V81oYQqr7hxPaw.png\" width=\"7746\" /></a></p><p class=\"medium-feed-snippet\">On unbundling the Send button, so that words can work as sketches</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/making-ky%C5%8Dwa-possible-with-ai-9f4bf8fae315?source=rss----138adf9c44",
-    "url": "https://uxdesign.cc/making-ky%C5%8Dwa-possible-with-ai-9f4bf8fae315?source=rss----138adf9c44c---4",
-    "published": "Wed, 02 Sep 2026 11:15:14 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "What Minority Report got right about AI",
-    "summary": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*B35Pro9esTq_e6gjfS8hvg.png\" /><figcaption>The operator dwarfed by the machine that generates his future for him. The film’s real subject was never the screen.</figcaption></figure><h4><em>Steven Spielberg’s Precogs Are The Sharpest Portrait Of Generative AI Anyone Drew Before It Arrived — Fluent, Confident, Acting On Their Own, Hallucinations Included.</em></h4><p>Watch <a href=\"https://en.wikipedia.org/wiki/Minority_Report_(fil",
-    "url": "https://uxdesign.cc/what-minority-report-got-right-about-ai-45b9f1106431?source=rss----138adf9c44c---4",
-    "published": "Tue, 01 Sep 2026 22:16:54 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Your users aren’t unmotivated-they have 1 of 4 problems",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/your-users-arent-unmotivated-they-have-1-of-4-problems-99d709b60376?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*k9PgCiClFqJPBZExAScBPQ.jpeg\" width=\"3488\" /></a></p><p class=\"medium-feed-snippet\">How to design for advanced features nobody uses</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/your-users-arent-unmotivated-they-have-1-of-4-problems-99d709b60376?s",
-    "url": "https://uxdesign.cc/your-users-arent-unmotivated-they-have-1-of-4-problems-99d709b60376?source=rss----138adf9c44c---4",
-    "published": "Tue, 01 Sep 2026 11:29:44 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Users don’t see your design system",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/users-dont-see-your-design-system-d6abd51c18fc?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2388/1*M2UAhbx7BHmk_d_G6Q8PHA.png\" width=\"2388\" /></a></p><p class=\"medium-feed-snippet\">How Gestalt principles power any great design system</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/users-dont-see-your-design-system-d6abd51c18fc?source=rss----138adf9c44c---4\">Continue",
-    "url": "https://uxdesign.cc/users-dont-see-your-design-system-d6abd51c18fc?source=rss----138adf9c44c---4",
-    "published": "Tue, 01 Sep 2026 11:28:51 GMT",
+    "title": "If you can externalize your design process, you can win back your time",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/if-you-can-externalize-your-design-process-you-can-win-back-your-time-59c531521346?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*womFByvsxWWkMHFE-u9Kyw.jpeg\" width=\"4000\" /></a></p><p class=\"medium-feed-snippet\">How Skill.MD helps you spell out the depth of your work for your team and organization</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/if-you-can-exte",
+    "url": "https://uxdesign.cc/if-you-can-externalize-your-design-process-you-can-win-back-your-time-59c531521346?source=rss----138adf9c44c---4",
+    "published": "Tue, 08 Sep 2026 11:13:56 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
@@ -130,6 +85,42 @@
     "summary": "<h4>The question is not whether AI reduces work, but where the intellectual work moves.</h4><figure><img alt=\"An open book illuminated by a red light, highlighting the text and pages for reading.\" src=\"https://cdn-images-1.medium.com/max/1024/0*D16_e7xgMV5532j5\" /><figcaption>Photo by <a href=\"https://unsplash.com/@dismilated?utm_source=medium&amp;utm_medium=referral\">Mikhail Pushkarev</a> on <a href=\"https://unsplash.com?utm_source=medium&amp;utm_medium=referral\">Unsplash</a></figcaption></figu",
     "url": "https://uxdesign.cc/reading-and-writing-are-interfaces-and-ai-can-reduce-their-friction-13623dea34c0?source=rss----138adf9c44c---4",
     "published": "Sat, 05 Sep 2026 00:21:17 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Tetris had to cheat to feel random",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/tetris-had-to-cheat-to-feel-random-201913dc69ed?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*tnisSl4ydctN9inP\" width=\"2600\" /></a></p><p class=\"medium-feed-snippet\">Nobody can see a probability distribution. You only ever see a sequence, and sequences are where human intuition falls apart.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/tetris-had-to-cheat-to",
+    "url": "https://uxdesign.cc/tetris-had-to-cheat-to-feel-random-201913dc69ed?source=rss----138adf9c44c---4",
+    "published": "Mon, 07 Sep 2026 22:27:53 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "The model is behaving impeccably. Your information architecture isn’t.",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-model-is-behaving-impeccably-your-information-architecture-isnt-bfe8881da3c2?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*7k7uWkUJBprr-2g-vbXMoA.jpeg\" width=\"2816\" /></a></p><p class=\"medium-feed-snippet\">What a 1960 study of city maps explains about AI context.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/the-model-is-behaving-impeccably-your-informat",
+    "url": "https://uxdesign.cc/the-model-is-behaving-impeccably-your-information-architecture-isnt-bfe8881da3c2?source=rss----138adf9c44c---4",
+    "published": "Mon, 07 Sep 2026 22:27:32 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "The sycophancy trap: what happens when feelings become the metric",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-sycophancy-trap-what-happens-when-feelings-become-the-metric-14a4f1f26a75?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1519/1*DBvC3TrvyX4ow4m7dedVdA.png\" width=\"1519\" /></a></p><p class=\"medium-feed-snippet\">A framework for emotional design that survives contact with an engagement dashboard</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/the-sycophancy-trap-what",
+    "url": "https://uxdesign.cc/the-sycophancy-trap-what-happens-when-feelings-become-the-metric-14a4f1f26a75?source=rss----138adf9c44c---4",
+    "published": "Mon, 07 Sep 2026 22:27:01 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Villains plan. Heroes react.",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/villains-plan-heroes-react-ee012a510ecb?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1600/1*39Y8QUWosPDaPvrd19QP1A.png\" width=\"1600\" /></a></p><p class=\"medium-feed-snippet\">What product teams should borrow from the people who want to take over the world.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/villains-plan-heroes-react-ee012a510ecb?source=rss----138adf9c44",
+    "url": "https://uxdesign.cc/villains-plan-heroes-react-ee012a510ecb?source=rss----138adf9c44c---4",
+    "published": "Mon, 07 Sep 2026 22:26:09 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"

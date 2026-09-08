@@ -16,27 +16,27 @@
     "category": "ai-products"
   },
   {
-    "title": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
-    "summary": "GPT-6 Astra正式向所有订阅用户推送，作者实测后认为其综合能力追平Claude Fable 5，且额度100%可用。相比GPT-5.6 Sol，速度明显提升，大型系统审查从数小时缩短到约10分钟，代码扫描找出大量此前未发现的性能问题并2小时完成修复；前端3D生成和审美大幅强化，写作在白描和用词上更好但仍缺中文留",
-    "source": "公众号：数字生命卡兹克",
-    "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685905&idx=1&sn=2a6327daa3fb1d5573a824afd63af7f6",
-    "published_at": "2026-09-05T11:39:52.000Z",
+    "title": "数学家巴克马斯特宣布多项方程 blowup 结果并公开与 OpenAI 沟通经过",
+    "summary": "特里斯坦·巴克马斯特（Tristan Buckmaster）与 Levent Alpöge 公开三项有限时间 blowup 结果，涵盖带光滑强迫的不可压缩多孔介质方程。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+    "published_at": "2026-09-08T07:20:02.739Z",
     "category": "tip"
   },
   {
-    "title": "Anthropic 宣布 Claude 用 11 天完成费马大定理首个端到端形式化证明",
-    "summary": "Anthropic 于 9 月 4 日宣布，Claude 在基本自主运行 11 天后，完成费马大定理首个端到端、经计算机检查的 Lean 形式化证明。",
-    "source": "IT之家（RSS）",
-    "url": "https://www.ithome.com/0/998/638.htm",
-    "published_at": "2026-09-04T23:20:46.000Z",
-    "category": "ai-models"
+    "title": "Mistral 完成 30 亿欧元 D 轮融资，估值超 210 亿欧元",
+    "summary": "Mistral 宣布完成 30 亿欧元 D 轮融资，投后估值超过 210 亿欧元，公司称这是欧洲科技公司有史以来最大的股权融资，距其成立三年。",
+    "source": "Mistral AI：News（网页）",
+    "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
+    "published_at": "2026-09-08T05:58:27.839Z",
+    "category": "industry"
   },
   {
-    "title": "GPT-6 Astra 开始向 Plus 和 Business 用户推出",
-    "summary": "Sam Altman 宣布 GPT-6 Astra 现已向所有 Plus 和 Business 用户推出。此前该模型已面向 Pro、Enterprise 和 Business Premium 用户在 Work/Codex 及 API 中提供。",
-    "source": "X：Sam Altman (@sama)",
-    "url": "https://x.com/sama/status/2096008528834244741",
-    "published_at": "2026-09-04T22:52:29.000Z",
-    "category": "ai-models"
+    "title": "GPT-6 Astra操控Blender保姆级教程：三种玩法与踩坑实录",
+    "summary": "作者数字生命卡兹克发布GPT-6 Astra操控Blender的小白教程，介绍前期安装、官方MCP与Computer Use插件配置，并实测三种玩法。Computer Use花约4小时搭出天坛祈年殿，但耗掉200美刀Pro会员近半额度；MCP更快，可完成摩托车建模与组装动画，但复杂任务会单次运行超时，可拆分步骤或用CL",
+    "source": "公众号：数字生命卡兹克",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686056&idx=1&sn=c1710404c08cf3201da27f4d53f94940",
+    "published_at": "2026-09-08T00:17:23.000Z",
+    "category": "tip"
   }
 ]
