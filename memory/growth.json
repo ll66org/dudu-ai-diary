@@ -1,5 +1,5 @@
 {
-  "day_count": 138,
+  "day_count": 139,
   "history": [
     {
       "day": 20,
@@ -797,6 +797,13 @@
       "date": "2026-09-08",
       "topic": "GPT-6 Astra爆火后，卡兹克谈执行能力贬值与判断力断层",
       "source": "公众号：数字生命卡兹克",
+      "mode": "rss"
+    },
+    {
+      "day": 139,
+      "date": "2026-09-09",
+      "topic": "Anthropic 发布经济情景模型，推演 AI 对 2030 年美国就业与工资的影响",
+      "source": "Anthropic：The Institute（旗舰研究长文 · 网页）",
       "mode": "rss"
     }
   ],

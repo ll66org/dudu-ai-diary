@@ -1,54 +1,126 @@
 [
   {
-    "title": "Who Built AI? A Data Story",
-    "summary": "<p>Article URL: <a href=\"https://tylerberbert.com/whobuiltai\">https://tylerberbert.com/whobuiltai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49610802\">https://news.ycombinator.com/item?id=49610802</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
-    "url": "https://tylerberbert.com/whobuiltai",
-    "published": "Tue, 08 Sep 2026 14:26:04 +0000",
+    "title": "From UX to AX: How AI Agents Change Application Design",
+    "summary": "<p>Article URL: <a href=\"https://geekyants.com/en-us/blog/from-ux-to-ax-designing-applications-for-a-world-of-ai-agents\">https://geekyants.com/en-us/blog/from-ux-to-ax-designing-applications-for-a-world-of-ai-agents</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49627553\">https://news.ycombinator.com/item?id=49627553</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+    "url": "https://geekyants.com/en-us/blog/from-ux-to-ax-designing-applications-for-a-world-of-ai-agents",
+    "published": "Wed, 09 Sep 2026 14:49:13 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Show HN: SiteTell: finds the areas of your site that read as AI-generic",
-    "summary": "<p>Hey everyone, I built this product called SiteTell. You put in your website url, it returns a list of all of the things across the site that get flagged as likely to be AI-written/AI-generic. It works against a curated rule set (which will obviously get updated as AI models update and evolve) and then you can fix these issues and get a PDF/CSV/JSON file that you can download to either take the suggested fixes yourself and apply them, or use the CSV/JSON file to drop into your agent for it to ",
-    "url": "https://www.getsitetell.com/",
-    "published": "Tue, 08 Sep 2026 14:16:33 +0000",
+    "title": "Breakscale: Live System Design Simulator",
+    "summary": "<p>Article URL: <a href=\"https://breakscale.tech/\">https://breakscale.tech/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49627109\">https://news.ycombinator.com/item?id=49627109</a></p>\n<p>Points: 1</p>\n<p># Comments: 2</p>",
+    "url": "https://breakscale.tech/",
+    "published": "Wed, 09 Sep 2026 14:22:28 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "AI in Recruitment: How to Stand Out in Modern Selection Processes",
-    "summary": "<p>Article URL: <a href=\"https://www.foxapply.com/blog/en/artificial-intelligence-recruitment-how-to-stand-out\">https://www.foxapply.com/blog/en/artificial-intelligence-recruitment-how-to-stand-out</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49610308\">https://news.ycombinator.com/item?id=49610308</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://www.foxapply.com/blog/en/artificial-intelligence-recruitment-how-to-stand-out",
-    "published": "Tue, 08 Sep 2026 13:47:47 +0000",
-    "source": "Hacker News (设计向)",
+    "title": "Anthropic 发布经济情景模型，推演 AI 对 2030 年美国就业与工资的影响",
+    "summary": "Anthropic 经济团队基于技术报告《Economic Scenarios for Transformative AI》发布交互式经济情景探索工具，把经济表示为任务束，推演 AI 到 2030 年对美国经济的影响。",
+    "url": "https://www.anthropic.com/institute/econ-scenarios",
+    "published": "2026-09-09T13:27:40.545Z",
+    "source": "Anthropic：The Institute（旗舰研究长文 · 网页）",
     "source_weight": "high",
-    "category": "ai_tech"
+    "category": "tip"
   },
   {
-    "title": "bonds",
-    "summary": "<p>\n            AI messenger that builds shared apps inside your group chats\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/bonds-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1244325?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/bonds-2",
-    "published": "2026-09-07T20:23:07-07:00",
+    "title": "纽约大学教授质疑OpenAI借助其研究抢先发布纳维-斯托克斯问题证明",
+    "summary": "纽约大学教授Tristan Buckmaster与Anthropic数学家Levent Alpöge使用Codex和Claude在纳维-斯托克斯存在性与光滑性问题上取得初步进展，随后OpenAI公布了该千禧年大奖难题的完整证明，称其由一个尚未发布的新一代模型发现，研究始于9月1日，总计消耗3000亿个输出Token，按Astra价格计算约2250万美元。",
+    "url": "https://www.ithome.com/1/000/353.htm",
+    "published": "2026-09-09T09:34:47.000Z",
+    "source": "IT之家（RSS）",
+    "source_weight": "high",
+    "category": "industry"
+  },
+  {
+    "title": "Meta 智能体产品 Muse 开放体验，官方回应用户好评",
+    "summary": "Meta 的 Muse 智能体产品开放更多用户试用，入口为 https://muse.ai/join，Meta 首席 AI 官 Alexandr Wang 称团队为产品倾注心血并感谢用户反响。引用的评价称其设计、速度和浏览器等智能体流程表现出色，具备 Instagram 等 Meta 产品原生集成优势，但也指出 soul.md 等命名对普通用户不直观、feed 内容相关性不足等问题。",
+    "url": "https://x.com/alexandr_wang/status/2097472059077202339",
+    "published": "2026-09-08T23:48:02.000Z",
+    "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "Type.com",
+    "summary": "<p>\n            A shared workspace for Claude, Codex, and your team\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/type-com?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1245333?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/type-com",
+    "published": "2026-09-08T20:54:10-07:00",
     "source": "Product Hunt",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Catenary",
-    "summary": "<p>\n            Spatial canvas IDE for AI coding agents\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/catenary?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1244310?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/catenary",
-    "published": "2026-09-07T19:32:49-07:00",
+    "title": "Anthropic 讲解用 Claude Platform 降低成本并提升性能的三个方法",
+    "summary": "Anthropic 团队文章指出，优化 prompt cache 命中率、清除升级到前沿 Claude 模型后的提示词反模式、校准 effort 三个手段可在不牺牲性能的情况下降低成本。",
+    "url": "https://x.com/ClaudeDevs/status/2097369738968195513",
+    "published": "2026-09-08T17:01:27.000Z",
+    "source": "X：Claude Devs (@ClaudeDevs)",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "Frigade Assist API",
+    "summary": "<p>\n            Give your AI agent guides that show users where to click\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/frigade?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1245183?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/frigade",
+    "published": "2026-09-08T15:03:06-07:00",
     "source": "Product Hunt",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "When the canvas starts acting, who’s really in control?",
-    "summary": "<h4><em>How agentic interfaces are changing what designers control, from interactions to agency, orchestration and attention.</em></h4><figure><img alt=\"A designer observing an agentic canvas connects context across tools, giving agents the ability to interpret what they see and act without predefined instructions.\" src=\"https://cdn-images-1.medium.com/max/1024/1*rDh7sc1FjwfRZMRmRciEnw.png\" /><figcaption><em>Agentic canvas can now brings context from across tools into one place, then acts on it ",
-    "url": "https://uxdesign.cc/when-the-canvas-starts-acting-whos-really-in-control-0128f641223c?source=rss----138adf9c44c---4",
-    "published": "Wed, 02 Sep 2026 22:13:30 GMT",
+    "title": "Password Protection is now priced per project on Pro",
+    "summary": "<p>Pro teams can now enable <a href=\"https://vercel.com/docs/deployment-protection/methods-to-protect-deployments/password-protection\">Password Protection</a> for $20 per project per month. It requires visitors to enter a password you set to view the project's deployments.</p><p>Previously, Pro teams needed to purchase password protection for every project at the team level, but now it can be purchased individually.\n\nTo enable Password Protection for a project, open <b>Security</b> in the sideba",
+    "url": "https://vercel.com/changelog/password-protection-now-costs-20-per-project-per-month-on-pro",
+    "published": "",
+    "source": "Vercel Blog (v0)",
+    "source_weight": "high",
+    "category": "design_tools"
+  },
+  {
+    "title": "Protect production deployments for free on every plan",
+    "summary": "<p><a href=\"https://vercel.com/docs/deployment-protection/methods-to-protect-deployments/vercel-authentication\">Vercel Authentication</a> can now protect every deployment URL for a project, including its production domains, at no additional cost on Hobby, Pro, and Enterprise. Previously, protecting all deployments with Vercel Authentication required the $150-per-month Advanced Deployment Protection add-on.</p><p>When enabled, only visitors who sign in to Vercel and have access to the project can",
+    "url": "https://vercel.com/changelog/protect-production-deployments-for-free-on-every-plan",
+    "published": "",
+    "source": "Vercel Blog (v0)",
+    "source_weight": "high",
+    "category": "design_tools"
+  },
+  {
+    "title": "Introducing the Lovable Partner Program",
+    "summary": "The Lovable Partner Program helps experts and solution providers grow, and gives companies a trusted way to find partners who can build what they need.",
+    "url": "https://lovable.dev/blog/introducing-lovable-partner-program",
+    "published": "Wed, 09 Sep 2026 13:00:00 GMT",
+    "source": "Lovable Blog",
+    "source_weight": "medium",
+    "category": "design_tools"
+  },
+  {
+    "title": "The Death Of The Button: Why The Best Interface Is No Interface",
+    "summary": "TThe web is evolving beyond menus, forms, and endless clicks toward experiences shaped around human intent. For UX designers, understanding this shift means re-evaluating their role, moving from designing visible interfaces to guiding transparent, intent-driven AI experiences.",
+    "url": "https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/",
+    "published": "Wed, 09 Sep 2026 10:00:00 GMT",
+    "source": "Smashing Magazine",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Most AI problems are really human problems",
+    "summary": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*gLYNt9Ml-hq67abKWaYTfA.png\" /><figcaption>The machine room is full; the chair that owns the decision is empty. AI assisted.</figcaption></figure><h4>The cause sits upstream: unread intent, missing oversight, thin context, loose language, unset expectations, no evals, fuzzy outcomes, and the wrong tool for the job. Here’s the AI checklist.</h4><p>Anthropic recently told its growth team to hire more product managers, not fewer. Yo",
+    "url": "https://uxdesign.cc/most-ai-problems-are-really-human-problems-this-is-how-you-can-fix-it-ab64843f845e?source=rss----138adf9c44c---4",
+    "published": "Tue, 08 Sep 2026 20:37:28 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Persistent lessons in human-centered automation",
+    "summary": "<h4>What a 1980s photocopier study reveals about the Agentic UX era</h4><figure><img alt=\"A real photograph of a Bossa Nova inventory robot in a grocery aisle overlaid with hand-drawn line art sketches. In the foreground, a sketched woman with a frustrated expression holds a container of blueberries up to the robot’s light panel, illustrating a breakdown in human-robot interaction.\" src=\"https://cdn-images-1.medium.com/max/1024/1*9TwDqgP0J42XZmP1G_oqiw.jpeg\" /><figcaption><em>A mixed-media recre",
+    "url": "https://uxdesign.cc/persistent-lessons-in-human-centered-automation-45b53412e6a5?source=rss----138adf9c44c---4",
+    "published": "Tue, 08 Sep 2026 20:34:18 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
@@ -58,15 +130,6 @@
     "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/if-you-can-externalize-your-design-process-you-can-win-back-your-time-59c531521346?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*womFByvsxWWkMHFE-u9Kyw.jpeg\" width=\"4000\" /></a></p><p class=\"medium-feed-snippet\">How Skill.MD helps you spell out the depth of your work for your team and organization</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/if-you-can-exte",
     "url": "https://uxdesign.cc/if-you-can-externalize-your-design-process-you-can-win-back-your-time-59c531521346?source=rss----138adf9c44c---4",
     "published": "Tue, 08 Sep 2026 11:13:56 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "What Minority Report got wrong about AI (so far)",
-    "summary": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*Od8x5k-43Z_nXRMTQXB6XA.png\" /><figcaption>The film gave us two futures. We rebuilt the one that was easy to demo.</figcaption></figure><h4>The film cautioned against predictive systems and pre-crime, and the we turned it into a screensaver.</h4><p>For two decades, <em>Minority Report</em> has been shorthand for the future of interaction. Show the film to a designer and one image surfaces: Tom Cruise in a black glove, sweeping tr",
-    "url": "https://uxdesign.cc/what-minority-report-got-wrong-about-ai-so-far-9048573aa70f?source=rss----138adf9c44c---4",
-    "published": "Thu, 03 Sep 2026 22:39:12 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
