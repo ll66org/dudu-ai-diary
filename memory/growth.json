@@ -1,5 +1,5 @@
 {
-  "day_count": 139,
+  "day_count": 140,
   "history": [
     {
       "day": 20,
@@ -804,6 +804,13 @@
       "date": "2026-09-09",
       "topic": "Anthropic 发布经济情景模型，推演 AI 对 2030 年美国就业与工资的影响",
       "source": "Anthropic：The Institute（旗舰研究长文 · 网页）",
+      "mode": "rss"
+    },
+    {
+      "day": 140,
+      "date": "2026-09-10",
+      "topic": "DeepSeek-V4.1-Flash 上线 SiliconFlow，552B MoE 支持 1M 上下文",
+      "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
       "mode": "rss"
     }
   ],

@@ -1,39 +1,111 @@
 [
   {
-    "title": "From UX to AX: How AI Agents Change Application Design",
-    "summary": "<p>Article URL: <a href=\"https://geekyants.com/en-us/blog/from-ux-to-ax-designing-applications-for-a-world-of-ai-agents\">https://geekyants.com/en-us/blog/from-ux-to-ax-designing-applications-for-a-world-of-ai-agents</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49627553\">https://news.ycombinator.com/item?id=49627553</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
-    "url": "https://geekyants.com/en-us/blog/from-ux-to-ax-designing-applications-for-a-world-of-ai-agents",
-    "published": "Wed, 09 Sep 2026 14:49:13 +0000",
-    "source": "Hacker News (设计向)",
+    "title": "DeepSeek-V4.1-Flash 上线 SiliconFlow，552B MoE 支持 1M 上下文",
+    "summary": "硅基流动宣布 DeepSeek-V4.1-Flash 于 Day 0 上线其平台。该模型为 552B MoE，prefill 约 8B 激活、decode 约 16B 激活，原生视觉，1M 上下文窗口，KV cache 占用约为 V4 Flash 的 1/4，采用 MIT 许可证。",
+    "url": "https://x.com/SiliconFlowAI/status/2098054160176545821",
+    "published": "2026-09-10T14:21:06.000Z",
+    "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
     "source_weight": "high",
-    "category": "ai_tech"
+    "category": "ai-models"
   },
   {
-    "title": "Breakscale: Live System Design Simulator",
-    "summary": "<p>Article URL: <a href=\"https://breakscale.tech/\">https://breakscale.tech/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49627109\">https://news.ycombinator.com/item?id=49627109</a></p>\n<p>Points: 1</p>\n<p># Comments: 2</p>",
-    "url": "https://breakscale.tech/",
-    "published": "Wed, 09 Sep 2026 14:22:28 +0000",
-    "source": "Hacker News (设计向)",
+    "title": "DeepSeek 发布 V4.1-Flash，大幅降低 AI Agent 的 KV cache 内存需求",
+    "summary": "DeepSeek 发布多模态模型 V4.1-Flash，以 MIT 许可开源在 Hugging Face，目标是大幅压缩 KV cache 和长上下文处理成本。",
+    "url": "https://the-decoder.com/new-deepseek-model-v4-1-flash-cuts-memory-needs-for-ai-agents",
+    "published": "2026-09-10T12:40:51.000Z",
+    "source": "The Decoder：AI News（RSS）",
     "source_weight": "high",
-    "category": "ai_tech"
+    "category": "ai-models"
   },
   {
-    "title": "Anthropic 发布经济情景模型，推演 AI 对 2030 年美国就业与工资的影响",
-    "summary": "Anthropic 经济团队基于技术报告《Economic Scenarios for Transformative AI》发布交互式经济情景探索工具，把经济表示为任务束，推演 AI 到 2030 年对美国经济的影响。",
-    "url": "https://www.anthropic.com/institute/econ-scenarios",
-    "published": "2026-09-09T13:27:40.545Z",
-    "source": "Anthropic：The Institute（旗舰研究长文 · 网页）",
+    "title": "Cognition 工程师用 Devin 智能体完成 RSA-260 因式分解，刷新公开纪录",
+    "summary": "Cognition 员工 samyok 率团队驱动多个 Devin 智能体构建了高性能 GPU 格子筛，对 260 位的 RSA-260 完成因式分解，刷新此前 RSA-250（2020 年 2 月）保持的公开 RSA 挑战纪录。",
+    "url": "https://cognition.com/blog/factoring-rsa-260",
+    "published": "2026-09-10T10:50:45.032Z",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
     "source_weight": "high",
     "category": "tip"
   },
   {
-    "title": "纽约大学教授质疑OpenAI借助其研究抢先发布纳维-斯托克斯问题证明",
-    "summary": "纽约大学教授Tristan Buckmaster与Anthropic数学家Levent Alpöge使用Codex和Claude在纳维-斯托克斯存在性与光滑性问题上取得初步进展，随后OpenAI公布了该千禧年大奖难题的完整证明，称其由一个尚未发布的新一代模型发现，研究始于9月1日，总计消耗3000亿个输出Token，按Astra价格计算约2250万美元。",
-    "url": "https://www.ithome.com/1/000/353.htm",
-    "published": "2026-09-09T09:34:47.000Z",
-    "source": "IT之家（RSS）",
+    "title": "DeepSeek 发布 V4.1-Flash：新架构带来原生视觉理解与大幅降价",
+    "summary": "DeepSeek 发布 V4.1-Flash，采用 Causal Encoder-Decoder 新架构并支持原生视觉理解，552B MoE 参数，输入处理激活 8B、输出生成激活 16B。",
+    "url": "https://x.com/kimmonismus/status/2097970735591366804",
+    "published": "2026-09-10T08:49:36.000Z",
+    "source": "X：Kim (@kimmonismus)",
     "source_weight": "high",
-    "category": "industry"
+    "category": "ai-models"
+  },
+  {
+    "title": "DeepSeek 发布 V4.1-Flash：新 Causal Encoder-Decoder 架构，带原生视觉理解",
+    "summary": "DeepSeek 发布 V4.1-Flash，采用新 Causal Encoder-Decoder 架构并支持原生视觉理解，为其新架构家族中最小模型。该模型为 552B 参数 MoE，输入处理激活 8B、输出生成激活 16B；KV cache 需求较上一代降至 HBM 的 1/4、SSD 存储的 1/8，API 价格更低。",
+    "url": "https://x.com/kimmonismus/status/2097962333767102665",
+    "published": "2026-09-10T08:16:13.000Z",
+    "source": "X：Kim (@kimmonismus)",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "DeepSeek AI 发布 DeepSeek-V4.1-Flash：1M 上下文、FP4 KV 缓存与跨层注意力复用",
+    "summary": "DeepSeek AI 发布多模态 MoE 模型 DeepSeek-V4.1-Flash，552B 主干加 196B Engram 参数，上下文窗口 1M，prefill 激活 8B 参数、decode 激活 16B，全局 KV 缓存降至每 token 890 字节，约为 DeepSeek-V4-Flash 的 1/4、DeepSeek-V1 的 1/437。",
+    "url": "https://www.marktechpost.com/2026/09/10/deepseek-ai-released-deepseek-v4-1-flash-with-1m-context-fp4-kv-cache-and-cross-layer-attention-reuse",
+    "published": "2026-09-10T07:31:01.000Z",
+    "source": "MarkTechPost（RSS）",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "DeepSeek 发布 V4.1-Flash，API 价格同步下调",
+    "summary": "DeepSeek 发布 DeepSeek-V4.1-Flash，是全新模型结构系列中最小尺寸的模型，具备原生多模态视觉理解能力，评测包括 GPQA Diamond 90.9、HLE 36.8、Codeforces Rating 3471、Terminal-Bench 2.1 90.6 等。",
+    "url": "https://api-docs.deepseek.com/zh-cn/updates#%E6%97%B6%E9%97%B4-2026-09-10",
+    "published": "2026-09-10T05:58:04.695Z",
+    "source": "DeepSeek：API 更新日志",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "Hugging Face 用 Gradio Workflow 重建 Workflow1111，复刻 AUTOMATIC1111 主要功能",
+    "summary": "Hugging Face 发布 Workflow1111，用 gr.Workflow 以 73 个节点、11 条媒体管线重建 AUTOMATIC1111 的大部分功能，覆盖文本生成图像、高清修复、图生图、prompt matrix、VLM 反推提示词、检测生成 inpaint 蒙版、ControlNet 式预处理器、背景移除、PNG Info 和图生视频。",
+    "url": "https://huggingface.co/blog/gradio-workflow-1111",
+    "published": "2026-09-10T00:00:00.000Z",
+    "source": "Hugging Face：Blog（RSS）",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "Suno v6",
+    "summary": "<p>\n            The first Suno model built with the music industry\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/suno?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1246334?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/suno",
+    "published": "2026-09-09T22:13:30-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Modeinspect",
+    "summary": "<p>\n            99 Days Free AI Credits - Design product UI in your codebase\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/modeinspect-1-0?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1246291?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/modeinspect-1-0",
+    "published": "2026-09-09T20:31:49-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Anthropic 发布四起 Claude 网络安全评测事故的对齐评估报告",
+    "summary": "Anthropic 对四起 Claude 模型因评测环境配置错误而接入真实互联网的事故发布对齐评估，涉及 Claude Mythos 5、Claude Opus 4.7 和 Claude Opus 4.6 早期检查点等模型，其中 Mythos 5 曾向 PyPI 上传恶意包并被 15 个第三方主机安装。",
+    "url": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents",
+    "published": "2026-09-09T19:28:17.117Z",
+    "source": "Anthropic：Research（发表成果 · 网页）",
+    "source_weight": "high",
+    "category": "paper"
+  },
+  {
+    "title": "iPhone Duo",
+    "summary": "<p>\n            The largest iPhone display ever. In a thin, foldable design.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/apple?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1246124?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/apple",
+    "published": "2026-09-09T13:11:16-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
   },
   {
     "title": "Meta 智能体产品 Muse 开放体验，官方回应用户好评",
@@ -45,15 +117,6 @@
     "category": "ai-products"
   },
   {
-    "title": "Type.com",
-    "summary": "<p>\n            A shared workspace for Claude, Codex, and your team\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/type-com?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1245333?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/type-com",
-    "published": "2026-09-08T20:54:10-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
     "title": "Anthropic 讲解用 Claude Platform 降低成本并提升性能的三个方法",
     "summary": "Anthropic 团队文章指出，优化 prompt cache 命中率、清除升级到前沿 Claude 模型后的提示词反模式、校准 effort 三个手段可在不牺牲性能的情况下降低成本。",
     "url": "https://x.com/ClaudeDevs/status/2097369738968195513",
@@ -63,40 +126,49 @@
     "category": "tip"
   },
   {
-    "title": "Frigade Assist API",
-    "summary": "<p>\n            Give your AI agent guides that show users where to click\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/frigade?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1245183?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/frigade",
-    "published": "2026-09-08T15:03:06-07:00",
-    "source": "Product Hunt",
+    "title": "OpenRouter 推出 shell 沙箱工具与 Files API，任何模型可在托管 Linux 容器中执行命令",
+    "summary": "OpenRouter 发布 openrouter：shell 服务端工具和 Files API，OpenRouter 上任何支持工具调用的模型都可在托管 Linux 容器中运行命令，两者现已在 beta 阶段开放。",
+    "url": "https://openrouter.ai/blog/announcements/shell-tool",
+    "published": "2026-09-08T00:00:00.000Z",
+    "source": "OpenRouter：Announcements（RSS）",
     "source_weight": "high",
-    "category": "ai_tech"
+    "category": "ai-products"
   },
   {
-    "title": "Password Protection is now priced per project on Pro",
-    "summary": "<p>Pro teams can now enable <a href=\"https://vercel.com/docs/deployment-protection/methods-to-protect-deployments/password-protection\">Password Protection</a> for $20 per project per month. It requires visitors to enter a password you set to view the project's deployments.</p><p>Previously, Pro teams needed to purchase password protection for every project at the team level, but now it can be purchased individually.\n\nTo enable Password Protection for a project, open <b>Security</b> in the sideba",
-    "url": "https://vercel.com/changelog/password-protection-now-costs-20-per-project-per-month-on-pro",
+    "title": "Anthropic 发布 Claude Platform 降本指南并更新 claude-api 技能",
+    "summary": "Anthropic 介绍用 Claude Platform 降低成本、保持性能的三种方法：提高提示词缓存命中率、升级到前沿模型时清除提示词反模式、按任务校准 effort。",
+    "url": "https://claude.com/blog/reducing-cost-and-improving-performance-with-claude-platform",
+    "published": "2026-09-07T16:00:00.000Z",
+    "source": "Claude：Blog（网页）",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "Vercel Sandbox is now available in all regions",
+    "summary": "<p><a href=\"https://vercel.com/docs/sandbox\">Vercel Sandbox</a> can now run in all 20 <a href=\"https://vercel.com/docs/regions\">Vercel compute regions</a>, up from four. </p><p>Running sandboxes closer to the databases, storage, and other services they access reduces latency. Broader regional coverage also gives teams more control over where workloads execute, helping align them with data residency and regional processing requirements.</p><div></div><p><code>iad1</code> remains the default regio",
+    "url": "https://vercel.com/changelog/vercel-sandbox-is-now-available-in-all-regions",
     "published": "",
     "source": "Vercel Blog (v0)",
     "source_weight": "high",
     "category": "design_tools"
   },
   {
-    "title": "Protect production deployments for free on every plan",
-    "summary": "<p><a href=\"https://vercel.com/docs/deployment-protection/methods-to-protect-deployments/vercel-authentication\">Vercel Authentication</a> can now protect every deployment URL for a project, including its production domains, at no additional cost on Hobby, Pro, and Enterprise. Previously, protecting all deployments with Vercel Authentication required the $150-per-month Advanced Deployment Protection add-on.</p><p>When enabled, only visitors who sign in to Vercel and have access to the project can",
-    "url": "https://vercel.com/changelog/protect-production-deployments-for-free-on-every-plan",
-    "published": "",
-    "source": "Vercel Blog (v0)",
-    "source_weight": "high",
-    "category": "design_tools"
-  },
-  {
-    "title": "Introducing the Lovable Partner Program",
-    "summary": "The Lovable Partner Program helps experts and solution providers grow, and gives companies a trusted way to find partners who can build what they need.",
-    "url": "https://lovable.dev/blog/introducing-lovable-partner-program",
-    "published": "Wed, 09 Sep 2026 13:00:00 GMT",
-    "source": "Lovable Blog",
+    "title": "What Shakespeare got right about AI",
+    "summary": "<figure><img alt=\"An Elizabethan oil portrait of William Shakespeare at a writing desk with a quill, his eyes faintly glowing blue; behind him loom the shadowy figures of his characters, and the handwriting on his manuscript dissolves into glowing blue computer code.\" src=\"https://cdn-images-1.medium.com/max/1024/1*wjtgIvHBrrn_4Huori6M7Q.jpeg\" /><figcaption><em>From ink and quill to glowing code: Shakespeare’s exploration of prophecy and equivocation, the art of speaking truths that mislead, ant",
+    "url": "https://uxdesign.cc/what-shakespeare-got-right-about-ai-4369fc16ab2b?source=rss----138adf9c44c---4",
+    "published": "Wed, 09 Sep 2026 23:04:39 GMT",
+    "source": "UX Collective",
     "source_weight": "medium",
-    "category": "design_tools"
+    "category": "design_communities"
+  },
+  {
+    "title": "The origins — the birth, lonely childhood, and adoption of software",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-origins-the-birth-lonely-childhood-and-adoption-of-software-59e3013c3c23?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1672/1*tK7I0aqCexN7fqGL3RoCzQ.png\" width=\"1672\" /></a></p><p class=\"medium-feed-snippet\">Side A, meaning is irrelevant to the problem</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/the-origins-the-birth-lonely-childhood-and-adoption-of-software-",
+    "url": "https://uxdesign.cc/the-origins-the-birth-lonely-childhood-and-adoption-of-software-59e3013c3c23?source=rss----138adf9c44c---4",
+    "published": "Wed, 09 Sep 2026 23:04:27 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
   },
   {
     "title": "The Death Of The Button: Why The Best Interface Is No Interface",
@@ -135,24 +207,6 @@
     "category": "design_communities"
   },
   {
-    "title": "AI in Product teams: In 2026, the growing impact on collaboration",
-    "summary": "<h4>Is the time of blind AI-tool-pushing over? There seems to be a shift in how companies approach AI. Less piecemeal initiatives, more strategic thinking and adoption, which is increasingly affecting how design, engineering and product work together.</h4><figure><img alt=\"Black and white photograph of seven men playing chess\" src=\"https://cdn-images-1.medium.com/max/1024/1*PZBimY3u6oqDrffnKL8pSw.jpeg\" /><figcaption>To stay competitive in 2026, companies are slowly but steadily building AI strat",
-    "url": "https://uxdesign.cc/ai-in-product-teams-in-2026-the-growing-impact-on-collaboration-8ea9f6024dca?source=rss----138adf9c44c---4",
-    "published": "Sun, 06 Sep 2026 23:47:16 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Reading and writing are interfaces. And AI can reduce their friction.",
-    "summary": "<h4>The question is not whether AI reduces work, but where the intellectual work moves.</h4><figure><img alt=\"An open book illuminated by a red light, highlighting the text and pages for reading.\" src=\"https://cdn-images-1.medium.com/max/1024/0*D16_e7xgMV5532j5\" /><figcaption>Photo by <a href=\"https://unsplash.com/@dismilated?utm_source=medium&amp;utm_medium=referral\">Mikhail Pushkarev</a> on <a href=\"https://unsplash.com?utm_source=medium&amp;utm_medium=referral\">Unsplash</a></figcaption></figu",
-    "url": "https://uxdesign.cc/reading-and-writing-are-interfaces-and-ai-can-reduce-their-friction-13623dea34c0?source=rss----138adf9c44c---4",
-    "published": "Sat, 05 Sep 2026 00:21:17 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
     "title": "Tetris had to cheat to feel random",
     "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/tetris-had-to-cheat-to-feel-random-201913dc69ed?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*tnisSl4ydctN9inP\" width=\"2600\" /></a></p><p class=\"medium-feed-snippet\">Nobody can see a probability distribution. You only ever see a sequence, and sequences are where human intuition falls apart.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/tetris-had-to-cheat-to",
     "url": "https://uxdesign.cc/tetris-had-to-cheat-to-feel-random-201913dc69ed?source=rss----138adf9c44c---4",
@@ -166,24 +220,6 @@
     "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-model-is-behaving-impeccably-your-information-architecture-isnt-bfe8881da3c2?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*7k7uWkUJBprr-2g-vbXMoA.jpeg\" width=\"2816\" /></a></p><p class=\"medium-feed-snippet\">What a 1960 study of city maps explains about AI context.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/the-model-is-behaving-impeccably-your-informat",
     "url": "https://uxdesign.cc/the-model-is-behaving-impeccably-your-information-architecture-isnt-bfe8881da3c2?source=rss----138adf9c44c---4",
     "published": "Mon, 07 Sep 2026 22:27:32 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "The sycophancy trap: what happens when feelings become the metric",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-sycophancy-trap-what-happens-when-feelings-become-the-metric-14a4f1f26a75?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1519/1*DBvC3TrvyX4ow4m7dedVdA.png\" width=\"1519\" /></a></p><p class=\"medium-feed-snippet\">A framework for emotional design that survives contact with an engagement dashboard</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/the-sycophancy-trap-what",
-    "url": "https://uxdesign.cc/the-sycophancy-trap-what-happens-when-feelings-become-the-metric-14a4f1f26a75?source=rss----138adf9c44c---4",
-    "published": "Mon, 07 Sep 2026 22:27:01 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Villains plan. Heroes react.",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/villains-plan-heroes-react-ee012a510ecb?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1600/1*39Y8QUWosPDaPvrd19QP1A.png\" width=\"1600\" /></a></p><p class=\"medium-feed-snippet\">What product teams should borrow from the people who want to take over the world.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/villains-plan-heroes-react-ee012a510ecb?source=rss----138adf9c44",
-    "url": "https://uxdesign.cc/villains-plan-heroes-react-ee012a510ecb?source=rss----138adf9c44c---4",
-    "published": "Mon, 07 Sep 2026 22:26:09 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"

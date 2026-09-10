@@ -1,42 +1,42 @@
 [
   {
-    "title": "Anthropic 发布经济情景模型，推演 AI 对 2030 年美国就业与工资的影响",
-    "summary": "Anthropic 经济团队基于技术报告《Economic Scenarios for Transformative AI》发布交互式经济情景探索工具，把经济表示为任务束，推演 AI 到 2030 年对美国经济的影响。",
-    "source": "Anthropic：The Institute（旗舰研究长文 · 网页）",
-    "url": "https://www.anthropic.com/institute/econ-scenarios",
-    "published_at": "2026-09-09T13:27:40.545Z",
+    "title": "DeepSeek-V4.1-Flash 上线 SiliconFlow，552B MoE 支持 1M 上下文",
+    "summary": "硅基流动宣布 DeepSeek-V4.1-Flash 于 Day 0 上线其平台。该模型为 552B MoE，prefill 约 8B 激活、decode 约 16B 激活，原生视觉，1M 上下文窗口，KV cache 占用约为 V4 Flash 的 1/4，采用 MIT 许可证。",
+    "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
+    "url": "https://x.com/SiliconFlowAI/status/2098054160176545821",
+    "published_at": "2026-09-10T14:21:06.000Z",
+    "category": "ai-models"
+  },
+  {
+    "title": "DeepSeek 发布 V4.1-Flash，大幅降低 AI Agent 的 KV cache 内存需求",
+    "summary": "DeepSeek 发布多模态模型 V4.1-Flash，以 MIT 许可开源在 Hugging Face，目标是大幅压缩 KV cache 和长上下文处理成本。",
+    "source": "The Decoder：AI News（RSS）",
+    "url": "https://the-decoder.com/new-deepseek-model-v4-1-flash-cuts-memory-needs-for-ai-agents",
+    "published_at": "2026-09-10T12:40:51.000Z",
+    "category": "ai-models"
+  },
+  {
+    "title": "Cognition 工程师用 Devin 智能体完成 RSA-260 因式分解，刷新公开纪录",
+    "summary": "Cognition 员工 samyok 率团队驱动多个 Devin 智能体构建了高性能 GPU 格子筛，对 260 位的 RSA-260 完成因式分解，刷新此前 RSA-250（2020 年 2 月）保持的公开 RSA 挑战纪录。",
+    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "url": "https://cognition.com/blog/factoring-rsa-260",
+    "published_at": "2026-09-10T10:50:45.032Z",
     "category": "tip"
   },
   {
-    "title": "纽约大学教授质疑OpenAI借助其研究抢先发布纳维-斯托克斯问题证明",
-    "summary": "纽约大学教授Tristan Buckmaster与Anthropic数学家Levent Alpöge使用Codex和Claude在纳维-斯托克斯存在性与光滑性问题上取得初步进展，随后OpenAI公布了该千禧年大奖难题的完整证明，称其由一个尚未发布的新一代模型发现，研究始于9月1日，总计消耗3000亿个输出Token，按",
-    "source": "IT之家（RSS）",
-    "url": "https://www.ithome.com/1/000/353.htm",
-    "published_at": "2026-09-09T09:34:47.000Z",
-    "category": "industry"
+    "title": "DeepSeek 发布 V4.1-Flash：新架构带来原生视觉理解与大幅降价",
+    "summary": "DeepSeek 发布 V4.1-Flash，采用 Causal Encoder-Decoder 新架构并支持原生视觉理解，552B MoE 参数，输入处理激活 8B、输出生成激活 16B。",
+    "source": "X：Kim (@kimmonismus)",
+    "url": "https://x.com/kimmonismus/status/2097970735591366804",
+    "published_at": "2026-09-10T08:49:36.000Z",
+    "category": "ai-models"
   },
   {
-    "title": "Meta 智能体产品 Muse 开放体验，官方回应用户好评",
-    "summary": "Meta 的 Muse 智能体产品开放更多用户试用，入口为 https://muse.ai/join，Meta 首席 AI 官 Alexandr Wang 称团队为产品倾注心血并感谢用户反响。引用的评价称其设计、速度和浏览器等智能体流程表现出色，具备 Instagram 等 Meta 产品原生集成优势，但也指出 sou",
-    "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
-    "url": "https://x.com/alexandr_wang/status/2097472059077202339",
-    "published_at": "2026-09-08T23:48:02.000Z",
-    "category": "ai-products"
-  },
-  {
-    "title": "Anthropic 讲解用 Claude Platform 降低成本并提升性能的三个方法",
-    "summary": "Anthropic 团队文章指出，优化 prompt cache 命中率、清除升级到前沿 Claude 模型后的提示词反模式、校准 effort 三个手段可在不牺牲性能的情况下降低成本。",
-    "source": "X：Claude Devs (@ClaudeDevs)",
-    "url": "https://x.com/ClaudeDevs/status/2097369738968195513",
-    "published_at": "2026-09-08T17:01:27.000Z",
-    "category": "tip"
-  },
-  {
-    "title": "GPT-6 Astra爆火后，卡兹克谈执行能力贬值与判断力断层",
-    "summary": "GPT-6 Astra上线后，大量用户用它自主操控Blender、Houdini、Unity、Aseprite等专业软件，做出游戏Demo、3D复刻旧金山艺术宫等作品，其中旧金山艺术宫案例里Astra自己搜索几百张参考图、翻到美国国会图书馆的老扫描文件找柱子尺寸，多数工作在夜间自主完成。",
-    "source": "公众号：数字生命卡兹克",
-    "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685960&idx=1&sn=df5885920be226f9514f47a7f2d30621",
-    "published_at": "2026-09-07T00:08:00.000Z",
-    "category": "tip"
+    "title": "DeepSeek 发布 V4.1-Flash：新 Causal Encoder-Decoder 架构，带原生视觉理解",
+    "summary": "DeepSeek 发布 V4.1-Flash，采用新 Causal Encoder-Decoder 架构并支持原生视觉理解，为其新架构家族中最小模型。该模型为 552B 参数 MoE，输入处理激活 8B、输出生成激活 16B；KV cache 需求较上一代降至 HBM 的 1/4、SSD 存储的 1/8，API 价格更",
+    "source": "X：Kim (@kimmonismus)",
+    "url": "https://x.com/kimmonismus/status/2097962333767102665",
+    "published_at": "2026-09-10T08:16:13.000Z",
+    "category": "ai-models"
   }
 ]
