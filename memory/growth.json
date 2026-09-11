@@ -1,5 +1,5 @@
 {
-  "day_count": 140,
+  "day_count": 141,
   "history": [
     {
       "day": 20,
@@ -811,6 +811,13 @@
       "date": "2026-09-10",
       "topic": "DeepSeek-V4.1-Flash 上线 SiliconFlow，552B MoE 支持 1M 上下文",
       "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
+      "mode": "rss"
+    },
+    {
+      "day": 141,
+      "date": "2026-09-11",
+      "topic": "Anthropic 威胁报告披露 Claude 被用于间谍软件、导弹与无人机研发，中国实验室大规模蒸馏提取数据",
+      "source": "The Decoder：AI News（RSS）",
       "mode": "rss"
     }
   ],

@@ -1,42 +1,42 @@
 [
   {
-    "title": "DeepSeek-V4.1-Flash 上线 SiliconFlow，552B MoE 支持 1M 上下文",
-    "summary": "硅基流动宣布 DeepSeek-V4.1-Flash 于 Day 0 上线其平台。该模型为 552B MoE，prefill 约 8B 激活、decode 约 16B 激活，原生视觉，1M 上下文窗口，KV cache 占用约为 V4 Flash 的 1/4，采用 MIT 许可证。",
-    "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
-    "url": "https://x.com/SiliconFlowAI/status/2098054160176545821",
-    "published_at": "2026-09-10T14:21:06.000Z",
-    "category": "ai-models"
-  },
-  {
-    "title": "DeepSeek 发布 V4.1-Flash，大幅降低 AI Agent 的 KV cache 内存需求",
-    "summary": "DeepSeek 发布多模态模型 V4.1-Flash，以 MIT 许可开源在 Hugging Face，目标是大幅压缩 KV cache 和长上下文处理成本。",
+    "title": "Anthropic 威胁报告披露 Claude 被用于间谍软件、导弹与无人机研发，中国实验室大规模蒸馏提取数据",
+    "summary": "Anthropic 发布威胁情报报告，记录 2025 年 12 月至 2026 年 8 月间 Claude 被滥用的七类行为。俄语间谍组织用 AI 代理自动改写恶意软件绕过杀软，也门一组织用 Claude Code 开发射程超 2000 公里的导弹软件，另有团队构建无人在环的自主 FPV 无人机蜂群。",
     "source": "The Decoder：AI News（RSS）",
-    "url": "https://the-decoder.com/new-deepseek-model-v4-1-flash-cuts-memory-needs-for-ai-agents",
-    "published_at": "2026-09-10T12:40:51.000Z",
-    "category": "ai-models"
+    "url": "https://the-decoder.com/how-hackers-used-claude-for-missiles-drone-swarms-and-surveillance-while-chinese-labs-mined-it-for-training-data",
+    "published_at": "2026-09-11T13:50:28.000Z",
+    "category": "paper"
   },
   {
-    "title": "Cognition 工程师用 Devin 智能体完成 RSA-260 因式分解，刷新公开纪录",
-    "summary": "Cognition 员工 samyok 率团队驱动多个 Devin 智能体构建了高性能 GPU 格子筛，对 260 位的 RSA-260 完成因式分解，刷新此前 RSA-250（2020 年 2 月）保持的公开 RSA 挑战纪录。",
-    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-    "url": "https://cognition.com/blog/factoring-rsa-260",
-    "published_at": "2026-09-10T10:50:45.032Z",
+    "title": "实测 DeepSeek V4.1 Flash：价格大降、原生带视觉，作者用游戏与城市生成任务验证表现",
+    "summary": "作者实测 DeepSeek V4.1 Flash，缓存命中输入降价 7 倍多、输出砍三分之二，9 月 14 日中午 12 点起所有发往 v4-pro 的请求将被强制路由到 4.1 Flash 并按其低价计费。",
+    "source": "公众号：卡尔的AI沃茨",
+    "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247511119&idx=1&sn=0f53b5017e41b16afc9b201966ce2bda",
+    "published_at": "2026-09-11T04:24:28.000Z",
     "category": "tip"
   },
   {
-    "title": "DeepSeek 发布 V4.1-Flash：新架构带来原生视觉理解与大幅降价",
-    "summary": "DeepSeek 发布 V4.1-Flash，采用 Causal Encoder-Decoder 新架构并支持原生视觉理解，552B MoE 参数，输入处理激活 8B、输出生成激活 16B。",
-    "source": "X：Kim (@kimmonismus)",
-    "url": "https://x.com/kimmonismus/status/2097970735591366804",
-    "published_at": "2026-09-10T08:49:36.000Z",
+    "title": "Anthropic 报告指控阿里、月之暗面与 DeepSeek 对 Claude 发起蒸馏攻击",
+    "summary": "Anthropic 发布报告，指控多家中国 AI 公司对 Claude 持续发起蒸馏攻击，累计发现近 2 亿次相关交互，涉及五个活动。",
+    "source": "TechCrunch：AI（RSS）",
+    "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek",
+    "published_at": "2026-09-10T20:57:30.000Z",
+    "category": "industry"
+  },
+  {
+    "title": "WorkBuddy 上线 DeepSeek V4.1-Flash，免费试用两周",
+    "summary": "WorkBuddy 宣布 DeepSeek V4.1-Flash 已在其平台上线，免费试用两周。引用的 DeepSeek 公告称 V4.1-Flash 已登陆 DeepSeek API 并支持原生多模态。",
+    "source": "X：Tencent WorkBuddy (@WorkBuddy_AI)",
+    "url": "https://x.com/WorkBuddy_AI/status/2098076348749324362",
+    "published_at": "2026-09-10T15:49:16.000Z",
     "category": "ai-models"
   },
   {
-    "title": "DeepSeek 发布 V4.1-Flash：新 Causal Encoder-Decoder 架构，带原生视觉理解",
-    "summary": "DeepSeek 发布 V4.1-Flash，采用新 Causal Encoder-Decoder 架构并支持原生视觉理解，为其新架构家族中最小模型。该模型为 552B 参数 MoE，输入处理激活 8B、输出生成激活 16B；KV cache 需求较上一代降至 HBM 的 1/4、SSD 存储的 1/8，API 价格更",
-    "source": "X：Kim (@kimmonismus)",
-    "url": "https://x.com/kimmonismus/status/2097962333767102665",
-    "published_at": "2026-09-10T08:16:13.000Z",
-    "category": "ai-models"
+    "title": "Google 发布图像工具 Pics，基于 Nano Banana 支持精准编辑与协作",
+    "summary": "Google 发布图像生成工具 Google Pics，基于 Nano Banana 构建，现已上线 pics.new。支持局部对象编辑、图内文字修改与翻译、多人协作创作和单提示词生成多个选项。",
+    "source": "X：Google AI (@GoogleAI)",
+    "url": "https://x.com/GoogleAI/status/2098072879480947085",
+    "published_at": "2026-09-10T15:35:29.000Z",
+    "category": "ai-products"
   }
 ]
