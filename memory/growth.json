@@ -1,5 +1,5 @@
 {
-  "day_count": 141,
+  "day_count": 142,
   "history": [
     {
       "day": 20,
@@ -816,6 +816,13 @@
     {
       "day": 141,
       "date": "2026-09-11",
+      "topic": "Anthropic 威胁报告披露 Claude 被用于间谍软件、导弹与无人机研发，中国实验室大规模蒸馏提取数据",
+      "source": "The Decoder：AI News（RSS）",
+      "mode": "rss"
+    },
+    {
+      "day": 142,
+      "date": "2026-09-12",
       "topic": "Anthropic 威胁报告披露 Claude 被用于间谍软件、导弹与无人机研发，中国实验室大规模蒸馏提取数据",
       "source": "The Decoder：AI News（RSS）",
       "mode": "rss"

@@ -1,14 +1,14 @@
 {
-  "fetched_at": "2026-09-11T15:10:11.627468Z",
-  "total_candidates": 25,
+  "fetched_at": "2026-09-12T14:19:44.162098Z",
+  "total_candidates": 22,
   "source_stats": {
     "Figma Blog": {
       "found": 0,
       "total": 0
     },
     "Vercel Blog (v0)": {
-      "found": 3,
-      "total": 1571
+      "found": 0,
+      "total": 1574
     },
     "Cursor Changelog": {
       "found": 0,
@@ -23,7 +23,7 @@
       "total": 0
     },
     "Lovable Blog": {
-      "found": 1,
+      "found": 0,
       "total": 155
     },
     "Bolt (StackBlitz) Blog": {
@@ -51,11 +51,11 @@
       "total": 20
     },
     "Hacker News (设计向)": {
-      "found": 6,
-      "total": 20
+      "found": 0,
+      "total": 0
     },
     "Product Hunt": {
-      "found": 2,
+      "found": 0,
       "total": 50
     },
     "Designer News (AI Design)": {
@@ -64,27 +64,27 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 141,
-  "today_date": "2026-09-11",
+  "dudu_day": 142,
+  "today_date": "2026-09-12",
   "used_titles": [
-    "GPT-6 Astra 基准表现分歧，ARC-AGI-3 效率超人类令 Chollet 提前 AGI 预测",
     "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
     "OpenAI GPT-6 Astra 登顶 Code Arena WebDev 榜首，领先 Claude Fable 5.1 达 35 分",
     "GPT-6 Astra爆火后，卡兹克谈执行能力贬值与判断力断层",
     "GPT-6 Astra爆火后，卡兹克谈执行能力贬值与判断力断层",
     "Anthropic 发布经济情景模型，推演 AI 对 2030 年美国就业与工资的影响",
-    "DeepSeek-V4.1-Flash 上线 SiliconFlow，552B MoE 支持 1M 上下文"
+    "DeepSeek-V4.1-Flash 上线 SiliconFlow，552B MoE 支持 1M 上下文",
+    "Anthropic 威胁报告披露 Claude 被用于间谍软件、导弹与无人机研发，中国实验室大规模蒸馏提取数据"
   ],
   "used_tools": [
-    "The Decoder：AI News（RSS）",
     "公众号：数字生命卡兹克",
     "X：Testing Catalog (@testingcatalog)",
     "公众号：数字生命卡兹克",
     "公众号：数字生命卡兹克",
     "Anthropic：The Institute（旗舰研究长文 · 网页）",
-    "X：硅基流动 SiliconFlow (@SiliconFlowAI)"
+    "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
+    "The Decoder：AI News（RSS）"
   ],
-  "briefing_total": 58,
-  "briefing_design": 24,
+  "briefing_total": 42,
+  "briefing_design": 21,
   "briefing_count": 5
 }
