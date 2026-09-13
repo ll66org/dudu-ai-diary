@@ -1,5 +1,23 @@
 [
   {
+    "title": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间",
+    "summary": "Anthropic 的 Thariq 转发并支持 Dario Amodei 的新文章《We Must Pace the Frontier》，后者提出 AI 行业应放缓的三部分计划，并承诺向第三方评估者提供永久的员工级系统访问权限。",
+    "url": "https://x.com/trq212/status/2098860941391872132",
+    "published": "2026-09-12T19:46:58.000Z",
+    "source": "X：Thariq (@trq212)",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例",
+    "summary": "OpenAI 开发者账号宣布发布 GPT-6 Astra，并汇总社区开发者基于它做出的构建案例，包括 2234 个建模解剖部件的 3D 展示、Unreal Engine 曼哈顿复刻。",
+    "url": "https://x.com/OpenAIDevs/status/2098827327832822014",
+    "published": "2026-09-12T17:33:23.000Z",
+    "source": "X：OpenAI Developers (@OpenAIDevs)",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
     "title": "实测 DeepSeek V4.1 Flash：价格大降、原生带视觉，作者用游戏与城市生成任务验证表现",
     "summary": "作者实测 DeepSeek V4.1 Flash，缓存命中输入降价 7 倍多、输出砍三分之二，9 月 14 日中午 12 点起所有发往 v4-pro 的请求将被强制路由到 4.1 Flash 并按其低价计费。",
     "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247511119&idx=1&sn=0f53b5017e41b16afc9b201966ce2bda",
@@ -18,6 +36,15 @@
     "category": "industry"
   },
   {
+    "title": "Augment 复盘软件工厂建设：人均规模调整产出增长 4.5 倍",
+    "summary": "Augment Code 发布长文，复盘其九个月建设的软件工厂：2025 年 11 月至 2026 年 7 月，基于 Cosmos 平台在需求、工单、PR、生产四个环节部署 PR Author。",
+    "url": "https://www.augmentcode.com/blog/beyond-ai-coding-agents-how-we-built-augments-software-factory",
+    "published": "2026-09-10T16:00:00.000Z",
+    "source": "Augment Code 博客（网页）",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
     "title": "WorkBuddy 上线 DeepSeek V4.1-Flash，免费试用两周",
     "summary": "WorkBuddy 宣布 DeepSeek V4.1-Flash 已在其平台上线，免费试用两周。引用的 DeepSeek 公告称 V4.1-Flash 已登陆 DeepSeek API 并支持原生多模态。",
     "url": "https://x.com/WorkBuddy_AI/status/2098076348749324362",
@@ -34,87 +61,6 @@
     "source": "X：Google AI (@GoogleAI)",
     "source_weight": "high",
     "category": "ai-products"
-  },
-  {
-    "title": "OpenAI 在 ChatGPT Work 中推出 Data agent",
-    "summary": "OpenAI 在 ChatGPT Work 中推出新的 Data agent，用户用自然语言即可连接公司数据、分析变化并生成可分享的交互式仪表盘。",
-    "url": "https://openai.com/index/put-data-to-work",
-    "published": "2026-09-10T15:00:00.000Z",
-    "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "OpenRouter 推出有状态 Shell 工具 `openrouter：shell` 并上线 Files API",
-    "summary": "OpenRouter 推出新的有状态服务端工具 Shell，任何 OpenRouter 上的模型都可以在托管的 Linux 容器中运行命令。该功能今日起以 beta 形式提供，代号为 `openrouter：shell`，同时新增 Files API 用于在容器内外传输文件。",
-    "url": "https://x.com/OpenRouter/status/2098063468759027725",
-    "published": "2026-09-10T14:58:05.000Z",
-    "source": "X：OpenRouter (@OpenRouter)",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "DeepSeek 发布 V4.1-Flash，大幅降低 AI Agent 的 KV cache 内存需求",
-    "summary": "DeepSeek 发布多模态模型 V4.1-Flash，以 MIT 许可开源在 Hugging Face，目标是大幅压缩 KV cache 和长上下文处理成本。",
-    "url": "https://the-decoder.com/new-deepseek-model-v4-1-flash-cuts-memory-needs-for-ai-agents",
-    "published": "2026-09-10T12:40:51.000Z",
-    "source": "The Decoder：AI News（RSS）",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "Cursor 推出 Projects：协调者智能体管理数千个子智能体处理大型开发任务",
-    "summary": "Cursor 发布 Projects（beta），让用户通过协调者智能体处理功能开发、迁移和持续性维护等大型工作，协调者本身不写代码，而是调度数千个子智能体并行执行。",
-    "url": "https://cursor.com/blog/projects",
-    "published": "2026-09-10T12:00:00.000Z",
-    "source": "Cursor Blog",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Cognition 工程师用 Devin 智能体完成 RSA-260 因式分解，刷新公开纪录",
-    "summary": "Cognition 员工 samyok 率团队驱动多个 Devin 智能体构建了高性能 GPU 格子筛，对 260 位的 RSA-260 完成因式分解，刷新此前 RSA-250（2020 年 2 月）保持的公开 RSA 挑战纪录。",
-    "url": "https://cognition.com/blog/factoring-rsa-260",
-    "published": "2026-09-10T10:50:45.032Z",
-    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "DeepSeek 发布 V4.1-Flash：新架构带来原生视觉理解与大幅降价",
-    "summary": "DeepSeek 发布 V4.1-Flash，采用 Causal Encoder-Decoder 新架构并支持原生视觉理解，552B MoE 参数，输入处理激活 8B、输出生成激活 16B。",
-    "url": "https://x.com/kimmonismus/status/2097970735591366804",
-    "published": "2026-09-10T08:49:36.000Z",
-    "source": "X：Kim (@kimmonismus)",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "DeepSeek 发布 V4.1-Flash：新 Causal Encoder-Decoder 架构，带原生视觉理解",
-    "summary": "DeepSeek 发布 V4.1-Flash，采用新 Causal Encoder-Decoder 架构并支持原生视觉理解，为其新架构家族中最小模型。该模型为 552B 参数 MoE，输入处理激活 8B、输出生成激活 16B；KV cache 需求较上一代降至 HBM 的 1/4、SSD 存储的 1/8，API 价格更低。",
-    "url": "https://x.com/kimmonismus/status/2097962333767102665",
-    "published": "2026-09-10T08:16:13.000Z",
-    "source": "X：Kim (@kimmonismus)",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "DeepSeek AI 发布 DeepSeek-V4.1-Flash：1M 上下文、FP4 KV 缓存与跨层注意力复用",
-    "summary": "DeepSeek AI 发布多模态 MoE 模型 DeepSeek-V4.1-Flash，552B 主干加 196B Engram 参数，上下文窗口 1M，prefill 激活 8B 参数、decode 激活 16B，全局 KV 缓存降至每 token 890 字节，约为 DeepSeek-V4-Flash 的 1/4、DeepSeek-V1 的 1/437。",
-    "url": "https://www.marktechpost.com/2026/09/10/deepseek-ai-released-deepseek-v4-1-flash-with-1m-context-fp4-kv-cache-and-cross-layer-attention-reuse",
-    "published": "2026-09-10T07:31:01.000Z",
-    "source": "MarkTechPost（RSS）",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "DeepSeek 发布 V4.1-Flash，API 价格同步下调",
-    "summary": "DeepSeek 发布 DeepSeek-V4.1-Flash，是全新模型结构系列中最小尺寸的模型，具备原生多模态视觉理解能力，评测包括 GPQA Diamond 90.9、HLE 36.8、Codeforces Rating 3471、Terminal-Bench 2.1 90.6 等。",
-    "url": "https://api-docs.deepseek.com/zh-cn/updates#%E6%97%B6%E9%97%B4-2026-09-10",
-    "published": "2026-09-10T05:58:04.695Z",
-    "source": "DeepSeek：API 更新日志",
-    "source_weight": "high",
-    "category": "ai-models"
   },
   {
     "title": "What Shakespeare got right about AI",
@@ -144,15 +90,6 @@
     "category": "design_communities"
   },
   {
-    "title": "Most AI problems are really human problems",
-    "summary": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*gLYNt9Ml-hq67abKWaYTfA.png\" /><figcaption>The machine room is full; the chair that owns the decision is empty. AI assisted.</figcaption></figure><h4>The cause sits upstream: unread intent, missing oversight, thin context, loose language, unset expectations, no evals, fuzzy outcomes, and the wrong tool for the job. Here’s the AI checklist.</h4><p>Anthropic recently told its growth team to hire more product managers, not fewer. Yo",
-    "url": "https://uxdesign.cc/most-ai-problems-are-really-human-problems-this-is-how-you-can-fix-it-ab64843f845e?source=rss----138adf9c44c---4",
-    "published": "Tue, 08 Sep 2026 20:37:28 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
     "title": "8 voice AIUX patterns",
     "summary": "<h3>8 voice AI UX patterns</h3><h4>Mapping emerging Voice AI UX patterns, perceived agent roles, key design decisions and limitations</h4><figure><img alt=\"Eight voice AI UI patterns: avatar video call, turn-by-turn interview, voice-augmented chat, voice-to-text dictation, phone call, scripted video with voice gates, co-pilot transcript, and ambient wake-word assistant, each shown as a mobile interface mockup with distinct layout and interaction affordances.\" src=\"https://cdn-images-1.medium.com",
     "url": "https://uxdesign.cc/8-voice-aiux-patterns-81324c8feaa0?source=rss----138adf9c44c---4",
@@ -175,6 +112,15 @@
     "summary": "<figure><img alt=\"Sixty years of UX, compressed into one horizon line — each era solving the last one and seeding the next. AI assisted.\" src=\"https://cdn-images-1.medium.com/max/1024/1*Xdi3OgwGMpD_b_QXO53AoQ.png\" /><figcaption>Sixty years of UX, compressed into one horizon line — each era solving the last one and seeding the next. AI assisted.</figcaption></figure><h4>Human factors has reinvented itself every decade since Bell Labs, the oldest lessons are the ones pointing the way forward.</h4>",
     "url": "https://uxdesign.cc/five-eras-of-ux-design-and-the-lessons-to-keep-in-the-ai-era-d76a548747a9?source=rss----138adf9c44c---4",
     "published": "Thu, 10 Sep 2026 22:38:12 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "The real reason everyone hates the viral AI food slop images",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/why-people-hate-viral-ai-food-posters-db2b4329ae11?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1536/1*AA2ei_pRPKcktJeiJzFcfw.png\" width=\"1536\" /></a></p><p class=\"medium-feed-snippet\">We&#x2019;ve always made food look better than it is. So why does it feel different when AI does it?</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/why-people-hate-viral-ai-food-post",
+    "url": "https://uxdesign.cc/why-people-hate-viral-ai-food-posters-db2b4329ae11?source=rss----138adf9c44c---4",
+    "published": "Sat, 12 Sep 2026 21:40:38 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"

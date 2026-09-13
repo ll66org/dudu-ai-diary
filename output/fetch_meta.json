@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-09-12T14:19:44.162098Z",
-  "total_candidates": 22,
+  "fetched_at": "2026-09-13T15:01:01.244491Z",
+  "total_candidates": 16,
   "source_stats": {
     "Figma Blog": {
       "found": 0,
@@ -64,27 +64,27 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 142,
-  "today_date": "2026-09-12",
+  "dudu_day": 143,
+  "today_date": "2026-09-13",
   "used_titles": [
-    "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
     "OpenAI GPT-6 Astra 登顶 Code Arena WebDev 榜首，领先 Claude Fable 5.1 达 35 分",
     "GPT-6 Astra爆火后，卡兹克谈执行能力贬值与判断力断层",
     "GPT-6 Astra爆火后，卡兹克谈执行能力贬值与判断力断层",
     "Anthropic 发布经济情景模型，推演 AI 对 2030 年美国就业与工资的影响",
     "DeepSeek-V4.1-Flash 上线 SiliconFlow，552B MoE 支持 1M 上下文",
+    "Anthropic 威胁报告披露 Claude 被用于间谍软件、导弹与无人机研发，中国实验室大规模蒸馏提取数据",
     "Anthropic 威胁报告披露 Claude 被用于间谍软件、导弹与无人机研发，中国实验室大规模蒸馏提取数据"
   ],
   "used_tools": [
-    "公众号：数字生命卡兹克",
     "X：Testing Catalog (@testingcatalog)",
     "公众号：数字生命卡兹克",
     "公众号：数字生命卡兹克",
     "Anthropic：The Institute（旗舰研究长文 · 网页）",
     "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
+    "The Decoder：AI News（RSS）",
     "The Decoder：AI News（RSS）"
   ],
-  "briefing_total": 42,
-  "briefing_design": 21,
+  "briefing_total": 26,
+  "briefing_design": 8,
   "briefing_count": 5
 }

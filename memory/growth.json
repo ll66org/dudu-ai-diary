@@ -1,5 +1,5 @@
 {
-  "day_count": 142,
+  "day_count": 143,
   "history": [
     {
       "day": 20,
@@ -825,6 +825,13 @@
       "date": "2026-09-12",
       "topic": "Anthropic 威胁报告披露 Claude 被用于间谍软件、导弹与无人机研发，中国实验室大规模蒸馏提取数据",
       "source": "The Decoder：AI News（RSS）",
+      "mode": "rss"
+    },
+    {
+      "day": 143,
+      "date": "2026-09-13",
+      "topic": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间",
+      "source": "X：Thariq (@trq212)",
       "mode": "rss"
     }
   ],

@@ -1,5 +1,21 @@
 [
   {
+    "title": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间",
+    "summary": "Anthropic 的 Thariq 转发并支持 Dario Amodei 的新文章《We Must Pace the Frontier》，后者提出 AI 行业应放缓的三部分计划，并承诺向第三方评估者提供永久的员工级系统访问权限。",
+    "source": "X：Thariq (@trq212)",
+    "url": "https://x.com/trq212/status/2098860941391872132",
+    "published_at": "2026-09-12T19:46:58.000Z",
+    "category": "tip"
+  },
+  {
+    "title": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例",
+    "summary": "OpenAI 开发者账号宣布发布 GPT-6 Astra，并汇总社区开发者基于它做出的构建案例，包括 2234 个建模解剖部件的 3D 展示、Unreal Engine 曼哈顿复刻。",
+    "source": "X：OpenAI Developers (@OpenAIDevs)",
+    "url": "https://x.com/OpenAIDevs/status/2098827327832822014",
+    "published_at": "2026-09-12T17:33:23.000Z",
+    "category": "ai-products"
+  },
+  {
     "title": "Anthropic 威胁报告披露 Claude 被用于间谍软件、导弹与无人机研发，中国实验室大规模蒸馏提取数据",
     "summary": "Anthropic 发布威胁情报报告，记录 2025 年 12 月至 2026 年 8 月间 Claude 被滥用的七类行为。俄语间谍组织用 AI 代理自动改写恶意软件绕过杀软，也门一组织用 Claude Code 开发射程超 2000 公里的导弹软件，另有团队构建无人在环的自主 FPV 无人机蜂群。",
     "source": "The Decoder：AI News（RSS）",
@@ -22,21 +38,5 @@
     "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek",
     "published_at": "2026-09-10T20:57:30.000Z",
     "category": "industry"
-  },
-  {
-    "title": "WorkBuddy 上线 DeepSeek V4.1-Flash，免费试用两周",
-    "summary": "WorkBuddy 宣布 DeepSeek V4.1-Flash 已在其平台上线，免费试用两周。引用的 DeepSeek 公告称 V4.1-Flash 已登陆 DeepSeek API 并支持原生多模态。",
-    "source": "X：Tencent WorkBuddy (@WorkBuddy_AI)",
-    "url": "https://x.com/WorkBuddy_AI/status/2098076348749324362",
-    "published_at": "2026-09-10T15:49:16.000Z",
-    "category": "ai-models"
-  },
-  {
-    "title": "Google 发布图像工具 Pics，基于 Nano Banana 支持精准编辑与协作",
-    "summary": "Google 发布图像生成工具 Google Pics，基于 Nano Banana 构建，现已上线 pics.new。支持局部对象编辑、图内文字修改与翻译、多人协作创作和单提示词生成多个选项。",
-    "source": "X：Google AI (@GoogleAI)",
-    "url": "https://x.com/GoogleAI/status/2098072879480947085",
-    "published_at": "2026-09-10T15:35:29.000Z",
-    "category": "ai-products"
   }
 ]
