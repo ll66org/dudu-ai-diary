@@ -1,5 +1,5 @@
 {
-  "day_count": 143,
+  "day_count": 144,
   "history": [
     {
       "day": 20,
@@ -832,6 +832,13 @@
       "date": "2026-09-13",
       "topic": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间",
       "source": "X：Thariq (@trq212)",
+      "mode": "rss"
+    },
+    {
+      "day": 144,
+      "date": "2026-09-14",
+      "topic": "Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件",
+      "source": "Hacker News：AI 热帖",
       "mode": "rss"
     }
   ],

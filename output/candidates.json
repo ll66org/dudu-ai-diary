@@ -1,12 +1,39 @@
 [
   {
-    "title": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间",
-    "summary": "Anthropic 的 Thariq 转发并支持 Dario Amodei 的新文章《We Must Pace the Frontier》，后者提出 AI 行业应放缓的三部分计划，并承诺向第三方评估者提供永久的员工级系统访问权限。",
-    "url": "https://x.com/trq212/status/2098860941391872132",
-    "published": "2026-09-12T19:46:58.000Z",
-    "source": "X：Thariq (@trq212)",
+    "title": "Show HN: AgentDrive – persistent, versioned file storage for AI agents",
+    "summary": "<p>We’re opening the private beta for AgentDrive, a persistent file/workspace layer for AI agents.<p>AgentDrive gives agents:<p>- Versioned artifacts and folders\n- Hosted MCP access for coding agents\n- Direct upload sessions for larger files\n- Share links and controlled public publishing\n- Workspace-scoped authorization and auditability\n- Many supported file formats such as MD, HTML, JSON, images, videos, and even spreadsheets<p>The MCP surface is intentionally narrow and reviewed rather than ex",
+    "url": "https://tokencanopy.com/products/agentdrive",
+    "published": "Mon, 14 Sep 2026 16:09:02 +0000",
+    "source": "Hacker News (设计向)",
     "source_weight": "high",
-    "category": "tip"
+    "category": "ai_tech"
+  },
+  {
+    "title": "Show HN: Neobrutalism.dev – just added Base UI support and added new color theme",
+    "summary": "<p>Article URL: <a href=\"https://www.neobrutalism.dev/\">https://www.neobrutalism.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49699159\">https://news.ycombinator.com/item?id=49699159</a></p>\n<p>Points: 16</p>\n<p># Comments: 2</p>",
+    "url": "https://www.neobrutalism.dev/",
+    "published": "Mon, 14 Sep 2026 16:02:02 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "appdesigns",
+    "summary": "<p>\n            Design amazing appstore screenshots for free\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/appdesigns?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1249725?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/appdesigns",
+    "published": "2026-09-13T17:19:15-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件",
+    "summary": "Anthropic 9 月威胁报告披露，据评估极可能关联胡塞组织的也门小组使用 Claude Code 开发制导火箭、射程超 2，000 公里弹道导弹及名为 R2000 的高超声速滑翔载具概念的相关软件。",
+    "url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
+    "published": "2026-09-13T14:15:40.000Z",
+    "source": "Hacker News：AI 热帖",
+    "source_weight": "high",
+    "category": "industry"
   },
   {
     "title": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例",
@@ -16,69 +43,6 @@
     "source": "X：OpenAI Developers (@OpenAIDevs)",
     "source_weight": "high",
     "category": "ai-products"
-  },
-  {
-    "title": "实测 DeepSeek V4.1 Flash：价格大降、原生带视觉，作者用游戏与城市生成任务验证表现",
-    "summary": "作者实测 DeepSeek V4.1 Flash，缓存命中输入降价 7 倍多、输出砍三分之二，9 月 14 日中午 12 点起所有发往 v4-pro 的请求将被强制路由到 4.1 Flash 并按其低价计费。",
-    "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247511119&idx=1&sn=0f53b5017e41b16afc9b201966ce2bda",
-    "published": "2026-09-11T04:24:28.000Z",
-    "source": "公众号：卡尔的AI沃茨",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "Anthropic 报告指控阿里、月之暗面与 DeepSeek 对 Claude 发起蒸馏攻击",
-    "summary": "Anthropic 发布报告，指控多家中国 AI 公司对 Claude 持续发起蒸馏攻击，累计发现近 2 亿次相关交互，涉及五个活动。",
-    "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek",
-    "published": "2026-09-10T20:57:30.000Z",
-    "source": "TechCrunch：AI（RSS）",
-    "source_weight": "high",
-    "category": "industry"
-  },
-  {
-    "title": "Augment 复盘软件工厂建设：人均规模调整产出增长 4.5 倍",
-    "summary": "Augment Code 发布长文，复盘其九个月建设的软件工厂：2025 年 11 月至 2026 年 7 月，基于 Cosmos 平台在需求、工单、PR、生产四个环节部署 PR Author。",
-    "url": "https://www.augmentcode.com/blog/beyond-ai-coding-agents-how-we-built-augments-software-factory",
-    "published": "2026-09-10T16:00:00.000Z",
-    "source": "Augment Code 博客（网页）",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "WorkBuddy 上线 DeepSeek V4.1-Flash，免费试用两周",
-    "summary": "WorkBuddy 宣布 DeepSeek V4.1-Flash 已在其平台上线，免费试用两周。引用的 DeepSeek 公告称 V4.1-Flash 已登陆 DeepSeek API 并支持原生多模态。",
-    "url": "https://x.com/WorkBuddy_AI/status/2098076348749324362",
-    "published": "2026-09-10T15:49:16.000Z",
-    "source": "X：Tencent WorkBuddy (@WorkBuddy_AI)",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "Google 发布图像工具 Pics，基于 Nano Banana 支持精准编辑与协作",
-    "summary": "Google 发布图像生成工具 Google Pics，基于 Nano Banana 构建，现已上线 pics.new。支持局部对象编辑、图内文字修改与翻译、多人协作创作和单提示词生成多个选项。",
-    "url": "https://x.com/GoogleAI/status/2098072879480947085",
-    "published": "2026-09-10T15:35:29.000Z",
-    "source": "X：Google AI (@GoogleAI)",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "What Shakespeare got right about AI",
-    "summary": "<figure><img alt=\"An Elizabethan oil portrait of William Shakespeare at a writing desk with a quill, his eyes faintly glowing blue; behind him loom the shadowy figures of his characters, and the handwriting on his manuscript dissolves into glowing blue computer code.\" src=\"https://cdn-images-1.medium.com/max/1024/1*wjtgIvHBrrn_4Huori6M7Q.jpeg\" /><figcaption><em>From ink and quill to glowing code: Shakespeare’s exploration of prophecy and equivocation, the art of speaking truths that mislead, ant",
-    "url": "https://uxdesign.cc/what-shakespeare-got-right-about-ai-4369fc16ab2b?source=rss----138adf9c44c---4",
-    "published": "Wed, 09 Sep 2026 23:04:39 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "The origins — the birth, lonely childhood, and adoption of software",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-origins-the-birth-lonely-childhood-and-adoption-of-software-59e3013c3c23?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1672/1*tK7I0aqCexN7fqGL3RoCzQ.png\" width=\"1672\" /></a></p><p class=\"medium-feed-snippet\">Side A, meaning is irrelevant to the problem</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/the-origins-the-birth-lonely-childhood-and-adoption-of-software-",
-    "url": "https://uxdesign.cc/the-origins-the-birth-lonely-childhood-and-adoption-of-software-59e3013c3c23?source=rss----138adf9c44c---4",
-    "published": "Wed, 09 Sep 2026 23:04:27 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
   },
   {
     "title": "The Death Of The Button: Why The Best Interface Is No Interface",
@@ -121,6 +85,33 @@
     "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/why-people-hate-viral-ai-food-posters-db2b4329ae11?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1536/1*AA2ei_pRPKcktJeiJzFcfw.png\" width=\"1536\" /></a></p><p class=\"medium-feed-snippet\">We&#x2019;ve always made food look better than it is. So why does it feel different when AI does it?</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/why-people-hate-viral-ai-food-post",
     "url": "https://uxdesign.cc/why-people-hate-viral-ai-food-posters-db2b4329ae11?source=rss----138adf9c44c---4",
     "published": "Sat, 12 Sep 2026 21:40:38 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "For the Designless",
+    "summary": "<h4>On the value of cultural references, and the cost of losing them at scale.</h4><figure><img alt=\"Photograph of a wall with assorted handmade and amateur flyers\" src=\"https://cdn-images-1.medium.com/max/1024/1*asFjjhgMniVxw6l-Vnt1FQ.jpeg\" /><figcaption>Photo by <a href=\"https://unsplash.com/@thoutbox\">Yonghyun Lee</a> on Unplash</figcaption></figure><p>A designer is not an artist. A designer is a commercial problem-solver, hired to take a client’s half-formed intent — a vibe, a feeling, a vag",
+    "url": "https://uxdesign.cc/for-the-designless-0d3e7936a70c?source=rss----138adf9c44c---4",
+    "published": "Mon, 14 Sep 2026 13:59:28 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Five eras of UX, First drafts, Logos made of data, Voice AIUX patterns",
+    "summary": "<h4>Weekly curated resources for designers — thinkers and makers.</h4><figure><a href=\"https://uxdesign.cc/five-eras-of-ux-design-and-the-lessons-to-keep-in-the-ai-era-d76a548747a9\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/0*m-gEy9TNe-QWb5OK.png\" /></a></figure><p>“There are two famous lines about history, and UX earns both. George Santayana wrote that those who cannot remember the past are condemned to repeat it. The version usually credited to Mark Twain is gentler: history do",
+    "url": "https://uxdesign.cc/five-eras-of-ux-first-drafts-logos-made-of-data-voice-aiux-patterns-7b326c9aba4a?source=rss----138adf9c44c---4",
+    "published": "Mon, 14 Sep 2026 11:26:18 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "How to say no when a friend asks for a discount",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/how-to-say-no-when-a-friend-asks-for-a-discount-d0e48087eb1d?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1811/1*ypJryx3y--Vk2byw32oBwA.png\" width=\"1811\" /></a></p><p class=\"medium-feed-snippet\">How thinking about price can connect to much bigger things.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/how-to-say-no-when-a-friend-asks-for-a-discount-d0e48087eb1d?sour",
+    "url": "https://uxdesign.cc/how-to-say-no-when-a-friend-asks-for-a-discount-d0e48087eb1d?source=rss----138adf9c44c---4",
+    "published": "Mon, 14 Sep 2026 11:20:16 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
