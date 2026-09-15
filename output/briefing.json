@@ -1,42 +1,42 @@
 [
   {
-    "title": "Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件",
-    "summary": "Anthropic 9 月威胁报告披露，据评估极可能关联胡塞组织的也门小组使用 Claude Code 开发制导火箭、射程超 2，000 公里弹道导弹及名为 R2000 的高超声速滑翔载具概念的相关软件。",
-    "source": "Hacker News：AI 热帖",
-    "url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
-    "published_at": "2026-09-13T14:15:40.000Z",
-    "category": "industry"
-  },
-  {
-    "title": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间",
-    "summary": "Anthropic 的 Thariq 转发并支持 Dario Amodei 的新文章《We Must Pace the Frontier》，后者提出 AI 行业应放缓的三部分计划，并承诺向第三方评估者提供永久的员工级系统访问权限。",
-    "source": "X：Thariq (@trq212)",
-    "url": "https://x.com/trq212/status/2098860941391872132",
-    "published_at": "2026-09-12T19:46:58.000Z",
-    "category": "tip"
-  },
-  {
-    "title": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例",
-    "summary": "OpenAI 开发者账号宣布发布 GPT-6 Astra，并汇总社区开发者基于它做出的构建案例，包括 2234 个建模解剖部件的 3D 展示、Unreal Engine 曼哈顿复刻。",
-    "source": "X：OpenAI Developers (@OpenAIDevs)",
-    "url": "https://x.com/OpenAIDevs/status/2098827327832822014",
-    "published_at": "2026-09-12T17:33:23.000Z",
-    "category": "ai-products"
-  },
-  {
-    "title": "小红书 AllSpark 开源 Search Agent 模型 Iris，35B 与 397B 版本同量级成绩领先",
-    "summary": "小红书 AllSpark 团队发布并开源 Search Agent 模型 Iris，权重和评测代码已公开，数据与训练配方将陆续公布。",
-    "source": "公众号：小红书技术（dots.llm）",
-    "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496383&idx=1&sn=2db8607f797615a3647d9fec7e54f448",
-    "published_at": "2026-09-14T09:59:00.000Z",
+    "title": "生数科技发布 Vidu S2：含 Avatar 与 Editing 双模型，探索空间视频",
+    "summary": "生数科技正式发布 Vidu S2，包含面向数字角色实时交互的 Vidu S2-Avatar 和面向视频流实时编辑的 Vidu S2-Editing，并探索面向 VR 头显的实时空间视频生成与编辑。",
+    "source": "公众号：生数科技（Vidu·视频）",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDQ5NTQwMQ%3D%3D&mid=2247489246&idx=2&sn=b23b39da69f6c75594eccac11854111f",
+    "published_at": "2026-09-15T14:30:59.000Z",
     "category": "ai-models"
   },
   {
-    "title": "Gary Marcus 评 Dario Amodei 的放慢 AI 发展提议：三份赞誉加两分怀疑",
-    "summary": "Gary Marcus 评析 Dario Amodei 倡导放慢 AI 发展并支持透明度的文章，Sam Altman 与 Elon Musk 迅速表示认同。Marcus 肯定其透明度承诺，但列举多方质疑：METR 与 AI 公司关系过近、Anthropic 借对华威胁维持加速、以及该提议可能意在抢先于真正的监管。",
-    "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-    "url": "https://garymarcus.substack.com/p/two-cheers-out-of-three-for-dario",
-    "published_at": "2026-09-13T18:34:31.000Z",
+    "title": "Trail of Bits 批评 1Password 的 AI 补丁基准存在误导，并发布两个补丁验证 Agent 技能",
+    "summary": "Trail of Bits 发文批评 1Password 8月6日发布的 FLAWED 报告，称其 26% 的 AI 干净修复率受四项实验设计选择影响而失真，包括刻意指示智能体应用错误修复的提示词占 22% 数据、36% 的试验禁止编译测试，以及不同推理档位设置。",
+    "source": "Trail of Bits：AI安全研究",
+    "url": "https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading",
+    "published_at": "2026-09-15T11:00:00.000Z",
     "category": "tip"
+  },
+  {
+    "title": "Anthropic 如何重构测试影响分析服务以应对智能体编码带来的 CI 压力",
+    "summary": "Anthropic 工程师每季度交付的代码量是 2021-2025 年均值的 8 倍，其中 80% 由 Claude 编写，六个月内 CI 任务增长 25 倍。",
+    "source": "Claude：Blog（网页）",
+    "url": "https://claude.com/blog/agentic-coding-is-straining-ci-heres-how-we-scaled-test-impact-analysis-at-anthropic",
+    "published_at": "2026-09-14T19:15:56.861Z",
+    "category": "tip"
+  },
+  {
+    "title": "Apple 发布新一代 Apple Intelligence，Siri AI 正式以测试版上线",
+    "summary": "Apple 发布新一代 Apple Intelligence，推出全面重构的 Siri AI，支持个人语境理解、屏幕感知、系统级应用操作和跨设备对话，今日起以英文测试版随 2027 系统更新推出，下月扩展至法语、日语、韩语、葡萄牙语和西班牙语。",
+    "source": "Apple：Newsroom（RSS）",
+    "url": "https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here",
+    "published_at": "2026-09-14T17:09:41.324Z",
+    "category": "ai-products"
+  },
+  {
+    "title": "硅基流动上线开源模型 Hy4 preview，770B 总参数、1M 上下文",
+    "summary": "硅基流动（SiliconFlow）宣布开源模型 Hy4 preview 上线其平台。该模型总参数 770B、每 token 激活 49B、支持 1M 上下文，采用 Apache 2.0 协议，面向编码、分析、研究和复杂实际工作。用户可将其接入 Claude Code、Codex、Cursor 等已有工具；图片显示定价为",
+    "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
+    "url": "https://x.com/SiliconFlowAI/status/2099536759168352634",
+    "published_at": "2026-09-14T16:32:25.000Z",
+    "category": "ai-models"
   }
 ]

@@ -1,48 +1,84 @@
 [
   {
-    "title": "Show HN: AgentDrive – persistent, versioned file storage for AI agents",
-    "summary": "<p>We’re opening the private beta for AgentDrive, a persistent file/workspace layer for AI agents.<p>AgentDrive gives agents:<p>- Versioned artifacts and folders\n- Hosted MCP access for coding agents\n- Direct upload sessions for larger files\n- Share links and controlled public publishing\n- Workspace-scoped authorization and auditability\n- Many supported file formats such as MD, HTML, JSON, images, videos, and even spreadsheets<p>The MCP surface is intentionally narrow and reviewed rather than ex",
-    "url": "https://tokencanopy.com/products/agentdrive",
-    "published": "Mon, 14 Sep 2026 16:09:02 +0000",
+    "title": "Cartesian – AI 3D Modeling for Design",
+    "summary": "<p>Article URL: <a href=\"https://www.formas.ai/cartesian\">https://www.formas.ai/cartesian</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49713999\">https://news.ycombinator.com/item?id=49713999</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "url": "https://www.formas.ai/cartesian",
+    "published": "Tue, 15 Sep 2026 15:26:45 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Show HN: Neobrutalism.dev – just added Base UI support and added new color theme",
-    "summary": "<p>Article URL: <a href=\"https://www.neobrutalism.dev/\">https://www.neobrutalism.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49699159\">https://news.ycombinator.com/item?id=49699159</a></p>\n<p>Points: 16</p>\n<p># Comments: 2</p>",
-    "url": "https://www.neobrutalism.dev/",
-    "published": "Mon, 14 Sep 2026 16:02:02 +0000",
+    "title": "GM gives its most important trucks a new UI–and includes CarPlay",
+    "summary": "<p>Article URL: <a href=\"https://arstechnica.com/cars/2026/09/gm-gives-its-most-important-trucks-a-new-ui-and-includes-carplay/\">https://arstechnica.com/cars/2026/09/gm-gives-its-most-important-trucks-a-new-ui-and-includes-carplay/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49713328\">https://news.ycombinator.com/item?id=49713328</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "url": "https://arstechnica.com/cars/2026/09/gm-gives-its-most-important-trucks-a-new-ui-and-includes-carplay/",
+    "published": "Tue, 15 Sep 2026 14:44:19 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "appdesigns",
-    "summary": "<p>\n            Design amazing appstore screenshots for free\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/appdesigns?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1249725?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/appdesigns",
-    "published": "2026-09-13T17:19:15-07:00",
+    "title": "生数科技发布 Vidu S2：含 Avatar 与 Editing 双模型，探索空间视频",
+    "summary": "生数科技正式发布 Vidu S2，包含面向数字角色实时交互的 Vidu S2-Avatar 和面向视频流实时编辑的 Vidu S2-Editing，并探索面向 VR 头显的实时空间视频生成与编辑。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDQ5NTQwMQ%3D%3D&mid=2247489246&idx=2&sn=b23b39da69f6c75594eccac11854111f",
+    "published": "2026-09-15T14:30:59.000Z",
+    "source": "公众号：生数科技（Vidu·视频）",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "Trail of Bits 批评 1Password 的 AI 补丁基准存在误导，并发布两个补丁验证 Agent 技能",
+    "summary": "Trail of Bits 发文批评 1Password 8月6日发布的 FLAWED 报告，称其 26% 的 AI 干净修复率受四项实验设计选择影响而失真，包括刻意指示智能体应用错误修复的提示词占 22% 数据、36% 的试验禁止编译测试，以及不同推理档位设置。",
+    "url": "https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading",
+    "published": "2026-09-15T11:00:00.000Z",
+    "source": "Trail of Bits：AI安全研究",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "Portfolio Frame",
+    "summary": "<p>\n            Frame, annotate, and export screenshots that look designed\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/portfolio-frame?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1250975?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/portfolio-frame",
+    "published": "2026-09-14T23:13:16-07:00",
     "source": "Product Hunt",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件",
-    "summary": "Anthropic 9 月威胁报告披露，据评估极可能关联胡塞组织的也门小组使用 Claude Code 开发制导火箭、射程超 2，000 公里弹道导弹及名为 R2000 的高超声速滑翔载具概念的相关软件。",
-    "url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
-    "published": "2026-09-13T14:15:40.000Z",
-    "source": "Hacker News：AI 热帖",
+    "title": "Anthropic 如何重构测试影响分析服务以应对智能体编码带来的 CI 压力",
+    "summary": "Anthropic 工程师每季度交付的代码量是 2021-2025 年均值的 8 倍，其中 80% 由 Claude 编写，六个月内 CI 任务增长 25 倍。",
+    "url": "https://claude.com/blog/agentic-coding-is-straining-ci-heres-how-we-scaled-test-impact-analysis-at-anthropic",
+    "published": "2026-09-14T19:15:56.861Z",
+    "source": "Claude：Blog（网页）",
     "source_weight": "high",
-    "category": "industry"
+    "category": "tip"
   },
   {
-    "title": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例",
-    "summary": "OpenAI 开发者账号宣布发布 GPT-6 Astra，并汇总社区开发者基于它做出的构建案例，包括 2234 个建模解剖部件的 3D 展示、Unreal Engine 曼哈顿复刻。",
-    "url": "https://x.com/OpenAIDevs/status/2098827327832822014",
-    "published": "2026-09-12T17:33:23.000Z",
-    "source": "X：OpenAI Developers (@OpenAIDevs)",
+    "title": "Apple 发布新一代 Apple Intelligence，Siri AI 正式以测试版上线",
+    "summary": "Apple 发布新一代 Apple Intelligence，推出全面重构的 Siri AI，支持个人语境理解、屏幕感知、系统级应用操作和跨设备对话，今日起以英文测试版随 2027 系统更新推出，下月扩展至法语、日语、韩语、葡萄牙语和西班牙语。",
+    "url": "https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here",
+    "published": "2026-09-14T17:09:41.324Z",
+    "source": "Apple：Newsroom（RSS）",
     "source_weight": "high",
     "category": "ai-products"
+  },
+  {
+    "title": "硅基流动上线开源模型 Hy4 preview，770B 总参数、1M 上下文",
+    "summary": "硅基流动（SiliconFlow）宣布开源模型 Hy4 preview 上线其平台。该模型总参数 770B、每 token 激活 49B、支持 1M 上下文，采用 Apache 2.0 协议，面向编码、分析、研究和复杂实际工作。用户可将其接入 Claude Code、Codex、Cursor 等已有工具；图片显示定价为每 1M tokens 输入 $0.834、输出 $2.501、缓存 $0.042。",
+    "url": "https://x.com/SiliconFlowAI/status/2099536759168352634",
+    "published": "2026-09-14T16:32:25.000Z",
+    "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "AI SDK harness layer now supports native subscription authentication",
+    "summary": "<p>The <a href=\"https://vercel.com/changelog/program-agent-harnesses-with-ai-sdk\">AI SDK harness layer</a> now supports authenticating harnesses through their native subscriptions, where the underlying harness supports them. The harness layer runs different coding agents through the same <code>HarnessAgent</code> interface, so you can switch agents without changing your application code.</p><p>No code changes or new settings are required. The <code>direct</code> authentication mode uses explicit",
+    "url": "https://vercel.com/changelog/ai-sdk-harness-native-subscription-authentication",
+    "published": "",
+    "source": "Vercel Blog (v0)",
+    "source_weight": "high",
+    "category": "design_tools"
   },
   {
     "title": "The Death Of The Button: Why The Best Interface Is No Interface",
@@ -50,6 +86,42 @@
     "url": "https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/",
     "published": "Wed, 09 Sep 2026 10:00:00 GMT",
     "source": "Smashing Magazine",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "The hidden culture of AI",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/ai-culture-ux-design-36c7d410cd1f?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1672/1*YsoO1glOlAn8SFiqMCsHYg.png\" width=\"1672\" /></a></p><p class=\"medium-feed-snippet\">AI isn&#x2019;t culturally neutral. Whose culture are you designing for?</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/ai-culture-ux-design-36c7d410cd1f?source=rss----138adf9c44c---4\">Continue readi",
+    "url": "https://uxdesign.cc/ai-culture-ux-design-36c7d410cd1f?source=rss----138adf9c44c---4",
+    "published": "Tue, 15 Sep 2026 11:13:46 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "The users were confident, but wrong. Here’s how to design for that.",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-users-were-confident-but-wrong-heres-how-to-design-for-that-4b1546dc5864?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*Gt0J2HNO_8hg5rgx_pnIjw.jpeg\" width=\"4392\" /></a></p><p class=\"medium-feed-snippet\">How to design around confusing terminology, and users who feel confident about it</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/the-users-were-confident-b",
+    "url": "https://uxdesign.cc/the-users-were-confident-but-wrong-heres-how-to-design-for-that-4b1546dc5864?source=rss----138adf9c44c---4",
+    "published": "Tue, 15 Sep 2026 11:13:17 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Faster previews, soon powered by OJ",
+    "summary": "Lovable previews are moving to OJ, a Rust-native dev server that starts them several times faster on a fraction of the memory. We are rolling it out gradually, and today OJ is open source in the Lovable GitHub organization.",
+    "url": "https://lovable.dev/blog/faster-previews-oj",
+    "published": "Tue, 15 Sep 2026 09:00:00 GMT",
+    "source": "Lovable Blog",
+    "source_weight": "medium",
+    "category": "design_tools"
+  },
+  {
+    "title": "The death of the deliverable",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-death-of-the-deliverable-cbaea0123895?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1678/1*9kBhbHVmZg6lAjgW1Pof1g.png\" width=\"1678\" /></a></p><p class=\"medium-feed-snippet\">AI didn&#x2019;t kill the wireframe; it exposed that the wireframe was never really the point</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/the-death-of-the-deliverable-cbaea0123895?source=r",
+    "url": "https://uxdesign.cc/the-death-of-the-deliverable-cbaea0123895?source=rss----138adf9c44c---4",
+    "published": "Tue, 15 Sep 2026 05:04:14 GMT",
+    "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
   },
@@ -63,28 +135,19 @@
     "category": "design_communities"
   },
   {
-    "title": "How authentication friction frustrates users — and how to stop it",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/how-authentication-friction-frustrates-users-and-how-to-stop-it-552635e50a77?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*YkgbdIzcyt4bGcE0\" width=\"5472\" /></a></p><p class=\"medium-feed-snippet\">We&#x2019;ve been doing authentication all wrong. Here&#x2019;s how to fix it.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/how-authentication-friction-frustrates-u",
-    "url": "https://uxdesign.cc/how-authentication-friction-frustrates-users-and-how-to-stop-it-552635e50a77?source=rss----138adf9c44c---4",
-    "published": "Thu, 10 Sep 2026 22:39:57 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Five eras of UX design and the lessons to keep in the AI era",
-    "summary": "<figure><img alt=\"Sixty years of UX, compressed into one horizon line — each era solving the last one and seeding the next. AI assisted.\" src=\"https://cdn-images-1.medium.com/max/1024/1*Xdi3OgwGMpD_b_QXO53AoQ.png\" /><figcaption>Sixty years of UX, compressed into one horizon line — each era solving the last one and seeding the next. AI assisted.</figcaption></figure><h4>Human factors has reinvented itself every decade since Bell Labs, the oldest lessons are the ones pointing the way forward.</h4>",
-    "url": "https://uxdesign.cc/five-eras-of-ux-design-and-the-lessons-to-keep-in-the-ai-era-d76a548747a9?source=rss----138adf9c44c---4",
-    "published": "Thu, 10 Sep 2026 22:38:12 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
     "title": "The real reason everyone hates the viral AI food slop images",
     "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/why-people-hate-viral-ai-food-posters-db2b4329ae11?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1536/1*AA2ei_pRPKcktJeiJzFcfw.png\" width=\"1536\" /></a></p><p class=\"medium-feed-snippet\">We&#x2019;ve always made food look better than it is. So why does it feel different when AI does it?</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/why-people-hate-viral-ai-food-post",
     "url": "https://uxdesign.cc/why-people-hate-viral-ai-food-posters-db2b4329ae11?source=rss----138adf9c44c---4",
     "published": "Sat, 12 Sep 2026 21:40:38 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "The UX Double Diamond is dead, and in AI only one survives for software",
+    "summary": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*euuE3WVu4wLT_et8GeAE-g.png\" /><figcaption>Two diamonds drawn for a world where the second one cost real money.</figcaption></figure><h4><em>Both the double diamond and design thinking priced building as the risky step, and that price collapsed. What’s left is a one-page brief and a wider generation step.</em></h4><p>The Design Council <a href=\"https://www.designcouncil.org.uk/resources/framework-for-innovation/\">launched the Dou",
+    "url": "https://uxdesign.cc/the-ux-double-diamond-is-dead-and-in-ai-only-one-survives-for-software-heres-how-to-adapt-f63b57c524ed?source=rss----138adf9c44c---4",
+    "published": "Mon, 14 Sep 2026 18:52:50 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
@@ -108,7 +171,7 @@
     "category": "design_communities"
   },
   {
-    "title": "How to say no when a friend asks for a discount",
+    "title": "How—and why—to say no when a friend asks for a discount",
     "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/how-to-say-no-when-a-friend-asks-for-a-discount-d0e48087eb1d?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1811/1*ypJryx3y--Vk2byw32oBwA.png\" width=\"1811\" /></a></p><p class=\"medium-feed-snippet\">How thinking about price can connect to much bigger things.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/how-to-say-no-when-a-friend-asks-for-a-discount-d0e48087eb1d?sour",
     "url": "https://uxdesign.cc/how-to-say-no-when-a-friend-asks-for-a-discount-d0e48087eb1d?source=rss----138adf9c44c---4",
     "published": "Mon, 14 Sep 2026 11:20:16 GMT",

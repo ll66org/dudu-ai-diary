@@ -1,14 +1,14 @@
 {
-  "fetched_at": "2026-09-14T17:02:29.090168Z",
-  "total_candidates": 15,
+  "fetched_at": "2026-09-15T15:39:53.563409Z",
+  "total_candidates": 22,
   "source_stats": {
     "Figma Blog": {
       "found": 0,
       "total": 0
     },
     "Vercel Blog (v0)": {
-      "found": 0,
-      "total": 1574
+      "found": 1,
+      "total": 1575
     },
     "Cursor Changelog": {
       "found": 0,
@@ -23,8 +23,8 @@
       "total": 0
     },
     "Lovable Blog": {
-      "found": 0,
-      "total": 155
+      "found": 1,
+      "total": 156
     },
     "Bolt (StackBlitz) Blog": {
       "found": 0,
@@ -35,7 +35,7 @@
       "total": 40
     },
     "UX Collective": {
-      "found": 8,
+      "found": 10,
       "total": 10
     },
     "Designer News": {
@@ -64,27 +64,27 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 144,
-  "today_date": "2026-09-14",
+  "dudu_day": 145,
+  "today_date": "2026-09-15",
   "used_titles": [
-    "GPT-6 Astra爆火后，卡兹克谈执行能力贬值与判断力断层",
     "GPT-6 Astra爆火后，卡兹克谈执行能力贬值与判断力断层",
     "Anthropic 发布经济情景模型，推演 AI 对 2030 年美国就业与工资的影响",
     "DeepSeek-V4.1-Flash 上线 SiliconFlow，552B MoE 支持 1M 上下文",
     "Anthropic 威胁报告披露 Claude 被用于间谍软件、导弹与无人机研发，中国实验室大规模蒸馏提取数据",
     "Anthropic 威胁报告披露 Claude 被用于间谍软件、导弹与无人机研发，中国实验室大规模蒸馏提取数据",
-    "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间"
+    "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间",
+    "Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件"
   ],
   "used_tools": [
-    "公众号：数字生命卡兹克",
     "公众号：数字生命卡兹克",
     "Anthropic：The Institute（旗舰研究长文 · 网页）",
     "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
     "The Decoder：AI News（RSS）",
     "The Decoder：AI News（RSS）",
-    "X：Thariq (@trq212)"
+    "X：Thariq (@trq212)",
+    "Hacker News：AI 热帖"
   ],
-  "briefing_total": 15,
-  "briefing_design": 3,
+  "briefing_total": 23,
+  "briefing_design": 6,
   "briefing_count": 5
 }

@@ -1,5 +1,5 @@
 {
-  "day_count": 144,
+  "day_count": 145,
   "history": [
     {
       "day": 20,
@@ -839,6 +839,13 @@
       "date": "2026-09-14",
       "topic": "Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件",
       "source": "Hacker News：AI 热帖",
+      "mode": "rss"
+    },
+    {
+      "day": 145,
+      "date": "2026-09-15",
+      "topic": "生数科技发布 Vidu S2：含 Avatar 与 Editing 双模型，探索空间视频",
+      "source": "公众号：生数科技（Vidu·视频）",
       "mode": "rss"
     }
   ],
