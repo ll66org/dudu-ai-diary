@@ -1,28 +1,46 @@
 [
   {
-    "title": "Cartesian – AI 3D Modeling for Design",
-    "summary": "<p>Article URL: <a href=\"https://www.formas.ai/cartesian\">https://www.formas.ai/cartesian</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49713999\">https://news.ycombinator.com/item?id=49713999</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
-    "url": "https://www.formas.ai/cartesian",
-    "published": "Tue, 15 Sep 2026 15:26:45 +0000",
-    "source": "Hacker News (设计向)",
+    "title": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify",
+    "summary": "OpenAI 为 ChatGPT Ads 推出多项 AI 驱动的新体验。Sponsored Agents 允许用户在点击广告后与明确标识的商业赞助智能体对话，目前在美国部分广告主中测试。",
+    "url": "https://openai.com/index/reimagining-advertising-with-ai",
+    "published": "2026-09-16T13:00:00.000Z",
+    "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
     "source_weight": "high",
-    "category": "ai_tech"
+    "category": "ai-products"
   },
   {
-    "title": "GM gives its most important trucks a new UI–and includes CarPlay",
-    "summary": "<p>Article URL: <a href=\"https://arstechnica.com/cars/2026/09/gm-gives-its-most-important-trucks-a-new-ui-and-includes-carplay/\">https://arstechnica.com/cars/2026/09/gm-gives-its-most-important-trucks-a-new-ui-and-includes-carplay/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49713328\">https://news.ycombinator.com/item?id=49713328</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
-    "url": "https://arstechnica.com/cars/2026/09/gm-gives-its-most-important-trucks-a-new-ui-and-includes-carplay/",
-    "published": "Tue, 15 Sep 2026 14:44:19 +0000",
-    "source": "Hacker News (设计向)",
+    "title": "Arena 更新 Image-to-WebDev 榜单：GPT-6 Astra 以 1733 分登顶",
+    "summary": "Arena 更新 Image-to-WebDev 排行榜，纳入四个新评测模型。GPT-6 Astra （Max） 以 1733 分居第一，领先 GPT-5.6 Sol （xHigh） 129 分；Claude Fable 5.1 （Max） 以 1710 分排第二，Muse Spark 1.3 （Max） 1645 分第四，GLM-5.3-Flash 1588 分第十。",
+    "url": "https://x.com/arena/status/2099971741993050236",
+    "published": "2026-09-15T21:20:53.000Z",
+    "source": "X：Arena (@arena)",
     "source_weight": "high",
-    "category": "ai_tech"
+    "category": "tip"
   },
   {
-    "title": "生数科技发布 Vidu S2：含 Avatar 与 Editing 双模型，探索空间视频",
-    "summary": "生数科技正式发布 Vidu S2，包含面向数字角色实时交互的 Vidu S2-Avatar 和面向视频流实时编辑的 Vidu S2-Editing，并探索面向 VR 头显的实时空间视频生成与编辑。",
-    "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDQ5NTQwMQ%3D%3D&mid=2247489246&idx=2&sn=b23b39da69f6c75594eccac11854111f",
-    "published": "2026-09-15T14:30:59.000Z",
-    "source": "公众号：生数科技（Vidu·视频）",
+    "title": "Perplexity 自研 CobbleDB 替代 AWS DynamoDB，每年最多可节省一亿美元",
+    "summary": "Perplexity CEO Aravind Srinivas 宣布自研键值数据库 CobbleDB，替代 AWS DynamoDB 用于快速网页内容抓取，迁移后每年最多可节省一亿美元。该项目由两名工程师和数百个持续运行的 Computer 智能体在两个月内完成核心基础设施，官方研究称热存储批次读取延迟较 DynamoDB 全分布下降约 5 倍（P50 从 31.4ms 降至 5.60ms）。",
+    "url": "https://x.com/AravSrinivas/status/2099957318935028173",
+    "published": "2026-09-15T20:23:34.000Z",
+    "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+    "source_weight": "high",
+    "category": "industry"
+  },
+  {
+    "title": "Claude for Small Business 新增 43 个工作流和 27 个集成，并推出免费培训计划",
+    "summary": "Anthropic 为 Claude for Small Business 新增 43 个工作流和 27 个集成，覆盖 Shopify、Salesforce、Stripe、Gusto 等，该产品自 5 月上线以来安装量超过 90 万次。工作流默认处于审批模式，所有发送、发布或付款需用户确认；今秋将在 10 个美国城市举办免费工作坊，14 个集成伙伴从 9 月底到 11 月各举办一场免费网络研讨会。",
+    "url": "https://claude.com/blog/claude-for-small-business-launches-new-workflows-integrations-and-training-programs",
+    "published": "2026-09-15T17:21:21.489Z",
+    "source": "Claude：Blog（网页）",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "Google DeepMind 发布 Gemini 3.8 Live 和 3.8 Live Extended Thinking",
+    "summary": "Google DeepMind 发布 Gemini 3.8 Live 与 Gemini 3.8 Live Extended Thinking 两个近实时语音对话模型，主打语音智能体和复杂任务执行。",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking",
+    "published": "2026-09-15T17:05:57.000Z",
+    "source": "Google DeepMind：Blog（RSS）",
     "source_weight": "high",
     "category": "ai-models"
   },
@@ -36,22 +54,13 @@
     "category": "tip"
   },
   {
-    "title": "Portfolio Frame",
-    "summary": "<p>\n            Frame, annotate, and export screenshots that look designed\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/portfolio-frame?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1250975?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/portfolio-frame",
-    "published": "2026-09-14T23:13:16-07:00",
+    "title": "Project Feed",
+    "summary": "<p>\n            Project management with built-in file review\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/project-feed?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1251559?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/project-feed",
+    "published": "2026-09-15T09:35:49-07:00",
     "source": "Product Hunt",
     "source_weight": "high",
     "category": "ai_tech"
-  },
-  {
-    "title": "Anthropic 如何重构测试影响分析服务以应对智能体编码带来的 CI 压力",
-    "summary": "Anthropic 工程师每季度交付的代码量是 2021-2025 年均值的 8 倍，其中 80% 由 Claude 编写，六个月内 CI 任务增长 25 倍。",
-    "url": "https://claude.com/blog/agentic-coding-is-straining-ci-heres-how-we-scaled-test-impact-analysis-at-anthropic",
-    "published": "2026-09-14T19:15:56.861Z",
-    "source": "Claude：Blog（网页）",
-    "source_weight": "high",
-    "category": "tip"
   },
   {
     "title": "Apple 发布新一代 Apple Intelligence，Siri AI 正式以测试版上线",
@@ -72,26 +81,44 @@
     "category": "ai-models"
   },
   {
-    "title": "AI SDK harness layer now supports native subscription authentication",
-    "summary": "<p>The <a href=\"https://vercel.com/changelog/program-agent-harnesses-with-ai-sdk\">AI SDK harness layer</a> now supports authenticating harnesses through their native subscriptions, where the underlying harness supports them. The harness layer runs different coding agents through the same <code>HarnessAgent</code> interface, so you can switch agents without changing your application code.</p><p>No code changes or new settings are required. The <code>direct</code> authentication mode uses explicit",
-    "url": "https://vercel.com/changelog/ai-sdk-harness-native-subscription-authentication",
-    "published": "",
-    "source": "Vercel Blog (v0)",
+    "title": "Anthropic 工程师复盘：智能体编程压力下如何扩展测试影响分析服务",
+    "summary": "Anthropic 工程师撰文分享如何在智能体编程压力下扩展测试影响分析服务。Claude 编写约 80% 的代码，测试数量增长 10x，六个月内 CI 任务增加 25x。文章复盘了三个临时补丁（扩容、按包分片、每日重启）分别只维持 70 天、29 天和不到一天，最终用三周重设计为无状态、内存存储加 journal 的可水平扩展架构，并建议团队按两季度内 25x 负载做容量规划。",
+    "url": "https://claude.com/blog/agentic-coding-is-straining-ci-heres-how-we-scaled-test-impact-analysis-at-anthropic",
+    "published": "2026-09-13T16:00:00.000Z",
+    "source": "Claude：Blog（网页）",
     "source_weight": "high",
-    "category": "design_tools"
+    "category": "tip"
   },
   {
-    "title": "The Death Of The Button: Why The Best Interface Is No Interface",
-    "summary": "TThe web is evolving beyond menus, forms, and endless clicks toward experiences shaped around human intent. For UX designers, understanding this shift means re-evaluating their role, moving from designing visible interfaces to guiding transparent, intent-driven AI experiences.",
-    "url": "https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/",
-    "published": "Wed, 09 Sep 2026 10:00:00 GMT",
-    "source": "Smashing Magazine",
+    "title": "What Shakespeare got wrong about AI",
+    "summary": "<figure><img alt=\"A classic Elizabethan oil portrait of William Shakespeare at his writing desk, his quill fallen from his hand, watching with quiet alarm as glowing blue characters and lines of code lift off his manuscript and stream past the edges of the painting; behind him, the faint figures of his characters, witches, a crowned king, a hooded ghost, a robed magician with a broken staff, dissolve into the same escaping blue light.\" src=\"https://cdn-images-1.medium.com/max/1024/1*HDjZ1AZIyFg2",
+    "url": "https://uxdesign.cc/what-shakespeare-got-wrong-about-ai-73e9f58bfbc8?source=rss----138adf9c44c---4",
+    "published": "Wed, 16 Sep 2026 15:21:34 GMT",
+    "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
   },
   {
-    "title": "The hidden culture of AI",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/ai-culture-ux-design-36c7d410cd1f?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1672/1*YsoO1glOlAn8SFiqMCsHYg.png\" width=\"1672\" /></a></p><p class=\"medium-feed-snippet\">AI isn&#x2019;t culturally neutral. Whose culture are you designing for?</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/ai-culture-ux-design-36c7d410cd1f?source=rss----138adf9c44c---4\">Continue readi",
+    "title": "Don’t let AI build a Winchester Mystery House",
+    "summary": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*OpRlmJqoKEqo5ErA0JTYdg.png\" /><figcaption>A house built for 38 years without a plan, and the apps we are shipping the same way.</figcaption></figure><h4>Each new feature works alone and connects to nothing. Six architectural moves that give the rooms you have already built a blueprint to obey.</h4><p><a href=\"https://en.wikipedia.org/wiki/Sarah_Winchester\">Sarah Winchester</a> spent 38 years <a href=\"https://science.howstuffwork",
+    "url": "https://uxdesign.cc/dont-let-ai-build-a-winchester-mystery-house-2cb59ec05a73?source=rss----138adf9c44c---4",
+    "published": "Wed, 16 Sep 2026 07:27:23 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Lovable + Salesforce: build the apps your team needs, where your team already works",
+    "summary": "Lovable now works with Salesforce so the apps and agents your team builds run wherever your team already works: Headless 360, Slack, and installable agents.",
+    "url": "https://lovable.dev/blog/salesforce-partnership",
+    "published": "Tue, 15 Sep 2026 16:00:00 GMT",
+    "source": "Lovable Blog",
+    "source_weight": "medium",
+    "category": "design_tools"
+  },
+  {
+    "title": "The hidden culture layer in AI",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/ai-culture-ux-design-36c7d410cd1f?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1672/1*YsoO1glOlAn8SFiqMCsHYg.png\" width=\"1672\" /></a></p><p class=\"medium-feed-snippet\">Why AI gravitates toward certain cultural defaults&#x200a;&#x2014;&#x200a;and what that means for the future of UX.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/ai-culture-ux-design-36c7d410cd1f?so",
     "url": "https://uxdesign.cc/ai-culture-ux-design-36c7d410cd1f?source=rss----138adf9c44c---4",
     "published": "Tue, 15 Sep 2026 11:13:46 GMT",
     "source": "UX Collective",
@@ -108,28 +135,10 @@
     "category": "design_communities"
   },
   {
-    "title": "Faster previews, soon powered by OJ",
-    "summary": "Lovable previews are moving to OJ, a Rust-native dev server that starts them several times faster on a fraction of the memory. We are rolling it out gradually, and today OJ is open source in the Lovable GitHub organization.",
-    "url": "https://lovable.dev/blog/faster-previews-oj",
-    "published": "Tue, 15 Sep 2026 09:00:00 GMT",
-    "source": "Lovable Blog",
-    "source_weight": "medium",
-    "category": "design_tools"
-  },
-  {
     "title": "The death of the deliverable",
     "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-death-of-the-deliverable-cbaea0123895?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1678/1*9kBhbHVmZg6lAjgW1Pof1g.png\" width=\"1678\" /></a></p><p class=\"medium-feed-snippet\">AI didn&#x2019;t kill the wireframe; it exposed that the wireframe was never really the point</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/the-death-of-the-deliverable-cbaea0123895?source=r",
     "url": "https://uxdesign.cc/the-death-of-the-deliverable-cbaea0123895?source=rss----138adf9c44c---4",
     "published": "Tue, 15 Sep 2026 05:04:14 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "8 voice AIUX patterns",
-    "summary": "<h3>8 voice AI UX patterns</h3><h4>Mapping emerging Voice AI UX patterns, perceived agent roles, key design decisions and limitations</h4><figure><img alt=\"Eight voice AI UI patterns: avatar video call, turn-by-turn interview, voice-augmented chat, voice-to-text dictation, phone call, scripted video with voice gates, co-pilot transcript, and ambient wake-word assistant, each shown as a mobile interface mockup with distinct layout and interaction affordances.\" src=\"https://cdn-images-1.medium.com",
-    "url": "https://uxdesign.cc/8-voice-aiux-patterns-81324c8feaa0?source=rss----138adf9c44c---4",
-    "published": "Thu, 10 Sep 2026 22:40:55 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
@@ -175,15 +184,6 @@
     "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/how-to-say-no-when-a-friend-asks-for-a-discount-d0e48087eb1d?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1811/1*ypJryx3y--Vk2byw32oBwA.png\" width=\"1811\" /></a></p><p class=\"medium-feed-snippet\">How thinking about price can connect to much bigger things.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/how-to-say-no-when-a-friend-asks-for-a-discount-d0e48087eb1d?sour",
     "url": "https://uxdesign.cc/how-to-say-no-when-a-friend-asks-for-a-discount-d0e48087eb1d?source=rss----138adf9c44c---4",
     "published": "Mon, 14 Sep 2026 11:20:16 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "You’re not behind. The feed is built to make you feel that way.",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/youre-not-behind-the-feed-is-built-to-make-you-feel-that-way-7719d6a967dc?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1035/1*9BofWoJ9HHua9I75cT1bbw.png\" width=\"1035\" /></a></p><p class=\"medium-feed-snippet\">Almost everyone in tech thinks the rest of the industry is further ahead. Most of them are wrong, and for the same reasons.</p><p class=\"medium-feed-link\"><a href=\"https://",
-    "url": "https://uxdesign.cc/youre-not-behind-the-feed-is-built-to-make-you-feel-that-way-7719d6a967dc?source=rss----138adf9c44c---4",
-    "published": "Fri, 11 Sep 2026 21:04:03 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"

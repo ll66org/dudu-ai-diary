@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-15T15:39:53.563409Z",
+  "fetched_at": "2026-09-16T15:31:26.476318Z",
   "total_candidates": 22,
   "source_stats": {
     "Figma Blog": {
@@ -7,8 +7,8 @@
       "total": 0
     },
     "Vercel Blog (v0)": {
-      "found": 1,
-      "total": 1575
+      "found": 0,
+      "total": 1579
     },
     "Cursor Changelog": {
       "found": 0,
@@ -24,14 +24,14 @@
     },
     "Lovable Blog": {
       "found": 1,
-      "total": 156
+      "total": 157
     },
     "Bolt (StackBlitz) Blog": {
       "found": 0,
       "total": 66
     },
     "Smashing Magazine": {
-      "found": 2,
+      "found": 1,
       "total": 40
     },
     "UX Collective": {
@@ -48,11 +48,11 @@
     },
     "A List Apart": {
       "found": 0,
-      "total": 20
+      "total": 0
     },
     "Hacker News (设计向)": {
-      "found": 2,
-      "total": 20
+      "found": 0,
+      "total": 0
     },
     "Product Hunt": {
       "found": 1,
@@ -64,27 +64,27 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 145,
-  "today_date": "2026-09-15",
+  "dudu_day": 146,
+  "today_date": "2026-09-16",
   "used_titles": [
-    "GPT-6 Astra爆火后，卡兹克谈执行能力贬值与判断力断层",
     "Anthropic 发布经济情景模型，推演 AI 对 2030 年美国就业与工资的影响",
     "DeepSeek-V4.1-Flash 上线 SiliconFlow，552B MoE 支持 1M 上下文",
     "Anthropic 威胁报告披露 Claude 被用于间谍软件、导弹与无人机研发，中国实验室大规模蒸馏提取数据",
     "Anthropic 威胁报告披露 Claude 被用于间谍软件、导弹与无人机研发，中国实验室大规模蒸馏提取数据",
     "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间",
-    "Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件"
+    "Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件",
+    "生数科技发布 Vidu S2：含 Avatar 与 Editing 双模型，探索空间视频"
   ],
   "used_tools": [
-    "公众号：数字生命卡兹克",
     "Anthropic：The Institute（旗舰研究长文 · 网页）",
     "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
     "The Decoder：AI News（RSS）",
     "The Decoder：AI News（RSS）",
     "X：Thariq (@trq212)",
-    "Hacker News：AI 热帖"
+    "Hacker News：AI 热帖",
+    "公众号：生数科技（Vidu·视频）"
   ],
-  "briefing_total": 23,
-  "briefing_design": 6,
+  "briefing_total": 27,
+  "briefing_design": 10,
   "briefing_count": 5
 }
