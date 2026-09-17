@@ -1,5 +1,5 @@
 {
-  "day_count": 146,
+  "day_count": 147,
   "history": [
     {
       "day": 20,
@@ -853,6 +853,13 @@
       "date": "2026-09-16",
       "topic": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify",
       "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "mode": "rss"
+    },
+    {
+      "day": 147,
+      "date": "2026-09-17",
+      "topic": "Unsloth 发布 Docker 镜像与 Unsloth Desktop，本地训练运行 500+ 模型",
+      "source": "X：Unsloth (@UnslothAI)",
       "mode": "rss"
     }
   ],

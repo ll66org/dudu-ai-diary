@@ -1,14 +1,14 @@
 {
-  "fetched_at": "2026-09-16T15:31:26.476318Z",
-  "total_candidates": 22,
+  "fetched_at": "2026-09-17T15:37:56.444558Z",
+  "total_candidates": 25,
   "source_stats": {
     "Figma Blog": {
       "found": 0,
       "total": 0
     },
     "Vercel Blog (v0)": {
-      "found": 0,
-      "total": 1579
+      "found": 1,
+      "total": 1582
     },
     "Cursor Changelog": {
       "found": 0,
@@ -23,7 +23,7 @@
       "total": 0
     },
     "Lovable Blog": {
-      "found": 1,
+      "found": 0,
       "total": 157
     },
     "Bolt (StackBlitz) Blog": {
@@ -48,14 +48,14 @@
     },
     "A List Apart": {
       "found": 0,
-      "total": 0
+      "total": 20
     },
     "Hacker News (设计向)": {
       "found": 0,
       "total": 0
     },
     "Product Hunt": {
-      "found": 1,
+      "found": 3,
       "total": 50
     },
     "Designer News (AI Design)": {
@@ -64,27 +64,27 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 146,
-  "today_date": "2026-09-16",
+  "dudu_day": 147,
+  "today_date": "2026-09-17",
   "used_titles": [
-    "Anthropic 发布经济情景模型，推演 AI 对 2030 年美国就业与工资的影响",
     "DeepSeek-V4.1-Flash 上线 SiliconFlow，552B MoE 支持 1M 上下文",
     "Anthropic 威胁报告披露 Claude 被用于间谍软件、导弹与无人机研发，中国实验室大规模蒸馏提取数据",
     "Anthropic 威胁报告披露 Claude 被用于间谍软件、导弹与无人机研发，中国实验室大规模蒸馏提取数据",
     "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间",
     "Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件",
-    "生数科技发布 Vidu S2：含 Avatar 与 Editing 双模型，探索空间视频"
+    "生数科技发布 Vidu S2：含 Avatar 与 Editing 双模型，探索空间视频",
+    "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify"
   ],
   "used_tools": [
-    "Anthropic：The Institute（旗舰研究长文 · 网页）",
     "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
     "The Decoder：AI News（RSS）",
     "The Decoder：AI News（RSS）",
     "X：Thariq (@trq212)",
     "Hacker News：AI 热帖",
-    "公众号：生数科技（Vidu·视频）"
+    "公众号：生数科技（Vidu·视频）",
+    "OpenAI：官网动态（RSS · 排除企业/客户案例）"
   ],
-  "briefing_total": 27,
-  "briefing_design": 10,
+  "briefing_total": 29,
+  "briefing_design": 13,
   "briefing_count": 5
 }

@@ -1,10 +1,64 @@
 [
   {
-    "title": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify",
-    "summary": "OpenAI 为 ChatGPT Ads 推出多项 AI 驱动的新体验。Sponsored Agents 允许用户在点击广告后与明确标识的商业赞助智能体对话，目前在美国部分广告主中测试。",
-    "url": "https://openai.com/index/reimagining-advertising-with-ai",
-    "published": "2026-09-16T13:00:00.000Z",
-    "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+    "title": "Unsloth 发布 Docker 镜像与 Unsloth Desktop，本地训练运行 500+ 模型",
+    "summary": "Unsloth 宣布可使用其 Docker 镜像本地训练和运行 500+ 模型，提供新 GUI 和 notebooks 工作流，无需配置，支持 NVIDIA 和 AMD，指南见 https://unsloth.ai/docs/get-started/install/docker。",
+    "url": "https://x.com/UnslothAI/status/2100601458458804381",
+    "published": "2026-09-17T15:03:09.000Z",
+    "source": "X：Unsloth (@UnslothAI)",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "Amy by Jellyfish",
+    "summary": "<p>\n            Your AI sourcing employee for recruiting teams\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/amy-by-jellyfish?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1252998?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/amy-by-jellyfish",
+    "published": "2026-09-16T22:23:24-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Anthropic 将 Claude Cowork 与聊天合并为统一的 Claude，并推出 Docs、Slides 等功能",
+    "summary": "Anthropic 宣布 Claude Cowork 与聊天合并为一个 Claude，任务无需再选择入口，Cowork 和 Design 的能力可在任意对话中使用，未来几周内向 Pro 和 Max 计划推出。",
+    "url": "https://claude.com/blog/cowork-is-now-claude",
+    "published": "2026-09-16T16:51:45.914Z",
+    "source": "Claude：Blog（网页）",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF",
+    "summary": "Anthropic 的 Boris Cherny 宣布 Claude Docs、Claude Slides 和 Claude Design 已进入每段对话，直接在聊天中生成演示、文档和设计。生成的演示可打开、编辑并导出为 PowerPoint 或 PDF，无需跳转到单独工具。",
+    "url": "https://x.com/bcherny/status/2100260544087535639",
+    "published": "2026-09-16T16:28:29.000Z",
+    "source": "X：Boris Cherny (@bcherny)",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "The Forge by Bob's Workshop",
+    "summary": "<p>\n            Describe your idea & your team builds, deploys & operates it\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/the-forge-by-bob-s-workshop?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1252792?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/the-forge-by-bob-s-workshop",
+    "published": "2026-09-16T15:42:59-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Bitrise Remote Dev Environments",
+    "summary": "<p>\n            Cloud Macs your coding agents can actually build on\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/bitrise?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1252540?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/bitrise",
+    "published": "2026-09-16T09:33:13-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Grok Build 推出记忆功能，可跨会话保留项目约定与决策",
+    "summary": "xAI 宣布 Grok Build 上线记忆功能，会在每轮对话结束后于后台记录项目约定、决策及事实，供后续会话读取。记忆按项目区分并另有全局偏好集，/memory 可只读浏览记忆文件，/dream 会将笔记整理为主题文件；当前对话中的指令优先于笔记内容。",
+    "url": "https://x.ai/news/grok-build-memory",
+    "published": "2026-09-16T00:00:00.000Z",
+    "source": "xAI：News（网页）",
     "source_weight": "high",
     "category": "ai-products"
   },
@@ -27,15 +81,6 @@
     "category": "industry"
   },
   {
-    "title": "Claude for Small Business 新增 43 个工作流和 27 个集成，并推出免费培训计划",
-    "summary": "Anthropic 为 Claude for Small Business 新增 43 个工作流和 27 个集成，覆盖 Shopify、Salesforce、Stripe、Gusto 等，该产品自 5 月上线以来安装量超过 90 万次。工作流默认处于审批模式，所有发送、发布或付款需用户确认；今秋将在 10 个美国城市举办免费工作坊，14 个集成伙伴从 9 月底到 11 月各举办一场免费网络研讨会。",
-    "url": "https://claude.com/blog/claude-for-small-business-launches-new-workflows-integrations-and-training-programs",
-    "published": "2026-09-15T17:21:21.489Z",
-    "source": "Claude：Blog（网页）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
     "title": "Google DeepMind 发布 Gemini 3.8 Live 和 3.8 Live Extended Thinking",
     "summary": "Google DeepMind 发布 Gemini 3.8 Live 与 Gemini 3.8 Live Extended Thinking 两个近实时语音对话模型，主打语音智能体和复杂任务执行。",
     "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking",
@@ -52,15 +97,6 @@
     "source": "Trail of Bits：AI安全研究",
     "source_weight": "high",
     "category": "tip"
-  },
-  {
-    "title": "Project Feed",
-    "summary": "<p>\n            Project management with built-in file review\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/project-feed?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1251559?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/project-feed",
-    "published": "2026-09-15T09:35:49-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
   },
   {
     "title": "Apple 发布新一代 Apple Intelligence，Siri AI 正式以测试版上线",
@@ -81,13 +117,22 @@
     "category": "ai-models"
   },
   {
-    "title": "Anthropic 工程师复盘：智能体编程压力下如何扩展测试影响分析服务",
-    "summary": "Anthropic 工程师撰文分享如何在智能体编程压力下扩展测试影响分析服务。Claude 编写约 80% 的代码，测试数量增长 10x，六个月内 CI 任务增加 25x。文章复盘了三个临时补丁（扩容、按包分片、每日重启）分别只维持 70 天、29 天和不到一天，最终用三周重设计为无状态、内存存储加 journal 的可水平扩展架构，并建议团队按两季度内 25x 负载做容量规划。",
-    "url": "https://claude.com/blog/agentic-coding-is-straining-ci-heres-how-we-scaled-test-impact-analysis-at-anthropic",
-    "published": "2026-09-13T16:00:00.000Z",
+    "title": "Claude for Small Business 新增 43 个 workflow 与 27 个集成",
+    "summary": "Anthropic 为 Claude for Small Business 新增 43 个 workflow 和 27 个集成，覆盖 Shopify、Salesforce、TikTok、Zoom、Stripe、Zapier 等工具，该产品自 5 月上线以来安装量超过 90 万次。",
+    "url": "https://claude.com/blog/claude-for-small-business-launches-new-workflows-integrations-and-training-programs",
+    "published": "2026-09-14T16:00:00.000Z",
     "source": "Claude：Blog（网页）",
     "source_weight": "high",
-    "category": "tip"
+    "category": "ai-products"
+  },
+  {
+    "title": "Secure Compute and Static IP builds start 64% faster",
+    "summary": "<p>Builds using <a href=\"https://vercel.com/docs/networking/secure-compute\">Secure Compute</a> or <a href=\"https://vercel.com/docs/networking/static-ips\">Static IPs</a> now start 64% faster, with the average time from deployment creation to build start dropping from 6.7 seconds to 2.4 seconds.</p><p>Previously, each build waited for a new build container to boot with its network configuration. These builds now use prewarmed build containers, with your network configuration attached when the buil",
+    "url": "https://vercel.com/changelog/secure-compute-and-static-ip-builds-start-64-faster",
+    "published": "",
+    "source": "Vercel Blog (v0)",
+    "source_weight": "high",
+    "category": "design_tools"
   },
   {
     "title": "What Shakespeare got wrong about AI",
@@ -106,15 +151,6 @@
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
-  },
-  {
-    "title": "Lovable + Salesforce: build the apps your team needs, where your team already works",
-    "summary": "Lovable now works with Salesforce so the apps and agents your team builds run wherever your team already works: Headless 360, Slack, and installable agents.",
-    "url": "https://lovable.dev/blog/salesforce-partnership",
-    "published": "Tue, 15 Sep 2026 16:00:00 GMT",
-    "source": "Lovable Blog",
-    "source_weight": "medium",
-    "category": "design_tools"
   },
   {
     "title": "The hidden culture layer in AI",
@@ -144,10 +180,10 @@
     "category": "design_communities"
   },
   {
-    "title": "The real reason everyone hates the viral AI food slop images",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/why-people-hate-viral-ai-food-posters-db2b4329ae11?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1536/1*AA2ei_pRPKcktJeiJzFcfw.png\" width=\"1536\" /></a></p><p class=\"medium-feed-snippet\">We&#x2019;ve always made food look better than it is. So why does it feel different when AI does it?</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/why-people-hate-viral-ai-food-post",
-    "url": "https://uxdesign.cc/why-people-hate-viral-ai-food-posters-db2b4329ae11?source=rss----138adf9c44c---4",
-    "published": "Sat, 12 Sep 2026 21:40:38 GMT",
+    "title": "Lost dog—or lost designer?",
+    "summary": "<h4>Why the ethics of AI-generated design depend on context, intention, and consequence</h4><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*ZitKQGiwfpPEeKDf9pS7lw.png\" /><figcaption>Image: Generated with ChatGPT using a one-shot prompt</figcaption></figure><p>I recently saw a missing-dog poster that caught my attention because it was the first time I had seen one clearly made with AI. <a href=\"https://www.creativebloq.com/design/graphic-design/graphic-designers-are-trying-to-",
+    "url": "https://uxdesign.cc/lost-dog-or-lost-designer-d5de922e54d9?source=rss----138adf9c44c---4",
+    "published": "Thu, 17 Sep 2026 04:31:32 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
@@ -185,15 +221,6 @@
     "url": "https://uxdesign.cc/how-to-say-no-when-a-friend-asks-for-a-discount-d0e48087eb1d?source=rss----138adf9c44c---4",
     "published": "Mon, 14 Sep 2026 11:20:16 GMT",
     "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Building A UX ROI Case That Survives The Boardroom",
-    "summary": "Strong UX ideas do not secure investment on their own. Through a worked example, Alex Williams breaks down how to define business value, calculate costs, test causality, and build a credible case for the return on a design initiative. - UX - Design - Business",
-    "url": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/",
-    "published": "Fri, 11 Sep 2026 13:00:00 GMT",
-    "source": "Smashing Magazine",
     "source_weight": "medium",
     "category": "design_communities"
   }
