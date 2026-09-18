@@ -1,30 +1,84 @@
 [
   {
-    "title": "Unsloth 发布 Docker 镜像与 Unsloth Desktop，本地训练运行 500+ 模型",
-    "summary": "Unsloth 宣布可使用其 Docker 镜像本地训练和运行 500+ 模型，提供新 GUI 和 notebooks 工作流，无需配置，支持 NVIDIA 和 AMD，指南见 https://unsloth.ai/docs/get-started/install/docker。",
-    "url": "https://x.com/UnslothAI/status/2100601458458804381",
-    "published": "2026-09-17T15:03:09.000Z",
-    "source": "X：Unsloth (@UnslothAI)",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Amy by Jellyfish",
-    "summary": "<p>\n            Your AI sourcing employee for recruiting teams\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/amy-by-jellyfish?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1252998?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/amy-by-jellyfish",
-    "published": "2026-09-16T22:23:24-07:00",
-    "source": "Product Hunt",
+    "title": "I built Anchor. The open-source ontology layer for AI agents",
+    "summary": "<p>Article URL: <a href=\"https://github.com/trybacked/anchor\">https://github.com/trybacked/anchor</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49755135\">https://news.ycombinator.com/item?id=49755135</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://github.com/trybacked/anchor",
+    "published": "Fri, 18 Sep 2026 14:43:52 +0000",
+    "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Anthropic 将 Claude Cowork 与聊天合并为统一的 Claude，并推出 Docs、Slides 等功能",
-    "summary": "Anthropic 宣布 Claude Cowork 与聊天合并为一个 Claude，任务无需再选择入口，Cowork 和 Design 的能力可在任意对话中使用，未来几周内向 Pro 和 Max 计划推出。",
-    "url": "https://claude.com/blog/cowork-is-now-claude",
-    "published": "2026-09-16T16:51:45.914Z",
+    "title": "The new CC, an AI agent built for families",
+    "summary": "<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/\">https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49754898\">https://news.ycombinator.com/item?id=49754898</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/",
+    "published": "Fri, 18 Sep 2026 14:25:59 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Don't Design Your Emails (2016)",
+    "summary": "<p>Article URL: <a href=\"https://www.gkogan.co/dont-design-emails/\">https://www.gkogan.co/dont-design-emails/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49754882\">https://news.ycombinator.com/item?id=49754882</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://www.gkogan.co/dont-design-emails/",
+    "published": "Fri, 18 Sep 2026 14:25:15 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "研究团队用 Claude Opus 5 入侵 OpenAI，获 6500 美元漏洞赏金",
+    "summary": "Hacktron AI 三人团队在 OpenAI 漏洞赏金计划中利用 Claude Opus 5 发现并串联两个严重漏洞，接管多个 OpenAI 员工 ChatGPT 账户，获 6500 美元奖金，OpenAI 表示已修复。",
+    "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai",
+    "published": "2026-09-18T14:00:14.000Z",
+    "source": "TechCrunch：AI（RSS）",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "TypeSafe AI 发布只做高频决策的大模型 Jev，作者实测其分类判断性价比",
+    "summary": "TypeSafe AI 推出专注高频决策的大模型 Jev，不做对话和文字生成，只输出判断，速度比传统大模型快20~200倍，成本0.042美元/百万Token且输出Token免费。作者实测预筛任务中Jev准确性第二且更便宜，在并行判断任务上达到最高准确率和最快速度；模型采用RLCD训练方法优化决策校准，可在官网 https://typesafe.ai/ 申请资格，Vercel 已首发接入。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686475&idx=1&sn=1d9d43036b6d72fd83b9d5658b351215",
+    "published": "2026-09-18T00:08:00.000Z",
+    "source": "公众号：数字生命卡兹克",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "纽约时报诉 OpenAI 案新解封文件：微软与 OpenAI 内部承认 LLM 建立在窃取之上并引发 Doom Loop",
+    "summary": "纽约时报诉 OpenAI 版权诉讼中一份未删节法庭文件解封，收录微软与 OpenAI 高管的多项内部承认，称 LLM 建立在被微软高管称为空前规模盗窃的内容之上，并引发摧毁整个 web 的 doom loop。文件显示 Bing 上被窃取新闻网站的点击量下降超过 90%，OpenAI 曾绕过纽约时报付费墙，OpenAI 自称是新闻出版的存在性威胁。",
+    "url": "https://www.404media.co/doom-loop-openai-and-microsoft-admits-llms-are-destroying-the-web-and-built-on-theft",
+    "published": "2026-09-17T22:01:43.000Z",
+    "source": "404 Media（RSS）",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "Anthropic 用 Claude 优化 30 多个开源生物分子模型，平均提速约 4 倍并开源全部代码",
+    "summary": "Anthropic 发布研究，让 Claude 在不到四周内优化了 30 多个开源生物分子模型，平均提速约 4 倍，输出完全一致时约 2 倍。",
+    "url": "https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling",
+    "published": "2026-09-17T19:49:41.095Z",
+    "source": "Anthropic：Research（发表成果 · 网页）",
+    "source_weight": "high",
+    "category": "paper"
+  },
+  {
+    "title": "Claude Code 重构 Projects：从文件夹变为可托管多线程的对话式项目",
+    "summary": "Anthropic 重构 Claude Code 的 Projects，用户设定目标后由 Claude 拆解任务、并行调度多个线程、审查输出并汇总结果，线程本质上是各自独立分支的 Claude Code 云端会话。",
+    "url": "https://claude.com/blog/projects-redesigned",
+    "published": "2026-09-17T17:52:08.951Z",
     "source": "Claude：Blog（网页）",
     "source_weight": "high",
     "category": "ai-products"
+  },
+  {
+    "title": "DeepSeek-V4.1-Flash 发布：552B MoE 多模态模型主打 KV cache 压缩",
+    "summary": "DeepSeek 发布 DeepSeek-V4.1-Flash，一个 552B 参数的多模态 MoE 模型，支持最长 100 万 token 上下文，模型权重已在 Hugging Face 开放。",
+    "url": "https://arxiv.org/abs/2609.19969",
+    "published": "2026-09-17T00:00:00.000Z",
+    "source": "HuggingFace Daily Papers（社区热门论文）",
+    "source_weight": "high",
+    "category": "ai-models"
   },
   {
     "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF",
@@ -36,22 +90,13 @@
     "category": "ai-products"
   },
   {
-    "title": "The Forge by Bob's Workshop",
-    "summary": "<p>\n            Describe your idea & your team builds, deploys & operates it\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/the-forge-by-bob-s-workshop?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1252792?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/the-forge-by-bob-s-workshop",
-    "published": "2026-09-16T15:42:59-07:00",
-    "source": "Product Hunt",
+    "title": "蚂蚁 inclusionAI 开源 Realtime-Venus 全双工交互系统",
+    "summary": "蚂蚁集团 Venus 团队与清华大学在 GitHub 开源 Realtime-Venus，一个支持全双工对话与异步任务委托的实时交互系统。系统包含三个组件：Realtime-Venus-Omni（9B，流式音视频对话与主动交互）、Realtime-Venus-Audio（9B，语音交互与音频理解）以及负责后台任务执行并将结果返回同一对话的 Harness 运行时。",
+    "url": "https://github.com/inclusionAI/Realtime-Venus",
+    "published": "2026-09-16T07:57:55.000Z",
+    "source": "蚂蚁 inclusionAI：GitHub 新仓库",
     "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Bitrise Remote Dev Environments",
-    "summary": "<p>\n            Cloud Macs your coding agents can actually build on\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/bitrise?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1252540?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/bitrise",
-    "published": "2026-09-16T09:33:13-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
+    "category": "ai-products"
   },
   {
     "title": "Grok Build 推出记忆功能，可跨会话保留项目约定与决策",
@@ -90,45 +135,45 @@
     "category": "ai-models"
   },
   {
-    "title": "Trail of Bits 批评 1Password 的 AI 补丁基准存在误导，并发布两个补丁验证 Agent 技能",
-    "summary": "Trail of Bits 发文批评 1Password 8月6日发布的 FLAWED 报告，称其 26% 的 AI 干净修复率受四项实验设计选择影响而失真，包括刻意指示智能体应用错误修复的提示词占 22% 数据、36% 的试验禁止编译测试，以及不同推理档位设置。",
-    "url": "https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading",
-    "published": "2026-09-15T11:00:00.000Z",
-    "source": "Trail of Bits：AI安全研究",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "Apple 发布新一代 Apple Intelligence，Siri AI 正式以测试版上线",
-    "summary": "Apple 发布新一代 Apple Intelligence，推出全面重构的 Siri AI，支持个人语境理解、屏幕感知、系统级应用操作和跨设备对话，今日起以英文测试版随 2027 系统更新推出，下月扩展至法语、日语、韩语、葡萄牙语和西班牙语。",
-    "url": "https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here",
-    "published": "2026-09-14T17:09:41.324Z",
-    "source": "Apple：Newsroom（RSS）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "硅基流动上线开源模型 Hy4 preview，770B 总参数、1M 上下文",
-    "summary": "硅基流动（SiliconFlow）宣布开源模型 Hy4 preview 上线其平台。该模型总参数 770B、每 token 激活 49B、支持 1M 上下文，采用 Apache 2.0 协议，面向编码、分析、研究和复杂实际工作。用户可将其接入 Claude Code、Codex、Cursor 等已有工具；图片显示定价为每 1M tokens 输入 $0.834、输出 $2.501、缓存 $0.042。",
-    "url": "https://x.com/SiliconFlowAI/status/2099536759168352634",
-    "published": "2026-09-14T16:32:25.000Z",
-    "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "Claude for Small Business 新增 43 个 workflow 与 27 个集成",
-    "summary": "Anthropic 为 Claude for Small Business 新增 43 个 workflow 和 27 个集成，覆盖 Shopify、Salesforce、TikTok、Zoom、Stripe、Zapier 等工具，该产品自 5 月上线以来安装量超过 90 万次。",
-    "url": "https://claude.com/blog/claude-for-small-business-launches-new-workflows-integrations-and-training-programs",
-    "published": "2026-09-14T16:00:00.000Z",
+    "title": "Anthropic 将 Claude Cowork 与聊天合并为统一 Claude，并推出 Docs 和 Slides",
+    "summary": "Anthropic 宣布 Claude Cowork 与聊天合并为一个 Claude，任务无需再选择入口，Cowork 和 Design 的能力可在任意对话中使用，并沿用已有的上下文、skills 和 connectors。",
+    "url": "https://claude.com/blog/cowork-is-now-claude",
+    "published": "2026-09-15T16:00:00.000Z",
     "source": "Claude：Blog（网页）",
     "source_weight": "high",
     "category": "ai-products"
   },
   {
-    "title": "Secure Compute and Static IP builds start 64% faster",
-    "summary": "<p>Builds using <a href=\"https://vercel.com/docs/networking/secure-compute\">Secure Compute</a> or <a href=\"https://vercel.com/docs/networking/static-ips\">Static IPs</a> now start 64% faster, with the average time from deployment creation to build start dropping from 6.7 seconds to 2.4 seconds.</p><p>Previously, each build waited for a new build container to boot with its network configuration. These builds now use prewarmed build containers, with your network configuration attached when the buil",
-    "url": "https://vercel.com/changelog/secure-compute-and-static-ip-builds-start-64-faster",
+    "title": "GLM 5.3 FlashX now available on AI Gateway",
+    "summary": "<p><a href=\"https://vercel.com/ai-gateway/models/glm-5.3-flashx\">GLM 5.3 FlashX</a> is now available on AI Gateway.</p><p>GLM 5.3 FlashX is a high-speed serving option for Z.ai's multimodal coding model, delivering inference at ~200 tokens per second for faster streamed responses.</p><p>The higher serving speed is useful for coding agents, tool loops, and interactive applications where users wait on generated output.</p><p>Use <code>zai/glm-5.3-flashx</code> across API formats and in coding agen",
+    "url": "https://vercel.com/changelog/glm-5-3-flashx-now-available-on-ai-gateway",
+    "published": "",
+    "source": "Vercel Blog (v0)",
+    "source_weight": "high",
+    "category": "design_tools"
+  },
+  {
+    "title": "Sub-second artifact deployments are now supported in Vercel CLI",
+    "summary": "<p>You and your agents can now deploy static artifacts to Vercel in under one second through Vercel CLI. </p><p>Run <code>vercel deploy</code> to share a prototype, publish an HTML report, or preview a page created by your coding agent. </p><div></div><p>Vercel automatically detects eligible deployments, and valid artifacts will skip the build step, immediately returning a live URL.</p><p>Instant deployments support directories with: </p><ul><li><p>Up to 10 HTML or Markdown files</p></li><li><p>",
+    "url": "https://vercel.com/changelog/sub-second-artifact-deployments-are-now-supported-in-vercel-cli",
+    "published": "",
+    "source": "Vercel Blog (v0)",
+    "source_weight": "high",
+    "category": "design_tools"
+  },
+  {
+    "title": "Turbo build machines can now be enabled per deployment",
+    "summary": "<p>You can now opt into Turbo build machines on any individual deployment. This is useful when you need to increase resources temporarily without changing project settings. You can do this in three ways:</p><ol><li><p>Include <code>#VERCEL_BUILD_MACHINE=TURBO</code> in your Git commit message before pushing to GitHub</p></li><li><p>Use <code>vc deploy --turbo</code> (Vercel CLI 59.20.0 or later)</p></li><li><p>Set <code>buildMachine</code> to <code>turbo</code> when creating a deployment with <a",
+    "url": "https://vercel.com/changelog/turbo-build-machines-can-now-be-enabled-per-deployment",
+    "published": "",
+    "source": "Vercel Blog (v0)",
+    "source_weight": "high",
+    "category": "design_tools"
+  },
+  {
+    "title": "The skills CLI now supports Notion hosted skills",
+    "summary": "<p><code>skills@1.7.0</code> adds <a href=\"https://developers.notion.com/guides/agent-skills/overview\">Notion skills databases</a> as an install source for agent skills .</p><p>Notion skills are reusable agent skills written as Notion pages. Teams author, review, and update them in the workspace they already use, then install them into any agent the skills CLI supports. No Git repository required.</p><p>To browse your Notion workspace's skills, run:</p><div></div><p>The CLI lists the skill packs",
+    "url": "https://vercel.com/changelog/skills-cli-notion-skills",
     "published": "",
     "source": "Vercel Blog (v0)",
     "source_weight": "high",
@@ -171,55 +216,10 @@
     "category": "design_communities"
   },
   {
-    "title": "The death of the deliverable",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-death-of-the-deliverable-cbaea0123895?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1678/1*9kBhbHVmZg6lAjgW1Pof1g.png\" width=\"1678\" /></a></p><p class=\"medium-feed-snippet\">AI didn&#x2019;t kill the wireframe; it exposed that the wireframe was never really the point</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/the-death-of-the-deliverable-cbaea0123895?source=r",
-    "url": "https://uxdesign.cc/the-death-of-the-deliverable-cbaea0123895?source=rss----138adf9c44c---4",
-    "published": "Tue, 15 Sep 2026 05:04:14 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Lost dog—or lost designer?",
-    "summary": "<h4>Why the ethics of AI-generated design depend on context, intention, and consequence</h4><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*ZitKQGiwfpPEeKDf9pS7lw.png\" /><figcaption>Image: Generated with ChatGPT using a one-shot prompt</figcaption></figure><p>I recently saw a missing-dog poster that caught my attention because it was the first time I had seen one clearly made with AI. <a href=\"https://www.creativebloq.com/design/graphic-design/graphic-designers-are-trying-to-",
-    "url": "https://uxdesign.cc/lost-dog-or-lost-designer-d5de922e54d9?source=rss----138adf9c44c---4",
-    "published": "Thu, 17 Sep 2026 04:31:32 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "The UX Double Diamond is dead, and in AI only one survives for software",
-    "summary": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*euuE3WVu4wLT_et8GeAE-g.png\" /><figcaption>Two diamonds drawn for a world where the second one cost real money.</figcaption></figure><h4><em>Both the double diamond and design thinking priced building as the risky step, and that price collapsed. What’s left is a one-page brief and a wider generation step.</em></h4><p>The Design Council <a href=\"https://www.designcouncil.org.uk/resources/framework-for-innovation/\">launched the Dou",
-    "url": "https://uxdesign.cc/the-ux-double-diamond-is-dead-and-in-ai-only-one-survives-for-software-heres-how-to-adapt-f63b57c524ed?source=rss----138adf9c44c---4",
-    "published": "Mon, 14 Sep 2026 18:52:50 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "For the Designless",
-    "summary": "<h4>On the value of cultural references, and the cost of losing them at scale.</h4><figure><img alt=\"Photograph of a wall with assorted handmade and amateur flyers\" src=\"https://cdn-images-1.medium.com/max/1024/1*asFjjhgMniVxw6l-Vnt1FQ.jpeg\" /><figcaption>Photo by <a href=\"https://unsplash.com/@thoutbox\">Yonghyun Lee</a> on Unplash</figcaption></figure><p>A designer is not an artist. A designer is a commercial problem-solver, hired to take a client’s half-formed intent — a vibe, a feeling, a vag",
-    "url": "https://uxdesign.cc/for-the-designless-0d3e7936a70c?source=rss----138adf9c44c---4",
-    "published": "Mon, 14 Sep 2026 13:59:28 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Five eras of UX, First drafts, Logos made of data, Voice AIUX patterns",
-    "summary": "<h4>Weekly curated resources for designers — thinkers and makers.</h4><figure><a href=\"https://uxdesign.cc/five-eras-of-ux-design-and-the-lessons-to-keep-in-the-ai-era-d76a548747a9\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/0*m-gEy9TNe-QWb5OK.png\" /></a></figure><p>“There are two famous lines about history, and UX earns both. George Santayana wrote that those who cannot remember the past are condemned to repeat it. The version usually credited to Mark Twain is gentler: history do",
-    "url": "https://uxdesign.cc/five-eras-of-ux-first-drafts-logos-made-of-data-voice-aiux-patterns-7b326c9aba4a?source=rss----138adf9c44c---4",
-    "published": "Mon, 14 Sep 2026 11:26:18 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "How—and why—to say no when a friend asks for a discount",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/how-to-say-no-when-a-friend-asks-for-a-discount-d0e48087eb1d?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1811/1*ypJryx3y--Vk2byw32oBwA.png\" width=\"1811\" /></a></p><p class=\"medium-feed-snippet\">How thinking about price can connect to much bigger things.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/how-to-say-no-when-a-friend-asks-for-a-discount-d0e48087eb1d?sour",
-    "url": "https://uxdesign.cc/how-to-say-no-when-a-friend-asks-for-a-discount-d0e48087eb1d?source=rss----138adf9c44c---4",
-    "published": "Mon, 14 Sep 2026 11:20:16 GMT",
+    "title": "Please don’t stretch your app for foldables",
+    "summary": "<h4>What happens when the screen isn’t a fixed constraint?</h4><p>Foldables have existed in the market since 2019 with the Samsung Galaxy Fold, but it’s really only been an “Android thing.” And if your app primarily serves the U.S. market (where most smartphones are iOS), foldables haven’t been a priority to design for. Even with an Android customer base, only a small percentage of those devices are foldables.</p><p>But this foldable conversation is different now with Apple’s iPhone Duo announce",
+    "url": "https://uxdesign.cc/please-dont-stretch-your-app-for-foldables-a62f1f8230ac?source=rss----138adf9c44c---4",
+    "published": "Thu, 17 Sep 2026 21:34:12 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
