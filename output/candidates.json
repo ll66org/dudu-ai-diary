@@ -1,39 +1,21 @@
 [
   {
-    "title": "I built Anchor. The open-source ontology layer for AI agents",
-    "summary": "<p>Article URL: <a href=\"https://github.com/trybacked/anchor\">https://github.com/trybacked/anchor</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49755135\">https://news.ycombinator.com/item?id=49755135</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://github.com/trybacked/anchor",
-    "published": "Fri, 18 Sep 2026 14:43:52 +0000",
-    "source": "Hacker News (设计向)",
+    "title": "《纽约时报》等媒体提交简要判决动议，援引 OpenAI 与微软高管内部言论质疑合理使用抗辩",
+    "summary": "《纽约时报》、Daily News 集团、Ziff Davis 等媒体公司向纽约联邦法院提交92页简要判决动议，就 AI 训练版权侵权向 OpenAI 和微软索赔数十亿美元，并援引此前未披露的内部邮件和宣誓证词。",
+    "url": "https://the-decoder.com/ai-training-built-on-fair-use-looks-shaky-when-the-companies-own-people-call-it-astonishing-theft",
+    "published": "2026-09-18T15:27:29.000Z",
+    "source": "The Decoder：AI News（RSS）",
     "source_weight": "high",
-    "category": "ai_tech"
+    "category": "industry"
   },
   {
-    "title": "The new CC, an AI agent built for families",
-    "summary": "<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/\">https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49754898\">https://news.ycombinator.com/item?id=49754898</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/",
-    "published": "Fri, 18 Sep 2026 14:25:59 +0000",
-    "source": "Hacker News (设计向)",
+    "title": "Qwen 发布 Qwen3.8-LiveTranslate 实时同传模型，LAAL 降至 2.3 秒",
+    "summary": "Qwen 发布 Qwen3.8-LiveTranslate，采用 Interleave 架构与 Hybrid-MoE Thinker-Talker 设计重构实时同声传译，平均滞后（LAAL）从上一代的 2.8 秒降至 2.3 秒。",
+    "url": "https://qwen.ai/blog?id=qwen3.8-livetranslate",
+    "published": "2026-09-18T09:30:00.000Z",
+    "source": "Qwen：Blog Retrieval（API）",
     "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Don't Design Your Emails (2016)",
-    "summary": "<p>Article URL: <a href=\"https://www.gkogan.co/dont-design-emails/\">https://www.gkogan.co/dont-design-emails/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49754882\">https://news.ycombinator.com/item?id=49754882</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://www.gkogan.co/dont-design-emails/",
-    "published": "Fri, 18 Sep 2026 14:25:15 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "研究团队用 Claude Opus 5 入侵 OpenAI，获 6500 美元漏洞赏金",
-    "summary": "Hacktron AI 三人团队在 OpenAI 漏洞赏金计划中利用 Claude Opus 5 发现并串联两个严重漏洞，接管多个 OpenAI 员工 ChatGPT 账户，获 6500 美元奖金，OpenAI 表示已修复。",
-    "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai",
-    "published": "2026-09-18T14:00:14.000Z",
-    "source": "TechCrunch：AI（RSS）",
-    "source_weight": "high",
-    "category": "tip"
+    "category": "ai-models"
   },
   {
     "title": "TypeSafe AI 发布只做高频决策的大模型 Jev，作者实测其分类判断性价比",
@@ -45,6 +27,15 @@
     "category": "tip"
   },
   {
+    "title": "OpenRouter 实测 20 个图像生成模型的成本、编辑与质量",
+    "summary": "OpenRouter 对其路由的 20 个图像生成模型用相同提示词实测计费，单张图片成本在 $0.006 到 $0.134 之间，相差 22 倍。",
+    "url": "https://openrouter.ai/blog/insights/image-generation-models-compared",
+    "published": "2026-09-18T00:00:00.000Z",
+    "source": "OpenRouter：Announcements（RSS）",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
     "title": "纽约时报诉 OpenAI 案新解封文件：微软与 OpenAI 内部承认 LLM 建立在窃取之上并引发 Doom Loop",
     "summary": "纽约时报诉 OpenAI 版权诉讼中一份未删节法庭文件解封，收录微软与 OpenAI 高管的多项内部承认，称 LLM 建立在被微软高管称为空前规模盗窃的内容之上，并引发摧毁整个 web 的 doom loop。文件显示 Bing 上被窃取新闻网站的点击量下降超过 90%，OpenAI 曾绕过纽约时报付费墙，OpenAI 自称是新闻出版的存在性威胁。",
     "url": "https://www.404media.co/doom-loop-openai-and-microsoft-admits-llms-are-destroying-the-web-and-built-on-theft",
@@ -52,24 +43,6 @@
     "source": "404 Media（RSS）",
     "source_weight": "high",
     "category": "tip"
-  },
-  {
-    "title": "Anthropic 用 Claude 优化 30 多个开源生物分子模型，平均提速约 4 倍并开源全部代码",
-    "summary": "Anthropic 发布研究，让 Claude 在不到四周内优化了 30 多个开源生物分子模型，平均提速约 4 倍，输出完全一致时约 2 倍。",
-    "url": "https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling",
-    "published": "2026-09-17T19:49:41.095Z",
-    "source": "Anthropic：Research（发表成果 · 网页）",
-    "source_weight": "high",
-    "category": "paper"
-  },
-  {
-    "title": "Claude Code 重构 Projects：从文件夹变为可托管多线程的对话式项目",
-    "summary": "Anthropic 重构 Claude Code 的 Projects，用户设定目标后由 Claude 拆解任务、并行调度多个线程、审查输出并汇总结果，线程本质上是各自独立分支的 Claude Code 云端会话。",
-    "url": "https://claude.com/blog/projects-redesigned",
-    "published": "2026-09-17T17:52:08.951Z",
-    "source": "Claude：Blog（网页）",
-    "source_weight": "high",
-    "category": "ai-products"
   },
   {
     "title": "DeepSeek-V4.1-Flash 发布：552B MoE 多模态模型主打 KV cache 压缩",
@@ -90,90 +63,36 @@
     "category": "ai-products"
   },
   {
-    "title": "蚂蚁 inclusionAI 开源 Realtime-Venus 全双工交互系统",
-    "summary": "蚂蚁集团 Venus 团队与清华大学在 GitHub 开源 Realtime-Venus，一个支持全双工对话与异步任务委托的实时交互系统。系统包含三个组件：Realtime-Venus-Omni（9B，流式音视频对话与主动交互）、Realtime-Venus-Audio（9B，语音交互与音频理解）以及负责后台任务执行并将结果返回同一对话的 Harness 运行时。",
-    "url": "https://github.com/inclusionAI/Realtime-Venus",
-    "published": "2026-09-16T07:57:55.000Z",
-    "source": "蚂蚁 inclusionAI：GitHub 新仓库",
+    "title": "Anthropic：Claude 四周优化 30 多个开源生物分子模型，平均提速约 4 倍并开源代码",
+    "summary": "Anthropic 让 Claude 在不到四周内优化了超过 30 个开源生物分子模型，平均提速约 4 倍、精度损失极小，输出完全一致时也有近 2 倍加速。优化代码全部开源，还推出低内存 Big 模式，可在单张 NVIDIA GPU 节点上对超过 10，000 token 的生物分子系统做准确预测。",
+    "url": "https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling",
+    "published": "2026-09-16T16:00:00.000Z",
+    "source": "Anthropic：Research（发表成果 · 网页）",
     "source_weight": "high",
-    "category": "ai-products"
+    "category": "paper"
   },
   {
-    "title": "Grok Build 推出记忆功能，可跨会话保留项目约定与决策",
-    "summary": "xAI 宣布 Grok Build 上线记忆功能，会在每轮对话结束后于后台记录项目约定、决策及事实，供后续会话读取。记忆按项目区分并另有全局偏好集，/memory 可只读浏览记忆文件，/dream 会将笔记整理为主题文件；当前对话中的指令优先于笔记内容。",
-    "url": "https://x.ai/news/grok-build-memory",
-    "published": "2026-09-16T00:00:00.000Z",
-    "source": "xAI：News（网页）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Arena 更新 Image-to-WebDev 榜单：GPT-6 Astra 以 1733 分登顶",
-    "summary": "Arena 更新 Image-to-WebDev 排行榜，纳入四个新评测模型。GPT-6 Astra （Max） 以 1733 分居第一，领先 GPT-5.6 Sol （xHigh） 129 分；Claude Fable 5.1 （Max） 以 1710 分排第二，Muse Spark 1.3 （Max） 1645 分第四，GLM-5.3-Flash 1588 分第十。",
-    "url": "https://x.com/arena/status/2099971741993050236",
-    "published": "2026-09-15T21:20:53.000Z",
-    "source": "X：Arena (@arena)",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "Perplexity 自研 CobbleDB 替代 AWS DynamoDB，每年最多可节省一亿美元",
-    "summary": "Perplexity CEO Aravind Srinivas 宣布自研键值数据库 CobbleDB，替代 AWS DynamoDB 用于快速网页内容抓取，迁移后每年最多可节省一亿美元。该项目由两名工程师和数百个持续运行的 Computer 智能体在两个月内完成核心基础设施，官方研究称热存储批次读取延迟较 DynamoDB 全分布下降约 5 倍（P50 从 31.4ms 降至 5.60ms）。",
-    "url": "https://x.com/AravSrinivas/status/2099957318935028173",
-    "published": "2026-09-15T20:23:34.000Z",
-    "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-    "source_weight": "high",
-    "category": "industry"
-  },
-  {
-    "title": "Google DeepMind 发布 Gemini 3.8 Live 和 3.8 Live Extended Thinking",
-    "summary": "Google DeepMind 发布 Gemini 3.8 Live 与 Gemini 3.8 Live Extended Thinking 两个近实时语音对话模型，主打语音智能体和复杂任务执行。",
-    "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking",
-    "published": "2026-09-15T17:05:57.000Z",
-    "source": "Google DeepMind：Blog（RSS）",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "Anthropic 将 Claude Cowork 与聊天合并为统一 Claude，并推出 Docs 和 Slides",
-    "summary": "Anthropic 宣布 Claude Cowork 与聊天合并为一个 Claude，任务无需再选择入口，Cowork 和 Design 的能力可在任意对话中使用，并沿用已有的上下文、skills 和 connectors。",
-    "url": "https://claude.com/blog/cowork-is-now-claude",
-    "published": "2026-09-15T16:00:00.000Z",
+    "title": "Claude Code Projects 改版：从文件夹到对话式协调",
+    "summary": "Anthropic 宣布 Claude Code 的 Projects 改版，用户设定目标后由 Claude 拆解任务、协调并行线程、审查输出并汇总结果。每个线程是一个独立的 Claude Code 云会话，各占一个分支跑测试、开 PR，项目还带随时间积累的共享记忆和文件库。",
+    "url": "https://claude.com/blog/projects-redesigned",
+    "published": "2026-09-16T16:00:00.000Z",
     "source": "Claude：Blog（网页）",
     "source_weight": "high",
     "category": "ai-products"
   },
   {
-    "title": "GLM 5.3 FlashX now available on AI Gateway",
-    "summary": "<p><a href=\"https://vercel.com/ai-gateway/models/glm-5.3-flashx\">GLM 5.3 FlashX</a> is now available on AI Gateway.</p><p>GLM 5.3 FlashX is a high-speed serving option for Z.ai's multimodal coding model, delivering inference at ~200 tokens per second for faster streamed responses.</p><p>The higher serving speed is useful for coding agents, tool loops, and interactive applications where users wait on generated output.</p><p>Use <code>zai/glm-5.3-flashx</code> across API formats and in coding agen",
-    "url": "https://vercel.com/changelog/glm-5-3-flashx-now-available-on-ai-gateway",
+    "title": "Spend Management expands to Enterprise Flexible Commitment plans",
+    "summary": "<p>Enterprise teams on Flexible Commitment plans can now use <a href=\"https://vercel.com/docs/spend-management\">Spend Management</a>, already <a href=\"https://vercel.com/changelog/spend-management-now-enabled-by-default-on-pro\">available on Pro</a>, at no additional cost.</p><p>You can set a budget at any time in <a href=\"https://vercel.com/d?to=%2F%5Bteam%5D%2F%7E%2Fsettings%2Fbilling&amp;title=Go+to+Spend+Management\">Spend Management settings</a>.</p><p>Set a budget per billing cycle, and when",
+    "url": "https://vercel.com/changelog/spend-management-enterprise-flex",
     "published": "",
     "source": "Vercel Blog (v0)",
     "source_weight": "high",
     "category": "design_tools"
   },
   {
-    "title": "Sub-second artifact deployments are now supported in Vercel CLI",
-    "summary": "<p>You and your agents can now deploy static artifacts to Vercel in under one second through Vercel CLI. </p><p>Run <code>vercel deploy</code> to share a prototype, publish an HTML report, or preview a page created by your coding agent. </p><div></div><p>Vercel automatically detects eligible deployments, and valid artifacts will skip the build step, immediately returning a live URL.</p><p>Instant deployments support directories with: </p><ul><li><p>Up to 10 HTML or Markdown files</p></li><li><p>",
-    "url": "https://vercel.com/changelog/sub-second-artifact-deployments-are-now-supported-in-vercel-cli",
-    "published": "",
-    "source": "Vercel Blog (v0)",
-    "source_weight": "high",
-    "category": "design_tools"
-  },
-  {
-    "title": "Turbo build machines can now be enabled per deployment",
-    "summary": "<p>You can now opt into Turbo build machines on any individual deployment. This is useful when you need to increase resources temporarily without changing project settings. You can do this in three ways:</p><ol><li><p>Include <code>#VERCEL_BUILD_MACHINE=TURBO</code> in your Git commit message before pushing to GitHub</p></li><li><p>Use <code>vc deploy --turbo</code> (Vercel CLI 59.20.0 or later)</p></li><li><p>Set <code>buildMachine</code> to <code>turbo</code> when creating a deployment with <a",
-    "url": "https://vercel.com/changelog/turbo-build-machines-can-now-be-enabled-per-deployment",
-    "published": "",
-    "source": "Vercel Blog (v0)",
-    "source_weight": "high",
-    "category": "design_tools"
-  },
-  {
-    "title": "The skills CLI now supports Notion hosted skills",
-    "summary": "<p><code>skills@1.7.0</code> adds <a href=\"https://developers.notion.com/guides/agent-skills/overview\">Notion skills databases</a> as an install source for agent skills .</p><p>Notion skills are reusable agent skills written as Notion pages. Teams author, review, and update them in the workspace they already use, then install them into any agent the skills CLI supports. No Git repository required.</p><p>To browse your Notion workspace's skills, run:</p><div></div><p>The CLI lists the skill packs",
-    "url": "https://vercel.com/changelog/skills-cli-notion-skills",
+    "title": "v0 now reads npm credentials from shared environment variables",
+    "summary": "<p><a href=\"https://v0.app/\">v0</a> now installs private packages from npm and custom registries using credentials stored as shared environment variables on Vercel.</p><p>This makes it easier for teams to build with their existing design systems, component libraries, and internal packages directly in v0.</p><p>To get started, add one of the following as a <a href=\"https://vercel.com/docs/environment-variables/shared-environment-variables\">shared environment variable</a> on Vercel, scoped to Deve",
+    "url": "https://vercel.com/changelog/v0-now-reads-npm-credentials-from-shared-environment-variables",
     "published": "",
     "source": "Vercel Blog (v0)",
     "source_weight": "high",
@@ -207,19 +126,55 @@
     "category": "design_communities"
   },
   {
-    "title": "The users were confident, but wrong. Here’s how to design for that.",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-users-were-confident-but-wrong-heres-how-to-design-for-that-4b1546dc5864?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*Gt0J2HNO_8hg5rgx_pnIjw.jpeg\" width=\"4392\" /></a></p><p class=\"medium-feed-snippet\">How to design around confusing terminology, and users who feel confident about it</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/the-users-were-confident-b",
-    "url": "https://uxdesign.cc/the-users-were-confident-but-wrong-heres-how-to-design-for-that-4b1546dc5864?source=rss----138adf9c44c---4",
-    "published": "Tue, 15 Sep 2026 11:13:17 GMT",
+    "title": "Please don’t stretch your app for foldables",
+    "summary": "<h4>What happens when the screen isn’t a fixed constraint?</h4><p>Foldables have existed in the market since 2019 with the Samsung Galaxy Fold, but it’s really only been an “Android thing.” And if your app primarily serves the U.S. market (where most smartphones are iOS), foldables haven’t been a priority to design for. Even with an Android customer base, only a small percentage of those devices are foldables.</p><p>But this foldable conversation is different now with Apple’s iPhone Duo announce",
+    "url": "https://uxdesign.cc/please-dont-stretch-your-app-for-foldables-a62f1f8230ac?source=rss----138adf9c44c---4",
+    "published": "Thu, 17 Sep 2026 21:34:12 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
   },
   {
-    "title": "Please don’t stretch your app for foldables",
-    "summary": "<h4>What happens when the screen isn’t a fixed constraint?</h4><p>Foldables have existed in the market since 2019 with the Samsung Galaxy Fold, but it’s really only been an “Android thing.” And if your app primarily serves the U.S. market (where most smartphones are iOS), foldables haven’t been a priority to design for. Even with an Android customer base, only a small percentage of those devices are foldables.</p><p>But this foldable conversation is different now with Apple’s iPhone Duo announce",
-    "url": "https://uxdesign.cc/please-dont-stretch-your-app-for-foldables-a62f1f8230ac?source=rss----138adf9c44c---4",
-    "published": "Thu, 17 Sep 2026 21:34:12 GMT",
+    "title": "Rethinking writing in the world of design and AI",
+    "summary": "<h4>What 100 articles taught me about thinking, friction, and the Shoggoth on the horizon</h4><figure><img alt=\"One hundred design articles, each a small act of thinking: a growing archive of ideas, experiments, doubts, and discoveries, made in the shadow of AI. (image source: Yeo)\" src=\"https://cdn-images-1.medium.com/max/1024/1*li8g5MZb9pcndU9o26lqQw.png\" /><figcaption><em>One hundred design articles, each a small act of thinking: a growing archive of ideas, experiments, doubts, and discoverie",
+    "url": "https://uxdesign.cc/rethinking-writing-in-the-world-of-design-and-ai-1c70188b3998?source=rss----138adf9c44c---4",
+    "published": "Thu, 17 Sep 2026 21:33:43 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "The evidence at work",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-evidence-at-work-7407503330e8?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*mCKPQffYa4_8HCToIm93qg.jpeg\" width=\"5842\" /></a></p><p class=\"medium-feed-snippet\">The floor plan and the flexibility policy were chosen deliberately, by people who had an outcome in mind. When the results arrived, they&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/the-ev",
+    "url": "https://uxdesign.cc/the-evidence-at-work-7407503330e8?source=rss----138adf9c44c---4",
+    "published": "Thu, 17 Sep 2026 21:29:20 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Nothing has changed other than how we talk about it",
+    "summary": "<h4>Why AI and Design Thinking were made for each other.</h4><figure><img alt=\"The Design Thinking Double Diasmond showing how a client request becomes a creative brief that results in an orchestration framework\" src=\"https://cdn-images-1.medium.com/max/825/1*dbzkbG4HlsG10ZmvGzbdXg.jpeg\" /><figcaption>Design Thinking and AI were made for eachother.</figcaption></figure><p>Before a single pixel illuminates in a prototyping tool, Design Thinking asks the same question it has always asked: <em>“Wha",
+    "url": "https://uxdesign.cc/nothing-has-changed-other-than-how-we-talk-about-it-fcc554e853aa?source=rss----138adf9c44c---4",
+    "published": "Thu, 17 Sep 2026 21:29:03 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Lost dog—or lost designer?",
+    "summary": "<h4>Why the ethics of AI-generated design depend on context, intention, and consequence</h4><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*ZitKQGiwfpPEeKDf9pS7lw.png\" /><figcaption>Image: Generated with ChatGPT using a one-shot prompt</figcaption></figure><p>I recently saw a missing-dog poster that caught my attention because it was the first time I had seen one clearly made with AI. <a href=\"https://www.creativebloq.com/design/graphic-design/graphic-designers-are-trying-to-",
+    "url": "https://uxdesign.cc/lost-dog-or-lost-designer-d5de922e54d9?source=rss----138adf9c44c---4",
+    "published": "Thu, 17 Sep 2026 04:31:32 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Whatever happened to “Download on the App Store” buttons?",
+    "summary": "<h4>They used to be all over the web; now they’re almost extinct.</h4><figure><img alt=\"What ever happened to “Download on the App Store” buttons?\" src=\"https://cdn-images-1.medium.com/max/1024/1*wqYAvTSJQa3-QGzmGrTgsg.png\" /><figcaption>What ever happened to “Download on the App Store” buttons?</figcaption></figure><h3>What buttons?</h3><p>Not too long ago, every website that tried to get its users to download an app to their phone had these buttons: “Download on the App Store” for Apple iPhone",
+    "url": "https://uxdesign.cc/whatever-happened-to-download-on-the-app-store-buttons-e39edb72df79?source=rss----138adf9c44c---4",
+    "published": "Fri, 18 Sep 2026 21:20:51 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"

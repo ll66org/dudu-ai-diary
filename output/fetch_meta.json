@@ -1,14 +1,14 @@
 {
-  "fetched_at": "2026-09-18T15:06:46.398203Z",
-  "total_candidates": 25,
+  "fetched_at": "2026-09-19T14:42:50.227362Z",
+  "total_candidates": 20,
   "source_stats": {
     "Figma Blog": {
       "found": 0,
       "total": 0
     },
     "Vercel Blog (v0)": {
-      "found": 4,
-      "total": 1590
+      "found": 2,
+      "total": 1595
     },
     "Cursor Changelog": {
       "found": 0,
@@ -23,7 +23,7 @@
       "total": 0
     },
     "Lovable Blog": {
-      "found": 1,
+      "found": 0,
       "total": 158
     },
     "Bolt (StackBlitz) Blog": {
@@ -51,8 +51,8 @@
       "total": 20
     },
     "Hacker News (设计向)": {
-      "found": 3,
-      "total": 20
+      "found": 0,
+      "total": 0
     },
     "Product Hunt": {
       "found": 0,
@@ -64,27 +64,27 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 148,
-  "today_date": "2026-09-18",
+  "dudu_day": 149,
+  "today_date": "2026-09-19",
   "used_titles": [
-    "Anthropic 威胁报告披露 Claude 被用于间谍软件、导弹与无人机研发，中国实验室大规模蒸馏提取数据",
     "Anthropic 威胁报告披露 Claude 被用于间谍软件、导弹与无人机研发，中国实验室大规模蒸馏提取数据",
     "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间",
     "Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件",
     "生数科技发布 Vidu S2：含 Avatar 与 Editing 双模型，探索空间视频",
     "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify",
-    "Unsloth 发布 Docker 镜像与 Unsloth Desktop，本地训练运行 500+ 模型"
+    "Unsloth 发布 Docker 镜像与 Unsloth Desktop，本地训练运行 500+ 模型",
+    "研究团队用 Claude Opus 5 入侵 OpenAI，获 6500 美元漏洞赏金"
   ],
   "used_tools": [
-    "The Decoder：AI News（RSS）",
     "The Decoder：AI News（RSS）",
     "X：Thariq (@trq212)",
     "Hacker News：AI 热帖",
     "公众号：生数科技（Vidu·视频）",
     "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-    "X：Unsloth (@UnslothAI)"
+    "X：Unsloth (@UnslothAI)",
+    "TechCrunch：AI（RSS）"
   ],
-  "briefing_total": 36,
-  "briefing_design": 15,
+  "briefing_total": 39,
+  "briefing_design": 10,
   "briefing_count": 5
 }

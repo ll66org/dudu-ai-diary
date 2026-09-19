@@ -1,5 +1,5 @@
 {
-  "day_count": 148,
+  "day_count": 149,
   "history": [
     {
       "day": 20,
@@ -867,6 +867,13 @@
       "date": "2026-09-18",
       "topic": "研究团队用 Claude Opus 5 入侵 OpenAI，获 6500 美元漏洞赏金",
       "source": "TechCrunch：AI（RSS）",
+      "mode": "rss"
+    },
+    {
+      "day": 149,
+      "date": "2026-09-19",
+      "topic": "《纽约时报》等媒体提交简要判决动议，援引 OpenAI 与微软高管内部言论质疑合理使用抗辩",
+      "source": "The Decoder：AI News（RSS）",
       "mode": "rss"
     }
   ],

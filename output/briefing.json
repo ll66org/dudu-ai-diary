@@ -1,11 +1,19 @@
 [
   {
-    "title": "研究团队用 Claude Opus 5 入侵 OpenAI，获 6500 美元漏洞赏金",
-    "summary": "Hacktron AI 三人团队在 OpenAI 漏洞赏金计划中利用 Claude Opus 5 发现并串联两个严重漏洞，接管多个 OpenAI 员工 ChatGPT 账户，获 6500 美元奖金，OpenAI 表示已修复。",
-    "source": "TechCrunch：AI（RSS）",
-    "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai",
-    "published_at": "2026-09-18T14:00:14.000Z",
-    "category": "tip"
+    "title": "《纽约时报》等媒体提交简要判决动议，援引 OpenAI 与微软高管内部言论质疑合理使用抗辩",
+    "summary": "《纽约时报》、Daily News 集团、Ziff Davis 等媒体公司向纽约联邦法院提交92页简要判决动议，就 AI 训练版权侵权向 OpenAI 和微软索赔数十亿美元，并援引此前未披露的内部邮件和宣誓证词。",
+    "source": "The Decoder：AI News（RSS）",
+    "url": "https://the-decoder.com/ai-training-built-on-fair-use-looks-shaky-when-the-companies-own-people-call-it-astonishing-theft",
+    "published_at": "2026-09-18T15:27:29.000Z",
+    "category": "industry"
+  },
+  {
+    "title": "Qwen 发布 Qwen3.8-LiveTranslate 实时同传模型，LAAL 降至 2.3 秒",
+    "summary": "Qwen 发布 Qwen3.8-LiveTranslate，采用 Interleave 架构与 Hybrid-MoE Thinker-Talker 设计重构实时同声传译，平均滞后（LAAL）从上一代的 2.8 秒降至 2.3 秒。",
+    "source": "Qwen：Blog Retrieval（API）",
+    "url": "https://qwen.ai/blog?id=qwen3.8-livetranslate",
+    "published_at": "2026-09-18T09:30:00.000Z",
+    "category": "ai-models"
   },
   {
     "title": "TypeSafe AI 发布只做高频决策的大模型 Jev，作者实测其分类判断性价比",
@@ -16,27 +24,19 @@
     "category": "tip"
   },
   {
+    "title": "OpenRouter 实测 20 个图像生成模型的成本、编辑与质量",
+    "summary": "OpenRouter 对其路由的 20 个图像生成模型用相同提示词实测计费，单张图片成本在 $0.006 到 $0.134 之间，相差 22 倍。",
+    "source": "OpenRouter：Announcements（RSS）",
+    "url": "https://openrouter.ai/blog/insights/image-generation-models-compared",
+    "published_at": "2026-09-18T00:00:00.000Z",
+    "category": "tip"
+  },
+  {
     "title": "纽约时报诉 OpenAI 案新解封文件：微软与 OpenAI 内部承认 LLM 建立在窃取之上并引发 Doom Loop",
     "summary": "纽约时报诉 OpenAI 版权诉讼中一份未删节法庭文件解封，收录微软与 OpenAI 高管的多项内部承认，称 LLM 建立在被微软高管称为空前规模盗窃的内容之上，并引发摧毁整个 web 的 doom loop。文件显示 Bing 上被窃取新闻网站的点击量下降超过 90%，OpenAI 曾绕过纽约时报付费墙，OpenAI",
     "source": "404 Media（RSS）",
     "url": "https://www.404media.co/doom-loop-openai-and-microsoft-admits-llms-are-destroying-the-web-and-built-on-theft",
     "published_at": "2026-09-17T22:01:43.000Z",
     "category": "tip"
-  },
-  {
-    "title": "Anthropic 用 Claude 优化 30 多个开源生物分子模型，平均提速约 4 倍并开源全部代码",
-    "summary": "Anthropic 发布研究，让 Claude 在不到四周内优化了 30 多个开源生物分子模型，平均提速约 4 倍，输出完全一致时约 2 倍。",
-    "source": "Anthropic：Research（发表成果 · 网页）",
-    "url": "https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling",
-    "published_at": "2026-09-17T19:49:41.095Z",
-    "category": "paper"
-  },
-  {
-    "title": "Claude Code 重构 Projects：从文件夹变为可托管多线程的对话式项目",
-    "summary": "Anthropic 重构 Claude Code 的 Projects，用户设定目标后由 Claude 拆解任务、并行调度多个线程、审查输出并汇总结果，线程本质上是各自独立分支的 Claude Code 云端会话。",
-    "source": "Claude：Blog（网页）",
-    "url": "https://claude.com/blog/projects-redesigned",
-    "published_at": "2026-09-17T17:52:08.951Z",
-    "category": "ai-products"
   }
 ]
