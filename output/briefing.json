@@ -1,5 +1,29 @@
 [
   {
+    "title": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载",
+    "summary": "Qwen 宣布 Qwen-Image-2.1 现已支持 ComfyUI，权重开放。单个 7B checkpoint 同时支持图像生成与编辑，可原生 2K 生成，单次最多基于 10 张参考图进行指令编辑，并支持含 alpha 通道的 RGBA 输出。",
+    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
+    "published_at": "2026-09-20T13:52:24.000Z",
+    "category": "ai-products"
+  },
+  {
+    "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像",
+    "summary": "Qwen 团队开源 Qwen-Image-2.1，将文生图与图像编辑统一到一个模型中，视觉生成组件仅 7B 参数，并原生支持生成和编辑透明图像。模型支持最多 10 张参考图、圆形/涂鸦/独立蒙版指定局部编辑，通过混合粒度注意力架构和 KV cache 复用提升推理效率，同时改进文字渲染、人像光照与人物产品保真度，并覆盖",
+    "source": "Qwen：Blog Retrieval（API）",
+    "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+    "published_at": "2026-09-20T12:00:00.000Z",
+    "category": "ai-models"
+  },
+  {
+    "title": "阶跃星辰发布旗舰模型 Step 5 Preview，10 月 15 日开源权重",
+    "summary": "阶跃星辰发布旗舰基座模型 Step 5 Preview，采用稀疏 MoE 架构，总参数量 600B、激活 27B，支持 100 万 Token 上下文和文本与视觉输入，在 Artificial Analysis Intelligence Index 得 44 分，居全球开源模型前三，单任务成本为 Claude Opus",
+    "source": "公众号：阶跃星辰（Step）",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&mid=2247488120&idx=1&sn=8ba9ac7f0b36682d6262290677c665da",
+    "published_at": "2026-09-20T02:00:00.000Z",
+    "category": "ai-models"
+  },
+  {
     "title": "《纽约时报》等媒体提交简要判决动议，援引 OpenAI 与微软高管内部言论质疑合理使用抗辩",
     "summary": "《纽约时报》、Daily News 集团、Ziff Davis 等媒体公司向纽约联邦法院提交92页简要判决动议，就 AI 训练版权侵权向 OpenAI 和微软索赔数十亿美元，并援引此前未披露的内部邮件和宣誓证词。",
     "source": "The Decoder：AI News（RSS）",
@@ -14,29 +38,5 @@
     "url": "https://qwen.ai/blog?id=qwen3.8-livetranslate",
     "published_at": "2026-09-18T09:30:00.000Z",
     "category": "ai-models"
-  },
-  {
-    "title": "TypeSafe AI 发布只做高频决策的大模型 Jev，作者实测其分类判断性价比",
-    "summary": "TypeSafe AI 推出专注高频决策的大模型 Jev，不做对话和文字生成，只输出判断，速度比传统大模型快20~200倍，成本0.042美元/百万Token且输出Token免费。作者实测预筛任务中Jev准确性第二且更便宜，在并行判断任务上达到最高准确率和最快速度；模型采用RLCD训练方法优化决策校准，可在官网 htt",
-    "source": "公众号：数字生命卡兹克",
-    "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686475&idx=1&sn=1d9d43036b6d72fd83b9d5658b351215",
-    "published_at": "2026-09-18T00:08:00.000Z",
-    "category": "tip"
-  },
-  {
-    "title": "OpenRouter 实测 20 个图像生成模型的成本、编辑与质量",
-    "summary": "OpenRouter 对其路由的 20 个图像生成模型用相同提示词实测计费，单张图片成本在 $0.006 到 $0.134 之间，相差 22 倍。",
-    "source": "OpenRouter：Announcements（RSS）",
-    "url": "https://openrouter.ai/blog/insights/image-generation-models-compared",
-    "published_at": "2026-09-18T00:00:00.000Z",
-    "category": "tip"
-  },
-  {
-    "title": "纽约时报诉 OpenAI 案新解封文件：微软与 OpenAI 内部承认 LLM 建立在窃取之上并引发 Doom Loop",
-    "summary": "纽约时报诉 OpenAI 版权诉讼中一份未删节法庭文件解封，收录微软与 OpenAI 高管的多项内部承认，称 LLM 建立在被微软高管称为空前规模盗窃的内容之上，并引发摧毁整个 web 的 doom loop。文件显示 Bing 上被窃取新闻网站的点击量下降超过 90%，OpenAI 曾绕过纽约时报付费墙，OpenAI",
-    "source": "404 Media（RSS）",
-    "url": "https://www.404media.co/doom-loop-openai-and-microsoft-admits-llms-are-destroying-the-web-and-built-on-theft",
-    "published_at": "2026-09-17T22:01:43.000Z",
-    "category": "tip"
   }
 ]

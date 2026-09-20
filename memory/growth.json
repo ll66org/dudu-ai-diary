@@ -1,5 +1,5 @@
 {
-  "day_count": 149,
+  "day_count": 150,
   "history": [
     {
       "day": 20,
@@ -874,6 +874,13 @@
       "date": "2026-09-19",
       "topic": "《纽约时报》等媒体提交简要判决动议，援引 OpenAI 与微软高管内部言论质疑合理使用抗辩",
       "source": "The Decoder：AI News（RSS）",
+      "mode": "rss"
+    },
+    {
+      "day": 150,
+      "date": "2026-09-20",
+      "topic": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载",
+      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
       "mode": "rss"
     }
   ],

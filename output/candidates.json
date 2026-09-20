@@ -1,12 +1,75 @@
 [
   {
-    "title": "《纽约时报》等媒体提交简要判决动议，援引 OpenAI 与微软高管内部言论质疑合理使用抗辩",
-    "summary": "《纽约时报》、Daily News 集团、Ziff Davis 等媒体公司向纽约联邦法院提交92页简要判决动议，就 AI 训练版权侵权向 OpenAI 和微软索赔数十亿美元，并援引此前未披露的内部邮件和宣誓证词。",
-    "url": "https://the-decoder.com/ai-training-built-on-fair-use-looks-shaky-when-the-companies-own-people-call-it-astonishing-theft",
-    "published": "2026-09-18T15:27:29.000Z",
-    "source": "The Decoder：AI News（RSS）",
+    "title": "system design in depth – 200 topics, 118 diagrams, interactive demos",
+    "summary": "<p>Article URL: <a href=\"https://system-design-in-depth.pages.dev\">https://system-design-in-depth.pages.dev</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49775979\">https://news.ycombinator.com/item?id=49775979</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+    "url": "https://system-design-in-depth.pages.dev",
+    "published": "Sun, 20 Sep 2026 14:01:24 +0000",
+    "source": "Hacker News (设计向)",
     "source_weight": "high",
-    "category": "industry"
+    "category": "ai_tech"
+  },
+  {
+    "title": "How ISIL is using Big Tech's AI to build bombs",
+    "summary": "<p>Article URL: <a href=\"https://www.aljazeera.com/news/2026/9/18/just-ask-grok-how-isil-is-using-big-techs-ai-to-build-bombs\">https://www.aljazeera.com/news/2026/9/18/just-ask-grok-how-isil-is-using-big-techs-ai-to-build-bombs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49775141\">https://news.ycombinator.com/item?id=49775141</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "url": "https://www.aljazeera.com/news/2026/9/18/just-ask-grok-how-isil-is-using-big-techs-ai-to-build-bombs",
+    "published": "Sun, 20 Sep 2026 12:23:19 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Scott Jenson: Are we going to use the same Desktop UX forever? [video]",
+    "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=V7AfAcQwLW0\">https://www.youtube.com/watch?v=V7AfAcQwLW0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49774702\">https://news.ycombinator.com/item?id=49774702</a></p>\n<p>Points: 4</p>\n<p># Comments: 2</p>",
+    "url": "https://www.youtube.com/watch?v=V7AfAcQwLW0",
+    "published": "Sun, 20 Sep 2026 11:24:07 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "AurionMail: E2EE suite (CryptPad and Mail) with user-friendly single-password UX",
+    "summary": "<p>Article URL: <a href=\"https://aurionmail.github.io/docs/\">https://aurionmail.github.io/docs/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49774388\">https://news.ycombinator.com/item?id=49774388</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+    "url": "https://aurionmail.github.io/docs/",
+    "published": "Sun, 20 Sep 2026 10:21:24 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "I built an extension that hides your personal information from AI",
+    "summary": "<p>Article URL: <a href=\"https://github.com/arikchakma/opencloak\">https://github.com/arikchakma/opencloak</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49774033\">https://news.ycombinator.com/item?id=49774033</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "url": "https://github.com/arikchakma/opencloak",
+    "published": "Sun, 20 Sep 2026 09:15:09 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载",
+    "summary": "Qwen 宣布 Qwen-Image-2.1 现已支持 ComfyUI，权重开放。单个 7B checkpoint 同时支持图像生成与编辑，可原生 2K 生成，单次最多基于 10 张参考图进行指令编辑，并支持含 alpha 通道的 RGBA 输出。",
+    "url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
+    "published": "2026-09-20T13:52:24.000Z",
+    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像",
+    "summary": "Qwen 团队开源 Qwen-Image-2.1，将文生图与图像编辑统一到一个模型中，视觉生成组件仅 7B 参数，并原生支持生成和编辑透明图像。模型支持最多 10 张参考图、圆形/涂鸦/独立蒙版指定局部编辑，通过混合粒度注意力架构和 KV cache 复用提升推理效率，同时改进文字渲染、人像光照与人物产品保真度，并覆盖全景图、信息图和分镜等任务。",
+    "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+    "published": "2026-09-20T12:00:00.000Z",
+    "source": "Qwen：Blog Retrieval（API）",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "阶跃星辰发布旗舰模型 Step 5 Preview，10 月 15 日开源权重",
+    "summary": "阶跃星辰发布旗舰基座模型 Step 5 Preview，采用稀疏 MoE 架构，总参数量 600B、激活 27B，支持 100 万 Token 上下文和文本与视觉输入，在 Artificial Analysis Intelligence Index 得 44 分，居全球开源模型前三，单任务成本为 Claude Opus 5 的 1/8。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&mid=2247488120&idx=1&sn=8ba9ac7f0b36682d6262290677c665da",
+    "published": "2026-09-20T02:00:00.000Z",
+    "source": "公众号：阶跃星辰（Step）",
+    "source_weight": "high",
+    "category": "ai-models"
   },
   {
     "title": "Qwen 发布 Qwen3.8-LiveTranslate 实时同传模型，LAAL 降至 2.3 秒",
@@ -45,60 +108,6 @@
     "category": "tip"
   },
   {
-    "title": "DeepSeek-V4.1-Flash 发布：552B MoE 多模态模型主打 KV cache 压缩",
-    "summary": "DeepSeek 发布 DeepSeek-V4.1-Flash，一个 552B 参数的多模态 MoE 模型，支持最长 100 万 token 上下文，模型权重已在 Hugging Face 开放。",
-    "url": "https://arxiv.org/abs/2609.19969",
-    "published": "2026-09-17T00:00:00.000Z",
-    "source": "HuggingFace Daily Papers（社区热门论文）",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF",
-    "summary": "Anthropic 的 Boris Cherny 宣布 Claude Docs、Claude Slides 和 Claude Design 已进入每段对话，直接在聊天中生成演示、文档和设计。生成的演示可打开、编辑并导出为 PowerPoint 或 PDF，无需跳转到单独工具。",
-    "url": "https://x.com/bcherny/status/2100260544087535639",
-    "published": "2026-09-16T16:28:29.000Z",
-    "source": "X：Boris Cherny (@bcherny)",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Anthropic：Claude 四周优化 30 多个开源生物分子模型，平均提速约 4 倍并开源代码",
-    "summary": "Anthropic 让 Claude 在不到四周内优化了超过 30 个开源生物分子模型，平均提速约 4 倍、精度损失极小，输出完全一致时也有近 2 倍加速。优化代码全部开源，还推出低内存 Big 模式，可在单张 NVIDIA GPU 节点上对超过 10，000 token 的生物分子系统做准确预测。",
-    "url": "https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling",
-    "published": "2026-09-16T16:00:00.000Z",
-    "source": "Anthropic：Research（发表成果 · 网页）",
-    "source_weight": "high",
-    "category": "paper"
-  },
-  {
-    "title": "Claude Code Projects 改版：从文件夹到对话式协调",
-    "summary": "Anthropic 宣布 Claude Code 的 Projects 改版，用户设定目标后由 Claude 拆解任务、协调并行线程、审查输出并汇总结果。每个线程是一个独立的 Claude Code 云会话，各占一个分支跑测试、开 PR，项目还带随时间积累的共享记忆和文件库。",
-    "url": "https://claude.com/blog/projects-redesigned",
-    "published": "2026-09-16T16:00:00.000Z",
-    "source": "Claude：Blog（网页）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Spend Management expands to Enterprise Flexible Commitment plans",
-    "summary": "<p>Enterprise teams on Flexible Commitment plans can now use <a href=\"https://vercel.com/docs/spend-management\">Spend Management</a>, already <a href=\"https://vercel.com/changelog/spend-management-now-enabled-by-default-on-pro\">available on Pro</a>, at no additional cost.</p><p>You can set a budget at any time in <a href=\"https://vercel.com/d?to=%2F%5Bteam%5D%2F%7E%2Fsettings%2Fbilling&amp;title=Go+to+Spend+Management\">Spend Management settings</a>.</p><p>Set a budget per billing cycle, and when",
-    "url": "https://vercel.com/changelog/spend-management-enterprise-flex",
-    "published": "",
-    "source": "Vercel Blog (v0)",
-    "source_weight": "high",
-    "category": "design_tools"
-  },
-  {
-    "title": "v0 now reads npm credentials from shared environment variables",
-    "summary": "<p><a href=\"https://v0.app/\">v0</a> now installs private packages from npm and custom registries using credentials stored as shared environment variables on Vercel.</p><p>This makes it easier for teams to build with their existing design systems, component libraries, and internal packages directly in v0.</p><p>To get started, add one of the following as a <a href=\"https://vercel.com/docs/environment-variables/shared-environment-variables\">shared environment variable</a> on Vercel, scoped to Deve",
-    "url": "https://vercel.com/changelog/v0-now-reads-npm-credentials-from-shared-environment-variables",
-    "published": "",
-    "source": "Vercel Blog (v0)",
-    "source_weight": "high",
-    "category": "design_tools"
-  },
-  {
     "title": "What Shakespeare got wrong about AI",
     "summary": "<figure><img alt=\"A classic Elizabethan oil portrait of William Shakespeare at his writing desk, his quill fallen from his hand, watching with quiet alarm as glowing blue characters and lines of code lift off his manuscript and stream past the edges of the painting; behind him, the faint figures of his characters, witches, a crowned king, a hooded ghost, a robed magician with a broken staff, dissolve into the same escaping blue light.\" src=\"https://cdn-images-1.medium.com/max/1024/1*HDjZ1AZIyFg2",
     "url": "https://uxdesign.cc/what-shakespeare-got-wrong-about-ai-73e9f58bfbc8?source=rss----138adf9c44c---4",
@@ -112,15 +121,6 @@
     "summary": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*OpRlmJqoKEqo5ErA0JTYdg.png\" /><figcaption>A house built for 38 years without a plan, and the apps we are shipping the same way.</figcaption></figure><h4>Each new feature works alone and connects to nothing. Six architectural moves that give the rooms you have already built a blueprint to obey.</h4><p><a href=\"https://en.wikipedia.org/wiki/Sarah_Winchester\">Sarah Winchester</a> spent 38 years <a href=\"https://science.howstuffwork",
     "url": "https://uxdesign.cc/dont-let-ai-build-a-winchester-mystery-house-2cb59ec05a73?source=rss----138adf9c44c---4",
     "published": "Wed, 16 Sep 2026 07:27:23 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "The hidden culture layer in AI",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/ai-culture-ux-design-36c7d410cd1f?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1672/1*YsoO1glOlAn8SFiqMCsHYg.png\" width=\"1672\" /></a></p><p class=\"medium-feed-snippet\">Why AI gravitates toward certain cultural defaults&#x200a;&#x2014;&#x200a;and what that means for the future of UX.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/ai-culture-ux-design-36c7d410cd1f?so",
-    "url": "https://uxdesign.cc/ai-culture-ux-design-36c7d410cd1f?source=rss----138adf9c44c---4",
-    "published": "Tue, 15 Sep 2026 11:13:46 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
@@ -166,6 +166,15 @@
     "summary": "<h4>Why the ethics of AI-generated design depend on context, intention, and consequence</h4><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*ZitKQGiwfpPEeKDf9pS7lw.png\" /><figcaption>Image: Generated with ChatGPT using a one-shot prompt</figcaption></figure><p>I recently saw a missing-dog poster that caught my attention because it was the first time I had seen one clearly made with AI. <a href=\"https://www.creativebloq.com/design/graphic-design/graphic-designers-are-trying-to-",
     "url": "https://uxdesign.cc/lost-dog-or-lost-designer-d5de922e54d9?source=rss----138adf9c44c---4",
     "published": "Thu, 17 Sep 2026 04:31:32 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "AI nutrition facts",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/ai-nutrition-facts-cbfa8f9874e8?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*P48o9v9ij66CUu_F9exaSw.png\" width=\"3200\" /></a></p><p class=\"medium-feed-snippet\">Designing an interface between writers, readers, and AI</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/ai-nutrition-facts-cbfa8f9874e8?source=rss----138adf9c44c---4\">Continue reading on UX Collective »",
+    "url": "https://uxdesign.cc/ai-nutrition-facts-cbfa8f9874e8?source=rss----138adf9c44c---4",
+    "published": "Sun, 20 Sep 2026 12:36:44 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
