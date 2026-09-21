@@ -1,5 +1,13 @@
 [
   {
+    "title": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑",
+    "summary": "通义千问发布 Qwen-Image-2.1，一个 7B 参数的原生图像生成与编辑模型，生成和编辑共用单一检查点，最多支持 10 张参考图。模型自带提示词增强 LLM，已集成 diffusers 和 ComfyUI，并在 Hugging Face Spaces 提供免安装的浏览器在线 demo：https://huggi",
+    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "url": "https://x.com/Alibaba_Qwen/status/2101866671900401913",
+    "published_at": "2026-09-21T02:50:40.000Z",
+    "category": "ai-models"
+  },
+  {
     "title": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载",
     "summary": "Qwen 宣布 Qwen-Image-2.1 现已支持 ComfyUI，权重开放。单个 7B checkpoint 同时支持图像生成与编辑，可原生 2K 生成，单次最多基于 10 张参考图进行指令编辑，并支持含 alpha 通道的 RGBA 输出。",
     "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
@@ -24,19 +32,11 @@
     "category": "ai-models"
   },
   {
-    "title": "《纽约时报》等媒体提交简要判决动议，援引 OpenAI 与微软高管内部言论质疑合理使用抗辩",
-    "summary": "《纽约时报》、Daily News 集团、Ziff Davis 等媒体公司向纽约联邦法院提交92页简要判决动议，就 AI 训练版权侵权向 OpenAI 和微软索赔数十亿美元，并援引此前未披露的内部邮件和宣誓证词。",
-    "source": "The Decoder：AI News（RSS）",
-    "url": "https://the-decoder.com/ai-training-built-on-fair-use-looks-shaky-when-the-companies-own-people-call-it-astonishing-theft",
-    "published_at": "2026-09-18T15:27:29.000Z",
-    "category": "industry"
-  },
-  {
-    "title": "Qwen 发布 Qwen3.8-LiveTranslate 实时同传模型，LAAL 降至 2.3 秒",
-    "summary": "Qwen 发布 Qwen3.8-LiveTranslate，采用 Interleave 架构与 Hybrid-MoE Thinker-Talker 设计重构实时同声传译，平均滞后（LAAL）从上一代的 2.8 秒降至 2.3 秒。",
-    "source": "Qwen：Blog Retrieval（API）",
-    "url": "https://qwen.ai/blog?id=qwen3.8-livetranslate",
-    "published_at": "2026-09-18T09:30:00.000Z",
-    "category": "ai-models"
+    "title": "Artificial Analysis 评测 Grok 4.7：智能指数得分 46，编码智能体指数升至 56",
+    "summary": "Artificial Analysis 发布 Grok 4.7 评测，其在 Artificial Analysis Intelligence Index 得分 46，较 Grok 4.6 高 2 分，使 SpaceXAI 进入前四大 AI 实验室。",
+    "source": "X：Artificial Analysis (@ArtificialAnlys)",
+    "url": "https://x.com/ArtificialAnlys/status/2102074898327932987",
+    "published_at": "2026-09-21T16:38:05.000Z",
+    "category": "paper"
   }
 ]

@@ -1,57 +1,48 @@
 [
   {
-    "title": "system design in depth – 200 topics, 118 diagrams, interactive demos",
-    "summary": "<p>Article URL: <a href=\"https://system-design-in-depth.pages.dev\">https://system-design-in-depth.pages.dev</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49775979\">https://news.ycombinator.com/item?id=49775979</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
-    "url": "https://system-design-in-depth.pages.dev",
-    "published": "Sun, 20 Sep 2026 14:01:24 +0000",
+    "title": "Chess Design Timeline",
+    "summary": "<p>Article URL: <a href=\"https://chess-timeline.vercel.app/\">https://chess-timeline.vercel.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49789717\">https://news.ycombinator.com/item?id=49789717</a></p>\n<p>Points: 2</p>\n<p># Comments: 1</p>",
+    "url": "https://chess-timeline.vercel.app/",
+    "published": "Mon, 21 Sep 2026 16:46:21 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "How ISIL is using Big Tech's AI to build bombs",
-    "summary": "<p>Article URL: <a href=\"https://www.aljazeera.com/news/2026/9/18/just-ask-grok-how-isil-is-using-big-techs-ai-to-build-bombs\">https://www.aljazeera.com/news/2026/9/18/just-ask-grok-how-isil-is-using-big-techs-ai-to-build-bombs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49775141\">https://news.ycombinator.com/item?id=49775141</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
-    "url": "https://www.aljazeera.com/news/2026/9/18/just-ask-grok-how-isil-is-using-big-techs-ai-to-build-bombs",
-    "published": "Sun, 20 Sep 2026 12:23:19 +0000",
+    "title": "Show HN: Agent Chaperone – Screen AI agent tool calls and results with Jev",
+    "summary": "<p>Hi everyone.<p>TypeSafe released Jev last week, and it pushed me to build agent-chaperone. It is a screening layer for AI agent tool calls and tool results.<p>It screens risky, off-task, or secret-leaking actions before they run, and prompt injections or other suspicious instructions before the agent reads them.<p>Repo:\n<a href=\"https://github.com/agent-chaperone/agent-chaperone\" rel=\"nofollow\">https://github.com/agent-chaperone/agent-chaperone</a><p>Website:\n<a href=\"https://agentchaperone.d",
+    "url": "https://github.com/agent-chaperone/agent-chaperone",
+    "published": "Mon, 21 Sep 2026 16:34:27 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Scott Jenson: Are we going to use the same Desktop UX forever? [video]",
-    "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=V7AfAcQwLW0\">https://www.youtube.com/watch?v=V7AfAcQwLW0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49774702\">https://news.ycombinator.com/item?id=49774702</a></p>\n<p>Points: 4</p>\n<p># Comments: 2</p>",
-    "url": "https://www.youtube.com/watch?v=V7AfAcQwLW0",
-    "published": "Sun, 20 Sep 2026 11:24:07 +0000",
+    "title": "Show HN: We built a network for AI agents and humans to exchange services",
+    "summary": "<p>Article URL: <a href=\"https://gingerpal.com/\">https://gingerpal.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49789063\">https://news.ycombinator.com/item?id=49789063</a></p>\n<p>Points: 2</p>\n<p># Comments: 1</p>",
+    "url": "https://gingerpal.com/",
+    "published": "Mon, 21 Sep 2026 16:05:36 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "AurionMail: E2EE suite (CryptPad and Mail) with user-friendly single-password UX",
-    "summary": "<p>Article URL: <a href=\"https://aurionmail.github.io/docs/\">https://aurionmail.github.io/docs/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49774388\">https://news.ycombinator.com/item?id=49774388</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
-    "url": "https://aurionmail.github.io/docs/",
-    "published": "Sun, 20 Sep 2026 10:21:24 +0000",
+    "title": "Design Drought",
+    "summary": "<p>Article URL: <a href=\"https://lmnt.me/blog/design-drought.html\">https://lmnt.me/blog/design-drought.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49788708\">https://news.ycombinator.com/item?id=49788708</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "url": "https://lmnt.me/blog/design-drought.html",
+    "published": "Mon, 21 Sep 2026 15:40:03 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "I built an extension that hides your personal information from AI",
-    "summary": "<p>Article URL: <a href=\"https://github.com/arikchakma/opencloak\">https://github.com/arikchakma/opencloak</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49774033\">https://news.ycombinator.com/item?id=49774033</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
-    "url": "https://github.com/arikchakma/opencloak",
-    "published": "Sun, 20 Sep 2026 09:15:09 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载",
-    "summary": "Qwen 宣布 Qwen-Image-2.1 现已支持 ComfyUI，权重开放。单个 7B checkpoint 同时支持图像生成与编辑，可原生 2K 生成，单次最多基于 10 张参考图进行指令编辑，并支持含 alpha 通道的 RGBA 输出。",
-    "url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
-    "published": "2026-09-20T13:52:24.000Z",
+    "title": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑",
+    "summary": "通义千问发布 Qwen-Image-2.1，一个 7B 参数的原生图像生成与编辑模型，生成和编辑共用单一检查点，最多支持 10 张参考图。模型自带提示词增强 LLM，已集成 diffusers 和 ComfyUI，并在 Hugging Face Spaces 提供免安装的浏览器在线 demo：https://huggingface.co/spaces/hugging-apps/qwen-image-2-1",
+    "url": "https://x.com/Alibaba_Qwen/status/2101866671900401913",
+    "published": "2026-09-21T02:50:40.000Z",
     "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
     "source_weight": "high",
-    "category": "ai-products"
+    "category": "ai-models"
   },
   {
     "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像",
@@ -72,55 +63,28 @@
     "category": "ai-models"
   },
   {
-    "title": "Qwen 发布 Qwen3.8-LiveTranslate 实时同传模型，LAAL 降至 2.3 秒",
-    "summary": "Qwen 发布 Qwen3.8-LiveTranslate，采用 Interleave 架构与 Hybrid-MoE Thinker-Talker 设计重构实时同声传译，平均滞后（LAAL）从上一代的 2.8 秒降至 2.3 秒。",
-    "url": "https://qwen.ai/blog?id=qwen3.8-livetranslate",
-    "published": "2026-09-18T09:30:00.000Z",
-    "source": "Qwen：Blog Retrieval（API）",
+    "title": "Deployments now show billable duration and CPU minutes",
+    "summary": "<p>Deployments now show their billable duration and CPU minutes in the dashboard, <code>vc inspect</code>, and the <a href=\"https://vercel.com/docs/rest-api/deployments/get-a-deployment-by-id-or-url\">REST API</a>. Use it to understand how each build contributes to your usage.</p><div></div><p>Billable duration is the build and post-build time combined, rounded up to the next whole minute. CPU minutes are that figure multiplied by the machine's vCPUs.</p><p>To see the same breakdown from the CLI,",
+    "url": "https://vercel.com/changelog/deployments-now-show-billable-duration-and-cpu-minutes",
+    "published": "",
+    "source": "Vercel Blog (v0)",
     "source_weight": "high",
-    "category": "ai-models"
+    "category": "design_tools"
   },
   {
-    "title": "TypeSafe AI 发布只做高频决策的大模型 Jev，作者实测其分类判断性价比",
-    "summary": "TypeSafe AI 推出专注高频决策的大模型 Jev，不做对话和文字生成，只输出判断，速度比传统大模型快20~200倍，成本0.042美元/百万Token且输出Token免费。作者实测预筛任务中Jev准确性第二且更便宜，在并行判断任务上达到最高准确率和最快速度；模型采用RLCD训练方法优化决策校准，可在官网 https://typesafe.ai/ 申请资格，Vercel 已首发接入。",
-    "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686475&idx=1&sn=1d9d43036b6d72fd83b9d5658b351215",
-    "published": "2026-09-18T00:08:00.000Z",
-    "source": "公众号：数字生命卡兹克",
+    "title": "Grok 4.7 now available and 40% off on AI Gateway, fx, and eve",
+    "summary": "<p><a href=\"https://vercel.com/ai-gateway/models/grok-4.7\">Grok 4.7</a> from SpaceXAI is now available on AI Gateway and 40% off through September 27. The discount applies automatically when you call <code>spacexai/grok-4.7</code>.</p><p>Grok 4.7 has a 500K token context window and supports low, medium, high, and xhigh reasoning levels, giving you control over the tradeoff between latency and depth.</p><p>Use <code>spacexai/grok-4.7</code> everywhere you call the model. The same ID works with th",
+    "url": "https://vercel.com/changelog/grok-4-7-now-available-and-40-off-on-ai-gateway-fx-eve",
+    "published": "",
+    "source": "Vercel Blog (v0)",
     "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "OpenRouter 实测 20 个图像生成模型的成本、编辑与质量",
-    "summary": "OpenRouter 对其路由的 20 个图像生成模型用相同提示词实测计费，单张图片成本在 $0.006 到 $0.134 之间，相差 22 倍。",
-    "url": "https://openrouter.ai/blog/insights/image-generation-models-compared",
-    "published": "2026-09-18T00:00:00.000Z",
-    "source": "OpenRouter：Announcements（RSS）",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "纽约时报诉 OpenAI 案新解封文件：微软与 OpenAI 内部承认 LLM 建立在窃取之上并引发 Doom Loop",
-    "summary": "纽约时报诉 OpenAI 版权诉讼中一份未删节法庭文件解封，收录微软与 OpenAI 高管的多项内部承认，称 LLM 建立在被微软高管称为空前规模盗窃的内容之上，并引发摧毁整个 web 的 doom loop。文件显示 Bing 上被窃取新闻网站的点击量下降超过 90%，OpenAI 曾绕过纽约时报付费墙，OpenAI 自称是新闻出版的存在性威胁。",
-    "url": "https://www.404media.co/doom-loop-openai-and-microsoft-admits-llms-are-destroying-the-web-and-built-on-theft",
-    "published": "2026-09-17T22:01:43.000Z",
-    "source": "404 Media（RSS）",
-    "source_weight": "high",
-    "category": "tip"
+    "category": "design_tools"
   },
   {
     "title": "What Shakespeare got wrong about AI",
     "summary": "<figure><img alt=\"A classic Elizabethan oil portrait of William Shakespeare at his writing desk, his quill fallen from his hand, watching with quiet alarm as glowing blue characters and lines of code lift off his manuscript and stream past the edges of the painting; behind him, the faint figures of his characters, witches, a crowned king, a hooded ghost, a robed magician with a broken staff, dissolve into the same escaping blue light.\" src=\"https://cdn-images-1.medium.com/max/1024/1*HDjZ1AZIyFg2",
     "url": "https://uxdesign.cc/what-shakespeare-got-wrong-about-ai-73e9f58bfbc8?source=rss----138adf9c44c---4",
     "published": "Wed, 16 Sep 2026 15:21:34 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Don’t let AI build a Winchester Mystery House",
-    "summary": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*OpRlmJqoKEqo5ErA0JTYdg.png\" /><figcaption>A house built for 38 years without a plan, and the apps we are shipping the same way.</figcaption></figure><h4>Each new feature works alone and connects to nothing. Six architectural moves that give the rooms you have already built a blueprint to obey.</h4><p><a href=\"https://en.wikipedia.org/wiki/Sarah_Winchester\">Sarah Winchester</a> spent 38 years <a href=\"https://science.howstuffwork",
-    "url": "https://uxdesign.cc/dont-let-ai-build-a-winchester-mystery-house-2cb59ec05a73?source=rss----138adf9c44c---4",
-    "published": "Wed, 16 Sep 2026 07:27:23 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
@@ -175,6 +139,15 @@
     "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/ai-nutrition-facts-cbfa8f9874e8?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*P48o9v9ij66CUu_F9exaSw.png\" width=\"3200\" /></a></p><p class=\"medium-feed-snippet\">Designing an interface between writers, readers, and AI</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/ai-nutrition-facts-cbfa8f9874e8?source=rss----138adf9c44c---4\">Continue reading on UX Collective »",
     "url": "https://uxdesign.cc/ai-nutrition-facts-cbfa8f9874e8?source=rss----138adf9c44c---4",
     "published": "Sun, 20 Sep 2026 12:36:44 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "For the Designless, The death of the deliverable, iPhone Duo’s UX",
+    "summary": "<h4>Weekly curated resources for designers — thinkers and makers.</h4><figure><a href=\"https://uxdesign.cc/for-the-designless-0d3e7936a70c\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/0*nYjPlbTw2_RPYkH_.png\" /></a></figure><p>“A designer is not an artist. A designer is a commercial problem-solver, hired to take a client’s half-formed intent — a vibe, a feeling, a vague sense of “make it look professional” — and give it form. That is the job whether the tool is a pencil, Photoshop, ",
+    "url": "https://uxdesign.cc/for-the-designless-the-death-of-the-deliverable-iphone-duos-ux-d8ce63862469?source=rss----138adf9c44c---4",
+    "published": "Mon, 21 Sep 2026 11:36:07 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"

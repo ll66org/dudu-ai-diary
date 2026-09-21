@@ -1,5 +1,5 @@
 {
-  "day_count": 150,
+  "day_count": 151,
   "history": [
     {
       "day": 20,
@@ -880,6 +880,13 @@
       "day": 150,
       "date": "2026-09-20",
       "topic": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载",
+      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+      "mode": "rss"
+    },
+    {
+      "day": 151,
+      "date": "2026-09-21",
+      "topic": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑",
       "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
       "mode": "rss"
     }
