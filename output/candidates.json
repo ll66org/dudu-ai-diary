@@ -1,46 +1,55 @@
 [
   {
-    "title": "Chess Design Timeline",
-    "summary": "<p>Article URL: <a href=\"https://chess-timeline.vercel.app/\">https://chess-timeline.vercel.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49789717\">https://news.ycombinator.com/item?id=49789717</a></p>\n<p>Points: 2</p>\n<p># Comments: 1</p>",
-    "url": "https://chess-timeline.vercel.app/",
-    "published": "Mon, 21 Sep 2026 16:46:21 +0000",
-    "source": "Hacker News (设计向)",
+    "title": "LiteParse 9 月更新：PDFium 提速 20-25%，新增视觉定位与 is-complex 路由 API",
+    "summary": "LlamaIndex 发布 LiteParse 2.14.6 更新，通过对自维护 PDFium fork 做内存分配优化（内置 mimalloc）等手段，将文本提取耗时降低 20-25%，平均 2.76ms/页，markdown 渲染 3.94ms/页。",
+    "url": "https://www.llamaindex.ai/blog/liteparse-updates-september-2026",
+    "published": "2026-09-22T14:38:40.870Z",
+    "source": "LlamaIndex：产品、工程与评测",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "Kimi 发布浏览器扩展，由 Kimi WebBridge 更名而来",
+    "summary": "Kimi 发布新的 Kimi Browser Extension，前身为 Kimi WebBridge。用户可在浏览器侧边栏与 Kimi 对话，让它导航网页、填写表单并完成任务；对重复性任务，可录制一次操作步骤保存为 skill，下次由 Kimi 接手执行。产品现已在 kimi.com/products/kimi-browser-extension 和 Chrome Web Store 上线。",
+    "url": "https://x.com/Kimi_Moonshot/status/2102352211988865456",
+    "published": "2026-09-22T11:00:01.000Z",
+    "source": "X：Kimi.ai (@Kimi_Moonshot)",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "小米发布 MiMo-V2.6 Pro 与 Flash 全模态开源模型",
+    "summary": "小米 MiMo 发布 MiMo-V2.6 Pro 与 Flash 两个全模态模型，通过规模化强化学习训练。Pro 在多数 Agent 基准上与 Claude Opus 5 和 GPT-5.6 Sol 表现相当，在 Artificial Analysis Intelligence Index 得分 46，为开源模型中最高；能力覆盖编码、computer use、3D 推理和创作。",
+    "url": "https://x.com/XiaomiMiMo/status/2102138559952290106",
+    "published": "2026-09-21T20:51:03.000Z",
+    "source": "X：小米 MiMo (@XiaomiMiMo)",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "Artificial Analysis 评测 Grok 4.7：智能体知识工作跻身前沿，编码代理得分升至 56",
+    "summary": "Artificial Analysis 发布 Grok 4.7 评测，该模型在 Intelligence Index 得 46 分，较 Grok 4.6 高 2 分，AA-Briefcase 得 1657 Elo（+111），仅次于 Claude Opus 5 和 Claude Fable 5.1。",
+    "url": "https://artificialanalysis.ai/articles/benchmarking-grok-4-7",
+    "published": "2026-09-21T19:41:25.079Z",
+    "source": "Artificial Analysis 完整文章（网页）",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "QuietGlass",
+    "summary": "<p>\n            Screen privacy for your Mac, with or without AirPods\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/quietglass?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1257675?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/quietglass",
+    "published": "2026-09-21T17:40:01-07:00",
+    "source": "Product Hunt",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Show HN: Agent Chaperone – Screen AI agent tool calls and results with Jev",
-    "summary": "<p>Hi everyone.<p>TypeSafe released Jev last week, and it pushed me to build agent-chaperone. It is a screening layer for AI agent tool calls and tool results.<p>It screens risky, off-task, or secret-leaking actions before they run, and prompt injections or other suspicious instructions before the agent reads them.<p>Repo:\n<a href=\"https://github.com/agent-chaperone/agent-chaperone\" rel=\"nofollow\">https://github.com/agent-chaperone/agent-chaperone</a><p>Website:\n<a href=\"https://agentchaperone.d",
-    "url": "https://github.com/agent-chaperone/agent-chaperone",
-    "published": "Mon, 21 Sep 2026 16:34:27 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Show HN: We built a network for AI agents and humans to exchange services",
-    "summary": "<p>Article URL: <a href=\"https://gingerpal.com/\">https://gingerpal.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49789063\">https://news.ycombinator.com/item?id=49789063</a></p>\n<p>Points: 2</p>\n<p># Comments: 1</p>",
-    "url": "https://gingerpal.com/",
-    "published": "Mon, 21 Sep 2026 16:05:36 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Design Drought",
-    "summary": "<p>Article URL: <a href=\"https://lmnt.me/blog/design-drought.html\">https://lmnt.me/blog/design-drought.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49788708\">https://news.ycombinator.com/item?id=49788708</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
-    "url": "https://lmnt.me/blog/design-drought.html",
-    "published": "Mon, 21 Sep 2026 15:40:03 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑",
-    "summary": "通义千问发布 Qwen-Image-2.1，一个 7B 参数的原生图像生成与编辑模型，生成和编辑共用单一检查点，最多支持 10 张参考图。模型自带提示词增强 LLM，已集成 diffusers 和 ComfyUI，并在 Hugging Face Spaces 提供免安装的浏览器在线 demo：https://huggingface.co/spaces/hugging-apps/qwen-image-2-1",
-    "url": "https://x.com/Alibaba_Qwen/status/2101866671900401913",
-    "published": "2026-09-21T02:50:40.000Z",
-    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "title": "腾讯混元发布 Hy Image3.5 preview 图像生成模型",
+    "summary": "腾讯混元发布 Hy Image3.5 preview，支持文生图与图生图、最多 5 张参考图、多轮编辑和最高 2K 分辨率输出，经上百名专业设计师 GSB 盲测对上一代胜率综合提升 30% 以上。",
+    "url": "https://hunyuan.tencent.com/research/100119?langVersion=zh",
+    "published": "2026-09-21T02:51:50.000Z",
+    "source": "腾讯混元：Research（API）",
     "source_weight": "high",
     "category": "ai-models"
   },
@@ -63,82 +72,82 @@
     "category": "ai-models"
   },
   {
-    "title": "Deployments now show billable duration and CPU minutes",
-    "summary": "<p>Deployments now show their billable duration and CPU minutes in the dashboard, <code>vc inspect</code>, and the <a href=\"https://vercel.com/docs/rest-api/deployments/get-a-deployment-by-id-or-url\">REST API</a>. Use it to understand how each build contributes to your usage.</p><div></div><p>Billable duration is the build and post-build time combined, rounded up to the next whole minute. CPU minutes are that figure multiplied by the machine's vCPUs.</p><p>To see the same breakdown from the CLI,",
-    "url": "https://vercel.com/changelog/deployments-now-show-billable-duration-and-cpu-minutes",
-    "published": "",
-    "source": "Vercel Blog (v0)",
-    "source_weight": "high",
+    "title": "Lovable is a founding member of the Blueprint Alliance",
+    "summary": "Lovable joins AWS, CrowdStrike, Databricks, Docker, Google Cloud, Okta, Proofpoint, Salesforce, ServiceNow, Wiz, and Zscaler as a founding member of the Blueprint Alliance.",
+    "url": "https://lovable.dev/blog/lovable-founding-member-blueprint-alliance",
+    "published": "Tue, 22 Sep 2026 12:00:00 GMT",
+    "source": "Lovable Blog",
+    "source_weight": "medium",
     "category": "design_tools"
   },
   {
-    "title": "Grok 4.7 now available and 40% off on AI Gateway, fx, and eve",
-    "summary": "<p><a href=\"https://vercel.com/ai-gateway/models/grok-4.7\">Grok 4.7</a> from SpaceXAI is now available on AI Gateway and 40% off through September 27. The discount applies automatically when you call <code>spacexai/grok-4.7</code>.</p><p>Grok 4.7 has a 500K token context window and supports low, medium, high, and xhigh reasoning levels, giving you control over the tradeoff between latency and depth.</p><p>Use <code>spacexai/grok-4.7</code> everywhere you call the model. The same ID works with th",
-    "url": "https://vercel.com/changelog/grok-4-7-now-available-and-40-off-on-ai-gateway-fx-eve",
-    "published": "",
-    "source": "Vercel Blog (v0)",
-    "source_weight": "high",
-    "category": "design_tools"
-  },
-  {
-    "title": "What Shakespeare got wrong about AI",
-    "summary": "<figure><img alt=\"A classic Elizabethan oil portrait of William Shakespeare at his writing desk, his quill fallen from his hand, watching with quiet alarm as glowing blue characters and lines of code lift off his manuscript and stream past the edges of the painting; behind him, the faint figures of his characters, witches, a crowned king, a hooded ghost, a robed magician with a broken staff, dissolve into the same escaping blue light.\" src=\"https://cdn-images-1.medium.com/max/1024/1*HDjZ1AZIyFg2",
-    "url": "https://uxdesign.cc/what-shakespeare-got-wrong-about-ai-73e9f58bfbc8?source=rss----138adf9c44c---4",
-    "published": "Wed, 16 Sep 2026 15:21:34 GMT",
+    "title": "Designers lost their unit of measurement. That’s why we’re struggling.",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/designers-lost-their-unit-of-measurement-thats-why-we-re-struggling-b3c6beeea74f?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*DJLSCzqhulbOdF-oFyT31w.jpeg\" width=\"6502\" /></a></p><p class=\"medium-feed-snippet\">If screens don&#x2019;t work as a unit of measurement, what does instead?</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/designers-lost-their-unit-of-m",
+    "url": "https://uxdesign.cc/designers-lost-their-unit-of-measurement-thats-why-we-re-struggling-b3c6beeea74f?source=rss----138adf9c44c---4",
+    "published": "Tue, 22 Sep 2026 11:23:11 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
   },
   {
-    "title": "Please don’t stretch your app for foldables",
-    "summary": "<h4>What happens when the screen isn’t a fixed constraint?</h4><p>Foldables have existed in the market since 2019 with the Samsung Galaxy Fold, but it’s really only been an “Android thing.” And if your app primarily serves the U.S. market (where most smartphones are iOS), foldables haven’t been a priority to design for. Even with an Android customer base, only a small percentage of those devices are foldables.</p><p>But this foldable conversation is different now with Apple’s iPhone Duo announce",
-    "url": "https://uxdesign.cc/please-dont-stretch-your-app-for-foldables-a62f1f8230ac?source=rss----138adf9c44c---4",
-    "published": "Thu, 17 Sep 2026 21:34:12 GMT",
+    "title": "What is a screen made of?",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/what-is-a-screen-made-of-f2b1318778d4?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1400/0*L26pG42n_QiDFkgQ.jpg\" width=\"1400\" /></a></p><p class=\"medium-feed-snippet\">Flat design was right that the screen isn&#x2019;t leather. Then it assumed that meant nothing.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/what-is-a-screen-made-of-f2b1318778d4?source=rss----138adf",
+    "url": "https://uxdesign.cc/what-is-a-screen-made-of-f2b1318778d4?source=rss----138adf9c44c---4",
+    "published": "Tue, 22 Sep 2026 11:22:00 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
   },
   {
-    "title": "Rethinking writing in the world of design and AI",
-    "summary": "<h4>What 100 articles taught me about thinking, friction, and the Shoggoth on the horizon</h4><figure><img alt=\"One hundred design articles, each a small act of thinking: a growing archive of ideas, experiments, doubts, and discoveries, made in the shadow of AI. (image source: Yeo)\" src=\"https://cdn-images-1.medium.com/max/1024/1*li8g5MZb9pcndU9o26lqQw.png\" /><figcaption><em>One hundred design articles, each a small act of thinking: a growing archive of ideas, experiments, doubts, and discoverie",
-    "url": "https://uxdesign.cc/rethinking-writing-in-the-world-of-design-and-ai-1c70188b3998?source=rss----138adf9c44c---4",
-    "published": "Thu, 17 Sep 2026 21:33:43 GMT",
+    "title": "Where does your work go when the tool shuts down?",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/where-does-your-work-go-when-the-tool-shuts-down-d3b74c2a74d8?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1024/1*H8UQmv8qfQSi9gYi8BgVxQ.png\" width=\"1024\" /></a></p><p class=\"medium-feed-snippet\">A quarter of the last decade&#x2019;s web pages have vanished, mostly from sites still online. Who&#x2019;s archiving yours?</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc",
+    "url": "https://uxdesign.cc/where-does-your-work-go-when-the-tool-shuts-down-d3b74c2a74d8?source=rss----138adf9c44c---4",
+    "published": "Tue, 22 Sep 2026 11:21:28 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
   },
   {
-    "title": "The evidence at work",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-evidence-at-work-7407503330e8?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*mCKPQffYa4_8HCToIm93qg.jpeg\" width=\"5842\" /></a></p><p class=\"medium-feed-snippet\">The floor plan and the flexibility policy were chosen deliberately, by people who had an outcome in mind. When the results arrived, they&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/the-ev",
-    "url": "https://uxdesign.cc/the-evidence-at-work-7407503330e8?source=rss----138adf9c44c---4",
-    "published": "Thu, 17 Sep 2026 21:29:20 GMT",
+    "title": "Nobody starts as an accessibility expert",
+    "summary": "<h4><em>Designers, leave your intimidation at the door.</em></h4><p>Nobody becomes a designer because they’re excited about compliance. It sounds boring and it sounds like someone else’s job. Most of us are glad it is.</p><p><strong>But what if we’re wrong? What if no one else is doing it? What if no one else cares?</strong></p><figure><img alt=\"arrow pointing left indicating that accessibility is shifting left\" src=\"https://cdn-images-1.medium.com/max/1024/1*qlc9hL1A0e5eGD7SO0toBA.png\" /></figu",
+    "url": "https://uxdesign.cc/nobody-starts-as-an-accessibility-expert-6a16e8a99960?source=rss----138adf9c44c---4",
+    "published": "Tue, 22 Sep 2026 04:33:52 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
   },
   {
-    "title": "Nothing has changed other than how we talk about it",
-    "summary": "<h4>Why AI and Design Thinking were made for each other.</h4><figure><img alt=\"The Design Thinking Double Diasmond showing how a client request becomes a creative brief that results in an orchestration framework\" src=\"https://cdn-images-1.medium.com/max/825/1*dbzkbG4HlsG10ZmvGzbdXg.jpeg\" /><figcaption>Design Thinking and AI were made for eachother.</figcaption></figure><p>Before a single pixel illuminates in a prototyping tool, Design Thinking asks the same question it has always asked: <em>“Wha",
-    "url": "https://uxdesign.cc/nothing-has-changed-other-than-how-we-talk-about-it-fcc554e853aa?source=rss----138adf9c44c---4",
-    "published": "Thu, 17 Sep 2026 21:29:03 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Lost dog—or lost designer?",
-    "summary": "<h4>Why the ethics of AI-generated design depend on context, intention, and consequence</h4><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*ZitKQGiwfpPEeKDf9pS7lw.png\" /><figcaption>Image: Generated with ChatGPT using a one-shot prompt</figcaption></figure><p>I recently saw a missing-dog poster that caught my attention because it was the first time I had seen one clearly made with AI. <a href=\"https://www.creativebloq.com/design/graphic-design/graphic-designers-are-trying-to-",
-    "url": "https://uxdesign.cc/lost-dog-or-lost-designer-d5de922e54d9?source=rss----138adf9c44c---4",
-    "published": "Thu, 17 Sep 2026 04:31:32 GMT",
+    "title": "Can stress be quantified?",
+    "summary": "<h4>The science and design behind wearable stress tracking</h4><figure><img alt=\"Smartwatch displaying a stress measurement feature.\" src=\"https://cdn-images-1.medium.com/max/1024/0*rF8mI74vlSQ31WGi.jpg\" /><figcaption><a href=\"https://techcrunch.com/2023/07/26/samsung-galaxy-watch-classic-the-bezel-is-back-again/\">(Image source)</a></figcaption></figure><p>Many wearable devices have moved beyond counting steps and tracking heart rate. Now they are trying to measure something more complicated: st",
+    "url": "https://uxdesign.cc/can-stress-be-quantified-d247a81dd0f2?source=rss----138adf9c44c---4",
+    "published": "Tue, 22 Sep 2026 04:32:17 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
   },
   {
     "title": "AI nutrition facts",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/ai-nutrition-facts-cbfa8f9874e8?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*P48o9v9ij66CUu_F9exaSw.png\" width=\"3200\" /></a></p><p class=\"medium-feed-snippet\">Designing an interface between writers, readers, and AI</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/ai-nutrition-facts-cbfa8f9874e8?source=rss----138adf9c44c---4\">Continue reading on UX Collective »",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/ai-nutrition-facts-cbfa8f9874e8?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2262/1*EV2v5KWcwWte8MPf1A2BRw.png\" width=\"2262\" /></a></p><p class=\"medium-feed-snippet\">Designing an interface between writers, readers, and AI</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/ai-nutrition-facts-cbfa8f9874e8?source=rss----138adf9c44c---4\">Continue reading on UX Collective »",
     "url": "https://uxdesign.cc/ai-nutrition-facts-cbfa8f9874e8?source=rss----138adf9c44c---4",
     "published": "Sun, 20 Sep 2026 12:36:44 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "The lie we keep telling ourselves about regulating AI",
+    "summary": "<figure><img alt=\"A parody of Trumbull’s “Declaration of Independence” painted in 18th-century style: solemn figures in powdered wigs gather around a table presenting a long scroll headed “Request for Comments №1,” while a 1970s computer terminal and cables sit incongruously among the quills and inkwells, and one central figure stands humming aloud as the others look on.\" src=\"https://cdn-images-1.medium.com/max/1024/1*RlIlQg8D7hxtFCk-s3nTPA.jpeg\" /><figcaption>The internet’s founders governed a",
+    "url": "https://uxdesign.cc/the-lie-we-keep-telling-ourselves-about-regulating-ai-61e0163d795e?source=rss----138adf9c44c---4",
+    "published": "Mon, 21 Sep 2026 22:47:57 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Should the job of a UX designer be reserved for humans?",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/should-ux-design-be-reserved-for-humans-and-the-future-of-work-9afae1265578?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1250/0*z2ZIQycOzuOzhfdx.png\" width=\"1250\" /></a></p><p class=\"medium-feed-snippet\">Should some jobs stay human even when AI does them better?</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/should-ux-design-be-reserved-for-humans-and-the-future-of",
+    "url": "https://uxdesign.cc/should-ux-design-be-reserved-for-humans-and-the-future-of-work-9afae1265578?source=rss----138adf9c44c---4",
+    "published": "Mon, 21 Sep 2026 22:47:25 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
@@ -148,15 +157,6 @@
     "summary": "<h4>Weekly curated resources for designers — thinkers and makers.</h4><figure><a href=\"https://uxdesign.cc/for-the-designless-0d3e7936a70c\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/0*nYjPlbTw2_RPYkH_.png\" /></a></figure><p>“A designer is not an artist. A designer is a commercial problem-solver, hired to take a client’s half-formed intent — a vibe, a feeling, a vague sense of “make it look professional” — and give it form. That is the job whether the tool is a pencil, Photoshop, ",
     "url": "https://uxdesign.cc/for-the-designless-the-death-of-the-deliverable-iphone-duos-ux-d8ce63862469?source=rss----138adf9c44c---4",
     "published": "Mon, 21 Sep 2026 11:36:07 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Whatever happened to “Download on the App Store” buttons?",
-    "summary": "<h4>They used to be all over the web; now they’re almost extinct.</h4><figure><img alt=\"What ever happened to “Download on the App Store” buttons?\" src=\"https://cdn-images-1.medium.com/max/1024/1*wqYAvTSJQa3-QGzmGrTgsg.png\" /><figcaption>What ever happened to “Download on the App Store” buttons?</figcaption></figure><h3>What buttons?</h3><p>Not too long ago, every website that tried to get its users to download an app to their phone had these buttons: “Download on the App Store” for Apple iPhone",
-    "url": "https://uxdesign.cc/whatever-happened-to-download-on-the-app-store-buttons-e39edb72df79?source=rss----138adf9c44c---4",
-    "published": "Fri, 18 Sep 2026 21:20:51 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"

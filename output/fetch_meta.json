@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-21T17:10:59.986653Z",
+  "fetched_at": "2026-09-22T15:38:08.846482Z",
   "total_candidates": 18,
   "source_stats": {
     "Figma Blog": {
@@ -7,8 +7,8 @@
       "total": 0
     },
     "Vercel Blog (v0)": {
-      "found": 2,
-      "total": 1597
+      "found": 0,
+      "total": 1600
     },
     "Cursor Changelog": {
       "found": 0,
@@ -23,8 +23,8 @@
       "total": 0
     },
     "Lovable Blog": {
-      "found": 0,
-      "total": 158
+      "found": 1,
+      "total": 159
     },
     "Bolt (StackBlitz) Blog": {
       "found": 0,
@@ -51,11 +51,11 @@
       "total": 20
     },
     "Hacker News (设计向)": {
-      "found": 4,
-      "total": 20
+      "found": 0,
+      "total": 0
     },
     "Product Hunt": {
-      "found": 0,
+      "found": 1,
       "total": 50
     },
     "Designer News (AI Design)": {
@@ -64,27 +64,27 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 151,
-  "today_date": "2026-09-21",
+  "dudu_day": 152,
+  "today_date": "2026-09-22",
   "used_titles": [
-    "Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件",
     "生数科技发布 Vidu S2：含 Avatar 与 Editing 双模型，探索空间视频",
     "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify",
     "Unsloth 发布 Docker 镜像与 Unsloth Desktop，本地训练运行 500+ 模型",
     "研究团队用 Claude Opus 5 入侵 OpenAI，获 6500 美元漏洞赏金",
     "《纽约时报》等媒体提交简要判决动议，援引 OpenAI 与微软高管内部言论质疑合理使用抗辩",
-    "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载"
+    "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载",
+    "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑"
   ],
   "used_tools": [
-    "Hacker News：AI 热帖",
     "公众号：生数科技（Vidu·视频）",
     "OpenAI：官网动态（RSS · 排除企业/客户案例）",
     "X：Unsloth (@UnslothAI)",
     "TechCrunch：AI（RSS）",
     "The Decoder：AI News（RSS）",
+    "X：通义千问 / Qwen (@Alibaba_Qwen)",
     "X：通义千问 / Qwen (@Alibaba_Qwen)"
   ],
-  "briefing_total": 21,
-  "briefing_design": 4,
+  "briefing_total": 31,
+  "briefing_design": 9,
   "briefing_count": 5
 }

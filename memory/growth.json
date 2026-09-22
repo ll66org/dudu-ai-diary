@@ -1,5 +1,5 @@
 {
-  "day_count": 151,
+  "day_count": 152,
   "history": [
     {
       "day": 20,
@@ -888,6 +888,13 @@
       "date": "2026-09-21",
       "topic": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑",
       "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+      "mode": "rss"
+    },
+    {
+      "day": 152,
+      "date": "2026-09-22",
+      "topic": "LiteParse 9 月更新：PDFium 提速 20-25%，新增视觉定位与 is-complex 路由 API",
+      "source": "LlamaIndex：产品、工程与评测",
       "mode": "rss"
     }
   ],
