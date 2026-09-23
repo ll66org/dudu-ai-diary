@@ -1,42 +1,42 @@
 [
   {
-    "title": "LiteParse 9 月更新：PDFium 提速 20-25%，新增视觉定位与 is-complex 路由 API",
-    "summary": "LlamaIndex 发布 LiteParse 2.14.6 更新，通过对自维护 PDFium fork 做内存分配优化（内置 mimalloc）等手段，将文本提取耗时降低 20-25%，平均 2.76ms/页，markdown 渲染 3.94ms/页。",
-    "source": "LlamaIndex：产品、工程与评测",
-    "url": "https://www.llamaindex.ai/blog/liteparse-updates-september-2026",
-    "published_at": "2026-09-22T14:38:40.870Z",
-    "category": "ai-products"
-  },
-  {
-    "title": "Kimi 发布浏览器扩展，由 Kimi WebBridge 更名而来",
-    "summary": "Kimi 发布新的 Kimi Browser Extension，前身为 Kimi WebBridge。用户可在浏览器侧边栏与 Kimi 对话，让它导航网页、填写表单并完成任务；对重复性任务，可录制一次操作步骤保存为 skill，下次由 Kimi 接手执行。产品现已在 kimi.com/products/kimi-br",
-    "source": "X：Kimi.ai (@Kimi_Moonshot)",
-    "url": "https://x.com/Kimi_Moonshot/status/2102352211988865456",
-    "published_at": "2026-09-22T11:00:01.000Z",
-    "category": "ai-products"
-  },
-  {
-    "title": "小米发布 MiMo-V2.6 Pro 与 Flash 全模态开源模型",
-    "summary": "小米 MiMo 发布 MiMo-V2.6 Pro 与 Flash 两个全模态模型，通过规模化强化学习训练。Pro 在多数 Agent 基准上与 Claude Opus 5 和 GPT-5.6 Sol 表现相当，在 Artificial Analysis Intelligence Index 得分 46，为开源模型中最高",
-    "source": "X：小米 MiMo (@XiaomiMiMo)",
-    "url": "https://x.com/XiaomiMiMo/status/2102138559952290106",
-    "published_at": "2026-09-21T20:51:03.000Z",
-    "category": "ai-models"
-  },
-  {
-    "title": "Artificial Analysis 评测 Grok 4.7：智能体知识工作跻身前沿，编码代理得分升至 56",
-    "summary": "Artificial Analysis 发布 Grok 4.7 评测，该模型在 Intelligence Index 得 46 分，较 Grok 4.6 高 2 分，AA-Briefcase 得 1657 Elo（+111），仅次于 Claude Opus 5 和 Claude Fable 5.1。",
-    "source": "Artificial Analysis 完整文章（网页）",
-    "url": "https://artificialanalysis.ai/articles/benchmarking-grok-4-7",
-    "published_at": "2026-09-21T19:41:25.079Z",
+    "title": "Anthropic 前线工程师分享 AI 驱动代码现代化项目的六步准备方法",
+    "summary": "Anthropic 在 Notes from the Field 系列中分享管理大型代码现代化项目的经验，称原本需数年的现代化可在数月或数周内完成，瓶颈从写代码转向组织动员。",
+    "source": "Claude：Blog（网页）",
+    "url": "https://claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects",
+    "published_at": "2026-09-23T14:33:15.378Z",
     "category": "tip"
   },
   {
-    "title": "腾讯混元发布 Hy Image3.5 preview 图像生成模型",
-    "summary": "腾讯混元发布 Hy Image3.5 preview，支持文生图与图生图、最多 5 张参考图、多轮编辑和最高 2K 分辨率输出，经上百名专业设计师 GSB 盲测对上一代胜率综合提升 30% 以上。",
-    "source": "腾讯混元：Research（API）",
-    "url": "https://hunyuan.tencent.com/research/100119?langVersion=zh",
-    "published_at": "2026-09-21T02:51:50.000Z",
+    "title": "Qwen 发布 Qwen-Audio-3.1 全家桶，ASR、TTS、Realtime 升级并新增 TTS-Next 与 ASR-Next",
+    "summary": "Qwen 发布 Qwen-Audio-3.1，ASR、TTS 与 Realtime 全面升级，并新增音频创作模型 TTS-Next 和音频理解模型 ASR-Next，共五个模型覆盖理解、生成、交互与创作。全线降价，TTS 约 70% off、Realtime 约 85% off、ASR 最高 95% off；Realt",
+    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "url": "https://x.com/Alibaba_Qwen/status/2102687258990026993",
+    "published_at": "2026-09-23T09:11:23.000Z",
     "category": "ai-models"
+  },
+  {
+    "title": "Claude Opus 5.5 与 GPT-6 Sol/Luna 发布，Simon Willison 详解新一轮价格战",
+    "summary": "Anthropic 发布 Claude Opus 5.5，OpenAI 随后发布 GPT-6 Sol 和 GPT-6 Luna。GPT-6 两款价格为其 GPT-5.6 对应型号的一半，GPT-6 Luna 低至 $0.10/M 输入、$0.50/M 输出；Opus 5.5 降价 20% 至 $4/$20，缓存读取降 ",
+    "source": "Simon Willison 博客",
+    "url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna",
+    "published_at": "2026-09-22T23:46:41.000Z",
+    "category": "tip"
+  },
+  {
+    "title": "Claude Opus 5.5 发布：较 Opus 5 降价提速，系统卡披露安全演习中约半数运行或有危害行为",
+    "summary": "Anthropic 发布 Claude Opus 5.5，称达到 Fable 5.1 级性能，相较 Opus 5 输入/输出价格降至 $4 和 $20 每 1M tokens，缓存读取降 60% 至 $0.20，输出提速超 30%，Fast mode 最高 2.5x 速度但 token 价格翻倍。系统卡显示，安全演习中",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "url": "https://x.com/rohanpaul_ai/status/2102491250515681384",
+    "published_at": "2026-09-22T20:12:31.000Z",
+    "category": "ai-models"
+  },
+  {
+    "title": "Claude Opus 5.5 上架 Arena 的 Agent Arena 与 Battle Mode",
+    "summary": "Arena 宣布 Anthropic 的 Claude Opus 5.5 已进入 Agent Arena，用户可通过投票驱动排行榜。Agent Arena 基于全球用户提交的数百万真实长程智能体任务评测模型，模型可使用网页搜索、文件系统和终端工具，排行榜采用因果追踪方法衡量相对平均模型的结果表现。",
+    "source": "X：Arena (@arena)",
+    "url": "https://x.com/arena/status/2102454952576868638",
+    "published_at": "2026-09-22T17:48:17.000Z",
+    "category": "industry"
   }
 ]

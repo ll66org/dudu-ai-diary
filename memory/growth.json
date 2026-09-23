@@ -1,5 +1,5 @@
 {
-  "day_count": 152,
+  "day_count": 153,
   "history": [
     {
       "day": 20,
@@ -895,6 +895,13 @@
       "date": "2026-09-22",
       "topic": "LiteParse 9 月更新：PDFium 提速 20-25%，新增视觉定位与 is-complex 路由 API",
       "source": "LlamaIndex：产品、工程与评测",
+      "mode": "rss"
+    },
+    {
+      "day": 153,
+      "date": "2026-09-23",
+      "topic": "Anthropic 前线工程师分享 AI 驱动代码现代化项目的六步准备方法",
+      "source": "Claude：Blog（网页）",
       "mode": "rss"
     }
   ],

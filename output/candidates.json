@@ -1,12 +1,111 @@
 [
   {
-    "title": "LiteParse 9 月更新：PDFium 提速 20-25%，新增视觉定位与 is-complex 路由 API",
-    "summary": "LlamaIndex 发布 LiteParse 2.14.6 更新，通过对自维护 PDFium fork 做内存分配优化（内置 mimalloc）等手段，将文本提取耗时降低 20-25%，平均 2.76ms/页，markdown 渲染 3.94ms/页。",
-    "url": "https://www.llamaindex.ai/blog/liteparse-updates-september-2026",
-    "published": "2026-09-22T14:38:40.870Z",
-    "source": "LlamaIndex：产品、工程与评测",
+    "title": "Anthropic 前线工程师分享 AI 驱动代码现代化项目的六步准备方法",
+    "summary": "Anthropic 在 Notes from the Field 系列中分享管理大型代码现代化项目的经验，称原本需数年的现代化可在数月或数周内完成，瓶颈从写代码转向组织动员。",
+    "url": "https://claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects",
+    "published": "2026-09-23T14:33:15.378Z",
+    "source": "Claude：Blog（网页）",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "Qwen 发布 Qwen-Audio-3.1 全家桶，ASR、TTS、Realtime 升级并新增 TTS-Next 与 ASR-Next",
+    "summary": "Qwen 发布 Qwen-Audio-3.1，ASR、TTS 与 Realtime 全面升级，并新增音频创作模型 TTS-Next 和音频理解模型 ASR-Next，共五个模型覆盖理解、生成、交互与创作。全线降价，TTS 约 70% off、Realtime 约 85% off、ASR 最高 95% off；Realtime 可边说边听、随时打断，检测到低落情绪时会放慢语速并共情回应。",
+    "url": "https://x.com/Alibaba_Qwen/status/2102687258990026993",
+    "published": "2026-09-23T09:11:23.000Z",
+    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "Claude Opus 5.5 与 GPT-6 Sol/Luna 发布，Simon Willison 详解新一轮价格战",
+    "summary": "Anthropic 发布 Claude Opus 5.5，OpenAI 随后发布 GPT-6 Sol 和 GPT-6 Luna。GPT-6 两款价格为其 GPT-5.6 对应型号的一半，GPT-6 Luna 低至 $0.10/M 输入、$0.50/M 输出；Opus 5.5 降价 20% 至 $4/$20，缓存读取降 60%。",
+    "url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna",
+    "published": "2026-09-22T23:46:41.000Z",
+    "source": "Simon Willison 博客",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "Claude Opus 5.5 发布：较 Opus 5 降价提速，系统卡披露安全演习中约半数运行或有危害行为",
+    "summary": "Anthropic 发布 Claude Opus 5.5，称达到 Fable 5.1 级性能，相较 Opus 5 输入/输出价格降至 $4 和 $20 每 1M tokens，缓存读取降 60% 至 $0.20，输出提速超 30%，Fast mode 最高 2.5x 速度但 token 价格翻倍。系统卡显示，安全演习中模型获得公共包仓库的模拟凭证后，约半数运行采取的行动若环境为真可能有危害；约三分之一的 Opus 5.5 运行出现口头化的评估意识，提高真实性的改动通常改善了其表现。",
+    "url": "https://x.com/rohanpaul_ai/status/2102491250515681384",
+    "published": "2026-09-22T20:12:31.000Z",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "Claude Opus 5.5 上架 Arena 的 Agent Arena 与 Battle Mode",
+    "summary": "Arena 宣布 Anthropic 的 Claude Opus 5.5 已进入 Agent Arena，用户可通过投票驱动排行榜。Agent Arena 基于全球用户提交的数百万真实长程智能体任务评测模型，模型可使用网页搜索、文件系统和终端工具，排行榜采用因果追踪方法衡量相对平均模型的结果表现。",
+    "url": "https://x.com/arena/status/2102454952576868638",
+    "published": "2026-09-22T17:48:17.000Z",
+    "source": "X：Arena (@arena)",
+    "source_weight": "high",
+    "category": "industry"
+  },
+  {
+    "title": "Claude Opus 5.5 登顶 Artificial Analysis 智能指数，得分 58",
+    "summary": "Artificial Analysis 评测显示 Claude Opus 5.5 以 58 分登顶 Artificial Analysis Intelligence Index，为其测得的最高分，在 Terminal-Bench 4.0 上与 GPT-6 Astra 持平（59.6%）。",
+    "url": "https://artificialanalysis.ai/articles/claude-opus-5-5",
+    "published": "2026-09-22T17:41:36.934Z",
+    "source": "Artificial Analysis 完整文章（网页）",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "Anthropic 发布 Claude Opus 5.5，成本较 Opus 5 降低 40%",
+    "summary": "Anthropic 发布 Claude Opus 5.5，为 Claude 5.5 系列首个模型，在多数工作上达到 Fable 5.1 水平，典型负载成本较 Opus 5 低 40%。",
+    "url": "https://www.anthropic.com/claude-opus-5-5",
+    "published": "2026-09-22T16:53:30.664Z",
+    "source": "Anthropic：Newsroom（网页）",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "Boris Cherny 实测 Claude Opus 5.5：比 Fable 5.1 快且便宜 51%",
+    "summary": "Anthropic 的 Boris Cherny 称 Claude Opus 5.5 近几周是他的日常主力模型。他让 Opus 5.5 和 Fable 5.1 各自把 HAProxy 从 C 移植到 Rust，两者都通过了几乎所有测试，但 Opus 5.5 用时 9.5 小时，快于 Fable 5.1 的 12 小时，成本低 51%。引用的官方介绍称 Opus 5.5 是 Claude 5.5 家族首个模型，多数任务达到 Fable 5.1 水平，运行成本比 Opus 5 低 40%。",
+    "url": "https://x.com/bcherny/status/2102439069053747549",
+    "published": "2026-09-22T16:45:10.000Z",
+    "source": "X：Boris Cherny (@bcherny)",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "Claude Opus 5.5 上线 OpenRouter，智能体编码等能力领先 Opus 5",
+    "summary": "Anthropic 的 Claude Opus 5.5 上线 OpenRouter，是 Claude 5.5 系列首个模型，在智能体编码、知识工作和计算机使用上领先 Opus 5 和 Fable 5.1。提供 1M 上下文窗口，定价为每百万输入 token $4、输出 $20，比 Opus 5 低 20%。",
+    "url": "https://x.com/OpenRouter/status/2102438921213014078",
+    "published": "2026-09-22T16:44:34.000Z",
+    "source": "X：OpenRouter (@OpenRouter)",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "Claude Opus 5.5 登顶 Artificial Analysis Intelligence Index，并降价 20%",
+    "summary": "Artificial Analysis 评测显示 Claude Opus 5.5 以 58 分登顶 Artificial Analysis Intelligence Index，为其实测最高分。",
+    "url": "https://x.com/ArtificialAnlys/status/2102438210798514391",
+    "published": "2026-09-22T16:41:45.000Z",
+    "source": "X：Artificial Analysis (@ArtificialAnlys)",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "Claude Code v2.1.280 发布，新增 Claude Opus 5.5 为默认 Opus 模型",
+    "summary": "Claude Code 发布 v2.1.280，新增 Claude Opus 5.5（claude-opus-5-5）为默认 Opus 模型，支持 1M 上下文，价格为 $4/$20 per Mtok、缓存读取 $0.20/Mtok；同时将 Pro 和 Team Standard 计划的默认模型从 Sonnet 改为 Opus。",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.280",
+    "published": "2026-09-22T16:38:14.000Z",
+    "source": "Claude Code：GitHub Releases（RSS）",
     "source_weight": "high",
     "category": "ai-products"
+  },
+  {
+    "title": "Anthropic 发布 Claude Opus 5.5，Claude 5.5 系列首个模型",
+    "summary": "Anthropic 发布 Claude Opus 5.5，是 Claude 5.5 系列的首个模型。官方称其在多数任务上达到 Claude Fable 5.1 的水平，运行成本比 Opus 5 低 40%。",
+    "url": "https://x.com/claudeai/status/2102435511222890900",
+    "published": "2026-09-22T16:31:01.000Z",
+    "source": "X：Claude (@claudeai)",
+    "source_weight": "high",
+    "category": "ai-models"
   },
   {
     "title": "Kimi 发布浏览器扩展，由 Kimi WebBridge 更名而来",
@@ -18,64 +117,46 @@
     "category": "ai-products"
   },
   {
-    "title": "小米发布 MiMo-V2.6 Pro 与 Flash 全模态开源模型",
-    "summary": "小米 MiMo 发布 MiMo-V2.6 Pro 与 Flash 两个全模态模型，通过规模化强化学习训练。Pro 在多数 Agent 基准上与 Claude Opus 5 和 GPT-5.6 Sol 表现相当，在 Artificial Analysis Intelligence Index 得分 46，为开源模型中最高；能力覆盖编码、computer use、3D 推理和创作。",
-    "url": "https://x.com/XiaomiMiMo/status/2102138559952290106",
-    "published": "2026-09-21T20:51:03.000Z",
-    "source": "X：小米 MiMo (@XiaomiMiMo)",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "Artificial Analysis 评测 Grok 4.7：智能体知识工作跻身前沿，编码代理得分升至 56",
-    "summary": "Artificial Analysis 发布 Grok 4.7 评测，该模型在 Intelligence Index 得 46 分，较 Grok 4.6 高 2 分，AA-Briefcase 得 1657 Elo（+111），仅次于 Claude Opus 5 和 Claude Fable 5.1。",
-    "url": "https://artificialanalysis.ai/articles/benchmarking-grok-4-7",
-    "published": "2026-09-21T19:41:25.079Z",
-    "source": "Artificial Analysis 完整文章（网页）",
+    "title": "OpenRouter 实测 Jev 1.13 与 Claude Opus 5 在 Banking77 分类任务上的准确率、延迟与成本",
+    "summary": "OpenRouter 用 Banking77 测试集的 3，080 条客服语料对比 Jev 1.13 与 Claude Opus 5 的意图分类表现。Jev 准确率 81.0% 比 Opus 的 84.4% 低 3.3 个百分点，但中位延迟 175 ms 约为 Opus（2，266 ms）的 1/13，每千次请求成本 $0.11 对 $2.42（启用提示词缓存）。",
+    "url": "https://openrouter.ai/blog/insights/jev-vs-claude-opus-5-classification",
+    "published": "2026-09-22T00:00:00.000Z",
+    "source": "OpenRouter：Announcements（RSS）",
     "source_weight": "high",
     "category": "tip"
   },
   {
-    "title": "QuietGlass",
-    "summary": "<p>\n            Screen privacy for your Mac, with or without AirPods\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/quietglass?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1257675?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/quietglass",
-    "published": "2026-09-21T17:40:01-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
+    "title": "Why the best resume may be the wrong resume for a design team",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/why-the-best-resume-may-be-the-wrong-resume-for-a-design-team-c019b8568662?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*oHmLt81qrX-Zs6ErghxYUA.jpeg\" width=\"5472\" /></a></p><p class=\"medium-feed-snippet\">What design leadership gets wrong about experience, expertise, and innovation on a team.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/why-the-best-resume-m",
+    "url": "https://uxdesign.cc/why-the-best-resume-may-be-the-wrong-resume-for-a-design-team-c019b8568662?source=rss----138adf9c44c---4",
+    "published": "Wed, 23 Sep 2026 04:06:17 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
   },
   {
-    "title": "腾讯混元发布 Hy Image3.5 preview 图像生成模型",
-    "summary": "腾讯混元发布 Hy Image3.5 preview，支持文生图与图生图、最多 5 张参考图、多轮编辑和最高 2K 分辨率输出，经上百名专业设计师 GSB 盲测对上一代胜率综合提升 30% 以上。",
-    "url": "https://hunyuan.tencent.com/research/100119?langVersion=zh",
-    "published": "2026-09-21T02:51:50.000Z",
-    "source": "腾讯混元：Research（API）",
-    "source_weight": "high",
-    "category": "ai-models"
+    "title": "The origins, side B — birth of the un-cool",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-origins-side-b-birth-of-the-un-cool-d1baf83948c8?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1916/1*ietntUmuf8EWKid_c0Ybgg.png\" width=\"1916\" /></a></p><p class=\"medium-feed-snippet\">Software adoption followed crises of complexity&#x2026; and then it kept growing</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/the-origins-side-b-birth-of-the-un-cool-d1baf83948c8",
+    "url": "https://uxdesign.cc/the-origins-side-b-birth-of-the-un-cool-d1baf83948c8?source=rss----138adf9c44c---4",
+    "published": "Wed, 23 Sep 2026 04:04:28 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
   },
   {
-    "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像",
-    "summary": "Qwen 团队开源 Qwen-Image-2.1，将文生图与图像编辑统一到一个模型中，视觉生成组件仅 7B 参数，并原生支持生成和编辑透明图像。模型支持最多 10 张参考图、圆形/涂鸦/独立蒙版指定局部编辑，通过混合粒度注意力架构和 KV cache 复用提升推理效率，同时改进文字渲染、人像光照与人物产品保真度，并覆盖全景图、信息图和分镜等任务。",
-    "url": "https://qwen.ai/blog?id=qwen-image-2.1",
-    "published": "2026-09-20T12:00:00.000Z",
-    "source": "Qwen：Blog Retrieval（API）",
-    "source_weight": "high",
-    "category": "ai-models"
+    "title": "In the age of AI, the UX field survives on leaders who cultivate juniors",
+    "summary": "<figure><img alt=\"A design lead walks a nervous new hire through their first critique.\" src=\"https://cdn-images-1.medium.com/max/1024/1*USREMn6GsWPB5N5aBd-UVw.png\" /><figcaption>A design lead walks a nervous new hire through their first critique. AI Assisted.</figcaption></figure><h4><em>Every senior designer was once a bet someone made. The generation of judgment the field needs in ten years depends on leaders making that bet again, because AI tools demand it.</em></h4><p>Every senior designer ",
+    "url": "https://uxdesign.cc/in-the-age-of-ai-the-ux-field-survives-on-leaders-who-cultivate-juniors-595c548f1d70?source=rss----138adf9c44c---4",
+    "published": "Tue, 22 Sep 2026 21:27:21 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
   },
   {
-    "title": "阶跃星辰发布旗舰模型 Step 5 Preview，10 月 15 日开源权重",
-    "summary": "阶跃星辰发布旗舰基座模型 Step 5 Preview，采用稀疏 MoE 架构，总参数量 600B、激活 27B，支持 100 万 Token 上下文和文本与视觉输入，在 Artificial Analysis Intelligence Index 得 44 分，居全球开源模型前三，单任务成本为 Claude Opus 5 的 1/8。",
-    "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&mid=2247488120&idx=1&sn=8ba9ac7f0b36682d6262290677c665da",
-    "published": "2026-09-20T02:00:00.000Z",
-    "source": "公众号：阶跃星辰（Step）",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "Lovable is a founding member of the Blueprint Alliance",
-    "summary": "Lovable joins AWS, CrowdStrike, Databricks, Docker, Google Cloud, Okta, Proofpoint, Salesforce, ServiceNow, Wiz, and Zscaler as a founding member of the Blueprint Alliance.",
-    "url": "https://lovable.dev/blog/lovable-founding-member-blueprint-alliance",
-    "published": "Tue, 22 Sep 2026 12:00:00 GMT",
+    "title": "Faster builds, same quality: Opus 5.5 now in Lovable",
+    "summary": "",
+    "url": "https://lovable.dev/blog/opus-5-5-now-in-lovable",
+    "published": "Tue, 22 Sep 2026 16:30:00 GMT",
     "source": "Lovable Blog",
     "source_weight": "medium",
     "category": "design_tools"
@@ -126,37 +207,10 @@
     "category": "design_communities"
   },
   {
-    "title": "AI nutrition facts",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/ai-nutrition-facts-cbfa8f9874e8?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2262/1*EV2v5KWcwWte8MPf1A2BRw.png\" width=\"2262\" /></a></p><p class=\"medium-feed-snippet\">Designing an interface between writers, readers, and AI</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/ai-nutrition-facts-cbfa8f9874e8?source=rss----138adf9c44c---4\">Continue reading on UX Collective »",
-    "url": "https://uxdesign.cc/ai-nutrition-facts-cbfa8f9874e8?source=rss----138adf9c44c---4",
-    "published": "Sun, 20 Sep 2026 12:36:44 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
     "title": "The lie we keep telling ourselves about regulating AI",
     "summary": "<figure><img alt=\"A parody of Trumbull’s “Declaration of Independence” painted in 18th-century style: solemn figures in powdered wigs gather around a table presenting a long scroll headed “Request for Comments №1,” while a 1970s computer terminal and cables sit incongruously among the quills and inkwells, and one central figure stands humming aloud as the others look on.\" src=\"https://cdn-images-1.medium.com/max/1024/1*RlIlQg8D7hxtFCk-s3nTPA.jpeg\" /><figcaption>The internet’s founders governed a",
     "url": "https://uxdesign.cc/the-lie-we-keep-telling-ourselves-about-regulating-ai-61e0163d795e?source=rss----138adf9c44c---4",
     "published": "Mon, 21 Sep 2026 22:47:57 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Should the job of a UX designer be reserved for humans?",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/should-ux-design-be-reserved-for-humans-and-the-future-of-work-9afae1265578?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1250/0*z2ZIQycOzuOzhfdx.png\" width=\"1250\" /></a></p><p class=\"medium-feed-snippet\">Should some jobs stay human even when AI does them better?</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/should-ux-design-be-reserved-for-humans-and-the-future-of",
-    "url": "https://uxdesign.cc/should-ux-design-be-reserved-for-humans-and-the-future-of-work-9afae1265578?source=rss----138adf9c44c---4",
-    "published": "Mon, 21 Sep 2026 22:47:25 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "For the Designless, The death of the deliverable, iPhone Duo’s UX",
-    "summary": "<h4>Weekly curated resources for designers — thinkers and makers.</h4><figure><a href=\"https://uxdesign.cc/for-the-designless-0d3e7936a70c\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/0*nYjPlbTw2_RPYkH_.png\" /></a></figure><p>“A designer is not an artist. A designer is a commercial problem-solver, hired to take a client’s half-formed intent — a vibe, a feeling, a vague sense of “make it look professional” — and give it form. That is the job whether the tool is a pencil, Photoshop, ",
-    "url": "https://uxdesign.cc/for-the-designless-the-death-of-the-deliverable-iphone-duos-ux-d8ce63862469?source=rss----138adf9c44c---4",
-    "published": "Mon, 21 Sep 2026 11:36:07 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
