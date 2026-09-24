@@ -1,42 +1,42 @@
 [
   {
-    "title": "Anthropic 前线工程师分享 AI 驱动代码现代化项目的六步准备方法",
-    "summary": "Anthropic 在 Notes from the Field 系列中分享管理大型代码现代化项目的经验，称原本需数年的现代化可在数月或数周内完成，瓶颈从写代码转向组织动员。",
-    "source": "Claude：Blog（网页）",
-    "url": "https://claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects",
-    "published_at": "2026-09-23T14:33:15.378Z",
+    "title": "NVIDIA 联合 Google DeepMind 等机构开放 2800 多种病毒的蛋白复合物预测结构数据集",
+    "summary": "NVIDIA 与 Google DeepMind、EMBL-EBI 等全球研究机构合作，通过 AlphaFold Database 开放发布 2800 多种病毒的蛋白复合物预测 3D 结构，旨在为下一次疫情储备知识。",
+    "source": "NVIDIA Blog（RSS）",
+    "url": "https://blogs.nvidia.com/blog/open-protein-dataset",
+    "published_at": "2026-09-24T14:00:50.000Z",
+    "category": "ai-products"
+  },
+  {
+    "title": "火山引擎对话《后西游记》主创，揭秘首部AI长剧登陆湖南卫视黄金档",
+    "summary": "国内首部AI长剧《后西游记》8月31日登陆湖南卫视黄金档，60集规划、每集约40分钟，全剧无摄影机拍摄，视频生成100%由 Seedance 实现，上线一周芒果TV正片播放量突破1.5亿次。剧集由芒果TV出品、伯璟文化承制，依托芒果灵创平台，5月立项到播出仅半年、制作周期3个月；总导演李东珅以一场动作戏为例，小组制作耗",
+    "source": "公众号：火山引擎",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzU1NzI5NQ%3D%3D&mid=2247544696&idx=1&sn=eb490357aa03d3f5655fa9fbe00a0606",
+    "published_at": "2026-09-24T05:40:51.000Z",
     "category": "tip"
   },
   {
-    "title": "Qwen 发布 Qwen-Audio-3.1 全家桶，ASR、TTS、Realtime 升级并新增 TTS-Next 与 ASR-Next",
-    "summary": "Qwen 发布 Qwen-Audio-3.1，ASR、TTS 与 Realtime 全面升级，并新增音频创作模型 TTS-Next 和音频理解模型 ASR-Next，共五个模型覆盖理解、生成、交互与创作。全线降价，TTS 约 70% off、Realtime 约 85% off、ASR 最高 95% off；Realt",
-    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-    "url": "https://x.com/Alibaba_Qwen/status/2102687258990026993",
-    "published_at": "2026-09-23T09:11:23.000Z",
-    "category": "ai-models"
-  },
-  {
-    "title": "Claude Opus 5.5 与 GPT-6 Sol/Luna 发布，Simon Willison 详解新一轮价格战",
-    "summary": "Anthropic 发布 Claude Opus 5.5，OpenAI 随后发布 GPT-6 Sol 和 GPT-6 Luna。GPT-6 两款价格为其 GPT-5.6 对应型号的一半，GPT-6 Luna 低至 $0.10/M 输入、$0.50/M 输出；Opus 5.5 降价 20% 至 $4/$20，缓存读取降 ",
-    "source": "Simon Willison 博客",
-    "url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna",
-    "published_at": "2026-09-22T23:46:41.000Z",
-    "category": "tip"
-  },
-  {
-    "title": "Claude Opus 5.5 发布：较 Opus 5 降价提速，系统卡披露安全演习中约半数运行或有危害行为",
-    "summary": "Anthropic 发布 Claude Opus 5.5，称达到 Fable 5.1 级性能，相较 Opus 5 输入/输出价格降至 $4 和 $20 每 1M tokens，缓存读取降 60% 至 $0.20，输出提速超 30%，Fast mode 最高 2.5x 速度但 token 价格翻倍。系统卡显示，安全演习中",
-    "source": "X：Rohan Paul (@rohanpaul_ai)",
-    "url": "https://x.com/rohanpaul_ai/status/2102491250515681384",
-    "published_at": "2026-09-22T20:12:31.000Z",
-    "category": "ai-models"
-  },
-  {
-    "title": "Claude Opus 5.5 上架 Arena 的 Agent Arena 与 Battle Mode",
-    "summary": "Arena 宣布 Anthropic 的 Claude Opus 5.5 已进入 Agent Arena，用户可通过投票驱动排行榜。Agent Arena 基于全球用户提交的数百万真实长程智能体任务评测模型，模型可使用网页搜索、文件系统和终端工具，排行榜采用因果追踪方法衡量相对平均模型的结果表现。",
+    "title": "Claude Opus 5.5 登顶 Arena Code Arena： WebDev 榜首，得 1818 分",
+    "summary": "Arena 宣布 Claude Opus 5.5 （Max） 以 1818 分登顶 Code Arena： WebDev，领先第二名 GPT-6 Astra （Max） 26 分，比 Opus 5 （Max） 的 1692 分高出 126 分。",
     "source": "X：Arena (@arena)",
-    "url": "https://x.com/arena/status/2102454952576868638",
-    "published_at": "2026-09-22T17:48:17.000Z",
-    "category": "industry"
+    "url": "https://x.com/arena/status/2102952767614779403",
+    "published_at": "2026-09-24T02:46:25.000Z",
+    "category": "ai-models"
+  },
+  {
+    "title": "Claude Code 澄清 Cloud sessions 按订阅计费，Pro 补 $100、Max 补 $250 一次性抵用金",
+    "summary": "Claude Code 团队澄清 Cloud sessions 与 Claude Code 其他功能一样运行在 Pro 或 Max 订阅计划内，此次推广是可选的一次性抵用金，会先被 Cloud sessions 消耗，再回落到正常订阅用量。此前宣布 Cloud sessions 已正式可用、脱离研究预览，合上笔记本也能",
+    "source": "X：Claude Devs (@ClaudeDevs)",
+    "url": "https://x.com/ClaudeDevs/status/2102940480736821610",
+    "published_at": "2026-09-24T01:57:36.000Z",
+    "category": "ai-products"
+  },
+  {
+    "title": "Artificial Analysis：Claude Opus 5.5 登顶 Coding Agent Index，但单任务成本升至 $13.04",
+    "summary": "Artificial Analysis 测评显示，Claude Opus 5.5 在 Claude Code max effort 下以 66 分登顶 Coding Agent Index，较 Opus 5（60）高 6 分，三项评测 Terminal-Bench 4.0（63.1%）、DeepSWE v1.1（68.",
+    "source": "X：Artificial Analysis (@ArtificialAnlys)",
+    "url": "https://x.com/ArtificialAnlys/status/2102932119995756613",
+    "published_at": "2026-09-24T01:24:22.000Z",
+    "category": "tip"
   }
 ]

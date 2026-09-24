@@ -1,5 +1,5 @@
 {
-  "day_count": 153,
+  "day_count": 154,
   "history": [
     {
       "day": 20,
@@ -902,6 +902,13 @@
       "date": "2026-09-23",
       "topic": "Anthropic 前线工程师分享 AI 驱动代码现代化项目的六步准备方法",
       "source": "Claude：Blog（网页）",
+      "mode": "rss"
+    },
+    {
+      "day": 154,
+      "date": "2026-09-24",
+      "topic": "NVIDIA 联合 Google DeepMind 等机构开放 2800 多种病毒的蛋白复合物预测结构数据集",
+      "source": "NVIDIA Blog（RSS）",
       "mode": "rss"
     }
   ],

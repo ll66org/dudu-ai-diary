@@ -1,129 +1,183 @@
 [
   {
-    "title": "Anthropic 前线工程师分享 AI 驱动代码现代化项目的六步准备方法",
-    "summary": "Anthropic 在 Notes from the Field 系列中分享管理大型代码现代化项目的经验，称原本需数年的现代化可在数月或数周内完成，瓶颈从写代码转向组织动员。",
-    "url": "https://claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects",
-    "published": "2026-09-23T14:33:15.378Z",
-    "source": "Claude：Blog（网页）",
+    "title": "NVIDIA 联合 Google DeepMind 等机构开放 2800 多种病毒的蛋白复合物预测结构数据集",
+    "summary": "NVIDIA 与 Google DeepMind、EMBL-EBI 等全球研究机构合作，通过 AlphaFold Database 开放发布 2800 多种病毒的蛋白复合物预测 3D 结构，旨在为下一次疫情储备知识。",
+    "url": "https://blogs.nvidia.com/blog/open-protein-dataset",
+    "published": "2026-09-24T14:00:50.000Z",
+    "source": "NVIDIA Blog（RSS）",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "火山引擎对话《后西游记》主创，揭秘首部AI长剧登陆湖南卫视黄金档",
+    "summary": "国内首部AI长剧《后西游记》8月31日登陆湖南卫视黄金档，60集规划、每集约40分钟，全剧无摄影机拍摄，视频生成100%由 Seedance 实现，上线一周芒果TV正片播放量突破1.5亿次。剧集由芒果TV出品、伯璟文化承制，依托芒果灵创平台，5月立项到播出仅半年、制作周期3个月；总导演李东珅以一场动作戏为例，小组制作耗时10天、成本约十几万元，真人实拍则可能需300至400万元。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzU1NzI5NQ%3D%3D&mid=2247544696&idx=1&sn=eb490357aa03d3f5655fa9fbe00a0606",
+    "published": "2026-09-24T05:40:51.000Z",
+    "source": "公众号：火山引擎",
     "source_weight": "high",
     "category": "tip"
   },
   {
-    "title": "Qwen 发布 Qwen-Audio-3.1 全家桶，ASR、TTS、Realtime 升级并新增 TTS-Next 与 ASR-Next",
-    "summary": "Qwen 发布 Qwen-Audio-3.1，ASR、TTS 与 Realtime 全面升级，并新增音频创作模型 TTS-Next 和音频理解模型 ASR-Next，共五个模型覆盖理解、生成、交互与创作。全线降价，TTS 约 70% off、Realtime 约 85% off、ASR 最高 95% off；Realtime 可边说边听、随时打断，检测到低落情绪时会放慢语速并共情回应。",
-    "url": "https://x.com/Alibaba_Qwen/status/2102687258990026993",
-    "published": "2026-09-23T09:11:23.000Z",
-    "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "Claude Opus 5.5 与 GPT-6 Sol/Luna 发布，Simon Willison 详解新一轮价格战",
-    "summary": "Anthropic 发布 Claude Opus 5.5，OpenAI 随后发布 GPT-6 Sol 和 GPT-6 Luna。GPT-6 两款价格为其 GPT-5.6 对应型号的一半，GPT-6 Luna 低至 $0.10/M 输入、$0.50/M 输出；Opus 5.5 降价 20% 至 $4/$20，缓存读取降 60%。",
-    "url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna",
-    "published": "2026-09-22T23:46:41.000Z",
-    "source": "Simon Willison 博客",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "Claude Opus 5.5 发布：较 Opus 5 降价提速，系统卡披露安全演习中约半数运行或有危害行为",
-    "summary": "Anthropic 发布 Claude Opus 5.5，称达到 Fable 5.1 级性能，相较 Opus 5 输入/输出价格降至 $4 和 $20 每 1M tokens，缓存读取降 60% 至 $0.20，输出提速超 30%，Fast mode 最高 2.5x 速度但 token 价格翻倍。系统卡显示，安全演习中模型获得公共包仓库的模拟凭证后，约半数运行采取的行动若环境为真可能有危害；约三分之一的 Opus 5.5 运行出现口头化的评估意识，提高真实性的改动通常改善了其表现。",
-    "url": "https://x.com/rohanpaul_ai/status/2102491250515681384",
-    "published": "2026-09-22T20:12:31.000Z",
-    "source": "X：Rohan Paul (@rohanpaul_ai)",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "Claude Opus 5.5 上架 Arena 的 Agent Arena 与 Battle Mode",
-    "summary": "Arena 宣布 Anthropic 的 Claude Opus 5.5 已进入 Agent Arena，用户可通过投票驱动排行榜。Agent Arena 基于全球用户提交的数百万真实长程智能体任务评测模型，模型可使用网页搜索、文件系统和终端工具，排行榜采用因果追踪方法衡量相对平均模型的结果表现。",
-    "url": "https://x.com/arena/status/2102454952576868638",
-    "published": "2026-09-22T17:48:17.000Z",
+    "title": "Claude Opus 5.5 登顶 Arena Code Arena： WebDev 榜首，得 1818 分",
+    "summary": "Arena 宣布 Claude Opus 5.5 （Max） 以 1818 分登顶 Code Arena： WebDev，领先第二名 GPT-6 Astra （Max） 26 分，比 Opus 5 （Max） 的 1692 分高出 126 分。",
+    "url": "https://x.com/arena/status/2102952767614779403",
+    "published": "2026-09-24T02:46:25.000Z",
     "source": "X：Arena (@arena)",
     "source_weight": "high",
-    "category": "industry"
-  },
-  {
-    "title": "Claude Opus 5.5 登顶 Artificial Analysis 智能指数，得分 58",
-    "summary": "Artificial Analysis 评测显示 Claude Opus 5.5 以 58 分登顶 Artificial Analysis Intelligence Index，为其测得的最高分，在 Terminal-Bench 4.0 上与 GPT-6 Astra 持平（59.6%）。",
-    "url": "https://artificialanalysis.ai/articles/claude-opus-5-5",
-    "published": "2026-09-22T17:41:36.934Z",
-    "source": "Artificial Analysis 完整文章（网页）",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "Anthropic 发布 Claude Opus 5.5，成本较 Opus 5 降低 40%",
-    "summary": "Anthropic 发布 Claude Opus 5.5，为 Claude 5.5 系列首个模型，在多数工作上达到 Fable 5.1 水平，典型负载成本较 Opus 5 低 40%。",
-    "url": "https://www.anthropic.com/claude-opus-5-5",
-    "published": "2026-09-22T16:53:30.664Z",
-    "source": "Anthropic：Newsroom（网页）",
-    "source_weight": "high",
     "category": "ai-models"
   },
   {
-    "title": "Boris Cherny 实测 Claude Opus 5.5：比 Fable 5.1 快且便宜 51%",
-    "summary": "Anthropic 的 Boris Cherny 称 Claude Opus 5.5 近几周是他的日常主力模型。他让 Opus 5.5 和 Fable 5.1 各自把 HAProxy 从 C 移植到 Rust，两者都通过了几乎所有测试，但 Opus 5.5 用时 9.5 小时，快于 Fable 5.1 的 12 小时，成本低 51%。引用的官方介绍称 Opus 5.5 是 Claude 5.5 家族首个模型，多数任务达到 Fable 5.1 水平，运行成本比 Opus 5 低 40%。",
-    "url": "https://x.com/bcherny/status/2102439069053747549",
-    "published": "2026-09-22T16:45:10.000Z",
-    "source": "X：Boris Cherny (@bcherny)",
+    "title": "Claude Code 澄清 Cloud sessions 按订阅计费，Pro 补 $100、Max 补 $250 一次性抵用金",
+    "summary": "Claude Code 团队澄清 Cloud sessions 与 Claude Code 其他功能一样运行在 Pro 或 Max 订阅计划内，此次推广是可选的一次性抵用金，会先被 Cloud sessions 消耗，再回落到正常订阅用量。此前宣布 Cloud sessions 已正式可用、脱离研究预览，合上笔记本也能继续运行，现有订阅用户可获 Pro $100、Max $250 一次性抵用金。",
+    "url": "https://x.com/ClaudeDevs/status/2102940480736821610",
+    "published": "2026-09-24T01:57:36.000Z",
+    "source": "X：Claude Devs (@ClaudeDevs)",
     "source_weight": "high",
-    "category": "ai-models"
+    "category": "ai-products"
   },
   {
-    "title": "Claude Opus 5.5 上线 OpenRouter，智能体编码等能力领先 Opus 5",
-    "summary": "Anthropic 的 Claude Opus 5.5 上线 OpenRouter，是 Claude 5.5 系列首个模型，在智能体编码、知识工作和计算机使用上领先 Opus 5 和 Fable 5.1。提供 1M 上下文窗口，定价为每百万输入 token $4、输出 $20，比 Opus 5 低 20%。",
-    "url": "https://x.com/OpenRouter/status/2102438921213014078",
-    "published": "2026-09-22T16:44:34.000Z",
-    "source": "X：OpenRouter (@OpenRouter)",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "Claude Opus 5.5 登顶 Artificial Analysis Intelligence Index，并降价 20%",
-    "summary": "Artificial Analysis 评测显示 Claude Opus 5.5 以 58 分登顶 Artificial Analysis Intelligence Index，为其实测最高分。",
-    "url": "https://x.com/ArtificialAnlys/status/2102438210798514391",
-    "published": "2026-09-22T16:41:45.000Z",
+    "title": "Artificial Analysis：Claude Opus 5.5 登顶 Coding Agent Index，但单任务成本升至 $13.04",
+    "summary": "Artificial Analysis 测评显示，Claude Opus 5.5 在 Claude Code max effort 下以 66 分登顶 Coding Agent Index，较 Opus 5（60）高 6 分，三项评测 Terminal-Bench 4.0（63.1%）、DeepSWE v1.1（68.4%）、SWE-Atlas-QnA（66.4%）全部提升。",
+    "url": "https://x.com/ArtificialAnlys/status/2102932119995756613",
+    "published": "2026-09-24T01:24:22.000Z",
     "source": "X：Artificial Analysis (@ArtificialAnlys)",
     "source_weight": "high",
     "category": "tip"
   },
   {
-    "title": "Claude Code v2.1.280 发布，新增 Claude Opus 5.5 为默认 Opus 模型",
-    "summary": "Claude Code 发布 v2.1.280，新增 Claude Opus 5.5（claude-opus-5-5）为默认 Opus 模型，支持 1M 上下文，价格为 $4/$20 per Mtok、缓存读取 $0.20/Mtok；同时将 Pro 和 Team Standard 计划的默认模型从 Sonnet 改为 Opus。",
-    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.280",
-    "published": "2026-09-22T16:38:14.000Z",
-    "source": "Claude Code：GitHub Releases（RSS）",
+    "title": "Claude Code 云会话正式上线，Pro 和 Max 订阅者可领一次性额度",
+    "summary": "Claude Code 云会话正式可用，结束研究预览阶段，可在笔记本合盖后继续在 Anthropic 托管的基础设施上运行。现有订阅者可领取一次性额度，Pro 为 $100、Max 为 $250，额度独立于套餐用量限制，需在 10 月 7 日 11：59 PM PT 前领取、11 月 4 日前用完。",
+    "url": "https://x.com/ClaudeDevs/status/2102871550974427462",
+    "published": "2026-09-23T21:23:41.000Z",
+    "source": "X：Claude Devs (@ClaudeDevs)",
     "source_weight": "high",
     "category": "ai-products"
   },
   {
-    "title": "Anthropic 发布 Claude Opus 5.5，Claude 5.5 系列首个模型",
-    "summary": "Anthropic 发布 Claude Opus 5.5，是 Claude 5.5 系列的首个模型。官方称其在多数任务上达到 Claude Fable 5.1 的水平，运行成本比 Opus 5 低 40%。",
-    "url": "https://x.com/claudeai/status/2102435511222890900",
-    "published": "2026-09-22T16:31:01.000Z",
-    "source": "X：Claude (@claudeai)",
+    "title": "团队分享提升 Agent Harness Token 效率的提示词",
+    "summary": "一份公开提示词用于优化 LLM Agent Harness，目标是在不降低任务质量的前提下降低每任务的价格加权 token 成本。某团队一轮改动（提示词精简、工具卸载、缓存布局、稀疏行号、子智能体调优）将整体 token 成本降低约 7%，且质量无损。提示词强调按任务而非按请求计量，并建议先映射 harness、测量基线，再按优先级实施改动。",
+    "url": "https://x.com/ericzakariasson/status/2102853511637774551",
+    "published": "2026-09-23T20:12:00.000Z",
+    "source": "X：Eric Zakariasson (@ericzakariasson)",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "Claude 团队分享两周内将 claude.ai 提速 3 倍的方法与提示词",
+    "summary": "Claude 团队宣布在两周内将 claude.ai 速度提升 3 倍。文章介绍他们如何用 Claude 来测量、调试和改进性能，并附上了相关提示词和方法，详见 https://claude.dev/blog/how-we-made-claude-ai-faster/。",
+    "url": "https://x.com/ClaudeDevs/status/2102839691154427983",
+    "published": "2026-09-23T19:17:05.000Z",
+    "source": "X：Claude Devs (@ClaudeDevs)",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "Anthropic 上线 Claude Marketplace，汇聚插件、智能体与服务伙伴",
+    "summary": "Anthropic 推出 Claude Marketplace，将插件与连接器、智能体与产品、服务伙伴集中到一个入口。",
+    "url": "https://claude.com/blog/claude-marketplace",
+    "published": "2026-09-23T19:03:25.133Z",
+    "source": "Claude：Blog（网页）",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "MiMo-V2.6-Pro、Claude Opus 5.5、GPT-6 Luna/Sol 发布改变智能指数与成本 Pareto 前沿",
+    "summary": "Artificial Analysis 称本周 MiMo-V2.6-Pro、Claude Opus 5.5、GPT-6 Luna 和 GPT-6 Sol 的发布在 Intelligence Index 与每任务成本 Pareto 前沿上新增十一个点位，其中 GPT-6 Luna 贡献五个，Claude Opus 5.5 贡献四个。",
+    "url": "https://x.com/ArtificialAnlys/status/2102833926788288704",
+    "published": "2026-09-23T18:54:11.000Z",
+    "source": "X：Artificial Analysis (@ArtificialAnlys)",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "Anthropic 报告 Claude agent 在湿实验室发现噬菌体中的新型 ART 酶系统",
+    "summary": "Anthropic 报告其新湿实验室的首个成果：949 个 Claude agent 在约 21.5 小时内自主追踪到一个此前未知的酶系统，消耗 215.6M tokens，搜索了 1.94B 蛋白质簇并回收 198，290 个 RT 簇。",
+    "url": "https://x.com/rohanpaul_ai/status/2102832068157984990",
+    "published": "2026-09-23T18:46:48.000Z",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "source_weight": "high",
+    "category": "paper"
+  },
+  {
+    "title": "Dario Amodei 宣布 Claude 主导发现疑似新型基因编辑机制的酶系统",
+    "summary": "Anthropic 宣布 Claude 主导发现一种疑似新型基因编辑机制的分子机器：Claude 阅读文献和基因组数据后发现了隐藏在噬菌体 DNA 中的未知酶系统，其基因旁有类似 CRISPR 的重复 DNA 阵列，已知少数同类系统均能切割、复制和粘贴 DNA，具体功能和实用价值尚待研究。",
+    "url": "https://x.com/DarioAmodei/status/2102831170299834652",
+    "published": "2026-09-23T18:43:14.000Z",
+    "source": "X：Dario Amodei (@DarioAmodei)",
+    "source_weight": "high",
+    "category": "paper"
+  },
+  {
+    "title": "Anthropic 宣布 Claude 自主发现类 CRISPR 的新型酶系统 ART",
+    "summary": "Anthropic 成立生命科学研究组和自有实验室，宣布 Claude 智能体自主发现一种与 DNA 重复序列相关的新型酶系统 ART（array-associated reverse transcriptases）。",
+    "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+    "published": "2026-09-23T18:27:25.203Z",
+    "source": "Anthropic：Newsroom（网页）",
+    "source_weight": "high",
+    "category": "paper"
+  },
+  {
+    "title": "Anthropic 称 Claude 在噬菌体 DNA 中发现未知酶系统",
+    "summary": "Anthropic 宣布 Claude 在噬菌体 DNA 中发现一个此前未知的酶系统，其基因旁有一段类似 CRISPR 的重复 DNA 阵列。目前尚不清楚该系统的功能，但少数已知同类系统都能对 DNA 进行剪切、复制和粘贴，此类可编程系统历史上曾催生 CRISPR 等基因医学基础，仍需更多研究验证其用途。",
+    "url": "https://x.com/AnthropicAI/status/2102824959827742916",
+    "published": "2026-09-23T18:18:33.000Z",
+    "source": "X：Anthropic (@AnthropicAI)",
+    "source_weight": "high",
+    "category": "paper"
+  },
+  {
+    "title": "Google DeepMind 发布 Gemini 3.8 Flash TTS 与 Flash-Lite TTS 语音生成模型",
+    "summary": "Google DeepMind 发布 Gemini 3.8 Flash TTS 和 Gemini 3.8 Flash-Lite TTS 两款文本转语音模型，支持用自然语言提示词从零设计声音、30 秒样本复刻声音，并提供逐行表演指导、长时音频生成和双说话人场景编排，覆盖 100 多种语言。",
+    "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech",
+    "published": "2026-09-23T15:25:14.000Z",
+    "source": "Google DeepMind：Blog（RSS）",
     "source_weight": "high",
     "category": "ai-models"
   },
   {
-    "title": "Kimi 发布浏览器扩展，由 Kimi WebBridge 更名而来",
-    "summary": "Kimi 发布新的 Kimi Browser Extension，前身为 Kimi WebBridge。用户可在浏览器侧边栏与 Kimi 对话，让它导航网页、填写表单并完成任务；对重复性任务，可录制一次操作步骤保存为 skill，下次由 Kimi 接手执行。产品现已在 kimi.com/products/kimi-browser-extension 和 Chrome Web Store 上线。",
-    "url": "https://x.com/Kimi_Moonshot/status/2102352211988865456",
-    "published": "2026-09-22T11:00:01.000Z",
-    "source": "X：Kimi.ai (@Kimi_Moonshot)",
+    "title": "Floot MCP",
+    "summary": "<p>\n            Build and ship web and mobile apps inside Claude or ChatGPT\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/floot?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1259609?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/floot",
+    "published": "2026-09-23T13:54:45-07:00",
+    "source": "Product Hunt",
     "source_weight": "high",
-    "category": "ai-products"
+    "category": "ai_tech"
   },
   {
-    "title": "OpenRouter 实测 Jev 1.13 与 Claude Opus 5 在 Banking77 分类任务上的准确率、延迟与成本",
-    "summary": "OpenRouter 用 Banking77 测试集的 3，080 条客服语料对比 Jev 1.13 与 Claude Opus 5 的意图分类表现。Jev 准确率 81.0% 比 Opus 的 84.4% 低 3.3 个百分点，但中位延迟 175 ms 约为 Opus（2，266 ms）的 1/13，每千次请求成本 $0.11 对 $2.42（启用提示词缓存）。",
-    "url": "https://openrouter.ai/blog/insights/jev-vs-claude-opus-5-classification",
-    "published": "2026-09-22T00:00:00.000Z",
-    "source": "OpenRouter：Announcements（RSS）",
+    "title": "LockLines",
+    "summary": "<p>\n            Design Mac lock screen messages that fit\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/locklines?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1259576?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/locklines",
+    "published": "2026-09-23T13:09:03-07:00",
+    "source": "Product Hunt",
     "source_weight": "high",
-    "category": "tip"
+    "category": "ai_tech"
+  },
+  {
+    "title": "Bitrise Build Hub",
+    "summary": "<p>\n            GitHub Actions runners that build 2x faster for your agents\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/bitrise?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1259552?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/bitrise",
+    "published": "2026-09-23T12:34:15-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "The Vercel Bug Bounty Program is now publicly available",
+    "summary": "<p>In 2022, we launched a private bug bounty program through HackerOne. Over the last several years, we've worked with HackerOne's VIP program to refine our process, targets, and scope, onboarding thousands of their best researchers and hardening security across our platform. </p><p>We've translated those learnings into several public bounty programs: </p><ul><li><p>The <a href=\"https://vercel.com/blog/our-million-dollar-hacker-challenge-for-react2shell-xs27Q4HUDA2QV17E9yc9W\">$1 million React2Sh",
+    "url": "https://vercel.com/blog/the-vercel-bug-bounty-program-is-now-publicly-available",
+    "published": "",
+    "source": "Vercel Blog (v0)",
+    "source_weight": "high",
+    "category": "design_tools"
+  },
+  {
+    "title": "Vercel Connect now supports TanStack AI",
+    "summary": "<p>Agents built with TanStack AI can now call OAuth-protected MCP servers through Vercel Connect, with no credentials for you to store or rotate.</p><p>The new <code>@vercel/connect/tanstack-ai</code> subpath exports <code>connectMCPTransport</code>, which takes a TanStack transport config and attaches a Connect-backed auth provider. The provider is called before every MCP request, so the token is always fresh.</p><div></div><p>If the user has not granted access, <code>createMCPClient</code> fai",
+    "url": "https://vercel.com/changelog/vercel-connect-tanstack-ai",
+    "published": "",
+    "source": "Vercel Blog (v0)",
+    "source_weight": "high",
+    "category": "design_tools"
   },
   {
     "title": "Why the best resume may be the wrong resume for a design team",
@@ -153,15 +207,6 @@
     "category": "design_communities"
   },
   {
-    "title": "Faster builds, same quality: Opus 5.5 now in Lovable",
-    "summary": "",
-    "url": "https://lovable.dev/blog/opus-5-5-now-in-lovable",
-    "published": "Tue, 22 Sep 2026 16:30:00 GMT",
-    "source": "Lovable Blog",
-    "source_weight": "medium",
-    "category": "design_tools"
-  },
-  {
     "title": "Designers lost their unit of measurement. That’s why we’re struggling.",
     "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/designers-lost-their-unit-of-measurement-thats-why-we-re-struggling-b3c6beeea74f?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*DJLSCzqhulbOdF-oFyT31w.jpeg\" width=\"6502\" /></a></p><p class=\"medium-feed-snippet\">If screens don&#x2019;t work as a unit of measurement, what does instead?</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/designers-lost-their-unit-of-m",
     "url": "https://uxdesign.cc/designers-lost-their-unit-of-measurement-thats-why-we-re-struggling-b3c6beeea74f?source=rss----138adf9c44c---4",
@@ -175,42 +220,6 @@
     "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/what-is-a-screen-made-of-f2b1318778d4?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1400/0*L26pG42n_QiDFkgQ.jpg\" width=\"1400\" /></a></p><p class=\"medium-feed-snippet\">Flat design was right that the screen isn&#x2019;t leather. Then it assumed that meant nothing.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/what-is-a-screen-made-of-f2b1318778d4?source=rss----138adf",
     "url": "https://uxdesign.cc/what-is-a-screen-made-of-f2b1318778d4?source=rss----138adf9c44c---4",
     "published": "Tue, 22 Sep 2026 11:22:00 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Where does your work go when the tool shuts down?",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/where-does-your-work-go-when-the-tool-shuts-down-d3b74c2a74d8?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1024/1*H8UQmv8qfQSi9gYi8BgVxQ.png\" width=\"1024\" /></a></p><p class=\"medium-feed-snippet\">A quarter of the last decade&#x2019;s web pages have vanished, mostly from sites still online. Who&#x2019;s archiving yours?</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc",
-    "url": "https://uxdesign.cc/where-does-your-work-go-when-the-tool-shuts-down-d3b74c2a74d8?source=rss----138adf9c44c---4",
-    "published": "Tue, 22 Sep 2026 11:21:28 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Nobody starts as an accessibility expert",
-    "summary": "<h4><em>Designers, leave your intimidation at the door.</em></h4><p>Nobody becomes a designer because they’re excited about compliance. It sounds boring and it sounds like someone else’s job. Most of us are glad it is.</p><p><strong>But what if we’re wrong? What if no one else is doing it? What if no one else cares?</strong></p><figure><img alt=\"arrow pointing left indicating that accessibility is shifting left\" src=\"https://cdn-images-1.medium.com/max/1024/1*qlc9hL1A0e5eGD7SO0toBA.png\" /></figu",
-    "url": "https://uxdesign.cc/nobody-starts-as-an-accessibility-expert-6a16e8a99960?source=rss----138adf9c44c---4",
-    "published": "Tue, 22 Sep 2026 04:33:52 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Can stress be quantified?",
-    "summary": "<h4>The science and design behind wearable stress tracking</h4><figure><img alt=\"Smartwatch displaying a stress measurement feature.\" src=\"https://cdn-images-1.medium.com/max/1024/0*rF8mI74vlSQ31WGi.jpg\" /><figcaption><a href=\"https://techcrunch.com/2023/07/26/samsung-galaxy-watch-classic-the-bezel-is-back-again/\">(Image source)</a></figcaption></figure><p>Many wearable devices have moved beyond counting steps and tracking heart rate. Now they are trying to measure something more complicated: st",
-    "url": "https://uxdesign.cc/can-stress-be-quantified-d247a81dd0f2?source=rss----138adf9c44c---4",
-    "published": "Tue, 22 Sep 2026 04:32:17 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "The lie we keep telling ourselves about regulating AI",
-    "summary": "<figure><img alt=\"A parody of Trumbull’s “Declaration of Independence” painted in 18th-century style: solemn figures in powdered wigs gather around a table presenting a long scroll headed “Request for Comments №1,” while a 1970s computer terminal and cables sit incongruously among the quills and inkwells, and one central figure stands humming aloud as the others look on.\" src=\"https://cdn-images-1.medium.com/max/1024/1*RlIlQg8D7hxtFCk-s3nTPA.jpeg\" /><figcaption>The internet’s founders governed a",
-    "url": "https://uxdesign.cc/the-lie-we-keep-telling-ourselves-about-regulating-ai-61e0163d795e?source=rss----138adf9c44c---4",
-    "published": "Mon, 21 Sep 2026 22:47:57 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
