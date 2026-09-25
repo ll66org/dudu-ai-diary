@@ -1,5 +1,5 @@
 {
-  "day_count": 154,
+  "day_count": 155,
   "history": [
     {
       "day": 20,
@@ -909,6 +909,13 @@
       "date": "2026-09-24",
       "topic": "NVIDIA 联合 Google DeepMind 等机构开放 2800 多种病毒的蛋白复合物预测结构数据集",
       "source": "NVIDIA Blog（RSS）",
+      "mode": "rss"
+    },
+    {
+      "day": 155,
+      "date": "2026-09-25",
+      "topic": "Cognition 宣布年化收入运行率突破 10 亿美元",
+      "source": "Cognition 模型 / Devin 博客（网页）",
       "mode": "rss"
     }
   ],

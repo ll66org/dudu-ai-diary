@@ -1,12 +1,57 @@
 [
   {
-    "title": "NVIDIA 联合 Google DeepMind 等机构开放 2800 多种病毒的蛋白复合物预测结构数据集",
-    "summary": "NVIDIA 与 Google DeepMind、EMBL-EBI 等全球研究机构合作，通过 AlphaFold Database 开放发布 2800 多种病毒的蛋白复合物预测 3D 结构，旨在为下一次疫情储备知识。",
-    "url": "https://blogs.nvidia.com/blog/open-protein-dataset",
-    "published": "2026-09-24T14:00:50.000Z",
-    "source": "NVIDIA Blog（RSS）",
+    "title": "Cognition 宣布年化收入运行率突破 10 亿美元",
+    "summary": "Cognition 宣布年化收入运行率突破 10 亿美元。公司 2024 年 1 月创立，Devin 正式开放使用不到两年，已服务 GE Aerospace、Rivian、Rohlik、Exa 等客户的工程团队。",
+    "url": "https://cognition.com/blog/1b-run-rate",
+    "published": "2026-09-25T15:42:15.643Z",
+    "source": "Cognition 模型 / Devin 博客（网页）",
+    "source_weight": "high",
+    "category": "industry"
+  },
+  {
+    "title": "GitHub 如何通过迁移 CSS Modules 将 SSR 时间降低 55%",
+    "summary": "GitHub 工程师 Josh Black 复盘将 Primer 设计系统从 CSS-in-JS 迁移到 CSS Modules 的历程。截至 2024 年 12 月 Primer 全部组件迁移完成，服务端渲染时间减少 55%，组件初始化时间减少 25%。",
+    "url": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css",
+    "published": "2026-09-25T15:00:00.000Z",
+    "source": "GitHub Blog",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "Satya Nadella 宣布 Copilot 迄今最大更新，定位为工作新 OS",
+    "summary": "Satya Nadella 宣布 Copilot 迄今最大更新，将其定位为覆盖每个模型、设备和任务的工作新 OS。",
+    "url": "https://x.com/satyanadella/status/2103455884366188544",
+    "published": "2026-09-25T12:05:37.000Z",
+    "source": "X：Satya Nadella (@satyanadella)",
     "source_weight": "high",
     "category": "ai-products"
+  },
+  {
+    "title": "Wand",
+    "summary": "<p>\n            Build software at the speed of thought\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/wand-6?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1260638?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/wand-6",
+    "published": "2026-09-24T19:17:21-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Anthropic 发布 Claude Opus 5.5，面向更长、上下文更重的编码会话优化成本",
+    "summary": "Anthropic 发布 Claude Opus 5.5，称典型按 token 计费工作负载运行成本比 Opus 5 低约 40%，其中缓存读取降价 60%、输入输出 token 降价 20%。",
+    "url": "https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context",
+    "published": "2026-09-24T16:38:37.757Z",
+    "source": "Claude：Blog（网页）",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "Basedash MCP write",
+    "summary": "<p>\n            Build charts and dashboards from Cursor and Claude\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/basedash?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1260549?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/basedash",
+    "published": "2026-09-24T15:20:29-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
   },
   {
     "title": "火山引擎对话《后西游记》主创，揭秘首部AI长剧登陆湖南卫视黄金档",
@@ -63,6 +108,15 @@
     "category": "tip"
   },
   {
+    "title": "Claude Marketplace 上线，可发现工具、智能体与服务伙伴",
+    "summary": "Claude 官方宣布推出 Claude Marketplace，用户可在其中发现工具、智能体和专家伙伴。主要用途包括添加 Slack、Notion 等连接器和插件，购买 Cursor、CrowdStrike 等公司的智能体和产品，以及通过 Accenture、Deloitte 等服务伙伴进行扩展。",
+    "url": "https://x.com/claudeai/status/2102840851538080172",
+    "published": "2026-09-23T19:21:42.000Z",
+    "source": "X：Claude (@claudeai)",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
     "title": "Claude 团队分享两周内将 claude.ai 提速 3 倍的方法与提示词",
     "summary": "Claude 团队宣布在两周内将 claude.ai 速度提升 3 倍。文章介绍他们如何用 Claude 来测量、调试和改进性能，并附上了相关提示词和方法，详见 https://claude.dev/blog/how-we-made-claude-ai-faster/。",
     "url": "https://x.com/ClaudeDevs/status/2102839691154427983",
@@ -70,15 +124,6 @@
     "source": "X：Claude Devs (@ClaudeDevs)",
     "source_weight": "high",
     "category": "tip"
-  },
-  {
-    "title": "Anthropic 上线 Claude Marketplace，汇聚插件、智能体与服务伙伴",
-    "summary": "Anthropic 推出 Claude Marketplace，将插件与连接器、智能体与产品、服务伙伴集中到一个入口。",
-    "url": "https://claude.com/blog/claude-marketplace",
-    "published": "2026-09-23T19:03:25.133Z",
-    "source": "Claude：Blog（网页）",
-    "source_weight": "high",
-    "category": "ai-products"
   },
   {
     "title": "MiMo-V2.6-Pro、Claude Opus 5.5、GPT-6 Luna/Sol 发布改变智能指数与成本 Pareto 前沿",
@@ -97,87 +142,6 @@
     "source": "X：Rohan Paul (@rohanpaul_ai)",
     "source_weight": "high",
     "category": "paper"
-  },
-  {
-    "title": "Dario Amodei 宣布 Claude 主导发现疑似新型基因编辑机制的酶系统",
-    "summary": "Anthropic 宣布 Claude 主导发现一种疑似新型基因编辑机制的分子机器：Claude 阅读文献和基因组数据后发现了隐藏在噬菌体 DNA 中的未知酶系统，其基因旁有类似 CRISPR 的重复 DNA 阵列，已知少数同类系统均能切割、复制和粘贴 DNA，具体功能和实用价值尚待研究。",
-    "url": "https://x.com/DarioAmodei/status/2102831170299834652",
-    "published": "2026-09-23T18:43:14.000Z",
-    "source": "X：Dario Amodei (@DarioAmodei)",
-    "source_weight": "high",
-    "category": "paper"
-  },
-  {
-    "title": "Anthropic 宣布 Claude 自主发现类 CRISPR 的新型酶系统 ART",
-    "summary": "Anthropic 成立生命科学研究组和自有实验室，宣布 Claude 智能体自主发现一种与 DNA 重复序列相关的新型酶系统 ART（array-associated reverse transcriptases）。",
-    "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-    "published": "2026-09-23T18:27:25.203Z",
-    "source": "Anthropic：Newsroom（网页）",
-    "source_weight": "high",
-    "category": "paper"
-  },
-  {
-    "title": "Anthropic 称 Claude 在噬菌体 DNA 中发现未知酶系统",
-    "summary": "Anthropic 宣布 Claude 在噬菌体 DNA 中发现一个此前未知的酶系统，其基因旁有一段类似 CRISPR 的重复 DNA 阵列。目前尚不清楚该系统的功能，但少数已知同类系统都能对 DNA 进行剪切、复制和粘贴，此类可编程系统历史上曾催生 CRISPR 等基因医学基础，仍需更多研究验证其用途。",
-    "url": "https://x.com/AnthropicAI/status/2102824959827742916",
-    "published": "2026-09-23T18:18:33.000Z",
-    "source": "X：Anthropic (@AnthropicAI)",
-    "source_weight": "high",
-    "category": "paper"
-  },
-  {
-    "title": "Google DeepMind 发布 Gemini 3.8 Flash TTS 与 Flash-Lite TTS 语音生成模型",
-    "summary": "Google DeepMind 发布 Gemini 3.8 Flash TTS 和 Gemini 3.8 Flash-Lite TTS 两款文本转语音模型，支持用自然语言提示词从零设计声音、30 秒样本复刻声音，并提供逐行表演指导、长时音频生成和双说话人场景编排，覆盖 100 多种语言。",
-    "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech",
-    "published": "2026-09-23T15:25:14.000Z",
-    "source": "Google DeepMind：Blog（RSS）",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "Floot MCP",
-    "summary": "<p>\n            Build and ship web and mobile apps inside Claude or ChatGPT\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/floot?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1259609?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/floot",
-    "published": "2026-09-23T13:54:45-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "LockLines",
-    "summary": "<p>\n            Design Mac lock screen messages that fit\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/locklines?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1259576?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/locklines",
-    "published": "2026-09-23T13:09:03-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Bitrise Build Hub",
-    "summary": "<p>\n            GitHub Actions runners that build 2x faster for your agents\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/bitrise?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1259552?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/bitrise",
-    "published": "2026-09-23T12:34:15-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "The Vercel Bug Bounty Program is now publicly available",
-    "summary": "<p>In 2022, we launched a private bug bounty program through HackerOne. Over the last several years, we've worked with HackerOne's VIP program to refine our process, targets, and scope, onboarding thousands of their best researchers and hardening security across our platform. </p><p>We've translated those learnings into several public bounty programs: </p><ul><li><p>The <a href=\"https://vercel.com/blog/our-million-dollar-hacker-challenge-for-react2shell-xs27Q4HUDA2QV17E9yc9W\">$1 million React2Sh",
-    "url": "https://vercel.com/blog/the-vercel-bug-bounty-program-is-now-publicly-available",
-    "published": "",
-    "source": "Vercel Blog (v0)",
-    "source_weight": "high",
-    "category": "design_tools"
-  },
-  {
-    "title": "Vercel Connect now supports TanStack AI",
-    "summary": "<p>Agents built with TanStack AI can now call OAuth-protected MCP servers through Vercel Connect, with no credentials for you to store or rotate.</p><p>The new <code>@vercel/connect/tanstack-ai</code> subpath exports <code>connectMCPTransport</code>, which takes a TanStack transport config and attaches a Connect-backed auth provider. The provider is called before every MCP request, so the token is always fresh.</p><div></div><p>If the user has not granted access, <code>createMCPClient</code> fai",
-    "url": "https://vercel.com/changelog/vercel-connect-tanstack-ai",
-    "published": "",
-    "source": "Vercel Blog (v0)",
-    "source_weight": "high",
-    "category": "design_tools"
   },
   {
     "title": "Why the best resume may be the wrong resume for a design team",
@@ -220,6 +184,42 @@
     "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/what-is-a-screen-made-of-f2b1318778d4?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1400/0*L26pG42n_QiDFkgQ.jpg\" width=\"1400\" /></a></p><p class=\"medium-feed-snippet\">Flat design was right that the screen isn&#x2019;t leather. Then it assumed that meant nothing.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/what-is-a-screen-made-of-f2b1318778d4?source=rss----138adf",
     "url": "https://uxdesign.cc/what-is-a-screen-made-of-f2b1318778d4?source=rss----138adf9c44c---4",
     "published": "Tue, 22 Sep 2026 11:22:00 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Where does your work go when the tool shuts down?",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/where-does-your-work-go-when-the-tool-shuts-down-d3b74c2a74d8?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1024/1*H8UQmv8qfQSi9gYi8BgVxQ.png\" width=\"1024\" /></a></p><p class=\"medium-feed-snippet\">A quarter of the last decade&#x2019;s web pages have vanished, mostly from sites still online. Who&#x2019;s archiving yours?</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc",
+    "url": "https://uxdesign.cc/where-does-your-work-go-when-the-tool-shuts-down-d3b74c2a74d8?source=rss----138adf9c44c---4",
+    "published": "Tue, 22 Sep 2026 11:21:28 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Nobody starts as an accessibility expert",
+    "summary": "<h4><em>Designers, leave your intimidation at the door.</em></h4><p>Nobody becomes a designer because they’re excited about compliance. It sounds boring and it sounds like someone else’s job. Most of us are glad it is.</p><p><strong>But what if we’re wrong? What if no one else is doing it? What if no one else cares?</strong></p><figure><img alt=\"arrow pointing left indicating that accessibility is shifting left\" src=\"https://cdn-images-1.medium.com/max/1024/1*qlc9hL1A0e5eGD7SO0toBA.png\" /></figu",
+    "url": "https://uxdesign.cc/nobody-starts-as-an-accessibility-expert-6a16e8a99960?source=rss----138adf9c44c---4",
+    "published": "Tue, 22 Sep 2026 04:33:52 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Can stress be quantified?",
+    "summary": "<h4>The science and design behind wearable stress tracking</h4><figure><img alt=\"Smartwatch displaying a stress measurement feature.\" src=\"https://cdn-images-1.medium.com/max/1024/0*rF8mI74vlSQ31WGi.jpg\" /><figcaption><a href=\"https://techcrunch.com/2023/07/26/samsung-galaxy-watch-classic-the-bezel-is-back-again/\">(Image source)</a></figcaption></figure><p>Many wearable devices have moved beyond counting steps and tracking heart rate. Now they are trying to measure something more complicated: st",
+    "url": "https://uxdesign.cc/can-stress-be-quantified-d247a81dd0f2?source=rss----138adf9c44c---4",
+    "published": "Tue, 22 Sep 2026 04:32:17 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "What the Bible got right about AI",
+    "summary": "<figure><img alt=\"A recreation of Michelangelo’s “The Creation of Adam” in Sistine Chapel fresco style. God reaches out with an ordinary human hand; Adam reaches back with a hand that turns to glowing circuitry at the wrist, and the spark leaping between their fingertips is rendered as cold screen-light rather than divine radiance.\" src=\"https://cdn-images-1.medium.com/max/1024/1*dFu59zuDf4Z0SX5NtoWo8g.jpeg\" /><figcaption>Michelangelo painted God giving life to man. We are the ones reaching now,",
+    "url": "https://uxdesign.cc/what-the-bible-got-right-about-ai-340d32b82b5c?source=rss----138adf9c44c---4",
+    "published": "Thu, 24 Sep 2026 22:03:16 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
