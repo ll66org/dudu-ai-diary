@@ -1,42 +1,42 @@
 [
   {
-    "title": "Cognition 宣布年化收入运行率突破 10 亿美元",
-    "summary": "Cognition 宣布年化收入运行率突破 10 亿美元。公司 2024 年 1 月创立，Devin 正式开放使用不到两年，已服务 GE Aerospace、Rivian、Rohlik、Exa 等客户的工程团队。",
-    "source": "Cognition 模型 / Devin 博客（网页）",
-    "url": "https://cognition.com/blog/1b-run-rate",
-    "published_at": "2026-09-25T15:42:15.643Z",
+    "title": "Claude Devs 测算 Opus 5.5 相比 Opus 5 在 Claude Code 任务中的成本变化",
+    "summary": "Opus 5.5 每输入和输出 token 比 Opus 5 便宜 20%，缓存读取便宜 60%。作者据此计算了在 Claude Code 中完成一个任务的实际成本变化，并发布了计算器，读者可从 /usage 运行自己的测算，详见 https://claude.dev/blog/what-a-task-costs-on",
+    "source": "X：Claude Devs (@ClaudeDevs)",
+    "url": "https://x.com/ClaudeDevs/status/2103548467729887677",
+    "published_at": "2026-09-25T18:13:31.000Z",
     "category": "industry"
   },
   {
-    "title": "GitHub 如何通过迁移 CSS Modules 将 SSR 时间降低 55%",
-    "summary": "GitHub 工程师 Josh Black 复盘将 Primer 设计系统从 CSS-in-JS 迁移到 CSS Modules 的历程。截至 2024 年 12 月 Primer 全部组件迁移完成，服务端渲染时间减少 55%，组件初始化时间减少 25%。",
+    "title": "Claude 开放插件目录提交门户，Plugins 成为第三方扩展的主要方式",
+    "summary": "Anthropic 宣布 Plugins 是为 Claude 构建第三方扩展的主要方式，插件可打包 MCP 连接器、Agent Skills 或两者，经新的目录提交门户审核后上架 Claude 目录。",
+    "source": "Claude：Blog（网页）",
+    "url": "https://claude.com/blog/build-plugins-for-claude",
+    "published_at": "2026-09-25T18:09:06.824Z",
+    "category": "ai-products"
+  },
+  {
+    "title": "GitHub Copilot app 新手教程：如何用 canvases 构建自定义工作流",
+    "summary": "GitHub 官方博客发布 GitHub Copilot app 新手教程，介绍用 /create-canvas 技能通过自然语言描述生成可自定义的 canvas 界面。",
     "source": "GitHub Blog",
-    "url": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css",
-    "published_at": "2026-09-25T15:00:00.000Z",
+    "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases",
+    "published_at": "2026-09-25T18:00:00.000Z",
     "category": "tip"
   },
   {
-    "title": "Satya Nadella 宣布 Copilot 迄今最大更新，定位为工作新 OS",
-    "summary": "Satya Nadella 宣布 Copilot 迄今最大更新，将其定位为覆盖每个模型、设备和任务的工作新 OS。",
-    "source": "X：Satya Nadella (@satyanadella)",
-    "url": "https://x.com/satyanadella/status/2103455884366188544",
-    "published_at": "2026-09-25T12:05:37.000Z",
-    "category": "ai-products"
+    "title": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末",
+    "summary": "物理学家 Matt von Hippel 发文复盘：Anthropic 的 Liam Fitzpatrick 和 Siddharth Mishra-Sharma 用 Claude Science（Fable 5.1）以约一两千美元预算完成平面 N=4 超对称 Yang-Mills 六粒子九圈振幅计算。",
+    "source": "Anthropic：Research（发表成果 · 网页）",
+    "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
+    "published_at": "2026-09-25T17:59:19.824Z",
+    "category": "tip"
   },
   {
-    "title": "Anthropic 发布 Claude Opus 5.5，面向更长、上下文更重的编码会话优化成本",
-    "summary": "Anthropic 发布 Claude Opus 5.5，称典型按 token 计费工作负载运行成本比 Opus 5 低约 40%，其中缓存读取降价 60%、输入输出 token 降价 20%。",
-    "source": "Claude：Blog（网页）",
-    "url": "https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context",
-    "published_at": "2026-09-24T16:38:37.757Z",
-    "category": "ai-models"
-  },
-  {
-    "title": "NVIDIA 联合 Google DeepMind 等机构开放 2800 多种病毒的蛋白复合物预测结构数据集",
-    "summary": "NVIDIA 与 Google DeepMind、EMBL-EBI 等全球研究机构合作，通过 AlphaFold Database 开放发布 2800 多种病毒的蛋白复合物预测 3D 结构，旨在为下一次疫情储备知识。",
-    "source": "NVIDIA Blog（RSS）",
-    "url": "https://blogs.nvidia.com/blog/open-protein-dataset",
-    "published_at": "2026-09-24T14:00:50.000Z",
-    "category": "ai-products"
+    "title": "Anthropic 称 Claude 完成平面 N=4 超杨-米尔斯理论九圈散射振幅计算",
+    "summary": "Anthropic 在科学博客称，物理学家 @4gravitons 发起挑战后，Claude 在 Claude Science 中依据单个提示词 largely unsupervised 地运行数天，在平面 N=4 超杨-米尔斯模型中完成九圈散射振幅计算，总成本约几千美元。",
+    "source": "X：Anthropic (@AnthropicAI)",
+    "url": "https://x.com/AnthropicAI/status/2103541577083719888",
+    "published_at": "2026-09-25T17:46:08.000Z",
+    "category": "paper"
   }
 ]

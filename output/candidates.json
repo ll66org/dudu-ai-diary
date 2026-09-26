@@ -1,10 +1,118 @@
 [
   {
-    "title": "Cognition 宣布年化收入运行率突破 10 亿美元",
-    "summary": "Cognition 宣布年化收入运行率突破 10 亿美元。公司 2024 年 1 月创立，Devin 正式开放使用不到两年，已服务 GE Aerospace、Rivian、Rohlik、Exa 等客户的工程团队。",
-    "url": "https://cognition.com/blog/1b-run-rate",
-    "published": "2026-09-25T15:42:15.643Z",
-    "source": "Cognition 模型 / Devin 博客（网页）",
+    "title": "All Quiet on the AI Front: The Future of Undergraduate Math Research",
+    "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2609.28615\">https://arxiv.org/abs/2609.28615</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49857257\">https://news.ycombinator.com/item?id=49857257</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://arxiv.org/abs/2609.28615",
+    "published": "Sat, 26 Sep 2026 15:03:28 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "CropCode – Convert UI Crops into Structured JSON for LLMs",
+    "summary": "<p>Article URL: <a href=\"https://chromewebstore.google.com/detail/cropcode/pcgcpipdelhclccjoaphjelkdidkiecj\">https://chromewebstore.google.com/detail/cropcode/pcgcpipdelhclccjoaphjelkdidkiecj</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49857041\">https://news.ycombinator.com/item?id=49857041</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://chromewebstore.google.com/detail/cropcode/pcgcpipdelhclccjoaphjelkdidkiecj",
+    "published": "Sat, 26 Sep 2026 14:39:44 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "A Trump team wants to automate U.S. Web Design System accessibility testing",
+    "summary": "<p>Article URL: <a href=\"https://fedscoop.com/trump-team-automate-uswds-accessibility-testing-ai/\">https://fedscoop.com/trump-team-automate-uswds-accessibility-testing-ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49856793\">https://news.ycombinator.com/item?id=49856793</a></p>\n<p>Points: 3</p>\n<p># Comments: 1</p>",
+    "url": "https://fedscoop.com/trump-team-automate-uswds-accessibility-testing-ai/",
+    "published": "Sat, 26 Sep 2026 14:15:39 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Show HN: HomeAI.design – Visualize interior design ideas from a photo",
+    "summary": "<p>Hi HN,<p>I’m an indie developer and I recently built HomeAI.design.<p>The original idea was simple. When people renovate a room, it's difficult to imagine what a different design would actually look like in their own space.<p>So I built a tool where you upload a room photo and generate different interior design ideas.<p>I'm still figuring out what users really need, especially compared with other AI interior design tools.<p>Would love feedback on the product and the generated results.</p>\n<hr",
+    "url": "https://homeai.design/",
+    "published": "Sat, 26 Sep 2026 14:13:19 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "That About Wraps It Up for Stock Mac UI",
+    "summary": "<p>Article URL: <a href=\"https://inessential.com/2026/09/22/that-about-wraps-it-up-for.html\">https://inessential.com/2026/09/22/that-about-wraps-it-up-for.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49855821\">https://news.ycombinator.com/item?id=49855821</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://inessential.com/2026/09/22/that-about-wraps-it-up-for.html",
+    "published": "Sat, 26 Sep 2026 12:18:46 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Show HN: Ollaya Web UI",
+    "summary": "<p>Article URL: <a href=\"https://github.com/samarkandiy/ollaya-web-ui\">https://github.com/samarkandiy/ollaya-web-ui</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49855683\">https://news.ycombinator.com/item?id=49855683</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+    "url": "https://github.com/samarkandiy/ollaya-web-ui",
+    "published": "Sat, 26 Sep 2026 11:55:44 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Claude Devs 测算 Opus 5.5 相比 Opus 5 在 Claude Code 任务中的成本变化",
+    "summary": "Opus 5.5 每输入和输出 token 比 Opus 5 便宜 20%，缓存读取便宜 60%。作者据此计算了在 Claude Code 中完成一个任务的实际成本变化，并发布了计算器，读者可从 /usage 运行自己的测算，详见 https://claude.dev/blog/what-a-task-costs-on-opus-5-5/。",
+    "url": "https://x.com/ClaudeDevs/status/2103548467729887677",
+    "published": "2026-09-25T18:13:31.000Z",
+    "source": "X：Claude Devs (@ClaudeDevs)",
+    "source_weight": "high",
+    "category": "industry"
+  },
+  {
+    "title": "Claude 开放插件目录提交门户，Plugins 成为第三方扩展的主要方式",
+    "summary": "Anthropic 宣布 Plugins 是为 Claude 构建第三方扩展的主要方式，插件可打包 MCP 连接器、Agent Skills 或两者，经新的目录提交门户审核后上架 Claude 目录。",
+    "url": "https://claude.com/blog/build-plugins-for-claude",
+    "published": "2026-09-25T18:09:06.824Z",
+    "source": "Claude：Blog（网页）",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "GitHub Copilot app 新手教程：如何用 canvases 构建自定义工作流",
+    "summary": "GitHub 官方博客发布 GitHub Copilot app 新手教程，介绍用 /create-canvas 技能通过自然语言描述生成可自定义的 canvas 界面。",
+    "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases",
+    "published": "2026-09-25T18:00:00.000Z",
+    "source": "GitHub Blog",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末",
+    "summary": "物理学家 Matt von Hippel 发文复盘：Anthropic 的 Liam Fitzpatrick 和 Siddharth Mishra-Sharma 用 Claude Science（Fable 5.1）以约一两千美元预算完成平面 N=4 超对称 Yang-Mills 六粒子九圈振幅计算。",
+    "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
+    "published": "2026-09-25T17:59:19.824Z",
+    "source": "Anthropic：Research（发表成果 · 网页）",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "Anthropic 称 Claude 完成平面 N=4 超杨-米尔斯理论九圈散射振幅计算",
+    "summary": "Anthropic 在科学博客称，物理学家 @4gravitons 发起挑战后，Claude 在 Claude Science 中依据单个提示词 largely unsupervised 地运行数天，在平面 N=4 超杨-米尔斯模型中完成九圈散射振幅计算，总成本约几千美元。",
+    "url": "https://x.com/AnthropicAI/status/2103541577083719888",
+    "published": "2026-09-25T17:46:08.000Z",
+    "source": "X：Anthropic (@AnthropicAI)",
+    "source_weight": "high",
+    "category": "paper"
+  },
+  {
+    "title": "MakerMap",
+    "summary": "<p>\n            A living map of makers and what they’re building\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/makermap?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1261392?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/makermap",
+    "published": "2026-09-25T16:58:29-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "美国上诉法院维持五角大楼将 Anthropic 列为供应链风险的认定",
+    "summary": "华盛顿特区联邦上诉法院以 2 比 1 裁定，维持国防部将 Anthropic 列为供应链风险的决定，禁止美军及国防承包商使用 Claude 模型。",
+    "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+    "published": "2026-09-25T15:29:25.000Z",
+    "source": "Hacker News：AI 热帖",
     "source_weight": "high",
     "category": "industry"
   },
@@ -25,33 +133,6 @@
     "source": "X：Satya Nadella (@satyanadella)",
     "source_weight": "high",
     "category": "ai-products"
-  },
-  {
-    "title": "Wand",
-    "summary": "<p>\n            Build software at the speed of thought\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/wand-6?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1260638?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/wand-6",
-    "published": "2026-09-24T19:17:21-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Anthropic 发布 Claude Opus 5.5，面向更长、上下文更重的编码会话优化成本",
-    "summary": "Anthropic 发布 Claude Opus 5.5，称典型按 token 计费工作负载运行成本比 Opus 5 低约 40%，其中缓存读取降价 60%、输入输出 token 降价 20%。",
-    "url": "https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context",
-    "published": "2026-09-24T16:38:37.757Z",
-    "source": "Claude：Blog（网页）",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "Basedash MCP write",
-    "summary": "<p>\n            Build charts and dashboards from Cursor and Claude\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/basedash?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1260549?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/basedash",
-    "published": "2026-09-24T15:20:29-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
   },
   {
     "title": "火山引擎对话《后西游记》主创，揭秘首部AI长剧登陆湖南卫视黄金档",
@@ -99,51 +180,6 @@
     "category": "ai-products"
   },
   {
-    "title": "团队分享提升 Agent Harness Token 效率的提示词",
-    "summary": "一份公开提示词用于优化 LLM Agent Harness，目标是在不降低任务质量的前提下降低每任务的价格加权 token 成本。某团队一轮改动（提示词精简、工具卸载、缓存布局、稀疏行号、子智能体调优）将整体 token 成本降低约 7%，且质量无损。提示词强调按任务而非按请求计量，并建议先映射 harness、测量基线，再按优先级实施改动。",
-    "url": "https://x.com/ericzakariasson/status/2102853511637774551",
-    "published": "2026-09-23T20:12:00.000Z",
-    "source": "X：Eric Zakariasson (@ericzakariasson)",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "Claude Marketplace 上线，可发现工具、智能体与服务伙伴",
-    "summary": "Claude 官方宣布推出 Claude Marketplace，用户可在其中发现工具、智能体和专家伙伴。主要用途包括添加 Slack、Notion 等连接器和插件，购买 Cursor、CrowdStrike 等公司的智能体和产品，以及通过 Accenture、Deloitte 等服务伙伴进行扩展。",
-    "url": "https://x.com/claudeai/status/2102840851538080172",
-    "published": "2026-09-23T19:21:42.000Z",
-    "source": "X：Claude (@claudeai)",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Claude 团队分享两周内将 claude.ai 提速 3 倍的方法与提示词",
-    "summary": "Claude 团队宣布在两周内将 claude.ai 速度提升 3 倍。文章介绍他们如何用 Claude 来测量、调试和改进性能，并附上了相关提示词和方法，详见 https://claude.dev/blog/how-we-made-claude-ai-faster/。",
-    "url": "https://x.com/ClaudeDevs/status/2102839691154427983",
-    "published": "2026-09-23T19:17:05.000Z",
-    "source": "X：Claude Devs (@ClaudeDevs)",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "MiMo-V2.6-Pro、Claude Opus 5.5、GPT-6 Luna/Sol 发布改变智能指数与成本 Pareto 前沿",
-    "summary": "Artificial Analysis 称本周 MiMo-V2.6-Pro、Claude Opus 5.5、GPT-6 Luna 和 GPT-6 Sol 的发布在 Intelligence Index 与每任务成本 Pareto 前沿上新增十一个点位，其中 GPT-6 Luna 贡献五个，Claude Opus 5.5 贡献四个。",
-    "url": "https://x.com/ArtificialAnlys/status/2102833926788288704",
-    "published": "2026-09-23T18:54:11.000Z",
-    "source": "X：Artificial Analysis (@ArtificialAnlys)",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "Anthropic 报告 Claude agent 在湿实验室发现噬菌体中的新型 ART 酶系统",
-    "summary": "Anthropic 报告其新湿实验室的首个成果：949 个 Claude agent 在约 21.5 小时内自主追踪到一个此前未知的酶系统，消耗 215.6M tokens，搜索了 1.94B 蛋白质簇并回收 198，290 个 RT 簇。",
-    "url": "https://x.com/rohanpaul_ai/status/2102832068157984990",
-    "published": "2026-09-23T18:46:48.000Z",
-    "source": "X：Rohan Paul (@rohanpaul_ai)",
-    "source_weight": "high",
-    "category": "paper"
-  },
-  {
     "title": "Why the best resume may be the wrong resume for a design team",
     "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/why-the-best-resume-may-be-the-wrong-resume-for-a-design-team-c019b8568662?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*oHmLt81qrX-Zs6ErghxYUA.jpeg\" width=\"5472\" /></a></p><p class=\"medium-feed-snippet\">What design leadership gets wrong about experience, expertise, and innovation on a team.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/why-the-best-resume-m",
     "url": "https://uxdesign.cc/why-the-best-resume-may-be-the-wrong-resume-for-a-design-team-c019b8568662?source=rss----138adf9c44c---4",
@@ -184,42 +220,6 @@
     "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/what-is-a-screen-made-of-f2b1318778d4?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1400/0*L26pG42n_QiDFkgQ.jpg\" width=\"1400\" /></a></p><p class=\"medium-feed-snippet\">Flat design was right that the screen isn&#x2019;t leather. Then it assumed that meant nothing.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/what-is-a-screen-made-of-f2b1318778d4?source=rss----138adf",
     "url": "https://uxdesign.cc/what-is-a-screen-made-of-f2b1318778d4?source=rss----138adf9c44c---4",
     "published": "Tue, 22 Sep 2026 11:22:00 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Where does your work go when the tool shuts down?",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/where-does-your-work-go-when-the-tool-shuts-down-d3b74c2a74d8?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1024/1*H8UQmv8qfQSi9gYi8BgVxQ.png\" width=\"1024\" /></a></p><p class=\"medium-feed-snippet\">A quarter of the last decade&#x2019;s web pages have vanished, mostly from sites still online. Who&#x2019;s archiving yours?</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc",
-    "url": "https://uxdesign.cc/where-does-your-work-go-when-the-tool-shuts-down-d3b74c2a74d8?source=rss----138adf9c44c---4",
-    "published": "Tue, 22 Sep 2026 11:21:28 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Nobody starts as an accessibility expert",
-    "summary": "<h4><em>Designers, leave your intimidation at the door.</em></h4><p>Nobody becomes a designer because they’re excited about compliance. It sounds boring and it sounds like someone else’s job. Most of us are glad it is.</p><p><strong>But what if we’re wrong? What if no one else is doing it? What if no one else cares?</strong></p><figure><img alt=\"arrow pointing left indicating that accessibility is shifting left\" src=\"https://cdn-images-1.medium.com/max/1024/1*qlc9hL1A0e5eGD7SO0toBA.png\" /></figu",
-    "url": "https://uxdesign.cc/nobody-starts-as-an-accessibility-expert-6a16e8a99960?source=rss----138adf9c44c---4",
-    "published": "Tue, 22 Sep 2026 04:33:52 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Can stress be quantified?",
-    "summary": "<h4>The science and design behind wearable stress tracking</h4><figure><img alt=\"Smartwatch displaying a stress measurement feature.\" src=\"https://cdn-images-1.medium.com/max/1024/0*rF8mI74vlSQ31WGi.jpg\" /><figcaption><a href=\"https://techcrunch.com/2023/07/26/samsung-galaxy-watch-classic-the-bezel-is-back-again/\">(Image source)</a></figcaption></figure><p>Many wearable devices have moved beyond counting steps and tracking heart rate. Now they are trying to measure something more complicated: st",
-    "url": "https://uxdesign.cc/can-stress-be-quantified-d247a81dd0f2?source=rss----138adf9c44c---4",
-    "published": "Tue, 22 Sep 2026 04:32:17 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "What the Bible got right about AI",
-    "summary": "<figure><img alt=\"A recreation of Michelangelo’s “The Creation of Adam” in Sistine Chapel fresco style. God reaches out with an ordinary human hand; Adam reaches back with a hand that turns to glowing circuitry at the wrist, and the spark leaping between their fingertips is rendered as cold screen-light rather than divine radiance.\" src=\"https://cdn-images-1.medium.com/max/1024/1*dFu59zuDf4Z0SX5NtoWo8g.jpeg\" /><figcaption>Michelangelo painted God giving life to man. We are the ones reaching now,",
-    "url": "https://uxdesign.cc/what-the-bible-got-right-about-ai-340d32b82b5c?source=rss----138adf9c44c---4",
-    "published": "Thu, 24 Sep 2026 22:03:16 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"

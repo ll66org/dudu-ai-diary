@@ -1,5 +1,5 @@
 {
-  "day_count": 155,
+  "day_count": 156,
   "history": [
     {
       "day": 20,
@@ -916,6 +916,13 @@
       "date": "2026-09-25",
       "topic": "Cognition 宣布年化收入运行率突破 10 亿美元",
       "source": "Cognition 模型 / Devin 博客（网页）",
+      "mode": "rss"
+    },
+    {
+      "day": 156,
+      "date": "2026-09-26",
+      "topic": "Claude Devs 测算 Opus 5.5 相比 Opus 5 在 Claude Code 任务中的成本变化",
+      "source": "X：Claude Devs (@ClaudeDevs)",
       "mode": "rss"
     }
   ],
