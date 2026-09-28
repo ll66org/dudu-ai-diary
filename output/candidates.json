@@ -1,93 +1,174 @@
 [
   {
-    "title": "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法",
-    "summary": "Authors Guild v. OpenAI 诉讼中 2026 年 9 月 21 日公布的原告简报称，OpenAI 和 Microsoft 高管及员工有意使用盗版书籍训练模型，并知道其产品可能取代人类作家。",
-    "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
-    "published": "2026-09-27T09:27:15.061Z",
-    "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "title": "Jensen Huang: All systems around AI must be designed with restrictive rights",
+    "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=GGzPtkYiYis\">https://www.youtube.com/watch?v=GGzPtkYiYis</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49882406\">https://news.ycombinator.com/item?id=49882406</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://www.youtube.com/watch?v=GGzPtkYiYis",
+    "published": "Mon, 28 Sep 2026 18:33:54 +0000",
+    "source": "Hacker News (设计向)",
     "source_weight": "high",
-    "category": "industry"
+    "category": "ai_tech"
   },
   {
-    "title": "Claude Opus 5.5 （High） 以 1509 分登顶 Arena Text Arena 榜首",
-    "summary": "Arena 宣布 Claude Opus 5.5 （High） 以 1509 分首次登顶 Text Arena，比 Opus 5 （High） 高 18 分（现列第 11）。Opus 4.6 （High） 以 4 分之差保持第 2，Anthropic 包揽该榜前六名；Opus 5.5 （High） 按每百万 token 输入/输出定价折算的混合价格为 $16/MToken，进入 Text Arena 的 Pareto 前沿。",
-    "url": "https://x.com/arena/status/2103893011164017018",
-    "published": "2026-09-26T17:02:36.000Z",
+    "title": "Schools are experimenting with AI with little evidence or policy to guide them",
+    "summary": "<p>Article URL: <a href=\"https://www.npr.org/2026/09/28/nx-s1-5759718/ai-schools-experiment-research\">https://www.npr.org/2026/09/28/nx-s1-5759718/ai-schools-experiment-research</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49882367\">https://news.ycombinator.com/item?id=49882367</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+    "url": "https://www.npr.org/2026/09/28/nx-s1-5759718/ai-schools-experiment-research",
+    "published": "Mon, 28 Sep 2026 18:31:44 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Show HN: Nibia Fabric – Turn everyday computers into a shared AI compute cluster",
+    "summary": "<p>I built NIBIA Fabric, an open-source distributed LLM inference system that pools CPU and RAM across macOS, Linux, and Windows machines.<p>It builds on llama.cpp, with capacity-aware scheduling, adaptive memory reservation, persistent tensor caching, and an OpenAI-compatible API.<p>I’ve validated the current alpha on three physical machines across several models, including a 30B-class Qwen model, as well as GPT-OSS 20B. Feedback on the architecture and use cases is very welcome.</p>\n<hr />\n<p>",
+    "url": "https://github.com/nibia-ai/fabric",
+    "published": "Mon, 28 Sep 2026 18:16:37 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Anthropic 发布 Claude Sonnet 5.5，Artificial Analysis 智能指数得分 56，仅次于 Opus 5.5",
+    "summary": "Anthropic 发布 Claude Sonnet 5.5，在 Artificial Analysis Intelligence Index 得 56 分，仅比 Opus 5.5（max）低 2 分，max effort 下比 Sonnet 5 高 18 分。",
+    "url": "https://x.com/ArtificialAnlys/status/2104640155843989864",
+    "published": "2026-09-28T18:31:30.000Z",
+    "source": "X：Artificial Analysis (@ArtificialAnlys)",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "Claude Sonnet 5.5 上线 Arena 的 Agent Arena 与 Battle Mode 评测",
+    "summary": "Arena 宣布 Anthropic 的 Claude Sonnet 5.5 已进入 Agent Arena，并开放投票。Agent Arena 基于全球用户数百万个真实的长程智能体任务评测模型，模型可使用 web search、filesystem 和 terminal 工具完成复杂工作流，榜单用因果追踪方法衡量模型相对平均模型的结果表现。",
+    "url": "https://x.com/arena/status/2104640009232117859",
+    "published": "2026-09-28T18:30:55.000Z",
     "source": "X：Arena (@arena)",
     "source_weight": "high",
     "category": "ai-models"
   },
   {
-    "title": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
-    "summary": "Anthropic 宣布 Claude 在 Claude Science 系统中仅凭一条提示词、无人监督连续运行数天，算出平面 N=4 超杨-米尔斯理论六粒子振幅的九圈结果，超越 Lance Dixon 团队 2023 年的八圈纪录，总成本几千美元，其中直接自举路线的 Python 运行成本仅约 100 美元。",
-    "url": "https://www.ithome.com/1/007/444.htm",
-    "published": "2026-09-26T15:44:10.000Z",
-    "source": "IT之家（RSS）",
+    "title": "Claude Sonnet 5.5 发布，作者演示其修复 Claude Code 中的 bug",
+    "summary": "Anthropic 发布 Claude Sonnet 5.5，是 Claude 5.5 家族的第二款模型，相比 Sonnet 5 提速超过 30%，多数任务成本最多降低 30%。作者 Boris Cherny 用视频演示 Sonnet 5.5 修复 Claude Code 中的一个 bug。",
+    "url": "https://x.com/bcherny/status/2104638725317923228",
+    "published": "2026-09-28T18:25:49.000Z",
+    "source": "X：Boris Cherny (@bcherny)",
     "source_weight": "high",
-    "category": "paper"
+    "category": "ai-models"
   },
   {
-    "title": "GitHub Copilot app 新手教程：如何用 canvases 构建自定义工作流",
-    "summary": "GitHub 官方博客发布 GitHub Copilot app 新手教程，介绍用 /create-canvas 技能通过自然语言描述生成可自定义的 canvas 界面。",
-    "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases",
-    "published": "2026-09-25T18:00:00.000Z",
-    "source": "GitHub Blog",
+    "title": "Anthropic 发布 Claude Sonnet 5.5：比 Sonnet 5 快超 30% 且成本最多降 30%",
+    "summary": "Anthropic 发布 Claude Sonnet 5.5，称为 Claude 5.5 家族的第二款模型，相比 Sonnet 5 是明显升级，运行速度提升超过 30%，多数工作成本最多降低 30%。",
+    "url": "https://x.com/dongxi_nlp/status/2104634260934054237",
+    "published": "2026-09-28T18:08:04.000Z",
+    "source": "X：马东锡 NLP (@dongxi_nlp)",
     "source_weight": "high",
-    "category": "tip"
+    "category": "ai-models"
   },
   {
-    "title": "Anthropic 称 Claude 完成平面 N=4 超杨-米尔斯理论九圈散射振幅计算",
-    "summary": "Anthropic 在科学博客称，物理学家 @4gravitons 发起挑战后，Claude 在 Claude Science 中依据单个提示词 largely unsupervised 地运行数天，在平面 N=4 超杨-米尔斯模型中完成九圈散射振幅计算，总成本约几千美元。",
-    "url": "https://x.com/AnthropicAI/status/2103541577083719888",
-    "published": "2026-09-25T17:46:08.000Z",
+    "title": "Anthropic 发布 Claude Sonnet 5.5，速度比 Sonnet 5 快逾 30%",
+    "summary": "Anthropic 发布 Claude Sonnet 5.5，运行速度比 Sonnet 5 快超过 30%，写作更清晰，适合快速往复的日常任务。官方称其擅长修复 bug、制作文档、幻灯片和表格并有较强设计感，而 Claude Opus 5.5 面向需要谨慎判断的复杂工作；Sonnet 5.5 即日起全面可用，Claude Haiku 5.5 将在未来几周加入该系列。",
+    "url": "https://www.youtube.com/watch?v=s5nkj-L2vAw",
+    "published": "2026-09-28T18:04:19.000Z",
+    "source": "Claude：YouTube（RSS）",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "Anthropic 发布 Claude Sonnet 5.5，速度比 Sonnet 5 快超 30%",
+    "summary": "Anthropic 发布 Claude Sonnet 5.5，运行速度比 Sonnet 5 快 30% 以上，写作更清晰，适合快速来回交互。定位上与为复杂判断工作打造的 Claude Opus 5.5 区分，Sonnet 5.5 擅长范围明确的日常任务、修复 bug 以及制作文档、幻灯片和表格。模型即日起全量可用，Claude Haiku 5.5 将在未来几周加入该系列。",
+    "url": "https://www.youtube.com/shorts/u-3cPWPvRUE",
+    "published": "2026-09-28T18:04:08.000Z",
+    "source": "Claude：YouTube（RSS）",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "Anthropic 发布 Claude Sonnet 5.5",
+    "summary": "Anthropic 官宣 Claude Sonnet 5.5 现已可用，这是 Claude 5.5 家族的第二个模型。官方称相比 Sonnet 5 是明显升级，速度快 30% 以上，多数工作成本最高降低 30%。",
+    "url": "https://x.com/AnthropicAI/status/2104633259925630995",
+    "published": "2026-09-28T18:04:06.000Z",
     "source": "X：Anthropic (@AnthropicAI)",
     "source_weight": "high",
-    "category": "paper"
+    "category": "ai-models"
   },
   {
-    "title": "美国上诉法院维持五角大楼将 Anthropic 列为供应链风险的认定",
-    "summary": "华盛顿特区联邦上诉法院以 2 比 1 裁定，维持国防部将 Anthropic 列为供应链风险的决定，禁止美军及国防承包商使用 Claude 模型。",
-    "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
-    "published": "2026-09-25T15:29:25.000Z",
+    "title": "Anthropic 发布 Claude Sonnet 5.5，为 Claude 5.5 家族第二款模型",
+    "summary": "Anthropic 发布 Claude Sonnet 5.5，是 Claude 5.5 家族的第二款模型。官方称其相比 Sonnet 5 是明确升级，运行速度快 30% 以上，且多数任务成本最多降低 30%。",
+    "url": "https://x.com/claudeai/status/2104633115620823187",
+    "published": "2026-09-28T18:03:31.000Z",
+    "source": "X：Claude (@claudeai)",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "Claude Opus 5.5 (High) 在 Agent Arena 排名第二并重塑 Pareto 前沿",
+    "summary": "Arena 公布 Claude Opus 5.5 (High) 以 +12.15% 净提升分数进入 Agent Arena 第二名，仅低于 Claude Fable 5.1 (Max)。其每任务中位价格为 $1.31，比同水平低 64%，成本比 Opus 5 (High) 低 40%、比 Opus 5 (Max) 低 56%；分项信号中 Steerability 排名第一（+14.50%）。",
+    "url": "https://x.com/arena/status/2104632801740132772",
+    "published": "2026-09-28T18:02:16.000Z",
+    "source": "X：Arena (@arena)",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "Anthropic 发布 Claude Sonnet 5.5，基准接近 Opus 5.5 且单任务成本最多降 30%",
+    "summary": "Anthropic 发布 Claude 5.5 系列第二款模型 Claude Sonnet 5.5，输出速度提升超过 30%，因单任务消耗 token 更少，有效成本最多降低 30%，多项基准接近 Opus 5.5。",
+    "url": "https://the-decoder.com/anthropics-claude-sonnet-5-5-nearly-matches-opus-5-5-on-benchmarks-while-costing-up-to-30-percent-less-per-task/",
+    "published": "2026-09-28T18:02:10.000Z",
+    "source": "The Decoder：AI News（RSS）",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "Anthropic 发布 Claude Sonnet 5.5，速度提升 30% 以上、多数任务成本降低 30%",
+    "summary": "Anthropic 发布 Claude 5.5 家族第二款模型 Claude Sonnet 5.5，输出速度比 Sonnet 5 快 30% 以上，多数任务成本最高降低 30%，定价保持每百万输入 token $2、输出 token $10。",
+    "url": "https://www.anthropic.com/claude-sonnet-5-5",
+    "published": "2026-09-28T17:58:11.000Z",
     "source": "Hacker News：AI 热帖",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "Claude Opus 5.5 (High) 在 Agent Arena 排名第 2 并重塑 Pareto 前沿",
+    "summary": "Arena 官方宣布 Claude Opus 5.5 (High) 进入 Agent Arena 排名第 2，净改进分 +12.15%，仅次于 Fable 5.1 (Max)。其中位价格为每任务 $1.31，比 Opus 5 (High) 便宜 40%、比 Opus 5 (Max) 便宜 56%，分项上 Steerability 排名第 1（+14.50%）。",
+    "url": "https://x.com/arena/status/2104618173966504429",
+    "published": "2026-09-28T17:04:09.000Z",
+    "source": "X：Arena (@arena)",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "Claude Opus 5.5 (High) 进入 Agent Arena 第 2 名，成本比 Opus 5 (Max) 低 56%",
+    "summary": "Arena 公布 Claude Opus 5.5 (High) 进入 Agent Arena 排名第 2，净改进分 +12.15%，仅次于 Fable 5.1 (Max)。",
+    "url": "https://x.com/arena/status/2104617283679379704",
+    "published": "2026-09-28T17:00:36.000Z",
+    "source": "X：Arena (@arena)",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "Perplexity 红队测试 SPACE 沙箱：108 次运行中 9 个模型均未能逃逸 VM，但有 4 个模型借助网络访问绕过封锁",
+    "summary": "Perplexity 安全团队对运行 Perplexity Computer 的沙箱平台 SPACE 做了一个月红队测试，给 Opus 5、GPT-5.6 Sol、Kimi K3、Gemini 3.1 Pro 等 9 个模型 VM 内 root 权限，108 次运行中无一逃逸 VM 边界。",
+    "url": "https://x.com/AravSrinivas/status/2104597362475708781",
+    "published": "2026-09-28T15:41:27.000Z",
+    "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
     "source_weight": "high",
     "category": "industry"
   },
   {
-    "title": "GitHub 如何通过迁移 CSS Modules 将 SSR 时间降低 55%",
-    "summary": "GitHub 工程师 Josh Black 复盘将 Primer 设计系统从 CSS-in-JS 迁移到 CSS Modules 的历程。截至 2024 年 12 月 Primer 全部组件迁移完成，服务端渲染时间减少 55%，组件初始化时间减少 25%。",
-    "url": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css",
-    "published": "2026-09-25T15:00:00.000Z",
-    "source": "GitHub Blog",
+    "title": "Claude Sonnet 5.5 now available on AI Gateway",
+    "summary": "<p><a href=\"https://vercel.com/ai-gateway/models/sonnet-5.5\">Claude Sonnet 5.5</a> from <a href=\"https://vercel.com/ai-gateway/models/providers/anthropic\">Anthropic</a> is now available on <a href=\"https://vercel.com/ai-gateway\">AI Gateway</a> as <code>anthropic/claude-sonnet-5.5</code>.</p><p>Sonnet 5.5 improves on <a href=\"https://vercel.com/ai-gateway/models/claude-sonnet-5\">Claude Sonnet 5</a> for well-scoped everyday work, from building features and fixing bugs to creating documents, slides",
+    "url": "https://vercel.com/changelog/claude-sonnet-5-5-now-available-on-ai-gateway",
+    "published": "",
+    "source": "Vercel Blog (v0)",
     "source_weight": "high",
-    "category": "tip"
+    "category": "design_tools"
   },
   {
-    "title": "Satya Nadella 宣布 Copilot 迄今最大更新，定位为工作新 OS",
-    "summary": "Satya Nadella 宣布 Copilot 迄今最大更新，将其定位为覆盖每个模型、设备和任务的工作新 OS。",
-    "url": "https://x.com/satyanadella/status/2103455884366188544",
-    "published": "2026-09-25T12:05:37.000Z",
-    "source": "X：Satya Nadella (@satyanadella)",
+    "title": "Vercel Sandbox now supports memory observability",
+    "summary": "<p><a href=\"https://vercel.com/d?to=%2F%5Bteam%5D%2F%7E%2Fobservability%2Fsandboxes&amp;title=Sandbox+Observability\">Vercel Sandbox observability</a> now includes memory usage data.</p><p>You can access sandbox memory usage data in the dashboard and through the CLI via the <code>vercel metrics</code> command. </p><h3>Sandbox observability memory in the dashboard</h3><p>The Memory Usage card reports average, P75, and P95 memory across your sandboxes, alongside the existing CPU usage and data tran",
+    "url": "https://vercel.com/changelog/vercel-sandbox-now-supports-memory-observability",
+    "published": "",
+    "source": "Vercel Blog (v0)",
     "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Anthropic 推出 Claude 插件体系与目录提交门户",
-    "summary": "Anthropic 推出 Claude 插件（Plugins），作为第三方开发者为 Claude 构建扩展的主要方式，插件可打包 MCP 连接器和 Agent Skills。",
-    "url": "https://claude.com/blog/build-plugins-for-claude",
-    "published": "2026-09-24T16:00:00.000Z",
-    "source": "Claude：Blog（网页）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Claude 完成 N=4 super Yang-Mills 九圈散射振幅计算，物理学家 Matt von Hippel 撰文回顾挑战过程",
-    "summary": "物理学家 Matt von Hippel 发起的挑战达成：Anthropic 的 Liam Fitzpatrick 与 Siddharth Mishra-Sharma 用 Claude Science（harness）让 Claude 直接算出 planar N=4 super Yang-Mills 六粒子振幅九圈结果。",
-    "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
-    "published": "2026-09-24T16:00:00.000Z",
-    "source": "Anthropic：Research（发表成果 · 网页）",
-    "source_weight": "high",
-    "category": "tip"
+    "category": "design_tools"
   },
   {
     "title": "Why the best resume may be the wrong resume for a design team",
@@ -135,37 +216,10 @@
     "category": "design_communities"
   },
   {
-    "title": "Where does your work go when the tool shuts down?",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/where-does-your-work-go-when-the-tool-shuts-down-d3b74c2a74d8?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1024/1*H8UQmv8qfQSi9gYi8BgVxQ.png\" width=\"1024\" /></a></p><p class=\"medium-feed-snippet\">A quarter of the last decade&#x2019;s web pages have vanished, mostly from sites still online. Who&#x2019;s archiving yours?</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc",
-    "url": "https://uxdesign.cc/where-does-your-work-go-when-the-tool-shuts-down-d3b74c2a74d8?source=rss----138adf9c44c---4",
-    "published": "Tue, 22 Sep 2026 11:21:28 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Nobody starts as an accessibility expert",
-    "summary": "<h4><em>Designers, leave your intimidation at the door.</em></h4><p>Nobody becomes a designer because they’re excited about compliance. It sounds boring and it sounds like someone else’s job. Most of us are glad it is.</p><p><strong>But what if we’re wrong? What if no one else is doing it? What if no one else cares?</strong></p><figure><img alt=\"arrow pointing left indicating that accessibility is shifting left\" src=\"https://cdn-images-1.medium.com/max/1024/1*qlc9hL1A0e5eGD7SO0toBA.png\" /></figu",
-    "url": "https://uxdesign.cc/nobody-starts-as-an-accessibility-expert-6a16e8a99960?source=rss----138adf9c44c---4",
-    "published": "Tue, 22 Sep 2026 04:33:52 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
     "title": "What the Bible got right about AI",
     "summary": "<figure><img alt=\"A recreation of Michelangelo’s “The Creation of Adam” in Sistine Chapel fresco style. God reaches out with an ordinary human hand; Adam reaches back with a hand that turns to glowing circuitry at the wrist, and the spark leaping between their fingertips is rendered as cold screen-light rather than divine radiance.\" src=\"https://cdn-images-1.medium.com/max/1024/1*dFu59zuDf4Z0SX5NtoWo8g.jpeg\" /><figcaption>Michelangelo painted God giving life to man. We are the ones reaching now,",
     "url": "https://uxdesign.cc/what-the-bible-got-right-about-ai-340d32b82b5c?source=rss----138adf9c44c---4",
     "published": "Thu, 24 Sep 2026 22:03:16 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Is this the line for burgers?",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/is-this-the-line-for-burgers-9730dd45999d?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*hgd51UA0duLjOnWNPBat9A.png\" width=\"5764\" /></a></p><p class=\"medium-feed-snippet\">On something already in the scene solving a problem outside its brief</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/is-this-the-line-for-burgers-9730dd45999d?source=rss----138adf9c44c---4\">C",
-    "url": "https://uxdesign.cc/is-this-the-line-for-burgers-9730dd45999d?source=rss----138adf9c44c---4",
-    "published": "Fri, 25 Sep 2026 21:51:14 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"

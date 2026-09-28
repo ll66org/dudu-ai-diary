@@ -1,14 +1,14 @@
 {
-  "fetched_at": "2026-09-27T15:46:32.782522Z",
-  "total_candidates": 19,
+  "fetched_at": "2026-09-28T18:43:09.655308Z",
+  "total_candidates": 25,
   "source_stats": {
     "Figma Blog": {
       "found": 0,
       "total": 0
     },
     "Vercel Blog (v0)": {
-      "found": 0,
-      "total": 1612
+      "found": 2,
+      "total": 1615
     },
     "Cursor Changelog": {
       "found": 0,
@@ -23,8 +23,8 @@
       "total": 0
     },
     "Lovable Blog": {
-      "found": 0,
-      "total": 162
+      "found": 1,
+      "total": 163
     },
     "Bolt (StackBlitz) Blog": {
       "found": 0,
@@ -35,7 +35,7 @@
       "total": 40
     },
     "UX Collective": {
-      "found": 9,
+      "found": 8,
       "total": 10
     },
     "Designer News": {
@@ -51,8 +51,8 @@
       "total": 20
     },
     "Hacker News (设计向)": {
-      "found": 0,
-      "total": 0
+      "found": 3,
+      "total": 20
     },
     "Product Hunt": {
       "found": 0,
@@ -64,27 +64,27 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 157,
-  "today_date": "2026-09-27",
+  "dudu_day": 158,
+  "today_date": "2026-09-28",
   "used_titles": [
-    "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载",
     "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑",
     "LiteParse 9 月更新：PDFium 提速 20-25%，新增视觉定位与 is-complex 路由 API",
     "Anthropic 前线工程师分享 AI 驱动代码现代化项目的六步准备方法",
     "NVIDIA 联合 Google DeepMind 等机构开放 2800 多种病毒的蛋白复合物预测结构数据集",
     "Cognition 宣布年化收入运行率突破 10 亿美元",
-    "Claude Devs 测算 Opus 5.5 相比 Opus 5 在 Claude Code 任务中的成本变化"
+    "Claude Devs 测算 Opus 5.5 相比 Opus 5 在 Claude Code 任务中的成本变化",
+    "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法"
   ],
   "used_tools": [
-    "X：通义千问 / Qwen (@Alibaba_Qwen)",
     "X：通义千问 / Qwen (@Alibaba_Qwen)",
     "LlamaIndex：产品、工程与评测",
     "Claude：Blog（网页）",
     "NVIDIA Blog（RSS）",
     "Cognition 模型 / Devin 博客（网页）",
-    "X：Claude Devs (@ClaudeDevs)"
+    "X：Claude Devs (@ClaudeDevs)",
+    "Hacker News 热门（buzzing.cc 中文翻译）"
   ],
-  "briefing_total": 29,
-  "briefing_design": 12,
+  "briefing_total": 43,
+  "briefing_design": 21,
   "briefing_count": 5
 }
