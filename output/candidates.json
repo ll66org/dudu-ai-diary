@@ -1,135 +1,72 @@
 [
   {
-    "title": "Jensen Huang: All systems around AI must be designed with restrictive rights",
-    "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=GGzPtkYiYis\">https://www.youtube.com/watch?v=GGzPtkYiYis</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49882406\">https://news.ycombinator.com/item?id=49882406</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://www.youtube.com/watch?v=GGzPtkYiYis",
-    "published": "Mon, 28 Sep 2026 18:33:54 +0000",
+    "title": "Show HN: I fixed MealPal's UX (and its math) with a Chrome extension",
+    "summary": "<p>Hi HN! I wanted to share a Chrome extension I made that lets you instantly find newly added meals (aka the best ones, iykyk) and sort by % off.<p>While implementing it I found that MealPal's discount percentages are miscalculated, so the extension fixes that too. Details on this in the blog post: <a href=\"https://jombooth.com/2026/05/mealshark/\" rel=\"nofollow\">https://jombooth.com/2026/05/mealshark/</a><p>Get the extension here: <a href=\"https://chromewebstore.google.com/detail/mealshark/pmmn",
+    "url": "https://jombooth.com/2026/05/mealshark-fixing-mealpals-ux-and-its-math-with-a-chrome-extension/",
+    "published": "Tue, 29 Sep 2026 16:44:23 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Schools are experimenting with AI with little evidence or policy to guide them",
-    "summary": "<p>Article URL: <a href=\"https://www.npr.org/2026/09/28/nx-s1-5759718/ai-schools-experiment-research\">https://www.npr.org/2026/09/28/nx-s1-5759718/ai-schools-experiment-research</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49882367\">https://news.ycombinator.com/item?id=49882367</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
-    "url": "https://www.npr.org/2026/09/28/nx-s1-5759718/ai-schools-experiment-research",
-    "published": "Mon, 28 Sep 2026 18:31:44 +0000",
+    "title": "NUVACORE (fmr Apple/Qualcomm/Nuvia eng) share flexible CPU core design approach",
+    "summary": "<p>Article URL: <a href=\"https://twitter.com/NUVACOREAI/status/2104951047848628329\">https://twitter.com/NUVACOREAI/status/2104951047848628329</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49896171\">https://news.ycombinator.com/item?id=49896171</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://twitter.com/NUVACOREAI/status/2104951047848628329",
+    "published": "Tue, 29 Sep 2026 16:40:14 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Show HN: Nibia Fabric – Turn everyday computers into a shared AI compute cluster",
-    "summary": "<p>I built NIBIA Fabric, an open-source distributed LLM inference system that pools CPU and RAM across macOS, Linux, and Windows machines.<p>It builds on llama.cpp, with capacity-aware scheduling, adaptive memory reservation, persistent tensor caching, and an OpenAI-compatible API.<p>I’ve validated the current alpha on three physical machines across several models, including a 30B-class Qwen model, as well as GPT-OSS 20B. Feedback on the architecture and use cases is very welcome.</p>\n<hr />\n<p>",
-    "url": "https://github.com/nibia-ai/fabric",
-    "published": "Mon, 28 Sep 2026 18:16:37 +0000",
+    "title": "MongoDB Launches MongoDB 9.0 and Atlas Infinite for AI-Scale Demand",
+    "summary": "<p>Article URL: <a href=\"https://www.mongodb.com/company/newsroom/press-releases/mongodb-launches-mongodb-9-0-the-best-version-ever-built-and-atlas-infinite-for-ai-scale-demand\">https://www.mongodb.com/company/newsroom/press-releases/mongodb-launches-mongodb-9-0-the-best-version-ever-built-and-atlas-infinite-for-ai-scale-demand</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49895438\">https://news.ycombinator.com/item?id=49895438</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</",
+    "url": "https://www.mongodb.com/company/newsroom/press-releases/mongodb-launches-mongodb-9-0-the-best-version-ever-built-and-atlas-infinite-for-ai-scale-demand",
+    "published": "Tue, 29 Sep 2026 15:51:34 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Anthropic 发布 Claude Sonnet 5.5，Artificial Analysis 智能指数得分 56，仅次于 Opus 5.5",
-    "summary": "Anthropic 发布 Claude Sonnet 5.5，在 Artificial Analysis Intelligence Index 得 56 分，仅比 Opus 5.5（max）低 2 分，max effort 下比 Sonnet 5 高 18 分。",
-    "url": "https://x.com/ArtificialAnlys/status/2104640155843989864",
-    "published": "2026-09-28T18:31:30.000Z",
-    "source": "X：Artificial Analysis (@ArtificialAnlys)",
+    "title": "Show HN: A terminal UI for GitHub Actions across all repos and orgs",
+    "summary": "<p>We have many repos across multiple GitHub organizations (no monorepo yet). I needed a tool to list and manage Actions from the terminal instead of clicking through the GitHub web UI, so I made this. Hope it's handy.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49895281\">https://news.ycombinator.com/item?id=49895281</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "url": "https://github.com/shamilatesoglu/actui",
+    "published": "Tue, 29 Sep 2026 15:42:42 +0000",
+    "source": "Hacker News (设计向)",
     "source_weight": "high",
-    "category": "ai-models"
+    "category": "ai_tech"
+  },
+  {
+    "title": "Hugging Face CEO 称被 NVIDIA 收购后可招募人才并用十年推动开源 AI 取胜",
+    "summary": "Hugging Face CEO Clément Delangue 表示被 NVIDIA 收购意味着公司现在能招聘到小创业公司时期请不起的人，并给他们十年时间让开源 AI 取胜。他向合适的人开放私信招募。",
+    "url": "https://x.com/ClementDelangue/status/2104960836796342729",
+    "published": "2026-09-29T15:45:46.000Z",
+    "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+    "source_weight": "high",
+    "category": "industry"
+  },
+  {
+    "title": "Microsoft Research 发布 AI 生物研究系统 Quine，并开放 Quine Fellows 项目申请",
+    "summary": "Microsoft Research 推出 Quine，一个包含生物学世界模型和交互式 harness 的 AI 研究系统，可跨基因组、蛋白质、化学、细胞状态和生物成像等模态联合学习并推理干预后果。",
+    "url": "https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology/",
+    "published": "2026-09-29T14:00:02.000Z",
+    "source": "Microsoft Research 博客（RSS）",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图",
+    "summary": "IMDEA Networks 等机构对 ChatGPT、Claude、Grok、DeepSeek、Gemini、Perplexity、Copilot、Mistral 和 Meta AI 九款对话式 AI 服务做了系统性隐私分析。",
+    "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+    "published": "2026-09-29T09:03:41.000Z",
+    "source": "Hacker News：AI 热帖",
+    "source_weight": "high",
+    "category": "paper"
   },
   {
     "title": "Claude Sonnet 5.5 上线 Arena 的 Agent Arena 与 Battle Mode 评测",
     "summary": "Arena 宣布 Anthropic 的 Claude Sonnet 5.5 已进入 Agent Arena，并开放投票。Agent Arena 基于全球用户数百万个真实的长程智能体任务评测模型，模型可使用 web search、filesystem 和 terminal 工具完成复杂工作流，榜单用因果追踪方法衡量模型相对平均模型的结果表现。",
     "url": "https://x.com/arena/status/2104640009232117859",
     "published": "2026-09-28T18:30:55.000Z",
-    "source": "X：Arena (@arena)",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "Claude Sonnet 5.5 发布，作者演示其修复 Claude Code 中的 bug",
-    "summary": "Anthropic 发布 Claude Sonnet 5.5，是 Claude 5.5 家族的第二款模型，相比 Sonnet 5 提速超过 30%，多数任务成本最多降低 30%。作者 Boris Cherny 用视频演示 Sonnet 5.5 修复 Claude Code 中的一个 bug。",
-    "url": "https://x.com/bcherny/status/2104638725317923228",
-    "published": "2026-09-28T18:25:49.000Z",
-    "source": "X：Boris Cherny (@bcherny)",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "Anthropic 发布 Claude Sonnet 5.5：比 Sonnet 5 快超 30% 且成本最多降 30%",
-    "summary": "Anthropic 发布 Claude Sonnet 5.5，称为 Claude 5.5 家族的第二款模型，相比 Sonnet 5 是明显升级，运行速度提升超过 30%，多数工作成本最多降低 30%。",
-    "url": "https://x.com/dongxi_nlp/status/2104634260934054237",
-    "published": "2026-09-28T18:08:04.000Z",
-    "source": "X：马东锡 NLP (@dongxi_nlp)",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "Anthropic 发布 Claude Sonnet 5.5，速度比 Sonnet 5 快逾 30%",
-    "summary": "Anthropic 发布 Claude Sonnet 5.5，运行速度比 Sonnet 5 快超过 30%，写作更清晰，适合快速往复的日常任务。官方称其擅长修复 bug、制作文档、幻灯片和表格并有较强设计感，而 Claude Opus 5.5 面向需要谨慎判断的复杂工作；Sonnet 5.5 即日起全面可用，Claude Haiku 5.5 将在未来几周加入该系列。",
-    "url": "https://www.youtube.com/watch?v=s5nkj-L2vAw",
-    "published": "2026-09-28T18:04:19.000Z",
-    "source": "Claude：YouTube（RSS）",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "Anthropic 发布 Claude Sonnet 5.5，速度比 Sonnet 5 快超 30%",
-    "summary": "Anthropic 发布 Claude Sonnet 5.5，运行速度比 Sonnet 5 快 30% 以上，写作更清晰，适合快速来回交互。定位上与为复杂判断工作打造的 Claude Opus 5.5 区分，Sonnet 5.5 擅长范围明确的日常任务、修复 bug 以及制作文档、幻灯片和表格。模型即日起全量可用，Claude Haiku 5.5 将在未来几周加入该系列。",
-    "url": "https://www.youtube.com/shorts/u-3cPWPvRUE",
-    "published": "2026-09-28T18:04:08.000Z",
-    "source": "Claude：YouTube（RSS）",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "Anthropic 发布 Claude Sonnet 5.5",
-    "summary": "Anthropic 官宣 Claude Sonnet 5.5 现已可用，这是 Claude 5.5 家族的第二个模型。官方称相比 Sonnet 5 是明显升级，速度快 30% 以上，多数工作成本最高降低 30%。",
-    "url": "https://x.com/AnthropicAI/status/2104633259925630995",
-    "published": "2026-09-28T18:04:06.000Z",
-    "source": "X：Anthropic (@AnthropicAI)",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "Anthropic 发布 Claude Sonnet 5.5，为 Claude 5.5 家族第二款模型",
-    "summary": "Anthropic 发布 Claude Sonnet 5.5，是 Claude 5.5 家族的第二款模型。官方称其相比 Sonnet 5 是明确升级，运行速度快 30% 以上，且多数任务成本最多降低 30%。",
-    "url": "https://x.com/claudeai/status/2104633115620823187",
-    "published": "2026-09-28T18:03:31.000Z",
-    "source": "X：Claude (@claudeai)",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "Claude Opus 5.5 (High) 在 Agent Arena 排名第二并重塑 Pareto 前沿",
-    "summary": "Arena 公布 Claude Opus 5.5 (High) 以 +12.15% 净提升分数进入 Agent Arena 第二名，仅低于 Claude Fable 5.1 (Max)。其每任务中位价格为 $1.31，比同水平低 64%，成本比 Opus 5 (High) 低 40%、比 Opus 5 (Max) 低 56%；分项信号中 Steerability 排名第一（+14.50%）。",
-    "url": "https://x.com/arena/status/2104632801740132772",
-    "published": "2026-09-28T18:02:16.000Z",
-    "source": "X：Arena (@arena)",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "Anthropic 发布 Claude Sonnet 5.5，基准接近 Opus 5.5 且单任务成本最多降 30%",
-    "summary": "Anthropic 发布 Claude 5.5 系列第二款模型 Claude Sonnet 5.5，输出速度提升超过 30%，因单任务消耗 token 更少，有效成本最多降低 30%，多项基准接近 Opus 5.5。",
-    "url": "https://the-decoder.com/anthropics-claude-sonnet-5-5-nearly-matches-opus-5-5-on-benchmarks-while-costing-up-to-30-percent-less-per-task/",
-    "published": "2026-09-28T18:02:10.000Z",
-    "source": "The Decoder：AI News（RSS）",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "Anthropic 发布 Claude Sonnet 5.5，速度提升 30% 以上、多数任务成本降低 30%",
-    "summary": "Anthropic 发布 Claude 5.5 家族第二款模型 Claude Sonnet 5.5，输出速度比 Sonnet 5 快 30% 以上，多数任务成本最高降低 30%，定价保持每百万输入 token $2、输出 token $10。",
-    "url": "https://www.anthropic.com/claude-sonnet-5-5",
-    "published": "2026-09-28T17:58:11.000Z",
-    "source": "Hacker News：AI 热帖",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "Claude Opus 5.5 (High) 在 Agent Arena 排名第 2 并重塑 Pareto 前沿",
-    "summary": "Arena 官方宣布 Claude Opus 5.5 (High) 进入 Agent Arena 排名第 2，净改进分 +12.15%，仅次于 Fable 5.1 (Max)。其中位价格为每任务 $1.31，比 Opus 5 (High) 便宜 40%、比 Opus 5 (Max) 便宜 56%，分项上 Steerability 排名第 1（+14.50%）。",
-    "url": "https://x.com/arena/status/2104618173966504429",
-    "published": "2026-09-28T17:04:09.000Z",
     "source": "X：Arena (@arena)",
     "source_weight": "high",
     "category": "ai-models"
@@ -144,6 +81,15 @@
     "category": "ai-models"
   },
   {
+    "title": "Anthropic 评测 GLM-5.3：能自主构建端到端网络漏洞利用且防护易被绕过",
+    "summary": "Anthropic 发布对智谱 GLM-5.3 网络攻击能力的分析，发现其可自主开发端到端漏洞利用，在 ExploitBench 410 次尝试中成功 50 次，接近 Claude Mythos Preview 的 56 次。",
+    "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
+    "published": "2026-09-28T16:00:00.000Z",
+    "source": "Anthropic：Research（发表成果 · 网页）",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
     "title": "Perplexity 红队测试 SPACE 沙箱：108 次运行中 9 个模型均未能逃逸 VM，但有 4 个模型借助网络访问绕过封锁",
     "summary": "Perplexity 安全团队对运行 Perplexity Computer 的沙箱平台 SPACE 做了一个月红队测试，给 Opus 5、GPT-5.6 Sol、Kimi K3、Gemini 3.1 Pro 等 9 个模型 VM 内 root 权限，108 次运行中无一逃逸 VM 边界。",
     "url": "https://x.com/AravSrinivas/status/2104597362475708781",
@@ -153,22 +99,49 @@
     "category": "industry"
   },
   {
-    "title": "Claude Sonnet 5.5 now available on AI Gateway",
-    "summary": "<p><a href=\"https://vercel.com/ai-gateway/models/sonnet-5.5\">Claude Sonnet 5.5</a> from <a href=\"https://vercel.com/ai-gateway/models/providers/anthropic\">Anthropic</a> is now available on <a href=\"https://vercel.com/ai-gateway\">AI Gateway</a> as <code>anthropic/claude-sonnet-5.5</code>.</p><p>Sonnet 5.5 improves on <a href=\"https://vercel.com/ai-gateway/models/claude-sonnet-5\">Claude Sonnet 5</a> for well-scoped everyday work, from building features and fixing bugs to creating documents, slides",
-    "url": "https://vercel.com/changelog/claude-sonnet-5-5-now-available-on-ai-gateway",
-    "published": "",
-    "source": "Vercel Blog (v0)",
+    "title": "Meta 推出 Hologram 拟真虚拟形象，秋季上线雷朋眼镜与 Quest 头显",
+    "summary": "Meta 宣布将于今年秋季在雷朋 Display 智能眼镜、Quest 头显及新轻薄头显上推出“Hologram”功能。该功能利用生成式 AI（实时扩散模型）创建高度拟真的用户虚拟形象，替代传统摄像头画面用于 WhatsApp 视频通话。用户需通过手机 Meta AI 应用采集面部表情和语音数据完成建模。雷朋版基于音频驱动生成 2D 视频流，Quest 版支持 3D 等身立体呈现。目前存在细节粗糙、侧倾变形等技术局限。",
+    "url": "https://www.ithome.com/1/007/767.htm",
+    "published": "2026-09-28T04:31:04.000Z",
+    "source": "IT之家（RSS）",
     "source_weight": "high",
-    "category": "design_tools"
+    "category": "ai-products"
   },
   {
-    "title": "Vercel Sandbox now supports memory observability",
-    "summary": "<p><a href=\"https://vercel.com/d?to=%2F%5Bteam%5D%2F%7E%2Fobservability%2Fsandboxes&amp;title=Sandbox+Observability\">Vercel Sandbox observability</a> now includes memory usage data.</p><p>You can access sandbox memory usage data in the dashboard and through the CLI via the <code>vercel metrics</code> command. </p><h3>Sandbox observability memory in the dashboard</h3><p>The Memory Usage card reports average, P75, and P95 memory across your sandboxes, alongside the existing CPU usage and data tran",
-    "url": "https://vercel.com/changelog/vercel-sandbox-now-supports-memory-observability",
-    "published": "",
-    "source": "Vercel Blog (v0)",
+    "title": "xAI 发布 Team Bots：可与团队共同学习工作的 Grok 智能体",
+    "summary": "xAI 推出 Team Bots，让团队共享的 Grok Bots 围绕角色或工作流构建，整合 Context、Plugins、Credentials 和 Memories 四类能力，并可在 Slack 中协作，个人对话仍保持私密。",
+    "url": "https://x.ai/news/team-bots",
+    "published": "2026-09-28T00:00:00.000Z",
+    "source": "xAI：News（网页）",
     "source_weight": "high",
-    "category": "design_tools"
+    "category": "ai-products"
+  },
+  {
+    "title": "Claude Sonnet 5.5 达到 Artificial Analysis 智能指数第 2 名",
+    "summary": "Artificial Analysis 发布对 Claude Sonnet 5.5 的评测：其智能指数得分 56，max effort 下比 Sonnet 5 高 18 分，升至第 2 名，仅落后 Opus 5.5 (max)。",
+    "url": "https://artificialanalysis.ai/articles/claude-sonnet-5-5",
+    "published": "2026-09-27T16:00:00.000Z",
+    "source": "Artificial Analysis 完整文章（网页）",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "NVIDIA 发布开源智能体安全平台，提供芯片级持续监控与隔离",
+    "summary": "NVIDIA 推出 NVIDIA Open Agent Safety Platform，包含开源运行时 OpenShell、硬件层 Sentry 及 DOCA 技术。该平台旨在通过内核级隔离、零信任环境和带外（out-of-band）监控来防止 AI 智能体行为漂移和越权。OpenShell 将操作指令转化为可验证策略，BlueField DPU 在模型路径上提供实时策略执行与身份治理，确保即使主机不可信时也能独立保护系统。",
+    "url": "https://developer.nvidia.com/blog/nvidia-open-agent-safety-platform-a-reference-for-continuous-in-silicon-agent-monitoring/",
+    "published": "2026-09-27T16:00:00.000Z",
+    "source": "NVIDIA Technical Blog：Agentic AI / Generative AI",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "Fireworks AI 推出 FireRouter with Opus，编码任务成本降 57%",
+    "summary": "Fireworks AI 发布 FireRouter with Opus，可在 Claude Opus 5.5、GLM 5.3 和 GLM 5.3 Flash 之间做缓存感知路由，并首次以独立路由模型形式作为 serverless 端点开放。",
+    "url": "https://fireworks.ai/blog/introducing-firerouter-with-opus",
+    "published": "2026-09-27T16:00:00.000Z",
+    "source": "Fireworks AI（网页）",
+    "source_weight": "high",
+    "category": "ai-products"
   },
   {
     "title": "Why the best resume may be the wrong resume for a design team",
@@ -189,28 +162,19 @@
     "category": "design_communities"
   },
   {
-    "title": "In the age of AI, the UX field survives on leaders who cultivate juniors",
-    "summary": "<figure><img alt=\"A design lead walks a nervous new hire through their first critique.\" src=\"https://cdn-images-1.medium.com/max/1024/1*USREMn6GsWPB5N5aBd-UVw.png\" /><figcaption>A design lead walks a nervous new hire through their first critique. AI Assisted.</figcaption></figure><h4><em>Every senior designer was once a bet someone made. The generation of judgment the field needs in ten years depends on leaders making that bet again, because AI tools demand it.</em></h4><p>Every senior designer ",
-    "url": "https://uxdesign.cc/in-the-age-of-ai-the-ux-field-survives-on-leaders-who-cultivate-juniors-595c548f1d70?source=rss----138adf9c44c---4",
-    "published": "Tue, 22 Sep 2026 21:27:21 GMT",
+    "title": "If you want to design for underserved users, look at farmers’ markets",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/if-you-want-to-design-for-underserved-users-look-at-farmers-markets-eefaedb35607?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*R-4SK7YbFVFV1AgY5S4PQg.jpeg\" width=\"6625\" /></a></p><p class=\"medium-feed-snippet\">The bottom third model, and why your help patterns miss the users who need them most</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/if-you-want-to-desi",
+    "url": "https://uxdesign.cc/if-you-want-to-design-for-underserved-users-look-at-farmers-markets-eefaedb35607?source=rss----138adf9c44c---4",
+    "published": "Tue, 29 Sep 2026 12:10:56 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
   },
   {
-    "title": "Designers lost their unit of measurement. That’s why we’re struggling.",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/designers-lost-their-unit-of-measurement-thats-why-we-re-struggling-b3c6beeea74f?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*DJLSCzqhulbOdF-oFyT31w.jpeg\" width=\"6502\" /></a></p><p class=\"medium-feed-snippet\">If screens don&#x2019;t work as a unit of measurement, what does instead?</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/designers-lost-their-unit-of-m",
-    "url": "https://uxdesign.cc/designers-lost-their-unit-of-measurement-thats-why-we-re-struggling-b3c6beeea74f?source=rss----138adf9c44c---4",
-    "published": "Tue, 22 Sep 2026 11:23:11 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "What is a screen made of?",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/what-is-a-screen-made-of-f2b1318778d4?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1400/0*L26pG42n_QiDFkgQ.jpg\" width=\"1400\" /></a></p><p class=\"medium-feed-snippet\">Flat design was right that the screen isn&#x2019;t leather. Then it assumed that meant nothing.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/what-is-a-screen-made-of-f2b1318778d4?source=rss----138adf",
-    "url": "https://uxdesign.cc/what-is-a-screen-made-of-f2b1318778d4?source=rss----138adf9c44c---4",
-    "published": "Tue, 22 Sep 2026 11:22:00 GMT",
+    "title": "The strategic designer: navigating the Jevons paradox in the AI age",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-strategic-designer-navigating-the-jevons-paradox-in-the-ai-age-e06aa836f9d8?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1376/1*NasC0V1EwOSP32HqOouZ9w.jpeg\" width=\"1376\" /></a></p><p class=\"medium-feed-snippet\">From specialist makers to strategic orchestrators: why compressing execution time increases the demand for design vision, systems thinking&#x2026;</p><p class=\"mediu",
+    "url": "https://uxdesign.cc/the-strategic-designer-navigating-the-jevons-paradox-in-the-ai-age-e06aa836f9d8?source=rss----138adf9c44c---4",
+    "published": "Tue, 29 Sep 2026 03:41:54 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
@@ -220,6 +184,42 @@
     "summary": "<figure><img alt=\"A recreation of Michelangelo’s “The Creation of Adam” in Sistine Chapel fresco style. God reaches out with an ordinary human hand; Adam reaches back with a hand that turns to glowing circuitry at the wrist, and the spark leaping between their fingertips is rendered as cold screen-light rather than divine radiance.\" src=\"https://cdn-images-1.medium.com/max/1024/1*dFu59zuDf4Z0SX5NtoWo8g.jpeg\" /><figcaption>Michelangelo painted God giving life to man. We are the ones reaching now,",
     "url": "https://uxdesign.cc/what-the-bible-got-right-about-ai-340d32b82b5c?source=rss----138adf9c44c---4",
     "published": "Thu, 24 Sep 2026 22:03:16 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "The next larger context",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-next-larger-context-4dd0c91a7c5b?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2388/57c076bfa3105c41a754a345d5d0917a86486478a825815c67a32a73cb106311\" width=\"2388\" /></a></p><p class=\"medium-feed-snippet\">Designing beyond the interface, the product, and the prompt</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/the-next-larger-context-4dd0c91a7c5b?source=rss----13",
+    "url": "https://uxdesign.cc/the-next-larger-context-4dd0c91a7c5b?source=rss----138adf9c44c---4",
+    "published": "Mon, 28 Sep 2026 22:29:04 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "What makes a brand last?",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/what-makes-a-brand-last-baf152419576?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/960/1*FbZ1opWT-9t7ClXl5fGUUA.png\" width=\"960\" /></a></p><p class=\"medium-feed-snippet\">Two energy suppliers shared the same colour and cheerful voice, yet one of them went bust. A bank and a language app help explain why.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/what-makes-a-bra",
+    "url": "https://uxdesign.cc/what-makes-a-brand-last-baf152419576?source=rss----138adf9c44c---4",
+    "published": "Mon, 28 Sep 2026 22:28:43 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Regulating AI, Quantifying stress, The variance problem",
+    "summary": "<h4>Weekly curated resources for designers — thinkers and makers.</h4><figure><a href=\"https://uxdesign.cc/the-lie-we-keep-telling-ourselves-about-regulating-ai-61e0163d795e\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/0*3BXMWGck9122_9zB.png\" /></a></figure><p>“Congress is still writing in waterfall, stuck in a world that is quickly passing them by. It wants one comprehensive (dare I say beautiful) AI bill, fully specified, passed once, ideally after everyone agrees, which is to sa",
+    "url": "https://uxdesign.cc/regulating-ai-quantifying-stress-the-variance-problem-1ce71d56a34a?source=rss----138adf9c44c---4",
+    "published": "Mon, 28 Sep 2026 11:14:59 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Is this the line for burgers?",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/is-this-the-line-for-burgers-9730dd45999d?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*hgd51UA0duLjOnWNPBat9A.png\" width=\"5764\" /></a></p><p class=\"medium-feed-snippet\">On something already in the scene solving a problem outside its brief</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/is-this-the-line-for-burgers-9730dd45999d?source=rss----138adf9c44c---4\">C",
+    "url": "https://uxdesign.cc/is-this-the-line-for-burgers-9730dd45999d?source=rss----138adf9c44c---4",
+    "published": "Fri, 25 Sep 2026 21:51:14 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-28T18:43:09.655308Z",
+  "fetched_at": "2026-09-29T16:59:18.552819Z",
   "total_candidates": 25,
   "source_stats": {
     "Figma Blog": {
@@ -7,8 +7,8 @@
       "total": 0
     },
     "Vercel Blog (v0)": {
-      "found": 2,
-      "total": 1615
+      "found": 0,
+      "total": 1616
     },
     "Cursor Changelog": {
       "found": 0,
@@ -23,7 +23,7 @@
       "total": 0
     },
     "Lovable Blog": {
-      "found": 1,
+      "found": 0,
       "total": 163
     },
     "Bolt (StackBlitz) Blog": {
@@ -35,7 +35,7 @@
       "total": 40
     },
     "UX Collective": {
-      "found": 8,
+      "found": 9,
       "total": 10
     },
     "Designer News": {
@@ -44,18 +44,18 @@
     },
     "CSS-Tricks": {
       "found": 0,
-      "total": 15
+      "total": 0
     },
     "A List Apart": {
       "found": 0,
       "total": 20
     },
     "Hacker News (设计向)": {
-      "found": 3,
+      "found": 4,
       "total": 20
     },
     "Product Hunt": {
-      "found": 0,
+      "found": 1,
       "total": 50
     },
     "Designer News (AI Design)": {
@@ -64,27 +64,27 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 158,
-  "today_date": "2026-09-28",
+  "dudu_day": 159,
+  "today_date": "2026-09-29",
   "used_titles": [
-    "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑",
     "LiteParse 9 月更新：PDFium 提速 20-25%，新增视觉定位与 is-complex 路由 API",
     "Anthropic 前线工程师分享 AI 驱动代码现代化项目的六步准备方法",
     "NVIDIA 联合 Google DeepMind 等机构开放 2800 多种病毒的蛋白复合物预测结构数据集",
     "Cognition 宣布年化收入运行率突破 10 亿美元",
     "Claude Devs 测算 Opus 5.5 相比 Opus 5 在 Claude Code 任务中的成本变化",
-    "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法"
+    "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法",
+    "Anthropic 发布 Claude Sonnet 5.5，Artificial Analysis 智能指数得分 56，仅次于 Opus 5.5"
   ],
   "used_tools": [
-    "X：通义千问 / Qwen (@Alibaba_Qwen)",
     "LlamaIndex：产品、工程与评测",
     "Claude：Blog（网页）",
     "NVIDIA Blog（RSS）",
     "Cognition 模型 / Devin 博客（网页）",
     "X：Claude Devs (@ClaudeDevs)",
-    "Hacker News 热门（buzzing.cc 中文翻译）"
+    "Hacker News 热门（buzzing.cc 中文翻译）",
+    "X：Artificial Analysis (@ArtificialAnlys)"
   ],
-  "briefing_total": 43,
-  "briefing_design": 21,
+  "briefing_total": 36,
+  "briefing_design": 16,
   "briefing_count": 5
 }

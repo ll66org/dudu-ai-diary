@@ -1,5 +1,29 @@
 [
   {
+    "title": "Hugging Face CEO 称被 NVIDIA 收购后可招募人才并用十年推动开源 AI 取胜",
+    "summary": "Hugging Face CEO Clément Delangue 表示被 NVIDIA 收购意味着公司现在能招聘到小创业公司时期请不起的人，并给他们十年时间让开源 AI 取胜。他向合适的人开放私信招募。",
+    "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+    "url": "https://x.com/ClementDelangue/status/2104960836796342729",
+    "published_at": "2026-09-29T15:45:46.000Z",
+    "category": "industry"
+  },
+  {
+    "title": "Microsoft Research 发布 AI 生物研究系统 Quine，并开放 Quine Fellows 项目申请",
+    "summary": "Microsoft Research 推出 Quine，一个包含生物学世界模型和交互式 harness 的 AI 研究系统，可跨基因组、蛋白质、化学、细胞状态和生物成像等模态联合学习并推理干预后果。",
+    "source": "Microsoft Research 博客（RSS）",
+    "url": "https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology/",
+    "published_at": "2026-09-29T14:00:02.000Z",
+    "category": "ai-products"
+  },
+  {
+    "title": "IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图",
+    "summary": "IMDEA Networks 等机构对 ChatGPT、Claude、Grok、DeepSeek、Gemini、Perplexity、Copilot、Mistral 和 Meta AI 九款对话式 AI 服务做了系统性隐私分析。",
+    "source": "Hacker News：AI 热帖",
+    "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+    "published_at": "2026-09-29T09:03:41.000Z",
+    "category": "paper"
+  },
+  {
     "title": "Anthropic 发布 Claude Sonnet 5.5，Artificial Analysis 智能指数得分 56，仅次于 Opus 5.5",
     "summary": "Anthropic 发布 Claude Sonnet 5.5，在 Artificial Analysis Intelligence Index 得 56 分，仅比 Opus 5.5（max）低 2 分，max effort 下比 Sonnet 5 高 18 分。",
     "source": "X：Artificial Analysis (@ArtificialAnlys)",
@@ -13,30 +37,6 @@
     "source": "X：Arena (@arena)",
     "url": "https://x.com/arena/status/2104640009232117859",
     "published_at": "2026-09-28T18:30:55.000Z",
-    "category": "ai-models"
-  },
-  {
-    "title": "Claude Sonnet 5.5 发布，作者演示其修复 Claude Code 中的 bug",
-    "summary": "Anthropic 发布 Claude Sonnet 5.5，是 Claude 5.5 家族的第二款模型，相比 Sonnet 5 提速超过 30%，多数任务成本最多降低 30%。作者 Boris Cherny 用视频演示 Sonnet 5.5 修复 Claude Code 中的一个 bug。",
-    "source": "X：Boris Cherny (@bcherny)",
-    "url": "https://x.com/bcherny/status/2104638725317923228",
-    "published_at": "2026-09-28T18:25:49.000Z",
-    "category": "ai-models"
-  },
-  {
-    "title": "Anthropic 发布 Claude Sonnet 5.5：比 Sonnet 5 快超 30% 且成本最多降 30%",
-    "summary": "Anthropic 发布 Claude Sonnet 5.5，称为 Claude 5.5 家族的第二款模型，相比 Sonnet 5 是明显升级，运行速度提升超过 30%，多数工作成本最多降低 30%。",
-    "source": "X：马东锡 NLP (@dongxi_nlp)",
-    "url": "https://x.com/dongxi_nlp/status/2104634260934054237",
-    "published_at": "2026-09-28T18:08:04.000Z",
-    "category": "ai-models"
-  },
-  {
-    "title": "Anthropic 发布 Claude Sonnet 5.5，速度比 Sonnet 5 快逾 30%",
-    "summary": "Anthropic 发布 Claude Sonnet 5.5，运行速度比 Sonnet 5 快超过 30%，写作更清晰，适合快速往复的日常任务。官方称其擅长修复 bug、制作文档、幻灯片和表格并有较强设计感，而 Claude Opus 5.5 面向需要谨慎判断的复杂工作；Sonnet 5.5 即日起全面可用，Claud",
-    "source": "Claude：YouTube（RSS）",
-    "url": "https://www.youtube.com/watch?v=s5nkj-L2vAw",
-    "published_at": "2026-09-28T18:04:19.000Z",
     "category": "ai-models"
   }
 ]

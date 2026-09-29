@@ -1,5 +1,5 @@
 {
-  "day_count": 158,
+  "day_count": 159,
   "history": [
     {
       "day": 20,
@@ -937,6 +937,13 @@
       "date": "2026-09-28",
       "topic": "Anthropic 发布 Claude Sonnet 5.5，Artificial Analysis 智能指数得分 56，仅次于 Opus 5.5",
       "source": "X：Artificial Analysis (@ArtificialAnlys)",
+      "mode": "rss"
+    },
+    {
+      "day": 159,
+      "date": "2026-09-29",
+      "topic": "Hugging Face CEO 称被 NVIDIA 收购后可招募人才并用十年推动开源 AI 取胜",
+      "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
       "mode": "rss"
     }
   ],
