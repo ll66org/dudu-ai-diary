@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-29T16:59:18.552819Z",
+  "fetched_at": "2026-09-30T17:05:39.297704Z",
   "total_candidates": 25,
   "source_stats": {
     "Figma Blog": {
@@ -7,8 +7,8 @@
       "total": 0
     },
     "Vercel Blog (v0)": {
-      "found": 0,
-      "total": 1616
+      "found": 1,
+      "total": 1619
     },
     "Cursor Changelog": {
       "found": 0,
@@ -23,15 +23,15 @@
       "total": 0
     },
     "Lovable Blog": {
-      "found": 0,
-      "total": 163
+      "found": 1,
+      "total": 164
     },
     "Bolt (StackBlitz) Blog": {
       "found": 0,
       "total": 66
     },
     "Smashing Magazine": {
-      "found": 0,
+      "found": 1,
       "total": 40
     },
     "UX Collective": {
@@ -44,15 +44,15 @@
     },
     "CSS-Tricks": {
       "found": 0,
-      "total": 0
+      "total": 15
     },
     "A List Apart": {
       "found": 0,
       "total": 20
     },
     "Hacker News (设计向)": {
-      "found": 4,
-      "total": 20
+      "found": 0,
+      "total": 0
     },
     "Product Hunt": {
       "found": 1,
@@ -64,27 +64,27 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 159,
-  "today_date": "2026-09-29",
+  "dudu_day": 160,
+  "today_date": "2026-09-30",
   "used_titles": [
-    "LiteParse 9 月更新：PDFium 提速 20-25%，新增视觉定位与 is-complex 路由 API",
     "Anthropic 前线工程师分享 AI 驱动代码现代化项目的六步准备方法",
     "NVIDIA 联合 Google DeepMind 等机构开放 2800 多种病毒的蛋白复合物预测结构数据集",
     "Cognition 宣布年化收入运行率突破 10 亿美元",
     "Claude Devs 测算 Opus 5.5 相比 Opus 5 在 Claude Code 任务中的成本变化",
     "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法",
-    "Anthropic 发布 Claude Sonnet 5.5，Artificial Analysis 智能指数得分 56，仅次于 Opus 5.5"
+    "Anthropic 发布 Claude Sonnet 5.5，Artificial Analysis 智能指数得分 56，仅次于 Opus 5.5",
+    "Hugging Face CEO 称被 NVIDIA 收购后可招募人才并用十年推动开源 AI 取胜"
   ],
   "used_tools": [
-    "LlamaIndex：产品、工程与评测",
     "Claude：Blog（网页）",
     "NVIDIA Blog（RSS）",
     "Cognition 模型 / Devin 博客（网页）",
     "X：Claude Devs (@ClaudeDevs)",
     "Hacker News 热门（buzzing.cc 中文翻译）",
-    "X：Artificial Analysis (@ArtificialAnlys)"
+    "X：Artificial Analysis (@ArtificialAnlys)",
+    "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)"
   ],
-  "briefing_total": 36,
-  "briefing_design": 16,
+  "briefing_total": 71,
+  "briefing_design": 23,
   "briefing_count": 5
 }

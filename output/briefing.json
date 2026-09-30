@@ -1,42 +1,42 @@
 [
   {
-    "title": "Hugging Face CEO 称被 NVIDIA 收购后可招募人才并用十年推动开源 AI 取胜",
-    "summary": "Hugging Face CEO Clément Delangue 表示被 NVIDIA 收购意味着公司现在能招聘到小创业公司时期请不起的人，并给他们十年时间让开源 AI 取胜。他向合适的人开放私信招募。",
-    "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
-    "url": "https://x.com/ClementDelangue/status/2104960836796342729",
-    "published_at": "2026-09-29T15:45:46.000Z",
-    "category": "industry"
-  },
-  {
-    "title": "Microsoft Research 发布 AI 生物研究系统 Quine，并开放 Quine Fellows 项目申请",
-    "summary": "Microsoft Research 推出 Quine，一个包含生物学世界模型和交互式 harness 的 AI 研究系统，可跨基因组、蛋白质、化学、细胞状态和生物成像等模态联合学习并推理干预后果。",
-    "source": "Microsoft Research 博客（RSS）",
-    "url": "https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology/",
-    "published_at": "2026-09-29T14:00:02.000Z",
+    "title": "Arena 开放限时测试 Claude Sonnet 5.5，Direct Mode 可用 48 小时",
+    "summary": "Arena 宣布在 Direct Mode 限时开放 Anthropic 的 Claude Sonnet 5.5（High），截止 10 月 2 日上午 8 点（太平洋时间），之后仍可在 Battle 和 Agent Mode 使用。引用内容称 Claude Sonnet 5.5 是 Claude 5.5 系列第二款模",
+    "source": "X：Arena (@arena)",
+    "url": "https://x.com/arena/status/2105311267619848419",
+    "published_at": "2026-09-30T14:58:15.000Z",
     "category": "ai-products"
   },
   {
-    "title": "IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图",
-    "summary": "IMDEA Networks 等机构对 ChatGPT、Claude、Grok、DeepSeek、Gemini、Perplexity、Copilot、Mistral 和 Meta AI 九款对话式 AI 服务做了系统性隐私分析。",
-    "source": "Hacker News：AI 热帖",
-    "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
-    "published_at": "2026-09-29T09:03:41.000Z",
-    "category": "paper"
+    "title": "ElevenLabs 完成 3 亿美元员工股份回购，估值升至 220 亿美元",
+    "summary": "ElevenLabs 完成 3 亿美元员工 tender offer，估值达 220 亿美元，是 2026 年 2 月 Series D 估值的两倍，由 Wellington 和 T. Rowe Price 领投。企业业务占收入 55%，ElevenAgents 每周处理超 1500 万次对话，ARR 自 2 月以来增",
+    "source": "ElevenLabs：Blog（网页）",
+    "url": "https://elevenlabs.io/blog/tender-22bn",
+    "published_at": "2026-09-30T12:00:00.000Z",
+    "category": "industry"
   },
   {
-    "title": "Anthropic 发布 Claude Sonnet 5.5，Artificial Analysis 智能指数得分 56，仅次于 Opus 5.5",
-    "summary": "Anthropic 发布 Claude Sonnet 5.5，在 Artificial Analysis Intelligence Index 得 56 分，仅比 Opus 5.5（max）低 2 分，max effort 下比 Sonnet 5 高 18 分。",
-    "source": "X：Artificial Analysis (@ArtificialAnlys)",
-    "url": "https://x.com/ArtificialAnlys/status/2104640155843989864",
-    "published_at": "2026-09-28T18:31:30.000Z",
-    "category": "ai-models"
+    "title": "OpenRouter 教程：如何从生产流量构建 golden 评测集并跨模型复测",
+    "summary": "OpenRouter 发布教程，讲解如何从生产流量构建 golden 评测集，作为每次部署前的回归测试。内容涵盖五步流程（抽样生产流量、去重聚类、添加预期输出、首轮评估修正 rubric、提交 Git 并接入 CI），建议从 20 至 50 条复审样本起步、扩展到 100 至 1,000 条完整回归集，用真实流量而非合",
+    "source": "OpenRouter：Announcements（RSS）",
+    "url": "https://openrouter.ai/blog/tutorials/building-a-golden-eval-dataset-from-production-traffic/",
+    "published_at": "2026-09-30T00:00:00.000Z",
+    "category": "tip"
   },
   {
-    "title": "Claude Sonnet 5.5 上线 Arena 的 Agent Arena 与 Battle Mode 评测",
-    "summary": "Arena 宣布 Anthropic 的 Claude Sonnet 5.5 已进入 Agent Arena，并开放投票。Agent Arena 基于全球用户数百万个真实的长程智能体任务评测模型，模型可使用 web search、filesystem 和 terminal 工具完成复杂工作流，榜单用因果追踪方法衡量模型",
+    "title": "Claude Sonnet 5.5 (High) 以 1699 分登 Code Arena: WebDev 第 4 名",
+    "summary": "Arena 公布 Claude Sonnet 5.5 (High) 在 Code Arena: WebDev 以 1699 分排第 4，混合价格约 $8 per Mtoken，比第 2、3 名便宜 80%。相较 Sonnet 5 (High) 的 1540 分提升 159 分，Reference-Based Desig",
     "source": "X：Arena (@arena)",
-    "url": "https://x.com/arena/status/2104640009232117859",
-    "published_at": "2026-09-28T18:30:55.000Z",
+    "url": "https://x.com/arena/status/2104998408616558940",
+    "published_at": "2026-09-29T18:15:04.000Z",
     "category": "ai-models"
+  },
+  {
+    "title": "OpenAI 开放 ChatGPT 平台，支持用插件扩展构建原生应用",
+    "summary": "OpenAI 宣布开放平台，开发者可构建带插件扩展的完整原生应用，并直接在 ChatGPT 内发布。平台覆盖超过 12 亿周活跃用户，相关插件将在对话中直接呈现。",
+    "source": "X：Tibo (@thsottiaux)",
+    "url": "https://x.com/thsottiaux/status/2104991765904375896",
+    "published_at": "2026-09-29T17:48:40.000Z",
+    "category": "ai-products"
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "day_count": 159,
+  "day_count": 160,
   "history": [
     {
       "day": 20,
@@ -944,6 +944,13 @@
       "date": "2026-09-29",
       "topic": "Hugging Face CEO 称被 NVIDIA 收购后可招募人才并用十年推动开源 AI 取胜",
       "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+      "mode": "rss"
+    },
+    {
+      "day": 160,
+      "date": "2026-09-30",
+      "topic": "Arena 开放限时测试 Claude Sonnet 5.5，Direct Mode 可用 48 小时",
+      "source": "X：Arena (@arena)",
       "mode": "rss"
     }
   ],
