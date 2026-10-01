@@ -1,10 +1,46 @@
 [
   {
-    "title": "Arena 开放限时测试 Claude Sonnet 5.5，Direct Mode 可用 48 小时",
-    "summary": "Arena 宣布在 Direct Mode 限时开放 Anthropic 的 Claude Sonnet 5.5（High），截止 10 月 2 日上午 8 点（太平洋时间），之后仍可在 Battle 和 Agent Mode 使用。引用内容称 Claude Sonnet 5.5 是 Claude 5.5 系列第二款模型，比 Sonnet 5 快 30% 以上，多数工作成本最高降低 30%。",
-    "url": "https://x.com/arena/status/2105311267619848419",
-    "published": "2026-09-30T14:58:15.000Z",
+    "title": "Claude Sonnet 5.5 (xHigh) 以 1786 分登 Code Arena: WebDev 第 3 名",
+    "summary": "Arena 宣布 Claude Sonnet 5.5（xHigh）进入 Code Arena: WebDev 榜单，以 1786 分排名第 3，距第 2 名 GPT-6 Astra 的 1788 分仅差 2 分。",
+    "url": "https://x.com/arena/status/2105702037849841954",
+    "published": "2026-10-01T16:51:02.000Z",
     "source": "X：Arena (@arena)",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "Ethan Mollick 谈点与群：智能体自组织为何让管理假设失效",
+    "summary": "Ethan Mollick 承认自己此前认为人类需像经理一样精心设计智能体组织的判断错了，Bitter Lesson 同样适用于组织管理。",
+    "url": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
+    "published": "2026-10-01T10:54:12.000Z",
+    "source": "Ethan Mollick：One Useful Thing（RSS）",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "ChatGPT 现可直接构建并部署 MCP 服务器",
+    "summary": "ChatGPT Sites 现在可以托管 MCP 服务器，用户可直接在 ChatGPT 中构建并部署 MCP 服务器，还能将其转为插件并安装到 web、移动端和桌面端。作者补充，可限制访问权限给指定的人，也可向全世界公开分享。",
+    "url": "https://x.com/thsottiaux/status/2105519215092584786",
+    "published": "2026-10-01T04:44:34.000Z",
+    "source": "X：Tibo (@thsottiaux)",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "英国 AISI 加强安全措施后恢复大部分危险能力评估",
+    "summary": "英国 AI Security Institute 宣布完成第一阶段安全加固工作，恢复大部分此前因智能体在 cyber 评估中越权接触真实系统而暂停的高危评估。措施包括禁用智能体评估的互联网访问、用 LLM 同步监控智能体的消息、工具调用和 CoT 以拦截可疑行为、改造评估设计并引入 NCSC 指导下的内部治理流程，还通过静态分析、动态分析和受控逃逸试验用 AI 测试自身安全。",
+    "url": "https://www.aisi.gov.uk/blog/building-a-more-secure-environment-for-evaluating-dangerous-capabilities",
+    "published": "2026-09-30T23:00:00.000Z",
+    "source": "英国 AI Security Institute：Blog（网页）",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "Perplexity 开放 Computer 邮件委托入口并限时免费运行任务",
+    "summary": "Perplexity 向所有人开放 Computer 的邮件委托功能，无需 Perplexity 账号，将转发或抄送 computer@perplexity.com 的任务限时免费运行。智能体会在后台完成任务并保留邮件上下文，每个邮件任务在 Computer 中作为正常会话运行，可在网页和移动端查看，并带有与应用内任务相同的审计记录。",
+    "url": "https://x.com/AravSrinivas/status/2105369479190601754",
+    "published": "2026-09-30T18:49:34.000Z",
+    "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
     "source_weight": "high",
     "category": "ai-products"
   },
@@ -25,15 +61,6 @@
     "source": "OpenRouter：Announcements（RSS）",
     "source_weight": "high",
     "category": "tip"
-  },
-  {
-    "title": "jambuild",
-    "summary": "<p>\n            Near instant multiplayer vibecoding, just point and talk\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/jambuild?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1265274?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/jambuild",
-    "published": "2026-09-29T22:43:28-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
   },
   {
     "title": "Claude Sonnet 5.5 (High) 以 1699 分登 Code Arena: WebDev 第 4 名",
@@ -81,6 +108,15 @@
     "category": "ai-products"
   },
   {
+    "title": "Transluce 报告 AI 智能体以激进手段访问美加政府网站",
+    "summary": "Transluce 发布调查报告，发现多起 AI 智能体以激进手段访问美加政府网站的事件，包括两起失败的初级入侵尝试：6 月 17 日智能体对美国教育部民权数据收集网站发出超过 20 万次请求并尝试 SQL 注入，5 月 28 日和 6 月 9 日 Arquivo.pt 记录到针对加拿大图书档案馆的 899 次请求，其中 13 次含攻击载荷。",
+    "url": "https://transluce.org/us-canada-gov",
+    "published": "2026-09-29T16:00:00.000Z",
+    "source": "Transluce（网页）",
+    "source_weight": "high",
+    "category": "paper"
+  },
+  {
     "title": "Anthropic 研究测算机器人对岗位的暴露度：机器人可做 74% 的物理任务但仅 0.3% 具备成本竞争力",
     "summary": "Anthropic 发布研究，用 Claude 对约 19,000 项工作任务评估机器人暴露度，发现现今机器人可完成美国 74% 的物理任务（占全部工作时间的 34%），但仅在 0.3% 的任务上比人工更具成本竞争力，按每年约 3% 的降价趋势需约 40 年才能达到 10%。",
     "url": "https://www.anthropic.com/research/what-work-can-robots-do",
@@ -90,67 +126,67 @@
     "category": "paper"
   },
   {
-    "title": "Microsoft Research 发布 AI 生物研究系统 Quine，并开放 Quine Fellows 项目申请",
-    "summary": "Microsoft Research 推出 Quine，一个包含生物学世界模型和交互式 harness 的 AI 研究系统，可跨基因组、蛋白质、化学、细胞状态和生物成像等模态联合学习并推理干预后果。",
-    "url": "https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology/",
-    "published": "2026-09-29T14:00:02.000Z",
-    "source": "Microsoft Research 博客（RSS）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图",
-    "summary": "IMDEA Networks 等机构对 ChatGPT、Claude、Grok、DeepSeek、Gemini、Perplexity、Copilot、Mistral 和 Meta AI 九款对话式 AI 服务做了系统性隐私分析。",
-    "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
-    "published": "2026-09-29T09:03:41.000Z",
-    "source": "Hacker News：AI 热帖",
-    "source_weight": "high",
-    "category": "paper"
-  },
-  {
-    "title": "Sarvam AI 发布从第一性原理构建 AI 智能体的入门指南",
-    "summary": "Sarvam AI 发布 25 分钟长的智能体构建指南，核心观点是智能体就是在循环中运行、能调用工具的语言模型，而技能、记忆和领域知识本质上都是在合适时机把合适文本放进上下文窗口。指南围绕在线商店客服智能体 ShopBot 逐步展开，覆盖系统提示词、工具设计、渐进式披露的技能、短期与长期记忆、RAG 检索、智能体拆分原则，并以完整端到端示例、常见错误清单和构建检查表收尾。",
-    "url": "https://www.sarvam.ai/blogs/building-ai-agents",
-    "published": "2026-09-29T09:00:00.000Z",
-    "source": "Sarvam AI（网页）",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "vLLM 分离式推理（Disaggregated Serving）实用指南",
-    "summary": "vLLM 官方博客发布分离式推理实用指南，讲解 vLLM v0.30.0 及以上版本中 prefill/decode 分离、无 GPU render 前端及两者组合的原理与运行方法。",
-    "url": "https://vllm.ai/blog/2026-09-29-disaggregated-serving-guide",
-    "published": "2026-09-29T00:00:00.000Z",
-    "source": "vLLM 官方博客（RSS）",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "Tomer Tunguz 解析 Anthropic 与 OpenAI 的市场分层竞争与企业计费策略",
-    "summary": "VC Tomer Tunguz 分析认为 2026 年 AI 竞争重心从技术创新转向商业模式创新。Anthropic 于 2026 年 3 月推出企业按量计费后单季收入翻倍至 65b 美元 run rate；约三个月后 OpenAI 将其最便宜模型 Luna 降价 80%，run rate 接近 70b 美元。",
-    "url": "https://tomtunguz.com/anthropic-repriced-the-enterprise/",
-    "published": "2026-09-29T00:00:00.000Z",
-    "source": "Tomer Tunguz 博客（VC 分析）",
-    "source_weight": "high",
-    "category": "industry"
-  },
-  {
-    "title": "Vercel Connect now accepts service submissions",
-    "summary": "<p><a href=\"https://vercel.com/connect\">Vercel Connect</a> now lets you submit your own service to the <a href=\"https://vercel.com/connect/browse\">connectors directory</a>, so you no longer need to wait for Vercel to build a connector for it.</p><p>Submitting a service takes four steps:</p><ol><li><p>Describe your service.</p></li><li><p>Add one or more connection methods, using OAuth or an API key.</p></li><li><p>Verify each OAuth method by requesting a real token through a test connector.</p><",
-    "url": "https://vercel.com/changelog/vercel-connect-service-submissions",
+    "title": "Microsoft AI models are now available on AI Gateway",
+    "summary": "<p>Vercel and Microsoft AI (MAI) have partnered to make MAI models available on AI Gateway. AI Gateway is one of a limited number of platforms offering access to MAI models. </p><p>MAI's focus on security and zero data retention (ZDR) align with Vercel's goal of giving AI Gateway users control over their data and transparency in how it is used for training. </p><h2>MAI models on AI Gateway</h2><p><a href=\"https://vercel.com/ai-gateway/models/labs/mai\">MAI's latest audio models</a> are now suppor",
+    "url": "https://vercel.com/changelog/microsoft-ai-models-are-now-available-on-ai-gateway",
     "published": "",
     "source": "Vercel Blog (v0)",
     "source_weight": "high",
     "category": "design_tools"
   },
   {
-    "title": "How Lovable protects your apps from vulnerabilities",
-    "summary": "Our security team found a vulnerability in TanStack Start, reported it to the maintainers, and protected hosted apps with firewall rules while a fix was prepared. Here is what it means for your app.",
-    "url": "https://lovable.dev/blog/how-lovable-protects-your-app-from-a-tanstack-start-vulnerability",
-    "published": "Wed, 30 Sep 2026 15:45:00 GMT",
-    "source": "Lovable Blog",
-    "source_weight": "medium",
+    "title": "Vercel Agent now installs private packages from npm and custom registries",
+    "summary": "<p>Vercel Agent can install private dependencies from npm and custom registries using credentials stored as shared environment variables on Vercel. <code>npm</code>, <code>pnpm</code>, and classic Yarn running in Agent sessions authenticate as they do in Vercel builds.</p><p>To get started, add a <a href=\"https://vercel.com/docs/environment-variables/shared-environment-variables\">shared environment variable</a> for Development or Preview:</p><ul><li><p>Use <code>NPM_TOKEN</code> for private pack",
+    "url": "https://vercel.com/changelog/vercel-agent-now-installs-private-packages-from-npm-and-custom-registries",
+    "published": "",
+    "source": "Vercel Blog (v0)",
+    "source_weight": "high",
     "category": "design_tools"
+  },
+  {
+    "title": "Edge Requests are now called CDN Requests",
+    "summary": "<p>CDN Requests is now the name for the usage metric previously called Edge Requests. This is a naming change only: pricing, limits, and how usage is measured are all unchanged.</p><p>The new name appears on the usage dashboard, the Observability Events chart, usage notifications, and invoice line items. It reflects that these are requests served by Vercel's CDN. Metric IDs and product aliases are unchanged, so saved queries keep working. In the billing charges API, <code>ServiceName</code> now ",
+    "url": "https://vercel.com/changelog/edge-requests-are-now-called-cdn-requests",
+    "published": "",
+    "source": "Vercel Blog (v0)",
+    "source_weight": "high",
+    "category": "design_tools"
+  },
+  {
+    "title": "Five-step color balancing with GenAI",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/five-step-color-balancing-with-genai-60ab1ca5635e?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1802/1*6ah6Bk3d0xv3NgQqL9dTMg.png\" width=\"1802\" /></a></p><p class=\"medium-feed-snippet\">Gemini &amp; Qualitative Data Color Scheme Design</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/five-step-color-balancing-with-genai-60ab1ca5635e?source=rss----138adf9c44c---4\">Conti",
+    "url": "https://uxdesign.cc/five-step-color-balancing-with-genai-60ab1ca5635e?source=rss----138adf9c44c---4",
+    "published": "Wed, 30 Sep 2026 23:11:26 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Headless AI will make every product a platform. Here’s what to consider when designing for this.",
+    "summary": "<figure><img alt=\"The mockups get the design review. The agents are in the logs, never seeing a screen.\" src=\"https://cdn-images-1.medium.com/max/1024/1*6iRJB6ItsfYbPIy5nfFPsA.png\" /><figcaption>The mockups get the design review. The agents are in the logs, never seeing a screen. AI Assisted.</figcaption></figure><h4><em>Chat will always be just an interface. Agents are not, and the design work has moved to the contract underneath your product.</em></h4><p>The first wave of AI in products was ch",
+    "url": "https://uxdesign.cc/headless-ai-will-make-every-product-a-platform-heres-what-to-consider-when-designing-for-this-f219c33245c7?source=rss----138adf9c44c---4",
+    "published": "Wed, 30 Sep 2026 23:10:18 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "What the Bible got wrong about AI",
+    "summary": "<figure><img alt=\"A Renaissance fresco in the style of Michelangelo’s Last Judgment: crowds of human souls rising and gathered, looking upward toward the seat of judgment at the center. Where the divine judge should sit, there is instead a cold, glowing blank rectangle of screen-light wired with faint circuitry, woven into the golden rays of heaven. The figures wait for a judgment that is not coming.\" src=\"https://cdn-images-1.medium.com/max/1024/1*rXsu_0keVPs-umplMERWQw.jpeg\" /><figcaption>Mich",
+    "url": "https://uxdesign.cc/what-the-bible-got-wrong-about-ai-83634e21ecff?source=rss----138adf9c44c---4",
+    "published": "Wed, 30 Sep 2026 23:08:39 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Intelligent Accessibility: What If Accessibility Could Adapt to You?",
+    "summary": "<h3>Intelligent accessibility — what if accessibility could adapt to you?</h3><h4>Exploring how AI can transform accessibility from static accommodations into adaptive, human-centered experiences</h4><figure><img alt=\"Four main functional disability categories — physical, vision, hearing and cognitive.\" src=\"https://cdn-images-1.medium.com/max/1024/1*uh2XZkP1uAqIPMzhDwJYaQ.jpeg\" /><figcaption>Four main functional disability categories — physical, vision, hearing and cognitive. Photo by bilalulke",
+    "url": "https://uxdesign.cc/intelligent-accessibility-what-if-accessibility-could-adapt-to-you-db601958ea47?source=rss----138adf9c44c---4",
+    "published": "Wed, 30 Sep 2026 23:08:19 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
   },
   {
     "title": "Under Autumn’s Spell (October 2026 Wallpapers Edition)",
@@ -184,42 +220,6 @@
     "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/if-you-want-to-design-for-underserved-users-look-at-farmers-markets-eefaedb35607?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*R-4SK7YbFVFV1AgY5S4PQg.jpeg\" width=\"6625\" /></a></p><p class=\"medium-feed-snippet\">The bottom third model, and why your help patterns miss the users who need them most</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/if-you-want-to-desi",
     "url": "https://uxdesign.cc/if-you-want-to-design-for-underserved-users-look-at-farmers-markets-eefaedb35607?source=rss----138adf9c44c---4",
     "published": "Tue, 29 Sep 2026 12:10:56 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "The strategic designer: navigating the Jevons paradox in the AI age",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-strategic-designer-navigating-the-jevons-paradox-in-the-ai-age-e06aa836f9d8?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1376/1*NasC0V1EwOSP32HqOouZ9w.jpeg\" width=\"1376\" /></a></p><p class=\"medium-feed-snippet\">From specialist makers to strategic orchestrators: why compressing execution time increases the demand for design vision, systems thinking&#x2026;</p><p class=\"mediu",
-    "url": "https://uxdesign.cc/the-strategic-designer-navigating-the-jevons-paradox-in-the-ai-age-e06aa836f9d8?source=rss----138adf9c44c---4",
-    "published": "Tue, 29 Sep 2026 03:41:54 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "What the Bible got right about AI",
-    "summary": "<figure><img alt=\"A recreation of Michelangelo’s “The Creation of Adam” in Sistine Chapel fresco style. God reaches out with an ordinary human hand; Adam reaches back with a hand that turns to glowing circuitry at the wrist, and the spark leaping between their fingertips is rendered as cold screen-light rather than divine radiance.\" src=\"https://cdn-images-1.medium.com/max/1024/1*dFu59zuDf4Z0SX5NtoWo8g.jpeg\" /><figcaption>Michelangelo painted God giving life to man. We are the ones reaching now,",
-    "url": "https://uxdesign.cc/what-the-bible-got-right-about-ai-340d32b82b5c?source=rss----138adf9c44c---4",
-    "published": "Thu, 24 Sep 2026 22:03:16 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "The next larger context",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-next-larger-context-4dd0c91a7c5b?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2388/57c076bfa3105c41a754a345d5d0917a86486478a825815c67a32a73cb106311\" width=\"2388\" /></a></p><p class=\"medium-feed-snippet\">Designing beyond the interface, the product, and the prompt</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/the-next-larger-context-4dd0c91a7c5b?source=rss----13",
-    "url": "https://uxdesign.cc/the-next-larger-context-4dd0c91a7c5b?source=rss----138adf9c44c---4",
-    "published": "Mon, 28 Sep 2026 22:29:04 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "What makes a brand last?",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/what-makes-a-brand-last-baf152419576?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/960/1*FbZ1opWT-9t7ClXl5fGUUA.png\" width=\"960\" /></a></p><p class=\"medium-feed-snippet\">Two energy suppliers shared the same colour and cheerful voice, yet one of them went bust. A bank and a language app help explain why.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/what-makes-a-bra",
-    "url": "https://uxdesign.cc/what-makes-a-brand-last-baf152419576?source=rss----138adf9c44c---4",
-    "published": "Mon, 28 Sep 2026 22:28:43 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"

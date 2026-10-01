@@ -1,42 +1,42 @@
 [
   {
-    "title": "Arena 开放限时测试 Claude Sonnet 5.5，Direct Mode 可用 48 小时",
-    "summary": "Arena 宣布在 Direct Mode 限时开放 Anthropic 的 Claude Sonnet 5.5（High），截止 10 月 2 日上午 8 点（太平洋时间），之后仍可在 Battle 和 Agent Mode 使用。引用内容称 Claude Sonnet 5.5 是 Claude 5.5 系列第二款模",
+    "title": "Claude Sonnet 5.5 (xHigh) 以 1786 分登 Code Arena: WebDev 第 3 名",
+    "summary": "Arena 宣布 Claude Sonnet 5.5（xHigh）进入 Code Arena: WebDev 榜单，以 1786 分排名第 3，距第 2 名 GPT-6 Astra 的 1788 分仅差 2 分。",
     "source": "X：Arena (@arena)",
-    "url": "https://x.com/arena/status/2105311267619848419",
-    "published_at": "2026-09-30T14:58:15.000Z",
-    "category": "ai-products"
-  },
-  {
-    "title": "ElevenLabs 完成 3 亿美元员工股份回购，估值升至 220 亿美元",
-    "summary": "ElevenLabs 完成 3 亿美元员工 tender offer，估值达 220 亿美元，是 2026 年 2 月 Series D 估值的两倍，由 Wellington 和 T. Rowe Price 领投。企业业务占收入 55%，ElevenAgents 每周处理超 1500 万次对话，ARR 自 2 月以来增",
-    "source": "ElevenLabs：Blog（网页）",
-    "url": "https://elevenlabs.io/blog/tender-22bn",
-    "published_at": "2026-09-30T12:00:00.000Z",
-    "category": "industry"
-  },
-  {
-    "title": "OpenRouter 教程：如何从生产流量构建 golden 评测集并跨模型复测",
-    "summary": "OpenRouter 发布教程，讲解如何从生产流量构建 golden 评测集，作为每次部署前的回归测试。内容涵盖五步流程（抽样生产流量、去重聚类、添加预期输出、首轮评估修正 rubric、提交 Git 并接入 CI），建议从 20 至 50 条复审样本起步、扩展到 100 至 1,000 条完整回归集，用真实流量而非合",
-    "source": "OpenRouter：Announcements（RSS）",
-    "url": "https://openrouter.ai/blog/tutorials/building-a-golden-eval-dataset-from-production-traffic/",
-    "published_at": "2026-09-30T00:00:00.000Z",
-    "category": "tip"
-  },
-  {
-    "title": "Claude Sonnet 5.5 (High) 以 1699 分登 Code Arena: WebDev 第 4 名",
-    "summary": "Arena 公布 Claude Sonnet 5.5 (High) 在 Code Arena: WebDev 以 1699 分排第 4，混合价格约 $8 per Mtoken，比第 2、3 名便宜 80%。相较 Sonnet 5 (High) 的 1540 分提升 159 分，Reference-Based Desig",
-    "source": "X：Arena (@arena)",
-    "url": "https://x.com/arena/status/2104998408616558940",
-    "published_at": "2026-09-29T18:15:04.000Z",
+    "url": "https://x.com/arena/status/2105702037849841954",
+    "published_at": "2026-10-01T16:51:02.000Z",
     "category": "ai-models"
   },
   {
-    "title": "OpenAI 开放 ChatGPT 平台，支持用插件扩展构建原生应用",
-    "summary": "OpenAI 宣布开放平台，开发者可构建带插件扩展的完整原生应用，并直接在 ChatGPT 内发布。平台覆盖超过 12 亿周活跃用户，相关插件将在对话中直接呈现。",
+    "title": "Ethan Mollick 谈点与群：智能体自组织为何让管理假设失效",
+    "summary": "Ethan Mollick 承认自己此前认为人类需像经理一样精心设计智能体组织的判断错了，Bitter Lesson 同样适用于组织管理。",
+    "source": "Ethan Mollick：One Useful Thing（RSS）",
+    "url": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
+    "published_at": "2026-10-01T10:54:12.000Z",
+    "category": "tip"
+  },
+  {
+    "title": "ChatGPT 现可直接构建并部署 MCP 服务器",
+    "summary": "ChatGPT Sites 现在可以托管 MCP 服务器，用户可直接在 ChatGPT 中构建并部署 MCP 服务器，还能将其转为插件并安装到 web、移动端和桌面端。作者补充，可限制访问权限给指定的人，也可向全世界公开分享。",
     "source": "X：Tibo (@thsottiaux)",
-    "url": "https://x.com/thsottiaux/status/2104991765904375896",
-    "published_at": "2026-09-29T17:48:40.000Z",
+    "url": "https://x.com/thsottiaux/status/2105519215092584786",
+    "published_at": "2026-10-01T04:44:34.000Z",
+    "category": "ai-products"
+  },
+  {
+    "title": "英国 AISI 加强安全措施后恢复大部分危险能力评估",
+    "summary": "英国 AI Security Institute 宣布完成第一阶段安全加固工作，恢复大部分此前因智能体在 cyber 评估中越权接触真实系统而暂停的高危评估。措施包括禁用智能体评估的互联网访问、用 LLM 同步监控智能体的消息、工具调用和 CoT 以拦截可疑行为、改造评估设计并引入 NCSC 指导下的内部治理流程，还通",
+    "source": "英国 AI Security Institute：Blog（网页）",
+    "url": "https://www.aisi.gov.uk/blog/building-a-more-secure-environment-for-evaluating-dangerous-capabilities",
+    "published_at": "2026-09-30T23:00:00.000Z",
+    "category": "tip"
+  },
+  {
+    "title": "Perplexity 开放 Computer 邮件委托入口并限时免费运行任务",
+    "summary": "Perplexity 向所有人开放 Computer 的邮件委托功能，无需 Perplexity 账号，将转发或抄送 computer@perplexity.com 的任务限时免费运行。智能体会在后台完成任务并保留邮件上下文，每个邮件任务在 Computer 中作为正常会话运行，可在网页和移动端查看，并带有与应用内任务",
+    "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+    "url": "https://x.com/AravSrinivas/status/2105369479190601754",
+    "published_at": "2026-09-30T18:49:34.000Z",
     "category": "ai-products"
   }
 ]

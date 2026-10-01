@@ -1,5 +1,5 @@
 {
-  "day_count": 160,
+  "day_count": 161,
   "history": [
     {
       "day": 20,
@@ -950,6 +950,13 @@
       "day": 160,
       "date": "2026-09-30",
       "topic": "Arena 开放限时测试 Claude Sonnet 5.5，Direct Mode 可用 48 小时",
+      "source": "X：Arena (@arena)",
+      "mode": "rss"
+    },
+    {
+      "day": 161,
+      "date": "2026-10-01",
+      "topic": "Claude Sonnet 5.5 (xHigh) 以 1786 分登 Code Arena: WebDev 第 3 名",
       "source": "X：Arena (@arena)",
       "mode": "rss"
     }
