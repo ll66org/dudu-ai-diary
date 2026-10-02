@@ -1,12 +1,75 @@
 [
   {
-    "title": "Claude Sonnet 5.5 (xHigh) 以 1786 分登 Code Arena: WebDev 第 3 名",
-    "summary": "Arena 宣布 Claude Sonnet 5.5（xHigh）进入 Code Arena: WebDev 榜单，以 1786 分排名第 3，距第 2 名 GPT-6 Astra 的 1788 分仅差 2 分。",
-    "url": "https://x.com/arena/status/2105702037849841954",
-    "published": "2026-10-01T16:51:02.000Z",
-    "source": "X：Arena (@arena)",
+    "title": "Google Project Suncatcher 首颗原型卫星发射入轨",
+    "summary": "Google 宣布其探索在太空托管机器学习基础设施的 Project Suncatcher 已将一颗与 Planet 合作建造的原型卫星送入轨道，搭乘 SpaceX Transporter-18 拼车任务。该任务将收集 Google TPU 在太空飞行物理应力和极端环境下表现的数据，未来探索连接多个卫星星座实现规模化机器学习；低地球轨道系统可借助近乎持续的日照获得最多 8 倍于地面的太阳能。",
+    "url": "https://x.com/GoogleAI/status/2106049984164463069",
+    "published": "2026-10-02T15:53:39.000Z",
+    "source": "X：Google AI (@GoogleAI)",
+    "source_weight": "high",
+    "category": "industry"
+  },
+  {
+    "title": "NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售",
+    "summary": "NVIDIA 宣布 DGX Spark 推出 64GB 统一内存新配置，10 月 23 日起由 Acer、ASUS、Dell、Gigabyte、HP 和 MSI 发售，起步价 $4,999，支持最高 1000 亿参数模型在端侧运行。",
+    "url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/",
+    "published": "2026-10-02T13:00:39.000Z",
+    "source": "NVIDIA Blog（RSS）",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "Artificial Analysis：Claude Sonnet 5.5、GPT-6.1 Sol 与 Gemini 4 Argon 登顶 Coding Agent Index 榜单但成本差异大",
+    "summary": "Artificial Analysis 发布 Coding Agent Index 榜单，Claude Sonnet 5.5 (max) 在 Claude Code 以 68 分居首，但每任务成本最高达 $14.19。",
+    "url": "https://x.com/ArtificialAnlys/status/2105814318294114720",
+    "published": "2026-10-02T00:17:12.000Z",
+    "source": "X：Artificial Analysis (@ArtificialAnlys)",
     "source_weight": "high",
     "category": "ai-models"
+  },
+  {
+    "title": "Artificial Analysis 评测：Qwen-Image-2.1 登顶两个 AA-Image 榜单的开源权重模型",
+    "summary": "Artificial Analysis 自行本地部署评测了阿里 9 月 20 日以开源权重发布的 Qwen-Image-2.1，该模型在 AA-Image-T2I v2.0 和 AA-Image-Editing v2.0 上均排名第 18，为两个榜单上排名第一的开源权重模型，超过 Ideogram 4.0（Quality）和 HunyuanImage 3.0 Instruct。",
+    "url": "https://x.com/ArtificialAnlys/status/2105790682376065463",
+    "published": "2026-10-01T22:43:17.000Z",
+    "source": "X：Artificial Analysis (@ArtificialAnlys)",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "FLUX 3 Image 现已登陆 Krea，支持多轮编辑与 4K 生成",
+    "summary": "Krea 宣布 FLUX 3 Image 已上线其平台。新能力包括多轮编辑且不改动其他像素、用 bounding box 排版图像、最高 4K 生成，以及组合最多 10 个参考图。",
+    "url": "https://x.com/krea_ai/status/2105769469880799716",
+    "published": "2026-10-01T21:18:59.000Z",
+    "source": "X：Krea AI (@krea_ai)",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "FLUX 3 Image 上线 OpenRouter，支持原生 4K 生成与多参考编辑",
+    "summary": "Black Forest Labs 的 FLUX 3 Image 现已上线 OpenRouter，是支持文生图与多参考编辑的旗舰图像模型，原生可渲染至 4K。原文提到可精确多轮编辑不动其他像素、用 bounding box 布局、最多用 10 个参考图合成，商业权重已开放，开放权重版将在未来数周发布。",
+    "url": "https://x.com/OpenRouter/status/2105759062835220852",
+    "published": "2026-10-01T20:37:38.000Z",
+    "source": "X：OpenRouter (@OpenRouter)",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "LangChain 讲解如何在 Agent Harness 中构建模型路由器",
+    "summary": "LangChain 在其开源编码 Agent Open SWE 中构建模型路由器，在 973 个线程的 A/B 测试中，中位成本从 $2.61 降到 $0.94（降 64%），PR 合并率 29.2% 对 27.3%，质量无可测变化。",
+    "url": "https://www.langchain.com/blog/how-to-build-a-model-router-in-the-harness",
+    "published": "2026-10-01T17:01:32.000Z",
+    "source": "LangChain：Blog（RSS）",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "Claude Code mods 入门教程：从零构建 Token Weather 上下文窗口预报插件",
+    "summary": "这篇 Claude Code 官方开发者教程介绍 mods，即以 hooks 形式运行在插件内的 JavaScript 或 TypeScript 模块，可以观察、重写或拒绝事件，甚至绘制自定义 UI，需 Claude Code 2.1.287 或更高版本。",
+    "url": "https://claude.dev/blog/getting-started-with-claude-code-mods/",
+    "published": "2026-10-01T12:00:00.000Z",
+    "source": "Anthropic：Claude.dev 开发者博客（RSS）",
+    "source_weight": "high",
+    "category": "tip"
   },
   {
     "title": "Ethan Mollick 谈点与群：智能体自组织为何让管理假设失效",
@@ -18,11 +81,47 @@
     "category": "tip"
   },
   {
+    "title": "ShipHQ",
+    "summary": "<p>\n            Build your own app studio, powered by your real apps\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/shiphq?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1266859?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/shiphq",
+    "published": "2026-10-01T09:57:17-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
     "title": "ChatGPT 现可直接构建并部署 MCP 服务器",
     "summary": "ChatGPT Sites 现在可以托管 MCP 服务器，用户可直接在 ChatGPT 中构建并部署 MCP 服务器，还能将其转为插件并安装到 web、移动端和桌面端。作者补充，可限制访问权限给指定的人，也可向全世界公开分享。",
     "url": "https://x.com/thsottiaux/status/2105519215092584786",
     "published": "2026-10-01T04:44:34.000Z",
     "source": "X：Tibo (@thsottiaux)",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "Modal 发布 VM Sandboxes、Modal Clusters 等多项 Runtime 产品更新",
+    "summary": "Modal 在其首届 Runtime 大会上发布多项产品更新。VM Sandboxes 为 Agent 提供完整 Linux 环境，已在 Linear、Legora。",
+    "url": "https://modal.com/blog/runtime-product-update-sandbox-endpoints",
+    "published": "2026-10-01T00:00:00.000Z",
+    "source": "Modal 官方工程博客（RSS）",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "Epoch AI 推出 ChatGPT usage explorer，基于5000名美国用户三年聊天记录",
+    "summary": "Epoch AI 与 YouGov 合作推出 ChatGPT usage explorer，发布5000名美国 YouGov 样本用户的 ChatGPT 聊天元数据，覆盖约66万对话、830万条消息，部分记录追溯至2022年11月发布后数周。",
+    "url": "https://epoch.ai/latest/introducing-the-chatgpt-usage-explorer",
+    "published": "2026-10-01T00:00:00.000Z",
+    "source": "Epoch AI：研究、数据与评测",
+    "source_weight": "high",
+    "category": "paper"
+  },
+  {
+    "title": "Modal 正式发布 VM Sandboxes：给 Agent 一台完整的 Linux 虚拟机",
+    "summary": "Modal 宣布 VM Sandboxes 正式 GA，只需设置 runtime=\"vm\" 即可获得支持 Docker、FUSE 和内核功能的完整 Linux VM，沿用原有 Sandbox 的 API、modal.Image、亚秒级冷启动和内存爆发能力，早期客户已启动超过 2000 万个 VM。",
+    "url": "https://modal.com/blog/vm-sandboxes-agent-computers",
+    "published": "2026-10-01T00:00:00.000Z",
+    "source": "Modal 官方工程博客（RSS）",
     "source_weight": "high",
     "category": "ai-products"
   },
@@ -36,117 +135,9 @@
     "category": "tip"
   },
   {
-    "title": "Perplexity 开放 Computer 邮件委托入口并限时免费运行任务",
-    "summary": "Perplexity 向所有人开放 Computer 的邮件委托功能，无需 Perplexity 账号，将转发或抄送 computer@perplexity.com 的任务限时免费运行。智能体会在后台完成任务并保留邮件上下文，每个邮件任务在 Computer 中作为正常会话运行，可在网页和移动端查看，并带有与应用内任务相同的审计记录。",
-    "url": "https://x.com/AravSrinivas/status/2105369479190601754",
-    "published": "2026-09-30T18:49:34.000Z",
-    "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "ElevenLabs 完成 3 亿美元员工股份回购，估值升至 220 亿美元",
-    "summary": "ElevenLabs 完成 3 亿美元员工 tender offer，估值达 220 亿美元，是 2026 年 2 月 Series D 估值的两倍，由 Wellington 和 T. Rowe Price 领投。企业业务占收入 55%，ElevenAgents 每周处理超 1500 万次对话，ARR 自 2 月以来增长超 3 倍，客户语音智能体解决问题平均比聊天智能体快 31%。",
-    "url": "https://elevenlabs.io/blog/tender-22bn",
-    "published": "2026-09-30T12:00:00.000Z",
-    "source": "ElevenLabs：Blog（网页）",
-    "source_weight": "high",
-    "category": "industry"
-  },
-  {
-    "title": "OpenRouter 教程：如何从生产流量构建 golden 评测集并跨模型复测",
-    "summary": "OpenRouter 发布教程，讲解如何从生产流量构建 golden 评测集，作为每次部署前的回归测试。内容涵盖五步流程（抽样生产流量、去重聚类、添加预期输出、首轮评估修正 rubric、提交 Git 并接入 CI），建议从 20 至 50 条复审样本起步、扩展到 100 至 1,000 条完整回归集，用真实流量而非合成数据保留分布和失败模式。",
-    "url": "https://openrouter.ai/blog/tutorials/building-a-golden-eval-dataset-from-production-traffic/",
-    "published": "2026-09-30T00:00:00.000Z",
-    "source": "OpenRouter：Announcements（RSS）",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "Claude Sonnet 5.5 (High) 以 1699 分登 Code Arena: WebDev 第 4 名",
-    "summary": "Arena 公布 Claude Sonnet 5.5 (High) 在 Code Arena: WebDev 以 1699 分排第 4，混合价格约 $8 per Mtoken，比第 2、3 名便宜 80%。相较 Sonnet 5 (High) 的 1540 分提升 159 分，Reference-Based Design、Simulations、Gaming 均从第 30 多名升至第 4。",
-    "url": "https://x.com/arena/status/2104998408616558940",
-    "published": "2026-09-29T18:15:04.000Z",
-    "source": "X：Arena (@arena)",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "OpenAI 开放 ChatGPT 平台，支持用插件扩展构建原生应用",
-    "summary": "OpenAI 宣布开放平台，开发者可构建带插件扩展的完整原生应用，并直接在 ChatGPT 内发布。平台覆盖超过 12 亿周活跃用户，相关插件将在对话中直接呈现。",
-    "url": "https://x.com/thsottiaux/status/2104991765904375896",
-    "published": "2026-09-29T17:48:40.000Z",
-    "source": "X：Tibo (@thsottiaux)",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "ChatGPT 订阅额度现可在 60 多个合作方产品中直接使用",
-    "summary": "ChatGPT 订阅现在可直接在超过 60 个合作方产品中使用，包含的用量可直接用于 Devin、OpenCode、Lovable 等产品。用户通过 Sign in with ChatGPT 登录即可使用。",
-    "url": "https://x.com/thsottiaux/status/2104991529416999243",
-    "published": "2026-09-29T17:47:44.000Z",
-    "source": "X：Tibo (@thsottiaux)",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "OpenAI 推出新版 Codex Cloud，Agents API 开放预览并支持 computer use",
-    "summary": "OpenAI 推出大幅升级的新版 Codex Cloud，主打可配置云环境，作者称配置后很难回到本地开发。同时 Agents API（驱动 dots 等云智能体的同一技术）开启预览，支持 computer use，可用于构建同类产品。",
-    "url": "https://x.com/thsottiaux/status/2104987594719461796",
-    "published": "2026-09-29T17:32:06.000Z",
-    "source": "X：Tibo (@thsottiaux)",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "ChatGPT 推出 Space 团队协作功能与交互式文档 pages",
-    "summary": "ChatGPT 官方宣布推出 Space，作为团队与 AI 协作的新空间。Space 内可使用新型交互式文档 pages，包含图表、图片、清单和仪表盘，ChatGPT 可根据任务或对话上下文自动生成页面。",
-    "url": "https://x.com/ChatGPT/status/2104986841145602351",
-    "published": "2026-09-29T17:29:06.000Z",
-    "source": "X：ChatGPT (@ChatGPT)",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Transluce 报告 AI 智能体以激进手段访问美加政府网站",
-    "summary": "Transluce 发布调查报告，发现多起 AI 智能体以激进手段访问美加政府网站的事件，包括两起失败的初级入侵尝试：6 月 17 日智能体对美国教育部民权数据收集网站发出超过 20 万次请求并尝试 SQL 注入，5 月 28 日和 6 月 9 日 Arquivo.pt 记录到针对加拿大图书档案馆的 899 次请求，其中 13 次含攻击载荷。",
-    "url": "https://transluce.org/us-canada-gov",
-    "published": "2026-09-29T16:00:00.000Z",
-    "source": "Transluce（网页）",
-    "source_weight": "high",
-    "category": "paper"
-  },
-  {
-    "title": "Anthropic 研究测算机器人对岗位的暴露度：机器人可做 74% 的物理任务但仅 0.3% 具备成本竞争力",
-    "summary": "Anthropic 发布研究，用 Claude 对约 19,000 项工作任务评估机器人暴露度，发现现今机器人可完成美国 74% 的物理任务（占全部工作时间的 34%），但仅在 0.3% 的任务上比人工更具成本竞争力，按每年约 3% 的降价趋势需约 40 年才能达到 10%。",
-    "url": "https://www.anthropic.com/research/what-work-can-robots-do",
-    "published": "2026-09-29T16:00:00.000Z",
-    "source": "Anthropic：Research（发表成果 · 网页）",
-    "source_weight": "high",
-    "category": "paper"
-  },
-  {
-    "title": "Microsoft AI models are now available on AI Gateway",
-    "summary": "<p>Vercel and Microsoft AI (MAI) have partnered to make MAI models available on AI Gateway. AI Gateway is one of a limited number of platforms offering access to MAI models. </p><p>MAI's focus on security and zero data retention (ZDR) align with Vercel's goal of giving AI Gateway users control over their data and transparency in how it is used for training. </p><h2>MAI models on AI Gateway</h2><p><a href=\"https://vercel.com/ai-gateway/models/labs/mai\">MAI's latest audio models</a> are now suppor",
-    "url": "https://vercel.com/changelog/microsoft-ai-models-are-now-available-on-ai-gateway",
-    "published": "",
-    "source": "Vercel Blog (v0)",
-    "source_weight": "high",
-    "category": "design_tools"
-  },
-  {
-    "title": "Vercel Agent now installs private packages from npm and custom registries",
-    "summary": "<p>Vercel Agent can install private dependencies from npm and custom registries using credentials stored as shared environment variables on Vercel. <code>npm</code>, <code>pnpm</code>, and classic Yarn running in Agent sessions authenticate as they do in Vercel builds.</p><p>To get started, add a <a href=\"https://vercel.com/docs/environment-variables/shared-environment-variables\">shared environment variable</a> for Development or Preview:</p><ul><li><p>Use <code>NPM_TOKEN</code> for private pack",
-    "url": "https://vercel.com/changelog/vercel-agent-now-installs-private-packages-from-npm-and-custom-registries",
-    "published": "",
-    "source": "Vercel Blog (v0)",
-    "source_weight": "high",
-    "category": "design_tools"
-  },
-  {
-    "title": "Edge Requests are now called CDN Requests",
-    "summary": "<p>CDN Requests is now the name for the usage metric previously called Edge Requests. This is a naming change only: pricing, limits, and how usage is measured are all unchanged.</p><p>The new name appears on the usage dashboard, the Observability Events chart, usage notifications, and invoice line items. It reflects that these are requests served by Vercel's CDN. Metric IDs and product aliases are unchanged, so saved queries keep working. In the billing charges API, <code>ServiceName</code> now ",
-    "url": "https://vercel.com/changelog/edge-requests-are-now-called-cdn-requests",
+    "title": "How Rogo ships agent-written code to production in 5 minutes on Vercel",
+    "summary": "<h2>Rogo on Vercel</h2><ul><li><p>73,000+ deployments in a single month</p></li><li><p>Agent-written code shipped to production in 5 minutes</p></li><li><p>6 production AI agents automating work from churn analysis to deal desk</p></li><li><p>Zero manual triage during production incidents with agent swarms on <a href=\"https://vercel.com/ai-sdk\">AI SDK</a></p></li></ul><div></div><p><a href=\"https://rogo.ai\">Rogo</a> builds Felix, an AI agent that generates decks, financial models, and reports fo",
+    "url": "https://vercel.com/blog/how-rogo-ships-agent-written-code-to-production-in-5-minutes-on-vercel",
     "published": "",
     "source": "Vercel Blog (v0)",
     "source_weight": "high",
@@ -207,19 +198,28 @@
     "category": "design_communities"
   },
   {
-    "title": "How to de-slopify your designs",
-    "summary": "<h4>Tips for anyone who vibecodes.</h4><figure><img alt=\"De-slopifying button turning an AI artwork into a real artwork.\" src=\"https://cdn-images-1.medium.com/max/1024/1*8HZbm_CuQ7CumOwEIQYm4w.png\" /><figcaption>All images in this post are my original work.</figcaption></figure><p>As <a href=\"https://www.merriam-webster.com/dictionary/slop\">AI slop</a> continues to inundate our everyday lives, I have come to the following conclusions —</p><ol><li>People can identify slop.</li><li>People dislike ",
-    "url": "https://uxdesign.cc/how-to-de-slopify-your-designs-4c40c57c1dc9?source=rss----138adf9c44c---4",
-    "published": "Tue, 29 Sep 2026 21:39:48 GMT",
+    "title": "Stop blaming the model for slow AI. Using Doherty’s threshold as a guideline.",
+    "summary": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*DfgDMmR-elZfFiXjEu8_KQ.png\" /><figcaption>Two eras of computing, held to the same 400 millisecond standard.</figcaption></figure><h4>Doherty’s threshold set the rules and has now moved from the answer to the acknowledgment. The fix is a week of front-end work and a definition of done, not cheaper inference.</h4><blockquote>Productivity soars when a computer and its users interact at a pace — under 400 milliseconds — that ensures",
+    "url": "https://uxdesign.cc/stop-blaming-the-model-for-slow-ai-heres-how-to-design-for-it-doherty-s-threshold-as-a-guideline-5fa6d52e23fc?source=rss----138adf9c44c---4",
+    "published": "Thu, 01 Oct 2026 22:52:26 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
   },
   {
-    "title": "If you want to design for underserved users, look at farmers’ markets",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/if-you-want-to-design-for-underserved-users-look-at-farmers-markets-eefaedb35607?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*R-4SK7YbFVFV1AgY5S4PQg.jpeg\" width=\"6625\" /></a></p><p class=\"medium-feed-snippet\">The bottom third model, and why your help patterns miss the users who need them most</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/if-you-want-to-desi",
-    "url": "https://uxdesign.cc/if-you-want-to-design-for-underserved-users-look-at-farmers-markets-eefaedb35607?source=rss----138adf9c44c---4",
-    "published": "Tue, 29 Sep 2026 12:10:56 GMT",
+    "title": "Design’s consensus was AI’s first casualty",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/designs-consensus-was-ai-s-first-casualty-8143c1bada80?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2500/1*k4Gl0Tb1QEUT4UCinL8mng.jpeg\" width=\"2500\" /></a></p><p class=\"medium-feed-snippet\">The same evidence about AI is being read two opposite ways, leaving designers to choose without a clear consensus to lean on.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/desi",
+    "url": "https://uxdesign.cc/designs-consensus-was-ai-s-first-casualty-8143c1bada80?source=rss----138adf9c44c---4",
+    "published": "Thu, 01 Oct 2026 22:51:02 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "AI beyond average: from chatting to collaborating",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/ai-beyond-average-from-chatting-to-collaborating-7b308dd9317a?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1456/0*QUMNBmWOyUMJce0y.png\" width=\"1456\" /></a></p><p class=\"medium-feed-snippet\">How context, skills, and feedback turn the same model into a different kind of collaborator</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/ai-beyond-average-from-chatting-to-col",
+    "url": "https://uxdesign.cc/ai-beyond-average-from-chatting-to-collaborating-7b308dd9317a?source=rss----138adf9c44c---4",
+    "published": "Thu, 01 Oct 2026 22:49:51 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-01T17:28:27.864175Z",
+  "fetched_at": "2026-10-02T16:47:35.299011Z",
   "total_candidates": 25,
   "source_stats": {
     "Figma Blog": {
@@ -7,8 +7,8 @@
       "total": 0
     },
     "Vercel Blog (v0)": {
-      "found": 3,
-      "total": 1626
+      "found": 1,
+      "total": 1629
     },
     "Cursor Changelog": {
       "found": 0,
@@ -55,7 +55,7 @@
       "total": 0
     },
     "Product Hunt": {
-      "found": 0,
+      "found": 1,
       "total": 50
     },
     "Designer News (AI Design)": {
@@ -64,27 +64,27 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 161,
-  "today_date": "2026-10-01",
+  "dudu_day": 162,
+  "today_date": "2026-10-02",
   "used_titles": [
-    "NVIDIA 联合 Google DeepMind 等机构开放 2800 多种病毒的蛋白复合物预测结构数据集",
     "Cognition 宣布年化收入运行率突破 10 亿美元",
     "Claude Devs 测算 Opus 5.5 相比 Opus 5 在 Claude Code 任务中的成本变化",
     "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法",
     "Anthropic 发布 Claude Sonnet 5.5，Artificial Analysis 智能指数得分 56，仅次于 Opus 5.5",
     "Hugging Face CEO 称被 NVIDIA 收购后可招募人才并用十年推动开源 AI 取胜",
-    "Arena 开放限时测试 Claude Sonnet 5.5，Direct Mode 可用 48 小时"
+    "Arena 开放限时测试 Claude Sonnet 5.5，Direct Mode 可用 48 小时",
+    "Claude Sonnet 5.5 (xHigh) 以 1786 分登 Code Arena: WebDev 第 3 名"
   ],
   "used_tools": [
-    "NVIDIA Blog（RSS）",
     "Cognition 模型 / Devin 博客（网页）",
     "X：Claude Devs (@ClaudeDevs)",
     "Hacker News 热门（buzzing.cc 中文翻译）",
     "X：Artificial Analysis (@ArtificialAnlys)",
     "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+    "X：Arena (@arena)",
     "X：Arena (@arena)"
   ],
-  "briefing_total": 75,
-  "briefing_design": 23,
+  "briefing_total": 72,
+  "briefing_design": 27,
   "briefing_count": 5
 }
