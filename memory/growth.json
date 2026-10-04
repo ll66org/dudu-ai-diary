@@ -1,5 +1,5 @@
 {
-  "day_count": 162,
+  "day_count": 164,
   "history": [
     {
       "day": 20,
@@ -965,6 +965,13 @@
       "date": "2026-10-02",
       "topic": "Google Project Suncatcher 首颗原型卫星发射入轨",
       "source": "X：Google AI (@GoogleAI)",
+      "mode": "rss"
+    },
+    {
+      "day": 164,
+      "date": "2026-10-04",
+      "topic": "Baseten 工程师实测：LLM 生成的推理引擎比 vLLM 快最多 90%",
+      "source": "Baseten 工程博客（网页）",
       "mode": "rss"
     }
   ],

@@ -1,14 +1,14 @@
 {
-  "fetched_at": "2026-10-02T16:47:35.299011Z",
-  "total_candidates": 25,
+  "fetched_at": "2026-10-04T15:57:57.061990Z",
+  "total_candidates": 23,
   "source_stats": {
     "Figma Blog": {
       "found": 0,
       "total": 0
     },
     "Vercel Blog (v0)": {
-      "found": 1,
-      "total": 1629
+      "found": 0,
+      "total": 1630
     },
     "Cursor Changelog": {
       "found": 0,
@@ -64,27 +64,27 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 162,
-  "today_date": "2026-10-02",
+  "dudu_day": 164,
+  "today_date": "2026-10-04",
   "used_titles": [
-    "Cognition 宣布年化收入运行率突破 10 亿美元",
     "Claude Devs 测算 Opus 5.5 相比 Opus 5 在 Claude Code 任务中的成本变化",
     "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法",
     "Anthropic 发布 Claude Sonnet 5.5，Artificial Analysis 智能指数得分 56，仅次于 Opus 5.5",
     "Hugging Face CEO 称被 NVIDIA 收购后可招募人才并用十年推动开源 AI 取胜",
     "Arena 开放限时测试 Claude Sonnet 5.5，Direct Mode 可用 48 小时",
-    "Claude Sonnet 5.5 (xHigh) 以 1786 分登 Code Arena: WebDev 第 3 名"
+    "Claude Sonnet 5.5 (xHigh) 以 1786 分登 Code Arena: WebDev 第 3 名",
+    "Google Project Suncatcher 首颗原型卫星发射入轨"
   ],
   "used_tools": [
-    "Cognition 模型 / Devin 博客（网页）",
     "X：Claude Devs (@ClaudeDevs)",
     "Hacker News 热门（buzzing.cc 中文翻译）",
     "X：Artificial Analysis (@ArtificialAnlys)",
     "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
     "X：Arena (@arena)",
-    "X：Arena (@arena)"
+    "X：Arena (@arena)",
+    "X：Google AI (@GoogleAI)"
   ],
-  "briefing_total": 72,
-  "briefing_design": 27,
+  "briefing_total": 30,
+  "briefing_design": 14,
   "briefing_count": 5
 }

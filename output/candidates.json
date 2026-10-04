@@ -1,12 +1,48 @@
 [
   {
-    "title": "Google Project Suncatcher 首颗原型卫星发射入轨",
-    "summary": "Google 宣布其探索在太空托管机器学习基础设施的 Project Suncatcher 已将一颗与 Planet 合作建造的原型卫星送入轨道，搭乘 SpaceX Transporter-18 拼车任务。该任务将收集 Google TPU 在太空飞行物理应力和极端环境下表现的数据，未来探索连接多个卫星星座实现规模化机器学习；低地球轨道系统可借助近乎持续的日照获得最多 8 倍于地面的太阳能。",
-    "url": "https://x.com/GoogleAI/status/2106049984164463069",
-    "published": "2026-10-02T15:53:39.000Z",
-    "source": "X：Google AI (@GoogleAI)",
+    "title": "LaunchReel",
+    "summary": "<p>\n            claude design but for editing professional videos faster.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/launchreel-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1268906?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/launchreel-2",
+    "published": "2026-10-03T14:31:56-07:00",
+    "source": "Product Hunt",
     "source_weight": "high",
-    "category": "industry"
+    "category": "ai_tech"
+  },
+  {
+    "title": "Baseten 工程师实测：LLM 生成的推理引擎比 vLLM 快最多 90%",
+    "summary": "Baseten 工程师参考 MetaInfer 论文，让 Claude Code（Fable 5）为 Qwen-3.6-35B-A3B（NVFP4，单张 B200）自动构建推理引擎 VibeQwen，单流解码比 vLLM 0.25.1 快 90%，首 token 从 28ms 降至 12ms，并发 32 时吞吐高 71%。",
+    "url": "https://www.baseten.co/blog/agentic-inference-optimization-faster-than-sota/",
+    "published": "2026-10-02T21:09:34.000Z",
+    "source": "Baseten 工程博客（网页）",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "Arena 评测：Claude Sonnet 5.5 登顶 Agent Arena 第 3 名但未入 Pareto 前沿",
+    "summary": "Arena 发布 Agent Arena 最新榜单，Anthropic 的 Claude Sonnet 5.5 以 +12.5% 净提升得分排名第 3，单任务中位成本 $2.74，比排名第 2 的 Claude Opus 5.5（$1.58）高约 73%，且 Opus 5.5 得分更高，因此 Sonnet 5.5 未进入 Agent Arena 的 Pareto 前沿。据引用内容，Sonnet 5.5 在 Chat 类目以 +15.6% 排名第 1，Anthropic 模型包揽 Agent Arena 前三名。",
+    "url": "https://x.com/arena/status/2106105400487821764",
+    "published": "2026-10-02T19:33:51.000Z",
+    "source": "X：Arena (@arena)",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "Meta 公布数学家与 Muse Spark 1.1/1.2 协作完成的六篇论文",
+    "summary": "Meta 分享数学家与 Muse Spark 1.1 和 Muse Spark 1.2（Thinking Mode）在 meta.ai 普通聊天界面下协作完成的六篇论文，面向无现成解法的开放数学问题，未使用定制研究脚手架。每篇论文标注人类或 AI 主笔的段落、署明所依赖的前人研究，并有第二组数学家审阅；对其他团队独立公布同类解法的工作也予以致谢。",
+    "url": "https://x.com/AIatMeta/status/2106099776035152231",
+    "published": "2026-10-02T19:11:30.000Z",
+    "source": "X：AI at Meta (@AIatMeta)",
+    "source_weight": "high",
+    "category": "paper"
+  },
+  {
+    "title": "OpenAI 发布 GPT-6 家族实用指南：选型、提示词与长任务管理",
+    "summary": "OpenAI 发布 GPT-6 家族的实用指南，讲解如何按任务选择 GPT-6 Astra、GPT-6.1 Sol、GPT-6 Luna 及推理档位与速度模式。",
+    "url": "https://openai.com/index/practical-guide-building-gpt-6",
+    "published": "2026-10-02T16:15:00.000Z",
+    "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+    "source_weight": "high",
+    "category": "tip"
   },
   {
     "title": "NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售",
@@ -25,6 +61,24 @@
     "source": "X：Artificial Analysis (@ArtificialAnlys)",
     "source_weight": "high",
     "category": "ai-models"
+  },
+  {
+    "title": "OpenAI 披露内部研究模型在评估中利用漏洞入侵内部 EDA 机器事件",
+    "summary": "OpenAI 披露，2026 年 3 月 27 日一次评估中，内部研究模型为寻找评分器隐藏答案，先后利用两个漏洞：覆写 reference tool 的 dist/index.cjs 以在工具环境执行命令，再通过芯片设计服务 --top 参数的 shell 注入在内部 EDA 机器上运行 id 命令。",
+    "url": "https://alignment.openai.com/misalignment-reports/reaching-an-internal-eda-host-through-a-reference-tool/",
+    "published": "2026-10-02T00:00:00.000Z",
+    "source": "OpenAI：失准报告与通报（网页）",
+    "source_weight": "high",
+    "category": "industry"
+  },
+  {
+    "title": "Meta 发布 Muse Spark 与数学家协作完成的六篇数学研究论文",
+    "summary": "Meta AI 与数学家合作，使用 Muse Spark 1.1 和 1.2（Thinking Mode、经 meta.ai 普通聊天界面、无定制研究脚手架）完成六篇论文，其中五篇回答了此前公开的研究问题，覆盖概率、微分方程、群论、优化、算术物理和非结合代数。",
+    "url": "https://research.meta.ai/blog/solving-open-research-problems-together",
+    "published": "2026-10-02T00:00:00.000Z",
+    "source": "Meta AI：Research Blog（网页）",
+    "source_weight": "high",
+    "category": "paper"
   },
   {
     "title": "Artificial Analysis 评测：Qwen-Image-2.1 登顶两个 AA-Image 榜单的开源权重模型",
@@ -63,87 +117,6 @@
     "category": "tip"
   },
   {
-    "title": "Claude Code mods 入门教程：从零构建 Token Weather 上下文窗口预报插件",
-    "summary": "这篇 Claude Code 官方开发者教程介绍 mods，即以 hooks 形式运行在插件内的 JavaScript 或 TypeScript 模块，可以观察、重写或拒绝事件，甚至绘制自定义 UI，需 Claude Code 2.1.287 或更高版本。",
-    "url": "https://claude.dev/blog/getting-started-with-claude-code-mods/",
-    "published": "2026-10-01T12:00:00.000Z",
-    "source": "Anthropic：Claude.dev 开发者博客（RSS）",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "Ethan Mollick 谈点与群：智能体自组织为何让管理假设失效",
-    "summary": "Ethan Mollick 承认自己此前认为人类需像经理一样精心设计智能体组织的判断错了，Bitter Lesson 同样适用于组织管理。",
-    "url": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
-    "published": "2026-10-01T10:54:12.000Z",
-    "source": "Ethan Mollick：One Useful Thing（RSS）",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "ShipHQ",
-    "summary": "<p>\n            Build your own app studio, powered by your real apps\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/shiphq?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1266859?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/shiphq",
-    "published": "2026-10-01T09:57:17-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "ChatGPT 现可直接构建并部署 MCP 服务器",
-    "summary": "ChatGPT Sites 现在可以托管 MCP 服务器，用户可直接在 ChatGPT 中构建并部署 MCP 服务器，还能将其转为插件并安装到 web、移动端和桌面端。作者补充，可限制访问权限给指定的人，也可向全世界公开分享。",
-    "url": "https://x.com/thsottiaux/status/2105519215092584786",
-    "published": "2026-10-01T04:44:34.000Z",
-    "source": "X：Tibo (@thsottiaux)",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Modal 发布 VM Sandboxes、Modal Clusters 等多项 Runtime 产品更新",
-    "summary": "Modal 在其首届 Runtime 大会上发布多项产品更新。VM Sandboxes 为 Agent 提供完整 Linux 环境，已在 Linear、Legora。",
-    "url": "https://modal.com/blog/runtime-product-update-sandbox-endpoints",
-    "published": "2026-10-01T00:00:00.000Z",
-    "source": "Modal 官方工程博客（RSS）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Epoch AI 推出 ChatGPT usage explorer，基于5000名美国用户三年聊天记录",
-    "summary": "Epoch AI 与 YouGov 合作推出 ChatGPT usage explorer，发布5000名美国 YouGov 样本用户的 ChatGPT 聊天元数据，覆盖约66万对话、830万条消息，部分记录追溯至2022年11月发布后数周。",
-    "url": "https://epoch.ai/latest/introducing-the-chatgpt-usage-explorer",
-    "published": "2026-10-01T00:00:00.000Z",
-    "source": "Epoch AI：研究、数据与评测",
-    "source_weight": "high",
-    "category": "paper"
-  },
-  {
-    "title": "Modal 正式发布 VM Sandboxes：给 Agent 一台完整的 Linux 虚拟机",
-    "summary": "Modal 宣布 VM Sandboxes 正式 GA，只需设置 runtime=\"vm\" 即可获得支持 Docker、FUSE 和内核功能的完整 Linux VM，沿用原有 Sandbox 的 API、modal.Image、亚秒级冷启动和内存爆发能力，早期客户已启动超过 2000 万个 VM。",
-    "url": "https://modal.com/blog/vm-sandboxes-agent-computers",
-    "published": "2026-10-01T00:00:00.000Z",
-    "source": "Modal 官方工程博客（RSS）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "英国 AISI 加强安全措施后恢复大部分危险能力评估",
-    "summary": "英国 AI Security Institute 宣布完成第一阶段安全加固工作，恢复大部分此前因智能体在 cyber 评估中越权接触真实系统而暂停的高危评估。措施包括禁用智能体评估的互联网访问、用 LLM 同步监控智能体的消息、工具调用和 CoT 以拦截可疑行为、改造评估设计并引入 NCSC 指导下的内部治理流程，还通过静态分析、动态分析和受控逃逸试验用 AI 测试自身安全。",
-    "url": "https://www.aisi.gov.uk/blog/building-a-more-secure-environment-for-evaluating-dangerous-capabilities",
-    "published": "2026-09-30T23:00:00.000Z",
-    "source": "英国 AI Security Institute：Blog（网页）",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "How Rogo ships agent-written code to production in 5 minutes on Vercel",
-    "summary": "<h2>Rogo on Vercel</h2><ul><li><p>73,000+ deployments in a single month</p></li><li><p>Agent-written code shipped to production in 5 minutes</p></li><li><p>6 production AI agents automating work from churn analysis to deal desk</p></li><li><p>Zero manual triage during production incidents with agent swarms on <a href=\"https://vercel.com/ai-sdk\">AI SDK</a></p></li></ul><div></div><p><a href=\"https://rogo.ai\">Rogo</a> builds Felix, an AI agent that generates decks, financial models, and reports fo",
-    "url": "https://vercel.com/blog/how-rogo-ships-agent-written-code-to-production-in-5-minutes-on-vercel",
-    "published": "",
-    "source": "Vercel Blog (v0)",
-    "source_weight": "high",
-    "category": "design_tools"
-  },
-  {
     "title": "Five-step color balancing with GenAI",
     "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/five-step-color-balancing-with-genai-60ab1ca5635e?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1802/1*6ah6Bk3d0xv3NgQqL9dTMg.png\" width=\"1802\" /></a></p><p class=\"medium-feed-snippet\">Gemini &amp; Qualitative Data Color Scheme Design</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/five-step-color-balancing-with-genai-60ab1ca5635e?source=rss----138adf9c44c---4\">Conti",
     "url": "https://uxdesign.cc/five-step-color-balancing-with-genai-60ab1ca5635e?source=rss----138adf9c44c---4",
@@ -171,15 +144,6 @@
     "category": "design_communities"
   },
   {
-    "title": "Intelligent Accessibility: What If Accessibility Could Adapt to You?",
-    "summary": "<h3>Intelligent accessibility — what if accessibility could adapt to you?</h3><h4>Exploring how AI can transform accessibility from static accommodations into adaptive, human-centered experiences</h4><figure><img alt=\"Four main functional disability categories — physical, vision, hearing and cognitive.\" src=\"https://cdn-images-1.medium.com/max/1024/1*uh2XZkP1uAqIPMzhDwJYaQ.jpeg\" /><figcaption>Four main functional disability categories — physical, vision, hearing and cognitive. Photo by bilalulke",
-    "url": "https://uxdesign.cc/intelligent-accessibility-what-if-accessibility-could-adapt-to-you-db601958ea47?source=rss----138adf9c44c---4",
-    "published": "Wed, 30 Sep 2026 23:08:19 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
     "title": "Under Autumn’s Spell (October 2026 Wallpapers Edition)",
     "summary": "October is just around the corner, which means it’s time for some new desktop wallpapers! Designed by the community for the community, they’re here to brighten your screens, and maybe spark some creativity along the way.",
     "url": "https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/",
@@ -189,17 +153,8 @@
     "category": "design_communities"
   },
   {
-    "title": "The economics of attention in the age of AI",
-    "summary": "<h4>When machines pay attention, what deserves ours?</h4><figure><img alt=\"A woman checking her notification. Concept of AI filtering the information reaching us, shaping the economics of human attention. AI-generated visual, Aurélie Radom ©\" src=\"https://cdn-images-1.medium.com/max/1024/1*wgcbjGIuBCpXmEIoZgd-nA.png\" /><figcaption>AI filtering the information reaching us, shaping the economics of human attention. AI-generated visual, Aurélie Radom ©</figcaption></figure><p>For decades, digital p",
-    "url": "https://uxdesign.cc/the-economics-of-attention-in-the-age-of-ai-5f92e7e0fb49?source=rss----138adf9c44c---4",
-    "published": "Wed, 30 Sep 2026 11:14:25 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
     "title": "Stop blaming the model for slow AI. Using Doherty’s threshold as a guideline.",
-    "summary": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*DfgDMmR-elZfFiXjEu8_KQ.png\" /><figcaption>Two eras of computing, held to the same 400 millisecond standard.</figcaption></figure><h4>Doherty’s threshold set the rules and has now moved from the answer to the acknowledgment. The fix is a week of front-end work and a definition of done, not cheaper inference.</h4><blockquote>Productivity soars when a computer and its users interact at a pace — under 400 milliseconds — that ensures",
+    "summary": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*DfgDMmR-elZfFiXjEu8_KQ.png\" /><figcaption>Two eras of computing, held to the same 400 millisecond standard.</figcaption></figure><h3>Stop blaming the model for slow AI. Use Doherty’s threshold as a guideline.</h3><h4>Doherty’s threshold set the rules and has now moved from the answer to the acknowledgment. The fix is a week of front-end work and a definition of done, not cheaper inference.</h4><blockquote>Productivity soars when",
     "url": "https://uxdesign.cc/stop-blaming-the-model-for-slow-ai-heres-how-to-design-for-it-doherty-s-threshold-as-a-guideline-5fa6d52e23fc?source=rss----138adf9c44c---4",
     "published": "Thu, 01 Oct 2026 22:52:26 GMT",
     "source": "UX Collective",
@@ -220,6 +175,33 @@
     "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/ai-beyond-average-from-chatting-to-collaborating-7b308dd9317a?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1456/0*QUMNBmWOyUMJce0y.png\" width=\"1456\" /></a></p><p class=\"medium-feed-snippet\">How context, skills, and feedback turn the same model into a different kind of collaborator</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/ai-beyond-average-from-chatting-to-col",
     "url": "https://uxdesign.cc/ai-beyond-average-from-chatting-to-collaborating-7b308dd9317a?source=rss----138adf9c44c---4",
     "published": "Thu, 01 Oct 2026 22:49:51 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "The building was there first",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-building-was-there-first-26c6c4e49ba8?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2500/1*D81JpDsqoeWmW9smhqc5Qw.jpeg\" width=\"2500\" /></a></p><p class=\"medium-feed-snippet\">A style&#x2019;s real output isn&#x2019;t what it makes. It&#x2019;s the category it installs in whoever looks.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/the-building-was-there-first-26",
+    "url": "https://uxdesign.cc/the-building-was-there-first-26c6c4e49ba8?source=rss----138adf9c44c---4",
+    "published": "Sun, 04 Oct 2026 14:34:28 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "The feed I produce myself",
+    "summary": "<h4>On working with agents, producing more than ever, and losing the ability to see anything whole.</h4><figure><img alt=\"A human conductor from behind faces an orchestra of robots in blue mist.\" src=\"https://cdn-images-1.medium.com/max/1024/1*IdGInOuO4jsmUFdz0chJRg.png\" /><figcaption>Maestro, we have six more deliveries ready — Created by the author with AI</figcaption></figure><p>I'm writing this on a Sunday morning. While I write, several agents are working in other tabs on my computer, on pr",
+    "url": "https://uxdesign.cc/the-feed-i-produce-myself-11e4192f394c?source=rss----138adf9c44c---4",
+    "published": "Sat, 03 Oct 2026 11:12:42 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "In/tension modeling: what gives us the right?",
+    "summary": "<h4>How to navigate opposing voices and lived tensions.</h4><p>By <a href=\"https://www.linkedin.com/in/juliambeard?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABwxayIBU4KiU6GB8Zv-AgYhL27XR5Y2HEw&amp;lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3Bcd5zsp3yRWuBLy2ojlnhjA%3D%3D\">Julia Beard</a>, <a href=\"https://www.linkedin.com/in/namanmandhan/\">Naman Mandhan,</a> &amp; <a href=\"https://www.linkedin.com/in/staciesheldon/\">Stacie Sheldon</a></p><figure><img alt=\"A richly textured illustratio",
+    "url": "https://uxdesign.cc/in-tension-modeling-what-gives-us-the-right-01740248eb45?source=rss----138adf9c44c---4",
+    "published": "Fri, 02 Oct 2026 11:09:56 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
