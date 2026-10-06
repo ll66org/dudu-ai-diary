@@ -1,42 +1,42 @@
 [
   {
-    "title": "Baseten 工程师实测：LLM 生成的推理引擎比 vLLM 快最多 90%",
-    "summary": "Baseten 工程师参考 MetaInfer 论文，让 Claude Code（Fable 5）为 Qwen-3.6-35B-A3B（NVFP4，单张 B200）自动构建推理引擎 VibeQwen，单流解码比 vLLM 0.25.1 快 90%，首 token 从 28ms 降至 12ms，并发 32 时吞吐高 71",
-    "source": "Baseten 工程博客（网页）",
-    "url": "https://www.baseten.co/blog/agentic-inference-optimization-faster-than-sota/",
-    "published_at": "2026-10-02T21:09:34.000Z",
-    "category": "tip"
-  },
-  {
-    "title": "Arena 评测：Claude Sonnet 5.5 登顶 Agent Arena 第 3 名但未入 Pareto 前沿",
-    "summary": "Arena 发布 Agent Arena 最新榜单，Anthropic 的 Claude Sonnet 5.5 以 +12.5% 净提升得分排名第 3，单任务中位成本 $2.74，比排名第 2 的 Claude Opus 5.5（$1.58）高约 73%，且 Opus 5.5 得分更高，因此 Sonnet 5.5 未进",
+    "title": "Mistral Large 4 上线 Arena 的 Agent Arena 与 Code Arena 评测",
+    "summary": "Arena 宣布 Mistral 的 Mistral Large 4 现已进入 Agent Arena，用户可前往测试投票，分数稍后公布。该模型为 1T 参数、49B 激活的原生多模态开放权重模型，也已在 Code Arena 的 WebDev、Text 和 Vision 中可用。",
     "source": "X：Arena (@arena)",
-    "url": "https://x.com/arena/status/2106105400487821764",
-    "published_at": "2026-10-02T19:33:51.000Z",
+    "url": "https://x.com/arena/status/2107476436223504484",
+    "published_at": "2026-10-06T14:21:52.000Z",
     "category": "ai-models"
   },
   {
-    "title": "Meta 公布数学家与 Muse Spark 1.1/1.2 协作完成的六篇论文",
-    "summary": "Meta 分享数学家与 Muse Spark 1.1 和 Muse Spark 1.2（Thinking Mode）在 meta.ai 普通聊天界面下协作完成的六篇论文，面向无现成解法的开放数学问题，未使用定制研究脚手架。每篇论文标注人类或 AI 主笔的段落、署明所依赖的前人研究，并有第二组数学家审阅；对其他团队独立公",
-    "source": "X：AI at Meta (@AIatMeta)",
-    "url": "https://x.com/AIatMeta/status/2106099776035152231",
-    "published_at": "2026-10-02T19:11:30.000Z",
-    "category": "paper"
+    "title": "Mistral Large 4 上线 OpenRouter 公测：1T 参数、512K 上下文",
+    "summary": "Mistral Large 4 现已在 OpenRouter 开放公测，规格为 1T 参数（49B 激活）、原生多模态、512K 上下文、最高 256K 输出。前两周五折：每 1M tokens 输入 $0.68、输出 $2.09，缓存 $0.07。",
+    "source": "X：OpenRouter (@OpenRouter)",
+    "url": "https://x.com/OpenRouter/status/2107471559040635360",
+    "published_at": "2026-10-06T14:02:29.000Z",
+    "category": "ai-products"
   },
   {
-    "title": "OpenAI 发布 GPT-6 家族实用指南：选型、提示词与长任务管理",
-    "summary": "OpenAI 发布 GPT-6 家族的实用指南，讲解如何按任务选择 GPT-6 Astra、GPT-6.1 Sol、GPT-6 Luna 及推理档位与速度模式。",
-    "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-    "url": "https://openai.com/index/practical-guide-building-gpt-6",
-    "published_at": "2026-10-02T16:15:00.000Z",
+    "title": "Mistral 发布 Large 4 公开预览版，1 万亿参数将开放权重",
+    "summary": "Mistral 发布 Mistral Large 4（代号 le Chonk）公开预览版，为 1 万亿参数、490 亿激活参数的原生多模态模型，可试用于 Mistral Studio，权重将于本月底开放。",
+    "source": "Hacker News：AI 热帖",
+    "url": "https://mistral.ai/news/mistral-large-4/",
+    "published_at": "2026-10-06T13:25:50.000Z",
+    "category": "ai-models"
+  },
+  {
+    "title": "Claude Code 云端会话实战指南：每个任务独占一台 VM，可并行跑任务并以分支收尾",
+    "summary": "Claude Code 推出云端会话：每个任务在独立 VM 上运行，仓库克隆到新分支，可从 claude.ai/code、手机、Desktop、终端和 Slack 启动并跟踪，完成后产出可转 PR 的分支，Pro、Max、Team、Enterprise 计划不额外收费。",
+    "source": "Anthropic：Claude.dev 开发者博客（RSS）",
+    "url": "https://claude.dev/blog/claude-code-in-the-cloud/",
+    "published_at": "2026-10-06T12:00:00.000Z",
     "category": "tip"
   },
   {
-    "title": "Google Project Suncatcher 首颗原型卫星发射入轨",
-    "summary": "Google 宣布其探索在太空托管机器学习基础设施的 Project Suncatcher 已将一颗与 Planet 合作建造的原型卫星送入轨道，搭乘 SpaceX Transporter-18 拼车任务。该任务将收集 Google TPU 在太空飞行物理应力和极端环境下表现的数据，未来探索连接多个卫星星座实现规模化机",
-    "source": "X：Google AI (@GoogleAI)",
-    "url": "https://x.com/GoogleAI/status/2106049984164463069",
-    "published_at": "2026-10-02T15:53:39.000Z",
-    "category": "industry"
+    "title": "卡兹克解读 A16Z 两份 AI 报告：AI 使用很广但用得还浅，头部 1% 用户月均花 903 美元",
+    "summary": "作者解读 A16Z 第七版《Top 100 消费级 AI 应用》和 90 多页的《市场状况 II》报告，指出反常识数据。美国近一半人用过 AI 但只有 25% 每天在用，截至 2026 年 8 月仅 4.5% 有 ChatGPT、Gemini 或 Claude 个人付费订阅；付费用户中头部 1% 月均消费 903 美元",
+    "source": "X：卡兹克 (@Khazix0918)",
+    "url": "https://x.com/Khazix0918/status/2107297777583825359",
+    "published_at": "2026-10-06T02:31:56.000Z",
+    "category": "tip"
   }
 ]

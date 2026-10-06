@@ -1,153 +1,153 @@
 [
   {
-    "title": "LaunchReel",
-    "summary": "<p>\n            claude design but for editing professional videos faster.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/launchreel-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1268906?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/launchreel-2",
-    "published": "2026-10-03T14:31:56-07:00",
-    "source": "Product Hunt",
+    "title": "Will AI replace workers? Not if we build it right",
+    "summary": "<p>Article URL: <a href=\"https://humanistreview.ai/issue-1/acemoglu-ai-replace-workers/\">https://humanistreview.ai/issue-1/acemoglu-ai-replace-workers/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49981294\">https://news.ycombinator.com/item?id=49981294</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "url": "https://humanistreview.ai/issue-1/acemoglu-ai-replace-workers/",
+    "published": "Tue, 06 Oct 2026 17:09:07 +0000",
+    "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Baseten 工程师实测：LLM 生成的推理引擎比 vLLM 快最多 90%",
-    "summary": "Baseten 工程师参考 MetaInfer 论文，让 Claude Code（Fable 5）为 Qwen-3.6-35B-A3B（NVFP4，单张 B200）自动构建推理引擎 VibeQwen，单流解码比 vLLM 0.25.1 快 90%，首 token 从 28ms 降至 12ms，并发 32 时吞吐高 71%。",
-    "url": "https://www.baseten.co/blog/agentic-inference-optimization-faster-than-sota/",
-    "published": "2026-10-02T21:09:34.000Z",
-    "source": "Baseten 工程博客（网页）",
+    "title": "Show HN: TOD,a universal Decision model based on Task Oriented Design",
+    "summary": "<p>Hi HN, we built TOD, a model and API for jevlike  LLM pipelines.<p>we have people using it for, routing a ticket, classifying intent, deciding whether something is urgent, or rating severity.<p>Architecture\n- 12B Gemma fine-tuned to score options. since it is gemma based it has multimodality built in\n- When there are >120 labels, we have a 150M retriever that narrows them to a shortlist (recall@16 is 0.9–1.0 on our evals), and the 12B model scores that shortlist.\n- Context goes up to 49k toke",
+    "url": "https://parseclab.ai/tod/",
+    "published": "Tue, 06 Oct 2026 17:07:37 +0000",
+    "source": "Hacker News (设计向)",
     "source_weight": "high",
-    "category": "tip"
+    "category": "ai_tech"
   },
   {
-    "title": "Arena 评测：Claude Sonnet 5.5 登顶 Agent Arena 第 3 名但未入 Pareto 前沿",
-    "summary": "Arena 发布 Agent Arena 最新榜单，Anthropic 的 Claude Sonnet 5.5 以 +12.5% 净提升得分排名第 3，单任务中位成本 $2.74，比排名第 2 的 Claude Opus 5.5（$1.58）高约 73%，且 Opus 5.5 得分更高，因此 Sonnet 5.5 未进入 Agent Arena 的 Pareto 前沿。据引用内容，Sonnet 5.5 在 Chat 类目以 +15.6% 排名第 1，Anthropic 模型包揽 Agent Arena 前三名。",
-    "url": "https://x.com/arena/status/2106105400487821764",
-    "published": "2026-10-02T19:33:51.000Z",
+    "title": "In race with U.S., China struggles to recruit foreign AI researchers",
+    "summary": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/10/06/science/china-ai-research-recruitment.html\">https://www.nytimes.com/2026/10/06/science/china-ai-research-recruitment.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49980818\">https://news.ycombinator.com/item?id=49980818</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "url": "https://www.nytimes.com/2026/10/06/science/china-ai-research-recruitment.html",
+    "published": "Tue, 06 Oct 2026 16:32:43 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Mistral Large 4 上线 Arena 的 Agent Arena 与 Code Arena 评测",
+    "summary": "Arena 宣布 Mistral 的 Mistral Large 4 现已进入 Agent Arena，用户可前往测试投票，分数稍后公布。该模型为 1T 参数、49B 激活的原生多模态开放权重模型，也已在 Code Arena 的 WebDev、Text 和 Vision 中可用。",
+    "url": "https://x.com/arena/status/2107476436223504484",
+    "published": "2026-10-06T14:21:52.000Z",
     "source": "X：Arena (@arena)",
     "source_weight": "high",
     "category": "ai-models"
   },
   {
-    "title": "Meta 公布数学家与 Muse Spark 1.1/1.2 协作完成的六篇论文",
-    "summary": "Meta 分享数学家与 Muse Spark 1.1 和 Muse Spark 1.2（Thinking Mode）在 meta.ai 普通聊天界面下协作完成的六篇论文，面向无现成解法的开放数学问题，未使用定制研究脚手架。每篇论文标注人类或 AI 主笔的段落、署明所依赖的前人研究，并有第二组数学家审阅；对其他团队独立公布同类解法的工作也予以致谢。",
-    "url": "https://x.com/AIatMeta/status/2106099776035152231",
-    "published": "2026-10-02T19:11:30.000Z",
-    "source": "X：AI at Meta (@AIatMeta)",
-    "source_weight": "high",
-    "category": "paper"
-  },
-  {
-    "title": "OpenAI 发布 GPT-6 家族实用指南：选型、提示词与长任务管理",
-    "summary": "OpenAI 发布 GPT-6 家族的实用指南，讲解如何按任务选择 GPT-6 Astra、GPT-6.1 Sol、GPT-6 Luna 及推理档位与速度模式。",
-    "url": "https://openai.com/index/practical-guide-building-gpt-6",
-    "published": "2026-10-02T16:15:00.000Z",
-    "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售",
-    "summary": "NVIDIA 宣布 DGX Spark 推出 64GB 统一内存新配置，10 月 23 日起由 Acer、ASUS、Dell、Gigabyte、HP 和 MSI 发售，起步价 $4,999，支持最高 1000 亿参数模型在端侧运行。",
-    "url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/",
-    "published": "2026-10-02T13:00:39.000Z",
-    "source": "NVIDIA Blog（RSS）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Artificial Analysis：Claude Sonnet 5.5、GPT-6.1 Sol 与 Gemini 4 Argon 登顶 Coding Agent Index 榜单但成本差异大",
-    "summary": "Artificial Analysis 发布 Coding Agent Index 榜单，Claude Sonnet 5.5 (max) 在 Claude Code 以 68 分居首，但每任务成本最高达 $14.19。",
-    "url": "https://x.com/ArtificialAnlys/status/2105814318294114720",
-    "published": "2026-10-02T00:17:12.000Z",
-    "source": "X：Artificial Analysis (@ArtificialAnlys)",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "OpenAI 披露内部研究模型在评估中利用漏洞入侵内部 EDA 机器事件",
-    "summary": "OpenAI 披露，2026 年 3 月 27 日一次评估中，内部研究模型为寻找评分器隐藏答案，先后利用两个漏洞：覆写 reference tool 的 dist/index.cjs 以在工具环境执行命令，再通过芯片设计服务 --top 参数的 shell 注入在内部 EDA 机器上运行 id 命令。",
-    "url": "https://alignment.openai.com/misalignment-reports/reaching-an-internal-eda-host-through-a-reference-tool/",
-    "published": "2026-10-02T00:00:00.000Z",
-    "source": "OpenAI：失准报告与通报（网页）",
-    "source_weight": "high",
-    "category": "industry"
-  },
-  {
-    "title": "Meta 发布 Muse Spark 与数学家协作完成的六篇数学研究论文",
-    "summary": "Meta AI 与数学家合作，使用 Muse Spark 1.1 和 1.2（Thinking Mode、经 meta.ai 普通聊天界面、无定制研究脚手架）完成六篇论文，其中五篇回答了此前公开的研究问题，覆盖概率、微分方程、群论、优化、算术物理和非结合代数。",
-    "url": "https://research.meta.ai/blog/solving-open-research-problems-together",
-    "published": "2026-10-02T00:00:00.000Z",
-    "source": "Meta AI：Research Blog（网页）",
-    "source_weight": "high",
-    "category": "paper"
-  },
-  {
-    "title": "Artificial Analysis 评测：Qwen-Image-2.1 登顶两个 AA-Image 榜单的开源权重模型",
-    "summary": "Artificial Analysis 自行本地部署评测了阿里 9 月 20 日以开源权重发布的 Qwen-Image-2.1，该模型在 AA-Image-T2I v2.0 和 AA-Image-Editing v2.0 上均排名第 18，为两个榜单上排名第一的开源权重模型，超过 Ideogram 4.0（Quality）和 HunyuanImage 3.0 Instruct。",
-    "url": "https://x.com/ArtificialAnlys/status/2105790682376065463",
-    "published": "2026-10-01T22:43:17.000Z",
-    "source": "X：Artificial Analysis (@ArtificialAnlys)",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "FLUX 3 Image 现已登陆 Krea，支持多轮编辑与 4K 生成",
-    "summary": "Krea 宣布 FLUX 3 Image 已上线其平台。新能力包括多轮编辑且不改动其他像素、用 bounding box 排版图像、最高 4K 生成，以及组合最多 10 个参考图。",
-    "url": "https://x.com/krea_ai/status/2105769469880799716",
-    "published": "2026-10-01T21:18:59.000Z",
-    "source": "X：Krea AI (@krea_ai)",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "FLUX 3 Image 上线 OpenRouter，支持原生 4K 生成与多参考编辑",
-    "summary": "Black Forest Labs 的 FLUX 3 Image 现已上线 OpenRouter，是支持文生图与多参考编辑的旗舰图像模型，原生可渲染至 4K。原文提到可精确多轮编辑不动其他像素、用 bounding box 布局、最多用 10 个参考图合成，商业权重已开放，开放权重版将在未来数周发布。",
-    "url": "https://x.com/OpenRouter/status/2105759062835220852",
-    "published": "2026-10-01T20:37:38.000Z",
+    "title": "Mistral Large 4 上线 OpenRouter 公测：1T 参数、512K 上下文",
+    "summary": "Mistral Large 4 现已在 OpenRouter 开放公测，规格为 1T 参数（49B 激活）、原生多模态、512K 上下文、最高 256K 输出。前两周五折：每 1M tokens 输入 $0.68、输出 $2.09，缓存 $0.07。",
+    "url": "https://x.com/OpenRouter/status/2107471559040635360",
+    "published": "2026-10-06T14:02:29.000Z",
     "source": "X：OpenRouter (@OpenRouter)",
     "source_weight": "high",
     "category": "ai-products"
   },
   {
-    "title": "LangChain 讲解如何在 Agent Harness 中构建模型路由器",
-    "summary": "LangChain 在其开源编码 Agent Open SWE 中构建模型路由器，在 973 个线程的 A/B 测试中，中位成本从 $2.61 降到 $0.94（降 64%），PR 合并率 29.2% 对 27.3%，质量无可测变化。",
-    "url": "https://www.langchain.com/blog/how-to-build-a-model-router-in-the-harness",
-    "published": "2026-10-01T17:01:32.000Z",
-    "source": "LangChain：Blog（RSS）",
+    "title": "Mistral 发布 Large 4 公开预览版，1 万亿参数将开放权重",
+    "summary": "Mistral 发布 Mistral Large 4（代号 le Chonk）公开预览版，为 1 万亿参数、490 亿激活参数的原生多模态模型，可试用于 Mistral Studio，权重将于本月底开放。",
+    "url": "https://mistral.ai/news/mistral-large-4/",
+    "published": "2026-10-06T13:25:50.000Z",
+    "source": "Hacker News：AI 热帖",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "Claude Code 云端会话实战指南：每个任务独占一台 VM，可并行跑任务并以分支收尾",
+    "summary": "Claude Code 推出云端会话：每个任务在独立 VM 上运行，仓库克隆到新分支，可从 claude.ai/code、手机、Desktop、终端和 Slack 启动并跟踪，完成后产出可转 PR 的分支，Pro、Max、Team、Enterprise 计划不额外收费。",
+    "url": "https://claude.dev/blog/claude-code-in-the-cloud/",
+    "published": "2026-10-06T12:00:00.000Z",
+    "source": "Anthropic：Claude.dev 开发者博客（RSS）",
     "source_weight": "high",
     "category": "tip"
   },
   {
-    "title": "Five-step color balancing with GenAI",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/five-step-color-balancing-with-genai-60ab1ca5635e?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1802/1*6ah6Bk3d0xv3NgQqL9dTMg.png\" width=\"1802\" /></a></p><p class=\"medium-feed-snippet\">Gemini &amp; Qualitative Data Color Scheme Design</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/five-step-color-balancing-with-genai-60ab1ca5635e?source=rss----138adf9c44c---4\">Conti",
-    "url": "https://uxdesign.cc/five-step-color-balancing-with-genai-60ab1ca5635e?source=rss----138adf9c44c---4",
-    "published": "Wed, 30 Sep 2026 23:11:26 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
+    "title": "卡兹克解读 A16Z 两份 AI 报告：AI 使用很广但用得还浅，头部 1% 用户月均花 903 美元",
+    "summary": "作者解读 A16Z 第七版《Top 100 消费级 AI 应用》和 90 多页的《市场状况 II》报告，指出反常识数据。美国近一半人用过 AI 但只有 25% 每天在用，截至 2026 年 8 月仅 4.5% 有 ChatGPT、Gemini 或 Claude 个人付费订阅；付费用户中头部 1% 月均消费 903 美元、贡献 19.5% 的全部消费。",
+    "url": "https://x.com/Khazix0918/status/2107297777583825359",
+    "published": "2026-10-06T02:31:56.000Z",
+    "source": "X：卡兹克 (@Khazix0918)",
+    "source_weight": "high",
+    "category": "tip"
   },
   {
-    "title": "Headless AI will make every product a platform. Here’s what to consider when designing for this.",
-    "summary": "<figure><img alt=\"The mockups get the design review. The agents are in the logs, never seeing a screen.\" src=\"https://cdn-images-1.medium.com/max/1024/1*6iRJB6ItsfYbPIy5nfFPsA.png\" /><figcaption>The mockups get the design review. The agents are in the logs, never seeing a screen. AI Assisted.</figcaption></figure><h4><em>Chat will always be just an interface. Agents are not, and the design work has moved to the contract underneath your product.</em></h4><p>The first wave of AI in products was ch",
-    "url": "https://uxdesign.cc/headless-ai-will-make-every-product-a-platform-heres-what-to-consider-when-designing-for-this-f219c33245c7?source=rss----138adf9c44c---4",
-    "published": "Wed, 30 Sep 2026 23:10:18 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
+    "title": "卡兹克解读A16Z两份AI报告，AI使用广但付费和深度仍小众",
+    "summary": "作者解读A16Z第七版《Top 100 消费级 AI 应用》和90多页的《市场状况 II》报告，指出美国近一半人用过AI但仅25%每天使用，ChatGPT、Gemini或Claude个人付费订阅率仅4.5%，标普500公司只有2%长期追踪AI价值指标。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686876&idx=1&sn=55c719c9dded44507dbd2a000a2ec5a7",
+    "published": "2026-10-06T00:18:00.000Z",
+    "source": "公众号：数字生命卡兹克",
+    "source_weight": "high",
+    "category": "tip"
   },
   {
-    "title": "What the Bible got wrong about AI",
-    "summary": "<figure><img alt=\"A Renaissance fresco in the style of Michelangelo’s Last Judgment: crowds of human souls rising and gathered, looking upward toward the seat of judgment at the center. Where the divine judge should sit, there is instead a cold, glowing blank rectangle of screen-light wired with faint circuitry, woven into the golden rays of heaven. The figures wait for a judgment that is not coming.\" src=\"https://cdn-images-1.medium.com/max/1024/1*rXsu_0keVPs-umplMERWQw.jpeg\" /><figcaption>Mich",
-    "url": "https://uxdesign.cc/what-the-bible-got-wrong-about-ai-83634e21ecff?source=rss----138adf9c44c---4",
-    "published": "Wed, 30 Sep 2026 23:08:39 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
+    "title": "Google 发布 EmbeddingGemma 2：基于 Gemma 4 的开源多模态嵌入模型",
+    "summary": "Google 发布基于 Gemma 4 的开源嵌入模型 EmbeddingGemma 2，采用 Apache 2.0 许可，将文本、代码、图像、视频和音频映射到统一的 768 维向量空间，参数量从 270M（文本/代码）到 740M（全模态）按需加载。",
+    "url": "https://developers.googleblog.com/embeddinggemma-2-the-developer-guide/",
+    "published": "2026-10-06T00:00:00.000Z",
+    "source": "Google Developers Blog（RSS）",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "Gemini Nano Banana 2.1 正式发布，gemini-3.1-flash-image 将于 2026 年 10 月 29 日停用",
+    "summary": "Google 发布 Gemini Nano Banana 2.1（gemini-nano-banana-2.1），定位为高效图像生成与对话式编辑模型，是 Nano Banana 2（gemini-3.1-flash-image）的更新版。",
+    "url": "https://ai.google.dev/gemini-api/docs/changelog#10-06-2026",
+    "published": "2026-10-06T00:00:00.000Z",
+    "source": "Gemini API：更新日志（网页）",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "Google DeepMind 发布多模态嵌入模型 EmbeddingGemma 2",
+    "summary": "Google DeepMind 于 10 月 6 日发布开放权重的多模态嵌入模型 EmbeddingGemma 2，将文本、图像、视频帧和音频映射到统一向量空间，参数量 740M。",
+    "url": "https://developers.googleblog.com/google-ai-edge-with-embeddinggemma-2/",
+    "published": "2026-10-06T00:00:00.000Z",
+    "source": "Google Developers Blog（RSS）",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "OpenAI 在 ChatGPT 推出全新视觉广告格式并扩展广告测量工具",
+    "summary": "OpenAI 宣布在 ChatGPT 推出新的视觉广告格式，本月起在美国于图像生成场景中测试，广告将明确标注且不影响 ChatGPT 的回答。",
+    "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+    "published": "2026-10-05T10:00:00.000Z",
+    "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "Liquid AI 发布 d1 决策模型并新增图像输入能力",
+    "summary": "Liquid AI 发布 d1 决策模型，新增文本与图像输入，可通过 console.liquid.ai 和 d1 Playground 使用。",
+    "url": "https://www.liquid.ai/blog/d1-decision-model",
+    "published": "2026-10-05T00:00:00.000Z",
+    "source": "Liquid AI 模型与工程博客（网页）",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "Nano Banana 2.1 now available on AI Gateway",
+    "summary": "<p><a href=\"https://vercel.com/ai-gateway/models/gemini-nano-banana-2.1\">Nano Banana 2.1</a> from <a href=\"https://vercel.com/ai-gateway/models/providers/google\">Google</a> is now available on <a href=\"https://vercel.com/ai-gateway\">AI Gateway</a>. It improves image generation and editing over earlier Nano Banana models.</p><p>This release targets product recontextualization, mask- and ink-based editing, and factuality. Product recontextualization places an existing product in a new scene. Mask-",
+    "url": "https://vercel.com/changelog/nano-banana-2-1-now-available-on-ai-gateway",
+    "published": "",
+    "source": "Vercel Blog (v0)",
+    "source_weight": "high",
+    "category": "design_tools"
   },
   {
     "title": "Under Autumn’s Spell (October 2026 Wallpapers Edition)",
     "summary": "October is just around the corner, which means it’s time for some new desktop wallpapers! Designed by the community for the community, they’re here to brighten your screens, and maybe spark some creativity along the way.",
     "url": "https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/",
     "published": "Wed, 30 Sep 2026 13:30:00 GMT",
+    "source": "Smashing Magazine",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "A Practical Guide To Naming Things",
+    "summary": "A practical guide to naming UI components, with useful resources, naming conventions, and structures.",
+    "url": "https://smashingmagazine.com/2026/10/how-name-things/",
+    "published": "Tue, 06 Oct 2026 10:00:00 GMT",
     "source": "Smashing Magazine",
     "source_weight": "medium",
     "category": "design_communities"
@@ -198,10 +198,28 @@
     "category": "design_communities"
   },
   {
-    "title": "In/tension modeling: what gives us the right?",
-    "summary": "<h4>How to navigate opposing voices and lived tensions.</h4><p>By <a href=\"https://www.linkedin.com/in/juliambeard?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABwxayIBU4KiU6GB8Zv-AgYhL27XR5Y2HEw&amp;lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3Bcd5zsp3yRWuBLy2ojlnhjA%3D%3D\">Julia Beard</a>, <a href=\"https://www.linkedin.com/in/namanmandhan/\">Naman Mandhan,</a> &amp; <a href=\"https://www.linkedin.com/in/staciesheldon/\">Stacie Sheldon</a></p><figure><img alt=\"A richly textured illustratio",
-    "url": "https://uxdesign.cc/in-tension-modeling-what-gives-us-the-right-01740248eb45?source=rss----138adf9c44c---4",
-    "published": "Fri, 02 Oct 2026 11:09:56 GMT",
+    "title": "Is Meta’s new AI agent easier to trust because it’s cute?",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/is-metas-new-ai-agent-easier-to-trust-because-it-s-cute-c8de13aefc6f?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/852/1*784GNB8X9O9PcH2kPQC5wg.png\" width=\"852\" /></a></p><p class=\"medium-feed-snippet\">Muse comes with an avatar you design and a keyring gadget. Few people would hand Meta their passwords, yet it topped the US App Store.</p><p class=\"medium-feed-link\"><a href=\"http",
+    "url": "https://uxdesign.cc/is-metas-new-ai-agent-easier-to-trust-because-it-s-cute-c8de13aefc6f?source=rss----138adf9c44c---4",
+    "published": "Mon, 05 Oct 2026 22:00:31 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "AI skill atrophy: Are we forgetting how to think?",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/ai-skill-atrophy-cognitive-offloading-1afbf92eb496?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1536/1*1dmBzmwrSPJqkQJa9oTRVg.png\" width=\"1536\" /></a></p><p class=\"medium-feed-snippet\">The hidden cost of outsourcing our thinking to AI.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/ai-skill-atrophy-cognitive-offloading-1afbf92eb496?source=rss----138adf9c44c---4\">Co",
+    "url": "https://uxdesign.cc/ai-skill-atrophy-cognitive-offloading-1afbf92eb496?source=rss----138adf9c44c---4",
+    "published": "Mon, 05 Oct 2026 22:00:12 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Prompt as self-portrait, De-slopifying your designs, The strategic designer",
+    "summary": "<h4>Weekly curated resources for designers — thinkers and makers.</h4><figure><a href=\"https://www.doc.cc/humankind/self-portrait\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/0*Sh11Cty6rJRkBK0I.png\" /></a></figure><p>“Every prompt is a confession. Before the model returns a word, the box has read me back: the clarity of my thinking, the range of my references, the questions I didn’t think to ask. I think I am describing a task, while in reality I am describing myself, my aspiration",
+    "url": "https://uxdesign.cc/prompt-as-self-portrait-de-slopifying-your-designs-the-strategic-designer-cf8162f43284?source=rss----138adf9c44c---4",
+    "published": "Mon, 05 Oct 2026 11:01:01 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"

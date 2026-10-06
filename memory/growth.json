@@ -1,5 +1,5 @@
 {
-  "day_count": 164,
+  "day_count": 166,
   "history": [
     {
       "day": 20,
@@ -972,6 +972,13 @@
       "date": "2026-10-04",
       "topic": "Baseten 工程师实测：LLM 生成的推理引擎比 vLLM 快最多 90%",
       "source": "Baseten 工程博客（网页）",
+      "mode": "rss"
+    },
+    {
+      "day": 166,
+      "date": "2026-10-06",
+      "topic": "Mistral Large 4 上线 Arena 的 Agent Arena 与 Code Arena 评测",
+      "source": "X：Arena (@arena)",
       "mode": "rss"
     }
   ],
