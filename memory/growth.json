@@ -1,5 +1,5 @@
 {
-  "day_count": 166,
+  "day_count": 167,
   "history": [
     {
       "day": 20,
@@ -979,6 +979,13 @@
       "date": "2026-10-06",
       "topic": "Mistral Large 4 上线 Arena 的 Agent Arena 与 Code Arena 评测",
       "source": "X：Arena (@arena)",
+      "mode": "rss"
+    },
+    {
+      "day": 167,
+      "date": "2026-10-07",
+      "topic": "Perplexity 开源 pplx-embed-v2-late 多模态 late-interaction 嵌入模型（9B 与 0.6B）",
+      "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
       "mode": "rss"
     }
   ],

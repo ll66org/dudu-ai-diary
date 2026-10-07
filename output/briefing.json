@@ -1,42 +1,42 @@
 [
   {
-    "title": "Mistral Large 4 上线 Arena 的 Agent Arena 与 Code Arena 评测",
-    "summary": "Arena 宣布 Mistral 的 Mistral Large 4 现已进入 Agent Arena，用户可前往测试投票，分数稍后公布。该模型为 1T 参数、49B 激活的原生多模态开放权重模型，也已在 Code Arena 的 WebDev、Text 和 Vision 中可用。",
-    "source": "X：Arena (@arena)",
-    "url": "https://x.com/arena/status/2107476436223504484",
-    "published_at": "2026-10-06T14:21:52.000Z",
+    "title": "Perplexity 开源 pplx-embed-v2-late 多模态 late-interaction 嵌入模型（9B 与 0.6B）",
+    "summary": "Perplexity 开源 pplx-embed-v2-late，两个针对文本和图像的 late-interaction 多向量嵌入模型，大小为 9B 和 0.6B，共享同一嵌入空间，权重已在 Hugging Face 提供。9B 可用于索引多模态数据，0.6B 可在设备端查询，无需 OCR 即可检索 PDF 页面；模",
+    "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+    "url": "https://x.com/AravSrinivas/status/2107871834205196784",
+    "published_at": "2026-10-07T16:33:02.000Z",
     "category": "ai-models"
   },
   {
-    "title": "Mistral Large 4 上线 OpenRouter 公测：1T 参数、512K 上下文",
-    "summary": "Mistral Large 4 现已在 OpenRouter 开放公测，规格为 1T 参数（49B 激活）、原生多模态、512K 上下文、最高 256K 输出。前两周五折：每 1M tokens 输入 $0.68、输出 $2.09，缓存 $0.07。",
-    "source": "X：OpenRouter (@OpenRouter)",
-    "url": "https://x.com/OpenRouter/status/2107471559040635360",
-    "published_at": "2026-10-06T14:02:29.000Z",
-    "category": "ai-products"
+    "title": "亚利桑那州法院裁定 AI 生成受害者视频带有不当情感分量 将重新量刑",
+    "summary": "亚利桑那州上诉法院裁定，Gabriel Horcasitas 2021 年路怒枪杀 Christopher Pelkey 一案维持过失杀人定罪，但因量刑听证中播放的 AI 生成受害者视频带有不当情感分量，法官须重新考虑刑期。",
+    "source": "404 Media（RSS）",
+    "url": "https://www.404media.co/undue-emotional-weight/",
+    "published_at": "2026-10-07T14:46:15.000Z",
+    "category": "industry"
   },
   {
-    "title": "Mistral 发布 Large 4 公开预览版，1 万亿参数将开放权重",
-    "summary": "Mistral 发布 Mistral Large 4（代号 le Chonk）公开预览版，为 1 万亿参数、490 亿激活参数的原生多模态模型，可试用于 Mistral Studio，权重将于本月底开放。",
-    "source": "Hacker News：AI 热帖",
-    "url": "https://mistral.ai/news/mistral-large-4/",
-    "published_at": "2026-10-06T13:25:50.000Z",
+    "title": "Liquid AI 发布开源决策模型 d1-3B 和 d1-omni-600M",
+    "summary": "Liquid AI 发布开源权重决策模型 d1-3B 和 d1-omni-600M，已在 Hugging Face 上提供。",
+    "source": "Liquid AI 模型与工程博客（网页）",
+    "url": "https://www.liquid.ai/blog/d1-open",
+    "published_at": "2026-10-07T00:00:00.000Z",
     "category": "ai-models"
   },
   {
-    "title": "Claude Code 云端会话实战指南：每个任务独占一台 VM，可并行跑任务并以分支收尾",
-    "summary": "Claude Code 推出云端会话：每个任务在独立 VM 上运行，仓库克隆到新分支，可从 claude.ai/code、手机、Desktop、终端和 Slack 启动并跟踪，完成后产出可转 PR 的分支，Pro、Max、Team、Enterprise 计划不额外收费。",
-    "source": "Anthropic：Claude.dev 开发者博客（RSS）",
-    "url": "https://claude.dev/blog/claude-code-in-the-cloud/",
-    "published_at": "2026-10-06T12:00:00.000Z",
-    "category": "tip"
+    "title": "GitHub 重建 Git 基础设施，应对智能体规模开发",
+    "summary": "GitHub 宣布重建 Git 基础设施，以支持智能体规模开发带来的高并发读写负载。2026 年 8 月 GitHub 月度 Git 事件量达 473.3 billion（一年翻倍以上），9 月智能体和开发者产生 7.38 billion commits（超一年前五倍），pushes 同比增长 4.9 倍。",
+    "source": "GitHub Blog",
+    "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/",
+    "published_at": "2026-10-06T20:57:56.000Z",
+    "category": "industry"
   },
   {
-    "title": "卡兹克解读 A16Z 两份 AI 报告：AI 使用很广但用得还浅，头部 1% 用户月均花 903 美元",
-    "summary": "作者解读 A16Z 第七版《Top 100 消费级 AI 应用》和 90 多页的《市场状况 II》报告，指出反常识数据。美国近一半人用过 AI 但只有 25% 每天在用，截至 2026 年 8 月仅 4.5% 有 ChatGPT、Gemini 或 Claude 个人付费订阅；付费用户中头部 1% 月均消费 903 美元",
-    "source": "X：卡兹克 (@Khazix0918)",
-    "url": "https://x.com/Khazix0918/status/2107297777583825359",
-    "published_at": "2026-10-06T02:31:56.000Z",
-    "category": "tip"
+    "title": "Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2",
+    "summary": "Google DeepMind 发布 EmbeddingGemma 2，基于 Gemma 4 架构，以 Apache 2.0 许可开源，将文本、代码、图像、视频和音频映射到统一嵌入空间。",
+    "source": "Google DeepMind：Blog（RSS）",
+    "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+    "published_at": "2026-10-06T19:57:04.000Z",
+    "category": "ai-models"
   }
 ]

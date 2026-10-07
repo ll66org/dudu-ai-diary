@@ -1,39 +1,84 @@
 [
   {
-    "title": "Will AI replace workers? Not if we build it right",
-    "summary": "<p>Article URL: <a href=\"https://humanistreview.ai/issue-1/acemoglu-ai-replace-workers/\">https://humanistreview.ai/issue-1/acemoglu-ai-replace-workers/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49981294\">https://news.ycombinator.com/item?id=49981294</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
-    "url": "https://humanistreview.ai/issue-1/acemoglu-ai-replace-workers/",
-    "published": "Tue, 06 Oct 2026 17:09:07 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Show HN: TOD,a universal Decision model based on Task Oriented Design",
-    "summary": "<p>Hi HN, we built TOD, a model and API for jevlike  LLM pipelines.<p>we have people using it for, routing a ticket, classifying intent, deciding whether something is urgent, or rating severity.<p>Architecture\n- 12B Gemma fine-tuned to score options. since it is gemma based it has multimodality built in\n- When there are >120 labels, we have a 150M retriever that narrows them to a shortlist (recall@16 is 0.9–1.0 on our evals), and the 12B model scores that shortlist.\n- Context goes up to 49k toke",
-    "url": "https://parseclab.ai/tod/",
-    "published": "Tue, 06 Oct 2026 17:07:37 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "In race with U.S., China struggles to recruit foreign AI researchers",
-    "summary": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/10/06/science/china-ai-research-recruitment.html\">https://www.nytimes.com/2026/10/06/science/china-ai-research-recruitment.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49980818\">https://news.ycombinator.com/item?id=49980818</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
-    "url": "https://www.nytimes.com/2026/10/06/science/china-ai-research-recruitment.html",
-    "published": "Tue, 06 Oct 2026 16:32:43 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Mistral Large 4 上线 Arena 的 Agent Arena 与 Code Arena 评测",
-    "summary": "Arena 宣布 Mistral 的 Mistral Large 4 现已进入 Agent Arena，用户可前往测试投票，分数稍后公布。该模型为 1T 参数、49B 激活的原生多模态开放权重模型，也已在 Code Arena 的 WebDev、Text 和 Vision 中可用。",
-    "url": "https://x.com/arena/status/2107476436223504484",
-    "published": "2026-10-06T14:21:52.000Z",
-    "source": "X：Arena (@arena)",
+    "title": "Perplexity 开源 pplx-embed-v2-late 多模态 late-interaction 嵌入模型（9B 与 0.6B）",
+    "summary": "Perplexity 开源 pplx-embed-v2-late，两个针对文本和图像的 late-interaction 多向量嵌入模型，大小为 9B 和 0.6B，共享同一嵌入空间，权重已在 Hugging Face 提供。9B 可用于索引多模态数据，0.6B 可在设备端查询，无需 OCR 即可检索 PDF 页面；模型在 MADQA 得分 92.4%，BrowseComp+ 得分 64%。",
+    "url": "https://x.com/AravSrinivas/status/2107871834205196784",
+    "published": "2026-10-07T16:33:02.000Z",
+    "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
     "source_weight": "high",
     "category": "ai-models"
+  },
+  {
+    "title": "亚利桑那州法院裁定 AI 生成受害者视频带有不当情感分量 将重新量刑",
+    "summary": "亚利桑那州上诉法院裁定，Gabriel Horcasitas 2021 年路怒枪杀 Christopher Pelkey 一案维持过失杀人定罪，但因量刑听证中播放的 AI 生成受害者视频带有不当情感分量，法官须重新考虑刑期。",
+    "url": "https://www.404media.co/undue-emotional-weight/",
+    "published": "2026-10-07T14:46:15.000Z",
+    "source": "404 Media（RSS）",
+    "source_weight": "high",
+    "category": "industry"
+  },
+  {
+    "title": "Liquid AI 发布开源决策模型 d1-3B 和 d1-omni-600M",
+    "summary": "Liquid AI 发布开源权重决策模型 d1-3B 和 d1-omni-600M，已在 Hugging Face 上提供。",
+    "url": "https://www.liquid.ai/blog/d1-open",
+    "published": "2026-10-07T00:00:00.000Z",
+    "source": "Liquid AI 模型与工程博客（网页）",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "GitHub 重建 Git 基础设施，应对智能体规模开发",
+    "summary": "GitHub 宣布重建 Git 基础设施，以支持智能体规模开发带来的高并发读写负载。2026 年 8 月 GitHub 月度 Git 事件量达 473.3 billion（一年翻倍以上），9 月智能体和开发者产生 7.38 billion commits（超一年前五倍），pushes 同比增长 4.9 倍。",
+    "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/",
+    "published": "2026-10-06T20:57:56.000Z",
+    "source": "GitHub Blog",
+    "source_weight": "high",
+    "category": "industry"
+  },
+  {
+    "title": "Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2",
+    "summary": "Google DeepMind 发布 EmbeddingGemma 2，基于 Gemma 4 架构，以 Apache 2.0 许可开源，将文本、代码、图像、视频和音频映射到统一嵌入空间。",
+    "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+    "published": "2026-10-06T19:57:04.000Z",
+    "source": "Google DeepMind：Blog（RSS）",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "亚利桑那州法院裁定AI生成受害者视频带有不当情感分量，凶手须重新量刑",
+    "summary": "亚利桑那州上诉法院裁定，Gabriel Horcasitas过失杀人案量刑中使用的受害者Christopher Pelkey AI生成视频带有不当情感重量，罪名维持但刑期须重新考虑。",
+    "url": "https://www.404media.co/her-ai-generated-video-swayed-the-judge-the-court-said-it-carried-undue-emotional-weight/",
+    "published": "2026-10-06T19:26:09.000Z",
+    "source": "404 Media（RSS）",
+    "source_weight": "high",
+    "category": "industry"
+  },
+  {
+    "title": "Sierra 与 Meta 联合多家企业发布 Personal Agent Protocol 开放协议",
+    "summary": "Sierra 与 Meta 联合 Genesys、Instinct、Rocket、Shopify、Stripe、Walmart 等伙伴宣布开发 Personal Agent Protocol，一个定义个人 AI 智能体如何与企业交互的开放标准，任何人都可实现。",
+    "url": "https://sierra.ai/blog/introducing-personal-agent-protocol",
+    "published": "2026-10-06T17:32:00.000Z",
+    "source": "Sierra：Blog（RSS）",
+    "source_weight": "high",
+    "category": "industry"
+  },
+  {
+    "title": "Claude for Google Workspace 开启 beta，可直接在 Docs、Sheets、Slides 中编辑",
+    "summary": "Claude 宣布推出 Claude for Google Workspace（beta），一次安装即可覆盖 Google Docs、Sheets 和 Slides。",
+    "url": "https://www.youtube.com/watch?v=idJQMJwHtyM",
+    "published": "2026-10-06T17:02:37.000Z",
+    "source": "Claude：YouTube（RSS）",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "LlamaIndex 发布 OpenDocRouter：一个 API 统一调用多种文档解析模型",
+    "summary": "LlamaIndex 推出 OpenDocRouter 平台，通过统一 API 将文档（PDF、PNG、JPEG 或 URL）解析为 markdown，接入 Claude Opus 5.5、Gemini 3 Flash、GPT-6 Luna 等 5 个前沿模型和 MinerU2.5-Pro、PaddleOCR-VL-1.6 等 5 个开源模型。",
+    "url": "https://www.llamaindex.ai/blog/introducing-opendocrouter",
+    "published": "2026-10-06T16:00:00.000Z",
+    "source": "LlamaIndex：产品、工程与评测",
+    "source_weight": "high",
+    "category": "ai-products"
   },
   {
     "title": "Mistral Large 4 上线 OpenRouter 公测：1T 参数、512K 上下文",
@@ -45,13 +90,13 @@
     "category": "ai-products"
   },
   {
-    "title": "Mistral 发布 Large 4 公开预览版，1 万亿参数将开放权重",
-    "summary": "Mistral 发布 Mistral Large 4（代号 le Chonk）公开预览版，为 1 万亿参数、490 亿激活参数的原生多模态模型，可试用于 Mistral Studio，权重将于本月底开放。",
-    "url": "https://mistral.ai/news/mistral-large-4/",
-    "published": "2026-10-06T13:25:50.000Z",
-    "source": "Hacker News：AI 热帖",
+    "title": "DailyHub",
+    "summary": "<p>\n            A personal command center for projects, tasks, and habits.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/dailyhub-a-quiet-workspace-for-your-day?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1272041?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/dailyhub-a-quiet-workspace-for-your-day",
+    "published": "2026-10-06T13:45:05-07:00",
+    "source": "Product Hunt",
     "source_weight": "high",
-    "category": "ai-models"
+    "category": "ai_tech"
   },
   {
     "title": "Claude Code 云端会话实战指南：每个任务独占一台 VM，可并行跑任务并以分支收尾",
@@ -61,6 +106,15 @@
     "source": "Anthropic：Claude.dev 开发者博客（RSS）",
     "source_weight": "high",
     "category": "tip"
+  },
+  {
+    "title": "Nano Banana 2.1",
+    "summary": "<p>\n            Google's image model with sharper design and mask editing\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/google?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1271953?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/google",
+    "published": "2026-10-06T11:54:11-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
   },
   {
     "title": "卡兹克解读 A16Z 两份 AI 报告：AI 使用很广但用得还浅，头部 1% 用户月均花 903 美元",
@@ -81,101 +135,38 @@
     "category": "tip"
   },
   {
-    "title": "Google 发布 EmbeddingGemma 2：基于 Gemma 4 的开源多模态嵌入模型",
-    "summary": "Google 发布基于 Gemma 4 的开源嵌入模型 EmbeddingGemma 2，采用 Apache 2.0 许可，将文本、代码、图像、视频和音频映射到统一的 768 维向量空间，参数量从 270M（文本/代码）到 740M（全模态）按需加载。",
-    "url": "https://developers.googleblog.com/embeddinggemma-2-the-developer-guide/",
+    "title": "Cursor iOS 应用支持远程控制本地智能体",
+    "summary": "Cursor 在 iOS 应用中上线本地智能体远程控制，用户可查看并回复电脑上正在运行的智能体。除企业组织外默认对所有用户开启，登录后账户中的电脑自动显示，在桌面应用批准配对即可使用。智能体仍在本机运行，需电脑保持开机联网，可在设置中开启防止休眠选项，企业管理员可在 Org settings 中开启此功能。",
+    "url": "https://cursor.com/changelog/remote-control-local-agents",
     "published": "2026-10-06T00:00:00.000Z",
-    "source": "Google Developers Blog（RSS）",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "Gemini Nano Banana 2.1 正式发布，gemini-3.1-flash-image 将于 2026 年 10 月 29 日停用",
-    "summary": "Google 发布 Gemini Nano Banana 2.1（gemini-nano-banana-2.1），定位为高效图像生成与对话式编辑模型，是 Nano Banana 2（gemini-3.1-flash-image）的更新版。",
-    "url": "https://ai.google.dev/gemini-api/docs/changelog#10-06-2026",
-    "published": "2026-10-06T00:00:00.000Z",
-    "source": "Gemini API：更新日志（网页）",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "Google DeepMind 发布多模态嵌入模型 EmbeddingGemma 2",
-    "summary": "Google DeepMind 于 10 月 6 日发布开放权重的多模态嵌入模型 EmbeddingGemma 2，将文本、图像、视频帧和音频映射到统一向量空间，参数量 740M。",
-    "url": "https://developers.googleblog.com/google-ai-edge-with-embeddinggemma-2/",
-    "published": "2026-10-06T00:00:00.000Z",
-    "source": "Google Developers Blog（RSS）",
+    "source": "Cursor：Changelog（网页）",
     "source_weight": "high",
     "category": "ai-products"
   },
   {
-    "title": "OpenAI 在 ChatGPT 推出全新视觉广告格式并扩展广告测量工具",
-    "summary": "OpenAI 宣布在 ChatGPT 推出新的视觉广告格式，本月起在美国于图像生成场景中测试，广告将明确标注且不影响 ChatGPT 的回答。",
-    "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-    "published": "2026-10-05T10:00:00.000Z",
-    "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Liquid AI 发布 d1 决策模型并新增图像输入能力",
-    "summary": "Liquid AI 发布 d1 决策模型，新增文本与图像输入，可通过 console.liquid.ai 和 d1 Playground 使用。",
-    "url": "https://www.liquid.ai/blog/d1-decision-model",
-    "published": "2026-10-05T00:00:00.000Z",
-    "source": "Liquid AI 模型与工程博客（网页）",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "Nano Banana 2.1 now available on AI Gateway",
-    "summary": "<p><a href=\"https://vercel.com/ai-gateway/models/gemini-nano-banana-2.1\">Nano Banana 2.1</a> from <a href=\"https://vercel.com/ai-gateway/models/providers/google\">Google</a> is now available on <a href=\"https://vercel.com/ai-gateway\">AI Gateway</a>. It improves image generation and editing over earlier Nano Banana models.</p><p>This release targets product recontextualization, mask- and ink-based editing, and factuality. Product recontextualization places an existing product in a new scene. Mask-",
-    "url": "https://vercel.com/changelog/nano-banana-2-1-now-available-on-ai-gateway",
+    "title": "Timestamp attributes are now supported in Vercel Flags",
+    "summary": "<p><a href=\"https://vercel.com/docs/feature-flags\">Vercel Flags</a> now supports timestamp attributes for <a href=\"https://vercel.com/docs/flags/vercel-flags/dashboard/entities\">entities</a>, which represent the users, teams, devices, or requests evaluated by a flag.</p><p>Use timestamp attributes to show a campaign page only between two dates, run a Black Friday promotion, or target users who registered before a cutoff.</p><h3>Configure a timestamp attribute</h3><p>You can configure timestamp a",
+    "url": "https://vercel.com/changelog/timestamp-attributes-are-now-supported-in-vercel-flags",
     "published": "",
     "source": "Vercel Blog (v0)",
     "source_weight": "high",
     "category": "design_tools"
   },
   {
-    "title": "Under Autumn’s Spell (October 2026 Wallpapers Edition)",
-    "summary": "October is just around the corner, which means it’s time for some new desktop wallpapers! Designed by the community for the community, they’re here to brighten your screens, and maybe spark some creativity along the way.",
-    "url": "https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/",
-    "published": "Wed, 30 Sep 2026 13:30:00 GMT",
-    "source": "Smashing Magazine",
+    "title": "Why designers need to stop reporting and start recommending at work",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/why-designers-need-to-stop-reporting-and-start-recommending-at-work-6fa861f58097?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*VYX61Q2fTzjGGBqtih7NAg.jpeg\" width=\"5823\" /></a></p><p class=\"medium-feed-snippet\">Sticky notes don&#x2019;t help your team. They need your direction</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/why-designers-need-to-stop-reporting-",
+    "url": "https://uxdesign.cc/why-designers-need-to-stop-reporting-and-start-recommending-at-work-6fa861f58097?source=rss----138adf9c44c---4",
+    "published": "Tue, 06 Oct 2026 23:35:06 GMT",
+    "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
   },
   {
     "title": "A Practical Guide To Naming Things",
-    "summary": "A practical guide to naming UI components, with useful resources, naming conventions, and structures.",
+    "summary": "A practical guide to naming UI components, with useful resources, naming conventions, and structures. You’ll find more [useful guides](https://www.smashingmagazine.com/category/guides/) and [online workshops](https://smashingconf.com/online-workshops) here on Smashing Magazine, so make sure to browse and explore.",
     "url": "https://smashingmagazine.com/2026/10/how-name-things/",
     "published": "Tue, 06 Oct 2026 10:00:00 GMT",
     "source": "Smashing Magazine",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Stop blaming the model for slow AI. Using Doherty’s threshold as a guideline.",
-    "summary": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*DfgDMmR-elZfFiXjEu8_KQ.png\" /><figcaption>Two eras of computing, held to the same 400 millisecond standard.</figcaption></figure><h3>Stop blaming the model for slow AI. Use Doherty’s threshold as a guideline.</h3><h4>Doherty’s threshold set the rules and has now moved from the answer to the acknowledgment. The fix is a week of front-end work and a definition of done, not cheaper inference.</h4><blockquote>Productivity soars when",
-    "url": "https://uxdesign.cc/stop-blaming-the-model-for-slow-ai-heres-how-to-design-for-it-doherty-s-threshold-as-a-guideline-5fa6d52e23fc?source=rss----138adf9c44c---4",
-    "published": "Thu, 01 Oct 2026 22:52:26 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Design’s consensus was AI’s first casualty",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/designs-consensus-was-ai-s-first-casualty-8143c1bada80?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2500/1*k4Gl0Tb1QEUT4UCinL8mng.jpeg\" width=\"2500\" /></a></p><p class=\"medium-feed-snippet\">The same evidence about AI is being read two opposite ways, leaving designers to choose without a clear consensus to lean on.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/desi",
-    "url": "https://uxdesign.cc/designs-consensus-was-ai-s-first-casualty-8143c1bada80?source=rss----138adf9c44c---4",
-    "published": "Thu, 01 Oct 2026 22:51:02 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "AI beyond average: from chatting to collaborating",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/ai-beyond-average-from-chatting-to-collaborating-7b308dd9317a?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1456/0*QUMNBmWOyUMJce0y.png\" width=\"1456\" /></a></p><p class=\"medium-feed-snippet\">How context, skills, and feedback turn the same model into a different kind of collaborator</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/ai-beyond-average-from-chatting-to-col",
-    "url": "https://uxdesign.cc/ai-beyond-average-from-chatting-to-collaborating-7b308dd9317a?source=rss----138adf9c44c---4",
-    "published": "Thu, 01 Oct 2026 22:49:51 GMT",
-    "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
   },
@@ -220,6 +211,15 @@
     "summary": "<h4>Weekly curated resources for designers — thinkers and makers.</h4><figure><a href=\"https://www.doc.cc/humankind/self-portrait\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/0*Sh11Cty6rJRkBK0I.png\" /></a></figure><p>“Every prompt is a confession. Before the model returns a word, the box has read me back: the clarity of my thinking, the range of my references, the questions I didn’t think to ask. I think I am describing a task, while in reality I am describing myself, my aspiration",
     "url": "https://uxdesign.cc/prompt-as-self-portrait-de-slopifying-your-designs-the-strategic-designer-cf8162f43284?source=rss----138adf9c44c---4",
     "published": "Mon, 05 Oct 2026 11:01:01 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "In/tension modeling: what gives us the right?",
+    "summary": "<h3><strong>In/Tension modeling: What gives us the right?</strong></h3><h4>How to navigate opposing voices and lived tensions.</h4><p>By <a href=\"https://www.linkedin.com/in/juliambeard?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABwxayIBU4KiU6GB8Zv-AgYhL27XR5Y2HEw&amp;lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3Bcd5zsp3yRWuBLy2ojlnhjA%3D%3D\">Julia Beard</a>, <a href=\"https://www.linkedin.com/in/namanmandhan/\">Naman Mandhan,</a> &amp; <a href=\"https://www.linkedin.com/in/staciesheldon/",
+    "url": "https://uxdesign.cc/in-tension-modeling-what-gives-us-the-right-01740248eb45?source=rss----138adf9c44c---4",
+    "published": "Fri, 02 Oct 2026 11:09:56 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
