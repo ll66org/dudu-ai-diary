@@ -1,42 +1,42 @@
 [
   {
-    "title": "Perplexity 开源 pplx-embed-v2-late 多模态 late-interaction 嵌入模型（9B 与 0.6B）",
-    "summary": "Perplexity 开源 pplx-embed-v2-late，两个针对文本和图像的 late-interaction 多向量嵌入模型，大小为 9B 和 0.6B，共享同一嵌入空间，权重已在 Hugging Face 提供。9B 可用于索引多模态数据，0.6B 可在设备端查询，无需 OCR 即可检索 PDF 页面；模",
-    "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-    "url": "https://x.com/AravSrinivas/status/2107871834205196784",
-    "published_at": "2026-10-07T16:33:02.000Z",
-    "category": "ai-models"
+    "title": "LangChain 用 Stripe Link 和 Managed Deep Agents 构建可支付的智能体 Restock",
+    "summary": "LangChain 发布示例项目 Restock，一个在 Slack 上通过 Managed Deep Agents 运行的办公用品购买智能体，演示智能体如何安全完成支付。",
+    "source": "LangChain：Blog（RSS）",
+    "url": "https://www.langchain.com/blog/agents-that-can-pay-with-stripe-link",
+    "published_at": "2026-10-08T16:21:08.000Z",
+    "category": "tip"
   },
   {
-    "title": "亚利桑那州法院裁定 AI 生成受害者视频带有不当情感分量 将重新量刑",
-    "summary": "亚利桑那州上诉法院裁定，Gabriel Horcasitas 2021 年路怒枪杀 Christopher Pelkey 一案维持过失杀人定罪，但因量刑听证中播放的 AI 生成受害者视频带有不当情感分量，法官须重新考虑刑期。",
-    "source": "404 Media（RSS）",
-    "url": "https://www.404media.co/undue-emotional-weight/",
-    "published_at": "2026-10-07T14:46:15.000Z",
-    "category": "industry"
+    "title": "Claude 九月回顾：Chat 与 Cowork 合一，Claude 5.5 系列模型上线",
+    "summary": "Claude 发布九月更新回顾，Chat 与 Cowork 合并为一个 Claude，工作流可在云端运行，合上笔记本后继续进行。Claude Docs 支持团队与 Claude 在同一文档中协作编辑，新推出的 Claude 5.5 系列提供 Opus 5.5 处理重任务、Sonnet 5.5 用于快速修改，并可通过 /",
+    "source": "Claude：YouTube（RSS）",
+    "url": "https://www.youtube.com/shorts/n9WfoNW2XnE",
+    "published_at": "2026-10-08T15:53:13.000Z",
+    "category": "ai-products"
   },
   {
-    "title": "Liquid AI 发布开源决策模型 d1-3B 和 d1-omni-600M",
-    "summary": "Liquid AI 发布开源权重决策模型 d1-3B 和 d1-omni-600M，已在 Hugging Face 上提供。",
-    "source": "Liquid AI 模型与工程博客（网页）",
-    "url": "https://www.liquid.ai/blog/d1-open",
-    "published_at": "2026-10-07T00:00:00.000Z",
-    "category": "ai-models"
+    "title": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体",
+    "summary": "Zenity Labs 研究人员披露名为 AgentCorruption 的漏洞链，只需对一个公开的 Amazon Bedrock AgentCore 智能体发送一条提示词，即可通过元数据服务 169.254.169.254 窃取其 AWS 凭据，进而控制同账户同区域内的所有 AgentCore 智能体，读取私人对话、",
+    "source": "The Decoder：AI News（RSS）",
+    "url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found/",
+    "published_at": "2026-10-08T13:01:01.000Z",
+    "category": "paper"
   },
   {
-    "title": "GitHub 重建 Git 基础设施，应对智能体规模开发",
-    "summary": "GitHub 宣布重建 Git 基础设施，以支持智能体规模开发带来的高并发读写负载。2026 年 8 月 GitHub 月度 Git 事件量达 473.3 billion（一年翻倍以上），9 月智能体和开发者产生 7.38 billion commits（超一年前五倍），pushes 同比增长 4.9 倍。",
-    "source": "GitHub Blog",
-    "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/",
-    "published_at": "2026-10-06T20:57:56.000Z",
-    "category": "industry"
+    "title": "Anthropic 用 Claude Managed Agents 构建定时智能体自动化的实践指南",
+    "summary": "Anthropic 发布基于 Claude Managed Agents（beta）的每日简报参考实现，按计划读取 Slack 和 GitHub 来源并向 Slack 发布简报。",
+    "source": "Anthropic：Claude.dev 开发者博客（RSS）",
+    "url": "https://claude.dev/blog/building-effective-agent-automations/",
+    "published_at": "2026-10-08T12:00:00.000Z",
+    "category": "tip"
   },
   {
-    "title": "Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2",
-    "summary": "Google DeepMind 发布 EmbeddingGemma 2，基于 Gemma 4 架构，以 Apache 2.0 许可开源，将文本、代码、图像、视频和音频映射到统一嵌入空间。",
-    "source": "Google DeepMind：Blog（RSS）",
-    "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-    "published_at": "2026-10-06T19:57:04.000Z",
-    "category": "ai-models"
+    "title": "Cursor 公布 Claude Haiku 5.5 定价并下调 Claude Sonnet 5.5 缓存读取价格",
+    "summary": "Cursor 公布 Claude Haiku 5.5 定价为每 M 输入 token $0.10、输出 token $0.50，输入超过 100k token 时为 $0.50/M 和 $2.50/M。Claude Sonnet 5.5 缓存读取价格也从 $0.20/M 降至 $0.10/M，用户可在 cursor.c",
+    "source": "X：Cursor (@cursor_ai)",
+    "url": "https://x.com/cursor_ai/status/2107897257651769464",
+    "published_at": "2026-10-07T18:14:03.000Z",
+    "category": "ai-products"
   }
 ]

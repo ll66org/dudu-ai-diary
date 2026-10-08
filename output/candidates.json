@@ -1,12 +1,138 @@
 [
   {
-    "title": "Perplexity 开源 pplx-embed-v2-late 多模态 late-interaction 嵌入模型（9B 与 0.6B）",
-    "summary": "Perplexity 开源 pplx-embed-v2-late，两个针对文本和图像的 late-interaction 多向量嵌入模型，大小为 9B 和 0.6B，共享同一嵌入空间，权重已在 Hugging Face 提供。9B 可用于索引多模态数据，0.6B 可在设备端查询，无需 OCR 即可检索 PDF 页面；模型在 MADQA 得分 92.4%，BrowseComp+ 得分 64%。",
-    "url": "https://x.com/AravSrinivas/status/2107871834205196784",
-    "published": "2026-10-07T16:33:02.000Z",
-    "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+    "title": "Someone rebuilt free, open-source versions of Adobe software using AI",
+    "summary": "<p>Article URL: <a href=\"https://petapixel.com/2026/10/07/someone-rebuilt-free-open-source-versions-of-photoshop-premiere-and-lightroom-using-ai/\">https://petapixel.com/2026/10/07/someone-rebuilt-free-open-source-versions-of-photoshop-premiere-and-lightroom-using-ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50008993\">https://news.ycombinator.com/item?id=50008993</a></p>\n<p>Points: 2</p>\n<p># Comments: 2</p>",
+    "url": "https://petapixel.com/2026/10/07/someone-rebuilt-free-open-source-versions-of-photoshop-premiere-and-lightroom-using-ai/",
+    "published": "Thu, 08 Oct 2026 17:34:31 +0000",
+    "source": "Hacker News (设计向)",
     "source_weight": "high",
-    "category": "ai-models"
+    "category": "ai_tech"
+  },
+  {
+    "title": "We reverse engineered ChatGPT Intelligent UI",
+    "summary": "<p>Article URL: <a href=\"https://www.openui.com/blog/how-chatgpt-intelligent-ui-works\">https://www.openui.com/blog/how-chatgpt-intelligent-ui-works</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50008914\">https://news.ycombinator.com/item?id=50008914</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+    "url": "https://www.openui.com/blog/how-chatgpt-intelligent-ui-works",
+    "published": "Thu, 08 Oct 2026 17:30:44 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "DeepRoute: An autorouter built for the AI era",
+    "summary": "<p>Article URL: <a href=\"https://www.zeroasic.com/blog/deeproute-tournament\">https://www.zeroasic.com/blog/deeproute-tournament</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50008853\">https://news.ycombinator.com/item?id=50008853</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+    "url": "https://www.zeroasic.com/blog/deeproute-tournament",
+    "published": "Thu, 08 Oct 2026 17:26:18 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "LangChain 用 Stripe Link 和 Managed Deep Agents 构建可支付的智能体 Restock",
+    "summary": "LangChain 发布示例项目 Restock，一个在 Slack 上通过 Managed Deep Agents 运行的办公用品购买智能体，演示智能体如何安全完成支付。",
+    "url": "https://www.langchain.com/blog/agents-that-can-pay-with-stripe-link",
+    "published": "2026-10-08T16:21:08.000Z",
+    "source": "LangChain：Blog（RSS）",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "Claude 九月回顾：Chat 与 Cowork 合一，Claude 5.5 系列模型上线",
+    "summary": "Claude 发布九月更新回顾，Chat 与 Cowork 合并为一个 Claude，工作流可在云端运行，合上笔记本后继续进行。Claude Docs 支持团队与 Claude 在同一文档中协作编辑，新推出的 Claude 5.5 系列提供 Opus 5.5 处理重任务、Sonnet 5.5 用于快速修改，并可通过 /slides、/docs、/designs 直接生成对应格式。",
+    "url": "https://www.youtube.com/shorts/n9WfoNW2XnE",
+    "published": "2026-10-08T15:53:13.000Z",
+    "source": "Claude：YouTube（RSS）",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体",
+    "summary": "Zenity Labs 研究人员披露名为 AgentCorruption 的漏洞链，只需对一个公开的 Amazon Bedrock AgentCore 智能体发送一条提示词，即可通过元数据服务 169.254.169.254 窃取其 AWS 凭据，进而控制同账户同区域内的所有 AgentCore 智能体，读取私人对话、源代码和存储的凭据，还能篡改长期记忆。",
+    "url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found/",
+    "published": "2026-10-08T13:01:01.000Z",
+    "source": "The Decoder：AI News（RSS）",
+    "source_weight": "high",
+    "category": "paper"
+  },
+  {
+    "title": "Anthropic 用 Claude Managed Agents 构建定时智能体自动化的实践指南",
+    "summary": "Anthropic 发布基于 Claude Managed Agents（beta）的每日简报参考实现，按计划读取 Slack 和 GitHub 来源并向 Slack 发布简报。",
+    "url": "https://claude.dev/blog/building-effective-agent-automations/",
+    "published": "2026-10-08T12:00:00.000Z",
+    "source": "Anthropic：Claude.dev 开发者博客（RSS）",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "pmtui",
+    "summary": "<p>\n            Autopilot for long-running AI sessions in terminal\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/pmtui?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1273335?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/pmtui",
+    "published": "2026-10-07T21:13:17-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Claude for Google Workspace",
+    "summary": "<p>\n            Bring Claude directly into Google Docs, Sheets & Slides\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/claude-for-google-workspace?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1273268?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/claude-for-google-workspace",
+    "published": "2026-10-07T19:20:15-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Cursor 公布 Claude Haiku 5.5 定价并下调 Claude Sonnet 5.5 缓存读取价格",
+    "summary": "Cursor 公布 Claude Haiku 5.5 定价为每 M 输入 token $0.10、输出 token $0.50，输入超过 100k token 时为 $0.50/M 和 $2.50/M。Claude Sonnet 5.5 缓存读取价格也从 $0.20/M 降至 $0.10/M，用户可在 cursor.com/evals 上通过 CursorBench 对比 Haiku 5.5 的表现。",
+    "url": "https://x.com/cursor_ai/status/2107897257651769464",
+    "published": "2026-10-07T18:14:03.000Z",
+    "source": "X：Cursor (@cursor_ai)",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "Claude Code v2.1.293 发布：新增 Claude Haiku 5.5 并修复大量问题",
+    "summary": "Claude Code 发布 v2.1.293，新增 Claude Haiku 5.5（claude-haiku-5-5）作为 Anthropic API 默认 Haiku 模型，支持 1M 上下文，价格为 $0.10/$0.50 每百万 token（超 100K 提示为 $0.50/$2.50）。",
+    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.293",
+    "published": "2026-10-07T18:10:20.000Z",
+    "source": "Claude Code：GitHub Releases（RSS）",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "Anthropic 为 Claude Max 和 Team 套餐推出月度 Platform API 额度",
+    "summary": "Anthropic 正在为 Claude Max 和 Team 套餐推出月度 Claude Platform API 额度：Max 5x 为 $100，Max 20x 为 $200，Team 最多 $500 且可共享。额度适用于任何模型，包括 Haiku 5.5，可在自己的代码或第三方 harness 中使用。",
+    "url": "https://x.com/ClaudeDevs/status/2107895957933408429",
+    "published": "2026-10-07T18:08:53.000Z",
+    "source": "X：Claude Devs (@ClaudeDevs)",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "Anthropic 将 Claude Sonnet 5.5 缓存读取价格减半至每百万 token $0.10",
+    "summary": "Anthropic 宣布将 Claude Sonnet 5.5 的缓存读取价格减半，降至每百万 token $0.10。官方称这使 Sonnet 5.5 在多数长期运行任务上的运行成本降低约 20%。",
+    "url": "https://x.com/claudeai/status/2107894060229034197",
+    "published": "2026-10-07T18:01:21.000Z",
+    "source": "X：Claude (@claudeai)",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "OpenAI 向全部 ChatGPT 用户推出 GPT-6 与 Intelligent UI",
+    "summary": "OpenAI 发布面向更广泛用户的 GPT-6，并随 GPT-6 在 ChatGPT 中引入 Intelligent UI，可生成图形、按钮、表单、图表和可交互组件来回答问题。",
+    "url": "https://openai.com/index/gpt-6-for-everyone/",
+    "published": "2026-10-07T18:00:58.000Z",
+    "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "Tessl 工程博客：AI 不是笨，是瞎——企业级 Agent 记忆的三个关键设计决策",
+    "summary": "作者基于为跨公司工作的 Agent 构建记忆系统一年的经验指出，AI 失败的常见原因不是模型推理差，而是它看不到关键决策上下文，多数 agent memory 只是给瞎子更大的档案柜。",
+    "url": "https://tessl.io/blog/your-ai-isnt-stupid-its-blind",
+    "published": "2026-10-07T16:00:00.000Z",
+    "source": "Tessl：产品与工程博客",
+    "source_weight": "high",
+    "category": "tip"
   },
   {
     "title": "亚利桑那州法院裁定 AI 生成受害者视频带有不当情感分量 将重新量刑",
@@ -45,181 +171,55 @@
     "category": "ai-models"
   },
   {
-    "title": "亚利桑那州法院裁定AI生成受害者视频带有不当情感分量，凶手须重新量刑",
-    "summary": "亚利桑那州上诉法院裁定，Gabriel Horcasitas过失杀人案量刑中使用的受害者Christopher Pelkey AI生成视频带有不当情感重量，罪名维持但刑期须重新考虑。",
-    "url": "https://www.404media.co/her-ai-generated-video-swayed-the-judge-the-court-said-it-carried-undue-emotional-weight/",
-    "published": "2026-10-06T19:26:09.000Z",
-    "source": "404 Media（RSS）",
-    "source_weight": "high",
-    "category": "industry"
-  },
-  {
-    "title": "Sierra 与 Meta 联合多家企业发布 Personal Agent Protocol 开放协议",
-    "summary": "Sierra 与 Meta 联合 Genesys、Instinct、Rocket、Shopify、Stripe、Walmart 等伙伴宣布开发 Personal Agent Protocol，一个定义个人 AI 智能体如何与企业交互的开放标准，任何人都可实现。",
-    "url": "https://sierra.ai/blog/introducing-personal-agent-protocol",
-    "published": "2026-10-06T17:32:00.000Z",
-    "source": "Sierra：Blog（RSS）",
-    "source_weight": "high",
-    "category": "industry"
-  },
-  {
-    "title": "Claude for Google Workspace 开启 beta，可直接在 Docs、Sheets、Slides 中编辑",
-    "summary": "Claude 宣布推出 Claude for Google Workspace（beta），一次安装即可覆盖 Google Docs、Sheets 和 Slides。",
-    "url": "https://www.youtube.com/watch?v=idJQMJwHtyM",
-    "published": "2026-10-06T17:02:37.000Z",
-    "source": "Claude：YouTube（RSS）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "LlamaIndex 发布 OpenDocRouter：一个 API 统一调用多种文档解析模型",
-    "summary": "LlamaIndex 推出 OpenDocRouter 平台，通过统一 API 将文档（PDF、PNG、JPEG 或 URL）解析为 markdown，接入 Claude Opus 5.5、Gemini 3 Flash、GPT-6 Luna 等 5 个前沿模型和 MinerU2.5-Pro、PaddleOCR-VL-1.6 等 5 个开源模型。",
-    "url": "https://www.llamaindex.ai/blog/introducing-opendocrouter",
-    "published": "2026-10-06T16:00:00.000Z",
-    "source": "LlamaIndex：产品、工程与评测",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Mistral Large 4 上线 OpenRouter 公测：1T 参数、512K 上下文",
-    "summary": "Mistral Large 4 现已在 OpenRouter 开放公测，规格为 1T 参数（49B 激活）、原生多模态、512K 上下文、最高 256K 输出。前两周五折：每 1M tokens 输入 $0.68、输出 $2.09，缓存 $0.07。",
-    "url": "https://x.com/OpenRouter/status/2107471559040635360",
-    "published": "2026-10-06T14:02:29.000Z",
-    "source": "X：OpenRouter (@OpenRouter)",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "DailyHub",
-    "summary": "<p>\n            A personal command center for projects, tasks, and habits.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/dailyhub-a-quiet-workspace-for-your-day?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1272041?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/dailyhub-a-quiet-workspace-for-your-day",
-    "published": "2026-10-06T13:45:05-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Claude Code 云端会话实战指南：每个任务独占一台 VM，可并行跑任务并以分支收尾",
-    "summary": "Claude Code 推出云端会话：每个任务在独立 VM 上运行，仓库克隆到新分支，可从 claude.ai/code、手机、Desktop、终端和 Slack 启动并跟踪，完成后产出可转 PR 的分支，Pro、Max、Team、Enterprise 计划不额外收费。",
-    "url": "https://claude.dev/blog/claude-code-in-the-cloud/",
-    "published": "2026-10-06T12:00:00.000Z",
-    "source": "Anthropic：Claude.dev 开发者博客（RSS）",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "Nano Banana 2.1",
-    "summary": "<p>\n            Google's image model with sharper design and mask editing\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/google?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1271953?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/google",
-    "published": "2026-10-06T11:54:11-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "卡兹克解读 A16Z 两份 AI 报告：AI 使用很广但用得还浅，头部 1% 用户月均花 903 美元",
-    "summary": "作者解读 A16Z 第七版《Top 100 消费级 AI 应用》和 90 多页的《市场状况 II》报告，指出反常识数据。美国近一半人用过 AI 但只有 25% 每天在用，截至 2026 年 8 月仅 4.5% 有 ChatGPT、Gemini 或 Claude 个人付费订阅；付费用户中头部 1% 月均消费 903 美元、贡献 19.5% 的全部消费。",
-    "url": "https://x.com/Khazix0918/status/2107297777583825359",
-    "published": "2026-10-06T02:31:56.000Z",
-    "source": "X：卡兹克 (@Khazix0918)",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "卡兹克解读A16Z两份AI报告，AI使用广但付费和深度仍小众",
-    "summary": "作者解读A16Z第七版《Top 100 消费级 AI 应用》和90多页的《市场状况 II》报告，指出美国近一半人用过AI但仅25%每天使用，ChatGPT、Gemini或Claude个人付费订阅率仅4.5%，标普500公司只有2%长期追踪AI价值指标。",
-    "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686876&idx=1&sn=55c719c9dded44507dbd2a000a2ec5a7",
-    "published": "2026-10-06T00:18:00.000Z",
-    "source": "公众号：数字生命卡兹克",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "Cursor iOS 应用支持远程控制本地智能体",
-    "summary": "Cursor 在 iOS 应用中上线本地智能体远程控制，用户可查看并回复电脑上正在运行的智能体。除企业组织外默认对所有用户开启，登录后账户中的电脑自动显示，在桌面应用批准配对即可使用。智能体仍在本机运行，需电脑保持开机联网，可在设置中开启防止休眠选项，企业管理员可在 Org settings 中开启此功能。",
-    "url": "https://cursor.com/changelog/remote-control-local-agents",
-    "published": "2026-10-06T00:00:00.000Z",
-    "source": "Cursor：Changelog（网页）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Timestamp attributes are now supported in Vercel Flags",
-    "summary": "<p><a href=\"https://vercel.com/docs/feature-flags\">Vercel Flags</a> now supports timestamp attributes for <a href=\"https://vercel.com/docs/flags/vercel-flags/dashboard/entities\">entities</a>, which represent the users, teams, devices, or requests evaluated by a flag.</p><p>Use timestamp attributes to show a campaign page only between two dates, run a Black Friday promotion, or target users who registered before a cutoff.</p><h3>Configure a timestamp attribute</h3><p>You can configure timestamp a",
-    "url": "https://vercel.com/changelog/timestamp-attributes-are-now-supported-in-vercel-flags",
+    "title": "Vercel Sandbox creation now returns a ready sandbox",
+    "summary": "<p>A new Vercel Sandbox is now ready to run commands and read or write files when creation completes.</p><p><code>Sandbox.create()</code> now resolves only after snapshot restoration completes, so the first command or file operation no longer waits for it. Startup errors also reject <code>Sandbox.create()</code> instead of surfacing during that operation.</p><div></div><p>Snapshot restoration time now counts toward creation instead of the first operation. Creation is about 50 ms longer at p50, w",
+    "url": "https://vercel.com/changelog/sandbox-create-waits-until-ready",
     "published": "",
     "source": "Vercel Blog (v0)",
     "source_weight": "high",
     "category": "design_tools"
   },
   {
+    "title": "Step 5 Preview now available on AI Gateway",
+    "summary": "<p><a href=\"https://vercel.com/ai-gateway/models/step-5-preview\">Step 5 Preview</a>, StepFun's flagship model, is now available on <a href=\"https://vercel.com/ai-gateway\">AI Gateway</a>. It's built for agentic coding, professional knowledge work, and financial analysis, from building apps and debugging code to research and analytical reports.</p><p>Step 5 Preview supports text and image input with a 1M-token context window, allowing you to work with large codebases, a stack of documents, or scre",
+    "url": "https://vercel.com/changelog/step-5-preview-now-available-on-ai-gateway",
+    "published": "",
+    "source": "Vercel Blog (v0)",
+    "source_weight": "high",
+    "category": "design_tools"
+  },
+  {
+    "title": "FLUX 3 Image now available on AI Gateway",
+    "summary": "<p><a href=\"https://vercel.com/ai-gateway/models/flux-3-image\">FLUX 3 Image</a> from Black Forest Labs is now available on AI Gateway. Generate images from text or edit existing images using the same model, with one API key and no Black Forest Labs account required.</p><p>FLUX 3 Image supports up to ten reference images for editing, combining subjects, or changing the composition. It supports five resolution tiers from 768 × 768 to 4K, with square, portrait, and landscape aspect ratios.</p><p>Se",
+    "url": "https://vercel.com/changelog/flux-3-image-now-available-on-ai-gateway",
+    "published": "",
+    "source": "Vercel Blog (v0)",
+    "source_weight": "high",
+    "category": "design_tools"
+  },
+  {
+    "title": "Bounded delegation: How much authority should AI have?",
+    "summary": "<h4><em>A practical model for deciding what AI can do, what humans must still own, and where product teams should draw the boundary.</em></h4><figure><img alt=\"Editorial concept showing a visible boundary between delegated AI work and accountable human judgment. Avoid robots, glowing brains, handshake clichés, and generic futuristic interfaces.\" src=\"https://cdn-images-1.medium.com/max/1024/0*s2u8cr6hv5yDHDZ3.png\" /><figcaption><em>Image created by the author with OpenAI image generation.</em></",
+    "url": "https://uxdesign.cc/bounded-delegation-how-much-authority-should-ai-have-823a58fb4192?source=rss----138adf9c44c---4",
+    "published": "Wed, 07 Oct 2026 19:54:06 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Beyond streaks and nudges: ethical gamification & AI design",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/beyond-streaks-and-nudges-ethical-gamification-ai-design-1c4f6e8ef2cc?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/600/1*BzDLC65lxOHmHIgAg8ykxA.png\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">Part 1 of 3 on designing systems that inspire rather than manipulate.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/beyond-streaks-and-nudges-ethical-gamification-a",
+    "url": "https://uxdesign.cc/beyond-streaks-and-nudges-ethical-gamification-ai-design-1c4f6e8ef2cc?source=rss----138adf9c44c---4",
+    "published": "Wed, 07 Oct 2026 19:48:49 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
     "title": "Why designers need to stop reporting and start recommending at work",
     "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/why-designers-need-to-stop-reporting-and-start-recommending-at-work-6fa861f58097?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*VYX61Q2fTzjGGBqtih7NAg.jpeg\" width=\"5823\" /></a></p><p class=\"medium-feed-snippet\">Sticky notes don&#x2019;t help your team. They need your direction</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/why-designers-need-to-stop-reporting-",
     "url": "https://uxdesign.cc/why-designers-need-to-stop-reporting-and-start-recommending-at-work-6fa861f58097?source=rss----138adf9c44c---4",
     "published": "Tue, 06 Oct 2026 23:35:06 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "A Practical Guide To Naming Things",
-    "summary": "A practical guide to naming UI components, with useful resources, naming conventions, and structures. You’ll find more [useful guides](https://www.smashingmagazine.com/category/guides/) and [online workshops](https://smashingconf.com/online-workshops) here on Smashing Magazine, so make sure to browse and explore.",
-    "url": "https://smashingmagazine.com/2026/10/how-name-things/",
-    "published": "Tue, 06 Oct 2026 10:00:00 GMT",
-    "source": "Smashing Magazine",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "The building was there first",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-building-was-there-first-26c6c4e49ba8?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2500/1*D81JpDsqoeWmW9smhqc5Qw.jpeg\" width=\"2500\" /></a></p><p class=\"medium-feed-snippet\">A style&#x2019;s real output isn&#x2019;t what it makes. It&#x2019;s the category it installs in whoever looks.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/the-building-was-there-first-26",
-    "url": "https://uxdesign.cc/the-building-was-there-first-26c6c4e49ba8?source=rss----138adf9c44c---4",
-    "published": "Sun, 04 Oct 2026 14:34:28 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "The feed I produce myself",
-    "summary": "<h4>On working with agents, producing more than ever, and losing the ability to see anything whole.</h4><figure><img alt=\"A human conductor from behind faces an orchestra of robots in blue mist.\" src=\"https://cdn-images-1.medium.com/max/1024/1*IdGInOuO4jsmUFdz0chJRg.png\" /><figcaption>Maestro, we have six more deliveries ready — Created by the author with AI</figcaption></figure><p>I'm writing this on a Sunday morning. While I write, several agents are working in other tabs on my computer, on pr",
-    "url": "https://uxdesign.cc/the-feed-i-produce-myself-11e4192f394c?source=rss----138adf9c44c---4",
-    "published": "Sat, 03 Oct 2026 11:12:42 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Is Meta’s new AI agent easier to trust because it’s cute?",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/is-metas-new-ai-agent-easier-to-trust-because-it-s-cute-c8de13aefc6f?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/852/1*784GNB8X9O9PcH2kPQC5wg.png\" width=\"852\" /></a></p><p class=\"medium-feed-snippet\">Muse comes with an avatar you design and a keyring gadget. Few people would hand Meta their passwords, yet it topped the US App Store.</p><p class=\"medium-feed-link\"><a href=\"http",
-    "url": "https://uxdesign.cc/is-metas-new-ai-agent-easier-to-trust-because-it-s-cute-c8de13aefc6f?source=rss----138adf9c44c---4",
-    "published": "Mon, 05 Oct 2026 22:00:31 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "AI skill atrophy: Are we forgetting how to think?",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/ai-skill-atrophy-cognitive-offloading-1afbf92eb496?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1536/1*1dmBzmwrSPJqkQJa9oTRVg.png\" width=\"1536\" /></a></p><p class=\"medium-feed-snippet\">The hidden cost of outsourcing our thinking to AI.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/ai-skill-atrophy-cognitive-offloading-1afbf92eb496?source=rss----138adf9c44c---4\">Co",
-    "url": "https://uxdesign.cc/ai-skill-atrophy-cognitive-offloading-1afbf92eb496?source=rss----138adf9c44c---4",
-    "published": "Mon, 05 Oct 2026 22:00:12 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Prompt as self-portrait, De-slopifying your designs, The strategic designer",
-    "summary": "<h4>Weekly curated resources for designers — thinkers and makers.</h4><figure><a href=\"https://www.doc.cc/humankind/self-portrait\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/0*Sh11Cty6rJRkBK0I.png\" /></a></figure><p>“Every prompt is a confession. Before the model returns a word, the box has read me back: the clarity of my thinking, the range of my references, the questions I didn’t think to ask. I think I am describing a task, while in reality I am describing myself, my aspiration",
-    "url": "https://uxdesign.cc/prompt-as-self-portrait-de-slopifying-your-designs-the-strategic-designer-cf8162f43284?source=rss----138adf9c44c---4",
-    "published": "Mon, 05 Oct 2026 11:01:01 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "In/tension modeling: what gives us the right?",
-    "summary": "<h3><strong>In/Tension modeling: What gives us the right?</strong></h3><h4>How to navigate opposing voices and lived tensions.</h4><p>By <a href=\"https://www.linkedin.com/in/juliambeard?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABwxayIBU4KiU6GB8Zv-AgYhL27XR5Y2HEw&amp;lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3Bcd5zsp3yRWuBLy2ojlnhjA%3D%3D\">Julia Beard</a>, <a href=\"https://www.linkedin.com/in/namanmandhan/\">Naman Mandhan,</a> &amp; <a href=\"https://www.linkedin.com/in/staciesheldon/",
-    "url": "https://uxdesign.cc/in-tension-modeling-what-gives-us-the-right-01740248eb45?source=rss----138adf9c44c---4",
-    "published": "Fri, 02 Oct 2026 11:09:56 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"

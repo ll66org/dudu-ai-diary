@@ -1,5 +1,5 @@
 {
-  "day_count": 167,
+  "day_count": 168,
   "history": [
     {
       "day": 20,
@@ -986,6 +986,13 @@
       "date": "2026-10-07",
       "topic": "Perplexity 开源 pplx-embed-v2-late 多模态 late-interaction 嵌入模型（9B 与 0.6B）",
       "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+      "mode": "rss"
+    },
+    {
+      "day": 168,
+      "date": "2026-10-08",
+      "topic": "LangChain 用 Stripe Link 和 Managed Deep Agents 构建可支付的智能体 Restock",
+      "source": "LangChain：Blog（RSS）",
       "mode": "rss"
     }
   ],
