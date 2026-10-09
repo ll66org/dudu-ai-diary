@@ -1,14 +1,14 @@
 {
-  "fetched_at": "2026-10-08T17:58:29.048371Z",
-  "total_candidates": 25,
+  "fetched_at": "2026-10-09T17:31:54.144885Z",
+  "total_candidates": 23,
   "source_stats": {
     "Figma Blog": {
       "found": 0,
       "total": 0
     },
     "Vercel Blog (v0)": {
-      "found": 3,
-      "total": 1643
+      "found": 0,
+      "total": 1645
     },
     "Cursor Changelog": {
       "found": 0,
@@ -35,7 +35,7 @@
       "total": 40
     },
     "UX Collective": {
-      "found": 7,
+      "found": 8,
       "total": 10
     },
     "Designer News": {
@@ -51,11 +51,11 @@
       "total": 20
     },
     "Hacker News (设计向)": {
-      "found": 3,
-      "total": 20
+      "found": 0,
+      "total": 0
     },
     "Product Hunt": {
-      "found": 3,
+      "found": 0,
       "total": 50
     },
     "Designer News (AI Design)": {
@@ -64,27 +64,27 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 168,
-  "today_date": "2026-10-08",
+  "dudu_day": 169,
+  "today_date": "2026-10-09",
   "used_titles": [
-    "Hugging Face CEO 称被 NVIDIA 收购后可招募人才并用十年推动开源 AI 取胜",
     "Arena 开放限时测试 Claude Sonnet 5.5，Direct Mode 可用 48 小时",
     "Claude Sonnet 5.5 (xHigh) 以 1786 分登 Code Arena: WebDev 第 3 名",
     "Google Project Suncatcher 首颗原型卫星发射入轨",
     "Baseten 工程师实测：LLM 生成的推理引擎比 vLLM 快最多 90%",
     "Mistral Large 4 上线 Arena 的 Agent Arena 与 Code Arena 评测",
-    "Perplexity 开源 pplx-embed-v2-late 多模态 late-interaction 嵌入模型（9B 与 0.6B）"
+    "Perplexity 开源 pplx-embed-v2-late 多模态 late-interaction 嵌入模型（9B 与 0.6B）",
+    "LangChain 用 Stripe Link 和 Managed Deep Agents 构建可支付的智能体 Restock"
   ],
   "used_tools": [
-    "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
     "X：Arena (@arena)",
     "X：Arena (@arena)",
     "X：Google AI (@GoogleAI)",
     "Baseten 工程博客（网页）",
     "X：Arena (@arena)",
-    "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)"
+    "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+    "LangChain：Blog（RSS）"
   ],
-  "briefing_total": 62,
-  "briefing_design": 28,
+  "briefing_total": 60,
+  "briefing_design": 25,
   "briefing_count": 5
 }

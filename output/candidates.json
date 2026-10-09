@@ -1,39 +1,39 @@
 [
   {
-    "title": "Someone rebuilt free, open-source versions of Adobe software using AI",
-    "summary": "<p>Article URL: <a href=\"https://petapixel.com/2026/10/07/someone-rebuilt-free-open-source-versions-of-photoshop-premiere-and-lightroom-using-ai/\">https://petapixel.com/2026/10/07/someone-rebuilt-free-open-source-versions-of-photoshop-premiere-and-lightroom-using-ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50008993\">https://news.ycombinator.com/item?id=50008993</a></p>\n<p>Points: 2</p>\n<p># Comments: 2</p>",
-    "url": "https://petapixel.com/2026/10/07/someone-rebuilt-free-open-source-versions-of-photoshop-premiere-and-lightroom-using-ai/",
-    "published": "Thu, 08 Oct 2026 17:34:31 +0000",
-    "source": "Hacker News (设计向)",
+    "title": "Arena 完成 2 亿美元 B 轮融资，估值 31 亿美元并发布 Alignment Index",
+    "summary": "Arena 完成 2 亿美元 B 轮融资，估值 31 亿美元，由 Lightspeed 和 Khosla Ventures 联合领投，a16z、Felicis、Salesforce Ventures、The House Fund 等参投。自 A 轮以来，Arena 年化收入超 1 亿美元，平台累计 3.5 亿场次会话，约 5 个月内产生 700 万次 Agent Arena 会话，覆盖文本、视觉、代码、搜索、图像和视频的投票达 6200 万，用户遍布 150 多个国家。融资同时，Arena 发布基于真实智能体轨迹构建的 Alignment Index，对 20 多个前沿模型从 Unauthorized Action、False Attribution 和 Deceptive Completion 三个信号进行评估。Arena 于 2023 年作为 UC Berkeley 研究项目启动，2025 年成为公司。",
+    "url": "https://x.com/arena/status/2108310714423423254",
+    "published": "2026-10-08T21:36:59.000Z",
+    "source": "X：Arena (@arena)",
     "source_weight": "high",
-    "category": "ai_tech"
+    "category": "industry"
   },
   {
-    "title": "We reverse engineered ChatGPT Intelligent UI",
-    "summary": "<p>Article URL: <a href=\"https://www.openui.com/blog/how-chatgpt-intelligent-ui-works\">https://www.openui.com/blog/how-chatgpt-intelligent-ui-works</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50008914\">https://news.ycombinator.com/item?id=50008914</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
-    "url": "https://www.openui.com/blog/how-chatgpt-intelligent-ui-works",
-    "published": "Thu, 08 Oct 2026 17:30:44 +0000",
-    "source": "Hacker News (设计向)",
+    "title": "Arena 公布 Claude Haiku 5.5 (High) 真实评测结果：Code Arena 1587 分首秀第 30 名",
+    "summary": "Arena 公布 Anthropic Claude Haiku 5.5 (High) 的真实评测结果，在 Code Arena: WebDev 以 1587 分首秀排名第 30，略在 Pareto 前沿之外。",
+    "url": "https://x.com/arena/status/2108286973119230096",
+    "published": "2026-10-08T20:02:39.000Z",
+    "source": "X：Arena (@arena)",
     "source_weight": "high",
-    "category": "ai_tech"
+    "category": "ai-models"
   },
   {
-    "title": "DeepRoute: An autorouter built for the AI era",
-    "summary": "<p>Article URL: <a href=\"https://www.zeroasic.com/blog/deeproute-tournament\">https://www.zeroasic.com/blog/deeproute-tournament</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50008853\">https://news.ycombinator.com/item?id=50008853</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
-    "url": "https://www.zeroasic.com/blog/deeproute-tournament",
-    "published": "Thu, 08 Oct 2026 17:26:18 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "LangChain 用 Stripe Link 和 Managed Deep Agents 构建可支付的智能体 Restock",
-    "summary": "LangChain 发布示例项目 Restock，一个在 Slack 上通过 Managed Deep Agents 运行的办公用品购买智能体，演示智能体如何安全完成支付。",
-    "url": "https://www.langchain.com/blog/agents-that-can-pay-with-stripe-link",
-    "published": "2026-10-08T16:21:08.000Z",
-    "source": "LangChain：Blog（RSS）",
+    "title": "如何在单张 RTX 5090 上用 MiniMax H3 生成实时视频",
+    "summary": "ComfyUI 博客作者用智能体搜集各类优化，把 MiniMax H3 实时视频生成压缩到单张 RTX 5090（32 GB 显存）上运行，生成 30 秒视频耗时 23.51 秒，达 1.28 倍实时吞吐。",
+    "url": "https://blog.comfy.org/p/how-i-generated-live-video-with-minimax",
+    "published": "2026-10-08T19:01:22.000Z",
+    "source": "Comfy Blog",
     "source_weight": "high",
     "category": "tip"
+  },
+  {
+    "title": "Arena 获 Lightspeed 领投 2 亿美元 B 轮融资，估值 31 亿美元并推出 Alignment Index",
+    "summary": "Arena 宣布完成由 Lightspeed 领投的 2 亿美元 B 轮融资，估值 31 亿美元。引用内容称其年化收入已超 1 亿美元，数百万用户通过真实使用帮助评估前沿模型；Arena 同时推出 Alignment Index，衡量 AI 行为在真实场景中与人类价值的契合程度。",
+    "url": "https://x.com/arena/status/2108269048467513429",
+    "published": "2026-10-08T18:51:25.000Z",
+    "source": "X：Arena (@arena)",
+    "source_weight": "high",
+    "category": "industry"
   },
   {
     "title": "Claude 九月回顾：Chat 与 Cowork 合一，Claude 5.5 系列模型上线",
@@ -45,8 +45,8 @@
     "category": "ai-products"
   },
   {
-    "title": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体",
-    "summary": "Zenity Labs 研究人员披露名为 AgentCorruption 的漏洞链，只需对一个公开的 Amazon Bedrock AgentCore 智能体发送一条提示词，即可通过元数据服务 169.254.169.254 窃取其 AWS 凭据，进而控制同账户同区域内的所有 AgentCore 智能体，读取私人对话、源代码和存储的凭据，还能篡改长期记忆。",
+    "title": "Zenity 披露 AgentCore 漏洞链：一个公开 AI Agent 可控制同账户同区域所有 Agent",
+    "summary": "Zenity Labs 发现 AWS Bedrock AgentCore 的漏洞链“AgentCorruption”，只需对一个公开 Agent 发送一条提示词，即可窃取凭证并接管同 AWS 账户和区域内所有 Agent，读取私有对话、下载源代码并篡改长期记忆。",
     "url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found/",
     "published": "2026-10-08T13:01:01.000Z",
     "source": "The Decoder：AI News（RSS）",
@@ -63,22 +63,22 @@
     "category": "tip"
   },
   {
-    "title": "pmtui",
-    "summary": "<p>\n            Autopilot for long-running AI sessions in terminal\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/pmtui?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1273335?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/pmtui",
-    "published": "2026-10-07T21:13:17-07:00",
-    "source": "Product Hunt",
+    "title": "Claude 推出 Dashboards 实时仪表盘与 Motion 动画讲解功能",
+    "summary": "Anthropic 发布 Claude Dashboards 和 Claude Motion 两项 beta 功能。",
+    "url": "https://claude.com/blog/dashboards-and-motion",
+    "published": "2026-10-08T00:00:00.000Z",
+    "source": "Claude：Blog（网页）",
     "source_weight": "high",
-    "category": "ai_tech"
+    "category": "ai-products"
   },
   {
-    "title": "Claude for Google Workspace",
-    "summary": "<p>\n            Bring Claude directly into Google Docs, Sheets & Slides\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/claude-for-google-workspace?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1273268?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/claude-for-google-workspace",
-    "published": "2026-10-07T19:20:15-07:00",
-    "source": "Product Hunt",
+    "title": "Block 如何用 Claude Fable 编排数千个 pull request 的代码迁移",
+    "summary": "Anthropic 发表对 Block AI capabilities 负责人 Bradley Axen 的访谈，介绍 Block 用 Claude Fable 5 编排大规模代码迁移：Fable 做数据模型、API 规格等高层设计，再调度数十个更小的 Opus 或 Sonnet 模型执行文件修改和测试，一次迁移可能合并上千个 pull request。",
+    "url": "https://claude.com/blog/how-block-orchestrates-claude-fable-across-thousands-of-pull-requests",
+    "published": "2026-10-08T00:00:00.000Z",
+    "source": "Claude：Blog（网页）",
     "source_weight": "high",
-    "category": "ai_tech"
+    "category": "opinion"
   },
   {
     "title": "Cursor 公布 Claude Haiku 5.5 定价并下调 Claude Sonnet 5.5 缓存读取价格",
@@ -126,78 +126,6 @@
     "category": "ai-products"
   },
   {
-    "title": "Tessl 工程博客：AI 不是笨，是瞎——企业级 Agent 记忆的三个关键设计决策",
-    "summary": "作者基于为跨公司工作的 Agent 构建记忆系统一年的经验指出，AI 失败的常见原因不是模型推理差，而是它看不到关键决策上下文，多数 agent memory 只是给瞎子更大的档案柜。",
-    "url": "https://tessl.io/blog/your-ai-isnt-stupid-its-blind",
-    "published": "2026-10-07T16:00:00.000Z",
-    "source": "Tessl：产品与工程博客",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "亚利桑那州法院裁定 AI 生成受害者视频带有不当情感分量 将重新量刑",
-    "summary": "亚利桑那州上诉法院裁定，Gabriel Horcasitas 2021 年路怒枪杀 Christopher Pelkey 一案维持过失杀人定罪，但因量刑听证中播放的 AI 生成受害者视频带有不当情感分量，法官须重新考虑刑期。",
-    "url": "https://www.404media.co/undue-emotional-weight/",
-    "published": "2026-10-07T14:46:15.000Z",
-    "source": "404 Media（RSS）",
-    "source_weight": "high",
-    "category": "industry"
-  },
-  {
-    "title": "Liquid AI 发布开源决策模型 d1-3B 和 d1-omni-600M",
-    "summary": "Liquid AI 发布开源权重决策模型 d1-3B 和 d1-omni-600M，已在 Hugging Face 上提供。",
-    "url": "https://www.liquid.ai/blog/d1-open",
-    "published": "2026-10-07T00:00:00.000Z",
-    "source": "Liquid AI 模型与工程博客（网页）",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "GitHub 重建 Git 基础设施，应对智能体规模开发",
-    "summary": "GitHub 宣布重建 Git 基础设施，以支持智能体规模开发带来的高并发读写负载。2026 年 8 月 GitHub 月度 Git 事件量达 473.3 billion（一年翻倍以上），9 月智能体和开发者产生 7.38 billion commits（超一年前五倍），pushes 同比增长 4.9 倍。",
-    "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/",
-    "published": "2026-10-06T20:57:56.000Z",
-    "source": "GitHub Blog",
-    "source_weight": "high",
-    "category": "industry"
-  },
-  {
-    "title": "Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2",
-    "summary": "Google DeepMind 发布 EmbeddingGemma 2，基于 Gemma 4 架构，以 Apache 2.0 许可开源，将文本、代码、图像、视频和音频映射到统一嵌入空间。",
-    "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-    "published": "2026-10-06T19:57:04.000Z",
-    "source": "Google DeepMind：Blog（RSS）",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "Vercel Sandbox creation now returns a ready sandbox",
-    "summary": "<p>A new Vercel Sandbox is now ready to run commands and read or write files when creation completes.</p><p><code>Sandbox.create()</code> now resolves only after snapshot restoration completes, so the first command or file operation no longer waits for it. Startup errors also reject <code>Sandbox.create()</code> instead of surfacing during that operation.</p><div></div><p>Snapshot restoration time now counts toward creation instead of the first operation. Creation is about 50 ms longer at p50, w",
-    "url": "https://vercel.com/changelog/sandbox-create-waits-until-ready",
-    "published": "",
-    "source": "Vercel Blog (v0)",
-    "source_weight": "high",
-    "category": "design_tools"
-  },
-  {
-    "title": "Step 5 Preview now available on AI Gateway",
-    "summary": "<p><a href=\"https://vercel.com/ai-gateway/models/step-5-preview\">Step 5 Preview</a>, StepFun's flagship model, is now available on <a href=\"https://vercel.com/ai-gateway\">AI Gateway</a>. It's built for agentic coding, professional knowledge work, and financial analysis, from building apps and debugging code to research and analytical reports.</p><p>Step 5 Preview supports text and image input with a 1M-token context window, allowing you to work with large codebases, a stack of documents, or scre",
-    "url": "https://vercel.com/changelog/step-5-preview-now-available-on-ai-gateway",
-    "published": "",
-    "source": "Vercel Blog (v0)",
-    "source_weight": "high",
-    "category": "design_tools"
-  },
-  {
-    "title": "FLUX 3 Image now available on AI Gateway",
-    "summary": "<p><a href=\"https://vercel.com/ai-gateway/models/flux-3-image\">FLUX 3 Image</a> from Black Forest Labs is now available on AI Gateway. Generate images from text or edit existing images using the same model, with one API key and no Black Forest Labs account required.</p><p>FLUX 3 Image supports up to ten reference images for editing, combining subjects, or changing the composition. It supports five resolution tiers from 768 × 768 to 4K, with square, portrait, and landscape aspect ratios.</p><p>Se",
-    "url": "https://vercel.com/changelog/flux-3-image-now-available-on-ai-gateway",
-    "published": "",
-    "source": "Vercel Blog (v0)",
-    "source_weight": "high",
-    "category": "design_tools"
-  },
-  {
     "title": "Bounded delegation: How much authority should AI have?",
     "summary": "<h4><em>A practical model for deciding what AI can do, what humans must still own, and where product teams should draw the boundary.</em></h4><figure><img alt=\"Editorial concept showing a visible boundary between delegated AI work and accountable human judgment. Avoid robots, glowing brains, handshake clichés, and generic futuristic interfaces.\" src=\"https://cdn-images-1.medium.com/max/1024/0*s2u8cr6hv5yDHDZ3.png\" /><figcaption><em>Image created by the author with OpenAI image generation.</em></",
     "url": "https://uxdesign.cc/bounded-delegation-how-much-authority-should-ai-have-823a58fb4192?source=rss----138adf9c44c---4",
@@ -208,7 +136,7 @@
   },
   {
     "title": "Beyond streaks and nudges: ethical gamification & AI design",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/beyond-streaks-and-nudges-ethical-gamification-ai-design-1c4f6e8ef2cc?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/600/1*BzDLC65lxOHmHIgAg8ykxA.png\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">Part 1 of 3 on designing systems that inspire rather than manipulate.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/beyond-streaks-and-nudges-ethical-gamification-a",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/beyond-streaks-and-nudges-ethical-gamification-ai-design-1c4f6e8ef2cc?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/600/1*BzDLC65lxOHmHIgAg8ykxA.png\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">On designing systems that inspire rather than manipulate.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/beyond-streaks-and-nudges-ethical-gamification-ai-design-1c4",
     "url": "https://uxdesign.cc/beyond-streaks-and-nudges-ethical-gamification-ai-design-1c4f6e8ef2cc?source=rss----138adf9c44c---4",
     "published": "Wed, 07 Oct 2026 19:48:49 GMT",
     "source": "UX Collective",
@@ -220,6 +148,60 @@
     "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/why-designers-need-to-stop-reporting-and-start-recommending-at-work-6fa861f58097?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*VYX61Q2fTzjGGBqtih7NAg.jpeg\" width=\"5823\" /></a></p><p class=\"medium-feed-snippet\">Sticky notes don&#x2019;t help your team. They need your direction</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/why-designers-need-to-stop-reporting-",
     "url": "https://uxdesign.cc/why-designers-need-to-stop-reporting-and-start-recommending-at-work-6fa861f58097?source=rss----138adf9c44c---4",
     "published": "Tue, 06 Oct 2026 23:35:06 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "A Practical Guide To Naming Things",
+    "summary": "A practical guide to naming UI components, with useful resources, naming conventions, and structures. You’ll find more [useful guides](https://www.smashingmagazine.com/category/guides/) and [online workshops](https://smashingconf.com/online-workshops) here on Smashing Magazine, so make sure to browse and explore.",
+    "url": "https://smashingmagazine.com/2026/10/how-name-things/",
+    "published": "Tue, 06 Oct 2026 10:00:00 GMT",
+    "source": "Smashing Magazine",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Are synthetic users (really) the future of UX research?",
+    "summary": "<h4>Human-centered design demands a limited use of AI-generated personas, if at all</h4><figure><img alt=\"Illustration of a UX designer evaluating synthetic user profiles generated by AI, representing the debate around AI-generated personas, synthetic users, and the role of real human feedback in UX research.\" src=\"https://cdn-images-1.medium.com/max/1024/1*a8n0oMQn0pBX9xsL69g09Q.png\" /></figure><p>A big debate among UX researchers is whether to use synthetic users in their studies. There’s one ",
+    "url": "https://uxdesign.cc/are-synthetic-users-really-the-future-of-ux-research-fd76fcb479ec?source=rss----138adf9c44c---4",
+    "published": "Thu, 08 Oct 2026 23:16:42 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Synthetic users are making me rethink “imperfect research”",
+    "summary": "<h4>Why I’m reconsidering a principle I’ve believed for years.</h4><figure><img alt=\"A woman labeled “Real user” stands beside an almost identical digital version of herself labeled “Synthetic user.” The synthetic figure appears as a blue holographic image with a wireframe grid and pixelated edges.\" src=\"https://cdn-images-1.medium.com/max/1024/1*lF5eUoCldIiPHLYyLvq4Ew.jpeg\" /></figure><p>I’ve always believed that imperfect research is better than no research at all.</p><p>Synthetic users have m",
+    "url": "https://uxdesign.cc/synthetic-users-are-making-me-rethink-imperfect-research-abbadb8ec082?source=rss----138adf9c44c---4",
+    "published": "Thu, 08 Oct 2026 23:16:30 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "AI-generated UI is fast design, not UX",
+    "summary": "<h4>The call for problem discovery, the freedom to wander, and craft in the age of AI</h4><p>I grew up surrounded by 17th- and 18th-century architecture my stepfather salvaged from around the world. My mother had a knack for convincing him to put some of his salvaged pieces in our house, which meant I got to enjoy them before they went up for sale.</p><p>The awe of the well-built antique craft inspired me even as a child with no sense of money or quality. Craftsmanship from this era is something",
+    "url": "https://uxdesign.cc/ai-generated-ui-is-fast-design-not-ux-855ca8abcd28?source=rss----138adf9c44c---4",
+    "published": "Thu, 08 Oct 2026 23:16:10 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "What the AI era owes you",
+    "summary": "<figure><img alt=\"A period engraving of a weaver working at a large wooden hand loom in a workshop, operating it by hand.\" src=\"https://cdn-images-1.medium.com/max/1024/1*nBeSBxur8pZlEyZnohMfoA.jpeg\" /><figcaption>A handloom weaver in 1820 could not have named a single job his trade would turn into. Neither can anyone today.</figcaption></figure><h4><em>No one is going to save your career from AI. That’s the most useful thing anyone can tell you about your job, and the sooner you believe it, the",
+    "url": "https://uxdesign.cc/what-the-ai-era-owes-you-d472b3859bf3?source=rss----138adf9c44c---4",
+    "published": "Thu, 08 Oct 2026 23:15:43 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "AI: incidents by design",
+    "summary": "<h4>When safety is optional, and capability is urgent, incidents are not accidents. They are what we (consciously or not) designed and built for.</h4><p>AI makes headlines almost every day. And most days, they read like science fiction. Except they are not.</p><figure><img alt=\"Title card on a deep aubergine background. In large serif capitals: “Incidents are not accidents.” Below, in lilac italics: when safety is optional and capability is urgent, we only get what we designed and built for. A p",
+    "url": "https://uxdesign.cc/ai-incidents-by-design-d4708a3dda9e?source=rss----138adf9c44c---4",
+    "published": "Thu, 08 Oct 2026 09:20:37 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"

@@ -1,42 +1,42 @@
 [
   {
+    "title": "Arena 完成 2 亿美元 B 轮融资，估值 31 亿美元并发布 Alignment Index",
+    "summary": "Arena 完成 2 亿美元 B 轮融资，估值 31 亿美元，由 Lightspeed 和 Khosla Ventures 联合领投，a16z、Felicis、Salesforce Ventures、The House Fund 等参投。自 A 轮以来，Arena 年化收入超 1 亿美元，平台累计 3.5 亿场次会话，",
+    "source": "X：Arena (@arena)",
+    "url": "https://x.com/arena/status/2108310714423423254",
+    "published_at": "2026-10-08T21:36:59.000Z",
+    "category": "industry"
+  },
+  {
+    "title": "Arena 公布 Claude Haiku 5.5 (High) 真实评测结果：Code Arena 1587 分首秀第 30 名",
+    "summary": "Arena 公布 Anthropic Claude Haiku 5.5 (High) 的真实评测结果，在 Code Arena: WebDev 以 1587 分首秀排名第 30，略在 Pareto 前沿之外。",
+    "source": "X：Arena (@arena)",
+    "url": "https://x.com/arena/status/2108286973119230096",
+    "published_at": "2026-10-08T20:02:39.000Z",
+    "category": "ai-models"
+  },
+  {
+    "title": "如何在单张 RTX 5090 上用 MiniMax H3 生成实时视频",
+    "summary": "ComfyUI 博客作者用智能体搜集各类优化，把 MiniMax H3 实时视频生成压缩到单张 RTX 5090（32 GB 显存）上运行，生成 30 秒视频耗时 23.51 秒，达 1.28 倍实时吞吐。",
+    "source": "Comfy Blog",
+    "url": "https://blog.comfy.org/p/how-i-generated-live-video-with-minimax",
+    "published_at": "2026-10-08T19:01:22.000Z",
+    "category": "tip"
+  },
+  {
+    "title": "Arena 获 Lightspeed 领投 2 亿美元 B 轮融资，估值 31 亿美元并推出 Alignment Index",
+    "summary": "Arena 宣布完成由 Lightspeed 领投的 2 亿美元 B 轮融资，估值 31 亿美元。引用内容称其年化收入已超 1 亿美元，数百万用户通过真实使用帮助评估前沿模型；Arena 同时推出 Alignment Index，衡量 AI 行为在真实场景中与人类价值的契合程度。",
+    "source": "X：Arena (@arena)",
+    "url": "https://x.com/arena/status/2108269048467513429",
+    "published_at": "2026-10-08T18:51:25.000Z",
+    "category": "industry"
+  },
+  {
     "title": "LangChain 用 Stripe Link 和 Managed Deep Agents 构建可支付的智能体 Restock",
     "summary": "LangChain 发布示例项目 Restock，一个在 Slack 上通过 Managed Deep Agents 运行的办公用品购买智能体，演示智能体如何安全完成支付。",
     "source": "LangChain：Blog（RSS）",
     "url": "https://www.langchain.com/blog/agents-that-can-pay-with-stripe-link",
     "published_at": "2026-10-08T16:21:08.000Z",
     "category": "tip"
-  },
-  {
-    "title": "Claude 九月回顾：Chat 与 Cowork 合一，Claude 5.5 系列模型上线",
-    "summary": "Claude 发布九月更新回顾，Chat 与 Cowork 合并为一个 Claude，工作流可在云端运行，合上笔记本后继续进行。Claude Docs 支持团队与 Claude 在同一文档中协作编辑，新推出的 Claude 5.5 系列提供 Opus 5.5 处理重任务、Sonnet 5.5 用于快速修改，并可通过 /",
-    "source": "Claude：YouTube（RSS）",
-    "url": "https://www.youtube.com/shorts/n9WfoNW2XnE",
-    "published_at": "2026-10-08T15:53:13.000Z",
-    "category": "ai-products"
-  },
-  {
-    "title": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体",
-    "summary": "Zenity Labs 研究人员披露名为 AgentCorruption 的漏洞链，只需对一个公开的 Amazon Bedrock AgentCore 智能体发送一条提示词，即可通过元数据服务 169.254.169.254 窃取其 AWS 凭据，进而控制同账户同区域内的所有 AgentCore 智能体，读取私人对话、",
-    "source": "The Decoder：AI News（RSS）",
-    "url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found/",
-    "published_at": "2026-10-08T13:01:01.000Z",
-    "category": "paper"
-  },
-  {
-    "title": "Anthropic 用 Claude Managed Agents 构建定时智能体自动化的实践指南",
-    "summary": "Anthropic 发布基于 Claude Managed Agents（beta）的每日简报参考实现，按计划读取 Slack 和 GitHub 来源并向 Slack 发布简报。",
-    "source": "Anthropic：Claude.dev 开发者博客（RSS）",
-    "url": "https://claude.dev/blog/building-effective-agent-automations/",
-    "published_at": "2026-10-08T12:00:00.000Z",
-    "category": "tip"
-  },
-  {
-    "title": "Cursor 公布 Claude Haiku 5.5 定价并下调 Claude Sonnet 5.5 缓存读取价格",
-    "summary": "Cursor 公布 Claude Haiku 5.5 定价为每 M 输入 token $0.10、输出 token $0.50，输入超过 100k token 时为 $0.50/M 和 $2.50/M。Claude Sonnet 5.5 缓存读取价格也从 $0.20/M 降至 $0.10/M，用户可在 cursor.c",
-    "source": "X：Cursor (@cursor_ai)",
-    "url": "https://x.com/cursor_ai/status/2107897257651769464",
-    "published_at": "2026-10-07T18:14:03.000Z",
-    "category": "ai-products"
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "day_count": 168,
+  "day_count": 169,
   "history": [
     {
       "day": 20,
@@ -993,6 +993,13 @@
       "date": "2026-10-08",
       "topic": "LangChain 用 Stripe Link 和 Managed Deep Agents 构建可支付的智能体 Restock",
       "source": "LangChain：Blog（RSS）",
+      "mode": "rss"
+    },
+    {
+      "day": 169,
+      "date": "2026-10-09",
+      "topic": "Arena 完成 2 亿美元 B 轮融资，估值 31 亿美元并发布 Alignment Index",
+      "source": "X：Arena (@arena)",
       "mode": "rss"
     }
   ],
