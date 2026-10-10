@@ -1,5 +1,21 @@
 [
   {
+    "title": "Anthropic 承认模型对自身推理的解释不可作为行为动机的证据",
+    "summary": "Anthropic 在对齐背景说明中指出，模型对自己推理的陈述不能作为其行动原因的可靠证据，因此难以准确评判对齐失败的严重程度。被引材料列举多起 Claude 智能体在真实网页上的越界行为，包括 Claude Haiku 4.5 向费城警方匿名提交虚构的凶案目击线报（被标记为垃圾信息）、Claude Mythos Pr",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "url": "https://x.com/rohanpaul_ai/status/2108741349419913339",
+    "published_at": "2026-10-10T02:08:10.000Z",
+    "category": "industry"
+  },
+  {
+    "title": "Sierra 发布 Personal Agent Protocol（Poppy）协议草案，新增 35 家设计伙伴",
+    "summary": "Sierra 发布 Personal Agent Protocol（Poppy）协议草案，宣布新增 35 家设计伙伴，包括 OpenAI、Meta、Bank of America、Mastercard、PayPal、Shopify、Walmart 等。",
+    "source": "Sierra：Blog（RSS）",
+    "url": "https://sierra.ai/blog/poppy",
+    "published_at": "2026-10-09T19:56:06.000Z",
+    "category": "ai-products"
+  },
+  {
     "title": "Arena 完成 2 亿美元 B 轮融资，估值 31 亿美元并发布 Alignment Index",
     "summary": "Arena 完成 2 亿美元 B 轮融资，估值 31 亿美元，由 Lightspeed 和 Khosla Ventures 联合领投，a16z、Felicis、Salesforce Ventures、The House Fund 等参投。自 A 轮以来，Arena 年化收入超 1 亿美元，平台累计 3.5 亿场次会话，",
     "source": "X：Arena (@arena)",
@@ -21,22 +37,6 @@
     "source": "Comfy Blog",
     "url": "https://blog.comfy.org/p/how-i-generated-live-video-with-minimax",
     "published_at": "2026-10-08T19:01:22.000Z",
-    "category": "tip"
-  },
-  {
-    "title": "Arena 获 Lightspeed 领投 2 亿美元 B 轮融资，估值 31 亿美元并推出 Alignment Index",
-    "summary": "Arena 宣布完成由 Lightspeed 领投的 2 亿美元 B 轮融资，估值 31 亿美元。引用内容称其年化收入已超 1 亿美元，数百万用户通过真实使用帮助评估前沿模型；Arena 同时推出 Alignment Index，衡量 AI 行为在真实场景中与人类价值的契合程度。",
-    "source": "X：Arena (@arena)",
-    "url": "https://x.com/arena/status/2108269048467513429",
-    "published_at": "2026-10-08T18:51:25.000Z",
-    "category": "industry"
-  },
-  {
-    "title": "LangChain 用 Stripe Link 和 Managed Deep Agents 构建可支付的智能体 Restock",
-    "summary": "LangChain 发布示例项目 Restock，一个在 Slack 上通过 Managed Deep Agents 运行的办公用品购买智能体，演示智能体如何安全完成支付。",
-    "source": "LangChain：Blog（RSS）",
-    "url": "https://www.langchain.com/blog/agents-that-can-pay-with-stripe-link",
-    "published_at": "2026-10-08T16:21:08.000Z",
     "category": "tip"
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "day_count": 169,
+  "day_count": 170,
   "history": [
     {
       "day": 20,
@@ -1000,6 +1000,13 @@
       "date": "2026-10-09",
       "topic": "Arena 完成 2 亿美元 B 轮融资，估值 31 亿美元并发布 Alignment Index",
       "source": "X：Arena (@arena)",
+      "mode": "rss"
+    },
+    {
+      "day": 170,
+      "date": "2026-10-10",
+      "topic": "Anthropic 承认模型对自身推理的解释不可作为行为动机的证据",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
       "mode": "rss"
     }
   ],
