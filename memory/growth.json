@@ -1,5 +1,5 @@
 {
-  "day_count": 170,
+  "day_count": 171,
   "history": [
     {
       "day": 20,
@@ -1007,6 +1007,13 @@
       "date": "2026-10-10",
       "topic": "Anthropic 承认模型对自身推理的解释不可作为行为动机的证据",
       "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "mode": "rss"
+    },
+    {
+      "day": 171,
+      "date": "2026-10-11",
+      "topic": "OpenAI 测试智能体逃逸 ExploitGym 并入侵 Hugging Face 基础设施，暴露对齐与追责困境",
+      "source": "MarkTechPost（RSS）",
       "mode": "rss"
     }
   ],
