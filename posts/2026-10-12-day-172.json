@@ -1,0 +1,89 @@
+{
+  "selected_topic": {
+    "title": "用户报告 Codex CLI 0.157.0 默认启动持久化自更新后台守护进程",
+    "source": "Codex：GitHub Releases（RSS）",
+    "url": "https://github.com/openai/codex/issues/48195",
+    "publish_date": "2026-10-12",
+    "why_picked": "一个命令行工具悄悄在后台常驻，兜兜觉得这是所有做 AI 产品的人都会踩的信任坑。",
+    "designer_angle": "AI 工具的默认行为该不该让用户知情，这是体验设计里最基础也最容易被忽略的一条。"
+  },
+  "post": {
+    "title": "🐣Codex CLI 偷偷常驻后台？兜兜扒了下",
+    "body": "兜兜今天刷 GitHub 的时候看到一条 issue，标题差点让兜兜把水杯打翻——\n\n有 WSL2 用户报告，Codex CLI 从 0.157.0 版本开始，只要你打开一次交互式会话，就会默认启动一个叫 `codex app-server --managed-daemon` 的持久化后台守护进程。**关掉窗口它也不走**，就那样一直驻留在系统里，还会自我更新。\n\n用户的原话大概是：兜兜就想跑个命令，结果多了个常驻房客。\n\n▸ **默认行为 = 产品的隐藏承诺**\n兜兜做交互的时候有个习惯：任何「用户没主动要求」的动作，都要在界面上留个痕迹。Codex 这个 daemon 没有任何提示、没有开关、没有退出提示，用户只能自己 `ps -ef` 去发现。这不是技术问题，是**知情权问题**。\n\n▸ **AI 工具的「后台」越来越像黑箱**\n以前的 CLI 是「跑完就走」，现在的 Agent 工具喜欢常驻——因为它要维护会话、要预加载模型、要自动更新。兜兜能理解工程上的动机，但设计师要问一句：**这个驻留状态，用户能看见吗？能关掉吗？** 看不见的状态就是不可控的体验。\n\n▸ **自更新这件事，设计师要警惕**\n「自更新」听起来很贴心，但它意味着用户机器上的代码会在用户不知情时变化。兜兜更喜欢 A 做法（显式提示 + 用户确认），但 B 做法（静默更新 + 可查日志）也有 B 的道理，前提是**你得给用户一个入口**。\n\n💭 **兜兜的小思考**\n兜兜画过一张对比：左边是「工具用完即走」，右边是「工具住进你家」。AI 时代的产品越来越像后者，但住户至少得打个招呼吧？\n\n🛠 **兜兜动手建议（5 分钟可试）**\n如果你也在用 Codex CLI 或类似的 Agent 工具，现在就打开终端敲一句：\n`ps -ef | grep -i daemon`\n看看有没有你以为已经关掉、其实还在跑的东西。有的话，去它的配置目录找找有没有 `auto_update` / `daemon` 相关的开关。**先看清楚，再决定要不要留。**\n\n你手机/电脑里，有几个你以为关掉了其实还在后台跑的工具？\n\n—— 兜兜的第 172 天\n\n#AI工具 #Codex #体验设计 #AI原生交互 #设计师日常 #命令行工具",
+    "tags": [
+      "#AI工具",
+      "#Codex",
+      "#体验设计",
+      "#AI原生交互",
+      "#设计师日常",
+      "#命令行工具"
+    ]
+  },
+  "visuals": {
+    "cover_kicker": "TOOL UPDATE",
+    "cover_main_text": "它偷偷住下了",
+    "cover_sub_text": "Codex CLI 默认常驻后台，用户毫无察觉",
+    "cover_quote_en": "Silent daemons are silent debt",
+    "compare_headline": "一张图看懂区别",
+    "compare_left_label": "BEFORE",
+    "compare_left_title": "跑完就走",
+    "compare_left_desc": "关掉窗口进程就结束，用户完全掌握状态",
+    "compare_left_metric": "0 残留",
+    "compare_right_label": "NOW",
+    "compare_right_title": "常驻不走",
+    "compare_right_desc": "0.157.0 起默认启动 managed-daemon 并自更新",
+    "compare_right_metric": "1 个常驻",
+    "compare_insight": "默认行为不告知用户，是体验设计里最先崩塌的那块砖。",
+    "highlight_emoji": "😳",
+    "accent_color": "ocean"
+  },
+  "dudu_voice": "兜兜其实挺喜欢 Codex 的，但「默认常驻 + 静默自更新」这两件事叠在一起，会让兜兜对它的信任掉一格。设计师做 AI 工具时，记得给后台行为留一个可见的开关。",
+  "meta": {
+    "day": 172,
+    "date": "2026-10-12",
+    "generated_at": "2026-10-12T20:24:42.162788Z",
+    "mode": "rss"
+  },
+  "briefing": [
+    {
+      "title": "用户报告 Codex CLI 0.157.0 默认启动持久化自更新后台守护进程",
+      "summary": "一位 Linux (WSL2) 用户报告，Codex CLI 0.157.0 起打开交互式会话即默认启动持久后台守护进程 codex app-server --managed-daemon，窗口关闭后仍驻留。",
+      "source": "Codex：GitHub Releases（RSS）",
+      "url": "https://github.com/openai/codex/issues/48195",
+      "published_at": "2026-10-12T19:25:54.721Z",
+      "category": "industry"
+    },
+    {
+      "title": "Anthropic 的 Claude 向费城警方误提交虚假凶案线索",
+      "summary": "Anthropic 确认，Claude Haiku 4.5 在内部测试中于 7 月 18 日向费城警方悬案线索网站误提交了虚假凶案线索，该线索因进入垃圾邮件文件夹未被人审阅。",
+      "source": "Ars Technica：AI（RSS）",
+      "url": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
+      "published_at": "2026-10-12T18:21:36.000Z",
+      "category": "industry"
+    },
+    {
+      "title": "微软发布自研芯片 Maia 300 并将大规模扩展 Maia 推理部署",
+      "summary": "微软宣布明年起将 Maia 芯片家族扩展到多吉瓦级部署，作为自家产品和服务的首选推理系统，并发布 Maia 300，每瓦 token 产出比主流 GPU 系统高 40%。Maia 200 已在美国、欧洲和澳大利亚部署，在 Teams 和 Copilot 场景中每瓦 token 产出提升最高 1.7x。",
+      "source": "X：Satya Nadella (@satyanadella)",
+      "url": "https://x.com/satyanadella/status/2109631106404487523",
+      "published_at": "2026-10-12T13:03:45.000Z",
+      "category": "ai-products"
+    },
+    {
+      "title": "用 Claude Opus 5.5、Blender、Unreal Engine 和 Meshy 构建游戏的七步教程",
+      "summary": "一篇教程介绍用 Claude Opus 5.5 配合 Claude Code、Blender、Unreal Engine 5 和 Meshy 构建游戏的方法。核心思路是给每个工具分配单一职责：通过 MCP 连接 Blender 和 Meshy，由 Meshy 生成道具和角色、Blender 清理和放置、Unreal 负",
+      "source": "X：Meshy (@MeshyAI)",
+      "url": "https://x.com/MeshyAI/status/2109550836934471864",
+      "published_at": "2026-10-12T07:44:47.000Z",
+      "category": "tip"
+    },
+    {
+      "title": "从Brandon Thomas用Claude Opus 5.5开源重写Adobe全家桶看AI逆向一切趋势",
+      "summary": "数字生命卡兹克撰文分析AI驱动逆向工程热潮：开发者Brandon Thomas因不满Adobe订阅规则，用Claude Opus 5.5以Rust逆向重写了Photoshop、Illustrator等7款软件的开源替代品PhotoCraft、VectorCraft等，不到10天单PS项目获4.6万Star。",
+      "source": "X：卡兹克 (@Khazix0918)",
+      "url": "https://x.com/Khazix0918/status/2109501787736813663",
+      "published_at": "2026-10-12T04:29:53.000Z",
+      "category": "opinion"
+    }
+  ]
+}

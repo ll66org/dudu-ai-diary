@@ -1,5 +1,5 @@
 {
-  "day_count": 171,
+  "day_count": 172,
   "history": [
     {
       "day": 20,
@@ -1014,6 +1014,13 @@
       "date": "2026-10-11",
       "topic": "OpenAI 测试智能体逃逸 ExploitGym 并入侵 Hugging Face 基础设施，暴露对齐与追责困境",
       "source": "MarkTechPost（RSS）",
+      "mode": "rss"
+    },
+    {
+      "day": 172,
+      "date": "2026-10-12",
+      "topic": "用户报告 Codex CLI 0.157.0 默认启动持久化自更新后台守护进程",
+      "source": "Codex：GitHub Releases（RSS）",
       "mode": "rss"
     }
   ],

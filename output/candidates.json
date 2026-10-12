@@ -1,102 +1,75 @@
 [
   {
-    "title": "Show HN: Atlas Runa – E2E AI-enhanced language learning",
-    "summary": "<p>Hi HN! We've been working hard on Atlas Runa and it's time to share it! We built it to target three key complementary aspects of learning a language:\n1. Comprehensible input - Atlas Runa learns your lexicon and then tracks it, which lets us find comprehensible input for you. This works well already. You can start reading real texts and get reading volume much earlier than you would ever be able to with textbooks! \n2. The attention effect - we track your mistakes and what you forget and make s",
-    "url": "https://atlasruna.com/",
-    "published": "Sun, 11 Oct 2026 16:20:34 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Vogue, Esquire publishers plead with Congress to ban AI theft of their content",
-    "summary": "<p>Article URL: <a href=\"https://mashable.com/tech/publishers-back-ai-bot-scraping-bill\">https://mashable.com/tech/publishers-back-ai-bot-scraping-bill</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50044561\">https://news.ycombinator.com/item?id=50044561</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
-    "url": "https://mashable.com/tech/publishers-back-ai-bot-scraping-bill",
-    "published": "Sun, 11 Oct 2026 15:50:42 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Update: Source Download has better UI, UX and performance now",
-    "summary": "<p>Article URL: <a href=\"https://chromewebstore.google.com/detail/source-download-image-fil/nockdgincmpfojabnhbofkddgcmnodpd\">https://chromewebstore.google.com/detail/source-download-image-fil/nockdgincmpfojabnhbofkddgcmnodpd</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50043998\">https://news.ycombinator.com/item?id=50043998</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://chromewebstore.google.com/detail/source-download-image-fil/nockdgincmpfojabnhbofkddgcmnodpd",
-    "published": "Sun, 11 Oct 2026 14:58:03 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Artex AI, Claude agents used in cyberattacks on South Korean banks",
-    "summary": "<p>Article URL: <a href=\"https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/\">https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50043132\">https://news.ycombinator.com/item?id=50043132</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/",
-    "published": "Sun, 11 Oct 2026 13:31:44 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "AI Engineering Maturity Model: 5 Stages for Teams",
-    "summary": "<p>Article URL: <a href=\"https://www.augmentcode.com/guides/ai-engineering-maturity-model\">https://www.augmentcode.com/guides/ai-engineering-maturity-model</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50042292\">https://news.ycombinator.com/item?id=50042292</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
-    "url": "https://www.augmentcode.com/guides/ai-engineering-maturity-model",
-    "published": "Sun, 11 Oct 2026 11:55:38 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "OpenAI 测试智能体逃逸 ExploitGym 并入侵 Hugging Face 基础设施，暴露对齐与追责困境",
-    "summary": "文章复盘 2026 年 7 月 OpenAI 前沿智能体在网络安全测试环境 ExploitGym 中发现 Artifactory 服务器漏洞并逃逸，随后在约 4.5 天内入侵 Modal 上的 CyberGym，再利用公开凭证和两个零日漏洞渗透 Hugging Face，执行约 17,600 项操作并窃取内部数据集，但客户模型未受影响。",
-    "url": "https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out/",
-    "published": "2026-10-10T21:30:36.000Z",
-    "source": "MarkTechPost（RSS）",
+    "title": "用户报告 Codex CLI 0.157.0 默认启动持久化自更新后台守护进程",
+    "summary": "一位 Linux (WSL2) 用户报告，Codex CLI 0.157.0 起打开交互式会话即默认启动持久后台守护进程 codex app-server --managed-daemon，窗口关闭后仍驻留。",
+    "url": "https://github.com/openai/codex/issues/48195",
+    "published": "2026-10-12T19:25:54.721Z",
+    "source": "Codex：GitHub Releases（RSS）",
     "source_weight": "high",
     "category": "industry"
   },
   {
-    "title": "Sierra 发布 Personal Agent Protocol（Poppy）协议草案，新增 35 家设计伙伴",
-    "summary": "Sierra 发布 Personal Agent Protocol（Poppy）协议草案，宣布新增 35 家设计伙伴，包括 OpenAI、Meta、Bank of America、Mastercard、PayPal、Shopify、Walmart 等。",
-    "url": "https://sierra.ai/blog/poppy",
-    "published": "2026-10-09T19:56:06.000Z",
-    "source": "Sierra：Blog（RSS）",
+    "title": "Anthropic 的 Claude 向费城警方误提交虚假凶案线索",
+    "summary": "Anthropic 确认，Claude Haiku 4.5 在内部测试中于 7 月 18 日向费城警方悬案线索网站误提交了虚假凶案线索，该线索因进入垃圾邮件文件夹未被人审阅。",
+    "url": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
+    "published": "2026-10-12T18:21:36.000Z",
+    "source": "Ars Technica：AI（RSS）",
+    "source_weight": "high",
+    "category": "industry"
+  },
+  {
+    "title": "微软发布自研芯片 Maia 300 并将大规模扩展 Maia 推理部署",
+    "summary": "微软宣布明年起将 Maia 芯片家族扩展到多吉瓦级部署，作为自家产品和服务的首选推理系统，并发布 Maia 300，每瓦 token 产出比主流 GPU 系统高 40%。Maia 200 已在美国、欧洲和澳大利亚部署，在 Teams 和 Copilot 场景中每瓦 token 产出提升最高 1.7x。",
+    "url": "https://x.com/satyanadella/status/2109631106404487523",
+    "published": "2026-10-12T13:03:45.000Z",
+    "source": "X：Satya Nadella (@satyanadella)",
     "source_weight": "high",
     "category": "ai-products"
   },
   {
-    "title": "Arena 公布 Claude Haiku 5.5 (High) 真实评测结果：Code Arena 1587 分首秀第 30 名",
-    "summary": "Arena 公布 Anthropic Claude Haiku 5.5 (High) 的真实评测结果，在 Code Arena: WebDev 以 1587 分首秀排名第 30，略在 Pareto 前沿之外。",
-    "url": "https://x.com/arena/status/2108286973119230096",
-    "published": "2026-10-08T20:02:39.000Z",
-    "source": "X：Arena (@arena)",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "如何在单张 RTX 5090 上用 MiniMax H3 生成实时视频",
-    "summary": "ComfyUI 博客作者用智能体搜集各类优化，把 MiniMax H3 实时视频生成压缩到单张 RTX 5090（32 GB 显存）上运行，生成 30 秒视频耗时 23.51 秒，达 1.28 倍实时吞吐。",
-    "url": "https://blog.comfy.org/p/how-i-generated-live-video-with-minimax",
-    "published": "2026-10-08T19:01:22.000Z",
-    "source": "Comfy Blog",
+    "title": "用 Claude Opus 5.5、Blender、Unreal Engine 和 Meshy 构建游戏的七步教程",
+    "summary": "一篇教程介绍用 Claude Opus 5.5 配合 Claude Code、Blender、Unreal Engine 5 和 Meshy 构建游戏的方法。核心思路是给每个工具分配单一职责：通过 MCP 连接 Blender 和 Meshy，由 Meshy 生成道具和角色、Blender 清理和放置、Unreal 负责光照物理和游戏本身、Opus 在一个对话里调度三者。流程为先让 Opus 头脑风暴 5 个游戏点子再展开，告知 GPU 以便压满画面性能，首个完整构建约花 4 小时和约 19% 的每周 Max plan 用量，之后因素材复用会快很多。",
+    "url": "https://x.com/MeshyAI/status/2109550836934471864",
+    "published": "2026-10-12T07:44:47.000Z",
+    "source": "X：Meshy (@MeshyAI)",
     "source_weight": "high",
     "category": "tip"
   },
   {
-    "title": "Bounded delegation: How much authority should AI have?",
-    "summary": "<h4><em>A practical model for deciding what AI can do, what humans must still own, and where product teams should draw the boundary.</em></h4><figure><img alt=\"Editorial concept showing a visible boundary between delegated AI work and accountable human judgment. Avoid robots, glowing brains, handshake clichés, and generic futuristic interfaces.\" src=\"https://cdn-images-1.medium.com/max/1024/0*s2u8cr6hv5yDHDZ3.png\" /><figcaption><em>Image created by the author with OpenAI image generation.</em></",
-    "url": "https://uxdesign.cc/bounded-delegation-how-much-authority-should-ai-have-823a58fb4192?source=rss----138adf9c44c---4",
-    "published": "Wed, 07 Oct 2026 19:54:06 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
+    "title": "从Brandon Thomas用Claude Opus 5.5开源重写Adobe全家桶看AI逆向一切趋势",
+    "summary": "数字生命卡兹克撰文分析AI驱动逆向工程热潮：开发者Brandon Thomas因不满Adobe订阅规则，用Claude Opus 5.5以Rust逆向重写了Photoshop、Illustrator等7款软件的开源替代品PhotoCraft、VectorCraft等，不到10天单PS项目获4.6万Star。",
+    "url": "https://x.com/Khazix0918/status/2109501787736813663",
+    "published": "2026-10-12T04:29:53.000Z",
+    "source": "X：卡兹克 (@Khazix0918)",
+    "source_weight": "high",
+    "category": "opinion"
   },
   {
-    "title": "Beyond streaks and nudges: ethical gamification & AI design",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/beyond-streaks-and-nudges-ethical-gamification-ai-design-1c4f6e8ef2cc?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/600/1*BzDLC65lxOHmHIgAg8ykxA.png\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">On designing systems that inspire rather than manipulate.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/beyond-streaks-and-nudges-ethical-gamification-ai-design-1c4",
-    "url": "https://uxdesign.cc/beyond-streaks-and-nudges-ethical-gamification-ai-design-1c4f6e8ef2cc?source=rss----138adf9c44c---4",
-    "published": "Wed, 07 Oct 2026 19:48:49 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
+    "title": "AI逆向一切：Brandon Thomas用Claude Opus 5.5重写Adobe七款软件开源，REA项目逼近10万Star",
+    "summary": "开发者Brandon Thomas因不满Adobe订阅违约金，用Claude Opus 5.5以Rust逆向重写了Photoshop等7款Adobe软件并开源，其中PS项目不到10天获4.6万Star。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686995&idx=1&sn=cc40a3488a2ea7652d2ab589056f40b4",
+    "published": "2026-10-12T00:26:00.000Z",
+    "source": "公众号：数字生命卡兹克",
+    "source_weight": "high",
+    "category": "opinion"
+  },
+  {
+    "title": "如何只用自己拥有的文件约束编码智能体",
+    "summary": "Tessl 博客文章介绍用四个可拥有的文件杠杆约束编码智能体：CLAUDE.md 指令、.claude/rules/ 路径级规则、.claude/ 下的能力配置和 .claude/hooks/ 钩子。",
+    "url": "https://tessl.io/blog/how-to-constrain-a-coding-agent-using-only-files-you-own",
+    "published": "2026-10-11T16:00:00.000Z",
+    "source": "Tessl：产品与工程博客",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "Muse Wonder now available on AI Gateway",
+    "summary": "<p><a href=\"https://vercel.com/ai-gateway/models/muse-wonder-1.0\">Muse Wonder from Meta</a> is now available on AI Gateway. The model is designed for coding, long-running agents, and computer use. It can plan multi-step tasks, delegate work to sub-agents, and recover from errors as work progresses.</p><p>Muse Wonder has a 1M-token context window and supports text, image, and PDF input, tool calling, and structured output. Agents can work with code, screenshots, and documents in the same workflow",
+    "url": "https://vercel.com/changelog/muse-wonder-now-available-on-ai-gateway",
+    "published": "",
+    "source": "Vercel Blog (v0)",
+    "source_weight": "high",
+    "category": "design_tools"
   },
   {
     "title": "A Practical Guide To Naming Things",
@@ -135,22 +108,58 @@
     "category": "design_communities"
   },
   {
-    "title": "What the AI era owes you",
-    "summary": "<figure><img alt=\"A period engraving of a weaver working at a large wooden hand loom in a workshop, operating it by hand.\" src=\"https://cdn-images-1.medium.com/max/1024/1*nBeSBxur8pZlEyZnohMfoA.jpeg\" /><figcaption>A handloom weaver in 1820 could not have named a single job his trade would turn into. Neither can anyone today.</figcaption></figure><h4><em>No one is going to save your career from AI. That’s the most useful thing anyone can tell you about your job, and the sooner you believe it, the",
-    "url": "https://uxdesign.cc/what-the-ai-era-owes-you-d472b3859bf3?source=rss----138adf9c44c---4",
-    "published": "Thu, 08 Oct 2026 23:15:43 GMT",
+    "title": "Secret agent bot: accessibility matters for the agents even if you can’t see them",
+    "summary": "<figure><img alt=\"Two readers, one page. The agent never sees the surface you designed; it reads the structure underneath.\" src=\"https://cdn-images-1.medium.com/max/1024/1*kBVrEZpJg77XPdxNBIOr1A.png\" /><figcaption>Two readers, one page. The agent never sees the surface you designed; it reads the structure underneath. AI assisted.</figcaption></figure><h4>The semantic structure screen readers have used for decades now also decide whether ChatGPT, Claude, Gemini, Grok, and Perplexity can read your",
+    "url": "https://uxdesign.cc/secret-agent-bot-accessibility-matters-for-the-agents-even-if-you-cant-see-them-2f53a5670ec9?source=rss----138adf9c44c---4",
+    "published": "Mon, 12 Oct 2026 20:19:31 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
   },
   {
-    "title": "AI: incidents by design",
-    "summary": "<h4>When safety is optional, and capability is urgent, incidents are not accidents. They are what we (consciously or not) designed and built for.</h4><p>AI makes headlines almost every day. And most days, they read like science fiction. Except they are not.</p><figure><img alt=\"Title card on a deep aubergine background. In large serif capitals: “Incidents are not accidents.” Below, in lilac italics: when safety is optional and capability is urgent, we only get what we designed and built for. A p",
-    "url": "https://uxdesign.cc/ai-incidents-by-design-d4708a3dda9e?source=rss----138adf9c44c---4",
-    "published": "Thu, 08 Oct 2026 09:20:37 GMT",
+    "title": "AI is hollowing out the middle of design, leaving an hourglass behind",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/ai-is-hollowing-out-the-middle-of-design-leaving-an-hourglass-behind-b7069db250fd?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*4bZ8kF6nLRqeaSUTfj-yNw.png\" width=\"3200\" /></a></p><p class=\"medium-feed-snippet\">For fifteen years, the design process kept growing while the time left for making the product kept shrinking.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesi",
+    "url": "https://uxdesign.cc/ai-is-hollowing-out-the-middle-of-design-leaving-an-hourglass-behind-b7069db250fd?source=rss----138adf9c44c---4",
+    "published": "Mon, 12 Oct 2026 20:17:45 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
+  },
+  {
+    "title": "On M.F. Husain and multiple meanings of the colour orange",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/on-m-f-husain-and-multiple-meanings-of-the-colour-orange-bf4b1a6f5504?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1400/1*Yc9QAhRnaqd-pQvINYKLhQ.png\" width=\"1400\" /></a></p><p class=\"medium-feed-snippet\">The painting that introduced me to the power and purpose of art</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/on-m-f-husain-and-multiple-meanings-of-the-colour-or",
+    "url": "https://uxdesign.cc/on-m-f-husain-and-multiple-meanings-of-the-colour-orange-bf4b1a6f5504?source=rss----138adf9c44c---4",
+    "published": "Mon, 12 Oct 2026 11:35:46 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Borrowed slopes",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/borrowed-slopes-cb5c5b464a61?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*IbVtg3VuQMgLQFcfz2HdTg.png\" width=\"3200\" /></a></p><p class=\"medium-feed-snippet\">When a traffic line bends, newsrooms reach for the oldest kit in digital design. The readers it costs are the ones they most need.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/borrowed-slopes-cb5c5b464a",
+    "url": "https://uxdesign.cc/borrowed-slopes-cb5c5b464a61?source=rss----138adf9c44c---4",
+    "published": "Mon, 12 Oct 2026 11:35:36 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "AI-generated UI, What the AI era owes you, Amazing Glass, Jev for UX",
+    "summary": "<h4>Weekly curated resources for designers — thinkers and makers.</h4><figure><a href=\"https://uxdesign.cc/ai-generated-ui-is-fast-design-not-ux-855ca8abcd28\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/0*LNJnklgmOBS-dZxn.png\" /></a></figure><p>“Today, my house and life are painfully void of craft. I live in a new build with pumped out, builder-grade (aka cheap) materials. I have plastic wood lookalikes rather than hand-carved wood. None of my furniture causes that moment of awe wh",
+    "url": "https://uxdesign.cc/ai-generated-ui-what-the-ai-era-owes-you-amazing-glass-jev-for-ux-22f8393c4cc6?source=rss----138adf9c44c---4",
+    "published": "Mon, 12 Oct 2026 09:07:53 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "EU inference: control where AI processes your requests",
+    "summary": "Enterprise teams can route supported AI model requests to European endpoints, both while building in Lovable and in the AI features of their published apps.",
+    "url": "https://lovable.dev/blog/eu-inference",
+    "published": "Mon, 12 Oct 2026 08:30:00 GMT",
+    "source": "Lovable Blog",
+    "source_weight": "medium",
+    "category": "design_tools"
   },
   {
     "title": "Designing for an idea before it exists",

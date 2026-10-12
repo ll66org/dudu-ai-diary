@@ -1,14 +1,14 @@
 {
-  "fetched_at": "2026-10-11T16:44:39.751700Z",
-  "total_candidates": 18,
+  "fetched_at": "2026-10-12T20:24:32.807075Z",
+  "total_candidates": 19,
   "source_stats": {
     "Figma Blog": {
       "found": 0,
       "total": 0
     },
     "Vercel Blog (v0)": {
-      "found": 0,
-      "total": 1651
+      "found": 1,
+      "total": 1652
     },
     "Cursor Changelog": {
       "found": 0,
@@ -23,8 +23,8 @@
       "total": 0
     },
     "Lovable Blog": {
-      "found": 0,
-      "total": 163
+      "found": 1,
+      "total": 164
     },
     "Bolt (StackBlitz) Blog": {
       "found": 0,
@@ -35,7 +35,7 @@
       "total": 40
     },
     "UX Collective": {
-      "found": 8,
+      "found": 9,
       "total": 10
     },
     "Designer News": {
@@ -51,8 +51,8 @@
       "total": 20
     },
     "Hacker News (设计向)": {
-      "found": 5,
-      "total": 20
+      "found": 0,
+      "total": 0
     },
     "Product Hunt": {
       "found": 0,
@@ -64,27 +64,27 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 171,
-  "today_date": "2026-10-11",
+  "dudu_day": 172,
+  "today_date": "2026-10-12",
   "used_titles": [
-    "Google Project Suncatcher 首颗原型卫星发射入轨",
     "Baseten 工程师实测：LLM 生成的推理引擎比 vLLM 快最多 90%",
     "Mistral Large 4 上线 Arena 的 Agent Arena 与 Code Arena 评测",
     "Perplexity 开源 pplx-embed-v2-late 多模态 late-interaction 嵌入模型（9B 与 0.6B）",
     "LangChain 用 Stripe Link 和 Managed Deep Agents 构建可支付的智能体 Restock",
     "Arena 完成 2 亿美元 B 轮融资，估值 31 亿美元并发布 Alignment Index",
-    "Anthropic 承认模型对自身推理的解释不可作为行为动机的证据"
+    "Anthropic 承认模型对自身推理的解释不可作为行为动机的证据",
+    "OpenAI 测试智能体逃逸 ExploitGym 并入侵 Hugging Face 基础设施，暴露对齐与追责困境"
   ],
   "used_tools": [
-    "X：Google AI (@GoogleAI)",
     "Baseten 工程博客（网页）",
     "X：Arena (@arena)",
     "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
     "LangChain：Blog（RSS）",
     "X：Arena (@arena)",
-    "X：Rohan Paul (@rohanpaul_ai)"
+    "X：Rohan Paul (@rohanpaul_ai)",
+    "MarkTechPost（RSS）"
   ],
-  "briefing_total": 24,
-  "briefing_design": 7,
+  "briefing_total": 22,
+  "briefing_design": 9,
   "briefing_count": 5
 }
