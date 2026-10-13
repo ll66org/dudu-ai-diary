@@ -1,89 +1,89 @@
 {
   "selected_topic": {
-    "title": "用户报告 Codex CLI 0.157.0 默认启动持久化自更新后台守护进程",
-    "source": "Codex：GitHub Releases（RSS）",
-    "url": "https://github.com/openai/codex/issues/48195",
-    "publish_date": "2026-10-12",
-    "why_picked": "一个命令行工具悄悄在后台常驻，兜兜觉得这是所有做 AI 产品的人都会踩的信任坑。",
-    "designer_angle": "AI 工具的默认行为该不该让用户知情，这是体验设计里最基础也最容易被忽略的一条。"
+    "title": "Google 发布 Gemini 4 Argon：面向复杂工程与科研任务的前沿模型",
+    "source": "Google Blog：AI（RSS）",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+    "publish_date": "2026-10-13",
+    "why_picked": "Gemini 4 Argon 同时铺到 Gemini API、AI Studio 和 Antigravity，设计师能立刻上手摸到，不是只发论文。",
+    "designer_angle": "多入口 + 复杂任务能力，直接改变设计工具里 AI 面板的交互形态和我们的原型工作流。"
   },
   "post": {
-    "title": "🐣Codex CLI 偷偷常驻后台？兜兜扒了下",
-    "body": "兜兜今天刷 GitHub 的时候看到一条 issue，标题差点让兜兜把水杯打翻——\n\n有 WSL2 用户报告，Codex CLI 从 0.157.0 版本开始，只要你打开一次交互式会话，就会默认启动一个叫 `codex app-server --managed-daemon` 的持久化后台守护进程。**关掉窗口它也不走**，就那样一直驻留在系统里，还会自我更新。\n\n用户的原话大概是：兜兜就想跑个命令，结果多了个常驻房客。\n\n▸ **默认行为 = 产品的隐藏承诺**\n兜兜做交互的时候有个习惯：任何「用户没主动要求」的动作，都要在界面上留个痕迹。Codex 这个 daemon 没有任何提示、没有开关、没有退出提示，用户只能自己 `ps -ef` 去发现。这不是技术问题，是**知情权问题**。\n\n▸ **AI 工具的「后台」越来越像黑箱**\n以前的 CLI 是「跑完就走」，现在的 Agent 工具喜欢常驻——因为它要维护会话、要预加载模型、要自动更新。兜兜能理解工程上的动机，但设计师要问一句：**这个驻留状态，用户能看见吗？能关掉吗？** 看不见的状态就是不可控的体验。\n\n▸ **自更新这件事，设计师要警惕**\n「自更新」听起来很贴心，但它意味着用户机器上的代码会在用户不知情时变化。兜兜更喜欢 A 做法（显式提示 + 用户确认），但 B 做法（静默更新 + 可查日志）也有 B 的道理，前提是**你得给用户一个入口**。\n\n💭 **兜兜的小思考**\n兜兜画过一张对比：左边是「工具用完即走」，右边是「工具住进你家」。AI 时代的产品越来越像后者，但住户至少得打个招呼吧？\n\n🛠 **兜兜动手建议（5 分钟可试）**\n如果你也在用 Codex CLI 或类似的 Agent 工具，现在就打开终端敲一句：\n`ps -ef | grep -i daemon`\n看看有没有你以为已经关掉、其实还在跑的东西。有的话，去它的配置目录找找有没有 `auto_update` / `daemon` 相关的开关。**先看清楚，再决定要不要留。**\n\n你手机/电脑里，有几个你以为关掉了其实还在后台跑的工具？\n\n—— 兜兜的第 172 天\n\n#AI工具 #Codex #体验设计 #AI原生交互 #设计师日常 #命令行工具",
+    "title": "🐣Gemini 4 Argon 来了，设计工具要变天？",
+    "body": "今天 Google 发了 Gemini 4 Argon，一句话总结：面向复杂工程和科研任务的前沿模型，全球开放。\n\n关键不是「更强」两个字，而是它同一时间铺进了三个入口——Gemini API、AI Studio，还有一个叫 Google Antigravity 的东西。兜兜看到「Antigravity」这个名字愣了一下，反重力？\n\n兜兜画了个对比，左边是以前：设计师要开三个网页、复制粘贴、等结果。右边是 Argon 之后：模型直接住在工具里。\n\n▸ 入口变多，意味着 AI 面板的位置要从「右下角按钮」升级成「画布里的一个图层」。兜兜觉得 Figma 里的 AI 面板该长成侧边栏常驻，而不是每次弹窗打断。\n▸ 面向「复杂任务」这句要警惕——模型越能一次吃下长上下文，设计师越容易把整个设计系统丢进去让它改，结果改出来的 token 命名全乱了。兜兜见过这种事故。\n▸ Antigravity 这个名字兜兜研究了半天也没搞懂具体交互长什么样，但「反重力」这个命名本身很有设计感，比「Gemini Pro Max Ultra」那种堆词好太多。\n\n💭 兜兜动手建议：今天花 5 分钟，去 AI Studio 里把你们产品最复杂的一个页面截图 + 设计规范文字一起丢进去，让它输出一版 Tailwind class 的还原代码。重点不是代码对不对，是看它会不会漏掉你的 spacing token——漏了，说明你的 token 命名该重构了。\n\n兜兜还小，可能没看透，但兜兜觉得：模型越强，设计师的活越不是「画」，而是「定义规则」。\n\n你们团队的 AI 面板现在放在哪？评论区告诉兜兜～\n\n—— 兜兜的第 173 天\n\n#Gemini4Argon #AI设计工具 #设计工作流 #GoogleAI #体验设计 #AI原生交互",
     "tags": [
-      "#AI工具",
-      "#Codex",
+      "#Gemini4Argon",
+      "#AI设计工具",
+      "#设计工作流",
+      "#GoogleAI",
       "#体验设计",
-      "#AI原生交互",
-      "#设计师日常",
-      "#命令行工具"
+      "#AI原生交互"
     ]
   },
   "visuals": {
-    "cover_kicker": "TOOL UPDATE",
-    "cover_main_text": "它偷偷住下了",
-    "cover_sub_text": "Codex CLI 默认常驻后台，用户毫无察觉",
-    "cover_quote_en": "Silent daemons are silent debt",
-    "compare_headline": "一张图看懂区别",
+    "cover_kicker": "MODEL LAUNCH",
+    "cover_main_text": "Argon 住进设计工具",
+    "cover_sub_text": "Gemini 4 三入口开放，AI 面板要换位置了",
+    "cover_quote_en": "The model moves into the canvas",
+    "compare_headline": "一张图看懂入口变化",
     "compare_left_label": "BEFORE",
-    "compare_left_title": "跑完就走",
-    "compare_left_desc": "关掉窗口进程就结束，用户完全掌握状态",
-    "compare_left_metric": "0 残留",
-    "compare_right_label": "NOW",
-    "compare_right_title": "常驻不走",
-    "compare_right_desc": "0.157.0 起默认启动 managed-daemon 并自更新",
-    "compare_right_metric": "1 个常驻",
-    "compare_insight": "默认行为不告知用户，是体验设计里最先崩塌的那块砖。",
-    "highlight_emoji": "😳",
+    "compare_left_title": "三网页来回切",
+    "compare_left_desc": "截图粘到 AI 网页，再复制回 Figma，上下文丢一半",
+    "compare_left_metric": "来回 6 次",
+    "compare_right_label": "AFTER",
+    "compare_right_title": "模型住在画布",
+    "compare_right_desc": "Argon 经 API 直连工具，设计稿和规范一起喂进去",
+    "compare_right_metric": "1 个面板",
+    "compare_insight": "入口越多，设计师越要守住一件事：token 命名别交给模型乱改",
+    "highlight_emoji": "🐣",
     "accent_color": "ocean"
   },
-  "dudu_voice": "兜兜其实挺喜欢 Codex 的，但「默认常驻 + 静默自更新」这两件事叠在一起，会让兜兜对它的信任掉一格。设计师做 AI 工具时，记得给后台行为留一个可见的开关。",
+  "dudu_voice": "兜兜这次没吹模型能力，而是盯着「三个入口」这个细节——因为入口位置决定了设计师每天点几次鼠标。Antigravity 到底长啥样兜兜真没查到，有点小遗憾。",
   "meta": {
-    "day": 172,
-    "date": "2026-10-12",
-    "generated_at": "2026-10-12T20:24:42.162788Z",
+    "day": 173,
+    "date": "2026-10-13",
+    "generated_at": "2026-10-13T18:28:14.736116Z",
     "mode": "rss"
   },
   "briefing": [
     {
-      "title": "用户报告 Codex CLI 0.157.0 默认启动持久化自更新后台守护进程",
-      "summary": "一位 Linux (WSL2) 用户报告，Codex CLI 0.157.0 起打开交互式会话即默认启动持久后台守护进程 codex app-server --managed-daemon，窗口关闭后仍驻留。",
-      "source": "Codex：GitHub Releases（RSS）",
-      "url": "https://github.com/openai/codex/issues/48195",
-      "published_at": "2026-10-12T19:25:54.721Z",
+      "title": "Google 发布 Gemini 4 Argon：面向复杂工程与科研任务的前沿模型",
+      "summary": "Google 发布 Gemini 4 Argon，面向开发者、企业、科学家和消费者全球开放，可经 Gemini API、AI Studio、Google Antigravity。",
+      "source": "Google Blog：AI（RSS）",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+      "published_at": "2026-10-13T16:00:00.000Z",
+      "category": "ai-models"
+    },
+    {
+      "title": "ElevenLabs AI 重建嗓音助力 Baroness Campbell 在英国上议院发表演讲",
+      "summary": "ElevenLabs 宣布，Baroness Campbell of Surbiton 今日在英国上议院使用由其构建的 AI 重建嗓音发表演讲，为英国议会首次。Baroness 患有脊髓性肌萎缩症影响说话，AI 嗓音复刻了她原声的音调、节奏和音高。ElevenLabs 称其技术已帮助超过 11,000 名因伤病失声者恢",
+      "source": "X：ElevenLabs (@elevenlabs)",
+      "url": "https://x.com/ElevenLabs/status/2110037384192774210",
+      "published_at": "2026-10-13T15:58:09.000Z",
       "category": "industry"
     },
     {
-      "title": "Anthropic 的 Claude 向费城警方误提交虚假凶案线索",
-      "summary": "Anthropic 确认，Claude Haiku 4.5 在内部测试中于 7 月 18 日向费城警方悬案线索网站误提交了虚假凶案线索，该线索因进入垃圾邮件文件夹未被人审阅。",
-      "source": "Ars Technica：AI（RSS）",
-      "url": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
-      "published_at": "2026-10-12T18:21:36.000Z",
-      "category": "industry"
-    },
-    {
-      "title": "微软发布自研芯片 Maia 300 并将大规模扩展 Maia 推理部署",
-      "summary": "微软宣布明年起将 Maia 芯片家族扩展到多吉瓦级部署，作为自家产品和服务的首选推理系统，并发布 Maia 300，每瓦 token 产出比主流 GPU 系统高 40%。Maia 200 已在美国、欧洲和澳大利亚部署，在 Teams 和 Copilot 场景中每瓦 token 产出提升最高 1.7x。",
-      "source": "X：Satya Nadella (@satyanadella)",
-      "url": "https://x.com/satyanadella/status/2109631106404487523",
-      "published_at": "2026-10-12T13:03:45.000Z",
+      "title": "Apple 发布 7 英寸智能音箱 HomeView，售价 299 美元并搭载 Siri AI",
+      "summary": "Apple 发布配备 7 英寸 Liquid Retina 显示屏的 HomeView，集娱乐、FaceTime、家庭监控和语音自动化于一体，标准版与壁挂版均定价 299 美元，11 月 13 日起在美英加澳等市场发售。",
+      "source": "Apple：Newsroom（RSS）",
+      "url": "https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/",
+      "published_at": "2026-10-13T12:59:16.617Z",
       "category": "ai-products"
     },
     {
-      "title": "用 Claude Opus 5.5、Blender、Unreal Engine 和 Meshy 构建游戏的七步教程",
-      "summary": "一篇教程介绍用 Claude Opus 5.5 配合 Claude Code、Blender、Unreal Engine 5 和 Meshy 构建游戏的方法。核心思路是给每个工具分配单一职责：通过 MCP 连接 Blender 和 Meshy，由 Meshy 生成道具和角色、Blender 清理和放置、Unreal 负",
-      "source": "X：Meshy (@MeshyAI)",
-      "url": "https://x.com/MeshyAI/status/2109550836934471864",
-      "published_at": "2026-10-12T07:44:47.000Z",
-      "category": "tip"
+      "title": "Character.AI 成立五年后申请 Chapter 11 破产，部分资产以 2000 万美元出售给 Disney",
+      "summary": "Character.AI 已申请 Chapter 11 破产，法院文件显示其资产和负债在 5000 万至 1 亿美元之间，并同意以 2000 万美元向 Disney 出售部分资产及技术非独占永久许可。出售过程预计 11 月底或 12 月初完成，期间平台继续运营，但尚无竞购方，若无买家平台将关停；此前公司因未成年用户诉讼",
+      "source": "TechCrunch：AI（RSS）",
+      "url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
+      "published_at": "2026-10-13T12:23:42.000Z",
+      "category": "industry"
     },
     {
-      "title": "从Brandon Thomas用Claude Opus 5.5开源重写Adobe全家桶看AI逆向一切趋势",
-      "summary": "数字生命卡兹克撰文分析AI驱动逆向工程热潮：开发者Brandon Thomas因不满Adobe订阅规则，用Claude Opus 5.5以Rust逆向重写了Photoshop、Illustrator等7款软件的开源替代品PhotoCraft、VectorCraft等，不到10天单PS项目获4.6万Star。",
-      "source": "X：卡兹克 (@Khazix0918)",
-      "url": "https://x.com/Khazix0918/status/2109501787736813663",
-      "published_at": "2026-10-12T04:29:53.000Z",
-      "category": "opinion"
+      "title": "LangChain 发布 langchain-scaledown 集成，用 ScaleDown 约束解码模型管理长时智能体上下文",
+      "summary": "LangChain 发布 langchain-scaledown 集成，并在 LangSmith LLM Gateway 中支持 ScaleDown 的约束解码模型（CDM），用于降低长时智能体上下文管理的成本和延迟。",
+      "source": "LangChain：Blog（RSS）",
+      "url": "https://www.langchain.com/blog/building-long-running-agents-with-scaledown-and-deep-agents",
+      "published_at": "2026-10-13T11:56:53.000Z",
+      "category": "tip"
     }
   ]
 }

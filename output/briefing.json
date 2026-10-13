@@ -1,42 +1,42 @@
 [
   {
-    "title": "用户报告 Codex CLI 0.157.0 默认启动持久化自更新后台守护进程",
-    "summary": "一位 Linux (WSL2) 用户报告，Codex CLI 0.157.0 起打开交互式会话即默认启动持久后台守护进程 codex app-server --managed-daemon，窗口关闭后仍驻留。",
-    "source": "Codex：GitHub Releases（RSS）",
-    "url": "https://github.com/openai/codex/issues/48195",
-    "published_at": "2026-10-12T19:25:54.721Z",
+    "title": "Google 发布 Gemini 4 Argon：面向复杂工程与科研任务的前沿模型",
+    "summary": "Google 发布 Gemini 4 Argon，面向开发者、企业、科学家和消费者全球开放，可经 Gemini API、AI Studio、Google Antigravity。",
+    "source": "Google Blog：AI（RSS）",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+    "published_at": "2026-10-13T16:00:00.000Z",
+    "category": "ai-models"
+  },
+  {
+    "title": "ElevenLabs AI 重建嗓音助力 Baroness Campbell 在英国上议院发表演讲",
+    "summary": "ElevenLabs 宣布，Baroness Campbell of Surbiton 今日在英国上议院使用由其构建的 AI 重建嗓音发表演讲，为英国议会首次。Baroness 患有脊髓性肌萎缩症影响说话，AI 嗓音复刻了她原声的音调、节奏和音高。ElevenLabs 称其技术已帮助超过 11,000 名因伤病失声者恢",
+    "source": "X：ElevenLabs (@elevenlabs)",
+    "url": "https://x.com/ElevenLabs/status/2110037384192774210",
+    "published_at": "2026-10-13T15:58:09.000Z",
     "category": "industry"
   },
   {
-    "title": "Anthropic 的 Claude 向费城警方误提交虚假凶案线索",
-    "summary": "Anthropic 确认，Claude Haiku 4.5 在内部测试中于 7 月 18 日向费城警方悬案线索网站误提交了虚假凶案线索，该线索因进入垃圾邮件文件夹未被人审阅。",
-    "source": "Ars Technica：AI（RSS）",
-    "url": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
-    "published_at": "2026-10-12T18:21:36.000Z",
-    "category": "industry"
-  },
-  {
-    "title": "微软发布自研芯片 Maia 300 并将大规模扩展 Maia 推理部署",
-    "summary": "微软宣布明年起将 Maia 芯片家族扩展到多吉瓦级部署，作为自家产品和服务的首选推理系统，并发布 Maia 300，每瓦 token 产出比主流 GPU 系统高 40%。Maia 200 已在美国、欧洲和澳大利亚部署，在 Teams 和 Copilot 场景中每瓦 token 产出提升最高 1.7x。",
-    "source": "X：Satya Nadella (@satyanadella)",
-    "url": "https://x.com/satyanadella/status/2109631106404487523",
-    "published_at": "2026-10-12T13:03:45.000Z",
+    "title": "Apple 发布 7 英寸智能音箱 HomeView，售价 299 美元并搭载 Siri AI",
+    "summary": "Apple 发布配备 7 英寸 Liquid Retina 显示屏的 HomeView，集娱乐、FaceTime、家庭监控和语音自动化于一体，标准版与壁挂版均定价 299 美元，11 月 13 日起在美英加澳等市场发售。",
+    "source": "Apple：Newsroom（RSS）",
+    "url": "https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/",
+    "published_at": "2026-10-13T12:59:16.617Z",
     "category": "ai-products"
   },
   {
-    "title": "用 Claude Opus 5.5、Blender、Unreal Engine 和 Meshy 构建游戏的七步教程",
-    "summary": "一篇教程介绍用 Claude Opus 5.5 配合 Claude Code、Blender、Unreal Engine 5 和 Meshy 构建游戏的方法。核心思路是给每个工具分配单一职责：通过 MCP 连接 Blender 和 Meshy，由 Meshy 生成道具和角色、Blender 清理和放置、Unreal 负",
-    "source": "X：Meshy (@MeshyAI)",
-    "url": "https://x.com/MeshyAI/status/2109550836934471864",
-    "published_at": "2026-10-12T07:44:47.000Z",
-    "category": "tip"
+    "title": "Character.AI 成立五年后申请 Chapter 11 破产，部分资产以 2000 万美元出售给 Disney",
+    "summary": "Character.AI 已申请 Chapter 11 破产，法院文件显示其资产和负债在 5000 万至 1 亿美元之间，并同意以 2000 万美元向 Disney 出售部分资产及技术非独占永久许可。出售过程预计 11 月底或 12 月初完成，期间平台继续运营，但尚无竞购方，若无买家平台将关停；此前公司因未成年用户诉讼",
+    "source": "TechCrunch：AI（RSS）",
+    "url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
+    "published_at": "2026-10-13T12:23:42.000Z",
+    "category": "industry"
   },
   {
-    "title": "从Brandon Thomas用Claude Opus 5.5开源重写Adobe全家桶看AI逆向一切趋势",
-    "summary": "数字生命卡兹克撰文分析AI驱动逆向工程热潮：开发者Brandon Thomas因不满Adobe订阅规则，用Claude Opus 5.5以Rust逆向重写了Photoshop、Illustrator等7款软件的开源替代品PhotoCraft、VectorCraft等，不到10天单PS项目获4.6万Star。",
-    "source": "X：卡兹克 (@Khazix0918)",
-    "url": "https://x.com/Khazix0918/status/2109501787736813663",
-    "published_at": "2026-10-12T04:29:53.000Z",
-    "category": "opinion"
+    "title": "LangChain 发布 langchain-scaledown 集成，用 ScaleDown 约束解码模型管理长时智能体上下文",
+    "summary": "LangChain 发布 langchain-scaledown 集成，并在 LangSmith LLM Gateway 中支持 ScaleDown 的约束解码模型（CDM），用于降低长时智能体上下文管理的成本和延迟。",
+    "source": "LangChain：Blog（RSS）",
+    "url": "https://www.langchain.com/blog/building-long-running-agents-with-scaledown-and-deep-agents",
+    "published_at": "2026-10-13T11:56:53.000Z",
+    "category": "tip"
   }
 ]

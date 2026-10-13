@@ -1,5 +1,5 @@
 {
-  "day_count": 172,
+  "day_count": 173,
   "history": [
     {
       "day": 20,
@@ -1021,6 +1021,13 @@
       "date": "2026-10-12",
       "topic": "用户报告 Codex CLI 0.157.0 默认启动持久化自更新后台守护进程",
       "source": "Codex：GitHub Releases（RSS）",
+      "mode": "rss"
+    },
+    {
+      "day": 173,
+      "date": "2026-10-13",
+      "topic": "Google 发布 Gemini 4 Argon：面向复杂工程与科研任务的前沿模型",
+      "source": "Google Blog：AI（RSS）",
       "mode": "rss"
     }
   ],

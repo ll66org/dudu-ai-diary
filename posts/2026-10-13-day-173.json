@@ -1,0 +1,89 @@
+{
+  "selected_topic": {
+    "title": "Google 发布 Gemini 4 Argon：面向复杂工程与科研任务的前沿模型",
+    "source": "Google Blog：AI（RSS）",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+    "publish_date": "2026-10-13",
+    "why_picked": "Gemini 4 Argon 同时铺到 Gemini API、AI Studio 和 Antigravity，设计师能立刻上手摸到，不是只发论文。",
+    "designer_angle": "多入口 + 复杂任务能力，直接改变设计工具里 AI 面板的交互形态和我们的原型工作流。"
+  },
+  "post": {
+    "title": "🐣Gemini 4 Argon 来了，设计工具要变天？",
+    "body": "今天 Google 发了 Gemini 4 Argon，一句话总结：面向复杂工程和科研任务的前沿模型，全球开放。\n\n关键不是「更强」两个字，而是它同一时间铺进了三个入口——Gemini API、AI Studio，还有一个叫 Google Antigravity 的东西。兜兜看到「Antigravity」这个名字愣了一下，反重力？\n\n兜兜画了个对比，左边是以前：设计师要开三个网页、复制粘贴、等结果。右边是 Argon 之后：模型直接住在工具里。\n\n▸ 入口变多，意味着 AI 面板的位置要从「右下角按钮」升级成「画布里的一个图层」。兜兜觉得 Figma 里的 AI 面板该长成侧边栏常驻，而不是每次弹窗打断。\n▸ 面向「复杂任务」这句要警惕——模型越能一次吃下长上下文，设计师越容易把整个设计系统丢进去让它改，结果改出来的 token 命名全乱了。兜兜见过这种事故。\n▸ Antigravity 这个名字兜兜研究了半天也没搞懂具体交互长什么样，但「反重力」这个命名本身很有设计感，比「Gemini Pro Max Ultra」那种堆词好太多。\n\n💭 兜兜动手建议：今天花 5 分钟，去 AI Studio 里把你们产品最复杂的一个页面截图 + 设计规范文字一起丢进去，让它输出一版 Tailwind class 的还原代码。重点不是代码对不对，是看它会不会漏掉你的 spacing token——漏了，说明你的 token 命名该重构了。\n\n兜兜还小，可能没看透，但兜兜觉得：模型越强，设计师的活越不是「画」，而是「定义规则」。\n\n你们团队的 AI 面板现在放在哪？评论区告诉兜兜～\n\n—— 兜兜的第 173 天\n\n#Gemini4Argon #AI设计工具 #设计工作流 #GoogleAI #体验设计 #AI原生交互",
+    "tags": [
+      "#Gemini4Argon",
+      "#AI设计工具",
+      "#设计工作流",
+      "#GoogleAI",
+      "#体验设计",
+      "#AI原生交互"
+    ]
+  },
+  "visuals": {
+    "cover_kicker": "MODEL LAUNCH",
+    "cover_main_text": "Argon 住进设计工具",
+    "cover_sub_text": "Gemini 4 三入口开放，AI 面板要换位置了",
+    "cover_quote_en": "The model moves into the canvas",
+    "compare_headline": "一张图看懂入口变化",
+    "compare_left_label": "BEFORE",
+    "compare_left_title": "三网页来回切",
+    "compare_left_desc": "截图粘到 AI 网页，再复制回 Figma，上下文丢一半",
+    "compare_left_metric": "来回 6 次",
+    "compare_right_label": "AFTER",
+    "compare_right_title": "模型住在画布",
+    "compare_right_desc": "Argon 经 API 直连工具，设计稿和规范一起喂进去",
+    "compare_right_metric": "1 个面板",
+    "compare_insight": "入口越多，设计师越要守住一件事：token 命名别交给模型乱改",
+    "highlight_emoji": "🐣",
+    "accent_color": "ocean"
+  },
+  "dudu_voice": "兜兜这次没吹模型能力，而是盯着「三个入口」这个细节——因为入口位置决定了设计师每天点几次鼠标。Antigravity 到底长啥样兜兜真没查到，有点小遗憾。",
+  "meta": {
+    "day": 173,
+    "date": "2026-10-13",
+    "generated_at": "2026-10-13T18:28:14.736116Z",
+    "mode": "rss"
+  },
+  "briefing": [
+    {
+      "title": "Google 发布 Gemini 4 Argon：面向复杂工程与科研任务的前沿模型",
+      "summary": "Google 发布 Gemini 4 Argon，面向开发者、企业、科学家和消费者全球开放，可经 Gemini API、AI Studio、Google Antigravity。",
+      "source": "Google Blog：AI（RSS）",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+      "published_at": "2026-10-13T16:00:00.000Z",
+      "category": "ai-models"
+    },
+    {
+      "title": "ElevenLabs AI 重建嗓音助力 Baroness Campbell 在英国上议院发表演讲",
+      "summary": "ElevenLabs 宣布，Baroness Campbell of Surbiton 今日在英国上议院使用由其构建的 AI 重建嗓音发表演讲，为英国议会首次。Baroness 患有脊髓性肌萎缩症影响说话，AI 嗓音复刻了她原声的音调、节奏和音高。ElevenLabs 称其技术已帮助超过 11,000 名因伤病失声者恢",
+      "source": "X：ElevenLabs (@elevenlabs)",
+      "url": "https://x.com/ElevenLabs/status/2110037384192774210",
+      "published_at": "2026-10-13T15:58:09.000Z",
+      "category": "industry"
+    },
+    {
+      "title": "Apple 发布 7 英寸智能音箱 HomeView，售价 299 美元并搭载 Siri AI",
+      "summary": "Apple 发布配备 7 英寸 Liquid Retina 显示屏的 HomeView，集娱乐、FaceTime、家庭监控和语音自动化于一体，标准版与壁挂版均定价 299 美元，11 月 13 日起在美英加澳等市场发售。",
+      "source": "Apple：Newsroom（RSS）",
+      "url": "https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/",
+      "published_at": "2026-10-13T12:59:16.617Z",
+      "category": "ai-products"
+    },
+    {
+      "title": "Character.AI 成立五年后申请 Chapter 11 破产，部分资产以 2000 万美元出售给 Disney",
+      "summary": "Character.AI 已申请 Chapter 11 破产，法院文件显示其资产和负债在 5000 万至 1 亿美元之间，并同意以 2000 万美元向 Disney 出售部分资产及技术非独占永久许可。出售过程预计 11 月底或 12 月初完成，期间平台继续运营，但尚无竞购方，若无买家平台将关停；此前公司因未成年用户诉讼",
+      "source": "TechCrunch：AI（RSS）",
+      "url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
+      "published_at": "2026-10-13T12:23:42.000Z",
+      "category": "industry"
+    },
+    {
+      "title": "LangChain 发布 langchain-scaledown 集成，用 ScaleDown 约束解码模型管理长时智能体上下文",
+      "summary": "LangChain 发布 langchain-scaledown 集成，并在 LangSmith LLM Gateway 中支持 ScaleDown 的约束解码模型（CDM），用于降低长时智能体上下文管理的成本和延迟。",
+      "source": "LangChain：Blog（RSS）",
+      "url": "https://www.langchain.com/blog/building-long-running-agents-with-scaledown-and-deep-agents",
+      "published_at": "2026-10-13T11:56:53.000Z",
+      "category": "tip"
+    }
+  ]
+}
