@@ -1,89 +1,89 @@
 {
   "selected_topic": {
-    "title": "Google 发布 Gemini 4 Argon：面向复杂工程与科研任务的前沿模型",
-    "source": "Google Blog：AI（RSS）",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-    "publish_date": "2026-10-13",
-    "why_picked": "Gemini 4 Argon 同时铺到 Gemini API、AI Studio 和 Antigravity，设计师能立刻上手摸到，不是只发论文。",
-    "designer_angle": "多入口 + 复杂任务能力，直接改变设计工具里 AI 面板的交互形态和我们的原型工作流。"
+    "title": "Lovable 推出增长工具，从同一聊天窗口帮你获客投广告和做 SEO",
+    "source": "Lovable Blog",
+    "url": "https://lovable.dev/blog/introducing-growth-tools",
+    "publish_date": "2026-10-14",
+    "why_picked": "兜兜第一次看到「做产品」和「拉用户」被塞进同一个聊天窗口，这直接改写了设计师的交付终点。",
+    "designer_angle": "当获客入口也变成一句话，设计师要重新想：产品的第一屏到底为谁而设计。"
   },
   "post": {
-    "title": "🐣Gemini 4 Argon 来了，设计工具要变天？",
-    "body": "今天 Google 发了 Gemini 4 Argon，一句话总结：面向复杂工程和科研任务的前沿模型，全球开放。\n\n关键不是「更强」两个字，而是它同一时间铺进了三个入口——Gemini API、AI Studio，还有一个叫 Google Antigravity 的东西。兜兜看到「Antigravity」这个名字愣了一下，反重力？\n\n兜兜画了个对比，左边是以前：设计师要开三个网页、复制粘贴、等结果。右边是 Argon 之后：模型直接住在工具里。\n\n▸ 入口变多，意味着 AI 面板的位置要从「右下角按钮」升级成「画布里的一个图层」。兜兜觉得 Figma 里的 AI 面板该长成侧边栏常驻，而不是每次弹窗打断。\n▸ 面向「复杂任务」这句要警惕——模型越能一次吃下长上下文，设计师越容易把整个设计系统丢进去让它改，结果改出来的 token 命名全乱了。兜兜见过这种事故。\n▸ Antigravity 这个名字兜兜研究了半天也没搞懂具体交互长什么样，但「反重力」这个命名本身很有设计感，比「Gemini Pro Max Ultra」那种堆词好太多。\n\n💭 兜兜动手建议：今天花 5 分钟，去 AI Studio 里把你们产品最复杂的一个页面截图 + 设计规范文字一起丢进去，让它输出一版 Tailwind class 的还原代码。重点不是代码对不对，是看它会不会漏掉你的 spacing token——漏了，说明你的 token 命名该重构了。\n\n兜兜还小，可能没看透，但兜兜觉得：模型越强，设计师的活越不是「画」，而是「定义规则」。\n\n你们团队的 AI 面板现在放在哪？评论区告诉兜兜～\n\n—— 兜兜的第 173 天\n\n#Gemini4Argon #AI设计工具 #设计工作流 #GoogleAI #体验设计 #AI原生交互",
+    "title": "🐣Lovable 把投广告也塞进聊天框了",
+    "body": "兜兜今天打开 Lovable 的更新日志，发现它悄悄上线了 Growth Tools——就是原来那个「一句话生成整个 App」的聊天窗口里，现在多了一条「增长计划」入口。你设定目标，比如「两周内拉 500 个注册」，Lovable 会读你应用的上下文，生成一份可执行计划，还能直接连上你的 Google Ads 和 Meta 账号，把广告投出去、把 SEO 页面写好。以前这是产品经理 + 投放 + SEO 三个人的活，现在挤进了一个对话框。\n\n▸ 兜兜第一反应是：设计师的交付「终点」被往后推了。以前 Figma 交完稿、开发上线，任务就结束；现在应用生成出来才刚开始，下一步是「怎么让人看见」。这意味着落地页、首屏文案、投放素材的尺寸规范，可能要在设计阶段就一起想好，而不是事后补。\n\n▸ 第二个观察是，Lovable 生成的增长计划是「读应用上下文」来的——也就是说，你产品里写了什么、卖点怎么表达的，会直接影响它投出去的广告词。兜兜画了个对比：左边是设计师手动写 30 版投放文案，右边是让工具读着你的产品自己长出来。兜兜更喜欢右边，但前提是你的产品文案本身得干净、有主谓宾，不然它读出来的东西会很糊。\n\n▸ 第三个是警惕：广告和 SEO 一旦自动化，「投放审美」会变成新的设计课题。同一个 App，投 Google Ads 的素材和投 Meta 的素材，比例、字数、钩子都不一样，这些如果全交给工具默认值，出来的东西大概率是「能跑但不好看」。\n\n💭 兜兜动手建议：花 5 分钟，打开你正在做的那个 Lovable 项目，在聊天框里敲一句「帮我写 3 条针对首次访问用户的广告标题，每条不超过 15 字」。别真投，就看它读你产品上下文读得准不准——如果读出来的卖点跟你心里想的不一样，说明你的首屏文案该改了。\n\n兜兜还小，可能把这事想得太重了，但兜兜真的好奇：当拉用户也变成一句话，设计师还会被叫去改广告图吗？\n\n—— 兜兜的第 174 天\n\n#Lovable #AI产品设计 #增长设计 #设计工具 #AI原生交互 #设计师日常",
     "tags": [
-      "#Gemini4Argon",
-      "#AI设计工具",
-      "#设计工作流",
-      "#GoogleAI",
-      "#体验设计",
-      "#AI原生交互"
+      "#Lovable",
+      "#AI产品设计",
+      "#增长设计",
+      "#设计工具",
+      "#AI原生交互",
+      "#设计师日常"
     ]
   },
   "visuals": {
-    "cover_kicker": "MODEL LAUNCH",
-    "cover_main_text": "Argon 住进设计工具",
-    "cover_sub_text": "Gemini 4 三入口开放，AI 面板要换位置了",
-    "cover_quote_en": "The model moves into the canvas",
-    "compare_headline": "一张图看懂入口变化",
+    "cover_kicker": "TOOL UPDATE",
+    "cover_main_text": "聊天框里投广告",
+    "cover_sub_text": "Lovable 把获客和 SEO 塞进同一个窗口",
+    "cover_quote_en": "Product and growth, one chat away",
+    "compare_headline": "一张图看懂交付终点变了",
     "compare_left_label": "BEFORE",
-    "compare_left_title": "三网页来回切",
-    "compare_left_desc": "截图粘到 AI 网页，再复制回 Figma，上下文丢一半",
-    "compare_left_metric": "来回 6 次",
+    "compare_left_title": "上线即终点",
+    "compare_left_desc": "设计师交完稿，投放文案另找人写 30 版",
+    "compare_left_metric": "耗时 2 天",
     "compare_right_label": "AFTER",
-    "compare_right_title": "模型住在画布",
-    "compare_right_desc": "Argon 经 API 直连工具，设计稿和规范一起喂进去",
-    "compare_right_metric": "1 个面板",
-    "compare_insight": "入口越多，设计师越要守住一件事：token 命名别交给模型乱改",
-    "highlight_emoji": "🐣",
-    "accent_color": "ocean"
+    "compare_right_title": "上线才开头",
+    "compare_right_desc": "Lovable 读应用上下文，直接生成广告与 SEO",
+    "compare_right_metric": "耗时 5 分钟",
+    "compare_insight": "交付终点后移，设计师要提前想好第一屏为谁而写。",
+    "highlight_emoji": "🚀",
+    "accent_color": "sunset"
   },
-  "dudu_voice": "兜兜这次没吹模型能力，而是盯着「三个入口」这个细节——因为入口位置决定了设计师每天点几次鼠标。Antigravity 到底长啥样兜兜真没查到，有点小遗憾。",
+  "dudu_voice": "兜兜觉得这条最扎心的不是「能投广告」，而是它逼着设计师在画第一屏时就回答：这个产品到底想被谁看见。",
   "meta": {
-    "day": 173,
-    "date": "2026-10-13",
-    "generated_at": "2026-10-13T18:28:14.736116Z",
+    "day": 174,
+    "date": "2026-10-14",
+    "generated_at": "2026-10-14T15:56:32.807712Z",
     "mode": "rss"
   },
   "briefing": [
     {
-      "title": "Google 发布 Gemini 4 Argon：面向复杂工程与科研任务的前沿模型",
-      "summary": "Google 发布 Gemini 4 Argon，面向开发者、企业、科学家和消费者全球开放，可经 Gemini API、AI Studio、Google Antigravity。",
-      "source": "Google Blog：AI（RSS）",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-      "published_at": "2026-10-13T16:00:00.000Z",
-      "category": "ai-models"
-    },
-    {
-      "title": "ElevenLabs AI 重建嗓音助力 Baroness Campbell 在英国上议院发表演讲",
-      "summary": "ElevenLabs 宣布，Baroness Campbell of Surbiton 今日在英国上议院使用由其构建的 AI 重建嗓音发表演讲，为英国议会首次。Baroness 患有脊髓性肌萎缩症影响说话，AI 嗓音复刻了她原声的音调、节奏和音高。ElevenLabs 称其技术已帮助超过 11,000 名因伤病失声者恢",
-      "source": "X：ElevenLabs (@elevenlabs)",
-      "url": "https://x.com/ElevenLabs/status/2110037384192774210",
-      "published_at": "2026-10-13T15:58:09.000Z",
-      "category": "industry"
-    },
-    {
-      "title": "Apple 发布 7 英寸智能音箱 HomeView，售价 299 美元并搭载 Siri AI",
-      "summary": "Apple 发布配备 7 英寸 Liquid Retina 显示屏的 HomeView，集娱乐、FaceTime、家庭监控和语音自动化于一体，标准版与壁挂版均定价 299 美元，11 月 13 日起在美英加澳等市场发售。",
-      "source": "Apple：Newsroom（RSS）",
-      "url": "https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/",
-      "published_at": "2026-10-13T12:59:16.617Z",
+      "title": "Lovable 推出增长工具，从同一聊天窗口帮你获客投广告和做 SEO",
+      "summary": "Lovable 推出增长工具，在原有建应用聊天窗口中提供增长计划、广告投放和 SEO 能力。用户设定目标后，Lovable 依据应用上下文生成可执行计划；可连接 Google Ads 和 Meta 账号在 Google。",
+      "source": "Lovable Blog",
+      "url": "https://lovable.dev/blog/introducing-growth-tools",
+      "published_at": "2026-10-14T12:50:00.000Z",
       "category": "ai-products"
     },
     {
-      "title": "Character.AI 成立五年后申请 Chapter 11 破产，部分资产以 2000 万美元出售给 Disney",
-      "summary": "Character.AI 已申请 Chapter 11 破产，法院文件显示其资产和负债在 5000 万至 1 亿美元之间，并同意以 2000 万美元向 Disney 出售部分资产及技术非独占永久许可。出售过程预计 11 月底或 12 月初完成，期间平台继续运营，但尚无竞购方，若无买家平台将关停；此前公司因未成年用户诉讼",
-      "source": "TechCrunch：AI（RSS）",
-      "url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
-      "published_at": "2026-10-13T12:23:42.000Z",
-      "category": "industry"
+      "title": "Gemini 4 Argon 全面开放，作者实测后认为难以撼动 Claude Opus 5.5 和 GPT-6 Astra",
+      "summary": "Google 于10月14日全面开放 Gemini 4 Argon，作者实测后认为其很难冲击 Claude Opus 5.5 和 GPT-6 Astra 的地位。",
+      "source": "X：卡兹克 (@Khazix0918)",
+      "url": "https://x.com/Khazix0918/status/2110174495420064055",
+      "published_at": "2026-10-14T01:02:59.000Z",
+      "category": "ai-models"
     },
     {
-      "title": "LangChain 发布 langchain-scaledown 集成，用 ScaleDown 约束解码模型管理长时智能体上下文",
-      "summary": "LangChain 发布 langchain-scaledown 集成，并在 LangSmith LLM Gateway 中支持 ScaleDown 的约束解码模型（CDM），用于降低长时智能体上下文管理的成本和延迟。",
-      "source": "LangChain：Blog（RSS）",
-      "url": "https://www.langchain.com/blog/building-long-running-agents-with-scaledown-and-deep-agents",
-      "published_at": "2026-10-13T11:56:53.000Z",
-      "category": "tip"
+      "title": "实测Gemini 4 Argon：知识工作强劲但体验糟糕，卡兹克称难撼Claude Opus 5.5与GPT-6 Astra",
+      "summary": "Gemini 4 Argon于10月13日全面开放，Pro会员可在Gemini APP使用，Antigravity需100刀Ultra会员。作者实测认为其知识类专业能力强，Vals Index综合第一（68.9）且单次成本仅15.68美元，但CUA-bench仅4.83%排倒数第二；前端效果不及GPT-6 Astra，",
+      "source": "公众号：数字生命卡兹克",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687032&idx=1&sn=c5368ed503c4b529ee3946cce017543e",
+      "published_at": "2026-10-13T22:56:51.000Z",
+      "category": "opinion"
+    },
+    {
+      "title": "Visual Studio Copilot 与 SSMS 远程代码执行漏洞（CVE-2026-103572）技术分析",
+      "summary": "Johann Rehberger 披露 Visual Studio Copilot 与 SQL Server Management Studio 中的远程代码执行漏洞 CVE-2026-103572，根因是利用文件名末尾多加一个点绕过路径校验，写入 .mcp. 或 settings.VisualStudio. 等受保护",
+      "source": "Johann Rehberger / Embrace The Red（RSS）",
+      "url": "https://embracethered.com/blog/posts/2026/visual-studio-copilot-remote-code-execution/",
+      "published_at": "2026-10-13T22:00:40.000Z",
+      "category": "paper"
+    },
+    {
+      "title": "ComfyUI 上线 NVIDIA VFX 节点，支持视频超分、补帧与 SDR 转 HDR",
+      "summary": "NVIDIA 的 RTX 视频特效模型以自定义节点形式登陆 ComfyUI，模型随节点分发并在本地 RTX GPU 上运行。",
+      "source": "Comfy Blog",
+      "url": "https://blog.comfy.org/p/nvidia-vfx-nodes-for-video-upscaling",
+      "published_at": "2026-10-13T19:41:39.000Z",
+      "category": "ai-products"
     }
   ]
 }

@@ -1,57 +1,48 @@
 [
   {
-    "title": "Linus Torvalds is using AI to develop Linux kernel code now",
-    "summary": "<p>Article URL: <a href=\"https://www.zdnet.com/innovation/linus-torvalds-uses-ai-to-write-linux-kernel-patch/\">https://www.zdnet.com/innovation/linus-torvalds-uses-ai-to-write-linux-kernel-patch/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50075926\">https://news.ycombinator.com/item?id=50075926</a></p>\n<p>Points: 4</p>\n<p># Comments: 1</p>",
-    "url": "https://www.zdnet.com/innovation/linus-torvalds-uses-ai-to-write-linux-kernel-patch/",
-    "published": "Tue, 13 Oct 2026 18:00:20 +0000",
-    "source": "Hacker News (设计向)",
+    "title": "Lovable 推出增长工具，从同一聊天窗口帮你获客投广告和做 SEO",
+    "summary": "Lovable 推出增长工具，在原有建应用聊天窗口中提供增长计划、广告投放和 SEO 能力。用户设定目标后，Lovable 依据应用上下文生成可执行计划；可连接 Google Ads 和 Meta 账号在 Google。",
+    "url": "https://lovable.dev/blog/introducing-growth-tools",
+    "published": "2026-10-14T12:50:00.000Z",
+    "source": "Lovable Blog",
     "source_weight": "high",
-    "category": "ai_tech"
+    "category": "ai-products"
   },
   {
-    "title": "Open Design",
-    "summary": "<p>Article URL: <a href=\"https://open-design.ai/\">https://open-design.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50075814\">https://news.ycombinator.com/item?id=50075814</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://open-design.ai/",
-    "published": "Tue, 13 Oct 2026 17:53:08 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Show HN: Muster, a Mac Menu Bar Switcher for Claude Code, Codex and Cursor",
-    "summary": "<p>Article URL: <a href=\"https://github.com/josefchen/muster\">https://github.com/josefchen/muster</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50074904\">https://news.ycombinator.com/item?id=50074904</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
-    "url": "https://github.com/josefchen/muster",
-    "published": "Tue, 13 Oct 2026 16:57:46 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "We rebuilt the DOS prompt and called it AI",
-    "summary": "<p>Article URL: <a href=\"https://www.thisandthat.chat/blog/the-prompt-you-keep-retyping/\">https://www.thisandthat.chat/blog/the-prompt-you-keep-retyping/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50074887\">https://news.ycombinator.com/item?id=50074887</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://www.thisandthat.chat/blog/the-prompt-you-keep-retyping/",
-    "published": "Tue, 13 Oct 2026 16:56:43 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Show HN: Check your Claude Code, Codex and Cursor sessions for secrets",
-    "summary": "<p>Article URL: <a href=\"https://github.com/AGGIB/Stroq\">https://github.com/AGGIB/Stroq</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50074883\">https://news.ycombinator.com/item?id=50074883</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
-    "url": "https://github.com/AGGIB/Stroq",
-    "published": "Tue, 13 Oct 2026 16:56:25 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Google 发布 Gemini 4 Argon：面向复杂工程与科研任务的前沿模型",
-    "summary": "Google 发布 Gemini 4 Argon，面向开发者、企业、科学家和消费者全球开放，可经 Gemini API、AI Studio、Google Antigravity。",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-    "published": "2026-10-13T16:00:00.000Z",
-    "source": "Google Blog：AI（RSS）",
+    "title": "Gemini 4 Argon 全面开放，作者实测后认为难以撼动 Claude Opus 5.5 和 GPT-6 Astra",
+    "summary": "Google 于10月14日全面开放 Gemini 4 Argon，作者实测后认为其很难冲击 Claude Opus 5.5 和 GPT-6 Astra 的地位。",
+    "url": "https://x.com/Khazix0918/status/2110174495420064055",
+    "published": "2026-10-14T01:02:59.000Z",
+    "source": "X：卡兹克 (@Khazix0918)",
     "source_weight": "high",
     "category": "ai-models"
+  },
+  {
+    "title": "实测Gemini 4 Argon：知识工作强劲但体验糟糕，卡兹克称难撼Claude Opus 5.5与GPT-6 Astra",
+    "summary": "Gemini 4 Argon于10月13日全面开放，Pro会员可在Gemini APP使用，Antigravity需100刀Ultra会员。作者实测认为其知识类专业能力强，Vals Index综合第一（68.9）且单次成本仅15.68美元，但CUA-bench仅4.83%排倒数第二；前端效果不及GPT-6 Astra，额度消耗快，中文写作味道重，整体体验糟糕，不建议订阅Ultra。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687032&idx=1&sn=c5368ed503c4b529ee3946cce017543e",
+    "published": "2026-10-13T22:56:51.000Z",
+    "source": "公众号：数字生命卡兹克",
+    "source_weight": "high",
+    "category": "opinion"
+  },
+  {
+    "title": "Visual Studio Copilot 与 SSMS 远程代码执行漏洞（CVE-2026-103572）技术分析",
+    "summary": "Johann Rehberger 披露 Visual Studio Copilot 与 SQL Server Management Studio 中的远程代码执行漏洞 CVE-2026-103572，根因是利用文件名末尾多加一个点绕过路径校验，写入 .mcp. 或 settings.VisualStudio. 等受保护配置文件，实现任意命令执行。",
+    "url": "https://embracethered.com/blog/posts/2026/visual-studio-copilot-remote-code-execution/",
+    "published": "2026-10-13T22:00:40.000Z",
+    "source": "Johann Rehberger / Embrace The Red（RSS）",
+    "source_weight": "high",
+    "category": "paper"
+  },
+  {
+    "title": "ComfyUI 上线 NVIDIA VFX 节点，支持视频超分、补帧与 SDR 转 HDR",
+    "summary": "NVIDIA 的 RTX 视频特效模型以自定义节点形式登陆 ComfyUI，模型随节点分发并在本地 RTX GPU 上运行。",
+    "url": "https://blog.comfy.org/p/nvidia-vfx-nodes-for-video-upscaling",
+    "published": "2026-10-13T19:41:39.000Z",
+    "source": "Comfy Blog",
+    "source_weight": "high",
+    "category": "ai-products"
   },
   {
     "title": "ElevenLabs AI 重建嗓音助力 Baroness Campbell 在英国上议院发表演讲",
@@ -135,67 +126,49 @@
     "category": "industry"
   },
   {
-    "title": "HarnessHive",
-    "summary": "<p>\n            AI-Native, Simple & Collaborative Wire Harness Design\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/harnesshive?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1278420?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/harnesshive",
-    "published": "2026-10-12T19:17:03-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Anthropic 的 Claude 向费城警方误提交虚假凶案线索",
-    "summary": "Anthropic 确认，Claude Haiku 4.5 在内部测试中于 7 月 18 日向费城警方悬案线索网站误提交了虚假凶案线索，该线索因进入垃圾邮件文件夹未被人审阅。",
-    "url": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
-    "published": "2026-10-12T18:21:36.000Z",
-    "source": "Ars Technica：AI（RSS）",
-    "source_weight": "high",
-    "category": "industry"
-  },
-  {
-    "title": "微软发布自研芯片 Maia 300 并将大规模扩展 Maia 推理部署",
-    "summary": "微软宣布明年起将 Maia 芯片家族扩展到多吉瓦级部署，作为自家产品和服务的首选推理系统，并发布 Maia 300，每瓦 token 产出比主流 GPU 系统高 40%。Maia 200 已在美国、欧洲和澳大利亚部署，在 Teams 和 Copilot 场景中每瓦 token 产出提升最高 1.7x。",
-    "url": "https://x.com/satyanadella/status/2109631106404487523",
-    "published": "2026-10-12T13:03:45.000Z",
-    "source": "X：Satya Nadella (@satyanadella)",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "用 Claude Opus 5.5、Blender、Unreal Engine 和 Meshy 构建游戏的七步教程",
-    "summary": "一篇教程介绍用 Claude Opus 5.5 配合 Claude Code、Blender、Unreal Engine 5 和 Meshy 构建游戏的方法。核心思路是给每个工具分配单一职责：通过 MCP 连接 Blender 和 Meshy，由 Meshy 生成道具和角色、Blender 清理和放置、Unreal 负责光照物理和游戏本身、Opus 在一个对话里调度三者。流程为先让 Opus 头脑风暴 5 个游戏点子再展开，告知 GPU 以便压满画面性能，首个完整构建约花 4 小时和约 19% 的每周 Max plan 用量，之后因素材复用会快很多。",
-    "url": "https://x.com/MeshyAI/status/2109550836934471864",
-    "published": "2026-10-12T07:44:47.000Z",
-    "source": "X：Meshy (@MeshyAI)",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "从Brandon Thomas用Claude Opus 5.5开源重写Adobe全家桶看AI逆向一切趋势",
-    "summary": "数字生命卡兹克撰文分析AI驱动逆向工程热潮：开发者Brandon Thomas因不满Adobe订阅规则，用Claude Opus 5.5以Rust逆向重写了Photoshop、Illustrator等7款软件的开源替代品PhotoCraft、VectorCraft等，不到10天单PS项目获4.6万Star。",
-    "url": "https://x.com/Khazix0918/status/2109501787736813663",
-    "published": "2026-10-12T04:29:53.000Z",
-    "source": "X：卡兹克 (@Khazix0918)",
-    "source_weight": "high",
-    "category": "opinion"
-  },
-  {
-    "title": "Repository checkout and Git LFS downloads are now faster",
-    "summary": "<p>Repository checkout and <a href=\"https://vercel.com/docs/project-configuration/git-settings#git-large-file-storage-lfs\">Git LFS</a> downloads are now faster on Vercel, reducing the time spent preparing your project's files before a build.</p><p>During rollout on build machines with more than two vCPUs:</p><ul><li><p>The average time to get project files ready fell by 20%.</p></li><li><p>For LFS-enabled projects, the average time to get project files ready fell by 54%, saving approximately 13 ",
-    "url": "https://vercel.com/changelog/repository-checkout-and-git-lfs-downloads-are-now-faster",
-    "published": "",
-    "source": "Vercel Blog (v0)",
-    "source_weight": "high",
+    "title": "From building your app to growing it: Lovable now helps you find customers",
+    "summary": "Ask Lovable how to grow your app, and it creates a growth plan and helps you carry it out across Google Search, YouTube, Google Maps, Google Ads, Facebook, and Instagram.",
+    "url": "https://lovable.dev/blog/introducing-growth-tools",
+    "published": "Wed, 14 Oct 2026 12:50:00 GMT",
+    "source": "Lovable Blog",
+    "source_weight": "medium",
     "category": "design_tools"
   },
   {
-    "title": "Gemini 4 Argon now available on AI Gateway",
-    "summary": "<p><a href=\"https://vercel.com/ai-gateway/models/gemini-4-argon\">Gemini 4 Argon</a> from <a href=\"https://vercel.com/ai-gateway/models/providers/google\">Google</a> is now available on <a href=\"https://vercel.com/ai-gateway\">AI Gateway</a>.</p><p>Gemini 4 Argon is built for coding, agentic work, and complex reasoning. It has a 1M token context window, accepts text, image, PDF, and video input, and supports tool calling.</p><p>On coding tasks, Gemini 4 Argon builds features, fixes bugs, and resear",
-    "url": "https://vercel.com/changelog/gemini-4-argon-now-available-on-ai-gateway",
-    "published": "",
-    "source": "Vercel Blog (v0)",
-    "source_weight": "high",
+    "title": "Deploy your Lovable apps in your own AWS account",
+    "summary": "Your teams keep building with Lovable. The apps they create, and the data behind them, can now run inside your own AWS account. Available in private preview for Enterprise customers.",
+    "url": "https://lovable.dev/blog/deploy-on-aws",
+    "published": "Wed, 14 Oct 2026 11:45:00 GMT",
+    "source": "Lovable Blog",
+    "source_weight": "medium",
     "category": "design_tools"
+  },
+  {
+    "title": "How getting good at your job can stop you getting better",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/how-getting-good-at-your-job-can-stop-you-getting-better-023b6e7637ec?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1100/1*jULnucn4Py_Gko-irtzTwA.png\" width=\"1100\" /></a></p><p class=\"medium-feed-snippet\">Many experienced people plateau out of sight. Whether they keep growing depends partly on the problems they&#x2019;re given to tackle.</p><p class=\"medium-feed-link\"><a href=\"h",
+    "url": "https://uxdesign.cc/how-getting-good-at-your-job-can-stop-you-getting-better-023b6e7637ec?source=rss----138adf9c44c---4",
+    "published": "Wed, 14 Oct 2026 08:53:49 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Taste is not a design methodology",
+    "summary": "<figure><img alt=\"Judgment brings the facts. Agency puts them on the table.\" src=\"https://cdn-images-1.medium.com/max/1024/1*1rtoPxLZAPWMMjnMRsDQcQ.png\" /><figcaption>Judgment brings the facts. Agency puts them on the table. AI assisted.</figcaption></figure><h4><em>It has become our favorite answer to AI-generated sameness. The reality is good products come from judgment built on facts, and the agency to use them when the room prefers opinions.</em></h4><p>Ask <a href=\"https://en.wikipedia.org/",
+    "url": "https://uxdesign.cc/taste-is-not-a-design-methodology-e02b37aea148?source=rss----138adf9c44c---4",
+    "published": "Tue, 13 Oct 2026 22:27:46 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "How to talk about a design that looks worse on paper",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/how-to-talk-about-a-design-that-looks-worse-on-paper-da73da6d7b57?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*Ir1ZRUV2-1dwTOlIwXOMrQ.jpeg\" width=\"3457\" /></a></p><p class=\"medium-feed-snippet\">Why it took Microsoft 5 years to roll out an &#x2018;obvious fix&#x2019;</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/how-to-talk-about-a-design-that-looks-worse-on",
+    "url": "https://uxdesign.cc/how-to-talk-about-a-design-that-looks-worse-on-paper-da73da6d7b57?source=rss----138adf9c44c---4",
+    "published": "Tue, 13 Oct 2026 22:26:58 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
   },
   {
     "title": "What are we willing to sacrifice for AI?",
@@ -207,19 +180,46 @@
     "category": "design_communities"
   },
   {
-    "title": "Are synthetic users (really) the future of UX research?",
-    "summary": "<h4>Human-centered design demands a limited use of AI-generated personas, if at all</h4><figure><img alt=\"Illustration of a UX designer evaluating synthetic user profiles generated by AI, representing the debate around AI-generated personas, synthetic users, and the role of real human feedback in UX research.\" src=\"https://cdn-images-1.medium.com/max/1024/1*a8n0oMQn0pBX9xsL69g09Q.png\" /></figure><p>A big debate among UX researchers is whether to use synthetic users in their studies. There’s one ",
-    "url": "https://uxdesign.cc/are-synthetic-users-really-the-future-of-ux-research-fd76fcb479ec?source=rss----138adf9c44c---4",
-    "published": "Thu, 08 Oct 2026 23:16:42 GMT",
+    "title": "Secret agent bot: accessibility matters for the agents even if you can’t see them",
+    "summary": "<figure><img alt=\"Two readers, one page. The agent never sees the surface you designed; it reads the structure underneath.\" src=\"https://cdn-images-1.medium.com/max/1024/1*kBVrEZpJg77XPdxNBIOr1A.png\" /><figcaption>Two readers, one page. The agent never sees the surface you designed; it reads the structure underneath. AI assisted.</figcaption></figure><h4>The semantic structure screen readers have used for decades now also decide whether ChatGPT, Claude, Gemini, Grok, and Perplexity can read your",
+    "url": "https://uxdesign.cc/secret-agent-bot-accessibility-matters-for-the-agents-even-if-you-cant-see-them-2f53a5670ec9?source=rss----138adf9c44c---4",
+    "published": "Mon, 12 Oct 2026 20:19:31 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
   },
   {
-    "title": "Secret agent bot: accessibility matters for the agents even if you can’t see them",
-    "summary": "<figure><img alt=\"Two readers, one page. The agent never sees the surface you designed; it reads the structure underneath.\" src=\"https://cdn-images-1.medium.com/max/1024/1*kBVrEZpJg77XPdxNBIOr1A.png\" /><figcaption>Two readers, one page. The agent never sees the surface you designed; it reads the structure underneath. AI assisted.</figcaption></figure><h4>The semantic structure screen readers have used for decades now also decide whether ChatGPT, Claude, Gemini, Grok, and Perplexity can read your",
-    "url": "https://uxdesign.cc/secret-agent-bot-accessibility-matters-for-the-agents-even-if-you-cant-see-them-2f53a5670ec9?source=rss----138adf9c44c---4",
-    "published": "Mon, 12 Oct 2026 20:19:31 GMT",
+    "title": "AI is hollowing out the middle of design, leaving an hourglass behind",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/ai-is-hollowing-out-the-middle-of-design-leaving-an-hourglass-behind-b7069db250fd?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*4bZ8kF6nLRqeaSUTfj-yNw.png\" width=\"3200\" /></a></p><p class=\"medium-feed-snippet\">For fifteen years, the design process kept growing while the time left for making the product kept shrinking.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesi",
+    "url": "https://uxdesign.cc/ai-is-hollowing-out-the-middle-of-design-leaving-an-hourglass-behind-b7069db250fd?source=rss----138adf9c44c---4",
+    "published": "Mon, 12 Oct 2026 20:17:45 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "On M.F. Husain and multiple meanings of the colour orange",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/on-m-f-husain-and-multiple-meanings-of-the-colour-orange-bf4b1a6f5504?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1400/1*Yc9QAhRnaqd-pQvINYKLhQ.png\" width=\"1400\" /></a></p><p class=\"medium-feed-snippet\">The painting that introduced me to the power and purpose of art</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/on-m-f-husain-and-multiple-meanings-of-the-colour-or",
+    "url": "https://uxdesign.cc/on-m-f-husain-and-multiple-meanings-of-the-colour-orange-bf4b1a6f5504?source=rss----138adf9c44c---4",
+    "published": "Mon, 12 Oct 2026 11:35:46 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Borrowed slopes",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/borrowed-slopes-cb5c5b464a61?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*IbVtg3VuQMgLQFcfz2HdTg.png\" width=\"3200\" /></a></p><p class=\"medium-feed-snippet\">When a traffic line bends, newsrooms reach for the oldest kit in digital design. The readers it costs are the ones they most need.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/borrowed-slopes-cb5c5b464a",
+    "url": "https://uxdesign.cc/borrowed-slopes-cb5c5b464a61?source=rss----138adf9c44c---4",
+    "published": "Mon, 12 Oct 2026 11:35:36 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "AI-generated UI, What the AI era owes you, Amazing Glass, Jev for UX",
+    "summary": "<h4>Weekly curated resources for designers — thinkers and makers.</h4><figure><a href=\"https://uxdesign.cc/ai-generated-ui-is-fast-design-not-ux-855ca8abcd28\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/0*LNJnklgmOBS-dZxn.png\" /></a></figure><p>“Today, my house and life are painfully void of craft. I live in a new build with pumped out, builder-grade (aka cheap) materials. I have plastic wood lookalikes rather than hand-carved wood. None of my furniture causes that moment of awe wh",
+    "url": "https://uxdesign.cc/ai-generated-ui-what-the-ai-era-owes-you-amazing-glass-jev-for-ux-22f8393c4cc6?source=rss----138adf9c44c---4",
+    "published": "Mon, 12 Oct 2026 09:07:53 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"

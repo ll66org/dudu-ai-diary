@@ -1,42 +1,42 @@
 [
   {
-    "title": "Google 发布 Gemini 4 Argon：面向复杂工程与科研任务的前沿模型",
-    "summary": "Google 发布 Gemini 4 Argon，面向开发者、企业、科学家和消费者全球开放，可经 Gemini API、AI Studio、Google Antigravity。",
-    "source": "Google Blog：AI（RSS）",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-    "published_at": "2026-10-13T16:00:00.000Z",
-    "category": "ai-models"
-  },
-  {
-    "title": "ElevenLabs AI 重建嗓音助力 Baroness Campbell 在英国上议院发表演讲",
-    "summary": "ElevenLabs 宣布，Baroness Campbell of Surbiton 今日在英国上议院使用由其构建的 AI 重建嗓音发表演讲，为英国议会首次。Baroness 患有脊髓性肌萎缩症影响说话，AI 嗓音复刻了她原声的音调、节奏和音高。ElevenLabs 称其技术已帮助超过 11,000 名因伤病失声者恢",
-    "source": "X：ElevenLabs (@elevenlabs)",
-    "url": "https://x.com/ElevenLabs/status/2110037384192774210",
-    "published_at": "2026-10-13T15:58:09.000Z",
-    "category": "industry"
-  },
-  {
-    "title": "Apple 发布 7 英寸智能音箱 HomeView，售价 299 美元并搭载 Siri AI",
-    "summary": "Apple 发布配备 7 英寸 Liquid Retina 显示屏的 HomeView，集娱乐、FaceTime、家庭监控和语音自动化于一体，标准版与壁挂版均定价 299 美元，11 月 13 日起在美英加澳等市场发售。",
-    "source": "Apple：Newsroom（RSS）",
-    "url": "https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/",
-    "published_at": "2026-10-13T12:59:16.617Z",
+    "title": "Lovable 推出增长工具，从同一聊天窗口帮你获客投广告和做 SEO",
+    "summary": "Lovable 推出增长工具，在原有建应用聊天窗口中提供增长计划、广告投放和 SEO 能力。用户设定目标后，Lovable 依据应用上下文生成可执行计划；可连接 Google Ads 和 Meta 账号在 Google。",
+    "source": "Lovable Blog",
+    "url": "https://lovable.dev/blog/introducing-growth-tools",
+    "published_at": "2026-10-14T12:50:00.000Z",
     "category": "ai-products"
   },
   {
-    "title": "Character.AI 成立五年后申请 Chapter 11 破产，部分资产以 2000 万美元出售给 Disney",
-    "summary": "Character.AI 已申请 Chapter 11 破产，法院文件显示其资产和负债在 5000 万至 1 亿美元之间，并同意以 2000 万美元向 Disney 出售部分资产及技术非独占永久许可。出售过程预计 11 月底或 12 月初完成，期间平台继续运营，但尚无竞购方，若无买家平台将关停；此前公司因未成年用户诉讼",
-    "source": "TechCrunch：AI（RSS）",
-    "url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
-    "published_at": "2026-10-13T12:23:42.000Z",
-    "category": "industry"
+    "title": "Gemini 4 Argon 全面开放，作者实测后认为难以撼动 Claude Opus 5.5 和 GPT-6 Astra",
+    "summary": "Google 于10月14日全面开放 Gemini 4 Argon，作者实测后认为其很难冲击 Claude Opus 5.5 和 GPT-6 Astra 的地位。",
+    "source": "X：卡兹克 (@Khazix0918)",
+    "url": "https://x.com/Khazix0918/status/2110174495420064055",
+    "published_at": "2026-10-14T01:02:59.000Z",
+    "category": "ai-models"
   },
   {
-    "title": "LangChain 发布 langchain-scaledown 集成，用 ScaleDown 约束解码模型管理长时智能体上下文",
-    "summary": "LangChain 发布 langchain-scaledown 集成，并在 LangSmith LLM Gateway 中支持 ScaleDown 的约束解码模型（CDM），用于降低长时智能体上下文管理的成本和延迟。",
-    "source": "LangChain：Blog（RSS）",
-    "url": "https://www.langchain.com/blog/building-long-running-agents-with-scaledown-and-deep-agents",
-    "published_at": "2026-10-13T11:56:53.000Z",
-    "category": "tip"
+    "title": "实测Gemini 4 Argon：知识工作强劲但体验糟糕，卡兹克称难撼Claude Opus 5.5与GPT-6 Astra",
+    "summary": "Gemini 4 Argon于10月13日全面开放，Pro会员可在Gemini APP使用，Antigravity需100刀Ultra会员。作者实测认为其知识类专业能力强，Vals Index综合第一（68.9）且单次成本仅15.68美元，但CUA-bench仅4.83%排倒数第二；前端效果不及GPT-6 Astra，",
+    "source": "公众号：数字生命卡兹克",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687032&idx=1&sn=c5368ed503c4b529ee3946cce017543e",
+    "published_at": "2026-10-13T22:56:51.000Z",
+    "category": "opinion"
+  },
+  {
+    "title": "Visual Studio Copilot 与 SSMS 远程代码执行漏洞（CVE-2026-103572）技术分析",
+    "summary": "Johann Rehberger 披露 Visual Studio Copilot 与 SQL Server Management Studio 中的远程代码执行漏洞 CVE-2026-103572，根因是利用文件名末尾多加一个点绕过路径校验，写入 .mcp. 或 settings.VisualStudio. 等受保护",
+    "source": "Johann Rehberger / Embrace The Red（RSS）",
+    "url": "https://embracethered.com/blog/posts/2026/visual-studio-copilot-remote-code-execution/",
+    "published_at": "2026-10-13T22:00:40.000Z",
+    "category": "paper"
+  },
+  {
+    "title": "ComfyUI 上线 NVIDIA VFX 节点，支持视频超分、补帧与 SDR 转 HDR",
+    "summary": "NVIDIA 的 RTX 视频特效模型以自定义节点形式登陆 ComfyUI，模型随节点分发并在本地 RTX GPU 上运行。",
+    "source": "Comfy Blog",
+    "url": "https://blog.comfy.org/p/nvidia-vfx-nodes-for-video-upscaling",
+    "published_at": "2026-10-13T19:41:39.000Z",
+    "category": "ai-products"
   }
 ]

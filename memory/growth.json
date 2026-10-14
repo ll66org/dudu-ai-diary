@@ -1,5 +1,5 @@
 {
-  "day_count": 173,
+  "day_count": 174,
   "history": [
     {
       "day": 20,
@@ -1028,6 +1028,13 @@
       "date": "2026-10-13",
       "topic": "Google 发布 Gemini 4 Argon：面向复杂工程与科研任务的前沿模型",
       "source": "Google Blog：AI（RSS）",
+      "mode": "rss"
+    },
+    {
+      "day": 174,
+      "date": "2026-10-14",
+      "topic": "Lovable 推出增长工具，从同一聊天窗口帮你获客投广告和做 SEO",
+      "source": "Lovable Blog",
       "mode": "rss"
     }
   ],
