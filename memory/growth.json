@@ -1,5 +1,5 @@
 {
-  "day_count": 174,
+  "day_count": 175,
   "history": [
     {
       "day": 20,
@@ -1035,6 +1035,13 @@
       "date": "2026-10-14",
       "topic": "Lovable 推出增长工具，从同一聊天窗口帮你获客投广告和做 SEO",
       "source": "Lovable Blog",
+      "mode": "rss"
+    },
+    {
+      "day": 175,
+      "date": "2026-10-15",
+      "topic": "可灵 Kling 4.0 正式全量开放，新增 MCP 和 CLI 接入",
+      "source": "X：可灵 Kling AI (@Kling_ai)",
       "mode": "rss"
     }
   ],

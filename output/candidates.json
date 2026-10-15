@@ -1,12 +1,102 @@
 [
   {
-    "title": "Lovable 推出增长工具，从同一聊天窗口帮你获客投广告和做 SEO",
-    "summary": "Lovable 推出增长工具，在原有建应用聊天窗口中提供增长计划、广告投放和 SEO 能力。用户设定目标后，Lovable 依据应用上下文生成可执行计划；可连接 Google Ads 和 Meta 账号在 Google。",
-    "url": "https://lovable.dev/blog/introducing-growth-tools",
-    "published": "2026-10-14T12:50:00.000Z",
-    "source": "Lovable Blog",
+    "title": "可灵 Kling 4.0 正式全量开放，新增 MCP 和 CLI 接入",
+    "summary": "可灵（Kling AI）宣布 Kling 4.0 正式全量开放，用户可通过 kling.ai 全新创作界面使用，并新增 MCP 和 CLI 接入以融入视频创作工作流。即将推出 4K 和 1080p 的 10-bit HDR 视频输出，以及面向企业客户和开发者的 API 访问。",
+    "url": "https://x.com/Kling_ai/status/2110747537187709424",
+    "published": "2026-10-15T15:00:03.000Z",
+    "source": "X：可灵 Kling AI (@Kling_ai)",
     "source_weight": "high",
     "category": "ai-products"
+  },
+  {
+    "title": "The Verge 实测 Eiliko 机器人玩具：68000 台设备数据可被任意访问并可远程劫持",
+    "summary": "The Verge 记者与黑客 Sammy Azdoufal 实测发现，Energize Lab 的 Eiliko 机器人玩具将用户对话、用户画像、儿童照片和音频存放在无防护的服务器上，可访问约 68000 台设备、1300 万条对话，其中超 31000 份儿童档案来自美国。",
+    "url": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
+    "published": "2026-10-15T11:00:00.000Z",
+    "source": "The Verge：AI（RSS）",
+    "source_weight": "high",
+    "category": "industry"
+  },
+  {
+    "title": "Payload 集成 Figma Make，支持在 Figma 内构建、托管和管理数据驱动网站",
+    "summary": "Figma 宣布开源内容框架 Payload 集成到 Figma Make，用提示词创建应用时自动配套数据库、文件存储、用户登录和管理面板。Payload 加入 Figma 一年内下载量增长 6x，成为 NPM 上增长最快的开源 CMS；面向所有计划开放，托管基础设施目前处于 beta 且免费，定价将在生效前公布。",
+    "url": "https://www.figma.com/blog/websites-with-payload-in-figma/",
+    "published": "2026-10-15T04:50:00.000Z",
+    "source": "Figma AI / Agent / Make",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "卡兹克实测开源Skill Anatomy，一句话让AI生成原理科普视频",
+    "summary": "作者卡兹克分享实测开源Skill Anatomy（GitHub：https://github.com/wheresryan22/anatomy/tree/main），它能把抽象原理做成可交互的机械模型动画，在其基础上还能让AI一轮直出带讲解配音的科普视频。",
+    "url": "https://x.com/Khazix0918/status/2110587546271191166",
+    "published": "2026-10-15T04:24:18.000Z",
+    "source": "X：卡兹克 (@Khazix0918)",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "自媒体作者实测开源 Skill Anatomy：一句话让 AI 生成原理科普动画和讲解视频",
+    "summary": "作者数字生命卡兹克分享开源 Skill Anatomy，其理念是\"物体本身，就是解释\"，可将抽象原理做成可交互的机械模型动画，还能在其上生成带讲解配音的科普视频。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687109&idx=1&sn=032fd9f6aab5ee20ea5d14f97bf48a86",
+    "published": "2026-10-15T00:26:00.000Z",
+    "source": "公众号：数字生命卡兹克",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "Claude Code 空闲压缩从摘要继续，可用 idleCompaction 关闭并自定义阈值",
+    "summary": "Claude Code 的空闲压缩会让 Claude 从摘要而非完整上下文继续。作者说明可在 settings. 中设置 \"idleCompaction\": false 关闭，并通过 CLAUDE_CODE_IDLE_COMPACT_MIN_TOKENS 自定义阈值，默认为 200k。",
+    "url": "https://x.com/lydiahallie/status/2110484841926152622",
+    "published": "2026-10-14T21:36:11.000Z",
+    "source": "X：Lydia Hallie（Anthropic，Claude Code） (@lydiahallie)",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "Musk 称 Grok Voice 3.0 登顶 Artificial Analysis 语音模型评测",
+    "summary": "Musk 发文称 Grok Voice 3.0 已是全球领先的对话语音模型，并引用 Artificial Analysis 的评测：Grok Voice 3.0 以 86.9 分登顶 Speech to Speech Index，领先 GPT-Live-1（Astra, medium）的 83.2 和 Gemini 3.8 Live 的 82.6，较 Grok Voice 2.0 的 81.3 提升 5.6 分。该模型通过 Realtime API 提供，价格 $0.08 每分钟，Big Bench Audio 平均首音频延迟 0.81 秒，任务成功率 94.8% 居榜首。",
+    "url": "https://x.com/elonmusk/status/2110483960312799675",
+    "published": "2026-10-14T21:32:41.000Z",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "40 位总检察长介入 Character.AI 破产案，要求保护用户对话数据",
+    "summary": "纽约总检察长 Letitia James 联合 40 位两党总检察长在 Character.AI 破产案中提交利益通知，要求任何资产出售方落实用户数据保护。",
+    "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
+    "published": "2026-10-14T18:47:54.000Z",
+    "source": "The Verge：AI（RSS）",
+    "source_weight": "high",
+    "category": "industry"
+  },
+  {
+    "title": "Basedash Connector gallery",
+    "summary": "<p>\n            See what you'll build before you connect a data source\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/basedash?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1280704?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/basedash",
+    "published": "2026-10-14T14:32:02-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Ubuntu 26.10 (Stonking Stingray)",
+    "summary": "<p>\n            GNOME 51, Rust coreutils, and a refreshed Linux desktop\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/ubuntu?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1280514?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/ubuntu",
+    "published": "2026-10-14T10:16:14-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "siliXon",
+    "summary": "<p>\n            Turn a plain English idea into a circuit board you can order\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/silixon?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1280449?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/silixon",
+    "published": "2026-10-14T09:06:31-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
   },
   {
     "title": "Gemini 4 Argon 全面开放，作者实测后认为难以撼动 Claude Opus 5.5 和 GPT-6 Astra",
@@ -36,8 +126,8 @@
     "category": "paper"
   },
   {
-    "title": "ComfyUI 上线 NVIDIA VFX 节点，支持视频超分、补帧与 SDR 转 HDR",
-    "summary": "NVIDIA 的 RTX 视频特效模型以自定义节点形式登陆 ComfyUI，模型随节点分发并在本地 RTX GPU 上运行。",
+    "title": "NVIDIA VFX Nodes 登陆 ComfyUI，支持视频超分、补帧与 SDR 转 HDR",
+    "summary": "NVIDIA 的 RTX 视频特效现以自定义节点形式在 ComfyUI 中本地运行，官方推荐按超分、补帧、HDR 的顺序搭建完整 VFX 管线。",
     "url": "https://blog.comfy.org/p/nvidia-vfx-nodes-for-video-upscaling",
     "published": "2026-10-13T19:41:39.000Z",
     "source": "Comfy Blog",
@@ -54,94 +144,13 @@
     "category": "industry"
   },
   {
-    "title": "Apple 发布 7 英寸智能音箱 HomeView，售价 299 美元并搭载 Siri AI",
-    "summary": "Apple 发布配备 7 英寸 Liquid Retina 显示屏的 HomeView，集娱乐、FaceTime、家庭监控和语音自动化于一体，标准版与壁挂版均定价 299 美元，11 月 13 日起在美英加澳等市场发售。",
-    "url": "https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/",
-    "published": "2026-10-13T12:59:16.617Z",
-    "source": "Apple：Newsroom（RSS）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Character.AI 成立五年后申请 Chapter 11 破产，部分资产以 2000 万美元出售给 Disney",
-    "summary": "Character.AI 已申请 Chapter 11 破产，法院文件显示其资产和负债在 5000 万至 1 亿美元之间，并同意以 2000 万美元向 Disney 出售部分资产及技术非独占永久许可。出售过程预计 11 月底或 12 月初完成，期间平台继续运营，但尚无竞购方，若无买家平台将关停；此前公司因未成年用户诉讼、德州调查等困境，曾尝试 AI 视频生成、社交信息流和微短剧等转型未果。",
-    "url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
-    "published": "2026-10-13T12:23:42.000Z",
-    "source": "TechCrunch：AI（RSS）",
-    "source_weight": "high",
-    "category": "industry"
-  },
-  {
-    "title": "LangChain 发布 langchain-scaledown 集成，用 ScaleDown 约束解码模型管理长时智能体上下文",
-    "summary": "LangChain 发布 langchain-scaledown 集成，并在 LangSmith LLM Gateway 中支持 ScaleDown 的约束解码模型（CDM），用于降低长时智能体上下文管理的成本和延迟。",
-    "url": "https://www.langchain.com/blog/building-long-running-agents-with-scaledown-and-deep-agents",
-    "published": "2026-10-13T11:56:53.000Z",
-    "source": "LangChain：Blog（RSS）",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "面壁智能开源 MiniCPM-V 4.7，35B-A3B MoE 模型 3GB 内存端侧流畅运行",
-    "summary": "面壁智能联合 OpenBMB 社区于10月13日发布并开源 MiniCPM-V 4.7，包含 35B-A3B 和 1B 两个版本，称其为全球首个可在端侧无损流畅运行的开源 MoE 多模态大模型。",
-    "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499456&idx=1&sn=03da7aed4dabbd4fca5c89ce88d4a90a",
-    "published": "2026-10-13T10:29:21.000Z",
-    "source": "公众号：面壁智能（MiniCPM）",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "Hassabis 祝贺 AMIE 前瞻性临床研究发表于 The Lancet",
-    "summary": "Google 与 BIDMC 合作的 AMIE 患者对话式诊断前瞻性研究在 TheLancet 发表，是 AMIE 首次在真实诊所外测试。临床医生报告称 AMIE 的病史摘要在 75% 的病例中有助于访视准备，其鉴别诊断与医生最终诊断的吻合率达 90%，这也是 Google 首篇登上 The Lancet 主刊的论文。",
-    "url": "https://x.com/demishassabis/status/2109813775377563908",
-    "published": "2026-10-13T01:09:37.000Z",
-    "source": "X：Demis Hassabis (@demishassabis)",
-    "source_weight": "high",
-    "category": "industry"
-  },
-  {
-    "title": "Liquid AI 发布 LFM2.5-24B-A2B 端侧推理模型",
-    "summary": "Liquid AI 发布开源权重模型 LFM2.5-24B-A2B，总参数 24B、每 token 激活 2B，定位端侧快速智能体。",
-    "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
-    "published": "2026-10-13T00:00:00.000Z",
-    "source": "Liquid AI 模型与工程博客（网页）",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "Anthropic 自研版本控制系统 Scion，五个月完成 monorepo 从 git 迁移",
-    "summary": "Anthropic 发布工程复盘，因 Claude 使日均合并代码量从 2026 年 5 月约 2,500 增至 9 月超 30,000，五个月内自研版本控制系统 Scion 并完全替代 git，同时推出代码评审工具 Antique。",
-    "url": "https://www.anthropic.com/engineering/redesigning-source-control",
-    "published": "2026-10-13T00:00:00.000Z",
-    "source": "Anthropic：Engineering（事故复盘 + 工程实践 · 网页）",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "Epic Games 转向 AI 先行开发模式，与迪士尼合作射击游戏无限期延期",
-    "summary": "据 Bloomberg 报道，Epic Games 在与迪士尼 15 亿美元合作项目中转向 AI 先行开发，由 Anthropic 的 Claude 等模型编写全部代码并指导全部美术，人类开发者负责管理和引导生成内容。",
-    "url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
-    "published": "2026-10-12T20:59:50.000Z",
-    "source": "Ars Technica：AI（RSS）",
-    "source_weight": "high",
-    "category": "industry"
-  },
-  {
-    "title": "From building your app to growing it: Lovable now helps you find customers",
-    "summary": "Ask Lovable how to grow your app, and it creates a growth plan and helps you carry it out across Google Search, YouTube, Google Maps, Google Ads, Facebook, and Instagram.",
-    "url": "https://lovable.dev/blog/introducing-growth-tools",
-    "published": "Wed, 14 Oct 2026 12:50:00 GMT",
-    "source": "Lovable Blog",
+    "title": "What I told the CFO when he asked why design matters",
+    "summary": "<h4>How to sell design and show the impact of design outcomes to business and finance leaders.</h4><figure><img alt=\"Illustration of a UX designer explaining design value to a CFO who covers his ears, showing why designers need to translate UX and design work into financial outcomes and business impact leaders understand.\" src=\"https://cdn-images-1.medium.com/max/1024/1*JIZUQJsUnSEFm_wNbadV0Q.png\" /></figure><p>Many years ago a business unit CFO told me: “I don’t need another presentation explai",
+    "url": "https://uxdesign.cc/what-i-told-the-cfo-when-he-asked-why-design-matters-ceadb07c929e?source=rss----138adf9c44c---4",
+    "published": "Wed, 14 Oct 2026 22:09:29 GMT",
+    "source": "UX Collective",
     "source_weight": "medium",
-    "category": "design_tools"
-  },
-  {
-    "title": "Deploy your Lovable apps in your own AWS account",
-    "summary": "Your teams keep building with Lovable. The apps they create, and the data behind them, can now run inside your own AWS account. Available in private preview for Enterprise customers.",
-    "url": "https://lovable.dev/blog/deploy-on-aws",
-    "published": "Wed, 14 Oct 2026 11:45:00 GMT",
-    "source": "Lovable Blog",
-    "source_weight": "medium",
-    "category": "design_tools"
+    "category": "design_communities"
   },
   {
     "title": "How getting good at your job can stop you getting better",
@@ -180,6 +189,24 @@
     "category": "design_communities"
   },
   {
+    "title": "Deploy on Azure: keep your Lovable apps in your own subscription",
+    "summary": "Deploy on Azure is now in private preview, so your apps and their data can run in your own Azure subscription. Here's every way to build with Lovable on Microsoft today, from fully inside your Microsoft environment to fully managed by Lovable.",
+    "url": "https://lovable.dev/blog/deploy-on-azure",
+    "published": "Thu, 15 Oct 2026 12:45:00 GMT",
+    "source": "Lovable Blog",
+    "source_weight": "medium",
+    "category": "design_tools"
+  },
+  {
+    "title": "What financial services marketing teams need to know about data, access, and security before publishing",
+    "summary": "How financial services marketing teams can assess the risk of an app, control who sees which data, and check what matters before publishing with Lovable.",
+    "url": "https://lovable.dev/blog/financial-services-marketing-data-access-and-security",
+    "published": "Thu, 15 Oct 2026 11:00:00 GMT",
+    "source": "Lovable Blog",
+    "source_weight": "medium",
+    "category": "design_tools"
+  },
+  {
     "title": "Secret agent bot: accessibility matters for the agents even if you can’t see them",
     "summary": "<figure><img alt=\"Two readers, one page. The agent never sees the surface you designed; it reads the structure underneath.\" src=\"https://cdn-images-1.medium.com/max/1024/1*kBVrEZpJg77XPdxNBIOr1A.png\" /><figcaption>Two readers, one page. The agent never sees the surface you designed; it reads the structure underneath. AI assisted.</figcaption></figure><h4>The semantic structure screen readers have used for decades now also decide whether ChatGPT, Claude, Gemini, Grok, and Perplexity can read your",
     "url": "https://uxdesign.cc/secret-agent-bot-accessibility-matters-for-the-agents-even-if-you-cant-see-them-2f53a5670ec9?source=rss----138adf9c44c---4",
@@ -193,33 +220,6 @@
     "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/ai-is-hollowing-out-the-middle-of-design-leaving-an-hourglass-behind-b7069db250fd?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*4bZ8kF6nLRqeaSUTfj-yNw.png\" width=\"3200\" /></a></p><p class=\"medium-feed-snippet\">For fifteen years, the design process kept growing while the time left for making the product kept shrinking.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesi",
     "url": "https://uxdesign.cc/ai-is-hollowing-out-the-middle-of-design-leaving-an-hourglass-behind-b7069db250fd?source=rss----138adf9c44c---4",
     "published": "Mon, 12 Oct 2026 20:17:45 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "On M.F. Husain and multiple meanings of the colour orange",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/on-m-f-husain-and-multiple-meanings-of-the-colour-orange-bf4b1a6f5504?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1400/1*Yc9QAhRnaqd-pQvINYKLhQ.png\" width=\"1400\" /></a></p><p class=\"medium-feed-snippet\">The painting that introduced me to the power and purpose of art</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/on-m-f-husain-and-multiple-meanings-of-the-colour-or",
-    "url": "https://uxdesign.cc/on-m-f-husain-and-multiple-meanings-of-the-colour-orange-bf4b1a6f5504?source=rss----138adf9c44c---4",
-    "published": "Mon, 12 Oct 2026 11:35:46 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Borrowed slopes",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/borrowed-slopes-cb5c5b464a61?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*IbVtg3VuQMgLQFcfz2HdTg.png\" width=\"3200\" /></a></p><p class=\"medium-feed-snippet\">When a traffic line bends, newsrooms reach for the oldest kit in digital design. The readers it costs are the ones they most need.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/borrowed-slopes-cb5c5b464a",
-    "url": "https://uxdesign.cc/borrowed-slopes-cb5c5b464a61?source=rss----138adf9c44c---4",
-    "published": "Mon, 12 Oct 2026 11:35:36 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "AI-generated UI, What the AI era owes you, Amazing Glass, Jev for UX",
-    "summary": "<h4>Weekly curated resources for designers — thinkers and makers.</h4><figure><a href=\"https://uxdesign.cc/ai-generated-ui-is-fast-design-not-ux-855ca8abcd28\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/0*LNJnklgmOBS-dZxn.png\" /></a></figure><p>“Today, my house and life are painfully void of craft. I live in a new build with pumped out, builder-grade (aka cheap) materials. I have plastic wood lookalikes rather than hand-carved wood. None of my furniture causes that moment of awe wh",
-    "url": "https://uxdesign.cc/ai-generated-ui-what-the-ai-era-owes-you-amazing-glass-jev-for-ux-22f8393c4cc6?source=rss----138adf9c44c---4",
-    "published": "Mon, 12 Oct 2026 09:07:53 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"

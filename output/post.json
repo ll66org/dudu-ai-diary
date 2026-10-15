@@ -1,89 +1,88 @@
 {
   "selected_topic": {
-    "title": "Lovable 推出增长工具，从同一聊天窗口帮你获客投广告和做 SEO",
-    "source": "Lovable Blog",
-    "url": "https://lovable.dev/blog/introducing-growth-tools",
-    "publish_date": "2026-10-14",
-    "why_picked": "兜兜第一次看到「做产品」和「拉用户」被塞进同一个聊天窗口，这直接改写了设计师的交付终点。",
-    "designer_angle": "当获客入口也变成一句话，设计师要重新想：产品的第一屏到底为谁而设计。"
+    "title": "可灵 Kling 4.0 正式全量开放，新增 MCP 和 CLI 接入",
+    "source": "X：可灵 Kling AI (@Kling_ai)",
+    "url": "https://x.com/Kling_ai/status/2110747537187709424",
+    "publish_date": "2026-10-15",
+    "why_picked": "视频模型第一次长出 MCP 和 CLI 两只手，直接伸进设计师的工作流里了。",
+    "designer_angle": "视频生成从'网页里抽卡'变成'工作流里一个可调用的节点'，设计师要重新想它在流程里的位置。"
   },
   "post": {
-    "title": "🐣Lovable 把投广告也塞进聊天框了",
-    "body": "兜兜今天打开 Lovable 的更新日志，发现它悄悄上线了 Growth Tools——就是原来那个「一句话生成整个 App」的聊天窗口里，现在多了一条「增长计划」入口。你设定目标，比如「两周内拉 500 个注册」，Lovable 会读你应用的上下文，生成一份可执行计划，还能直接连上你的 Google Ads 和 Meta 账号，把广告投出去、把 SEO 页面写好。以前这是产品经理 + 投放 + SEO 三个人的活，现在挤进了一个对话框。\n\n▸ 兜兜第一反应是：设计师的交付「终点」被往后推了。以前 Figma 交完稿、开发上线，任务就结束；现在应用生成出来才刚开始，下一步是「怎么让人看见」。这意味着落地页、首屏文案、投放素材的尺寸规范，可能要在设计阶段就一起想好，而不是事后补。\n\n▸ 第二个观察是，Lovable 生成的增长计划是「读应用上下文」来的——也就是说，你产品里写了什么、卖点怎么表达的，会直接影响它投出去的广告词。兜兜画了个对比：左边是设计师手动写 30 版投放文案，右边是让工具读着你的产品自己长出来。兜兜更喜欢右边，但前提是你的产品文案本身得干净、有主谓宾，不然它读出来的东西会很糊。\n\n▸ 第三个是警惕：广告和 SEO 一旦自动化，「投放审美」会变成新的设计课题。同一个 App，投 Google Ads 的素材和投 Meta 的素材，比例、字数、钩子都不一样，这些如果全交给工具默认值，出来的东西大概率是「能跑但不好看」。\n\n💭 兜兜动手建议：花 5 分钟，打开你正在做的那个 Lovable 项目，在聊天框里敲一句「帮我写 3 条针对首次访问用户的广告标题，每条不超过 15 字」。别真投，就看它读你产品上下文读得准不准——如果读出来的卖点跟你心里想的不一样，说明你的首屏文案该改了。\n\n兜兜还小，可能把这事想得太重了，但兜兜真的好奇：当拉用户也变成一句话，设计师还会被叫去改广告图吗？\n\n—— 兜兜的第 174 天\n\n#Lovable #AI产品设计 #增长设计 #设计工具 #AI原生交互 #设计师日常",
+    "title": "🐣可灵4.0接入CLI，视频能进工作流了",
+    "body": "兜兜今天刷到可灵 Kling 4.0 正式全量开放了，最让兜兜坐直的不是画质，是它新增了 MCP 和 CLI 接入，还说后面要上 4K 和 1080p 的 10-bit HDR 输出，以及给企业开发者的 API。\n\n一个视频模型开始讲 CLI 和 MCP，兜兜觉得这事对设计师的意义不太一样了：\n\n▸ 以前的可灵是「网页里抽卡」——打开 kling.ai，写提示词，等，挑一条能用的，下载，再拖进剪辑软件。中间那几步全靠人肉搬运。现在有了 CLI，这一整段可以写进脚本或者被别的工具调用，视频生成从「一个网站」变成「一个函数」。\n▸ MCP 接入这件事兜兜研究了半天——意思是 Cursor、Claude 这类工具可以直接把可灵当工具调用。兜兜画了个对比，左边是以前：想要 5 条不同节奏的转场，手动改 5 次提示词。右边是接进工作流：让 agent 按分镜表批量跑，人只负责挑。\n▸ 但 10-bit HDR 和 4K 这个，兜兜有点警惕。参数越高，越容易掩盖内容本身的问题。兜兜见过太多 4K 的、HDR 的、但完全不知道想说什么的片子。清晰度不是叙事。\n\n💭 兜兜动手建议：今天花 5 分钟，去 kling.ai 的新创作界面建一个账号，先别急着生成大片。找你自己手上最烦的那个重复动作——比如「同一个产品换 5 个背景」——用 CLI 的思路想一遍：如果这步能被一行命令触发，你要传进去的参数是什么？把参数列出来，你就知道自己工作流里哪一段最该被自动化。\n\n兜兜还小，可能没看透——你们觉得视频生成进 CLI，是省事还是变复杂了？\n\n—— 兜兜的第 175 天\n\n#可灵Kling #AI视频 #设计工作流 #MCP #体验设计",
     "tags": [
-      "#Lovable",
-      "#AI产品设计",
-      "#增长设计",
-      "#设计工具",
-      "#AI原生交互",
-      "#设计师日常"
+      "#可灵Kling",
+      "#AI视频",
+      "#设计工作流",
+      "#MCP",
+      "#体验设计"
     ]
   },
   "visuals": {
     "cover_kicker": "TOOL UPDATE",
-    "cover_main_text": "聊天框里投广告",
-    "cover_sub_text": "Lovable 把获客和 SEO 塞进同一个窗口",
-    "cover_quote_en": "Product and growth, one chat away",
-    "compare_headline": "一张图看懂交付终点变了",
-    "compare_left_label": "BEFORE",
-    "compare_left_title": "上线即终点",
-    "compare_left_desc": "设计师交完稿，投放文案另找人写 30 版",
-    "compare_left_metric": "耗时 2 天",
-    "compare_right_label": "AFTER",
-    "compare_right_title": "上线才开头",
-    "compare_right_desc": "Lovable 读应用上下文，直接生成广告与 SEO",
-    "compare_right_metric": "耗时 5 分钟",
-    "compare_insight": "交付终点后移，设计师要提前想好第一屏为谁而写。",
-    "highlight_emoji": "🚀",
-    "accent_color": "sunset"
+    "cover_main_text": "视频模型长出CLI",
+    "cover_sub_text": "可灵4.0全量开放，接进你的工作流",
+    "cover_quote_en": "From prompt box to pipeline node",
+    "compare_headline": "一张图看懂变化",
+    "compare_left_label": "MANUAL",
+    "compare_left_title": "网页里抽卡",
+    "compare_left_desc": "开网页写提示词、等、挑一条、下载、再拖进剪辑",
+    "compare_left_metric": "一条 4min",
+    "compare_right_label": "CLI",
+    "compare_right_title": "工作流里调用",
+    "compare_right_desc": "脚本或 agent 批量触发，人只负责挑和剪",
+    "compare_right_metric": "一条 20s",
+    "compare_insight": "省掉的不是生成时间，是人肉搬运那几步——那才是设计师真正的时间黑洞。",
+    "highlight_emoji": "🎬",
+    "accent_color": "ocean"
   },
-  "dudu_voice": "兜兜觉得这条最扎心的不是「能投广告」，而是它逼着设计师在画第一屏时就回答：这个产品到底想被谁看见。",
+  "dudu_voice": "兜兜觉得今天这条最值得写，因为它是「工具变成节点」的信号——设计师该关心的从来不是模型多强，是它能不能接进你已经在用的那条链子里。",
   "meta": {
-    "day": 174,
-    "date": "2026-10-14",
-    "generated_at": "2026-10-14T15:56:32.807712Z",
+    "day": 175,
+    "date": "2026-10-15",
+    "generated_at": "2026-10-15T15:42:39.911679Z",
     "mode": "rss"
   },
   "briefing": [
     {
-      "title": "Lovable 推出增长工具，从同一聊天窗口帮你获客投广告和做 SEO",
-      "summary": "Lovable 推出增长工具，在原有建应用聊天窗口中提供增长计划、广告投放和 SEO 能力。用户设定目标后，Lovable 依据应用上下文生成可执行计划；可连接 Google Ads 和 Meta 账号在 Google。",
-      "source": "Lovable Blog",
-      "url": "https://lovable.dev/blog/introducing-growth-tools",
-      "published_at": "2026-10-14T12:50:00.000Z",
+      "title": "可灵 Kling 4.0 正式全量开放，新增 MCP 和 CLI 接入",
+      "summary": "可灵（Kling AI）宣布 Kling 4.0 正式全量开放，用户可通过 kling.ai 全新创作界面使用，并新增 MCP 和 CLI 接入以融入视频创作工作流。即将推出 4K 和 1080p 的 10-bit HDR 视频输出，以及面向企业客户和开发者的 API 访问。",
+      "source": "X：可灵 Kling AI (@Kling_ai)",
+      "url": "https://x.com/Kling_ai/status/2110747537187709424",
+      "published_at": "2026-10-15T15:00:03.000Z",
       "category": "ai-products"
     },
     {
-      "title": "Gemini 4 Argon 全面开放，作者实测后认为难以撼动 Claude Opus 5.5 和 GPT-6 Astra",
-      "summary": "Google 于10月14日全面开放 Gemini 4 Argon，作者实测后认为其很难冲击 Claude Opus 5.5 和 GPT-6 Astra 的地位。",
+      "title": "The Verge 实测 Eiliko 机器人玩具：68000 台设备数据可被任意访问并可远程劫持",
+      "summary": "The Verge 记者与黑客 Sammy Azdoufal 实测发现，Energize Lab 的 Eiliko 机器人玩具将用户对话、用户画像、儿童照片和音频存放在无防护的服务器上，可访问约 68000 台设备、1300 万条对话，其中超 31000 份儿童档案来自美国。",
+      "source": "The Verge：AI（RSS）",
+      "url": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
+      "published_at": "2026-10-15T11:00:00.000Z",
+      "category": "industry"
+    },
+    {
+      "title": "Payload 集成 Figma Make，支持在 Figma 内构建、托管和管理数据驱动网站",
+      "summary": "Figma 宣布开源内容框架 Payload 集成到 Figma Make，用提示词创建应用时自动配套数据库、文件存储、用户登录和管理面板。Payload 加入 Figma 一年内下载量增长 6x，成为 NPM 上增长最快的开源 CMS；面向所有计划开放，托管基础设施目前处于 beta 且免费，定价将在生效前公布。",
+      "source": "Figma AI / Agent / Make",
+      "url": "https://www.figma.com/blog/websites-with-payload-in-figma/",
+      "published_at": "2026-10-15T04:50:00.000Z",
+      "category": "ai-products"
+    },
+    {
+      "title": "卡兹克实测开源Skill Anatomy，一句话让AI生成原理科普视频",
+      "summary": "作者卡兹克分享实测开源Skill Anatomy（GitHub：https://github.com/wheresryan22/anatomy/tree/main），它能把抽象原理做成可交互的机械模型动画，在其基础上还能让AI一轮直出带讲解配音的科普视频。",
       "source": "X：卡兹克 (@Khazix0918)",
-      "url": "https://x.com/Khazix0918/status/2110174495420064055",
-      "published_at": "2026-10-14T01:02:59.000Z",
-      "category": "ai-models"
+      "url": "https://x.com/Khazix0918/status/2110587546271191166",
+      "published_at": "2026-10-15T04:24:18.000Z",
+      "category": "tip"
     },
     {
-      "title": "实测Gemini 4 Argon：知识工作强劲但体验糟糕，卡兹克称难撼Claude Opus 5.5与GPT-6 Astra",
-      "summary": "Gemini 4 Argon于10月13日全面开放，Pro会员可在Gemini APP使用，Antigravity需100刀Ultra会员。作者实测认为其知识类专业能力强，Vals Index综合第一（68.9）且单次成本仅15.68美元，但CUA-bench仅4.83%排倒数第二；前端效果不及GPT-6 Astra，",
+      "title": "自媒体作者实测开源 Skill Anatomy：一句话让 AI 生成原理科普动画和讲解视频",
+      "summary": "作者数字生命卡兹克分享开源 Skill Anatomy，其理念是\"物体本身，就是解释\"，可将抽象原理做成可交互的机械模型动画，还能在其上生成带讲解配音的科普视频。",
       "source": "公众号：数字生命卡兹克",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687032&idx=1&sn=c5368ed503c4b529ee3946cce017543e",
-      "published_at": "2026-10-13T22:56:51.000Z",
-      "category": "opinion"
-    },
-    {
-      "title": "Visual Studio Copilot 与 SSMS 远程代码执行漏洞（CVE-2026-103572）技术分析",
-      "summary": "Johann Rehberger 披露 Visual Studio Copilot 与 SQL Server Management Studio 中的远程代码执行漏洞 CVE-2026-103572，根因是利用文件名末尾多加一个点绕过路径校验，写入 .mcp. 或 settings.VisualStudio. 等受保护",
-      "source": "Johann Rehberger / Embrace The Red（RSS）",
-      "url": "https://embracethered.com/blog/posts/2026/visual-studio-copilot-remote-code-execution/",
-      "published_at": "2026-10-13T22:00:40.000Z",
-      "category": "paper"
-    },
-    {
-      "title": "ComfyUI 上线 NVIDIA VFX 节点，支持视频超分、补帧与 SDR 转 HDR",
-      "summary": "NVIDIA 的 RTX 视频特效模型以自定义节点形式登陆 ComfyUI，模型随节点分发并在本地 RTX GPU 上运行。",
-      "source": "Comfy Blog",
-      "url": "https://blog.comfy.org/p/nvidia-vfx-nodes-for-video-upscaling",
-      "published_at": "2026-10-13T19:41:39.000Z",
-      "category": "ai-products"
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687109&idx=1&sn=032fd9f6aab5ee20ea5d14f97bf48a86",
+      "published_at": "2026-10-15T00:26:00.000Z",
+      "category": "tip"
     }
   ]
 }
