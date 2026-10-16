@@ -1,147 +1,183 @@
 [
   {
-    "title": "可灵 Kling 4.0 正式全量开放，新增 MCP 和 CLI 接入",
-    "summary": "可灵（Kling AI）宣布 Kling 4.0 正式全量开放，用户可通过 kling.ai 全新创作界面使用，并新增 MCP 和 CLI 接入以融入视频创作工作流。即将推出 4K 和 1080p 的 10-bit HDR 视频输出，以及面向企业客户和开发者的 API 访问。",
-    "url": "https://x.com/Kling_ai/status/2110747537187709424",
-    "published": "2026-10-15T15:00:03.000Z",
-    "source": "X：可灵 Kling AI (@Kling_ai)",
+    "title": "Build offline-first apps to earn trust in AI SaaS slop era",
+    "summary": "<p>Article URL: <a href=\"http://blog.geckocode.pl/2026/10/16/privacy-first-apps.html\">http://blog.geckocode.pl/2026/10/16/privacy-first-apps.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50119623\">https://news.ycombinator.com/item?id=50119623</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "http://blog.geckocode.pl/2026/10/16/privacy-first-apps.html",
+    "published": "Fri, 16 Oct 2026 15:27:53 +0000",
+    "source": "Hacker News (设计向)",
     "source_weight": "high",
-    "category": "ai-products"
+    "category": "ai_tech"
   },
   {
-    "title": "The Verge 实测 Eiliko 机器人玩具：68000 台设备数据可被任意访问并可远程劫持",
-    "summary": "The Verge 记者与黑客 Sammy Azdoufal 实测发现，Energize Lab 的 Eiliko 机器人玩具将用户对话、用户画像、儿童照片和音频存放在无防护的服务器上，可访问约 68000 台设备、1300 万条对话，其中超 31000 份儿童档案来自美国。",
-    "url": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
-    "published": "2026-10-15T11:00:00.000Z",
-    "source": "The Verge：AI（RSS）",
+    "title": "Show HN: Ndop UI – Copy-in Angular components that still receive updates",
+    "summary": "<p>Article URL: <a href=\"https://github.com/ndop-ui/ui\">https://github.com/ndop-ui/ui</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50119538\">https://news.ycombinator.com/item?id=50119538</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://github.com/ndop-ui/ui",
+    "published": "Fri, 16 Oct 2026 15:21:38 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Show HN: rStation – Let's build our own AI swarm to solve Millennium Problems",
+    "summary": "<p>Article URL: <a href=\"https://rstation.ai/\">https://rstation.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50118876\">https://news.ycombinator.com/item?id=50118876</a></p>\n<p>Points: 6</p>\n<p># Comments: 1</p>",
+    "url": "https://rstation.ai/",
+    "published": "Fri, 16 Oct 2026 14:35:43 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Modernizing the VS Code UI",
+    "summary": "<p>Article URL: <a href=\"https://code.visualstudio.com/blogs/2026/10/15/modern-ui\">https://code.visualstudio.com/blogs/2026/10/15/modern-ui</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50118647\">https://news.ycombinator.com/item?id=50118647</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "url": "https://code.visualstudio.com/blogs/2026/10/15/modern-ui",
+    "published": "Fri, 16 Oct 2026 14:15:01 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "MeshXFS: A clustered filesystem built on XFS, written by AI",
+    "summary": "<p>Article URL: <a href=\"https://github.com/sshoecraft/meshxfs\">https://github.com/sshoecraft/meshxfs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50118590\">https://news.ycombinator.com/item?id=50118590</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "url": "https://github.com/sshoecraft/meshxfs",
+    "published": "Fri, 16 Oct 2026 14:08:29 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "丹麦最高法院裁定持有传播 AI 生成儿童色情内容可判实刑",
+    "summary": "据彭博社 15 日报道，丹麦最高法院维持对一名 31 岁男子 18 个月监禁的判决，该男子因持有并传播 3.6 万余张 AI 生成的儿童色情图像获刑，且不适用缓刑。法院裁定，即使图像无真实人物原型，也受丹麦《刑法》约束，量刑时不应考虑人物是否虚构；此案为丹麦首起此类定罪，并引发跨国调查，警方查明 273 名买家身份、逮捕 25 人。",
+    "url": "https://www.ithome.com/1/013/914.htm",
+    "published": "2026-10-16T06:14:36.073Z",
+    "source": "IT之家·人工智能",
     "source_weight": "high",
     "category": "industry"
   },
   {
-    "title": "Payload 集成 Figma Make，支持在 Figma 内构建、托管和管理数据驱动网站",
-    "summary": "Figma 宣布开源内容框架 Payload 集成到 Figma Make，用提示词创建应用时自动配套数据库、文件存储、用户登录和管理面板。Payload 加入 Figma 一年内下载量增长 6x，成为 NPM 上增长最快的开源 CMS；面向所有计划开放，托管基础设施目前处于 beta 且免费，定价将在生效前公布。",
-    "url": "https://www.figma.com/blog/websites-with-payload-in-figma/",
-    "published": "2026-10-15T04:50:00.000Z",
-    "source": "Figma AI / Agent / Make",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "卡兹克实测开源Skill Anatomy，一句话让AI生成原理科普视频",
-    "summary": "作者卡兹克分享实测开源Skill Anatomy（GitHub：https://github.com/wheresryan22/anatomy/tree/main），它能把抽象原理做成可交互的机械模型动画，在其基础上还能让AI一轮直出带讲解配音的科普视频。",
-    "url": "https://x.com/Khazix0918/status/2110587546271191166",
-    "published": "2026-10-15T04:24:18.000Z",
-    "source": "X：卡兹克 (@Khazix0918)",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "自媒体作者实测开源 Skill Anatomy：一句话让 AI 生成原理科普动画和讲解视频",
-    "summary": "作者数字生命卡兹克分享开源 Skill Anatomy，其理念是\"物体本身，就是解释\"，可将抽象原理做成可交互的机械模型动画，还能在其上生成带讲解配音的科普视频。",
-    "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687109&idx=1&sn=032fd9f6aab5ee20ea5d14f97bf48a86",
-    "published": "2026-10-15T00:26:00.000Z",
-    "source": "公众号：数字生命卡兹克",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "Claude Code 空闲压缩从摘要继续，可用 idleCompaction 关闭并自定义阈值",
-    "summary": "Claude Code 的空闲压缩会让 Claude 从摘要而非完整上下文继续。作者说明可在 settings. 中设置 \"idleCompaction\": false 关闭，并通过 CLAUDE_CODE_IDLE_COMPACT_MIN_TOKENS 自定义阈值，默认为 200k。",
-    "url": "https://x.com/lydiahallie/status/2110484841926152622",
-    "published": "2026-10-14T21:36:11.000Z",
-    "source": "X：Lydia Hallie（Anthropic，Claude Code） (@lydiahallie)",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "Musk 称 Grok Voice 3.0 登顶 Artificial Analysis 语音模型评测",
-    "summary": "Musk 发文称 Grok Voice 3.0 已是全球领先的对话语音模型，并引用 Artificial Analysis 的评测：Grok Voice 3.0 以 86.9 分登顶 Speech to Speech Index，领先 GPT-Live-1（Astra, medium）的 83.2 和 Gemini 3.8 Live 的 82.6，较 Grok Voice 2.0 的 81.3 提升 5.6 分。该模型通过 Realtime API 提供，价格 $0.08 每分钟，Big Bench Audio 平均首音频延迟 0.81 秒，任务成功率 94.8% 居榜首。",
-    "url": "https://x.com/elonmusk/status/2110483960312799675",
-    "published": "2026-10-14T21:32:41.000Z",
-    "source": "X：Elon Musk (@elonmusk, xAI)",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "40 位总检察长介入 Character.AI 破产案，要求保护用户对话数据",
-    "summary": "纽约总检察长 Letitia James 联合 40 位两党总检察长在 Character.AI 破产案中提交利益通知，要求任何资产出售方落实用户数据保护。",
-    "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
-    "published": "2026-10-14T18:47:54.000Z",
-    "source": "The Verge：AI（RSS）",
-    "source_weight": "high",
-    "category": "industry"
-  },
-  {
-    "title": "Basedash Connector gallery",
-    "summary": "<p>\n            See what you'll build before you connect a data source\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/basedash?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1280704?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/basedash",
-    "published": "2026-10-14T14:32:02-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Ubuntu 26.10 (Stonking Stingray)",
-    "summary": "<p>\n            GNOME 51, Rust coreutils, and a refreshed Linux desktop\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/ubuntu?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1280514?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/ubuntu",
-    "published": "2026-10-14T10:16:14-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "siliXon",
-    "summary": "<p>\n            Turn a plain English idea into a circuit board you can order\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/silixon?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1280449?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/silixon",
-    "published": "2026-10-14T09:06:31-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Gemini 4 Argon 全面开放，作者实测后认为难以撼动 Claude Opus 5.5 和 GPT-6 Astra",
-    "summary": "Google 于10月14日全面开放 Gemini 4 Argon，作者实测后认为其很难冲击 Claude Opus 5.5 和 GPT-6 Astra 的地位。",
-    "url": "https://x.com/Khazix0918/status/2110174495420064055",
-    "published": "2026-10-14T01:02:59.000Z",
-    "source": "X：卡兹克 (@Khazix0918)",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "实测Gemini 4 Argon：知识工作强劲但体验糟糕，卡兹克称难撼Claude Opus 5.5与GPT-6 Astra",
-    "summary": "Gemini 4 Argon于10月13日全面开放，Pro会员可在Gemini APP使用，Antigravity需100刀Ultra会员。作者实测认为其知识类专业能力强，Vals Index综合第一（68.9）且单次成本仅15.68美元，但CUA-bench仅4.83%排倒数第二；前端效果不及GPT-6 Astra，额度消耗快，中文写作味道重，整体体验糟糕，不建议订阅Ultra。",
-    "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687032&idx=1&sn=c5368ed503c4b529ee3946cce017543e",
-    "published": "2026-10-13T22:56:51.000Z",
-    "source": "公众号：数字生命卡兹克",
-    "source_weight": "high",
-    "category": "opinion"
-  },
-  {
-    "title": "Visual Studio Copilot 与 SSMS 远程代码执行漏洞（CVE-2026-103572）技术分析",
-    "summary": "Johann Rehberger 披露 Visual Studio Copilot 与 SQL Server Management Studio 中的远程代码执行漏洞 CVE-2026-103572，根因是利用文件名末尾多加一个点绕过路径校验，写入 .mcp. 或 settings.VisualStudio. 等受保护配置文件，实现任意命令执行。",
-    "url": "https://embracethered.com/blog/posts/2026/visual-studio-copilot-remote-code-execution/",
-    "published": "2026-10-13T22:00:40.000Z",
-    "source": "Johann Rehberger / Embrace The Red（RSS）",
+    "title": "PromptArmor 研究称开放权重模型遭间接提示词注入攻击的易感率高 88%",
+    "summary": "PromptArmor 在 9800 次试验的评测中发现，开放权重模型（DeepSeek、Kimi、GLM、Qwen）对真实世界间接提示词注入攻击链的易感率为 26.7%，闭源模型（GPT、Claude、Gemini）为 14.2%，开放权重模型易感率高 88%。",
+    "url": "https://www.promptarmor.com/resources/open-weight-susceptibility",
+    "published": "2026-10-16T00:00:00.000Z",
+    "source": "PromptArmor：Threat Intelligence",
     "source_weight": "high",
     "category": "paper"
   },
   {
-    "title": "NVIDIA VFX Nodes 登陆 ComfyUI，支持视频超分、补帧与 SDR 转 HDR",
-    "summary": "NVIDIA 的 RTX 视频特效现以自定义节点形式在 ComfyUI 中本地运行，官方推荐按超分、补帧、HDR 的顺序搭建完整 VFX 管线。",
-    "url": "https://blog.comfy.org/p/nvidia-vfx-nodes-for-video-upscaling",
-    "published": "2026-10-13T19:41:39.000Z",
+    "title": "SGLang 原生支持 Reflection 的 Beam 并驱动其生产 API",
+    "summary": "SGLang 团队宣布原生支持 Reflection 的 Beam 1.0（501B 参数 MoE、每 token 激活 23B），并以其驱动 Reflection 的生产 API。",
+    "url": "https://www.lmsys.org/blog/2026-10-16-beam",
+    "published": "2026-10-16T00:00:00.000Z",
+    "source": "LMSYS Blog",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "Musk 称 xAI 2027 年底算力目标可能超过 10GW",
+    "summary": "Musk 转发黄仁勋在 BG2Pod 访谈中的表态并评论算力目标可能超过 10GW；访谈称 Nvidia 已把 SpaceX 归入云服务商客户，两家工程师正合作设计可用于太空的新型服务器架构。",
+    "url": "https://x.com/elonmusk/status/2110877572011844019",
+    "published": "2026-10-15T23:36:46.000Z",
+    "source": "X：Elon Musk (@elonmusk, xAI)",
+    "source_weight": "high",
+    "category": "industry"
+  },
+  {
+    "title": "Krea 3 图像模型通过 ComfyUI Partner Nodes 上线",
+    "summary": "Krea 3 图像模型现已在 ComfyUI 通过 Partner Nodes 提供，主打基于参考图的生成与编辑。模型强调更快的迭代速度和更低的单张成本，支持按上传顺序引用多张参考图、保持产品标签形状材质不变的前提下修改环境光影构图，并可将生成结果作为新输入继续编辑。",
+    "url": "https://blog.comfy.org/p/krea-3-is-now-available-via-partner",
+    "published": "2026-10-15T21:15:45.000Z",
     "source": "Comfy Blog",
     "source_weight": "high",
     "category": "ai-products"
   },
   {
-    "title": "ElevenLabs AI 重建嗓音助力 Baroness Campbell 在英国上议院发表演讲",
-    "summary": "ElevenLabs 宣布，Baroness Campbell of Surbiton 今日在英国上议院使用由其构建的 AI 重建嗓音发表演讲，为英国议会首次。Baroness 患有脊髓性肌萎缩症影响说话，AI 嗓音复刻了她原声的音调、节奏和音高。ElevenLabs 称其技术已帮助超过 11,000 名因伤病失声者恢复嗓音，并承诺帮助全球 100 万失声人群。",
-    "url": "https://x.com/ElevenLabs/status/2110037384192774210",
-    "published": "2026-10-13T15:58:09.000Z",
-    "source": "X：ElevenLabs (@elevenlabs)",
+    "title": "Claude Opus 5.5 fast mode 结束研究预览并移除等待名单",
+    "summary": "Anthropic 宣布 Claude 平台上的 Opus 5.5 fast mode 不再处于研究预览阶段，并已移除等待名单。该模式速度最高提升 2.5 倍，定价为 $8 / $40 per million tokens；现已登陆 Microsoft Foundry（Azure 托管），Google Cloud 即将支持。Claude Code 中的 fast mode 保持不变，消耗额外 usage credits。文档见 https://platform.claude.com/docs/en/build-with-claude/fast-mode",
+    "url": "https://x.com/ClaudeDevs/status/2110825294655562048",
+    "published": "2026-10-15T20:09:02.000Z",
+    "source": "X：Claude Devs (@ClaudeDevs)",
     "source_weight": "high",
-    "category": "industry"
+    "category": "ai-products"
+  },
+  {
+    "title": "Meta 如何用 AI 原生工程方式开发 Forum 应用",
+    "summary": "Meta 工程团队详解如何把 AI 智能体作为开发流程参与者来构建独立 Groups 应用 Forum，采用 human-on-the-loop 模式并以验证通过的生产级产出衡量成功。Forum 在八周内达到与 Facebook Groups 的核心功能对齐，自主压测循环在开发期发现并修复了内存问题，内存占用和缺页约减半，上线后智能体还协助根因分析用户反馈。",
+    "url": "https://engineering.fb.com/2026/10/15/ml-applications/how-meta-built-forum-ai-native-engineering/",
+    "published": "2026-10-15T19:00:03.000Z",
+    "source": "Meta Engineering Blog（RSS）",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "Black Forest Labs FLUX 3 系列登陆 OpenRouter：Image Klein 开源权重、视频 upscale 降价并支持 4K 生成",
+    "summary": "OpenRouter 宣布 Black Forest Labs（@bfl_ai）三项新内容上线。FLUX 3 Image Klein 是新的开源权重图像模型，可在单张消费级 GPU 上运行；改进版 FLUX Video Upscale 开启 early access，可将任意视频转为 4K，价格从 $0.59/s 降至 $0.28/s；FLUX 3 Video 现已支持从提示词直接生成 4K 视频。",
+    "url": "https://x.com/OpenRouter/status/2110803343878873473",
+    "published": "2026-10-15T18:41:48.000Z",
+    "source": "X：OpenRouter (@OpenRouter)",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "Muse Spark Open 上架 Arena，可在 Agent Arena 实测，评分即将公布",
+    "summary": "Arena 宣布 Meta 的 Muse Spark Open 已进入 Agent Arena，用户可实测，评分即将公布。该模型为 816B 总参数、42B 激活参数，1M token 上下文窗口，原生多模态。",
+    "url": "https://x.com/arena/status/2110797782953132049",
+    "published": "2026-10-15T18:19:42.000Z",
+    "source": "X：Arena (@arena)",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "Meta 开放权重模型 Muse Spark Open 上架 OpenRouter",
+    "summary": "Meta 发布开放权重模型 Muse Spark Open，现已可在 OpenRouter 使用，定位为面向编码与智能体工作的美国最强开放权重模型。模型总参数 816B、激活 42B，支持 1M token 上下文窗口，原生多模态，OpenRouter 定价为输入 $1.25/M、输出 $4.25/M，正文提到支持图像、视频、音频和 PDF 输入。",
+    "url": "https://x.com/OpenRouter/status/2110793354154008685",
+    "published": "2026-10-15T18:02:06.000Z",
+    "source": "X：OpenRouter (@OpenRouter)",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "Meta 发布开源权重模型 Muse Spark Open，816B 参数、1M 上下文",
+    "summary": "Meta 发布开源权重模型 Muse Spark Open，已在 Hugging Face 以 Muse Model License 提供。模型总参数 816B、激活 42B，上下文窗口 1M token，面向编码与智能体工作流，原生多模态（图像、音频、文档），并相比 8 月发布的 Muse Spark 增加了安全后训练。",
+    "url": "https://pytorch.org/blog/muse-spark-open/",
+    "published": "2026-10-15T17:55:52.000Z",
+    "source": "PyTorch：Blog（RSS）",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "Perplexity 开源驱动 Perplexity Computer 的沙箱平台 SPACE",
+    "summary": "Perplexity CEO Aravind Srinivas 宣布开源沙箱平台 SPACE，该平台为 Perplexity Computer 的全部沙箱能力提供支撑，仓库地址为 https://github.com/perplexityai/space。他表示沙箱虽是 commodity，但在生产级流量下服务数百万沙箱、为企业和消费者扩展 Agent 需要大量细节，开源旨在支持生态。",
+    "url": "https://x.com/AravSrinivas/status/2110785848958759165",
+    "published": "2026-10-15T17:32:17.000Z",
+    "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "Step 5 Preview 上线 FeatherlessAI，官方转发开放权重模型部署信息",
+    "summary": "阶跃星辰转发 FeatherlessAI 的消息，Step 5 Preview 已上线该平台，以 FP8 精度提供服务。该开放权重模型为 600B 稀疏 MoE 架构、每 token 激活 27B，面向长程智能体工作，在软件工程和专业知识工作（尤其金融）上有前沿级表现，按 Artificial Analysis 数据其每任务成本约为 Claude Opus 5.5 的 1/6，智能水平与 Kimi K3 相当。",
+    "url": "https://x.com/StepFun_ai/status/2110755075845169428",
+    "published": "2026-10-15T15:30:00.000Z",
+    "source": "X：阶跃星辰 StepFun (@StepFun_ai)",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "NVIDIA 发布开源 Nemotron 3.5 Super VL 及 Bolt 两款端侧模型",
+    "summary": "NVIDIA 发布开源 1200 亿参数的 Nemotron 3.5 Super VL 多模态模型，称在其类别中任务完成最快、比同类次优快 5x，并推出两款端侧模型 Bolt 74B-A9B 24GB 与 Bolt E4B 4GB，后者 10 月 23 日上线。模型采用 2-bit 原生量化可在 RTX/DGX Spark 上本地运行，权重、数据集和训练配方开放，已有数十家机构基于自有数据后训练。",
+    "url": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/",
+    "published": "2026-10-15T15:00:24.000Z",
+    "source": "NVIDIA Blog（RSS）",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "Black Forest Labs 发布开源文生图模型 FLUX 3 Image Klein（5.6B）",
+    "summary": "Black Forest Labs 发布 5.6B 参数开源权重模型 FLUX 3 Image Klein，支持文生图、图像编辑和最多 10 张参考图的多参考生成，采用 FLUX Kommunity License。",
+    "url": "https://bfl.ai/blog/flux-3-image-klein",
+    "published": "2026-10-15T15:00:00.000Z",
+    "source": "Black Forest Labs：Blog（网页）",
+    "source_weight": "high",
+    "category": "ai-models"
   },
   {
     "title": "What I told the CFO when he asked why design matters",
@@ -180,46 +216,10 @@
     "category": "design_communities"
   },
   {
-    "title": "What are we willing to sacrifice for AI?",
-    "summary": "<h4>Three paths forward, each challenging what we value most.</h4><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/0*wH09xlIFyhyv5oR6\" /><figcaption>Photo by <a href=\"https://unsplash.com/@secondfret?utm_source=medium&amp;utm_medium=referral\">Josh Johnson</a> on <a href=\"https://unsplash.com?utm_source=medium&amp;utm_medium=referral\">Unsplash</a></figcaption></figure><p>I suspect artificial intelligence may eventually accomplish what generations of socialists have struggled to a",
-    "url": "https://uxdesign.cc/what-are-we-willing-to-sacrifice-for-ai-a57736f368a1?source=rss----138adf9c44c---4",
-    "published": "Tue, 13 Oct 2026 07:30:43 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Deploy on Azure: keep your Lovable apps in your own subscription",
-    "summary": "Deploy on Azure is now in private preview, so your apps and their data can run in your own Azure subscription. Here's every way to build with Lovable on Microsoft today, from fully inside your Microsoft environment to fully managed by Lovable.",
-    "url": "https://lovable.dev/blog/deploy-on-azure",
-    "published": "Thu, 15 Oct 2026 12:45:00 GMT",
-    "source": "Lovable Blog",
-    "source_weight": "medium",
-    "category": "design_tools"
-  },
-  {
-    "title": "What financial services marketing teams need to know about data, access, and security before publishing",
-    "summary": "How financial services marketing teams can assess the risk of an app, control who sees which data, and check what matters before publishing with Lovable.",
-    "url": "https://lovable.dev/blog/financial-services-marketing-data-access-and-security",
-    "published": "Thu, 15 Oct 2026 11:00:00 GMT",
-    "source": "Lovable Blog",
-    "source_weight": "medium",
-    "category": "design_tools"
-  },
-  {
-    "title": "Secret agent bot: accessibility matters for the agents even if you can’t see them",
-    "summary": "<figure><img alt=\"Two readers, one page. The agent never sees the surface you designed; it reads the structure underneath.\" src=\"https://cdn-images-1.medium.com/max/1024/1*kBVrEZpJg77XPdxNBIOr1A.png\" /><figcaption>Two readers, one page. The agent never sees the surface you designed; it reads the structure underneath. AI assisted.</figcaption></figure><h4>The semantic structure screen readers have used for decades now also decide whether ChatGPT, Claude, Gemini, Grok, and Perplexity can read your",
-    "url": "https://uxdesign.cc/secret-agent-bot-accessibility-matters-for-the-agents-even-if-you-cant-see-them-2f53a5670ec9?source=rss----138adf9c44c---4",
-    "published": "Mon, 12 Oct 2026 20:19:31 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "AI is hollowing out the middle of design, leaving an hourglass behind",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/ai-is-hollowing-out-the-middle-of-design-leaving-an-hourglass-behind-b7069db250fd?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*4bZ8kF6nLRqeaSUTfj-yNw.png\" width=\"3200\" /></a></p><p class=\"medium-feed-snippet\">For fifteen years, the design process kept growing while the time left for making the product kept shrinking.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesi",
-    "url": "https://uxdesign.cc/ai-is-hollowing-out-the-middle-of-design-leaving-an-hourglass-behind-b7069db250fd?source=rss----138adf9c44c---4",
-    "published": "Mon, 12 Oct 2026 20:17:45 GMT",
+    "title": "Human in the loop means making sure the human is not out of the loop",
+    "summary": "<figure><img alt=\"A reviewer’s hand hovers over an approve button while the work it approves has already moved on without them.\" src=\"https://cdn-images-1.medium.com/max/1024/1*HzHXq_X2ih01vbqVZYkmfw.png\" /><figcaption>A reviewer’s hand hovers over an approve button while the work it approves has already moved on without them. AI assisted.</figcaption></figure><h4><strong>Agents now act before we ask and reach past what we authorized. A person in the loop isn’t enough if nobody owns the outcome.",
+    "url": "https://uxdesign.cc/designing-for-ai-human-in-the-loop-means-making-sure-the-human-is-not-out-of-the-loop-e38826309c91?source=rss----138adf9c44c---4",
+    "published": "Thu, 15 Oct 2026 22:09:29 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"

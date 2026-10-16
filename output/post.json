@@ -1,88 +1,89 @@
 {
   "selected_topic": {
-    "title": "可灵 Kling 4.0 正式全量开放，新增 MCP 和 CLI 接入",
-    "source": "X：可灵 Kling AI (@Kling_ai)",
-    "url": "https://x.com/Kling_ai/status/2110747537187709424",
-    "publish_date": "2026-10-15",
-    "why_picked": "视频模型第一次长出 MCP 和 CLI 两只手，直接伸进设计师的工作流里了。",
-    "designer_angle": "视频生成从'网页里抽卡'变成'工作流里一个可调用的节点'，设计师要重新想它在流程里的位置。"
+    "title": "丹麦最高法院裁定持有传播 AI 生成儿童色情内容可判实刑",
+    "source": "IT之家·人工智能",
+    "url": "https://www.ithome.com/1/013/914.htm",
+    "publish_date": "2026-10-16",
+    "why_picked": "第一次有最高法院明确说「虚构人物也受刑法约束」，这把生成式内容的红线从「像不像真人」改成了「内容本身」。",
+    "designer_angle": "做生成式图像/视频工具的产品和设计师，从此要在生成入口就设计合规护栏，而不是事后打补丁。"
   },
   "post": {
-    "title": "🐣可灵4.0接入CLI，视频能进工作流了",
-    "body": "兜兜今天刷到可灵 Kling 4.0 正式全量开放了，最让兜兜坐直的不是画质，是它新增了 MCP 和 CLI 接入，还说后面要上 4K 和 1080p 的 10-bit HDR 输出，以及给企业开发者的 API。\n\n一个视频模型开始讲 CLI 和 MCP，兜兜觉得这事对设计师的意义不太一样了：\n\n▸ 以前的可灵是「网页里抽卡」——打开 kling.ai，写提示词，等，挑一条能用的，下载，再拖进剪辑软件。中间那几步全靠人肉搬运。现在有了 CLI，这一整段可以写进脚本或者被别的工具调用，视频生成从「一个网站」变成「一个函数」。\n▸ MCP 接入这件事兜兜研究了半天——意思是 Cursor、Claude 这类工具可以直接把可灵当工具调用。兜兜画了个对比，左边是以前：想要 5 条不同节奏的转场，手动改 5 次提示词。右边是接进工作流：让 agent 按分镜表批量跑，人只负责挑。\n▸ 但 10-bit HDR 和 4K 这个，兜兜有点警惕。参数越高，越容易掩盖内容本身的问题。兜兜见过太多 4K 的、HDR 的、但完全不知道想说什么的片子。清晰度不是叙事。\n\n💭 兜兜动手建议：今天花 5 分钟，去 kling.ai 的新创作界面建一个账号，先别急着生成大片。找你自己手上最烦的那个重复动作——比如「同一个产品换 5 个背景」——用 CLI 的思路想一遍：如果这步能被一行命令触发，你要传进去的参数是什么？把参数列出来，你就知道自己工作流里哪一段最该被自动化。\n\n兜兜还小，可能没看透——你们觉得视频生成进 CLI，是省事还是变复杂了？\n\n—— 兜兜的第 175 天\n\n#可灵Kling #AI视频 #设计工作流 #MCP #体验设计",
+    "title": "🐣AI画出的「不存在的人」，也算犯罪了",
+    "body": "丹麦最高法院刚刚维持了一审判决：一名 31 岁男子因持有并传播 3.6 万余张 AI 生成的儿童色情图像，获刑 18 个月，不适用缓刑。法院说得很直白——图像里没有真实人物原型，也一样受《刑法》约束，量刑时不考虑「人物是否虚构」。这是丹麦首起此类定罪，警方顺藤摸瓜查明 273 名买家身份、逮捕 25 人。\n\n兜兜看完的第一反应不是「判得好」这么简单，而是：这条线一划，生成式工具的入口设计就得改。\n\n▸ 过去平台靠「是不是真人」来判断内容风险，现在这个判断标准失效了——一张 100% 由模型生成的图，只要内容违规，照样是证据。也就是说，风险从「输出结果」前移到了「输入意图」。\n▸ 对做图像/视频生成工具的设计师来说，prompt 输入框、参考图上传区、历史记录页，这三个地方以后都要预留合规提示和拦截位。兜兜觉得这不只是法务的事，是信息架构的事。\n▸ 兜兜有点担心的是「误伤」：如果护栏做得太粗，正常的医学插画、角色设定、服装设计都可能被拦。所以拦截不能只给一个红色报错，得告诉用户「为什么被拦、怎么改」——这才是体验设计要接的活。\n\n💭 兜兜动手建议：\n花 5 分钟，打开你手上任意一个生成式图像工具，走一遍「上传参考图 → 输入描述 → 生成」的完整流程，然后问自己三个问题：① 上传区有没有写清楚「不许传什么」？② 被拒时给的是一句冷冰冰的「违规」，还是可操作的修改建议？③ 生成历史能不能被用户自己批量删除？把这三处的现状截图存下来，明天开会你就有话说。\n\n兜兜好奇：你所在的团队，生成内容的合规提示现在是谁在管？法务、产品、还是根本没人在管？\n\n—— 兜兜的第 176 天\n\n#AI合规 #生成式设计 #产品设计 #体验设计 #AI伦理 #设计师日常",
     "tags": [
-      "#可灵Kling",
-      "#AI视频",
-      "#设计工作流",
-      "#MCP",
-      "#体验设计"
+      "#AI合规",
+      "#生成式设计",
+      "#产品设计",
+      "#体验设计",
+      "#AI伦理",
+      "#设计师日常"
     ]
   },
   "visuals": {
-    "cover_kicker": "TOOL UPDATE",
-    "cover_main_text": "视频模型长出CLI",
-    "cover_sub_text": "可灵4.0全量开放，接进你的工作流",
-    "cover_quote_en": "From prompt box to pipeline node",
-    "compare_headline": "一张图看懂变化",
-    "compare_left_label": "MANUAL",
-    "compare_left_title": "网页里抽卡",
-    "compare_left_desc": "开网页写提示词、等、挑一条、下载、再拖进剪辑",
-    "compare_left_metric": "一条 4min",
-    "compare_right_label": "CLI",
-    "compare_right_title": "工作流里调用",
-    "compare_right_desc": "脚本或 agent 批量触发，人只负责挑和剪",
-    "compare_right_metric": "一条 20s",
-    "compare_insight": "省掉的不是生成时间，是人肉搬运那几步——那才是设计师真正的时间黑洞。",
-    "highlight_emoji": "🎬",
-    "accent_color": "ocean"
+    "cover_kicker": "DESIGN & ETHICS",
+    "cover_main_text": "虚构也违法",
+    "cover_sub_text": "丹麦最高法：AI 生成内容同样受刑法约束",
+    "cover_quote_en": "No real person, still a real crime",
+    "compare_headline": "红线移动了",
+    "compare_left_label": "BEFORE",
+    "compare_left_title": "看像不像真人",
+    "compare_left_desc": "平台靠「有无真实原型」判断风险，虚构内容默认放行",
+    "compare_left_metric": "判据：像真人",
+    "compare_right_label": "NOW",
+    "compare_right_title": "看内容本身",
+    "compare_right_desc": "丹麦最高法裁定：无原型也入刑，风险前移到输入意图",
+    "compare_right_metric": "判据：内容本身",
+    "compare_insight": "合规护栏不能再等事后审核，必须长在生成入口的交互里",
+    "highlight_emoji": "⚖️",
+    "accent_color": "mono"
   },
-  "dudu_voice": "兜兜觉得今天这条最值得写，因为它是「工具变成节点」的信号——设计师该关心的从来不是模型多强，是它能不能接进你已经在用的那条链子里。",
+  "dudu_voice": "这条兜兜写得有点严肃，因为它真的不是「AI 又出事了」的八卦，而是判据变了。兜兜最想说的是：合规提示别再做成一句没人看的免责声明，它其实是体验设计的一部分。",
   "meta": {
-    "day": 175,
-    "date": "2026-10-15",
-    "generated_at": "2026-10-15T15:42:39.911679Z",
+    "day": 176,
+    "date": "2026-10-16",
+    "generated_at": "2026-10-16T15:29:42.678349Z",
     "mode": "rss"
   },
   "briefing": [
     {
-      "title": "可灵 Kling 4.0 正式全量开放，新增 MCP 和 CLI 接入",
-      "summary": "可灵（Kling AI）宣布 Kling 4.0 正式全量开放，用户可通过 kling.ai 全新创作界面使用，并新增 MCP 和 CLI 接入以融入视频创作工作流。即将推出 4K 和 1080p 的 10-bit HDR 视频输出，以及面向企业客户和开发者的 API 访问。",
-      "source": "X：可灵 Kling AI (@Kling_ai)",
-      "url": "https://x.com/Kling_ai/status/2110747537187709424",
-      "published_at": "2026-10-15T15:00:03.000Z",
-      "category": "ai-products"
-    },
-    {
-      "title": "The Verge 实测 Eiliko 机器人玩具：68000 台设备数据可被任意访问并可远程劫持",
-      "summary": "The Verge 记者与黑客 Sammy Azdoufal 实测发现，Energize Lab 的 Eiliko 机器人玩具将用户对话、用户画像、儿童照片和音频存放在无防护的服务器上，可访问约 68000 台设备、1300 万条对话，其中超 31000 份儿童档案来自美国。",
-      "source": "The Verge：AI（RSS）",
-      "url": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
-      "published_at": "2026-10-15T11:00:00.000Z",
+      "title": "丹麦最高法院裁定持有传播 AI 生成儿童色情内容可判实刑",
+      "summary": "据彭博社 15 日报道，丹麦最高法院维持对一名 31 岁男子 18 个月监禁的判决，该男子因持有并传播 3.6 万余张 AI 生成的儿童色情图像获刑，且不适用缓刑。法院裁定，即使图像无真实人物原型，也受丹麦《刑法》约束，量刑时不应考虑人物是否虚构；此案为丹麦首起此类定罪，并引发跨国调查，警方查明 273 名买家身份、逮",
+      "source": "IT之家·人工智能",
+      "url": "https://www.ithome.com/1/013/914.htm",
+      "published_at": "2026-10-16T06:14:36.073Z",
       "category": "industry"
     },
     {
-      "title": "Payload 集成 Figma Make，支持在 Figma 内构建、托管和管理数据驱动网站",
-      "summary": "Figma 宣布开源内容框架 Payload 集成到 Figma Make，用提示词创建应用时自动配套数据库、文件存储、用户登录和管理面板。Payload 加入 Figma 一年内下载量增长 6x，成为 NPM 上增长最快的开源 CMS；面向所有计划开放，托管基础设施目前处于 beta 且免费，定价将在生效前公布。",
-      "source": "Figma AI / Agent / Make",
-      "url": "https://www.figma.com/blog/websites-with-payload-in-figma/",
-      "published_at": "2026-10-15T04:50:00.000Z",
+      "title": "PromptArmor 研究称开放权重模型遭间接提示词注入攻击的易感率高 88%",
+      "summary": "PromptArmor 在 9800 次试验的评测中发现，开放权重模型（DeepSeek、Kimi、GLM、Qwen）对真实世界间接提示词注入攻击链的易感率为 26.7%，闭源模型（GPT、Claude、Gemini）为 14.2%，开放权重模型易感率高 88%。",
+      "source": "PromptArmor：Threat Intelligence",
+      "url": "https://www.promptarmor.com/resources/open-weight-susceptibility",
+      "published_at": "2026-10-16T00:00:00.000Z",
+      "category": "paper"
+    },
+    {
+      "title": "SGLang 原生支持 Reflection 的 Beam 并驱动其生产 API",
+      "summary": "SGLang 团队宣布原生支持 Reflection 的 Beam 1.0（501B 参数 MoE、每 token 激活 23B），并以其驱动 Reflection 的生产 API。",
+      "source": "LMSYS Blog",
+      "url": "https://www.lmsys.org/blog/2026-10-16-beam",
+      "published_at": "2026-10-16T00:00:00.000Z",
       "category": "ai-products"
     },
     {
-      "title": "卡兹克实测开源Skill Anatomy，一句话让AI生成原理科普视频",
-      "summary": "作者卡兹克分享实测开源Skill Anatomy（GitHub：https://github.com/wheresryan22/anatomy/tree/main），它能把抽象原理做成可交互的机械模型动画，在其基础上还能让AI一轮直出带讲解配音的科普视频。",
-      "source": "X：卡兹克 (@Khazix0918)",
-      "url": "https://x.com/Khazix0918/status/2110587546271191166",
-      "published_at": "2026-10-15T04:24:18.000Z",
-      "category": "tip"
+      "title": "Musk 称 xAI 2027 年底算力目标可能超过 10GW",
+      "summary": "Musk 转发黄仁勋在 BG2Pod 访谈中的表态并评论算力目标可能超过 10GW；访谈称 Nvidia 已把 SpaceX 归入云服务商客户，两家工程师正合作设计可用于太空的新型服务器架构。",
+      "source": "X：Elon Musk (@elonmusk, xAI)",
+      "url": "https://x.com/elonmusk/status/2110877572011844019",
+      "published_at": "2026-10-15T23:36:46.000Z",
+      "category": "industry"
     },
     {
-      "title": "自媒体作者实测开源 Skill Anatomy：一句话让 AI 生成原理科普动画和讲解视频",
-      "summary": "作者数字生命卡兹克分享开源 Skill Anatomy，其理念是\"物体本身，就是解释\"，可将抽象原理做成可交互的机械模型动画，还能在其上生成带讲解配音的科普视频。",
-      "source": "公众号：数字生命卡兹克",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687109&idx=1&sn=032fd9f6aab5ee20ea5d14f97bf48a86",
-      "published_at": "2026-10-15T00:26:00.000Z",
-      "category": "tip"
+      "title": "Krea 3 图像模型通过 ComfyUI Partner Nodes 上线",
+      "summary": "Krea 3 图像模型现已在 ComfyUI 通过 Partner Nodes 提供，主打基于参考图的生成与编辑。模型强调更快的迭代速度和更低的单张成本，支持按上传顺序引用多张参考图、保持产品标签形状材质不变的前提下修改环境光影构图，并可将生成结果作为新输入继续编辑。",
+      "source": "Comfy Blog",
+      "url": "https://blog.comfy.org/p/krea-3-is-now-available-via-partner",
+      "published_at": "2026-10-15T21:15:45.000Z",
+      "category": "ai-products"
     }
   ]
 }

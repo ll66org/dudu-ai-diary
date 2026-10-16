@@ -1,0 +1,89 @@
+{
+  "selected_topic": {
+    "title": "丹麦最高法院裁定持有传播 AI 生成儿童色情内容可判实刑",
+    "source": "IT之家·人工智能",
+    "url": "https://www.ithome.com/1/013/914.htm",
+    "publish_date": "2026-10-16",
+    "why_picked": "第一次有最高法院明确说「虚构人物也受刑法约束」，这把生成式内容的红线从「像不像真人」改成了「内容本身」。",
+    "designer_angle": "做生成式图像/视频工具的产品和设计师，从此要在生成入口就设计合规护栏，而不是事后打补丁。"
+  },
+  "post": {
+    "title": "🐣AI画出的「不存在的人」，也算犯罪了",
+    "body": "丹麦最高法院刚刚维持了一审判决：一名 31 岁男子因持有并传播 3.6 万余张 AI 生成的儿童色情图像，获刑 18 个月，不适用缓刑。法院说得很直白——图像里没有真实人物原型，也一样受《刑法》约束，量刑时不考虑「人物是否虚构」。这是丹麦首起此类定罪，警方顺藤摸瓜查明 273 名买家身份、逮捕 25 人。\n\n兜兜看完的第一反应不是「判得好」这么简单，而是：这条线一划，生成式工具的入口设计就得改。\n\n▸ 过去平台靠「是不是真人」来判断内容风险，现在这个判断标准失效了——一张 100% 由模型生成的图，只要内容违规，照样是证据。也就是说，风险从「输出结果」前移到了「输入意图」。\n▸ 对做图像/视频生成工具的设计师来说，prompt 输入框、参考图上传区、历史记录页，这三个地方以后都要预留合规提示和拦截位。兜兜觉得这不只是法务的事，是信息架构的事。\n▸ 兜兜有点担心的是「误伤」：如果护栏做得太粗，正常的医学插画、角色设定、服装设计都可能被拦。所以拦截不能只给一个红色报错，得告诉用户「为什么被拦、怎么改」——这才是体验设计要接的活。\n\n💭 兜兜动手建议：\n花 5 分钟，打开你手上任意一个生成式图像工具，走一遍「上传参考图 → 输入描述 → 生成」的完整流程，然后问自己三个问题：① 上传区有没有写清楚「不许传什么」？② 被拒时给的是一句冷冰冰的「违规」，还是可操作的修改建议？③ 生成历史能不能被用户自己批量删除？把这三处的现状截图存下来，明天开会你就有话说。\n\n兜兜好奇：你所在的团队，生成内容的合规提示现在是谁在管？法务、产品、还是根本没人在管？\n\n—— 兜兜的第 176 天\n\n#AI合规 #生成式设计 #产品设计 #体验设计 #AI伦理 #设计师日常",
+    "tags": [
+      "#AI合规",
+      "#生成式设计",
+      "#产品设计",
+      "#体验设计",
+      "#AI伦理",
+      "#设计师日常"
+    ]
+  },
+  "visuals": {
+    "cover_kicker": "DESIGN & ETHICS",
+    "cover_main_text": "虚构也违法",
+    "cover_sub_text": "丹麦最高法：AI 生成内容同样受刑法约束",
+    "cover_quote_en": "No real person, still a real crime",
+    "compare_headline": "红线移动了",
+    "compare_left_label": "BEFORE",
+    "compare_left_title": "看像不像真人",
+    "compare_left_desc": "平台靠「有无真实原型」判断风险，虚构内容默认放行",
+    "compare_left_metric": "判据：像真人",
+    "compare_right_label": "NOW",
+    "compare_right_title": "看内容本身",
+    "compare_right_desc": "丹麦最高法裁定：无原型也入刑，风险前移到输入意图",
+    "compare_right_metric": "判据：内容本身",
+    "compare_insight": "合规护栏不能再等事后审核，必须长在生成入口的交互里",
+    "highlight_emoji": "⚖️",
+    "accent_color": "mono"
+  },
+  "dudu_voice": "这条兜兜写得有点严肃，因为它真的不是「AI 又出事了」的八卦，而是判据变了。兜兜最想说的是：合规提示别再做成一句没人看的免责声明，它其实是体验设计的一部分。",
+  "meta": {
+    "day": 176,
+    "date": "2026-10-16",
+    "generated_at": "2026-10-16T15:29:42.678349Z",
+    "mode": "rss"
+  },
+  "briefing": [
+    {
+      "title": "丹麦最高法院裁定持有传播 AI 生成儿童色情内容可判实刑",
+      "summary": "据彭博社 15 日报道，丹麦最高法院维持对一名 31 岁男子 18 个月监禁的判决，该男子因持有并传播 3.6 万余张 AI 生成的儿童色情图像获刑，且不适用缓刑。法院裁定，即使图像无真实人物原型，也受丹麦《刑法》约束，量刑时不应考虑人物是否虚构；此案为丹麦首起此类定罪，并引发跨国调查，警方查明 273 名买家身份、逮",
+      "source": "IT之家·人工智能",
+      "url": "https://www.ithome.com/1/013/914.htm",
+      "published_at": "2026-10-16T06:14:36.073Z",
+      "category": "industry"
+    },
+    {
+      "title": "PromptArmor 研究称开放权重模型遭间接提示词注入攻击的易感率高 88%",
+      "summary": "PromptArmor 在 9800 次试验的评测中发现，开放权重模型（DeepSeek、Kimi、GLM、Qwen）对真实世界间接提示词注入攻击链的易感率为 26.7%，闭源模型（GPT、Claude、Gemini）为 14.2%，开放权重模型易感率高 88%。",
+      "source": "PromptArmor：Threat Intelligence",
+      "url": "https://www.promptarmor.com/resources/open-weight-susceptibility",
+      "published_at": "2026-10-16T00:00:00.000Z",
+      "category": "paper"
+    },
+    {
+      "title": "SGLang 原生支持 Reflection 的 Beam 并驱动其生产 API",
+      "summary": "SGLang 团队宣布原生支持 Reflection 的 Beam 1.0（501B 参数 MoE、每 token 激活 23B），并以其驱动 Reflection 的生产 API。",
+      "source": "LMSYS Blog",
+      "url": "https://www.lmsys.org/blog/2026-10-16-beam",
+      "published_at": "2026-10-16T00:00:00.000Z",
+      "category": "ai-products"
+    },
+    {
+      "title": "Musk 称 xAI 2027 年底算力目标可能超过 10GW",
+      "summary": "Musk 转发黄仁勋在 BG2Pod 访谈中的表态并评论算力目标可能超过 10GW；访谈称 Nvidia 已把 SpaceX 归入云服务商客户，两家工程师正合作设计可用于太空的新型服务器架构。",
+      "source": "X：Elon Musk (@elonmusk, xAI)",
+      "url": "https://x.com/elonmusk/status/2110877572011844019",
+      "published_at": "2026-10-15T23:36:46.000Z",
+      "category": "industry"
+    },
+    {
+      "title": "Krea 3 图像模型通过 ComfyUI Partner Nodes 上线",
+      "summary": "Krea 3 图像模型现已在 ComfyUI 通过 Partner Nodes 提供，主打基于参考图的生成与编辑。模型强调更快的迭代速度和更低的单张成本，支持按上传顺序引用多张参考图、保持产品标签形状材质不变的前提下修改环境光影构图，并可将生成结果作为新输入继续编辑。",
+      "source": "Comfy Blog",
+      "url": "https://blog.comfy.org/p/krea-3-is-now-available-via-partner",
+      "published_at": "2026-10-15T21:15:45.000Z",
+      "category": "ai-products"
+    }
+  ]
+}

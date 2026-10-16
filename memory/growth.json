@@ -1,5 +1,5 @@
 {
-  "day_count": 175,
+  "day_count": 176,
   "history": [
     {
       "day": 20,
@@ -1042,6 +1042,13 @@
       "date": "2026-10-15",
       "topic": "可灵 Kling 4.0 正式全量开放，新增 MCP 和 CLI 接入",
       "source": "X：可灵 Kling AI (@Kling_ai)",
+      "mode": "rss"
+    },
+    {
+      "day": 176,
+      "date": "2026-10-16",
+      "topic": "丹麦最高法院裁定持有传播 AI 生成儿童色情内容可判实刑",
+      "source": "IT之家·人工智能",
       "mode": "rss"
     }
   ],
