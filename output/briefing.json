@@ -1,5 +1,13 @@
 [
   {
+    "title": "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
+    "summary": "作者解读 Anthropic 关于 Claude Code 代码评审重构的博客：Claude 写了约 90% 的代码，2026 年 6 月到 9 月合并 PR 翻倍以上而 revert 率下降超 40%。",
+    "source": "X：邵猛 (@shao__meng)",
+    "url": "https://x.com/shao__meng/status/2111274173192638932",
+    "published_at": "2026-10-17T01:52:43.000Z",
+    "category": "tip"
+  },
+  {
     "title": "丹麦最高法院裁定持有传播 AI 生成儿童色情内容可判实刑",
     "summary": "据彭博社 15 日报道，丹麦最高法院维持对一名 31 岁男子 18 个月监禁的判决，该男子因持有并传播 3.6 万余张 AI 生成的儿童色情图像获刑，且不适用缓刑。法院裁定，即使图像无真实人物原型，也受丹麦《刑法》约束，量刑时不应考虑人物是否虚构；此案为丹麦首起此类定罪，并引发跨国调查，警方查明 273 名买家身份、逮",
     "source": "IT之家·人工智能",
@@ -16,27 +24,19 @@
     "category": "paper"
   },
   {
+    "title": "Google Research 展示 AI 智能体自主湿实验室的三项进展：VERID 框架、适配体闭环发现与全新蛋白结合剂设计",
+    "summary": "Google Research 发布三项研究，构建 AI 智能体自主湿实验室的基础模块。",
+    "source": "Google Research：Blog（网页）",
+    "url": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs/",
+    "published_at": "2026-10-16T00:00:00.000Z",
+    "category": "paper"
+  },
+  {
     "title": "SGLang 原生支持 Reflection 的 Beam 并驱动其生产 API",
     "summary": "SGLang 团队宣布原生支持 Reflection 的 Beam 1.0（501B 参数 MoE、每 token 激活 23B），并以其驱动 Reflection 的生产 API。",
     "source": "LMSYS Blog",
     "url": "https://www.lmsys.org/blog/2026-10-16-beam",
     "published_at": "2026-10-16T00:00:00.000Z",
-    "category": "ai-products"
-  },
-  {
-    "title": "Musk 称 xAI 2027 年底算力目标可能超过 10GW",
-    "summary": "Musk 转发黄仁勋在 BG2Pod 访谈中的表态并评论算力目标可能超过 10GW；访谈称 Nvidia 已把 SpaceX 归入云服务商客户，两家工程师正合作设计可用于太空的新型服务器架构。",
-    "source": "X：Elon Musk (@elonmusk, xAI)",
-    "url": "https://x.com/elonmusk/status/2110877572011844019",
-    "published_at": "2026-10-15T23:36:46.000Z",
-    "category": "industry"
-  },
-  {
-    "title": "Krea 3 图像模型通过 ComfyUI Partner Nodes 上线",
-    "summary": "Krea 3 图像模型现已在 ComfyUI 通过 Partner Nodes 提供，主打基于参考图的生成与编辑。模型强调更快的迭代速度和更低的单张成本，支持按上传顺序引用多张参考图、保持产品标签形状材质不变的前提下修改环境光影构图，并可将生成结果作为新输入继续编辑。",
-    "source": "Comfy Blog",
-    "url": "https://blog.comfy.org/p/krea-3-is-now-available-via-partner",
-    "published_at": "2026-10-15T21:15:45.000Z",
     "category": "ai-products"
   }
 ]

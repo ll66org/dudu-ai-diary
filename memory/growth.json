@@ -1,5 +1,5 @@
 {
-  "day_count": 176,
+  "day_count": 177,
   "history": [
     {
       "day": 20,
@@ -1049,6 +1049,13 @@
       "date": "2026-10-16",
       "topic": "丹麦最高法院裁定持有传播 AI 生成儿童色情内容可判实刑",
       "source": "IT之家·人工智能",
+      "mode": "rss"
+    },
+    {
+      "day": 177,
+      "date": "2026-10-17",
+      "topic": "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
+      "source": "X：邵猛 (@shao__meng)",
       "mode": "rss"
     }
   ],

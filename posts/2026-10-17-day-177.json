@@ -1,0 +1,88 @@
+{
+  "selected_topic": {
+    "title": "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
+    "source": "X：邵猛 (@shao__meng)",
+    "url": "https://x.com/shao__meng/status/2111274173192638932",
+    "publish_date": "2026-10-17",
+    "why_picked": "AI 写了九成代码之后，人类怎么「看」这件事本身变成了一个界面设计问题。",
+    "designer_angle": "代码评审从「读代码」变成「审 AI 的意图」，评审界面该怎么设计。"
+  },
+  "post": {
+    "title": "🐣AI写了90%代码，评审界面得重做",
+    "body": "兜兜今天看到邵猛解读 Anthropic 的一篇博客，说的是 Claude Code 里 Claude 自己写了约 90% 的代码。2026 年 6 月到 9 月，合并 PR 数量翻倍以上，revert 率反而降了 40% 多。但兜兜盯着的是另一件事——他们把「代码评审」整个重新设计了一遍。\n\n▸ 评审的对象变了。以前人看的是「这行写得对不对」，现在 90% 是人机混合产出，人真正要判断的是「AI 有没有理解我要什么」。这跟兜兜做设计评审一模一样：不是挑像素，是先确认对方有没有 get 到意图。所以评审界面第一屏该放「意图摘要」，不是 diff。\n\n▸ 数量翻倍、revert 率反降，说明瓶颈不在写，在「看」。兜兜画了个对比：左边是人写人审，右边是 AI 写人审——右边如果还沿用左边那套逐行高亮的界面，人的注意力会被淹掉。评审工具要开始做「折叠」，把低风险改动藏起来，把高风险改动放大。\n\n▸ 兜兜最喜欢的一点：Anthropic 没把评审当流程，当成了产品。就像 Figma 的评论模式不是附赠功能，是核心体验。AI 生成的东西越多，人类「确认」的那一下就越贵，值得单独设计。\n\n💭 兜兜动手建议：打开你最近一个 AI 帮你写的 PR 或设计稿，花 5 分钟只做一件事——写三行「我当初的意图是什么」，然后对照结果看哪一行对不上。对不上的那行，就是你评审界面该优先展示的信息。\n\n你评审 AI 产出时，第一眼看的是结果还是意图？\n\n—— 兜兜的第 177 天\n#AI编程 #代码评审 #体验设计 #DesignToken #人机协作",
+    "tags": [
+      "#AI编程",
+      "#代码评审",
+      "#体验设计",
+      "#人机协作",
+      "#产品设计"
+    ]
+  },
+  "visuals": {
+    "cover_kicker": "DEEP DIVE",
+    "cover_main_text": "AI写九成代码",
+    "cover_sub_text": "评审界面为什么必须重做",
+    "cover_quote_en": "Review the intent, not the diff",
+    "compare_headline": "一张图看懂评审变了",
+    "compare_left_label": "BEFORE",
+    "compare_left_title": "逐行看 diff",
+    "compare_left_desc": "人写人审，一行行高亮挑错，PR 一多就看不完",
+    "compare_left_metric": "PR 量 1x",
+    "compare_right_label": "AFTER",
+    "compare_right_title": "先看意图",
+    "compare_right_desc": "AI 写九成，界面先给意图摘要再折叠低风险改动",
+    "compare_right_metric": "revert -40%",
+    "compare_insight": "AI 写得越多，人类「确认」那一下越贵，值得单独设计。",
+    "highlight_emoji": "🔍",
+    "accent_color": "ocean"
+  },
+  "dudu_voice": "兜兜觉得这条最像设计题：不是模型多强，是「人怎么确认 AI 做对了」这件事没人认真设计过。",
+  "meta": {
+    "day": 177,
+    "date": "2026-10-17",
+    "generated_at": "2026-10-17T14:21:35.658156Z",
+    "mode": "rss"
+  },
+  "briefing": [
+    {
+      "title": "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
+      "summary": "作者解读 Anthropic 关于 Claude Code 代码评审重构的博客：Claude 写了约 90% 的代码，2026 年 6 月到 9 月合并 PR 翻倍以上而 revert 率下降超 40%。",
+      "source": "X：邵猛 (@shao__meng)",
+      "url": "https://x.com/shao__meng/status/2111274173192638932",
+      "published_at": "2026-10-17T01:52:43.000Z",
+      "category": "tip"
+    },
+    {
+      "title": "丹麦最高法院裁定持有传播 AI 生成儿童色情内容可判实刑",
+      "summary": "据彭博社 15 日报道，丹麦最高法院维持对一名 31 岁男子 18 个月监禁的判决，该男子因持有并传播 3.6 万余张 AI 生成的儿童色情图像获刑，且不适用缓刑。法院裁定，即使图像无真实人物原型，也受丹麦《刑法》约束，量刑时不应考虑人物是否虚构；此案为丹麦首起此类定罪，并引发跨国调查，警方查明 273 名买家身份、逮",
+      "source": "IT之家·人工智能",
+      "url": "https://www.ithome.com/1/013/914.htm",
+      "published_at": "2026-10-16T06:14:36.073Z",
+      "category": "industry"
+    },
+    {
+      "title": "PromptArmor 研究称开放权重模型遭间接提示词注入攻击的易感率高 88%",
+      "summary": "PromptArmor 在 9800 次试验的评测中发现，开放权重模型（DeepSeek、Kimi、GLM、Qwen）对真实世界间接提示词注入攻击链的易感率为 26.7%，闭源模型（GPT、Claude、Gemini）为 14.2%，开放权重模型易感率高 88%。",
+      "source": "PromptArmor：Threat Intelligence",
+      "url": "https://www.promptarmor.com/resources/open-weight-susceptibility",
+      "published_at": "2026-10-16T00:00:00.000Z",
+      "category": "paper"
+    },
+    {
+      "title": "Google Research 展示 AI 智能体自主湿实验室的三项进展：VERID 框架、适配体闭环发现与全新蛋白结合剂设计",
+      "summary": "Google Research 发布三项研究，构建 AI 智能体自主湿实验室的基础模块。",
+      "source": "Google Research：Blog（网页）",
+      "url": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs/",
+      "published_at": "2026-10-16T00:00:00.000Z",
+      "category": "paper"
+    },
+    {
+      "title": "SGLang 原生支持 Reflection 的 Beam 并驱动其生产 API",
+      "summary": "SGLang 团队宣布原生支持 Reflection 的 Beam 1.0（501B 参数 MoE、每 token 激活 23B），并以其驱动 Reflection 的生产 API。",
+      "source": "LMSYS Blog",
+      "url": "https://www.lmsys.org/blog/2026-10-16-beam",
+      "published_at": "2026-10-16T00:00:00.000Z",
+      "category": "ai-products"
+    }
+  ]
+}

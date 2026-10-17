@@ -1,57 +1,12 @@
 [
   {
-    "title": "Build offline-first apps to earn trust in AI SaaS slop era",
-    "summary": "<p>Article URL: <a href=\"http://blog.geckocode.pl/2026/10/16/privacy-first-apps.html\">http://blog.geckocode.pl/2026/10/16/privacy-first-apps.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50119623\">https://news.ycombinator.com/item?id=50119623</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "http://blog.geckocode.pl/2026/10/16/privacy-first-apps.html",
-    "published": "Fri, 16 Oct 2026 15:27:53 +0000",
-    "source": "Hacker News (设计向)",
+    "title": "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
+    "summary": "作者解读 Anthropic 关于 Claude Code 代码评审重构的博客：Claude 写了约 90% 的代码，2026 年 6 月到 9 月合并 PR 翻倍以上而 revert 率下降超 40%。",
+    "url": "https://x.com/shao__meng/status/2111274173192638932",
+    "published": "2026-10-17T01:52:43.000Z",
+    "source": "X：邵猛 (@shao__meng)",
     "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Show HN: Ndop UI – Copy-in Angular components that still receive updates",
-    "summary": "<p>Article URL: <a href=\"https://github.com/ndop-ui/ui\">https://github.com/ndop-ui/ui</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50119538\">https://news.ycombinator.com/item?id=50119538</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://github.com/ndop-ui/ui",
-    "published": "Fri, 16 Oct 2026 15:21:38 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Show HN: rStation – Let's build our own AI swarm to solve Millennium Problems",
-    "summary": "<p>Article URL: <a href=\"https://rstation.ai/\">https://rstation.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50118876\">https://news.ycombinator.com/item?id=50118876</a></p>\n<p>Points: 6</p>\n<p># Comments: 1</p>",
-    "url": "https://rstation.ai/",
-    "published": "Fri, 16 Oct 2026 14:35:43 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Modernizing the VS Code UI",
-    "summary": "<p>Article URL: <a href=\"https://code.visualstudio.com/blogs/2026/10/15/modern-ui\">https://code.visualstudio.com/blogs/2026/10/15/modern-ui</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50118647\">https://news.ycombinator.com/item?id=50118647</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
-    "url": "https://code.visualstudio.com/blogs/2026/10/15/modern-ui",
-    "published": "Fri, 16 Oct 2026 14:15:01 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "MeshXFS: A clustered filesystem built on XFS, written by AI",
-    "summary": "<p>Article URL: <a href=\"https://github.com/sshoecraft/meshxfs\">https://github.com/sshoecraft/meshxfs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50118590\">https://news.ycombinator.com/item?id=50118590</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
-    "url": "https://github.com/sshoecraft/meshxfs",
-    "published": "Fri, 16 Oct 2026 14:08:29 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "丹麦最高法院裁定持有传播 AI 生成儿童色情内容可判实刑",
-    "summary": "据彭博社 15 日报道，丹麦最高法院维持对一名 31 岁男子 18 个月监禁的判决，该男子因持有并传播 3.6 万余张 AI 生成的儿童色情图像获刑，且不适用缓刑。法院裁定，即使图像无真实人物原型，也受丹麦《刑法》约束，量刑时不应考虑人物是否虚构；此案为丹麦首起此类定罪，并引发跨国调查，警方查明 273 名买家身份、逮捕 25 人。",
-    "url": "https://www.ithome.com/1/013/914.htm",
-    "published": "2026-10-16T06:14:36.073Z",
-    "source": "IT之家·人工智能",
-    "source_weight": "high",
-    "category": "industry"
+    "category": "tip"
   },
   {
     "title": "PromptArmor 研究称开放权重模型遭间接提示词注入攻击的易感率高 88%",
@@ -59,6 +14,15 @@
     "url": "https://www.promptarmor.com/resources/open-weight-susceptibility",
     "published": "2026-10-16T00:00:00.000Z",
     "source": "PromptArmor：Threat Intelligence",
+    "source_weight": "high",
+    "category": "paper"
+  },
+  {
+    "title": "Google Research 展示 AI 智能体自主湿实验室的三项进展：VERID 框架、适配体闭环发现与全新蛋白结合剂设计",
+    "summary": "Google Research 发布三项研究，构建 AI 智能体自主湿实验室的基础模块。",
+    "url": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs/",
+    "published": "2026-10-16T00:00:00.000Z",
+    "source": "Google Research：Blog（网页）",
     "source_weight": "high",
     "category": "paper"
   },
@@ -153,31 +117,22 @@
     "category": "ai-products"
   },
   {
-    "title": "Step 5 Preview 上线 FeatherlessAI，官方转发开放权重模型部署信息",
-    "summary": "阶跃星辰转发 FeatherlessAI 的消息，Step 5 Preview 已上线该平台，以 FP8 精度提供服务。该开放权重模型为 600B 稀疏 MoE 架构、每 token 激活 27B，面向长程智能体工作，在软件工程和专业知识工作（尤其金融）上有前沿级表现，按 Artificial Analysis 数据其每任务成本约为 Claude Opus 5.5 的 1/6，智能水平与 Kimi K3 相当。",
-    "url": "https://x.com/StepFun_ai/status/2110755075845169428",
-    "published": "2026-10-15T15:30:00.000Z",
-    "source": "X：阶跃星辰 StepFun (@StepFun_ai)",
+    "title": "Anthropic 报告：AI 如何改变公司内部的雇佣与工作组织",
+    "summary": "Anthropic 发布基于内部数据的技术报告，研究 AI 对自身雇佣与工作组织的影响。到 2026 年 8 月，交互式 AI agent 工时已达员工的 6 倍；技术部门初级员工占比从 21% 降至 14%，初级技术招聘占比从 27% 降至 9%。",
+    "url": "https://www.anthropic.com/research/employment-at-anthropic",
+    "published": "2026-10-15T16:00:00.000Z",
+    "source": "Anthropic：Research（发表成果 · 网页）",
     "source_weight": "high",
-    "category": "ai-models"
+    "category": "paper"
   },
   {
-    "title": "NVIDIA 发布开源 Nemotron 3.5 Super VL 及 Bolt 两款端侧模型",
-    "summary": "NVIDIA 发布开源 1200 亿参数的 Nemotron 3.5 Super VL 多模态模型，称在其类别中任务完成最快、比同类次优快 5x，并推出两款端侧模型 Bolt 74B-A9B 24GB 与 Bolt E4B 4GB，后者 10 月 23 日上线。模型采用 2-bit 原生量化可在 RTX/DGX Spark 上本地运行，权重、数据集和训练配方开放，已有数十家机构基于自有数据后训练。",
-    "url": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/",
-    "published": "2026-10-15T15:00:24.000Z",
-    "source": "NVIDIA Blog（RSS）",
+    "title": "DeepSeek V4.1 Flash 1017 now available on AI Gateway",
+    "summary": "<p><a href=\"https://vercel.com/ai-gateway/models/deepseek-v4.1-flash-1017\">DeepSeek V4.1 Flash 1017</a> is now available on <a href=\"https://vercel.com/ai-gateway\">AI Gateway</a>.</p><p>DeepSeek V4.1 Flash 1017 is a minor update to <a href=\"https://vercel.com/ai-gateway/models/deepseek-v4.1-flash\">DeepSeek V4.1 Flash</a> that improves reasoning, coding, agentic tasks, and image understanding.</p><p>The coding gains show up in terminal work and in building and editing whole repositories, and the ",
+    "url": "https://vercel.com/changelog/deepseek-v4-1-flash-1017-now-available-on-ai-gateway",
+    "published": "",
+    "source": "Vercel Blog (v0)",
     "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "Black Forest Labs 发布开源文生图模型 FLUX 3 Image Klein（5.6B）",
-    "summary": "Black Forest Labs 发布 5.6B 参数开源权重模型 FLUX 3 Image Klein，支持文生图、图像编辑和最多 10 张参考图的多参考生成，采用 FLUX Kommunity License。",
-    "url": "https://bfl.ai/blog/flux-3-image-klein",
-    "published": "2026-10-15T15:00:00.000Z",
-    "source": "Black Forest Labs：Blog（网页）",
-    "source_weight": "high",
-    "category": "ai-models"
+    "category": "design_tools"
   },
   {
     "title": "What I told the CFO when he asked why design matters",
@@ -220,6 +175,33 @@
     "summary": "<figure><img alt=\"A reviewer’s hand hovers over an approve button while the work it approves has already moved on without them.\" src=\"https://cdn-images-1.medium.com/max/1024/1*HzHXq_X2ih01vbqVZYkmfw.png\" /><figcaption>A reviewer’s hand hovers over an approve button while the work it approves has already moved on without them. AI assisted.</figcaption></figure><h4><strong>Agents now act before we ask and reach past what we authorized. A person in the loop isn’t enough if nobody owns the outcome.",
     "url": "https://uxdesign.cc/designing-for-ai-human-in-the-loop-means-making-sure-the-human-is-not-out-of-the-loop-e38826309c91?source=rss----138adf9c44c---4",
     "published": "Thu, 15 Oct 2026 22:09:29 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "I ran a 7-week AI workshop for designers (that wasn’t really about AI)",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/i-ran-a-7-week-ai-workshop-for-designers-that-wasnt-really-about-ai-804035e7b328?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1090/1*k8ZtBFSgpFpKPc4Mh1ZfNA.png\" width=\"1090\" /></a></p><p class=\"medium-feed-snippet\">It was about what a designer really needed to know about shipping to production, and what people truly wanted from online learning</p><p class=\"medium-feed-link\"><a ",
+    "url": "https://uxdesign.cc/i-ran-a-7-week-ai-workshop-for-designers-that-wasnt-really-about-ai-804035e7b328?source=rss----138adf9c44c---4",
+    "published": "Thu, 15 Oct 2026 22:08:34 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Nobody feels heard by a report",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/nobody-feels-heard-by-a-report-c5a06d96bc39?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*Ok5Itk7d8_4S-9NmG94wVQ.png\" width=\"3200\" /></a></p><p class=\"medium-feed-snippet\">Why the forward-deployed engineer boom stops at the customer.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/nobody-feels-heard-by-a-report-c5a06d96bc39?source=rss----138adf9c44c---4\">Conti",
+    "url": "https://uxdesign.cc/nobody-feels-heard-by-a-report-c5a06d96bc39?source=rss----138adf9c44c---4",
+    "published": "Thu, 15 Oct 2026 22:02:52 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "The AI experience doesn’t care about your org chart",
+    "summary": "<h4>AI is bringing content design, enterprise content strategy, knowledge management, and model behavior into the same user experience. Our ways of working haven’t caught up.</h4><figure><img alt=\"Hand-annotated org chart with a blue circle drawn around all four departments, ignoring the hierarchy, and a margin note reading ‘the user sees one experience’.\" src=\"https://cdn-images-1.medium.com/max/1024/1*6NmwSGMnZgD1hsraDqel3g.png\" /><figcaption>Image generated by Claude</figcaption></figure><p>I",
+    "url": "https://uxdesign.cc/the-ai-experience-doesnt-care-about-your-org-chart-5ed595c7b373?source=rss----138adf9c44c---4",
+    "published": "Thu, 15 Oct 2026 22:00:47 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
