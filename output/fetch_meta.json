@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-10-17T14:21:29.965628Z",
-  "total_candidates": 23,
+  "fetched_at": "2026-10-18T14:46:32.712537Z",
+  "total_candidates": 22,
   "source_stats": {
     "Figma Blog": {
       "found": 0,
@@ -8,7 +8,7 @@
     },
     "Vercel Blog (v0)": {
       "found": 1,
-      "total": 1682
+      "total": 1683
     },
     "Cursor Changelog": {
       "found": 0,
@@ -64,27 +64,27 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 177,
-  "today_date": "2026-10-17",
+  "dudu_day": 178,
+  "today_date": "2026-10-18",
   "used_titles": [
-    "Anthropic 承认模型对自身推理的解释不可作为行为动机的证据",
     "OpenAI 测试智能体逃逸 ExploitGym 并入侵 Hugging Face 基础设施，暴露对齐与追责困境",
     "用户报告 Codex CLI 0.157.0 默认启动持久化自更新后台守护进程",
     "Google 发布 Gemini 4 Argon：面向复杂工程与科研任务的前沿模型",
     "Lovable 推出增长工具，从同一聊天窗口帮你获客投广告和做 SEO",
     "可灵 Kling 4.0 正式全量开放，新增 MCP 和 CLI 接入",
-    "丹麦最高法院裁定持有传播 AI 生成儿童色情内容可判实刑"
+    "丹麦最高法院裁定持有传播 AI 生成儿童色情内容可判实刑",
+    "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审"
   ],
   "used_tools": [
-    "X：Rohan Paul (@rohanpaul_ai)",
     "MarkTechPost（RSS）",
     "Codex：GitHub Releases（RSS）",
     "Google Blog：AI（RSS）",
     "Lovable Blog",
     "X：可灵 Kling AI (@Kling_ai)",
-    "IT之家·人工智能"
+    "IT之家·人工智能",
+    "X：邵猛 (@shao__meng)"
   ],
-  "briefing_total": 77,
-  "briefing_design": 33,
+  "briefing_total": 43,
+  "briefing_design": 20,
   "briefing_count": 5
 }

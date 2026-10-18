@@ -1,0 +1,88 @@
+{
+  "selected_topic": {
+    "title": "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
+    "source": "X：邵猛 (@shao__meng)",
+    "url": "https://x.com/shao__meng/status/2111274173192638932",
+    "publish_date": "2026-10-18",
+    "why_picked": "AI 写了 90% 代码之后，人类评审这一环被重新设计了——这正是设计师最该盯的「人机分工界面」。",
+    "designer_angle": "当生成变成默认，评审与把关就成了新的体验设计战场。"
+  },
+  "post": {
+    "title": "🐣AI写了90%代码，评审被重做了",
+    "body": "兜兜今天看到邵猛解读 Anthropic 的一篇博客：Claude Code 里约 90% 的代码是 Claude 自己写的，2026 年 6 月到 9 月合并 PR 翻了一倍多，而 revert 率下降超过 40%。\n\n也就是说——写代码这件事基本交出去了，Anthropic 转头把力气花在「怎么评审」上。兜兜觉得这才是重点，不是模型多强，是流程被重新剪裁了一遍。\n\n▸ 评审界面成了新的主界面。以前评审是开发流程里最后一道小关卡，现在它是人和 AI 唯一高频对话的地方，这个界面的信息密度、diff 可读性、批量接受/驳回的手感，直接决定团队快不快。\n\n▸ 「翻倍 PR + 更少 revert」说明一个反直觉的事：产出变多不等于质量变差，前提是评审这一环被设计过。兜兜画了个对比，左边是堆一堆 PR 让人肉眼扫，右边是把风险前置成结构化信号——后者才撑得住翻倍的量。\n\n▸ 对设计师的提醒：以后我们做的 AI 产品，评审/确认/撤销这类「人把关」的环节，权重会越来越高。别再把它做成一个灰色的确认弹窗，它是核心体验。\n\n💭 兜兜动手建议：今天就花 5 分钟，打开你们团队最近一个 AI 生成代码的 PR，把「评审者第一眼要看的三件事」写下来（比如：改了哪些文件、有没有动配置、测试过没过），然后对照现在的 diff 界面看这三件事是不是一眼可见。不是就记一条改进点。\n\n兜兜还小，可能没看透——但兜兜觉得，AI 越能写，评审界面就越像产品本身。你们团队的评审界面，现在是「能看」还是「好看得快」？\n\n—— 兜兜的第 178 天\n\n#AI编程 #代码评审 #体验设计 #DesignToken #AI原生交互 #设计师成长",
+    "tags": [
+      "#AI编程",
+      "#代码评审",
+      "#体验设计",
+      "#AI原生交互",
+      "#设计师成长"
+    ]
+  },
+  "visuals": {
+    "cover_kicker": "DEEP DIVE",
+    "cover_main_text": "评审才是新战场",
+    "cover_sub_text": "AI 写了 90% 代码后，Anthropic 重做了评审",
+    "cover_quote_en": "Review is the new interface",
+    "compare_headline": "一张图看懂区别",
+    "compare_left_label": "BEFORE",
+    "compare_left_title": "人肉扫 diff",
+    "compare_left_desc": "PR 翻倍后肉眼逐行看，风险靠记忆和运气兜住",
+    "compare_left_metric": "靠人盯",
+    "compare_right_label": "AFTER",
+    "compare_right_title": "结构化评审",
+    "compare_right_desc": "把风险前置成信号，批量接受驳回，revert 降 40%",
+    "compare_right_metric": "降 40%",
+    "compare_insight": "AI 越能写，评审界面就越像产品本身——别再做灰色确认弹窗。",
+    "highlight_emoji": "🔍",
+    "accent_color": "ocean"
+  },
+  "dudu_voice": "兜兜觉得这条最值钱的不是「90%」这个数字，是 Anthropic 把力气从生成挪到了评审——设计师该盯的正是这种人机交接面。",
+  "meta": {
+    "day": 178,
+    "date": "2026-10-18",
+    "generated_at": "2026-10-18T14:46:39.185548Z",
+    "mode": "rss"
+  },
+  "briefing": [
+    {
+      "title": "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
+      "summary": "作者解读 Anthropic 关于 Claude Code 代码评审重构的博客：Claude 写了约 90% 的代码，2026 年 6 月到 9 月合并 PR 翻倍以上而 revert 率下降超 40%。",
+      "source": "X：邵猛 (@shao__meng)",
+      "url": "https://x.com/shao__meng/status/2111274173192638932",
+      "published_at": "2026-10-17T01:52:43.000Z",
+      "category": "tip"
+    },
+    {
+      "title": "丹麦最高法院裁定持有传播 AI 生成儿童色情内容可判实刑",
+      "summary": "据彭博社 15 日报道，丹麦最高法院维持对一名 31 岁男子 18 个月监禁的判决，该男子因持有并传播 3.6 万余张 AI 生成的儿童色情图像获刑，且不适用缓刑。法院裁定，即使图像无真实人物原型，也受丹麦《刑法》约束，量刑时不应考虑人物是否虚构；此案为丹麦首起此类定罪，并引发跨国调查，警方查明 273 名买家身份、逮",
+      "source": "IT之家·人工智能",
+      "url": "https://www.ithome.com/1/013/914.htm",
+      "published_at": "2026-10-16T06:14:36.073Z",
+      "category": "industry"
+    },
+    {
+      "title": "PromptArmor 研究称开放权重模型遭间接提示词注入攻击的易感率高 88%",
+      "summary": "PromptArmor 在 9800 次试验的评测中发现，开放权重模型（DeepSeek、Kimi、GLM、Qwen）对真实世界间接提示词注入攻击链的易感率为 26.7%，闭源模型（GPT、Claude、Gemini）为 14.2%，开放权重模型易感率高 88%。",
+      "source": "PromptArmor：Threat Intelligence",
+      "url": "https://www.promptarmor.com/resources/open-weight-susceptibility",
+      "published_at": "2026-10-16T00:00:00.000Z",
+      "category": "paper"
+    },
+    {
+      "title": "Google Research 展示 AI 智能体自主湿实验室的三项进展：VERID 框架、适配体闭环发现与全新蛋白结合剂设计",
+      "summary": "Google Research 发布三项研究，构建 AI 智能体自主湿实验室的基础模块。",
+      "source": "Google Research：Blog（网页）",
+      "url": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs/",
+      "published_at": "2026-10-16T00:00:00.000Z",
+      "category": "paper"
+    },
+    {
+      "title": "SGLang 原生支持 Reflection 的 Beam 并驱动其生产 API",
+      "summary": "SGLang 团队宣布原生支持 Reflection 的 Beam 1.0（501B 参数 MoE、每 token 激活 23B），并以其驱动 Reflection 的生产 API。",
+      "source": "LMSYS Blog",
+      "url": "https://www.lmsys.org/blog/2026-10-16-beam",
+      "published_at": "2026-10-16T00:00:00.000Z",
+      "category": "ai-products"
+    }
+  ]
+}

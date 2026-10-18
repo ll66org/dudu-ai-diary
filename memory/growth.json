@@ -1,5 +1,5 @@
 {
-  "day_count": 177,
+  "day_count": 178,
   "history": [
     {
       "day": 20,
@@ -1054,6 +1054,13 @@
     {
       "day": 177,
       "date": "2026-10-17",
+      "topic": "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
+      "source": "X：邵猛 (@shao__meng)",
+      "mode": "rss"
+    },
+    {
+      "day": 178,
+      "date": "2026-10-18",
       "topic": "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
       "source": "X：邵猛 (@shao__meng)",
       "mode": "rss"
