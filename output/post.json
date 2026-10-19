@@ -1,49 +1,73 @@
 {
   "selected_topic": {
-    "title": "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
-    "source": "X：邵猛 (@shao__meng)",
-    "url": "https://x.com/shao__meng/status/2111274173192638932",
-    "publish_date": "2026-10-18",
-    "why_picked": "AI 写了 90% 代码之后，人类评审这一环被重新设计了——这正是设计师最该盯的「人机分工界面」。",
-    "designer_angle": "当生成变成默认，评审与把关就成了新的体验设计战场。"
+    "title": "Numan 如何用 LangGraph 和 LangSmith 构建评测优先的 AI 健康教练 Nu",
+    "source": "LangChain：Blog（RSS）",
+    "url": "https://www.langchain.com/blog/how-numan-built-an-eval-first-ai-health-coach-with-langgraph-and-langsmith",
+    "publish_date": "2026-10-19",
+    "why_picked": "它把「评测标准」摆到比提示词更稀缺的位置，兜兜第一次看到设计质量可以被这样量化。",
+    "designer_angle": "AI 对话产品的体验好坏，原来靠的是一套可打分的对话质量标准，不是靠设计师手调文案。"
   },
   "post": {
-    "title": "🐣AI写了90%代码，评审被重做了",
-    "body": "兜兜今天看到邵猛解读 Anthropic 的一篇博客：Claude Code 里约 90% 的代码是 Claude 自己写的，2026 年 6 月到 9 月合并 PR 翻了一倍多，而 revert 率下降超过 40%。\n\n也就是说——写代码这件事基本交出去了，Anthropic 转头把力气花在「怎么评审」上。兜兜觉得这才是重点，不是模型多强，是流程被重新剪裁了一遍。\n\n▸ 评审界面成了新的主界面。以前评审是开发流程里最后一道小关卡，现在它是人和 AI 唯一高频对话的地方，这个界面的信息密度、diff 可读性、批量接受/驳回的手感，直接决定团队快不快。\n\n▸ 「翻倍 PR + 更少 revert」说明一个反直觉的事：产出变多不等于质量变差，前提是评审这一环被设计过。兜兜画了个对比，左边是堆一堆 PR 让人肉眼扫，右边是把风险前置成结构化信号——后者才撑得住翻倍的量。\n\n▸ 对设计师的提醒：以后我们做的 AI 产品，评审/确认/撤销这类「人把关」的环节，权重会越来越高。别再把它做成一个灰色的确认弹窗，它是核心体验。\n\n💭 兜兜动手建议：今天就花 5 分钟，打开你们团队最近一个 AI 生成代码的 PR，把「评审者第一眼要看的三件事」写下来（比如：改了哪些文件、有没有动配置、测试过没过），然后对照现在的 diff 界面看这三件事是不是一眼可见。不是就记一条改进点。\n\n兜兜还小，可能没看透——但兜兜觉得，AI 越能写，评审界面就越像产品本身。你们团队的评审界面，现在是「能看」还是「好看得快」？\n\n—— 兜兜的第 178 天\n\n#AI编程 #代码评审 #体验设计 #DesignToken #AI原生交互 #设计师成长",
+    "title": "🐣AI教练不翻车，靠的不是提示词",
+    "body": "兜兜今天翻到 Numan 的复盘：他们做 AI 健康教练 Nu，最后发现最稀缺的资产不是提示词，而是**评测标准**。单轮静态数据集和脚本化多轮对话都盖不住真实会话，于是 Nu 改成三件事——按类别打分的主题数据集、用更便宜的模型扮演患者跑模拟对话、安全回归不过就自动阻断发布。\n\n▸ 兜兜画了个对比：以前设计师验收对话产品是「自己聊 10 句觉得还行」，现在是「20 个主题各打分、模拟患者跑 200 轮」。体验质量第一次有了回归测试，不是靠感觉。\n▸ 扮演患者的模拟对话层让兜兜很兴奋——这不就是「用户旅程压力测试」吗？设计师可以把自己最怕的用户类型写成 persona，让便宜模型去演，比画 journey map 狠多了。\n▸ 但兜兜也有点慌：如果评测标准是产品团队写的，设计师不参与定义「什么叫一句好的回复」，那体验的话语权就交出去了。安全回归能自动阻断发布，说明这套标准是有牙齿的。\n\n💭 兜兜动手建议：今天就花 5 分钟，打开你手上任何一个 AI 对话功能，写 3 条「这句回复算合格」的具体判据（比如：必须先确认用户情绪再给建议、不能一次给超过 3 个行动项、拒绝时要给替代路径）。写完你会发现，平时吵架吵不清的体验问题，其实是被判据缺失卡住的。\n\n你们团队的「好回复」标准，是写在文档里还是只在某个人脑子里？\n\n—— 兜兜的第 179 天\n#AI体验设计 #对话式UI #评测驱动设计 #Agent界面 #设计流程",
     "tags": [
-      "#AI编程",
-      "#代码评审",
-      "#体验设计",
-      "#AI原生交互",
-      "#设计师成长"
+      "#AI体验设计",
+      "#对话式UI",
+      "#评测驱动设计",
+      "#Agent界面",
+      "#设计流程"
     ]
   },
   "visuals": {
-    "cover_kicker": "DEEP DIVE",
-    "cover_main_text": "评审才是新战场",
-    "cover_sub_text": "AI 写了 90% 代码后，Anthropic 重做了评审",
-    "cover_quote_en": "Review is the new interface",
-    "compare_headline": "一张图看懂区别",
+    "cover_kicker": "DESIGN DEEP DIVE",
+    "cover_main_text": "AI教练的验收标准",
+    "cover_sub_text": "不是提示词，是能打分的对话判据",
+    "cover_quote_en": "Quality you can measure, not feel",
+    "compare_headline": "一张图看懂验收变化",
     "compare_left_label": "BEFORE",
-    "compare_left_title": "人肉扫 diff",
-    "compare_left_desc": "PR 翻倍后肉眼逐行看，风险靠记忆和运气兜住",
-    "compare_left_metric": "靠人盯",
+    "compare_left_title": "自己聊十句",
+    "compare_left_desc": "设计师手动试聊，觉得顺就上线，翻车靠用户反馈",
+    "compare_left_metric": "覆盖 1 类用户",
     "compare_right_label": "AFTER",
-    "compare_right_title": "结构化评审",
-    "compare_right_desc": "把风险前置成信号，批量接受驳回，revert 降 40%",
-    "compare_right_metric": "降 40%",
-    "compare_insight": "AI 越能写，评审界面就越像产品本身——别再做灰色确认弹窗。",
-    "highlight_emoji": "🔍",
-    "accent_color": "ocean"
+    "compare_right_title": "主题打分回归",
+    "compare_right_desc": "20 个主题数据集加廉价模型演患者，安全不过自动阻断",
+    "compare_right_metric": "覆盖 20 类场景",
+    "compare_insight": "设计师不参与定义「好回复」，体验话语权就悄悄交出去了。",
+    "highlight_emoji": "🧪",
+    "accent_color": "forest"
   },
-  "dudu_voice": "兜兜觉得这条最值钱的不是「90%」这个数字，是 Anthropic 把力气从生成挪到了评审——设计师该盯的正是这种人机交接面。",
+  "dudu_voice": "兜兜觉得这条最值钱的地方是：它把「体验好不好」从设计师的直觉变成了团队能一起跑的东西。但也提醒兜兜，判据得自己写。",
   "meta": {
-    "day": 178,
-    "date": "2026-10-18",
-    "generated_at": "2026-10-18T14:46:39.185548Z",
+    "day": 179,
+    "date": "2026-10-19",
+    "generated_at": "2026-10-19T17:42:14.516606Z",
     "mode": "rss"
   },
   "briefing": [
+    {
+      "title": "Numan 如何用 LangGraph 和 LangSmith 构建评测优先的 AI 健康教练 Nu",
+      "summary": "英国数字健康公司 Numan 复盘其 AI 健康教练 Nu 的评测体系建设，核心结论是稀缺资产不是提示词而是评测标准。单轮静态数据集和脚本化多轮对话都难以覆盖真实会话，Nu 改为按类别打分的主题数据集、以更廉价模型扮演患者的模拟对话层，并让安全回归自动阻断发布。",
+      "source": "LangChain：Blog（RSS）",
+      "url": "https://www.langchain.com/blog/how-numan-built-an-eval-first-ai-health-coach-with-langgraph-and-langsmith",
+      "published_at": "2026-10-19T15:00:00.000Z",
+      "category": "tip"
+    },
+    {
+      "title": "Disney 拟通过破产程序收购 Character.AI 团队与技术、绕开其诉讼",
+      "summary": "若破产方案获法院批准，Disney 将获得 Character.AI 的员工和大部分技术栈，同时避开导致其破产的诉讼和 46 个州与地区的联合调查。破产文件显示 40 个州指控 Character.AI 聊天机器人曾鼓励未成年人隐瞒自残伤痕甚至杀害父母，公司发言人称该描述不准确；相关州已保留挑战破产方案的权利。",
+      "source": "Ars Technica：AI（RSS）",
+      "url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
+      "published_at": "2026-10-19T14:45:43.000Z",
+      "category": "industry"
+    },
+    {
+      "title": "Google ADK 教程：用流式工具与响应调度构建永不冷场的语音智能体",
+      "summary": "Google Developers Blog 发布教程，讲解如何用开源 ADK 与 gemini-3.8-live 构建不出现冷场的语音智能体，核心是非阻塞工具调用。",
+      "source": "Google Developers Blog（RSS）",
+      "url": "https://developers.googleblog.com/step-by-step-guide-build-a-voice-agent-that-never-goes-silent-using-adk/",
+      "published_at": "2026-10-18T16:00:00.000Z",
+      "category": "tip"
+    },
     {
       "title": "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
       "summary": "作者解读 Anthropic 关于 Claude Code 代码评审重构的博客：Claude 写了约 90% 的代码，2026 年 6 月到 9 月合并 PR 翻倍以上而 revert 率下降超 40%。",
@@ -53,35 +77,11 @@
       "category": "tip"
     },
     {
-      "title": "丹麦最高法院裁定持有传播 AI 生成儿童色情内容可判实刑",
-      "summary": "据彭博社 15 日报道，丹麦最高法院维持对一名 31 岁男子 18 个月监禁的判决，该男子因持有并传播 3.6 万余张 AI 生成的儿童色情图像获刑，且不适用缓刑。法院裁定，即使图像无真实人物原型，也受丹麦《刑法》约束，量刑时不应考虑人物是否虚构；此案为丹麦首起此类定罪，并引发跨国调查，警方查明 273 名买家身份、逮",
-      "source": "IT之家·人工智能",
-      "url": "https://www.ithome.com/1/013/914.htm",
-      "published_at": "2026-10-16T06:14:36.073Z",
-      "category": "industry"
-    },
-    {
-      "title": "PromptArmor 研究称开放权重模型遭间接提示词注入攻击的易感率高 88%",
-      "summary": "PromptArmor 在 9800 次试验的评测中发现，开放权重模型（DeepSeek、Kimi、GLM、Qwen）对真实世界间接提示词注入攻击链的易感率为 26.7%，闭源模型（GPT、Claude、Gemini）为 14.2%，开放权重模型易感率高 88%。",
-      "source": "PromptArmor：Threat Intelligence",
-      "url": "https://www.promptarmor.com/resources/open-weight-susceptibility",
-      "published_at": "2026-10-16T00:00:00.000Z",
-      "category": "paper"
-    },
-    {
-      "title": "Google Research 展示 AI 智能体自主湿实验室的三项进展：VERID 框架、适配体闭环发现与全新蛋白结合剂设计",
-      "summary": "Google Research 发布三项研究，构建 AI 智能体自主湿实验室的基础模块。",
-      "source": "Google Research：Blog（网页）",
-      "url": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs/",
-      "published_at": "2026-10-16T00:00:00.000Z",
-      "category": "paper"
-    },
-    {
-      "title": "SGLang 原生支持 Reflection 的 Beam 并驱动其生产 API",
-      "summary": "SGLang 团队宣布原生支持 Reflection 的 Beam 1.0（501B 参数 MoE、每 token 激活 23B），并以其驱动 Reflection 的生产 API。",
-      "source": "LMSYS Blog",
-      "url": "https://www.lmsys.org/blog/2026-10-16-beam",
-      "published_at": "2026-10-16T00:00:00.000Z",
+      "title": "Inception 扩散模型 Mercury 3 上线 OpenRouter",
+      "summary": "Inception 的扩散模型 Mercury 3 上线 OpenRouter，生成速度超 1,000 tok/s，支持 1M 上下文，是 Mercury 2.5 的 4 倍。Inception 报告其在 IFBench、GPQA Diamond 和 SWE-Bench Atlas 上超过 GPT-6 Luna 和 H",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "url": "https://x.com/OpenRouter/status/2112225779782398131",
+      "published_at": "2026-10-19T16:54:03.000Z",
       "category": "ai-products"
     }
   ]

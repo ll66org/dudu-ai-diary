@@ -1,120 +1,48 @@
 [
   {
-    "title": "PromptArmor 研究称开放权重模型遭间接提示词注入攻击的易感率高 88%",
-    "summary": "PromptArmor 在 9800 次试验的评测中发现，开放权重模型（DeepSeek、Kimi、GLM、Qwen）对真实世界间接提示词注入攻击链的易感率为 26.7%，闭源模型（GPT、Claude、Gemini）为 14.2%，开放权重模型易感率高 88%。",
-    "url": "https://www.promptarmor.com/resources/open-weight-susceptibility",
-    "published": "2026-10-16T00:00:00.000Z",
-    "source": "PromptArmor：Threat Intelligence",
-    "source_weight": "high",
-    "category": "paper"
-  },
-  {
-    "title": "Google Research 展示 AI 智能体自主湿实验室的三项进展：VERID 框架、适配体闭环发现与全新蛋白结合剂设计",
-    "summary": "Google Research 发布三项研究，构建 AI 智能体自主湿实验室的基础模块。",
-    "url": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs/",
-    "published": "2026-10-16T00:00:00.000Z",
-    "source": "Google Research：Blog（网页）",
-    "source_weight": "high",
-    "category": "paper"
-  },
-  {
-    "title": "SGLang 原生支持 Reflection 的 Beam 并驱动其生产 API",
-    "summary": "SGLang 团队宣布原生支持 Reflection 的 Beam 1.0（501B 参数 MoE、每 token 激活 23B），并以其驱动 Reflection 的生产 API。",
-    "url": "https://www.lmsys.org/blog/2026-10-16-beam",
-    "published": "2026-10-16T00:00:00.000Z",
-    "source": "LMSYS Blog",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Musk 称 xAI 2027 年底算力目标可能超过 10GW",
-    "summary": "Musk 转发黄仁勋在 BG2Pod 访谈中的表态并评论算力目标可能超过 10GW；访谈称 Nvidia 已把 SpaceX 归入云服务商客户，两家工程师正合作设计可用于太空的新型服务器架构。",
-    "url": "https://x.com/elonmusk/status/2110877572011844019",
-    "published": "2026-10-15T23:36:46.000Z",
-    "source": "X：Elon Musk (@elonmusk, xAI)",
-    "source_weight": "high",
-    "category": "industry"
-  },
-  {
-    "title": "Krea 3 图像模型通过 ComfyUI Partner Nodes 上线",
-    "summary": "Krea 3 图像模型现已在 ComfyUI 通过 Partner Nodes 提供，主打基于参考图的生成与编辑。模型强调更快的迭代速度和更低的单张成本，支持按上传顺序引用多张参考图、保持产品标签形状材质不变的前提下修改环境光影构图，并可将生成结果作为新输入继续编辑。",
-    "url": "https://blog.comfy.org/p/krea-3-is-now-available-via-partner",
-    "published": "2026-10-15T21:15:45.000Z",
-    "source": "Comfy Blog",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Claude Opus 5.5 fast mode 结束研究预览并移除等待名单",
-    "summary": "Anthropic 宣布 Claude 平台上的 Opus 5.5 fast mode 不再处于研究预览阶段，并已移除等待名单。该模式速度最高提升 2.5 倍，定价为 $8 / $40 per million tokens；现已登陆 Microsoft Foundry（Azure 托管），Google Cloud 即将支持。Claude Code 中的 fast mode 保持不变，消耗额外 usage credits。文档见 https://platform.claude.com/docs/en/build-with-claude/fast-mode",
-    "url": "https://x.com/ClaudeDevs/status/2110825294655562048",
-    "published": "2026-10-15T20:09:02.000Z",
-    "source": "X：Claude Devs (@ClaudeDevs)",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Meta 如何用 AI 原生工程方式开发 Forum 应用",
-    "summary": "Meta 工程团队详解如何把 AI 智能体作为开发流程参与者来构建独立 Groups 应用 Forum，采用 human-on-the-loop 模式并以验证通过的生产级产出衡量成功。Forum 在八周内达到与 Facebook Groups 的核心功能对齐，自主压测循环在开发期发现并修复了内存问题，内存占用和缺页约减半，上线后智能体还协助根因分析用户反馈。",
-    "url": "https://engineering.fb.com/2026/10/15/ml-applications/how-meta-built-forum-ai-native-engineering/",
-    "published": "2026-10-15T19:00:03.000Z",
-    "source": "Meta Engineering Blog（RSS）",
+    "title": "Numan 如何用 LangGraph 和 LangSmith 构建评测优先的 AI 健康教练 Nu",
+    "summary": "英国数字健康公司 Numan 复盘其 AI 健康教练 Nu 的评测体系建设，核心结论是稀缺资产不是提示词而是评测标准。单轮静态数据集和脚本化多轮对话都难以覆盖真实会话，Nu 改为按类别打分的主题数据集、以更廉价模型扮演患者的模拟对话层，并让安全回归自动阻断发布。",
+    "url": "https://www.langchain.com/blog/how-numan-built-an-eval-first-ai-health-coach-with-langgraph-and-langsmith",
+    "published": "2026-10-19T15:00:00.000Z",
+    "source": "LangChain：Blog（RSS）",
     "source_weight": "high",
     "category": "tip"
   },
   {
-    "title": "Black Forest Labs FLUX 3 系列登陆 OpenRouter：Image Klein 开源权重、视频 upscale 降价并支持 4K 生成",
-    "summary": "OpenRouter 宣布 Black Forest Labs（@bfl_ai）三项新内容上线。FLUX 3 Image Klein 是新的开源权重图像模型，可在单张消费级 GPU 上运行；改进版 FLUX Video Upscale 开启 early access，可将任意视频转为 4K，价格从 $0.59/s 降至 $0.28/s；FLUX 3 Video 现已支持从提示词直接生成 4K 视频。",
-    "url": "https://x.com/OpenRouter/status/2110803343878873473",
-    "published": "2026-10-15T18:41:48.000Z",
-    "source": "X：OpenRouter (@OpenRouter)",
+    "title": "Disney 拟通过破产程序收购 Character.AI 团队与技术、绕开其诉讼",
+    "summary": "若破产方案获法院批准，Disney 将获得 Character.AI 的员工和大部分技术栈，同时避开导致其破产的诉讼和 46 个州与地区的联合调查。破产文件显示 40 个州指控 Character.AI 聊天机器人曾鼓励未成年人隐瞒自残伤痕甚至杀害父母，公司发言人称该描述不准确；相关州已保留挑战破产方案的权利。",
+    "url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
+    "published": "2026-10-19T14:45:43.000Z",
+    "source": "Ars Technica：AI（RSS）",
     "source_weight": "high",
-    "category": "ai-products"
+    "category": "industry"
   },
   {
-    "title": "Muse Spark Open 上架 Arena，可在 Agent Arena 实测，评分即将公布",
-    "summary": "Arena 宣布 Meta 的 Muse Spark Open 已进入 Agent Arena，用户可实测，评分即将公布。该模型为 816B 总参数、42B 激活参数，1M token 上下文窗口，原生多模态。",
-    "url": "https://x.com/arena/status/2110797782953132049",
-    "published": "2026-10-15T18:19:42.000Z",
-    "source": "X：Arena (@arena)",
+    "title": "Figma Specs",
+    "summary": "<p>\n            A container for your context that lives on the Figma canvas\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/figma?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1284894?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/figma",
+    "published": "2026-10-18T20:21:43-07:00",
+    "source": "Product Hunt",
     "source_weight": "high",
-    "category": "ai-models"
+    "category": "ai_tech"
   },
   {
-    "title": "Meta 开放权重模型 Muse Spark Open 上架 OpenRouter",
-    "summary": "Meta 发布开放权重模型 Muse Spark Open，现已可在 OpenRouter 使用，定位为面向编码与智能体工作的美国最强开放权重模型。模型总参数 816B、激活 42B，支持 1M token 上下文窗口，原生多模态，OpenRouter 定价为输入 $1.25/M、输出 $4.25/M，正文提到支持图像、视频、音频和 PDF 输入。",
-    "url": "https://x.com/OpenRouter/status/2110793354154008685",
-    "published": "2026-10-15T18:02:06.000Z",
-    "source": "X：OpenRouter (@OpenRouter)",
+    "title": "Google ADK 教程：用流式工具与响应调度构建永不冷场的语音智能体",
+    "summary": "Google Developers Blog 发布教程，讲解如何用开源 ADK 与 gemini-3.8-live 构建不出现冷场的语音智能体，核心是非阻塞工具调用。",
+    "url": "https://developers.googleblog.com/step-by-step-guide-build-a-voice-agent-that-never-goes-silent-using-adk/",
+    "published": "2026-10-18T16:00:00.000Z",
+    "source": "Google Developers Blog（RSS）",
     "source_weight": "high",
-    "category": "ai-products"
+    "category": "tip"
   },
   {
-    "title": "Meta 发布开源权重模型 Muse Spark Open，816B 参数、1M 上下文",
-    "summary": "Meta 发布开源权重模型 Muse Spark Open，已在 Hugging Face 以 Muse Model License 提供。模型总参数 816B、激活 42B，上下文窗口 1M token，面向编码与智能体工作流，原生多模态（图像、音频、文档），并相比 8 月发布的 Muse Spark 增加了安全后训练。",
-    "url": "https://pytorch.org/blog/muse-spark-open/",
-    "published": "2026-10-15T17:55:52.000Z",
-    "source": "PyTorch：Blog（RSS）",
+    "title": "MiniMax M3.1 Flash now available on AI Gateway for free",
+    "summary": "<p><a href=\"https://vercel.com/ai-gateway/models/minimax-m3.1-flash\">MiniMax M3.1 Flash</a> from <a href=\"https://vercel.com/ai-gateway/models/providers/minimax\">MiniMax</a> is now available on <a href=\"https://vercel.com/ai-gateway\">AI Gateway</a> for free until Oct 22.</p><p>MiniMax M3.1 Flash is an open-weight multimodal model for coding and agentic work, with a 1M-token context window for long documents and multi-step agent sessions.</p><p>Compared with earlier MiniMax models, M3.1 Flash imp",
+    "url": "https://vercel.com/changelog/minimax-m3-1-flash-now-available-on-ai-gateway-for-free",
+    "published": "",
+    "source": "Vercel Blog (v0)",
     "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "Perplexity 开源驱动 Perplexity Computer 的沙箱平台 SPACE",
-    "summary": "Perplexity CEO Aravind Srinivas 宣布开源沙箱平台 SPACE，该平台为 Perplexity Computer 的全部沙箱能力提供支撑，仓库地址为 https://github.com/perplexityai/space。他表示沙箱虽是 commodity，但在生产级流量下服务数百万沙箱、为企业和消费者扩展 Agent 需要大量细节，开源旨在支持生态。",
-    "url": "https://x.com/AravSrinivas/status/2110785848958759165",
-    "published": "2026-10-15T17:32:17.000Z",
-    "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Anthropic 报告：AI 如何改变公司内部的雇佣与工作组织",
-    "summary": "Anthropic 发布基于内部数据的技术报告，研究 AI 对自身雇佣与工作组织的影响。到 2026 年 8 月，交互式 AI agent 工时已达员工的 6 倍；技术部门初级员工占比从 21% 降至 14%，初级技术招聘占比从 27% 降至 9%。",
-    "url": "https://www.anthropic.com/research/employment-at-anthropic",
-    "published": "2026-10-15T16:00:00.000Z",
-    "source": "Anthropic：Research（发表成果 · 网页）",
-    "source_weight": "high",
-    "category": "paper"
+    "category": "design_tools"
   },
   {
     "title": "AI Gateway logs now show session affinity",
@@ -124,33 +52,6 @@
     "source": "Vercel Blog (v0)",
     "source_weight": "high",
     "category": "design_tools"
-  },
-  {
-    "title": "What I told the CFO when he asked why design matters",
-    "summary": "<h4>How to sell design and show the impact of design outcomes to business and finance leaders.</h4><figure><img alt=\"Illustration of a UX designer explaining design value to a CFO who covers his ears, showing why designers need to translate UX and design work into financial outcomes and business impact leaders understand.\" src=\"https://cdn-images-1.medium.com/max/1024/1*JIZUQJsUnSEFm_wNbadV0Q.png\" /></figure><p>Many years ago a business unit CFO told me: “I don’t need another presentation explai",
-    "url": "https://uxdesign.cc/what-i-told-the-cfo-when-he-asked-why-design-matters-ceadb07c929e?source=rss----138adf9c44c---4",
-    "published": "Wed, 14 Oct 2026 22:09:29 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "How getting good at your job can stop you getting better",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/how-getting-good-at-your-job-can-stop-you-getting-better-023b6e7637ec?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1100/1*jULnucn4Py_Gko-irtzTwA.png\" width=\"1100\" /></a></p><p class=\"medium-feed-snippet\">Many experienced people plateau out of sight. Whether they keep growing depends partly on the problems they&#x2019;re given to tackle.</p><p class=\"medium-feed-link\"><a href=\"h",
-    "url": "https://uxdesign.cc/how-getting-good-at-your-job-can-stop-you-getting-better-023b6e7637ec?source=rss----138adf9c44c---4",
-    "published": "Wed, 14 Oct 2026 08:53:49 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Taste is not a design methodology",
-    "summary": "<figure><img alt=\"Judgment brings the facts. Agency puts them on the table.\" src=\"https://cdn-images-1.medium.com/max/1024/1*1rtoPxLZAPWMMjnMRsDQcQ.png\" /><figcaption>Judgment brings the facts. Agency puts them on the table. AI assisted.</figcaption></figure><h4><em>It has become our favorite answer to AI-generated sameness. The reality is good products come from judgment built on facts, and the agency to use them when the room prefers opinions.</em></h4><p>Ask <a href=\"https://en.wikipedia.org/",
-    "url": "https://uxdesign.cc/taste-is-not-a-design-methodology-e02b37aea148?source=rss----138adf9c44c---4",
-    "published": "Tue, 13 Oct 2026 22:27:46 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
   },
   {
     "title": "Human in the loop means making sure the human is not out of the loop",
@@ -180,10 +81,10 @@
     "category": "design_communities"
   },
   {
-    "title": "The AI experience doesn’t care about your org chart",
-    "summary": "<h4>AI is bringing content design, enterprise content strategy, knowledge management, and model behavior into the same user experience. Our ways of working haven’t caught up.</h4><figure><img alt=\"Hand-annotated org chart with a blue circle drawn around all four departments, ignoring the hierarchy, and a margin note reading ‘the user sees one experience’.\" src=\"https://cdn-images-1.medium.com/max/1024/1*6NmwSGMnZgD1hsraDqel3g.png\" /><figcaption>Image generated by Claude</figcaption></figure><p>I",
-    "url": "https://uxdesign.cc/the-ai-experience-doesnt-care-about-your-org-chart-5ed595c7b373?source=rss----138adf9c44c---4",
-    "published": "Thu, 15 Oct 2026 22:00:47 GMT",
+    "title": "How to build a brand foundation with AI without losing your craft",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/how-to-build-a-brand-foundation-with-ai-without-losing-your-craft-d616b05cb838?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*_5ttT6EZkGD9kUqe\" width=\"4896\" /></a></p><p class=\"medium-feed-snippet\">Here is how to use Claude and a handful of guardrails to build a design system that developers respect and clients can actually ship.</p><p class=\"medium-feed-link\"><a href=\"htt",
+    "url": "https://uxdesign.cc/how-to-build-a-brand-foundation-with-ai-without-losing-your-craft-d616b05cb838?source=rss----138adf9c44c---4",
+    "published": "Sun, 18 Oct 2026 19:06:49 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
@@ -193,6 +94,42 @@
     "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/a-thousand-days-of-stale-popcorn-54f62d06c42b?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*PdHugz-cwcOc1gNF\" width=\"2600\" /></a></p><p class=\"medium-feed-snippet\">A gym, a morning radio broadcast, and a streak counter are all answers to one question: how do you get someone to keep going when you&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/a-thousa",
     "url": "https://uxdesign.cc/a-thousand-days-of-stale-popcorn-54f62d06c42b?source=rss----138adf9c44c---4",
     "published": "Sun, 18 Oct 2026 12:11:30 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Why design (still) matters, Taste is not a methodology, Borrowed slopes",
+    "summary": "<h4>Weekly curated resources for designers — thinkers and makers.</h4><figure><a href=\"https://uxdesign.cc/nobody-feels-heard-by-a-report-c5a06d96bc39?sk=08e45079b1f2749fbc2bebd92ce7ecd9\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/0*_AFc-N6YBG0m1h14.png\" /></a></figure><p>AI companies have spent the past year hiring forward-deployed engineers: engineers who sit inside a customer’s team, hear the problem firsthand, and ship against it. One count of 1,000 listings found the role gre",
+    "url": "https://uxdesign.cc/why-design-still-matters-taste-is-not-a-methodology-borrowed-slopes-62701d4c33dc?source=rss----138adf9c44c---4",
+    "published": "Mon, 19 Oct 2026 11:50:05 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "What if AI sets us free?",
+    "summary": "<h4>What can destroy us can also save us. Here’s how I think we can stay in charge of the choice.</h4><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/761/0*NDkwg7zEfl4MUzXA.jpeg\" /><figcaption>From the Rocky Horror Picture Show, <a href=\"https://filmobsessive.com/film/film-analysis/cult_film/the-rocky-horror-picture-show-strips-you-of-your-gender/\">source</a></figcaption></figure><p>Casey Harrell is a climate activist. For years, ALS had been slowly taking his speech, until even the",
+    "url": "https://uxdesign.cc/what-if-ai-sets-us-free-084f4310709b?source=rss----138adf9c44c---4",
+    "published": "Mon, 19 Oct 2026 11:12:29 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "UX designers are not designing interfaces, they design personalities",
+    "summary": "<h4>How tech culture impacts how we understand ourselves through apps</h4><figure><img alt=\"Tech workers in front of a planning board\" src=\"https://cdn-images-1.medium.com/max/1024/0*AN3LC1K2RIhbxkXx\" /><figcaption>Photo by <a href=\"https://unsplash.com/@bluext?utm_source=medium&amp;utm_medium=referral\">blue sky</a> on <a href=\"https://unsplash.com?utm_source=medium&amp;utm_medium=referral\">Unsplash</a></figcaption></figure><p>In the last 20 years, the tech world has transformed parts of humanit",
+    "url": "https://uxdesign.cc/ux-designers-are-not-designing-interfaces-they-design-personalities-d94d874bb43d?source=rss----138adf9c44c---4",
+    "published": "Mon, 19 Oct 2026 11:12:12 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Beyond the Canvas",
+    "summary": "<h4>What Config India 2026 revealed about the expanding possibilities of design.</h4><p>Something is changing in the world of design, and Bengaluru offered a fascinating glimpse of where it’s heading. Thousands of designers, exciting new capabilities, and conversations that went far beyond the latest Figma features. One message stood out: “Design is the differentiator.” Designers are gaining unprecedented capabilities to turn ideas into working products, while India’s technology leaders are maki",
+    "url": "https://uxdesign.cc/beyond-the-canvas-03fce0bcbf7b?source=rss----138adf9c44c---4",
+    "published": "Mon, 19 Oct 2026 09:29:20 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"

@@ -1,5 +1,29 @@
 [
   {
+    "title": "Numan 如何用 LangGraph 和 LangSmith 构建评测优先的 AI 健康教练 Nu",
+    "summary": "英国数字健康公司 Numan 复盘其 AI 健康教练 Nu 的评测体系建设，核心结论是稀缺资产不是提示词而是评测标准。单轮静态数据集和脚本化多轮对话都难以覆盖真实会话，Nu 改为按类别打分的主题数据集、以更廉价模型扮演患者的模拟对话层，并让安全回归自动阻断发布。",
+    "source": "LangChain：Blog（RSS）",
+    "url": "https://www.langchain.com/blog/how-numan-built-an-eval-first-ai-health-coach-with-langgraph-and-langsmith",
+    "published_at": "2026-10-19T15:00:00.000Z",
+    "category": "tip"
+  },
+  {
+    "title": "Disney 拟通过破产程序收购 Character.AI 团队与技术、绕开其诉讼",
+    "summary": "若破产方案获法院批准，Disney 将获得 Character.AI 的员工和大部分技术栈，同时避开导致其破产的诉讼和 46 个州与地区的联合调查。破产文件显示 40 个州指控 Character.AI 聊天机器人曾鼓励未成年人隐瞒自残伤痕甚至杀害父母，公司发言人称该描述不准确；相关州已保留挑战破产方案的权利。",
+    "source": "Ars Technica：AI（RSS）",
+    "url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
+    "published_at": "2026-10-19T14:45:43.000Z",
+    "category": "industry"
+  },
+  {
+    "title": "Google ADK 教程：用流式工具与响应调度构建永不冷场的语音智能体",
+    "summary": "Google Developers Blog 发布教程，讲解如何用开源 ADK 与 gemini-3.8-live 构建不出现冷场的语音智能体，核心是非阻塞工具调用。",
+    "source": "Google Developers Blog（RSS）",
+    "url": "https://developers.googleblog.com/step-by-step-guide-build-a-voice-agent-that-never-goes-silent-using-adk/",
+    "published_at": "2026-10-18T16:00:00.000Z",
+    "category": "tip"
+  },
+  {
     "title": "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
     "summary": "作者解读 Anthropic 关于 Claude Code 代码评审重构的博客：Claude 写了约 90% 的代码，2026 年 6 月到 9 月合并 PR 翻倍以上而 revert 率下降超 40%。",
     "source": "X：邵猛 (@shao__meng)",
@@ -8,35 +32,11 @@
     "category": "tip"
   },
   {
-    "title": "丹麦最高法院裁定持有传播 AI 生成儿童色情内容可判实刑",
-    "summary": "据彭博社 15 日报道，丹麦最高法院维持对一名 31 岁男子 18 个月监禁的判决，该男子因持有并传播 3.6 万余张 AI 生成的儿童色情图像获刑，且不适用缓刑。法院裁定，即使图像无真实人物原型，也受丹麦《刑法》约束，量刑时不应考虑人物是否虚构；此案为丹麦首起此类定罪，并引发跨国调查，警方查明 273 名买家身份、逮",
-    "source": "IT之家·人工智能",
-    "url": "https://www.ithome.com/1/013/914.htm",
-    "published_at": "2026-10-16T06:14:36.073Z",
-    "category": "industry"
-  },
-  {
-    "title": "PromptArmor 研究称开放权重模型遭间接提示词注入攻击的易感率高 88%",
-    "summary": "PromptArmor 在 9800 次试验的评测中发现，开放权重模型（DeepSeek、Kimi、GLM、Qwen）对真实世界间接提示词注入攻击链的易感率为 26.7%，闭源模型（GPT、Claude、Gemini）为 14.2%，开放权重模型易感率高 88%。",
-    "source": "PromptArmor：Threat Intelligence",
-    "url": "https://www.promptarmor.com/resources/open-weight-susceptibility",
-    "published_at": "2026-10-16T00:00:00.000Z",
-    "category": "paper"
-  },
-  {
-    "title": "Google Research 展示 AI 智能体自主湿实验室的三项进展：VERID 框架、适配体闭环发现与全新蛋白结合剂设计",
-    "summary": "Google Research 发布三项研究，构建 AI 智能体自主湿实验室的基础模块。",
-    "source": "Google Research：Blog（网页）",
-    "url": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs/",
-    "published_at": "2026-10-16T00:00:00.000Z",
-    "category": "paper"
-  },
-  {
-    "title": "SGLang 原生支持 Reflection 的 Beam 并驱动其生产 API",
-    "summary": "SGLang 团队宣布原生支持 Reflection 的 Beam 1.0（501B 参数 MoE、每 token 激活 23B），并以其驱动 Reflection 的生产 API。",
-    "source": "LMSYS Blog",
-    "url": "https://www.lmsys.org/blog/2026-10-16-beam",
-    "published_at": "2026-10-16T00:00:00.000Z",
+    "title": "Inception 扩散模型 Mercury 3 上线 OpenRouter",
+    "summary": "Inception 的扩散模型 Mercury 3 上线 OpenRouter，生成速度超 1,000 tok/s，支持 1M 上下文，是 Mercury 2.5 的 4 倍。Inception 报告其在 IFBench、GPQA Diamond 和 SWE-Bench Atlas 上超过 GPT-6 Luna 和 H",
+    "source": "X：OpenRouter (@OpenRouter)",
+    "url": "https://x.com/OpenRouter/status/2112225779782398131",
+    "published_at": "2026-10-19T16:54:03.000Z",
     "category": "ai-products"
   }
 ]
