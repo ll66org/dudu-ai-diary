@@ -1,5 +1,5 @@
 {
-  "day_count": 179,
+  "day_count": 180,
   "history": [
     {
       "day": 20,
@@ -1070,6 +1070,13 @@
       "date": "2026-10-19",
       "topic": "Numan 如何用 LangGraph 和 LangSmith 构建评测优先的 AI 健康教练 Nu",
       "source": "LangChain：Blog（RSS）",
+      "mode": "rss"
+    },
+    {
+      "day": 180,
+      "date": "2026-10-20",
+      "topic": "fal 联合 bfl_ai 发布后训练视频模型 FLUX 3 Max",
+      "source": "X：fal (@fal)",
       "mode": "rss"
     }
   ],

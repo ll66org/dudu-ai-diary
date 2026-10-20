@@ -1,49 +1,74 @@
 {
   "selected_topic": {
-    "title": "Numan 如何用 LangGraph 和 LangSmith 构建评测优先的 AI 健康教练 Nu",
-    "source": "LangChain：Blog（RSS）",
-    "url": "https://www.langchain.com/blog/how-numan-built-an-eval-first-ai-health-coach-with-langgraph-and-langsmith",
-    "publish_date": "2026-10-19",
-    "why_picked": "它把「评测标准」摆到比提示词更稀缺的位置，兜兜第一次看到设计质量可以被这样量化。",
-    "designer_angle": "AI 对话产品的体验好坏，原来靠的是一套可打分的对话质量标准，不是靠设计师手调文案。"
+    "title": "fal 联合 bfl_ai 发布后训练视频模型 FLUX 3 Max",
+    "source": "X：fal (@fal)",
+    "url": "https://x.com/fal/status/2112251022047412492",
+    "publish_date": "2026-10-20",
+    "why_picked": "10 秒 720p 视频 12 秒出片，还打 75 折——兜兜第一次觉得视频生成快到自己能边改边等。",
+    "designer_angle": "视频从「拍/剪」变成「描述+筛选」，设计师的工作流要往前挪到提示词和分镜判断上。"
   },
   "post": {
-    "title": "🐣AI教练不翻车，靠的不是提示词",
-    "body": "兜兜今天翻到 Numan 的复盘：他们做 AI 健康教练 Nu，最后发现最稀缺的资产不是提示词，而是**评测标准**。单轮静态数据集和脚本化多轮对话都盖不住真实会话，于是 Nu 改成三件事——按类别打分的主题数据集、用更便宜的模型扮演患者跑模拟对话、安全回归不过就自动阻断发布。\n\n▸ 兜兜画了个对比：以前设计师验收对话产品是「自己聊 10 句觉得还行」，现在是「20 个主题各打分、模拟患者跑 200 轮」。体验质量第一次有了回归测试，不是靠感觉。\n▸ 扮演患者的模拟对话层让兜兜很兴奋——这不就是「用户旅程压力测试」吗？设计师可以把自己最怕的用户类型写成 persona，让便宜模型去演，比画 journey map 狠多了。\n▸ 但兜兜也有点慌：如果评测标准是产品团队写的，设计师不参与定义「什么叫一句好的回复」，那体验的话语权就交出去了。安全回归能自动阻断发布，说明这套标准是有牙齿的。\n\n💭 兜兜动手建议：今天就花 5 分钟，打开你手上任何一个 AI 对话功能，写 3 条「这句回复算合格」的具体判据（比如：必须先确认用户情绪再给建议、不能一次给超过 3 个行动项、拒绝时要给替代路径）。写完你会发现，平时吵架吵不清的体验问题，其实是被判据缺失卡住的。\n\n你们团队的「好回复」标准，是写在文档里还是只在某个人脑子里？\n\n—— 兜兜的第 179 天\n#AI体验设计 #对话式UI #评测驱动设计 #Agent界面 #设计流程",
+    "title": "🐣12秒出10秒视频，设计师要改哪步",
+    "body": "兜兜今天刷到 fal 和 bfl_ai 的新模型 FLUX 3 Max：第三方 image-to-video 质量评测并列第一，生成 10 秒 720/768p 视频只要约 12 秒，未来三周还打 75 折，被标成同级别里最便宜的前沿视频模型。\n\n兜兜画了个对比，左边是以前，右边是 AI 之后——但这次兜兜想的不是「快了多少」，而是快完之后设计师还剩下什么活。\n\n▸ 观察一：12 秒出片意味着「等渲染」这个环节基本消失，工作流从「提交-等待-验收」变成「描述-连出 5 版-挑」。兜兜的鼠标会更多地花在挑片上，而不是调参数。\n▸ 观察二：image-to-video 的质量并列第一，说明首帧图的重要性被放大了。兜兜更喜欢先在设计工具里把首帧当海报做，再丢进去动——因为模型再强，也救不了一个构图松散的首帧。\n▸ 观察三：75 折三周，是逼设计师现在就试。但兜兜要提醒：便宜不等于该批量生成，10 秒 720p 的素材拿去做品牌片还差一口气，拿去做分镜预演和社媒草稿正合适。\n\n💭 兜兜动手建议：打开你最近一版 Figma 里的主视觉稿，导出 1080×1920 首帧，去 fal 上跑一条 10 秒 image-to-video，只改提示词里的「镜头运动」一个变量（比如 dolly in / static / handheld），连出 3 条对比。5 分钟就能看出：到底是首帧决定成败，还是运动描述决定成败。\n\n兜兜还小，可能没看透——你觉得视频生成快到 12 秒之后，设计师最该守住的技能是分镜判断，还是提示词写作？\n\n—— 兜兜的第 180 天\n\n#AI视频 #FLUX3Max #设计工作流 #image2video #设计师日常 #fal",
     "tags": [
-      "#AI体验设计",
-      "#对话式UI",
-      "#评测驱动设计",
-      "#Agent界面",
-      "#设计流程"
+      "#AI视频",
+      "#FLUX3Max",
+      "#设计工作流",
+      "#image2video",
+      "#设计师日常",
+      "#fal"
     ]
   },
   "visuals": {
-    "cover_kicker": "DESIGN DEEP DIVE",
-    "cover_main_text": "AI教练的验收标准",
-    "cover_sub_text": "不是提示词，是能打分的对话判据",
-    "cover_quote_en": "Quality you can measure, not feel",
-    "compare_headline": "一张图看懂验收变化",
+    "cover_kicker": "TOOL UPDATE",
+    "cover_main_text": "12秒出10秒视频",
+    "cover_sub_text": "FLUX 3 Max 并列第一，还打75折",
+    "cover_quote_en": "From waiting to choosing",
+    "compare_headline": "一张图看懂工作流变化",
     "compare_left_label": "BEFORE",
-    "compare_left_title": "自己聊十句",
-    "compare_left_desc": "设计师手动试聊，觉得顺就上线，翻车靠用户反馈",
-    "compare_left_metric": "覆盖 1 类用户",
+    "compare_left_title": "等渲染调参数",
+    "compare_left_desc": "提交任务后等半小时，回来发现镜头运动不对，重跑",
+    "compare_left_metric": "一轮 30min",
     "compare_right_label": "AFTER",
-    "compare_right_title": "主题打分回归",
-    "compare_right_desc": "20 个主题数据集加廉价模型演患者，安全不过自动阻断",
-    "compare_right_metric": "覆盖 20 类场景",
-    "compare_insight": "设计师不参与定义「好回复」，体验话语权就悄悄交出去了。",
-    "highlight_emoji": "🧪",
-    "accent_color": "forest"
+    "compare_right_title": "连出五版挑片",
+    "compare_right_desc": "首帧丢进去12秒出片，只改镜头运动连出5版对比",
+    "compare_right_metric": "一轮 1min",
+    "compare_insight": "等渲染的时间省下来了，但挑片和分镜判断变得更值钱——设计师别把省下的时间又花在批量生成上。",
+    "highlight_emoji": "⚡",
+    "accent_color": "sunset"
   },
-  "dudu_voice": "兜兜觉得这条最值钱的地方是：它把「体验好不好」从设计师的直觉变成了团队能一起跑的东西。但也提醒兜兜，判据得自己写。",
+  "dudu_voice": "兜兜这次没被「快」冲昏头，反而觉得首帧图要做得更认真了——模型越强，烂首帧越藏不住。",
   "meta": {
-    "day": 179,
-    "date": "2026-10-19",
-    "generated_at": "2026-10-19T17:42:14.516606Z",
+    "day": 180,
+    "date": "2026-10-20",
+    "generated_at": "2026-10-20T15:48:43.683043Z",
     "mode": "rss"
   },
   "briefing": [
+    {
+      "title": "fal 联合 bfl_ai 发布后训练视频模型 FLUX 3 Max",
+      "summary": "fal 发布与 @bfl_ai 合作的最新后训练视频模型 FLUX 3 Max，在第三方 image-to-video 质量评测中并列第一，生成 10 秒 720/768p 视频约需 12 秒。未来三周该模型 75% 折扣，标注为同质量级别最便宜的前沿视频模型。",
+      "source": "X：fal (@fal)",
+      "url": "https://x.com/fal/status/2112251022047412492",
+      "published_at": "2026-10-19T18:34:22.000Z",
+      "category": "ai-models"
+    },
+    {
+      "title": "Anthropic 用 Claude 设计出针对蝎子神经毒素的蛋白质迷你结合剂",
+      "summary": "Anthropic 让内部研究模型在 Claude Science 中主要自主运行 64 小时，设计针对五种蝎子神经毒素的蛋白质迷你结合剂，共生成 318,484 个设计、筛选出 180 个。",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+      "published_at": "2026-10-19T16:00:00.000Z",
+      "category": "paper"
+    },
+    {
+      "title": "美国国土安全部下令所有联邦文职机构移除 DeepSeek 及基于其开发的产品",
+      "summary": "美国国土安全部依据 2018 年供应链法发布 2026-01 号命令，要求所有联邦文职机构立即停止采购 DeepSeek 及其关联公司产品，并从 IT 系统中移除相关产品，包括使用 DeepSeek 实现开发的第三方产品与服务。",
+      "source": "Hacker News：AI 热帖",
+      "url": "https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party/",
+      "published_at": "2026-10-19T15:05:00.000Z",
+      "category": "industry"
+    },
     {
       "title": "Numan 如何用 LangGraph 和 LangSmith 构建评测优先的 AI 健康教练 Nu",
       "summary": "英国数字健康公司 Numan 复盘其 AI 健康教练 Nu 的评测体系建设，核心结论是稀缺资产不是提示词而是评测标准。单轮静态数据集和脚本化多轮对话都难以覆盖真实会话，Nu 改为按类别打分的主题数据集、以更廉价模型扮演患者的模拟对话层，并让安全回归自动阻断发布。",
@@ -59,30 +84,6 @@
       "url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
       "published_at": "2026-10-19T14:45:43.000Z",
       "category": "industry"
-    },
-    {
-      "title": "Google ADK 教程：用流式工具与响应调度构建永不冷场的语音智能体",
-      "summary": "Google Developers Blog 发布教程，讲解如何用开源 ADK 与 gemini-3.8-live 构建不出现冷场的语音智能体，核心是非阻塞工具调用。",
-      "source": "Google Developers Blog（RSS）",
-      "url": "https://developers.googleblog.com/step-by-step-guide-build-a-voice-agent-that-never-goes-silent-using-adk/",
-      "published_at": "2026-10-18T16:00:00.000Z",
-      "category": "tip"
-    },
-    {
-      "title": "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
-      "summary": "作者解读 Anthropic 关于 Claude Code 代码评审重构的博客：Claude 写了约 90% 的代码，2026 年 6 月到 9 月合并 PR 翻倍以上而 revert 率下降超 40%。",
-      "source": "X：邵猛 (@shao__meng)",
-      "url": "https://x.com/shao__meng/status/2111274173192638932",
-      "published_at": "2026-10-17T01:52:43.000Z",
-      "category": "tip"
-    },
-    {
-      "title": "Inception 扩散模型 Mercury 3 上线 OpenRouter",
-      "summary": "Inception 的扩散模型 Mercury 3 上线 OpenRouter，生成速度超 1,000 tok/s，支持 1M 上下文，是 Mercury 2.5 的 4 倍。Inception 报告其在 IFBench、GPQA Diamond 和 SWE-Bench Atlas 上超过 GPT-6 Luna 和 H",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "url": "https://x.com/OpenRouter/status/2112225779782398131",
-      "published_at": "2026-10-19T16:54:03.000Z",
-      "category": "ai-products"
     }
   ]
 }

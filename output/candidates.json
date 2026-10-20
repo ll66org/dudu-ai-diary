@@ -1,12 +1,39 @@
 [
   {
-    "title": "Numan 如何用 LangGraph 和 LangSmith 构建评测优先的 AI 健康教练 Nu",
-    "summary": "英国数字健康公司 Numan 复盘其 AI 健康教练 Nu 的评测体系建设，核心结论是稀缺资产不是提示词而是评测标准。单轮静态数据集和脚本化多轮对话都难以覆盖真实会话，Nu 改为按类别打分的主题数据集、以更廉价模型扮演患者的模拟对话层，并让安全回归自动阻断发布。",
-    "url": "https://www.langchain.com/blog/how-numan-built-an-eval-first-ai-health-coach-with-langgraph-and-langsmith",
-    "published": "2026-10-19T15:00:00.000Z",
-    "source": "LangChain：Blog（RSS）",
+    "title": "fal 联合 bfl_ai 发布后训练视频模型 FLUX 3 Max",
+    "summary": "fal 发布与 @bfl_ai 合作的最新后训练视频模型 FLUX 3 Max，在第三方 image-to-video 质量评测中并列第一，生成 10 秒 720/768p 视频约需 12 秒。未来三周该模型 75% 折扣，标注为同质量级别最便宜的前沿视频模型。",
+    "url": "https://x.com/fal/status/2112251022047412492",
+    "published": "2026-10-19T18:34:22.000Z",
+    "source": "X：fal (@fal)",
     "source_weight": "high",
-    "category": "tip"
+    "category": "ai-models"
+  },
+  {
+    "title": "RunInfra",
+    "summary": "<p>\n            Open models, built for agents.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/runinfra?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1285989?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/runinfra",
+    "published": "2026-10-19T16:12:51-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Anthropic 用 Claude 设计出针对蝎子神经毒素的蛋白质迷你结合剂",
+    "summary": "Anthropic 让内部研究模型在 Claude Science 中主要自主运行 64 小时，设计针对五种蝎子神经毒素的蛋白质迷你结合剂，共生成 318,484 个设计、筛选出 180 个。",
+    "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+    "published": "2026-10-19T16:00:00.000Z",
+    "source": "Anthropic：Research（发表成果 · 网页）",
+    "source_weight": "high",
+    "category": "paper"
+  },
+  {
+    "title": "美国国土安全部下令所有联邦文职机构移除 DeepSeek 及基于其开发的产品",
+    "summary": "美国国土安全部依据 2018 年供应链法发布 2026-01 号命令，要求所有联邦文职机构立即停止采购 DeepSeek 及其关联公司产品，并从 IT 系统中移除相关产品，包括使用 DeepSeek 实现开发的第三方产品与服务。",
+    "url": "https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party/",
+    "published": "2026-10-19T15:05:00.000Z",
+    "source": "Hacker News：AI 热帖",
+    "source_weight": "high",
+    "category": "industry"
   },
   {
     "title": "Disney 拟通过破产程序收购 Character.AI 团队与技术、绕开其诉讼",
@@ -18,13 +45,40 @@
     "category": "industry"
   },
   {
-    "title": "Figma Specs",
-    "summary": "<p>\n            A container for your context that lives on the Figma canvas\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/figma?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1284894?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/figma",
-    "published": "2026-10-18T20:21:43-07:00",
+    "title": "Stage",
+    "summary": "<p>\n            Review, fix and sign off working prototypes and products\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/stage-9?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1285925?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/stage-9",
+    "published": "2026-10-19T14:29:47-07:00",
     "source": "Product Hunt",
     "source_weight": "high",
     "category": "ai_tech"
+  },
+  {
+    "title": "OpenAI 发布 GPT-6 系列模型，提升 COBOL 等低资源编程语言编码能力",
+    "summary": "OpenAI 宣布最新模型在 COBOL、Fortran、Visual Basic 等低资源编程语言上能力显著提升，并推出两项自建评测。",
+    "url": "https://openai.com/index/low-resource-programming-languages",
+    "published": "2026-10-19T12:00:00.000Z",
+    "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "Tiny Little Office",
+    "summary": "<p>\n            A tiny office suite where the link is the document\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/tiny-little-office?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1285782?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/tiny-little-office",
+    "published": "2026-10-19T11:42:09-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Inception Labs 发布扩散大语言模型 Mercury 3，速度达 1068 tokens/秒",
+    "summary": "Inception Labs 发布扩散式大语言模型 Mercury 3，称其在多项基准上超过 GPT-6 Luna 和 Claude Haiku 5.5，速度达 1068 tokens/秒，参数量较 Mercury 1 扩大 40 倍以上。",
+    "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
+    "published": "2026-10-19T07:00:00.000Z",
+    "source": "Inception Labs：Blog（网页）",
+    "source_weight": "high",
+    "category": "ai-models"
   },
   {
     "title": "Google ADK 教程：用流式工具与响应调度构建永不冷场的语音智能体",
@@ -36,46 +90,46 @@
     "category": "tip"
   },
   {
-    "title": "MiniMax M3.1 Flash now available on AI Gateway for free",
-    "summary": "<p><a href=\"https://vercel.com/ai-gateway/models/minimax-m3.1-flash\">MiniMax M3.1 Flash</a> from <a href=\"https://vercel.com/ai-gateway/models/providers/minimax\">MiniMax</a> is now available on <a href=\"https://vercel.com/ai-gateway\">AI Gateway</a> for free until Oct 22.</p><p>MiniMax M3.1 Flash is an open-weight multimodal model for coding and agentic work, with a 1M-token context window for long documents and multi-step agent sessions.</p><p>Compared with earlier MiniMax models, M3.1 Flash imp",
-    "url": "https://vercel.com/changelog/minimax-m3-1-flash-now-available-on-ai-gateway-for-free",
+    "title": "斯坦福 HAI 发布 MedHELM、PhysicianBench 与 HealthAdminBench，测出医疗 AI Agent 实际完成率不足一半",
+    "summary": "斯坦福团队总结三年构建医疗 AI 基准的成果，PhysicianBench 上最佳模型 GPT-5.5 单次仅完成 46% 任务，HealthAdminBench 上 Claude Opus 4.6 完成 36.3%。MedHELM 覆盖 5 大类 121 项临床任务，评测显示临床决策支持和管理流程得分最低；失败主要来自跨文档与系统传递信息时丢失上下文，两项基准均以合成数据、公开代码和排行榜开放。",
+    "url": "https://hai.stanford.edu/news/measuring-what-medical-ai-can-actually-do",
+    "published": "2026-10-18T16:00:00.000Z",
+    "source": "Stanford HAI News（网页）",
+    "source_weight": "high",
+    "category": "paper"
+  },
+  {
+    "title": "Updates to Hobby and Pro Terms of Service",
+    "summary": "<p>We are updating the Terms of Service for Hobby and Pro customers, effective October 19, 2026. The updates clarify some existing Vercel practices, expand terms on topics such as managed accounts and credits, and reflect applicable legal requirements, including certain cancellation and service-change rights for eligible consumers in the UK and EU.</p><h3><b>Credits and billing</b></h3><p>A new section sets out how credits work: plan-included credits expire at the end of the subscription term an",
+    "url": "https://vercel.com/changelog/updates-to-hobby-and-pro-terms-of-service",
     "published": "",
     "source": "Vercel Blog (v0)",
     "source_weight": "high",
     "category": "design_tools"
   },
   {
-    "title": "AI Gateway logs now show session affinity",
-    "summary": "<p><a href=\"https://vercel.com/docs/ai-gateway/observability-and-spend/logs\">AI Gateway logs</a> now have a <a href=\"https://vercel.com/d?to=%2F%5Bteam%5D%2F%7E%2Fai-gateway%2Flogs%3FgroupBy%3Dsessions&amp;title=AI+Gateway+Sessions\">Sessions view</a> that groups requests into sessions and shows how session affinity routed each one. Each row shows the <a href=\"https://vercel.com/docs/ai-gateway/coding-agents\">coding agent</a> or app that ran the session, such as Claude Code, Codex, or Cursor, alo",
-    "url": "https://vercel.com/changelog/ai-gateway-logs-now-show-session-affinity",
-    "published": "",
-    "source": "Vercel Blog (v0)",
-    "source_weight": "high",
+    "title": "Enterprise features October roundup",
+    "summary": "This month's Enterprise releases help central teams take AI-built apps to production: deploy in your own AWS or Azure account, EU inference, Organizations, workspace policies and approvals, the Action center, the Lovable API, and audit log exports.",
+    "url": "https://lovable.dev/blog/enterprise-features-october-roundup",
+    "published": "Tue, 20 Oct 2026 11:30:00 GMT",
+    "source": "Lovable Blog",
+    "source_weight": "medium",
     "category": "design_tools"
+  },
+  {
+    "title": "Embracing Playful Imperfection With The CSS `random()` Function",
+    "summary": "Design systems thrive on consistency, so where does randomness fit in? Through playful demos of organic typography, bouncing letters, and splayed cards, Brecht De Ruyte shows how the new CSS `random()` function brings a little imperfection to the web without JavaScript libraries or preprocessor loops that generate hundreds of lines of static CSS.",
+    "url": "https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/",
+    "published": "Tue, 20 Oct 2026 10:00:00 GMT",
+    "source": "Smashing Magazine",
+    "source_weight": "medium",
+    "category": "design_communities"
   },
   {
     "title": "Human in the loop means making sure the human is not out of the loop",
     "summary": "<figure><img alt=\"A reviewer’s hand hovers over an approve button while the work it approves has already moved on without them.\" src=\"https://cdn-images-1.medium.com/max/1024/1*HzHXq_X2ih01vbqVZYkmfw.png\" /><figcaption>A reviewer’s hand hovers over an approve button while the work it approves has already moved on without them. AI assisted.</figcaption></figure><h4><strong>Agents now act before we ask and reach past what we authorized. A person in the loop isn’t enough if nobody owns the outcome.",
     "url": "https://uxdesign.cc/designing-for-ai-human-in-the-loop-means-making-sure-the-human-is-not-out-of-the-loop-e38826309c91?source=rss----138adf9c44c---4",
     "published": "Thu, 15 Oct 2026 22:09:29 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "I ran a 7-week AI workshop for designers (that wasn’t really about AI)",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/i-ran-a-7-week-ai-workshop-for-designers-that-wasnt-really-about-ai-804035e7b328?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1090/1*k8ZtBFSgpFpKPc4Mh1ZfNA.png\" width=\"1090\" /></a></p><p class=\"medium-feed-snippet\">It was about what a designer really needed to know about shipping to production, and what people truly wanted from online learning</p><p class=\"medium-feed-link\"><a ",
-    "url": "https://uxdesign.cc/i-ran-a-7-week-ai-workshop-for-designers-that-wasnt-really-about-ai-804035e7b328?source=rss----138adf9c44c---4",
-    "published": "Thu, 15 Oct 2026 22:08:34 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Nobody feels heard by a report",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/nobody-feels-heard-by-a-report-c5a06d96bc39?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*Ok5Itk7d8_4S-9NmG94wVQ.png\" width=\"3200\" /></a></p><p class=\"medium-feed-snippet\">Why the forward-deployed engineer boom stops at the customer.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/nobody-feels-heard-by-a-report-c5a06d96bc39?source=rss----138adf9c44c---4\">Conti",
-    "url": "https://uxdesign.cc/nobody-feels-heard-by-a-report-c5a06d96bc39?source=rss----138adf9c44c---4",
-    "published": "Thu, 15 Oct 2026 22:02:52 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
@@ -94,6 +148,24 @@
     "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/a-thousand-days-of-stale-popcorn-54f62d06c42b?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*PdHugz-cwcOc1gNF\" width=\"2600\" /></a></p><p class=\"medium-feed-snippet\">A gym, a morning radio broadcast, and a streak counter are all answers to one question: how do you get someone to keep going when you&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/a-thousa",
     "url": "https://uxdesign.cc/a-thousand-days-of-stale-popcorn-54f62d06c42b?source=rss----138adf9c44c---4",
     "published": "Sun, 18 Oct 2026 12:11:30 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Human attention is the new old bottleneck. We have to design for it even more.",
+    "summary": "<figure><img alt=\"A wide office floor where one person reads at a desk while dozens of screens around them keep filling with new work.\" src=\"https://cdn-images-1.medium.com/max/1024/1*sE14LY9q2J83iqFOPTgcmg.png\" /><figcaption>A wide office floor where one person reads at a desk while dozens of screens around them keep filling with new work for them to address.</figcaption></figure><h4><em>Agents at Anthropic now log six hours for every human hour, and reading their output would eat half a week. ",
+    "url": "https://uxdesign.cc/anthropic-october-2026-study-human-attention-is-the-new-old-bottleneck-d7bc4642668a?source=rss----138adf9c44c---4",
+    "published": "Mon, 19 Oct 2026 21:39:27 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Playing the sanshin without a sound",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/playing-the-sanshin-without-a-sound-3ac88df6f65c?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2400/1*-9c3qFwy0_rjTxZU4sUsqw.jpeg\" width=\"2400\" /></a></p><p class=\"medium-feed-snippet\">The slot machine and the checklist: a dilemma in feedback design.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/playing-the-sanshin-without-a-sound-3ac88df6f65c?source=rss----138adf9",
+    "url": "https://uxdesign.cc/playing-the-sanshin-without-a-sound-3ac88df6f65c?source=rss----138adf9c44c---4",
+    "published": "Mon, 19 Oct 2026 21:38:20 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"

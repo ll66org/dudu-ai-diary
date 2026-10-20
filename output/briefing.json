@@ -1,5 +1,29 @@
 [
   {
+    "title": "fal 联合 bfl_ai 发布后训练视频模型 FLUX 3 Max",
+    "summary": "fal 发布与 @bfl_ai 合作的最新后训练视频模型 FLUX 3 Max，在第三方 image-to-video 质量评测中并列第一，生成 10 秒 720/768p 视频约需 12 秒。未来三周该模型 75% 折扣，标注为同质量级别最便宜的前沿视频模型。",
+    "source": "X：fal (@fal)",
+    "url": "https://x.com/fal/status/2112251022047412492",
+    "published_at": "2026-10-19T18:34:22.000Z",
+    "category": "ai-models"
+  },
+  {
+    "title": "Anthropic 用 Claude 设计出针对蝎子神经毒素的蛋白质迷你结合剂",
+    "summary": "Anthropic 让内部研究模型在 Claude Science 中主要自主运行 64 小时，设计针对五种蝎子神经毒素的蛋白质迷你结合剂，共生成 318,484 个设计、筛选出 180 个。",
+    "source": "Anthropic：Research（发表成果 · 网页）",
+    "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+    "published_at": "2026-10-19T16:00:00.000Z",
+    "category": "paper"
+  },
+  {
+    "title": "美国国土安全部下令所有联邦文职机构移除 DeepSeek 及基于其开发的产品",
+    "summary": "美国国土安全部依据 2018 年供应链法发布 2026-01 号命令，要求所有联邦文职机构立即停止采购 DeepSeek 及其关联公司产品，并从 IT 系统中移除相关产品，包括使用 DeepSeek 实现开发的第三方产品与服务。",
+    "source": "Hacker News：AI 热帖",
+    "url": "https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party/",
+    "published_at": "2026-10-19T15:05:00.000Z",
+    "category": "industry"
+  },
+  {
     "title": "Numan 如何用 LangGraph 和 LangSmith 构建评测优先的 AI 健康教练 Nu",
     "summary": "英国数字健康公司 Numan 复盘其 AI 健康教练 Nu 的评测体系建设，核心结论是稀缺资产不是提示词而是评测标准。单轮静态数据集和脚本化多轮对话都难以覆盖真实会话，Nu 改为按类别打分的主题数据集、以更廉价模型扮演患者的模拟对话层，并让安全回归自动阻断发布。",
     "source": "LangChain：Blog（RSS）",
@@ -14,29 +38,5 @@
     "url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
     "published_at": "2026-10-19T14:45:43.000Z",
     "category": "industry"
-  },
-  {
-    "title": "Google ADK 教程：用流式工具与响应调度构建永不冷场的语音智能体",
-    "summary": "Google Developers Blog 发布教程，讲解如何用开源 ADK 与 gemini-3.8-live 构建不出现冷场的语音智能体，核心是非阻塞工具调用。",
-    "source": "Google Developers Blog（RSS）",
-    "url": "https://developers.googleblog.com/step-by-step-guide-build-a-voice-agent-that-never-goes-silent-using-adk/",
-    "published_at": "2026-10-18T16:00:00.000Z",
-    "category": "tip"
-  },
-  {
-    "title": "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
-    "summary": "作者解读 Anthropic 关于 Claude Code 代码评审重构的博客：Claude 写了约 90% 的代码，2026 年 6 月到 9 月合并 PR 翻倍以上而 revert 率下降超 40%。",
-    "source": "X：邵猛 (@shao__meng)",
-    "url": "https://x.com/shao__meng/status/2111274173192638932",
-    "published_at": "2026-10-17T01:52:43.000Z",
-    "category": "tip"
-  },
-  {
-    "title": "Inception 扩散模型 Mercury 3 上线 OpenRouter",
-    "summary": "Inception 的扩散模型 Mercury 3 上线 OpenRouter，生成速度超 1,000 tok/s，支持 1M 上下文，是 Mercury 2.5 的 4 倍。Inception 报告其在 IFBench、GPQA Diamond 和 SWE-Bench Atlas 上超过 GPT-6 Luna 和 H",
-    "source": "X：OpenRouter (@OpenRouter)",
-    "url": "https://x.com/OpenRouter/status/2112225779782398131",
-    "published_at": "2026-10-19T16:54:03.000Z",
-    "category": "ai-products"
   }
 ]
