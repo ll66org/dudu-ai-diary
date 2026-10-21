@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-10-20T15:48:36.730176Z",
-  "total_candidates": 23,
+  "fetched_at": "2026-10-21T16:04:37.802495Z",
+  "total_candidates": 25,
   "source_stats": {
     "Figma Blog": {
       "found": 0,
@@ -8,7 +8,7 @@
     },
     "Vercel Blog (v0)": {
       "found": 1,
-      "total": 1686
+      "total": 1690
     },
     "Cursor Changelog": {
       "found": 0,
@@ -23,7 +23,7 @@
       "total": 0
     },
     "Lovable Blog": {
-      "found": 1,
+      "found": 0,
       "total": 170
     },
     "Bolt (StackBlitz) Blog": {
@@ -35,7 +35,7 @@
       "total": 40
     },
     "UX Collective": {
-      "found": 9,
+      "found": 10,
       "total": 10
     },
     "Designer News": {
@@ -51,11 +51,11 @@
       "total": 20
     },
     "Hacker News (设计向)": {
-      "found": 0,
-      "total": 0
+      "found": 1,
+      "total": 20
     },
     "Product Hunt": {
-      "found": 3,
+      "found": 1,
       "total": 50
     },
     "Designer News (AI Design)": {
@@ -64,27 +64,27 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 180,
-  "today_date": "2026-10-20",
+  "dudu_day": 181,
+  "today_date": "2026-10-21",
   "used_titles": [
-    "Google 发布 Gemini 4 Argon：面向复杂工程与科研任务的前沿模型",
     "Lovable 推出增长工具，从同一聊天窗口帮你获客投广告和做 SEO",
     "可灵 Kling 4.0 正式全量开放，新增 MCP 和 CLI 接入",
     "丹麦最高法院裁定持有传播 AI 生成儿童色情内容可判实刑",
     "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
     "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
-    "Numan 如何用 LangGraph 和 LangSmith 构建评测优先的 AI 健康教练 Nu"
+    "Numan 如何用 LangGraph 和 LangSmith 构建评测优先的 AI 健康教练 Nu",
+    "fal 联合 bfl_ai 发布后训练视频模型 FLUX 3 Max"
   ],
   "used_tools": [
-    "Google Blog：AI（RSS）",
     "Lovable Blog",
     "X：可灵 Kling AI (@Kling_ai)",
     "IT之家·人工智能",
     "X：邵猛 (@shao__meng)",
     "X：邵猛 (@shao__meng)",
-    "LangChain：Blog（RSS）"
+    "LangChain：Blog（RSS）",
+    "X：fal (@fal)"
   ],
-  "briefing_total": 37,
-  "briefing_design": 9,
+  "briefing_total": 53,
+  "briefing_design": 13,
   "briefing_count": 5
 }

@@ -1,42 +1,42 @@
 [
   {
-    "title": "fal 联合 bfl_ai 发布后训练视频模型 FLUX 3 Max",
-    "summary": "fal 发布与 @bfl_ai 合作的最新后训练视频模型 FLUX 3 Max，在第三方 image-to-video 质量评测中并列第一，生成 10 秒 720/768p 视频约需 12 秒。未来三周该模型 75% 折扣，标注为同质量级别最便宜的前沿视频模型。",
+    "title": "SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源",
+    "summary": "Rohan Paul 总结 SpaceX Q3 2026 财报电话会要点：Super Intelligence 算力租赁业务（客户含 Anthropic 和 Google）收入 $7.6B，近翻三倍于 Q2 的 $2.56B，超过 Starlink 连接业务的 $5.2B 成最大收入来源，其中 $608M 来自新收购的",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "url": "https://x.com/rohanpaul_ai/status/2112768460866695334",
+    "published_at": "2026-10-21T04:50:29.000Z",
+    "category": "industry"
+  },
+  {
+    "title": "OpenAI API 支持 12 小时 prompt 缓存，Codex 与 Work 用户缓存永久保留",
+    "summary": "OpenAI 开发者账号宣布 API 现已可选 12 小时 prompt 缓存，持续运行的智能体可在请求间隔数小时的情况下继续以更低的缓存输入费率复用指令、工具和上下文。Tibo 补充称，Codex 与 Work 中已登录用户的缓存会永久保留，返回旧对话或数小时后恢复会话保证命中缓存，且无额外惩罚。",
+    "source": "X：Tibo (@thsottiaux)",
+    "url": "https://x.com/thsottiaux/status/2112712984644784534",
+    "published_at": "2026-10-21T01:10:02.000Z",
+    "category": "ai-products"
+  },
+  {
+    "title": "SpaceX 财报显示 AI 业务超预期，占收入 52%",
+    "summary": "SpaceX 发布第三季度监管文件，披露营收 146 亿美元、净利润 44 亿美元，扭转去年同期 10 亿美元亏损。其更名的“Super Intelligence”业务线（含 Cursor、Grok 和 neocloud 算力业务）表现好于投资者预期，AI 目前占公司收入 52%，算力规模达 1.7 GW。",
+    "source": "TechCrunch：AI（RSS）",
+    "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+    "published_at": "2026-10-20T20:40:41.000Z",
+    "category": "industry"
+  },
+  {
+    "title": "fal 发布 FLUX 3 Max，图生视频 Elo 达 1139 并列第一",
+    "summary": "fal 发布与 Black Forest Labs 合作后训练的视频模型 FLUX 3 Max，在第三方独立人类偏好评测中获 1139 Elo，与 Seedance 2.5 并列图生视频质量第一梯队。该模型约 12 秒生成一段 10 秒 720/768p 视频，未来三周降价 75%，后续还将继续后训练改进。",
     "source": "X：fal (@fal)",
-    "url": "https://x.com/fal/status/2112251022047412492",
-    "published_at": "2026-10-19T18:34:22.000Z",
+    "url": "https://x.com/fal/status/2112600472922333263",
+    "published_at": "2026-10-20T17:42:57.000Z",
     "category": "ai-models"
   },
   {
-    "title": "Anthropic 用 Claude 设计出针对蝎子神经毒素的蛋白质迷你结合剂",
-    "summary": "Anthropic 让内部研究模型在 Claude Science 中主要自主运行 64 小时，设计针对五种蝎子神经毒素的蛋白质迷你结合剂，共生成 318,484 个设计、筛选出 180 个。",
-    "source": "Anthropic：Research（发表成果 · 网页）",
-    "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
-    "published_at": "2026-10-19T16:00:00.000Z",
-    "category": "paper"
-  },
-  {
-    "title": "美国国土安全部下令所有联邦文职机构移除 DeepSeek 及基于其开发的产品",
-    "summary": "美国国土安全部依据 2018 年供应链法发布 2026-01 号命令，要求所有联邦文职机构立即停止采购 DeepSeek 及其关联公司产品，并从 IT 系统中移除相关产品，包括使用 DeepSeek 实现开发的第三方产品与服务。",
-    "source": "Hacker News：AI 热帖",
-    "url": "https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party/",
-    "published_at": "2026-10-19T15:05:00.000Z",
-    "category": "industry"
-  },
-  {
-    "title": "Numan 如何用 LangGraph 和 LangSmith 构建评测优先的 AI 健康教练 Nu",
-    "summary": "英国数字健康公司 Numan 复盘其 AI 健康教练 Nu 的评测体系建设，核心结论是稀缺资产不是提示词而是评测标准。单轮静态数据集和脚本化多轮对话都难以覆盖真实会话，Nu 改为按类别打分的主题数据集、以更廉价模型扮演患者的模拟对话层，并让安全回归自动阻断发布。",
-    "source": "LangChain：Blog（RSS）",
-    "url": "https://www.langchain.com/blog/how-numan-built-an-eval-first-ai-health-coach-with-langgraph-and-langsmith",
-    "published_at": "2026-10-19T15:00:00.000Z",
-    "category": "tip"
-  },
-  {
-    "title": "Disney 拟通过破产程序收购 Character.AI 团队与技术、绕开其诉讼",
-    "summary": "若破产方案获法院批准，Disney 将获得 Character.AI 的员工和大部分技术栈，同时避开导致其破产的诉讼和 46 个州与地区的联合调查。破产文件显示 40 个州指控 Character.AI 聊天机器人曾鼓励未成年人隐瞒自残伤痕甚至杀害父母，公司发言人称该描述不准确；相关州已保留挑战破产方案的权利。",
-    "source": "Ars Technica：AI（RSS）",
-    "url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
-    "published_at": "2026-10-19T14:45:43.000Z",
-    "category": "industry"
+    "title": "Perplexity Computer 现可在 Mac 上完全本地运行，无需云端推理",
+    "summary": "Perplexity CEO Aravind Srinivas 宣布，Perplexity Computer 现可在 Mac 上完全本地运行，无需云端推理，也不用 WiFi。模型和智能体都在本机运行，可操作 Mac 原生应用和本地文件，敏感数据不必发送到云端，现已在 Perplexity Mac 应用中可用。",
+    "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+    "url": "https://x.com/AravSrinivas/status/2112583333825950207",
+    "published_at": "2026-10-20T16:34:51.000Z",
+    "category": "ai-products"
   }
 ]

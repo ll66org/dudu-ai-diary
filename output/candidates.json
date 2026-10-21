@@ -1,21 +1,84 @@
 [
   {
-    "title": "fal 联合 bfl_ai 发布后训练视频模型 FLUX 3 Max",
-    "summary": "fal 发布与 @bfl_ai 合作的最新后训练视频模型 FLUX 3 Max，在第三方 image-to-video 质量评测中并列第一，生成 10 秒 720/768p 视频约需 12 秒。未来三周该模型 75% 折扣，标注为同质量级别最便宜的前沿视频模型。",
-    "url": "https://x.com/fal/status/2112251022047412492",
-    "published": "2026-10-19T18:34:22.000Z",
+    "title": "Open-source, cross-harness memory for AI agents",
+    "summary": "<p>Earlier this year, my co-founder and I found ourselves frequently switching between different coding agents (Claude Code, Codex, Cursor) anytime we ran out of shaky usage limits or a newer, better model came out.<p>We became increasingly frustrated with having to re-explain our tasks, workflows, common mistake patterns, etc. anytime we switched agents. We found no good free alternatives out there, so we built our own and fully open-sourced it!<p>Beacon hooks into 20+ different agent harnesses",
+    "url": "https://news.ycombinator.com/item?id=50182883",
+    "published": "Wed, 21 Oct 2026 15:42:38 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源",
+    "summary": "Rohan Paul 总结 SpaceX Q3 2026 财报电话会要点：Super Intelligence 算力租赁业务（客户含 Anthropic 和 Google）收入 $7.6B，近翻三倍于 Q2 的 $2.56B，超过 Starlink 连接业务的 $5.2B 成最大收入来源，其中 $608M 来自新收购的 Cursor。",
+    "url": "https://x.com/rohanpaul_ai/status/2112768460866695334",
+    "published": "2026-10-21T04:50:29.000Z",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "source_weight": "high",
+    "category": "industry"
+  },
+  {
+    "title": "OpenAI API 支持 12 小时 prompt 缓存，Codex 与 Work 用户缓存永久保留",
+    "summary": "OpenAI 开发者账号宣布 API 现已可选 12 小时 prompt 缓存，持续运行的智能体可在请求间隔数小时的情况下继续以更低的缓存输入费率复用指令、工具和上下文。Tibo 补充称，Codex 与 Work 中已登录用户的缓存会永久保留，返回旧对话或数小时后恢复会话保证命中缓存，且无额外惩罚。",
+    "url": "https://x.com/thsottiaux/status/2112712984644784534",
+    "published": "2026-10-21T01:10:02.000Z",
+    "source": "X：Tibo (@thsottiaux)",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "SpaceX 财报显示 AI 业务超预期，占收入 52%",
+    "summary": "SpaceX 发布第三季度监管文件，披露营收 146 亿美元、净利润 44 亿美元，扭转去年同期 10 亿美元亏损。其更名的“Super Intelligence”业务线（含 Cursor、Grok 和 neocloud 算力业务）表现好于投资者预期，AI 目前占公司收入 52%，算力规模达 1.7 GW。",
+    "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+    "published": "2026-10-20T20:40:41.000Z",
+    "source": "TechCrunch：AI（RSS）",
+    "source_weight": "high",
+    "category": "industry"
+  },
+  {
+    "title": "fal 发布 FLUX 3 Max，图生视频 Elo 达 1139 并列第一",
+    "summary": "fal 发布与 Black Forest Labs 合作后训练的视频模型 FLUX 3 Max，在第三方独立人类偏好评测中获 1139 Elo，与 Seedance 2.5 并列图生视频质量第一梯队。该模型约 12 秒生成一段 10 秒 720/768p 视频，未来三周降价 75%，后续还将继续后训练改进。",
+    "url": "https://x.com/fal/status/2112600472922333263",
+    "published": "2026-10-20T17:42:57.000Z",
     "source": "X：fal (@fal)",
     "source_weight": "high",
     "category": "ai-models"
   },
   {
-    "title": "RunInfra",
-    "summary": "<p>\n            Open models, built for agents.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/runinfra?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1285989?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/runinfra",
-    "published": "2026-10-19T16:12:51-07:00",
+    "title": "Perplexity Computer 现可在 Mac 上完全本地运行，无需云端推理",
+    "summary": "Perplexity CEO Aravind Srinivas 宣布，Perplexity Computer 现可在 Mac 上完全本地运行，无需云端推理，也不用 WiFi。模型和智能体都在本机运行，可操作 Mac 原生应用和本地文件，敏感数据不必发送到云端，现已在 Perplexity Mac 应用中可用。",
+    "url": "https://x.com/AravSrinivas/status/2112583333825950207",
+    "published": "2026-10-20T16:34:51.000Z",
+    "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "Notion Auto",
+    "summary": "<p>\n            Notion’s rebuilt Agents run for hours and cost far less\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/notion-99?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1286968?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/notion-99",
+    "published": "2026-10-20T11:01:39-07:00",
     "source": "Product Hunt",
     "source_weight": "high",
     "category": "ai_tech"
+  },
+  {
+    "title": "Databricks 发布 MemCurrent 生产级 Agent 持久记忆架构",
+    "summary": "Databricks 介绍 MemCurrent，一种面向生产 Agent 的持久记忆架构，结合情景记忆与派生记忆，通过插件、工具调用和离线 dreaming 管线三种访问模式读写与整合记忆，已用于 Agent Bricks Memory 和 Genie。",
+    "url": "https://www.databricks.com/blog/memcurrent-designing-persistent-memory-production-agents",
+    "published": "2026-10-20T00:00:00.000Z",
+    "source": "Databricks：Blog（RSS）",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "Anthropic 用 Claude 缩减开源代码攻击面：25 个项目发现 493 个问题",
+    "summary": "Anthropic 发布关于用 Claude 自动化攻击面分析与缩减的研究总结，在 25 个、超 500 万行代码的开源项目中用默认配置、配置交互和早期可达性三种方法发现 493 个问题。",
+    "url": "https://www.anthropic.com/research/attack-surface-reduction",
+    "published": "2026-10-20T00:00:00.000Z",
+    "source": "Anthropic：Newsroom（网页）",
+    "source_weight": "high",
+    "category": "paper"
   },
   {
     "title": "Anthropic 用 Claude 设计出针对蝎子神经毒素的蛋白质迷你结合剂",
@@ -45,15 +108,6 @@
     "category": "industry"
   },
   {
-    "title": "Stage",
-    "summary": "<p>\n            Review, fix and sign off working prototypes and products\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/stage-9?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1285925?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/stage-9",
-    "published": "2026-10-19T14:29:47-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
     "title": "OpenAI 发布 GPT-6 系列模型，提升 COBOL 等低资源编程语言编码能力",
     "summary": "OpenAI 宣布最新模型在 COBOL、Fortran、Visual Basic 等低资源编程语言上能力显著提升，并推出两项自建评测。",
     "url": "https://openai.com/index/low-resource-programming-languages",
@@ -61,15 +115,6 @@
     "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
     "source_weight": "high",
     "category": "ai-models"
-  },
-  {
-    "title": "Tiny Little Office",
-    "summary": "<p>\n            A tiny office suite where the link is the document\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/tiny-little-office?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1285782?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/tiny-little-office",
-    "published": "2026-10-19T11:42:09-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
   },
   {
     "title": "Inception Labs 发布扩散大语言模型 Mercury 3，速度达 1068 tokens/秒",
@@ -81,40 +126,40 @@
     "category": "ai-models"
   },
   {
-    "title": "Google ADK 教程：用流式工具与响应调度构建永不冷场的语音智能体",
-    "summary": "Google Developers Blog 发布教程，讲解如何用开源 ADK 与 gemini-3.8-live 构建不出现冷场的语音智能体，核心是非阻塞工具调用。",
-    "url": "https://developers.googleblog.com/step-by-step-guide-build-a-voice-agent-that-never-goes-silent-using-adk/",
-    "published": "2026-10-18T16:00:00.000Z",
-    "source": "Google Developers Blog（RSS）",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "斯坦福 HAI 发布 MedHELM、PhysicianBench 与 HealthAdminBench，测出医疗 AI Agent 实际完成率不足一半",
-    "summary": "斯坦福团队总结三年构建医疗 AI 基准的成果，PhysicianBench 上最佳模型 GPT-5.5 单次仅完成 46% 任务，HealthAdminBench 上 Claude Opus 4.6 完成 36.3%。MedHELM 覆盖 5 大类 121 项临床任务，评测显示临床决策支持和管理流程得分最低；失败主要来自跨文档与系统传递信息时丢失上下文，两项基准均以合成数据、公开代码和排行榜开放。",
-    "url": "https://hai.stanford.edu/news/measuring-what-medical-ai-can-actually-do",
-    "published": "2026-10-18T16:00:00.000Z",
-    "source": "Stanford HAI News（网页）",
-    "source_weight": "high",
-    "category": "paper"
-  },
-  {
-    "title": "Updates to Hobby and Pro Terms of Service",
-    "summary": "<p>We are updating the Terms of Service for Hobby and Pro customers, effective October 19, 2026. The updates clarify some existing Vercel practices, expand terms on topics such as managed accounts and credits, and reflect applicable legal requirements, including certain cancellation and service-change rights for eligible consumers in the UK and EU.</p><h3><b>Credits and billing</b></h3><p>A new section sets out how credits work: plan-included credits expire at the end of the subscription term an",
-    "url": "https://vercel.com/changelog/updates-to-hobby-and-pro-terms-of-service",
+    "title": "Skipped monorepo deployments no longer count against limits",
+    "summary": "<p>Deployments that Vercel <a href=\"https://vercel.com/docs/monorepos#skipping-unaffected-projects\">automatically skips</a> in a monorepo no longer count against your deployment rate limits. Teams with monorepos now get more deployments from the same limits.</p><p>Vercel skips a project's deployment when its source code and internal dependencies haven't changed, using <a href=\"https://vercel.com/solutions/turborepo\">Turborepo</a>'s package graph and lockfile analysis to determine which projects ",
+    "url": "https://vercel.com/changelog/skipped-monorepo-deployments-no-longer-count-against-limits",
     "published": "",
     "source": "Vercel Blog (v0)",
     "source_weight": "high",
     "category": "design_tools"
   },
   {
-    "title": "Enterprise features October roundup",
-    "summary": "This month's Enterprise releases help central teams take AI-built apps to production: deploy in your own AWS or Azure account, EU inference, Organizations, workspace policies and approvals, the Action center, the Lovable API, and audit log exports.",
-    "url": "https://lovable.dev/blog/enterprise-features-october-roundup",
-    "published": "Tue, 20 Oct 2026 11:30:00 GMT",
-    "source": "Lovable Blog",
+    "title": "Design v ADHD",
+    "summary": "<h4><em>ADHD is a complex and common mental disorder which changes how the person processes information, behaves, and functions in society. Common recommendations for “ADHD-friendly design” include reducing clutter, avoiding distractions, and simplifying information architecture. I argue that these suggestions do not constitute “ADHD-friendly design”, and that the real solution is more sophisticated and challenging, if not impossible, to implement.</em></h4><figure><img alt=\"A cover titled: Desi",
+    "url": "https://uxdesign.cc/design-vs-adhd-4411c3b81d1b?source=rss----138adf9c44c---4",
+    "published": "Wed, 21 Oct 2026 08:18:25 GMT",
+    "source": "UX Collective",
     "source_weight": "medium",
-    "category": "design_tools"
+    "category": "design_communities"
+  },
+  {
+    "title": "Let AI have the average user: Why User Research should focus on bad days",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/let-ai-have-the-average-user-why-user-research-should-focus-on-bad-days-e7bba55f855f?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*0RuE6NZm_DgJUlA0IGG-Aw.jpeg\" width=\"3840\" /></a></p><p class=\"medium-feed-snippet\">Nn/g found that synthetic research captures common responses. The bad days are still up to you.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/let-",
+    "url": "https://uxdesign.cc/let-ai-have-the-average-user-why-user-research-should-focus-on-bad-days-e7bba55f855f?source=rss----138adf9c44c---4",
+    "published": "Tue, 20 Oct 2026 21:30:52 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "AI doesn’t care about your job title",
+    "summary": "<figure><img alt=\"One person works across a design file, a product roadmap, and a code editor at a single desk, with their badge face down beside the keyboard.\" src=\"https://cdn-images-1.medium.com/max/1024/1*rkrQndbiq5v4xo32eVP06A.png\" /><figcaption>One person works across a design file, a product roadmap, and a code editor at a single desk, with their badge face down beside the keyboard. AI assisted, steampunk style.</figcaption></figure><h4><em>Exposure to artificial intelligence runs through",
+    "url": "https://uxdesign.cc/ai-doesnt-care-about-your-job-title-c08dd4fdf8d8?source=rss----138adf9c44c---4",
+    "published": "Tue, 20 Oct 2026 21:29:28 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
   },
   {
     "title": "Embracing Playful Imperfection With The CSS `random()` Function",
@@ -126,28 +171,10 @@
     "category": "design_communities"
   },
   {
-    "title": "Human in the loop means making sure the human is not out of the loop",
-    "summary": "<figure><img alt=\"A reviewer’s hand hovers over an approve button while the work it approves has already moved on without them.\" src=\"https://cdn-images-1.medium.com/max/1024/1*HzHXq_X2ih01vbqVZYkmfw.png\" /><figcaption>A reviewer’s hand hovers over an approve button while the work it approves has already moved on without them. AI assisted.</figcaption></figure><h4><strong>Agents now act before we ask and reach past what we authorized. A person in the loop isn’t enough if nobody owns the outcome.",
-    "url": "https://uxdesign.cc/designing-for-ai-human-in-the-loop-means-making-sure-the-human-is-not-out-of-the-loop-e38826309c91?source=rss----138adf9c44c---4",
-    "published": "Thu, 15 Oct 2026 22:09:29 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
     "title": "How to build a brand foundation with AI without losing your craft",
     "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/how-to-build-a-brand-foundation-with-ai-without-losing-your-craft-d616b05cb838?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*_5ttT6EZkGD9kUqe\" width=\"4896\" /></a></p><p class=\"medium-feed-snippet\">Here is how to use Claude and a handful of guardrails to build a design system that developers respect and clients can actually ship.</p><p class=\"medium-feed-link\"><a href=\"htt",
     "url": "https://uxdesign.cc/how-to-build-a-brand-foundation-with-ai-without-losing-your-craft-d616b05cb838?source=rss----138adf9c44c---4",
     "published": "Sun, 18 Oct 2026 19:06:49 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "A thousand days of stale popcorn",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/a-thousand-days-of-stale-popcorn-54f62d06c42b?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*PdHugz-cwcOc1gNF\" width=\"2600\" /></a></p><p class=\"medium-feed-snippet\">A gym, a morning radio broadcast, and a streak counter are all answers to one question: how do you get someone to keep going when you&#x2026;</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/a-thousa",
-    "url": "https://uxdesign.cc/a-thousand-days-of-stale-popcorn-54f62d06c42b?source=rss----138adf9c44c---4",
-    "published": "Sun, 18 Oct 2026 12:11:30 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
@@ -193,15 +220,6 @@
     "summary": "<h4>How tech culture impacts how we understand ourselves through apps</h4><figure><img alt=\"Tech workers in front of a planning board\" src=\"https://cdn-images-1.medium.com/max/1024/0*AN3LC1K2RIhbxkXx\" /><figcaption>Photo by <a href=\"https://unsplash.com/@bluext?utm_source=medium&amp;utm_medium=referral\">blue sky</a> on <a href=\"https://unsplash.com?utm_source=medium&amp;utm_medium=referral\">Unsplash</a></figcaption></figure><p>In the last 20 years, the tech world has transformed parts of humanit",
     "url": "https://uxdesign.cc/ux-designers-are-not-designing-interfaces-they-design-personalities-d94d874bb43d?source=rss----138adf9c44c---4",
     "published": "Mon, 19 Oct 2026 11:12:12 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Beyond the Canvas",
-    "summary": "<h4>What Config India 2026 revealed about the expanding possibilities of design.</h4><p>Something is changing in the world of design, and Bengaluru offered a fascinating glimpse of where it’s heading. Thousands of designers, exciting new capabilities, and conversations that went far beyond the latest Figma features. One message stood out: “Design is the differentiator.” Designers are gaining unprecedented capabilities to turn ideas into working products, while India’s technology leaders are maki",
-    "url": "https://uxdesign.cc/beyond-the-canvas-03fce0bcbf7b?source=rss----138adf9c44c---4",
-    "published": "Mon, 19 Oct 2026 09:29:20 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"

@@ -1,5 +1,5 @@
 {
-  "day_count": 180,
+  "day_count": 181,
   "history": [
     {
       "day": 20,
@@ -1077,6 +1077,13 @@
       "date": "2026-10-20",
       "topic": "fal 联合 bfl_ai 发布后训练视频模型 FLUX 3 Max",
       "source": "X：fal (@fal)",
+      "mode": "rss"
+    },
+    {
+      "day": 181,
+      "date": "2026-10-21",
+      "topic": "SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
       "mode": "rss"
     }
   ],

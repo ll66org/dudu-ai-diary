@@ -1,0 +1,88 @@
+{
+  "selected_topic": {
+    "title": "SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "url": "https://x.com/rohanpaul_ai/status/2112768460866695334",
+    "publish_date": "2026-10-20",
+    "why_picked": "财报里藏着一个设计师该看懂的数字：608M 美元来自 Cursor——AI 编程工具第一次成了大公司的收入支柱。",
+    "designer_angle": "当 Cursor 这种「设计师也在用」的工具开始扛营收，说明 AI 写界面的工作流已经从玩具变成生产线。"
+  },
+  "post": {
+    "title": "🐣Cursor 撑起 6 亿美元营收，兜兜慌了",
+    "body": "兜兜今天翻到一条财报数字，愣了三秒：SpaceX 的 Q3 电话会里，AI 算力租赁收入 $7.6B，比 Q2 的 $2.56B 翻了近三倍，超过 Starlink 的 $5.2B 成了最大收入来源。其中 $608M，来自新收购的 Cursor。\n\n一个写代码的工具，单季贡献 6 亿美元。兜兜画了个对比，左边是以前，右边是现在——\n\n▸ Cursor 不只是程序员的 IDE 了。兜兜身边做设计的同学，一半在用 Cursor 改 React 组件、调 Tailwind，界面从 Figma 到浏览器的那段路，被它吃掉了。6 亿美元里，一定有设计师贡献的那一份。\n\n▸ 算力成了「基础设施税」。Super Intelligence 收入 52% 来自 AI，1.7GW 算力。这意味着以后任何设计工具的价格，底下都压着一层算力成本。兜兜担心的是：免费额度会越来越抠，生成式视觉的「试错自由」会被计费表绑住。\n\n▸ 反过来想，这是好消息。资本往 AI 编程工具里砸钱，说明「D2C 直接从对话生成界面」这条路被验证了。设计师不用再证明 AI 写前端靠不靠谱，市场已经用钱投了票。\n\n💭 兜兜动手建议：今晚花 5 分钟，打开你最近一个 Figma 稿，挑最规整的那个卡片组件，把它的间距、圆角、字号写成一段 prompt 丢给 Cursor，看它生成的代码和你手调的差几个像素。差得少，说明你的设计规范已经「可被 AI 读」；差得多，就是下周要补的 Design Token 清单。\n\n兜兜还小，可能没看透，但兜兜知道：当工具开始赚钱，设计师就该开始算账了。\n\n你上次用 AI 写前端，是省了时间还是多了返工？\n\n—— 兜兜的第 181 天\n\n#AI设计工具 #Cursor #DesignToCode #设计师成长 #体验设计",
+    "tags": [
+      "#AI设计工具",
+      "#Cursor",
+      "#DesignToCode",
+      "#设计师成长",
+      "#体验设计"
+    ]
+  },
+  "visuals": {
+    "cover_kicker": "MARKET SIGNAL",
+    "cover_main_text": "Cursor 赚了 6 亿",
+    "cover_sub_text": "设计师的工作流正在被重新定价",
+    "cover_quote_en": "When tools make money, designers do the math",
+    "compare_headline": "一张图看懂变化",
+    "compare_left_label": "BEFORE",
+    "compare_left_title": "Figma 画完再手写",
+    "compare_left_desc": "标注、切图、手写 CSS，一个卡片调 40 分钟",
+    "compare_left_metric": "耗时 40min",
+    "compare_right_label": "NOW",
+    "compare_right_title": "对话直接出组件",
+    "compare_right_desc": "Cursor 读设计规范，一句话生成可跑的 React 组件",
+    "compare_right_metric": "耗时 3min",
+    "compare_insight": "工具赚到钱的那天，设计师该补的不是手速，是把规范写成 AI 能读的语言。",
+    "highlight_emoji": "🤑",
+    "accent_color": "ocean"
+  },
+  "dudu_voice": "兜兜本来想写财报好无聊，但看到 608M 来自 Cursor 就坐直了——这是设计师该关心的钱，因为它决定了明年工具长什么样。",
+  "meta": {
+    "day": 181,
+    "date": "2026-10-21",
+    "generated_at": "2026-10-21T16:04:43.991428Z",
+    "mode": "rss"
+  },
+  "briefing": [
+    {
+      "title": "SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源",
+      "summary": "Rohan Paul 总结 SpaceX Q3 2026 财报电话会要点：Super Intelligence 算力租赁业务（客户含 Anthropic 和 Google）收入 $7.6B，近翻三倍于 Q2 的 $2.56B，超过 Starlink 连接业务的 $5.2B 成最大收入来源，其中 $608M 来自新收购的",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "url": "https://x.com/rohanpaul_ai/status/2112768460866695334",
+      "published_at": "2026-10-21T04:50:29.000Z",
+      "category": "industry"
+    },
+    {
+      "title": "OpenAI API 支持 12 小时 prompt 缓存，Codex 与 Work 用户缓存永久保留",
+      "summary": "OpenAI 开发者账号宣布 API 现已可选 12 小时 prompt 缓存，持续运行的智能体可在请求间隔数小时的情况下继续以更低的缓存输入费率复用指令、工具和上下文。Tibo 补充称，Codex 与 Work 中已登录用户的缓存会永久保留，返回旧对话或数小时后恢复会话保证命中缓存，且无额外惩罚。",
+      "source": "X：Tibo (@thsottiaux)",
+      "url": "https://x.com/thsottiaux/status/2112712984644784534",
+      "published_at": "2026-10-21T01:10:02.000Z",
+      "category": "ai-products"
+    },
+    {
+      "title": "SpaceX 财报显示 AI 业务超预期，占收入 52%",
+      "summary": "SpaceX 发布第三季度监管文件，披露营收 146 亿美元、净利润 44 亿美元，扭转去年同期 10 亿美元亏损。其更名的“Super Intelligence”业务线（含 Cursor、Grok 和 neocloud 算力业务）表现好于投资者预期，AI 目前占公司收入 52%，算力规模达 1.7 GW。",
+      "source": "TechCrunch：AI（RSS）",
+      "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+      "published_at": "2026-10-20T20:40:41.000Z",
+      "category": "industry"
+    },
+    {
+      "title": "fal 发布 FLUX 3 Max，图生视频 Elo 达 1139 并列第一",
+      "summary": "fal 发布与 Black Forest Labs 合作后训练的视频模型 FLUX 3 Max，在第三方独立人类偏好评测中获 1139 Elo，与 Seedance 2.5 并列图生视频质量第一梯队。该模型约 12 秒生成一段 10 秒 720/768p 视频，未来三周降价 75%，后续还将继续后训练改进。",
+      "source": "X：fal (@fal)",
+      "url": "https://x.com/fal/status/2112600472922333263",
+      "published_at": "2026-10-20T17:42:57.000Z",
+      "category": "ai-models"
+    },
+    {
+      "title": "Perplexity Computer 现可在 Mac 上完全本地运行，无需云端推理",
+      "summary": "Perplexity CEO Aravind Srinivas 宣布，Perplexity Computer 现可在 Mac 上完全本地运行，无需云端推理，也不用 WiFi。模型和智能体都在本机运行，可操作 Mac 原生应用和本地文件，敏感数据不必发送到云端，现已在 Perplexity Mac 应用中可用。",
+      "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+      "url": "https://x.com/AravSrinivas/status/2112583333825950207",
+      "published_at": "2026-10-20T16:34:51.000Z",
+      "category": "ai-products"
+    }
+  ]
+}
