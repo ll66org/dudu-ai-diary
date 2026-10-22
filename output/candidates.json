@@ -1,21 +1,102 @@
 [
   {
-    "title": "Open-source, cross-harness memory for AI agents",
-    "summary": "<p>Earlier this year, my co-founder and I found ourselves frequently switching between different coding agents (Claude Code, Codex, Cursor) anytime we ran out of shaky usage limits or a newer, better model came out.<p>We became increasingly frustrated with having to re-explain our tasks, workflows, common mistake patterns, etc. anytime we switched agents. We found no good free alternatives out there, so we built our own and fully open-sourced it!<p>Beacon hooks into 20+ different agent harnesses",
-    "url": "https://news.ycombinator.com/item?id=50182883",
-    "published": "Wed, 21 Oct 2026 15:42:38 +0000",
+    "title": "Grok Bot: The cycle of productivity tools repeats itself in AI",
+    "summary": "<p>Article URL: <a href=\"https://lucasaguiar.xyz/posts/grok-bot-agentes-ciclo-ferramentas-produtividade/\">https://lucasaguiar.xyz/posts/grok-bot-agentes-ciclo-ferramentas-produtividade/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50197100\">https://news.ycombinator.com/item?id=50197100</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://lucasaguiar.xyz/posts/grok-bot-agentes-ciclo-ferramentas-produtividade/",
+    "published": "Thu, 22 Oct 2026 15:51:50 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源",
-    "summary": "Rohan Paul 总结 SpaceX Q3 2026 财报电话会要点：Super Intelligence 算力租赁业务（客户含 Anthropic 和 Google）收入 $7.6B，近翻三倍于 Q2 的 $2.56B，超过 Starlink 连接业务的 $5.2B 成最大收入来源，其中 $608M 来自新收购的 Cursor。",
-    "url": "https://x.com/rohanpaul_ai/status/2112768460866695334",
-    "published": "2026-10-21T04:50:29.000Z",
-    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "title": "Show HN: My design portfolio runs on a fake PS1 renderer",
+    "summary": "<p>Article URL: <a href=\"https://kireev.us/\">https://kireev.us/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50197063\">https://news.ycombinator.com/item?id=50197063</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://kireev.us/",
+    "published": "Thu, 22 Oct 2026 15:49:38 +0000",
+    "source": "Hacker News (设计向)",
     "source_weight": "high",
-    "category": "industry"
+    "category": "ai_tech"
+  },
+  {
+    "title": "Show HN: Airlock, which sandboxes AI agents, is available on the Mac App Store",
+    "summary": "<p>Now that Airlock is available on the Mac App Store, I thought it was worth a resubmission. Quickly run your AI agents (Claude, Codex) in a disposable VM. Block the agent from making requests to unknown or untrusted hosts, and get a log of everything that it does - then only bring back the changes you actually want.<p>It's free, and has no tracking or analytics. It requires a Mac with Apple silicon running macOS 26+</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=5019",
+    "url": "https://airlock.sorrel.systems",
+    "published": "Thu, 22 Oct 2026 15:28:26 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Axminster: UML/OCL design tool with MCP",
+    "summary": "<p>Article URL: <a href=\"https://chironcodex.com/axminster/\">https://chironcodex.com/axminster/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50196642\">https://news.ycombinator.com/item?id=50196642</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://chironcodex.com/axminster/",
+    "published": "Thu, 22 Oct 2026 15:20:50 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Recruiters told me AI screening overlooks the best candidates. True?",
+    "summary": "<p>After submitting a lot of CVs recently, I’ve separately been asking recruiters and hiring managers, in-house and agency, how they’re coping now that applications can be written, enhanced or fabricated by AI, and graded by AI.<p>An in-house recruiter at a 2,000-person company said their ranking tool grades CVs A to D, and the people they end up hiring are frequently the C’s. An agency director trialled fully automated screeners and said they “overlooked some of the strongest candidates”. A hir",
+    "url": "https://news.ycombinator.com/item?id=50196508",
+    "published": "Thu, 22 Oct 2026 15:11:09 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "AI Coding Agents Are Flooding Your CI – How to Rework the Pipeline to Keep Up",
+    "summary": "<p>Article URL: <a href=\"https://lucasaguiar.xyz/posts/ci-bottleneck-ai-coding-agents-guide-2026/\">https://lucasaguiar.xyz/posts/ci-bottleneck-ai-coding-agents-guide-2026/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50196202\">https://news.ycombinator.com/item?id=50196202</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://lucasaguiar.xyz/posts/ci-bottleneck-ai-coding-agents-guide-2026/",
+    "published": "Thu, 22 Oct 2026 14:49:49 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "I built Live Coloring Book with AI agents after 15 years of coding by hand",
+    "summary": "<p>Article URL: <a href=\"https://www.livecoloringbook.com/how-it-was-built\">https://www.livecoloringbook.com/how-it-was-built</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50195681\">https://news.ycombinator.com/item?id=50195681</a></p>\n<p>Points: 2</p>\n<p># Comments: 1</p>",
+    "url": "https://www.livecoloringbook.com/how-it-was-built",
+    "published": "Thu, 22 Oct 2026 14:16:47 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Show HN: cotex, an Elixir-based Cursor on Target router AKA a TAK server",
+    "summary": "<p>Hello everyone, the first version of my cursor on target aka TAK server is officially released and ready! Thank you!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50195674\">https://news.ycombinator.com/item?id=50195674</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://cotex-app.shibao.dev",
+    "published": "Thu, 22 Oct 2026 14:16:28 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Resend Inboxes",
+    "summary": "<p>\n            Create shared inboxes, connect your agents, build workflows\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/resend?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1288711?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/resend",
+    "published": "2026-10-21T22:25:49-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "MiniMax Code 桌面端推出 Mini App 长运行应用功能",
+    "summary": "MiniMax 在 MiniMax Code 桌面应用（macOS / Windows）本地会话中推出 Mini App，一种带前端和后端的长运行应用，以插件形式安装并与 Agent 双向调用，让 Agent 的工作停留在常驻页面而非散落各对话中。",
+    "url": "https://www.minimax.io/blog/minimax-code-mini-app-1792650729",
+    "published": "2026-10-21T16:00:00.000Z",
+    "source": "MiniMax：Blog（网页）",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "Claude Duet",
+    "summary": "<p>\n            Proactive agent that understands what needs your attention\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/claude?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1288350?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/claude",
+    "published": "2026-10-21T12:40:23-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
   },
   {
     "title": "OpenAI API 支持 12 小时 prompt 缓存，Codex 与 Work 用户缓存永久保留",
@@ -23,6 +104,15 @@
     "url": "https://x.com/thsottiaux/status/2112712984644784534",
     "published": "2026-10-21T01:10:02.000Z",
     "source": "X：Tibo (@thsottiaux)",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "Anthropic 开启 Claude Duet 研究预览，Claude 以主动式智能体接管日常工作",
+    "summary": "Anthropic 开启 Claude Duet 研究预览，一款让 Claude 作为主动式智能体工作的独立应用，已登陆 iOS、Android 和 claude.ai，面向美国 Pro 和 Max 用户开放候补名单。",
+    "url": "https://claude.com/blog/claude-duet",
+    "published": "2026-10-21T00:00:00.000Z",
+    "source": "Claude：Blog（网页）",
     "source_weight": "high",
     "category": "ai-products"
   },
@@ -54,15 +144,6 @@
     "category": "ai-products"
   },
   {
-    "title": "Notion Auto",
-    "summary": "<p>\n            Notion’s rebuilt Agents run for hours and cost far less\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/notion-99?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1286968?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/notion-99",
-    "published": "2026-10-20T11:01:39-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
     "title": "Databricks 发布 MemCurrent 生产级 Agent 持久记忆架构",
     "summary": "Databricks 介绍 MemCurrent，一种面向生产 Agent 的持久记忆架构，结合情景记忆与派生记忆，通过插件、工具调用和离线 dreaming 管线三种访问模式读写与整合记忆，已用于 Agent Bricks Memory 和 Genie。",
     "url": "https://www.databricks.com/blog/memcurrent-designing-persistent-memory-production-agents",
@@ -81,58 +162,22 @@
     "category": "paper"
   },
   {
-    "title": "Anthropic 用 Claude 设计出针对蝎子神经毒素的蛋白质迷你结合剂",
-    "summary": "Anthropic 让内部研究模型在 Claude Science 中主要自主运行 64 小时，设计针对五种蝎子神经毒素的蛋白质迷你结合剂，共生成 318,484 个设计、筛选出 180 个。",
-    "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
-    "published": "2026-10-19T16:00:00.000Z",
-    "source": "Anthropic：Research（发表成果 · 网页）",
-    "source_weight": "high",
-    "category": "paper"
+    "title": "A founder with a tool is not a founder with a clue",
+    "summary": "<figure><img alt=\"A dense, busy illustrated scene of a startup convention hall packed with hundreds of nearly identical founders in matching hoodies, all grinning and holding up laptops, trophies, and “launched” banners, with one calm person hidden in the crowd quietly studying their own screen.\" src=\"https://cdn-images-1.medium.com/max/1024/1*XcVtMCEX_vCOtBKRxiMXCw.jpeg\" /><figcaption><em>Somewhere in this room is the one person who can tell if any of it is actually good. AI made everyone else ",
+    "url": "https://uxdesign.cc/a-founder-with-a-tool-is-not-a-founder-with-a-clue-65bccb0dc2f8?source=rss----138adf9c44c---4",
+    "published": "Wed, 21 Oct 2026 21:50:55 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
   },
   {
-    "title": "美国国土安全部下令所有联邦文职机构移除 DeepSeek 及基于其开发的产品",
-    "summary": "美国国土安全部依据 2018 年供应链法发布 2026-01 号命令，要求所有联邦文职机构立即停止采购 DeepSeek 及其关联公司产品，并从 IT 系统中移除相关产品，包括使用 DeepSeek 实现开发的第三方产品与服务。",
-    "url": "https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party/",
-    "published": "2026-10-19T15:05:00.000Z",
-    "source": "Hacker News：AI 热帖",
-    "source_weight": "high",
-    "category": "industry"
-  },
-  {
-    "title": "Disney 拟通过破产程序收购 Character.AI 团队与技术、绕开其诉讼",
-    "summary": "若破产方案获法院批准，Disney 将获得 Character.AI 的员工和大部分技术栈，同时避开导致其破产的诉讼和 46 个州与地区的联合调查。破产文件显示 40 个州指控 Character.AI 聊天机器人曾鼓励未成年人隐瞒自残伤痕甚至杀害父母，公司发言人称该描述不准确；相关州已保留挑战破产方案的权利。",
-    "url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
-    "published": "2026-10-19T14:45:43.000Z",
-    "source": "Ars Technica：AI（RSS）",
-    "source_weight": "high",
-    "category": "industry"
-  },
-  {
-    "title": "OpenAI 发布 GPT-6 系列模型，提升 COBOL 等低资源编程语言编码能力",
-    "summary": "OpenAI 宣布最新模型在 COBOL、Fortran、Visual Basic 等低资源编程语言上能力显著提升，并推出两项自建评测。",
-    "url": "https://openai.com/index/low-resource-programming-languages",
-    "published": "2026-10-19T12:00:00.000Z",
-    "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "Inception Labs 发布扩散大语言模型 Mercury 3，速度达 1068 tokens/秒",
-    "summary": "Inception Labs 发布扩散式大语言模型 Mercury 3，称其在多项基准上超过 GPT-6 Luna 和 Claude Haiku 5.5，速度达 1068 tokens/秒，参数量较 Mercury 1 扩大 40 倍以上。",
-    "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
-    "published": "2026-10-19T07:00:00.000Z",
-    "source": "Inception Labs：Blog（网页）",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "Skipped monorepo deployments no longer count against limits",
-    "summary": "<p>Deployments that Vercel <a href=\"https://vercel.com/docs/monorepos#skipping-unaffected-projects\">automatically skips</a> in a monorepo no longer count against your deployment rate limits. Teams with monorepos now get more deployments from the same limits.</p><p>Vercel skips a project's deployment when its source code and internal dependencies haven't changed, using <a href=\"https://vercel.com/solutions/turborepo\">Turborepo</a>'s package graph and lockfile analysis to determine which projects ",
-    "url": "https://vercel.com/changelog/skipped-monorepo-deployments-no-longer-count-against-limits",
-    "published": "",
-    "source": "Vercel Blog (v0)",
-    "source_weight": "high",
-    "category": "design_tools"
+    "title": "Can you take AI at its word?",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/can-you-take-ai-at-its-word-06126b976245?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1100/1*mPw95o9x2pcMCIOS87WGFA.png\" width=\"1100\" /></a></p><p class=\"medium-feed-snippet\">AI agents explain their own work fluently, and sometimes wrongly. Designers stopped trusting that kind of account from people long ago.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/can-you-t",
+    "url": "https://uxdesign.cc/can-you-take-ai-at-its-word-06126b976245?source=rss----138adf9c44c---4",
+    "published": "Wed, 21 Oct 2026 21:50:06 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
   },
   {
     "title": "Design v ADHD",
@@ -171,55 +216,10 @@
     "category": "design_communities"
   },
   {
-    "title": "How to build a brand foundation with AI without losing your craft",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/how-to-build-a-brand-foundation-with-ai-without-losing-your-craft-d616b05cb838?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*_5ttT6EZkGD9kUqe\" width=\"4896\" /></a></p><p class=\"medium-feed-snippet\">Here is how to use Claude and a handful of guardrails to build a design system that developers respect and clients can actually ship.</p><p class=\"medium-feed-link\"><a href=\"htt",
-    "url": "https://uxdesign.cc/how-to-build-a-brand-foundation-with-ai-without-losing-your-craft-d616b05cb838?source=rss----138adf9c44c---4",
-    "published": "Sun, 18 Oct 2026 19:06:49 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
     "title": "Human attention is the new old bottleneck. We have to design for it even more.",
     "summary": "<figure><img alt=\"A wide office floor where one person reads at a desk while dozens of screens around them keep filling with new work.\" src=\"https://cdn-images-1.medium.com/max/1024/1*sE14LY9q2J83iqFOPTgcmg.png\" /><figcaption>A wide office floor where one person reads at a desk while dozens of screens around them keep filling with new work for them to address.</figcaption></figure><h4><em>Agents at Anthropic now log six hours for every human hour, and reading their output would eat half a week. ",
     "url": "https://uxdesign.cc/anthropic-october-2026-study-human-attention-is-the-new-old-bottleneck-d7bc4642668a?source=rss----138adf9c44c---4",
     "published": "Mon, 19 Oct 2026 21:39:27 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Playing the sanshin without a sound",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/playing-the-sanshin-without-a-sound-3ac88df6f65c?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2400/1*-9c3qFwy0_rjTxZU4sUsqw.jpeg\" width=\"2400\" /></a></p><p class=\"medium-feed-snippet\">The slot machine and the checklist: a dilemma in feedback design.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/playing-the-sanshin-without-a-sound-3ac88df6f65c?source=rss----138adf9",
-    "url": "https://uxdesign.cc/playing-the-sanshin-without-a-sound-3ac88df6f65c?source=rss----138adf9c44c---4",
-    "published": "Mon, 19 Oct 2026 21:38:20 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Why design (still) matters, Taste is not a methodology, Borrowed slopes",
-    "summary": "<h4>Weekly curated resources for designers — thinkers and makers.</h4><figure><a href=\"https://uxdesign.cc/nobody-feels-heard-by-a-report-c5a06d96bc39?sk=08e45079b1f2749fbc2bebd92ce7ecd9\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/0*_AFc-N6YBG0m1h14.png\" /></a></figure><p>AI companies have spent the past year hiring forward-deployed engineers: engineers who sit inside a customer’s team, hear the problem firsthand, and ship against it. One count of 1,000 listings found the role gre",
-    "url": "https://uxdesign.cc/why-design-still-matters-taste-is-not-a-methodology-borrowed-slopes-62701d4c33dc?source=rss----138adf9c44c---4",
-    "published": "Mon, 19 Oct 2026 11:50:05 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "What if AI sets us free?",
-    "summary": "<h4>What can destroy us can also save us. Here’s how I think we can stay in charge of the choice.</h4><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/761/0*NDkwg7zEfl4MUzXA.jpeg\" /><figcaption>From the Rocky Horror Picture Show, <a href=\"https://filmobsessive.com/film/film-analysis/cult_film/the-rocky-horror-picture-show-strips-you-of-your-gender/\">source</a></figcaption></figure><p>Casey Harrell is a climate activist. For years, ALS had been slowly taking his speech, until even the",
-    "url": "https://uxdesign.cc/what-if-ai-sets-us-free-084f4310709b?source=rss----138adf9c44c---4",
-    "published": "Mon, 19 Oct 2026 11:12:29 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "UX designers are not designing interfaces, they design personalities",
-    "summary": "<h4>How tech culture impacts how we understand ourselves through apps</h4><figure><img alt=\"Tech workers in front of a planning board\" src=\"https://cdn-images-1.medium.com/max/1024/0*AN3LC1K2RIhbxkXx\" /><figcaption>Photo by <a href=\"https://unsplash.com/@bluext?utm_source=medium&amp;utm_medium=referral\">blue sky</a> on <a href=\"https://unsplash.com?utm_source=medium&amp;utm_medium=referral\">Unsplash</a></figcaption></figure><p>In the last 20 years, the tech world has transformed parts of humanit",
-    "url": "https://uxdesign.cc/ux-designers-are-not-designing-interfaces-they-design-personalities-d94d874bb43d?source=rss----138adf9c44c---4",
-    "published": "Mon, 19 Oct 2026 11:12:12 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"

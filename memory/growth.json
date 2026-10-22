@@ -1,5 +1,5 @@
 {
-  "day_count": 181,
+  "day_count": 182,
   "history": [
     {
       "day": 20,
@@ -1084,6 +1084,13 @@
       "date": "2026-10-21",
       "topic": "SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源",
       "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "mode": "rss"
+    },
+    {
+      "day": 182,
+      "date": "2026-10-22",
+      "topic": "MiniMax Code 桌面端推出 Mini App 长运行应用功能",
+      "source": "MiniMax：Blog（网页）",
       "mode": "rss"
     }
   ],

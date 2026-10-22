@@ -1,5 +1,13 @@
 [
   {
+    "title": "MiniMax Code 桌面端推出 Mini App 长运行应用功能",
+    "summary": "MiniMax 在 MiniMax Code 桌面应用（macOS / Windows）本地会话中推出 Mini App，一种带前端和后端的长运行应用，以插件形式安装并与 Agent 双向调用，让 Agent 的工作停留在常驻页面而非散落各对话中。",
+    "source": "MiniMax：Blog（网页）",
+    "url": "https://www.minimax.io/blog/minimax-code-mini-app-1792650729",
+    "published_at": "2026-10-21T16:00:00.000Z",
+    "category": "ai-products"
+  },
+  {
     "title": "SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源",
     "summary": "Rohan Paul 总结 SpaceX Q3 2026 财报电话会要点：Super Intelligence 算力租赁业务（客户含 Anthropic 和 Google）收入 $7.6B，近翻三倍于 Q2 的 $2.56B，超过 Starlink 连接业务的 $5.2B 成最大收入来源，其中 $608M 来自新收购的",
     "source": "X：Rohan Paul (@rohanpaul_ai)",
@@ -16,27 +24,19 @@
     "category": "ai-products"
   },
   {
+    "title": "Anthropic 开启 Claude Duet 研究预览，Claude 以主动式智能体接管日常工作",
+    "summary": "Anthropic 开启 Claude Duet 研究预览，一款让 Claude 作为主动式智能体工作的独立应用，已登陆 iOS、Android 和 claude.ai，面向美国 Pro 和 Max 用户开放候补名单。",
+    "source": "Claude：Blog（网页）",
+    "url": "https://claude.com/blog/claude-duet",
+    "published_at": "2026-10-21T00:00:00.000Z",
+    "category": "ai-products"
+  },
+  {
     "title": "SpaceX 财报显示 AI 业务超预期，占收入 52%",
     "summary": "SpaceX 发布第三季度监管文件，披露营收 146 亿美元、净利润 44 亿美元，扭转去年同期 10 亿美元亏损。其更名的“Super Intelligence”业务线（含 Cursor、Grok 和 neocloud 算力业务）表现好于投资者预期，AI 目前占公司收入 52%，算力规模达 1.7 GW。",
     "source": "TechCrunch：AI（RSS）",
     "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
     "published_at": "2026-10-20T20:40:41.000Z",
     "category": "industry"
-  },
-  {
-    "title": "fal 发布 FLUX 3 Max，图生视频 Elo 达 1139 并列第一",
-    "summary": "fal 发布与 Black Forest Labs 合作后训练的视频模型 FLUX 3 Max，在第三方独立人类偏好评测中获 1139 Elo，与 Seedance 2.5 并列图生视频质量第一梯队。该模型约 12 秒生成一段 10 秒 720/768p 视频，未来三周降价 75%，后续还将继续后训练改进。",
-    "source": "X：fal (@fal)",
-    "url": "https://x.com/fal/status/2112600472922333263",
-    "published_at": "2026-10-20T17:42:57.000Z",
-    "category": "ai-models"
-  },
-  {
-    "title": "Perplexity Computer 现可在 Mac 上完全本地运行，无需云端推理",
-    "summary": "Perplexity CEO Aravind Srinivas 宣布，Perplexity Computer 现可在 Mac 上完全本地运行，无需云端推理，也不用 WiFi。模型和智能体都在本机运行，可操作 Mac 原生应用和本地文件，敏感数据不必发送到云端，现已在 Perplexity Mac 应用中可用。",
-    "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-    "url": "https://x.com/AravSrinivas/status/2112583333825950207",
-    "published_at": "2026-10-20T16:34:51.000Z",
-    "category": "ai-products"
   }
 ]
