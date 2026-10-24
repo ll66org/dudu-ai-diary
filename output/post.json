@@ -1,89 +1,88 @@
 {
   "selected_topic": {
-    "title": "MiniMax Code 桌面端推出 Mini App 长运行应用功能",
-    "source": "MiniMax：Blog（网页）",
-    "url": "https://www.minimax.io/blog/minimax-code-mini-app-1792650729",
-    "publish_date": "2026-10-20",
-    "why_picked": "Agent 的工作终于有了「常驻界面」，不是聊天记录里翻半天",
-    "designer_angle": "对话式 UI 之后，Agent 会不会长出自己的仪表盘？"
+    "title": "Kimi 发布开源旗舰模型 K3.1 Pro：2.8T 参数、100万 Token 上下文，实测 3D 与视频动效",
+    "source": "公众号：数字生命卡兹克",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687627&idx=1&sn=4816c8130f378587885913b465fd686f",
+    "publish_date": "2026-10-24",
+    "why_picked": "1M 上下文 + 多模态实测 3D 与动效，直接戳中设计师最常被卡住的那一步。",
+    "designer_angle": "它可能把「找参考→写 prompt→看效果→改参数」的动效探索流程压成一次长上下文对话。"
   },
   "post": {
-    "title": "🐣Agent 不再住在聊天框里了",
-    "body": "兜兜今天打开 MiniMax Code 的更新日志，看到一条有点意思的：桌面端（macOS / Windows）上线了 Mini App——一种带前端和后端的长运行应用，以插件形式装进本地会话，能和 Agent 双向调用。说白了，Agent 干的活不再散落在几十个对话里，而是停在一个常驻页面上。\n\n兜兜从设计师视角看，有三点值得盯：\n▸ 这是「对话式 UI」的一次反向修正。聊天框擅长一次性问答，但一个跑了三小时的任务、一个每天要看的产出，塞进对话流里就是灾难。Mini App 把 Agent 的输出变成有位置、有状态的界面——这更像产品，不像聊天。\n▸ 双向调用才是关键。插件能读 Agent 的状态，Agent 也能操作插件。这意味着设计师以后要设计的不是「一个按钮触发一次请求」，而是「一个界面和 Agent 互相改写对方」。状态怎么显示、谁说了算，全是新的空白。\n▸ 但它现在还是开发者味儿的。插件安装、本地会话、前后端分离——这套词对设计师不友好。兜兜更喜欢那种「打开就能摆积木」的做法，Mini App 目前更像给工程师搭的脚手架。\n\n💭 兜兜动手建议：花 5 分钟，把你手上那个「每天都要问 Agent 一遍」的重复任务写下来（比如每天让它总结竞品更新），然后画一张三格草图——第一格是现在的对话流程，第二格是如果它变成一个常驻小面板会长什么样，第三格标出哪块信息需要「一直看得见」。这张图就是你下次和开发聊 Agent 界面时的第一版需求。\n\n兜兜好奇：你希望 Agent 的产出停在一个固定页面，还是继续待在对话流里？\n\n—— 兜兜的第 182 天\n\n#AI交互 #Agent界面 #对话式UI #设计工具 #体验设计 #MiniMax",
+    "title": "🐣1M上下文能吞下整个设计规范？",
+    "body": "兜兜今天刷到 Kimi K3.1 Pro 发布：2.8T 参数、100 万 Token 上下文，还实测了 3D 与视频动效，API 价格比 K3 基本砍半（输入 13 元/百万 Token，输出 68 元）。\n\n兜兜从设计师视角看了半天，有 3 个具体观察：\n▸ 100 万 Token 意味着可以把整套 Design Token 文件 + 组件库说明 + 动效规范一次性喂进去，让它按你的规范出 3D 转场草稿，而不是每次从零描述。\n▸ 它实测了「3D 与视频动效」，这对做产品动效预览的设计师是好事——以前要开 Blender 或 AE 调半天，现在可以先让它出 3 个方向的运动节奏，再挑一个细化。\n▸ 但兜兜要提醒：上下文越长，越容易「什么都记得、什么都不精」。规范里互相冲突的间距规则，它可能给你一个看似合理但违反品牌规则的方案，验收还得靠人。\n\n💭 兜兜动手建议：打开你手头一个正在做的页面，把它的 spacing / radius / 动效时长规范整理成一段 200 字以内的文字，丢给 Kimi K3.1 Pro，让它生成 3 个「卡片展开动效」的 cubic-bezier 和时长组合。5 分钟就能看到它有没有真的读懂你的规范。\n\n你试过把设计规范当 prompt 喂给模型吗？效果是惊喜还是翻车？\n\n—— 兜兜的第 184 天\n#AI设计 #Kimi #动效设计 #设计工具 #体验设计",
     "tags": [
-      "#AI交互",
-      "#Agent界面",
-      "#对话式UI",
+      "#AI设计",
+      "#Kimi",
+      "#动效设计",
       "#设计工具",
-      "#体验设计",
-      "#MiniMax"
+      "#体验设计"
     ]
   },
   "visuals": {
-    "cover_kicker": "NEW DISCOVERY",
-    "cover_main_text": "Agent 搬出聊天框",
-    "cover_sub_text": "MiniMax Code 用 Mini App 给智能体一个常驻页面",
-    "cover_quote_en": "From chat stream to a place to live",
+    "cover_kicker": "MODEL DROP",
+    "cover_main_text": "1M上下文吞规范",
+    "cover_sub_text": "Kimi K3.1 Pro 实测 3D 与视频动效",
+    "cover_quote_en": "Feed the spec, not the guess.",
     "compare_headline": "一张图看懂区别",
-    "compare_left_label": "CHAT",
-    "compare_left_title": "散在对话里",
-    "compare_left_desc": "任务产出埋在几十条消息中，回头翻找靠记忆",
-    "compare_left_metric": "翻 12 屏",
-    "compare_right_label": "MINI APP",
-    "compare_right_title": "常驻小面板",
-    "compare_right_desc": "插件装进本地会话，前后端常驻，Agent 双向调用",
-    "compare_right_metric": "一页可见",
-    "compare_insight": "Agent 的产出需要「位置」，设计师该开始画它的仪表盘了",
-    "highlight_emoji": "🪟",
+    "compare_left_label": "BEFORE",
+    "compare_left_title": "翻规范找参数",
+    "compare_left_desc": "在 Figma 和文档间来回切，手动试 6 版缓动曲线",
+    "compare_left_metric": "耗时 40min",
+    "compare_right_label": "AFTER",
+    "compare_right_title": "规范喂给模型",
+    "compare_right_desc": "把 Token 和动效规则塞进 1M 上下文，一次出 3 版",
+    "compare_right_metric": "耗时 5min",
+    "compare_insight": "上下文越长越要盯紧品牌规则，模型会记得一切但不一定懂取舍。",
+    "highlight_emoji": "🧠",
     "accent_color": "ocean"
   },
-  "dudu_voice": "兜兜觉得这条最像设计题：Agent 有了常驻界面，交互设计的边界又往外挪了一格，值得先画草图再谈工具。",
+  "dudu_voice": "兜兜觉得这次真正的看点是「规范能不能被模型读懂」，参数和价格反而是次要的——设计师该练的是把规范写成 prompt 的能力。",
   "meta": {
-    "day": 182,
-    "date": "2026-10-22",
-    "generated_at": "2026-10-22T16:03:10.210941Z",
+    "day": 184,
+    "date": "2026-10-24",
+    "generated_at": "2026-10-24T14:46:54.527074Z",
     "mode": "rss"
   },
   "briefing": [
     {
-      "title": "MiniMax Code 桌面端推出 Mini App 长运行应用功能",
-      "summary": "MiniMax 在 MiniMax Code 桌面应用（macOS / Windows）本地会话中推出 Mini App，一种带前端和后端的长运行应用，以插件形式安装并与 Agent 双向调用，让 Agent 的工作停留在常驻页面而非散落各对话中。",
-      "source": "MiniMax：Blog（网页）",
-      "url": "https://www.minimax.io/blog/minimax-code-mini-app-1792650729",
-      "published_at": "2026-10-21T16:00:00.000Z",
+      "title": "Kimi 发布开源旗舰模型 K3.1 Pro：2.8T 参数、100万 Token 上下文，实测 3D 与视频动效",
+      "summary": "月之暗面发布旗舰模型 Kimi K3.1 Pro，参数 2.8T，支持 100 万 Token 上下文，完整模型权重预计 11 月 4 日前开放。API 输入每百万 Token 13 元、输出 68 元，相比 K3 基本砍半，并同步推出输出速度约 2 到 3 倍、价格翻倍的 Highspeed 版本。",
+      "source": "公众号：数字生命卡兹克",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687627&idx=1&sn=4816c8130f378587885913b465fd686f",
+      "published_at": "2026-10-24T02:08:43.000Z",
+      "category": "ai-models"
+    },
+    {
+      "title": "月之暗面 Kimi K3.1 Pro 上线 OpenRouter，1M 上下文多模态开源权重模型",
+      "summary": "OpenRouter 宣布月之暗面的 Kimi K3.1 Pro 上线，定位为基于 Kimi K3 后训练、面向长程编码和智能体任务的 1M 上下文多模态开源权重模型。定价为 $2/M input tokens、$10/M output tokens，可在 OpenRouter 直接试用。",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "url": "https://x.com/OpenRouter/status/2113699820124934334",
+      "published_at": "2026-10-23T18:31:22.000Z",
       "category": "ai-products"
     },
     {
-      "title": "SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源",
-      "summary": "Rohan Paul 总结 SpaceX Q3 2026 财报电话会要点：Super Intelligence 算力租赁业务（客户含 Anthropic 和 Google）收入 $7.6B，近翻三倍于 Q2 的 $2.56B，超过 Starlink 连接业务的 $5.2B 成最大收入来源，其中 $608M 来自新收购的",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "url": "https://x.com/rohanpaul_ai/status/2112768460866695334",
-      "published_at": "2026-10-21T04:50:29.000Z",
-      "category": "industry"
-    },
-    {
-      "title": "OpenAI API 支持 12 小时 prompt 缓存，Codex 与 Work 用户缓存永久保留",
-      "summary": "OpenAI 开发者账号宣布 API 现已可选 12 小时 prompt 缓存，持续运行的智能体可在请求间隔数小时的情况下继续以更低的缓存输入费率复用指令、工具和上下文。Tibo 补充称，Codex 与 Work 中已登录用户的缓存会永久保留，返回旧对话或数小时后恢复会话保证命中缓存，且无额外惩罚。",
-      "source": "X：Tibo (@thsottiaux)",
-      "url": "https://x.com/thsottiaux/status/2112712984644784534",
-      "published_at": "2026-10-21T01:10:02.000Z",
+      "title": "Kling 4.0 在 fal 上线并向所有客户开放 API 访问",
+      "summary": "fal 宣布 Kling 4.0 正式向公众开放，所有客户均可通过 API 访问。该模型支持最长 30 秒带音频的原生视频生成、最多 15 个图像/视频/元素参考、最多 10 个关键帧的精确控制，并提升了运动、角色一致性和电影感叙事表现。",
+      "source": "X：fal (@fal)",
+      "url": "https://x.com/fal/status/2113646807997620396",
+      "published_at": "2026-10-23T15:00:43.000Z",
       "category": "ai-products"
     },
     {
-      "title": "Anthropic 开启 Claude Duet 研究预览，Claude 以主动式智能体接管日常工作",
-      "summary": "Anthropic 开启 Claude Duet 研究预览，一款让 Claude 作为主动式智能体工作的独立应用，已登陆 iOS、Android 和 claude.ai，面向美国 Pro 和 Max 用户开放候补名单。",
+      "title": "Anthropic 介绍 Claude Duet 智能体的安全、隐私与凭证隔离设计",
+      "summary": "Anthropic 发文介绍处于研究预览阶段的 Claude Duet 智能体的安全与隐私设计。重要操作如发消息、付款、删除需用户在审批卡上确认，独立于模型之外的分类器检查操作是否符合意图；密码、cookie 和登录令牌不经过模型，支付使用一次性虚拟卡；敏感信息分为绝不共享和需同意共享两级，由独立分类器在发送前检查。",
       "source": "Claude：Blog（网页）",
-      "url": "https://claude.com/blog/claude-duet",
-      "published_at": "2026-10-21T00:00:00.000Z",
-      "category": "ai-products"
+      "url": "https://claude.com/blog/claude-duet-safety-privacy-and-security",
+      "published_at": "2026-10-23T00:00:00.000Z",
+      "category": "paper"
     },
     {
-      "title": "SpaceX 财报显示 AI 业务超预期，占收入 52%",
-      "summary": "SpaceX 发布第三季度监管文件，披露营收 146 亿美元、净利润 44 亿美元，扭转去年同期 10 亿美元亏损。其更名的“Super Intelligence”业务线（含 Cursor、Grok 和 neocloud 算力业务）表现好于投资者预期，AI 目前占公司收入 52%，算力规模达 1.7 GW。",
-      "source": "TechCrunch：AI（RSS）",
-      "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
-      "published_at": "2026-10-20T20:40:41.000Z",
-      "category": "industry"
+      "title": "Claude 网页、桌面和移动端将默认启用 auto mode",
+      "summary": "Claude 官方宣布，下周起 Pro、Max 和 Team 套餐在 Claude 网页、桌面和移动端应用中的会话将默认以 auto mode 运行。auto mode 不再逐步请求用户批准，而是由自动检查拦截高风险操作，用户可随时切回手动模式。其引用的 Claude Code 更新提到 auto mode 用独立分类",
+      "source": "X：Claude (@claudeai)",
+      "url": "https://x.com/claudeai/status/2113360845409583307",
+      "published_at": "2026-10-22T20:04:24.000Z",
+      "category": "ai-products"
     }
   ]
 }

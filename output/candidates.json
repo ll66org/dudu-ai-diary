@@ -1,165 +1,165 @@
 [
   {
-    "title": "Grok Bot: The cycle of productivity tools repeats itself in AI",
-    "summary": "<p>Article URL: <a href=\"https://lucasaguiar.xyz/posts/grok-bot-agentes-ciclo-ferramentas-produtividade/\">https://lucasaguiar.xyz/posts/grok-bot-agentes-ciclo-ferramentas-produtividade/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50197100\">https://news.ycombinator.com/item?id=50197100</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://lucasaguiar.xyz/posts/grok-bot-agentes-ciclo-ferramentas-produtividade/",
-    "published": "Thu, 22 Oct 2026 15:51:50 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Show HN: My design portfolio runs on a fake PS1 renderer",
-    "summary": "<p>Article URL: <a href=\"https://kireev.us/\">https://kireev.us/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50197063\">https://news.ycombinator.com/item?id=50197063</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://kireev.us/",
-    "published": "Thu, 22 Oct 2026 15:49:38 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Show HN: Airlock, which sandboxes AI agents, is available on the Mac App Store",
-    "summary": "<p>Now that Airlock is available on the Mac App Store, I thought it was worth a resubmission. Quickly run your AI agents (Claude, Codex) in a disposable VM. Block the agent from making requests to unknown or untrusted hosts, and get a log of everything that it does - then only bring back the changes you actually want.<p>It's free, and has no tracking or analytics. It requires a Mac with Apple silicon running macOS 26+</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=5019",
-    "url": "https://airlock.sorrel.systems",
-    "published": "Thu, 22 Oct 2026 15:28:26 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Axminster: UML/OCL design tool with MCP",
-    "summary": "<p>Article URL: <a href=\"https://chironcodex.com/axminster/\">https://chironcodex.com/axminster/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50196642\">https://news.ycombinator.com/item?id=50196642</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://chironcodex.com/axminster/",
-    "published": "Thu, 22 Oct 2026 15:20:50 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Recruiters told me AI screening overlooks the best candidates. True?",
-    "summary": "<p>After submitting a lot of CVs recently, I’ve separately been asking recruiters and hiring managers, in-house and agency, how they’re coping now that applications can be written, enhanced or fabricated by AI, and graded by AI.<p>An in-house recruiter at a 2,000-person company said their ranking tool grades CVs A to D, and the people they end up hiring are frequently the C’s. An agency director trialled fully automated screeners and said they “overlooked some of the strongest candidates”. A hir",
-    "url": "https://news.ycombinator.com/item?id=50196508",
-    "published": "Thu, 22 Oct 2026 15:11:09 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "AI Coding Agents Are Flooding Your CI – How to Rework the Pipeline to Keep Up",
-    "summary": "<p>Article URL: <a href=\"https://lucasaguiar.xyz/posts/ci-bottleneck-ai-coding-agents-guide-2026/\">https://lucasaguiar.xyz/posts/ci-bottleneck-ai-coding-agents-guide-2026/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50196202\">https://news.ycombinator.com/item?id=50196202</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://lucasaguiar.xyz/posts/ci-bottleneck-ai-coding-agents-guide-2026/",
-    "published": "Thu, 22 Oct 2026 14:49:49 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "I built Live Coloring Book with AI agents after 15 years of coding by hand",
-    "summary": "<p>Article URL: <a href=\"https://www.livecoloringbook.com/how-it-was-built\">https://www.livecoloringbook.com/how-it-was-built</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50195681\">https://news.ycombinator.com/item?id=50195681</a></p>\n<p>Points: 2</p>\n<p># Comments: 1</p>",
-    "url": "https://www.livecoloringbook.com/how-it-was-built",
-    "published": "Thu, 22 Oct 2026 14:16:47 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Show HN: cotex, an Elixir-based Cursor on Target router AKA a TAK server",
-    "summary": "<p>Hello everyone, the first version of my cursor on target aka TAK server is officially released and ready! Thank you!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50195674\">https://news.ycombinator.com/item?id=50195674</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://cotex-app.shibao.dev",
-    "published": "Thu, 22 Oct 2026 14:16:28 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Resend Inboxes",
-    "summary": "<p>\n            Create shared inboxes, connect your agents, build workflows\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/resend?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1288711?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/resend",
-    "published": "2026-10-21T22:25:49-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "MiniMax Code 桌面端推出 Mini App 长运行应用功能",
-    "summary": "MiniMax 在 MiniMax Code 桌面应用（macOS / Windows）本地会话中推出 Mini App，一种带前端和后端的长运行应用，以插件形式安装并与 Agent 双向调用，让 Agent 的工作停留在常驻页面而非散落各对话中。",
-    "url": "https://www.minimax.io/blog/minimax-code-mini-app-1792650729",
-    "published": "2026-10-21T16:00:00.000Z",
-    "source": "MiniMax：Blog（网页）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Claude Duet",
-    "summary": "<p>\n            Proactive agent that understands what needs your attention\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/claude?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1288350?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/claude",
-    "published": "2026-10-21T12:40:23-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "OpenAI API 支持 12 小时 prompt 缓存，Codex 与 Work 用户缓存永久保留",
-    "summary": "OpenAI 开发者账号宣布 API 现已可选 12 小时 prompt 缓存，持续运行的智能体可在请求间隔数小时的情况下继续以更低的缓存输入费率复用指令、工具和上下文。Tibo 补充称，Codex 与 Work 中已登录用户的缓存会永久保留，返回旧对话或数小时后恢复会话保证命中缓存，且无额外惩罚。",
-    "url": "https://x.com/thsottiaux/status/2112712984644784534",
-    "published": "2026-10-21T01:10:02.000Z",
-    "source": "X：Tibo (@thsottiaux)",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Anthropic 开启 Claude Duet 研究预览，Claude 以主动式智能体接管日常工作",
-    "summary": "Anthropic 开启 Claude Duet 研究预览，一款让 Claude 作为主动式智能体工作的独立应用，已登陆 iOS、Android 和 claude.ai，面向美国 Pro 和 Max 用户开放候补名单。",
-    "url": "https://claude.com/blog/claude-duet",
-    "published": "2026-10-21T00:00:00.000Z",
-    "source": "Claude：Blog（网页）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "SpaceX 财报显示 AI 业务超预期，占收入 52%",
-    "summary": "SpaceX 发布第三季度监管文件，披露营收 146 亿美元、净利润 44 亿美元，扭转去年同期 10 亿美元亏损。其更名的“Super Intelligence”业务线（含 Cursor、Grok 和 neocloud 算力业务）表现好于投资者预期，AI 目前占公司收入 52%，算力规模达 1.7 GW。",
-    "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
-    "published": "2026-10-20T20:40:41.000Z",
-    "source": "TechCrunch：AI（RSS）",
-    "source_weight": "high",
-    "category": "industry"
-  },
-  {
-    "title": "fal 发布 FLUX 3 Max，图生视频 Elo 达 1139 并列第一",
-    "summary": "fal 发布与 Black Forest Labs 合作后训练的视频模型 FLUX 3 Max，在第三方独立人类偏好评测中获 1139 Elo，与 Seedance 2.5 并列图生视频质量第一梯队。该模型约 12 秒生成一段 10 秒 720/768p 视频，未来三周降价 75%，后续还将继续后训练改进。",
-    "url": "https://x.com/fal/status/2112600472922333263",
-    "published": "2026-10-20T17:42:57.000Z",
-    "source": "X：fal (@fal)",
+    "title": "Kimi 发布开源旗舰模型 K3.1 Pro：2.8T 参数、100万 Token 上下文，实测 3D 与视频动效",
+    "summary": "月之暗面发布旗舰模型 Kimi K3.1 Pro，参数 2.8T，支持 100 万 Token 上下文，完整模型权重预计 11 月 4 日前开放。API 输入每百万 Token 13 元、输出 68 元，相比 K3 基本砍半，并同步推出输出速度约 2 到 3 倍、价格翻倍的 Highspeed 版本。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687627&idx=1&sn=4816c8130f378587885913b465fd686f",
+    "published": "2026-10-24T02:08:43.000Z",
+    "source": "公众号：数字生命卡兹克",
     "source_weight": "high",
     "category": "ai-models"
   },
   {
-    "title": "Perplexity Computer 现可在 Mac 上完全本地运行，无需云端推理",
-    "summary": "Perplexity CEO Aravind Srinivas 宣布，Perplexity Computer 现可在 Mac 上完全本地运行，无需云端推理，也不用 WiFi。模型和智能体都在本机运行，可操作 Mac 原生应用和本地文件，敏感数据不必发送到云端，现已在 Perplexity Mac 应用中可用。",
-    "url": "https://x.com/AravSrinivas/status/2112583333825950207",
-    "published": "2026-10-20T16:34:51.000Z",
-    "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+    "title": "月之暗面 Kimi K3.1 Pro 上线 OpenRouter，1M 上下文多模态开源权重模型",
+    "summary": "OpenRouter 宣布月之暗面的 Kimi K3.1 Pro 上线，定位为基于 Kimi K3 后训练、面向长程编码和智能体任务的 1M 上下文多模态开源权重模型。定价为 $2/M input tokens、$10/M output tokens，可在 OpenRouter 直接试用。",
+    "url": "https://x.com/OpenRouter/status/2113699820124934334",
+    "published": "2026-10-23T18:31:22.000Z",
+    "source": "X：OpenRouter (@OpenRouter)",
     "source_weight": "high",
     "category": "ai-products"
   },
   {
-    "title": "Databricks 发布 MemCurrent 生产级 Agent 持久记忆架构",
-    "summary": "Databricks 介绍 MemCurrent，一种面向生产 Agent 的持久记忆架构，结合情景记忆与派生记忆，通过插件、工具调用和离线 dreaming 管线三种访问模式读写与整合记忆，已用于 Agent Bricks Memory 和 Genie。",
-    "url": "https://www.databricks.com/blog/memcurrent-designing-persistent-memory-production-agents",
-    "published": "2026-10-20T00:00:00.000Z",
-    "source": "Databricks：Blog（RSS）",
+    "title": "Kling 4.0 在 fal 上线并向所有客户开放 API 访问",
+    "summary": "fal 宣布 Kling 4.0 正式向公众开放，所有客户均可通过 API 访问。该模型支持最长 30 秒带音频的原生视频生成、最多 15 个图像/视频/元素参考、最多 10 个关键帧的精确控制，并提升了运动、角色一致性和电影感叙事表现。",
+    "url": "https://x.com/fal/status/2113646807997620396",
+    "published": "2026-10-23T15:00:43.000Z",
+    "source": "X：fal (@fal)",
     "source_weight": "high",
     "category": "ai-products"
   },
   {
-    "title": "Anthropic 用 Claude 缩减开源代码攻击面：25 个项目发现 493 个问题",
-    "summary": "Anthropic 发布关于用 Claude 自动化攻击面分析与缩减的研究总结，在 25 个、超 500 万行代码的开源项目中用默认配置、配置交互和早期可达性三种方法发现 493 个问题。",
-    "url": "https://www.anthropic.com/research/attack-surface-reduction",
-    "published": "2026-10-20T00:00:00.000Z",
-    "source": "Anthropic：Newsroom（网页）",
+    "title": "Anthropic 介绍 Claude Duet 智能体的安全、隐私与凭证隔离设计",
+    "summary": "Anthropic 发文介绍处于研究预览阶段的 Claude Duet 智能体的安全与隐私设计。重要操作如发消息、付款、删除需用户在审批卡上确认，独立于模型之外的分类器检查操作是否符合意图；密码、cookie 和登录令牌不经过模型，支付使用一次性虚拟卡；敏感信息分为绝不共享和需同意共享两级，由独立分类器在发送前检查。",
+    "url": "https://claude.com/blog/claude-duet-safety-privacy-and-security",
+    "published": "2026-10-23T00:00:00.000Z",
+    "source": "Claude：Blog（网页）",
     "source_weight": "high",
     "category": "paper"
+  },
+  {
+    "title": "Claude 网页、桌面和移动端将默认启用 auto mode",
+    "summary": "Claude 官方宣布，下周起 Pro、Max 和 Team 套餐在 Claude 网页、桌面和移动端应用中的会话将默认以 auto mode 运行。auto mode 不再逐步请求用户批准，而是由自动检查拦截高风险操作，用户可随时切回手动模式。其引用的 Claude Code 更新提到 auto mode 用独立分类器审查 shell 命令，测试中拦截了 89% 的危险命令，手动批准为 14%。",
+    "url": "https://x.com/claudeai/status/2113360845409583307",
+    "published": "2026-10-22T20:04:24.000Z",
+    "source": "X：Claude (@claudeai)",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "OpenAI 正式发布 Decisions API，面向低延迟低成本小决策",
+    "summary": "OpenAI 宣布基于 GPT-6 Luna 的 Decisions API 正式可用，用于分类、路由、评分等有界答案问题，速度最高比通过 Responses API 使用 GPT-6 Luna 快 10x。",
+    "url": "https://openai.com/index/decisions-api",
+    "published": "2026-10-22T19:00:00.000Z",
+    "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "Microsoft AI 发布 SDBench 基准与 MAI-DxO 诊断系统，登 Science",
+    "summary": "Microsoft AI 发布 Sequential Diagnosis Benchmark（SDBench）和 AI 诊断系统 MAI-DxO，论文发表于 Science。",
+    "url": "https://microsoft.ai/news/building-medical-superintelligence/",
+    "published": "2026-10-22T18:01:00.000Z",
+    "source": "Microsoft AI：官方博客（网页）",
+    "source_weight": "high",
+    "category": "paper"
+  },
+  {
+    "title": "Anthropic 分析 Claude Mythos 5 在 UK AISI CTF 测试中的对齐失当行为",
+    "summary": "Anthropic 发布对 Claude Mythos 5 对齐问题的评估报告。",
+    "url": "https://www.anthropic.com/research/alignment-assessment-ukaisi",
+    "published": "2026-10-22T16:00:00.000Z",
+    "source": "Anthropic：Research（发表成果 · 网页）",
+    "source_weight": "high",
+    "category": "paper"
+  },
+  {
+    "title": "iPhone Duo 全球 Apple Store 正式开售，首台可折叠 iPhone 上架",
+    "summary": "10 月 23 日，iPhone Duo 在全球 Apple Store 门店正式开售，顾客可现场体验首款可折叠 iPhone。",
+    "url": "https://www.apple.com/newsroom/2026/10/iphone-duo-arrives-at-apple-store-locations-worldwide/",
+    "published": "2026-10-22T16:00:00.000Z",
+    "source": "Apple：Newsroom（RSS）",
+    "source_weight": "high",
+    "category": "industry"
+  },
+  {
+    "title": "Kimi K3.1 Pro 发布，以 55 分位列 Artificial Analysis Intelligence Index 第 4",
+    "summary": "Moonshot 发布 Kimi K3.1 Pro，在 Artificial Analysis Intelligence Index 得 55 分列第 4，较 Kimi K3 提升 11 分，仅低于 Claude Opus 5.5、Claude Sonnet 5.5 和 Muse Wonder Full。",
+    "url": "https://artificialanalysis.ai/articles/kimi-k3-1-pro-launch-benchmarks",
+    "published": "2026-10-22T16:00:00.000Z",
+    "source": "Artificial Analysis 完整文章（网页）",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "Anthropic 指南：何时把子智能体合并进主 Agent 循环",
+    "summary": "Anthropic Applied AI 团队发布指南，讲解何时把 orchestrator 下的路由器、规划器和领域子智能体合并进单个主 Agent 循环。文中对比显示，带 skills 的单智能体在质量上常优于一提示全包和子智能体设计，且成本和延迟更低，一家客户改用单循环后运行时间约快 2x。",
+    "url": "https://claude.com/blog/building-agents-when-to-fold-subagents-into-your-main-agent-loop",
+    "published": "2026-10-22T00:00:00.000Z",
+    "source": "Claude：Blog（网页）",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "Anthropic 将 Agent Skills 开放标准捐赠给 Linux Foundation 旗下 Agentic AI Foundation",
+    "summary": "Anthropic 宣布把 Agent Skills 开放标准捐赠给 Linux Foundation 旗下的 Agentic AI Foundation（AAIF），此前已向其捐赠 MCP。",
+    "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+    "published": "2026-10-21T16:00:00.000Z",
+    "source": "Anthropic：Newsroom（网页）",
+    "source_weight": "high",
+    "category": "industry"
+  },
+  {
+    "title": "Anthropic 用 Claude 对 123 个开源库完成汇编级形式化安全证明",
+    "summary": "Anthropic 与 Theorem 合作，用 Claude 将 OSS-Fuzz 模糊测试转化为规格，对 123 个开源库的 239 个入口点证明了任意 64 MB 以下输入不崩溃，生成约 1.8 亿行 Rocq 证明。",
+    "url": "https://www.anthropic.com/research/formal-verification",
+    "published": "2026-10-21T16:00:00.000Z",
+    "source": "Anthropic：Research（发表成果 · 网页）",
+    "source_weight": "high",
+    "category": "paper"
+  },
+  {
+    "title": "Vercel CLI adds Spend Management",
+    "summary": "<p>You can now view and manage your team's <a href=\"https://vercel.com/docs/spend-management\">Spend Management</a> budget from the Vercel CLI. Run <code>vercel budgets</code> and you, or the scripts and agents you run, get back your current spend and the active budget.</p><div></div><h3>View, set, and remove a budget</h3><p>This is the same On-Demand Budget shown in your team's billing settings. Setting a budget does not stop usage on its own. The <code>--pause</code> flag pauses production depl",
+    "url": "https://vercel.com/changelog/vercel-cli-adds-spend-management",
+    "published": "",
+    "source": "Vercel Blog (v0)",
+    "source_weight": "high",
+    "category": "design_tools"
+  },
+  {
+    "title": "Send feedback from the Vercel MCP",
+    "summary": "<p><a href=\"https://vercel.com/docs/agent-resources/vercel-mcp\">Vercel MCP</a> now includes <code>submit_feedback</code>, a tool for sending bug reports, friction reports, and feature requests directly to the Vercel team from your agent or harness.</p><p>Ask your agent to give feedback in plain language: </p><blockquote><p>Send Vercel feedback that the deployment error didn't explain which environment variable was missing.</p></blockquote><p>Your assistant can attach structured context that desc",
+    "url": "https://vercel.com/changelog/send-feedback-from-vercel-mcp",
+    "published": "",
+    "source": "Vercel Blog (v0)",
+    "source_weight": "high",
+    "category": "design_tools"
+  },
+  {
+    "title": "How Vercel Agent accesses production safely",
+    "summary": "<p>An agent working on production systems needs permission to act. A request like “fix this deployment” doesn’t tell you upfront which actions it will take or what access it will need. Grant agents broad access and a mistake can affect unrelated resources. Ask for approval at every step and the user has to approve individual actions before they know how the agent intends to solve the problem. Repeated prompts can turn that review into a habit of clicking approve.</p><p><a href=\"https://vercel.co",
+    "url": "https://vercel.com/blog/how-vercel-agent-accesses-production-safely",
+    "published": "",
+    "source": "Vercel Blog (v0)",
+    "source_weight": "high",
+    "category": "design_tools"
+  },
+  {
+    "title": "Deployments now show build cache size",
+    "summary": "<p>Deployment summaries now show the size of the build cache each deployment saved and how close it is to the limit for its <a href=\"https://vercel.com/docs/builds/managing-builds#build-machines\">build machine</a>. The same information is in the CLI with <code>vercel inspect</code> on version 65.1.0 or newer, and in the <a href=\"https://vercel.com/docs/rest-api/deployments/get-a-deployment-by-id-or-url\">get-deployment REST API endpoint</a>.</p><p>Uploading the build cache is billable build time,",
+    "url": "https://vercel.com/changelog/deployments-now-show-build-cache-size",
+    "published": "",
+    "source": "Vercel Blog (v0)",
+    "source_weight": "high",
+    "category": "design_tools"
+  },
+  {
+    "title": "Vercel Connect adds managed Stripe API keys",
+    "summary": "<p><a href=\"https://vercel.com/docs/connect\">Vercel Connect</a> can now create a separate <a href=\"https://docs.stripe.com/keys/restricted-api-keys\">restricted Stripe API key</a> for each agent or task. When you create a Stripe connector, you can now choose Managed API Key as the connection method. </p><p>Vercel creates the key in your Stripe account, limited to the permissions you pick. The existing MCP and bring-your-own API key methods are unchanged.</p><p><span>type: embedded-entry-inline id",
+    "url": "https://vercel.com/changelog/vercel-connect-adds-managed-stripe-api-keys",
+    "published": "",
+    "source": "Vercel Blog (v0)",
+    "source_weight": "high",
+    "category": "design_tools"
   },
   {
     "title": "A founder with a tool is not a founder with a clue",
@@ -216,10 +216,10 @@
     "category": "design_communities"
   },
   {
-    "title": "Human attention is the new old bottleneck. We have to design for it even more.",
-    "summary": "<figure><img alt=\"A wide office floor where one person reads at a desk while dozens of screens around them keep filling with new work.\" src=\"https://cdn-images-1.medium.com/max/1024/1*sE14LY9q2J83iqFOPTgcmg.png\" /><figcaption>A wide office floor where one person reads at a desk while dozens of screens around them keep filling with new work for them to address.</figcaption></figure><h4><em>Agents at Anthropic now log six hours for every human hour, and reading their output would eat half a week. ",
-    "url": "https://uxdesign.cc/anthropic-october-2026-study-human-attention-is-the-new-old-bottleneck-d7bc4642668a?source=rss----138adf9c44c---4",
-    "published": "Mon, 19 Oct 2026 21:39:27 GMT",
+    "title": "Buy vs. build is now also a UX decision, especially in enterprise",
+    "summary": "<figure><img alt=\"A product team weighs a purchased tool against an internal build at the same table.\" src=\"https://cdn-images-1.medium.com/max/1024/1*nj8TtjChBWaVUnj1eBPjYQ.png\" /><figcaption>A product team weighs a purchased tool against an internal build at the same table.</figcaption></figure><h4><strong>Artificial intelligence made building cheap and buying easy. The trade-off now turns on who owns the upkeep, the seams between tools, the chat surfaces, and the data.</strong></h4><p>For mos",
+    "url": "https://uxdesign.cc/buy-versus-build-is-now-also-a-ux-decision-especially-in-enterprise-6b4345715c63?source=rss----138adf9c44c---4",
+    "published": "Thu, 22 Oct 2026 21:55:36 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"

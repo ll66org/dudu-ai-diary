@@ -1,5 +1,5 @@
 {
-  "day_count": 182,
+  "day_count": 184,
   "history": [
     {
       "day": 20,
@@ -1091,6 +1091,13 @@
       "date": "2026-10-22",
       "topic": "MiniMax Code 桌面端推出 Mini App 长运行应用功能",
       "source": "MiniMax：Blog（网页）",
+      "mode": "rss"
+    },
+    {
+      "day": 184,
+      "date": "2026-10-24",
+      "topic": "Kimi 发布开源旗舰模型 K3.1 Pro：2.8T 参数、100万 Token 上下文，实测 3D 与视频动效",
+      "source": "公众号：数字生命卡兹克",
       "mode": "rss"
     }
   ],
