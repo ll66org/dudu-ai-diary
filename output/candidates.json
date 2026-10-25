@@ -1,14 +1,5 @@
 [
   {
-    "title": "Kimi 发布开源旗舰模型 K3.1 Pro：2.8T 参数、100万 Token 上下文，实测 3D 与视频动效",
-    "summary": "月之暗面发布旗舰模型 Kimi K3.1 Pro，参数 2.8T，支持 100 万 Token 上下文，完整模型权重预计 11 月 4 日前开放。API 输入每百万 Token 13 元、输出 68 元，相比 K3 基本砍半，并同步推出输出速度约 2 到 3 倍、价格翻倍的 Highspeed 版本。",
-    "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687627&idx=1&sn=4816c8130f378587885913b465fd686f",
-    "published": "2026-10-24T02:08:43.000Z",
-    "source": "公众号：数字生命卡兹克",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
     "title": "月之暗面 Kimi K3.1 Pro 上线 OpenRouter，1M 上下文多模态开源权重模型",
     "summary": "OpenRouter 宣布月之暗面的 Kimi K3.1 Pro 上线，定位为基于 Kimi K3 后训练、面向长程编码和智能体任务的 1M 上下文多模态开源权重模型。定价为 $2/M input tokens、$10/M output tokens，可在 OpenRouter 直接试用。",
     "url": "https://x.com/OpenRouter/status/2113699820124934334",
@@ -90,78 +81,6 @@
     "category": "ai-models"
   },
   {
-    "title": "Anthropic 指南：何时把子智能体合并进主 Agent 循环",
-    "summary": "Anthropic Applied AI 团队发布指南，讲解何时把 orchestrator 下的路由器、规划器和领域子智能体合并进单个主 Agent 循环。文中对比显示，带 skills 的单智能体在质量上常优于一提示全包和子智能体设计，且成本和延迟更低，一家客户改用单循环后运行时间约快 2x。",
-    "url": "https://claude.com/blog/building-agents-when-to-fold-subagents-into-your-main-agent-loop",
-    "published": "2026-10-22T00:00:00.000Z",
-    "source": "Claude：Blog（网页）",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "Anthropic 将 Agent Skills 开放标准捐赠给 Linux Foundation 旗下 Agentic AI Foundation",
-    "summary": "Anthropic 宣布把 Agent Skills 开放标准捐赠给 Linux Foundation 旗下的 Agentic AI Foundation（AAIF），此前已向其捐赠 MCP。",
-    "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
-    "published": "2026-10-21T16:00:00.000Z",
-    "source": "Anthropic：Newsroom（网页）",
-    "source_weight": "high",
-    "category": "industry"
-  },
-  {
-    "title": "Anthropic 用 Claude 对 123 个开源库完成汇编级形式化安全证明",
-    "summary": "Anthropic 与 Theorem 合作，用 Claude 将 OSS-Fuzz 模糊测试转化为规格，对 123 个开源库的 239 个入口点证明了任意 64 MB 以下输入不崩溃，生成约 1.8 亿行 Rocq 证明。",
-    "url": "https://www.anthropic.com/research/formal-verification",
-    "published": "2026-10-21T16:00:00.000Z",
-    "source": "Anthropic：Research（发表成果 · 网页）",
-    "source_weight": "high",
-    "category": "paper"
-  },
-  {
-    "title": "Vercel CLI adds Spend Management",
-    "summary": "<p>You can now view and manage your team's <a href=\"https://vercel.com/docs/spend-management\">Spend Management</a> budget from the Vercel CLI. Run <code>vercel budgets</code> and you, or the scripts and agents you run, get back your current spend and the active budget.</p><div></div><h3>View, set, and remove a budget</h3><p>This is the same On-Demand Budget shown in your team's billing settings. Setting a budget does not stop usage on its own. The <code>--pause</code> flag pauses production depl",
-    "url": "https://vercel.com/changelog/vercel-cli-adds-spend-management",
-    "published": "",
-    "source": "Vercel Blog (v0)",
-    "source_weight": "high",
-    "category": "design_tools"
-  },
-  {
-    "title": "Send feedback from the Vercel MCP",
-    "summary": "<p><a href=\"https://vercel.com/docs/agent-resources/vercel-mcp\">Vercel MCP</a> now includes <code>submit_feedback</code>, a tool for sending bug reports, friction reports, and feature requests directly to the Vercel team from your agent or harness.</p><p>Ask your agent to give feedback in plain language: </p><blockquote><p>Send Vercel feedback that the deployment error didn't explain which environment variable was missing.</p></blockquote><p>Your assistant can attach structured context that desc",
-    "url": "https://vercel.com/changelog/send-feedback-from-vercel-mcp",
-    "published": "",
-    "source": "Vercel Blog (v0)",
-    "source_weight": "high",
-    "category": "design_tools"
-  },
-  {
-    "title": "How Vercel Agent accesses production safely",
-    "summary": "<p>An agent working on production systems needs permission to act. A request like “fix this deployment” doesn’t tell you upfront which actions it will take or what access it will need. Grant agents broad access and a mistake can affect unrelated resources. Ask for approval at every step and the user has to approve individual actions before they know how the agent intends to solve the problem. Repeated prompts can turn that review into a habit of clicking approve.</p><p><a href=\"https://vercel.co",
-    "url": "https://vercel.com/blog/how-vercel-agent-accesses-production-safely",
-    "published": "",
-    "source": "Vercel Blog (v0)",
-    "source_weight": "high",
-    "category": "design_tools"
-  },
-  {
-    "title": "Deployments now show build cache size",
-    "summary": "<p>Deployment summaries now show the size of the build cache each deployment saved and how close it is to the limit for its <a href=\"https://vercel.com/docs/builds/managing-builds#build-machines\">build machine</a>. The same information is in the CLI with <code>vercel inspect</code> on version 65.1.0 or newer, and in the <a href=\"https://vercel.com/docs/rest-api/deployments/get-a-deployment-by-id-or-url\">get-deployment REST API endpoint</a>.</p><p>Uploading the build cache is billable build time,",
-    "url": "https://vercel.com/changelog/deployments-now-show-build-cache-size",
-    "published": "",
-    "source": "Vercel Blog (v0)",
-    "source_weight": "high",
-    "category": "design_tools"
-  },
-  {
-    "title": "Vercel Connect adds managed Stripe API keys",
-    "summary": "<p><a href=\"https://vercel.com/docs/connect\">Vercel Connect</a> can now create a separate <a href=\"https://docs.stripe.com/keys/restricted-api-keys\">restricted Stripe API key</a> for each agent or task. When you create a Stripe connector, you can now choose Managed API Key as the connection method. </p><p>Vercel creates the key in your Stripe account, limited to the permissions you pick. The existing MCP and bring-your-own API key methods are unchanged.</p><p><span>type: embedded-entry-inline id",
-    "url": "https://vercel.com/changelog/vercel-connect-adds-managed-stripe-api-keys",
-    "published": "",
-    "source": "Vercel Blog (v0)",
-    "source_weight": "high",
-    "category": "design_tools"
-  },
-  {
     "title": "A founder with a tool is not a founder with a clue",
     "summary": "<figure><img alt=\"A dense, busy illustrated scene of a startup convention hall packed with hundreds of nearly identical founders in matching hoodies, all grinning and holding up laptops, trophies, and “launched” banners, with one calm person hidden in the crowd quietly studying their own screen.\" src=\"https://cdn-images-1.medium.com/max/1024/1*XcVtMCEX_vCOtBKRxiMXCw.jpeg\" /><figcaption><em>Somewhere in this room is the one person who can tell if any of it is actually good. AI made everyone else ",
     "url": "https://uxdesign.cc/a-founder-with-a-tool-is-not-a-founder-with-a-clue-65bccb0dc2f8?source=rss----138adf9c44c---4",
@@ -198,15 +117,6 @@
     "category": "design_communities"
   },
   {
-    "title": "AI doesn’t care about your job title",
-    "summary": "<figure><img alt=\"One person works across a design file, a product roadmap, and a code editor at a single desk, with their badge face down beside the keyboard.\" src=\"https://cdn-images-1.medium.com/max/1024/1*rkrQndbiq5v4xo32eVP06A.png\" /><figcaption>One person works across a design file, a product roadmap, and a code editor at a single desk, with their badge face down beside the keyboard. AI assisted, steampunk style.</figcaption></figure><h4><em>Exposure to artificial intelligence runs through",
-    "url": "https://uxdesign.cc/ai-doesnt-care-about-your-job-title-c08dd4fdf8d8?source=rss----138adf9c44c---4",
-    "published": "Tue, 20 Oct 2026 21:29:28 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
     "title": "Embracing Playful Imperfection With The CSS `random()` Function",
     "summary": "Design systems thrive on consistency, so where does randomness fit in? Through playful demos of organic typography, bouncing letters, and splayed cards, Brecht De Ruyte shows how the new CSS `random()` function brings a little imperfection to the web without JavaScript libraries or preprocessor loops that generate hundreds of lines of static CSS.",
     "url": "https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/",
@@ -220,6 +130,42 @@
     "summary": "<figure><img alt=\"A product team weighs a purchased tool against an internal build at the same table.\" src=\"https://cdn-images-1.medium.com/max/1024/1*nj8TtjChBWaVUnj1eBPjYQ.png\" /><figcaption>A product team weighs a purchased tool against an internal build at the same table.</figcaption></figure><h4><strong>Artificial intelligence made building cheap and buying easy. The trade-off now turns on who owns the upkeep, the seams between tools, the chat surfaces, and the data.</strong></h4><p>For mos",
     "url": "https://uxdesign.cc/buy-versus-build-is-now-also-a-ux-decision-especially-in-enterprise-6b4345715c63?source=rss----138adf9c44c---4",
     "published": "Thu, 22 Oct 2026 21:55:36 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "The context advantage of human UX",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-context-advantage-of-human-ux-design-thinking-39883603c337?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1672/1*hJmXIyyM-DoayKXxgRZfwA.png\" width=\"1672\" /></a></p><p class=\"medium-feed-snippet\">Context is today&#x2019;s human advantage, but it is also the raw material AI is rapidly learning to absorb.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/the-context-ad",
+    "url": "https://uxdesign.cc/the-context-advantage-of-human-ux-design-thinking-39883603c337?source=rss----138adf9c44c---4",
+    "published": "Sun, 25 Oct 2026 12:34:03 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Accordion Icons: Which Work Best?",
+    "summary": "A closer look at accordion icons, why split menus are harmful, and why it’s better not to have icons and text labels link to different actions. Plus, why the caret is the safest icon choice. You’ll find more [useful guides](https://www.smashingmagazine.com/category/guides/) and [online workshops](https://smashingconf.com/online-workshops) here on Smashing Magazine, so make sure to browse and explore.",
+    "url": "https://smashingmagazine.com/2026/10/accordion-icons-which-work-best/",
+    "published": "Fri, 23 Oct 2026 13:00:00 GMT",
+    "source": "Smashing Magazine",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Entering Atomic Design from the screen",
+    "summary": "<h4>You don’t always have to build from atoms. Sometimes, you need to discover them.</h4><figure><img alt=\"Entering Atomic Design from the Screen\" src=\"https://cdn-images-1.medium.com/max/1024/1*VzTw6df1odp5SeGo_Hmchw.png\" /></figure><p><a href=\"https://atomicdesign.bradfrost.com/\"><strong>Atomic Design</strong></a> is one of the core mental models of modern design systems. It gives us a common language for describing the interface as a hierarchy: atoms, molecules, organisms, templates, and page",
+    "url": "https://uxdesign.cc/entering-atomic-design-from-the-screen-bae744ecc288?source=rss----138adf9c44c---4",
+    "published": "Fri, 23 Oct 2026 11:16:30 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Supersonic dreams: how post-war France invented the future, and then stopped",
+    "summary": "<h4>Concorde, nuclear power and Minitel took three different paths. What can they tell us about Europe’s next technological bets?</h4><figure><img alt=\"Landscape illustration in a vintage French poster style: Concorde flies above a nuclear power station, with a golden ribbon leading to a Minitel terminal.\" src=\"https://cdn-images-1.medium.com/max/1024/1*mgcWfk9HECAUO3cwP0aRYw.png\" /><figcaption>Concorde, nuclear power and Minitel. AI-generated Illustration</figcaption></figure><p>I’ve spent the ",
+    "url": "https://uxdesign.cc/supersonic-dreams-how-post-war-france-invented-the-future-and-then-stopped-fe2cb26dc7cc?source=rss----138adf9c44c---4",
+    "published": "Fri, 23 Oct 2026 11:15:20 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"

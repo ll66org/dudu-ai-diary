@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-10-24T14:46:47.614103Z",
-  "total_candidates": 25,
+  "fetched_at": "2026-10-25T15:01:37.390620Z",
+  "total_candidates": 19,
   "source_stats": {
     "Figma Blog": {
       "found": 0,
       "total": 0
     },
     "Vercel Blog (v0)": {
-      "found": 5,
+      "found": 0,
       "total": 1704
     },
     "Cursor Changelog": {
@@ -35,7 +35,7 @@
       "total": 40
     },
     "UX Collective": {
-      "found": 10,
+      "found": 8,
       "total": 10
     },
     "Designer News": {
@@ -64,27 +64,27 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 184,
-  "today_date": "2026-10-24",
+  "dudu_day": 185,
+  "today_date": "2026-10-25",
   "used_titles": [
-    "丹麦最高法院裁定持有传播 AI 生成儿童色情内容可判实刑",
     "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
     "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
     "Numan 如何用 LangGraph 和 LangSmith 构建评测优先的 AI 健康教练 Nu",
     "fal 联合 bfl_ai 发布后训练视频模型 FLUX 3 Max",
     "SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源",
-    "MiniMax Code 桌面端推出 Mini App 长运行应用功能"
+    "MiniMax Code 桌面端推出 Mini App 长运行应用功能",
+    "Kimi 发布开源旗舰模型 K3.1 Pro：2.8T 参数、100万 Token 上下文，实测 3D 与视频动效"
   ],
   "used_tools": [
-    "IT之家·人工智能",
     "X：邵猛 (@shao__meng)",
     "X：邵猛 (@shao__meng)",
     "LangChain：Blog（RSS）",
     "X：fal (@fal)",
     "X：Rohan Paul (@rohanpaul_ai)",
-    "MiniMax：Blog（网页）"
+    "MiniMax：Blog（网页）",
+    "公众号：数字生命卡兹克"
   ],
-  "briefing_total": 44,
-  "briefing_design": 14,
+  "briefing_total": 25,
+  "briefing_design": 10,
   "briefing_count": 5
 }
