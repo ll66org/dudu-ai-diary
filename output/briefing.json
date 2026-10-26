@@ -1,42 +1,42 @@
 [
   {
+    "title": "卡兹克手把手演示用 Codex 和 Claude 逆向改造现实硬件设备",
+    "summary": "数字生命卡兹克分享用 AI 逆向改造现实设备的实操教程，以公司 4 台会议室电视为例，通过 Codex 开启 ADB 调试连接电视，清理开机广告、重做简洁桌面和粒子动态屏保，并复刻到其余 3 台。",
+    "source": "X：卡兹克 (@Khazix0918)",
+    "url": "https://x.com/Khazix0918/status/2114579883527655853",
+    "published_at": "2026-10-26T04:48:25.000Z",
+    "category": "tip"
+  },
+  {
+    "title": "Kling 4.0 上线 Runware API，支持 30 秒 1080p 原生音频视频",
+    "summary": "Runware 宣布 Kling 4.0 发布首日上线其 API，可生成最长 30 秒的 1080p 视频，并支持原生音频。功能包括多关键帧（首、中、尾帧）、单请求最多 15 个输入（关键帧、参考图、参考视频与元素）以及基于提示词的已有片段编辑。价格自 $0.133 每秒起，未来 7 天常规定价享 15% 折扣；已有用",
+    "source": "X：可灵 Kling AI (@Kling_ai)",
+    "url": "https://x.com/Kling_ai/status/2114574035468386746",
+    "published_at": "2026-10-26T04:25:11.000Z",
+    "category": "ai-products"
+  },
+  {
+    "title": "AISI 发布 ReproBAIT 评测：AI 编码智能体可低成本复现部分生物 AI 工具",
+    "summary": "英国 AI Security Institute 与 SecureBio 合作推出 ReproBAIT 评测，测试 AI 编码智能体能否依据论文等公开信息和训练数据复现生物 AI 工具（BAITs）。",
+    "source": "英国 AI Security Institute：Blog（网页）",
+    "url": "https://www.aisi.gov.uk/blog/can-ai-coding-agents-rebuild-biological-ai-tools-from-a-paper",
+    "published_at": "2026-10-25T23:00:00.000Z",
+    "category": "paper"
+  },
+  {
+    "title": "让编程智能体使用已登录 Chrome 的六种方案实操指南",
+    "summary": "Browser Use 作者整理了让 Claude Code、Codex、Gemini CLI、Cursor 等编程智能体使用已登录 Chrome 的方法：Claude 订阅用户可用 claude --chrome 的 Claude in Chrome 扩展。",
+    "source": "Browser Use",
+    "url": "https://browser-use.com/posts/coding-agent-logged-in-chrome",
+    "published_at": "2026-10-25T00:00:00.000Z",
+    "category": "tip"
+  },
+  {
     "title": "Kimi 发布开源旗舰模型 K3.1 Pro：2.8T 参数、100万 Token 上下文，实测 3D 与视频动效",
     "summary": "月之暗面发布旗舰模型 Kimi K3.1 Pro，参数 2.8T，支持 100 万 Token 上下文，完整模型权重预计 11 月 4 日前开放。API 输入每百万 Token 13 元、输出 68 元，相比 K3 基本砍半，并同步推出输出速度约 2 到 3 倍、价格翻倍的 Highspeed 版本。",
     "source": "公众号：数字生命卡兹克",
     "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687627&idx=1&sn=4816c8130f378587885913b465fd686f",
     "published_at": "2026-10-24T02:08:43.000Z",
     "category": "ai-models"
-  },
-  {
-    "title": "月之暗面 Kimi K3.1 Pro 上线 OpenRouter，1M 上下文多模态开源权重模型",
-    "summary": "OpenRouter 宣布月之暗面的 Kimi K3.1 Pro 上线，定位为基于 Kimi K3 后训练、面向长程编码和智能体任务的 1M 上下文多模态开源权重模型。定价为 $2/M input tokens、$10/M output tokens，可在 OpenRouter 直接试用。",
-    "source": "X：OpenRouter (@OpenRouter)",
-    "url": "https://x.com/OpenRouter/status/2113699820124934334",
-    "published_at": "2026-10-23T18:31:22.000Z",
-    "category": "ai-products"
-  },
-  {
-    "title": "Kling 4.0 在 fal 上线并向所有客户开放 API 访问",
-    "summary": "fal 宣布 Kling 4.0 正式向公众开放，所有客户均可通过 API 访问。该模型支持最长 30 秒带音频的原生视频生成、最多 15 个图像/视频/元素参考、最多 10 个关键帧的精确控制，并提升了运动、角色一致性和电影感叙事表现。",
-    "source": "X：fal (@fal)",
-    "url": "https://x.com/fal/status/2113646807997620396",
-    "published_at": "2026-10-23T15:00:43.000Z",
-    "category": "ai-products"
-  },
-  {
-    "title": "Anthropic 介绍 Claude Duet 智能体的安全、隐私与凭证隔离设计",
-    "summary": "Anthropic 发文介绍处于研究预览阶段的 Claude Duet 智能体的安全与隐私设计。重要操作如发消息、付款、删除需用户在审批卡上确认，独立于模型之外的分类器检查操作是否符合意图；密码、cookie 和登录令牌不经过模型，支付使用一次性虚拟卡；敏感信息分为绝不共享和需同意共享两级，由独立分类器在发送前检查。",
-    "source": "Claude：Blog（网页）",
-    "url": "https://claude.com/blog/claude-duet-safety-privacy-and-security",
-    "published_at": "2026-10-23T00:00:00.000Z",
-    "category": "paper"
-  },
-  {
-    "title": "Claude 网页、桌面和移动端将默认启用 auto mode",
-    "summary": "Claude 官方宣布，下周起 Pro、Max 和 Team 套餐在 Claude 网页、桌面和移动端应用中的会话将默认以 auto mode 运行。auto mode 不再逐步请求用户批准，而是由自动检查拦截高风险操作，用户可随时切回手动模式。其引用的 Claude Code 更新提到 auto mode 用独立分类",
-    "source": "X：Claude (@claudeai)",
-    "url": "https://x.com/claudeai/status/2113360845409583307",
-    "published_at": "2026-10-22T20:04:24.000Z",
-    "category": "ai-products"
   }
 ]

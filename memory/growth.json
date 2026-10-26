@@ -1,5 +1,5 @@
 {
-  "day_count": 185,
+  "day_count": 186,
   "history": [
     {
       "day": 20,
@@ -1105,6 +1105,13 @@
       "date": "2026-10-25",
       "topic": "Kimi 发布开源旗舰模型 K3.1 Pro：2.8T 参数、100万 Token 上下文，实测 3D 与视频动效",
       "source": "公众号：数字生命卡兹克",
+      "mode": "rss"
+    },
+    {
+      "day": 186,
+      "date": "2026-10-26",
+      "topic": "卡兹克手把手演示用 Codex 和 Claude 逆向改造现实硬件设备",
+      "source": "X：卡兹克 (@Khazix0918)",
       "mode": "rss"
     }
   ],

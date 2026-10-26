@@ -1,50 +1,81 @@
 {
   "selected_topic": {
-    "title": "Kimi 发布开源旗舰模型 K3.1 Pro：2.8T 参数、100万 Token 上下文，实测 3D 与视频动效",
-    "source": "公众号：数字生命卡兹克",
-    "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687627&idx=1&sn=4816c8130f378587885913b465fd686f",
-    "publish_date": "2026-10-25",
-    "why_picked": "100万 Token 上下文 + 砍半价格，直接改变设计师喂整份设计稿给 AI 的方式",
-    "designer_angle": "设计师第一次能把整个项目文件（Figma 导出 + 品牌手册 + 组件库）一次性塞进模型里做一致性检查"
+    "title": "卡兹克手把手演示用 Codex 和 Claude 逆向改造现实硬件设备",
+    "source": "X：卡兹克 (@Khazix0918)",
+    "url": "https://x.com/Khazix0918/status/2114579883527655853",
+    "publish_date": "2026-10-26",
+    "why_picked": "兜兜第一次看到 AI 编程智能体被用来改电视桌面，这比改网页刺激多了",
+    "designer_angle": "当屏幕不再只是 App 的容器，设计师要开始关心「开机第一帧」长什么样"
   },
   "post": {
-    "title": "🐣100万Token上下文，设计师终于能整包喂AI了",
-    "body": "兜兜今天看到 Kimi 发了 K3.1 Pro——2.8T 参数、100 万 Token 上下文，API 输入每百万 Token 13 元、输出 68 元，比 K3 基本砍半，还出了个速度 2-3 倍、价格翻倍的 Highspeed 版。11 月 4 日前开放完整权重。\n\n兜兜第一反应不是「参数好大」，是「100 万 Token 到底能装下多少设计稿」。兜兜算了下：一份 200 页的品牌手册 PDF 大概 15 万 Token，一套 300 个组件的 Figma 导出 JSON 大概 20 万，再加 50 屏界面截图的多模态输入——居然还有富余。\n\n▸ 以前设计师用 AI 是「一问一答」，现在可以「整包投喂」。兜兜画了个对比：左边是把 5 个组件截图分别丢进去问「这个间距对吗」，右边是直接把整个设计系统 + 品牌规范 + 30 屏界面一起给，让模型自己找出哪几屏违反了 8pt 栅格。这是工作流的量级变化，不是速度变化。\n▸ 价格砍半这件事比参数更实在。输出 68 元/百万 Token，意味着设计师可以真的把「逐屏审查」做成日常动作，而不是月底才舍得跑一次。兜兜更喜欢这种「降到你敢随便用」的定价，而不是「能力强到你用不起」。\n▸ 但兜兜要提醒一句：上下文长 ≠ 注意力准。100 万 Token 里如果前 80 万是无关的历史版本，模型很可能抓错重点。兜兜试过长上下文工具的经验是——喂得越全，越要在开头写清楚「只看第 3 节和第 7 节」。\n\n💭 兜兜动手建议：\n今天花 5 分钟，把你手上项目的「设计规范 + 组件命名规则 + 3 个反面案例截图」整理成一个纯文本文件（md 就行），下次问 AI 任何设计问题前先把它贴在最前面。兜兜试过，同样的问题，加了这份「项目说明书」之后答案的具体度完全不一样。\n\n你现在的项目文件，估算一下大概多少 Token？敢整包喂吗？\n\n—— 兜兜的第 185 天\n\n#AI设计工具 #KimiK3 #上下文窗口 #设计系统 #设计师工作流 #体验设计",
+    "title": "🐣AI 把会议室电视改成了粒子屏保",
+    "body": "卡兹克今天发了个很野的教程：拿公司 4 台会议室电视开刀，用 Codex 通过 ADB 调试连上电视，先清掉开机广告，再把默认桌面换成自己写的简洁桌面 + 粒子动态屏保，做完一台复刻到剩下 3 台。全程没拆机、没刷固件，就是让 AI 写代码去指挥一台已经存在的屏幕。\n\n▸ 兜兜第一反应是：这其实是「设计交付物」的边界在往外扩。以前设计师交的是 Figma 稿，现在交的是一段能跑在硬件上的界面逻辑，开机动画、待机屏保、空状态都变成了可编程的一帧。\n▸ 第二个观察是「开机广告」这件事本身。厂商塞广告是因为那块屏幕没人设计过「第一秒」，谁先把第一帧做好，谁就拿回了注意力。兜兜觉得这比再做一套 App 皮肤有意义。\n▸ 第三个是复刻成本。4 台电视同一套方案，说明这种改造是可规模化的——对设计师来说，这意味着「改一台」和「改一百台」的差距被 AI 抹平了，审美决策反而成了瓶颈。\n\n💭 兜兜动手建议：今晚花 5 分钟，打开你手上任何一块「有屏设备」的设置页（电视 / 平板 / 旧手机），找到「桌面 / 启动器」那一项，截图它的默认第一屏，然后问自己一句：如果这一屏由我重画，第一眼要让人看到什么？把答案写成一句话，就是你下一个项目的 brief。\n\n你身边哪块屏幕最想被重做一遍？\n\n—— 兜兜的第 186 天\n\n#AI改造硬件 #Codex #体验设计 #开机第一帧 #设计师的边界",
     "tags": [
-      "#AI设计工具",
-      "#KimiK3",
-      "#上下文窗口",
-      "#设计系统",
-      "#设计师工作流",
-      "#体验设计"
+      "#AI改造硬件",
+      "#Codex",
+      "#体验设计",
+      "#开机第一帧",
+      "#设计师的边界"
     ]
   },
   "visuals": {
-    "cover_kicker": "MODEL UPDATE",
-    "cover_main_text": "100万Token喂设计稿",
-    "cover_sub_text": "Kimi K3.1 Pro 价格砍半，整包审查成真",
-    "cover_quote_en": "Feed the whole system, not the screenshot",
-    "compare_headline": "一张图看懂工作流变化",
+    "cover_kicker": "NEW DISCOVERY",
+    "cover_main_text": "AI 改电视",
+    "cover_sub_text": "Codex 连上 ADB，4 台会议室电视重做桌面",
+    "cover_quote_en": "Design the first frame, own the screen",
+    "compare_headline": "一张图看懂区别",
     "compare_left_label": "BEFORE",
-    "compare_left_title": "逐屏截图问",
-    "compare_left_desc": "5 个组件分别丢进去问间距，来回 20 轮还拼不出全局",
-    "compare_left_metric": "来回 20 轮",
+    "compare_left_title": "厂商默认桌面",
+    "compare_left_desc": "开机广告 15 秒，桌面图标堆满，4 台电视各改一遍要拆机",
+    "compare_left_metric": "耗时 2 天",
     "compare_right_label": "AFTER",
-    "compare_right_title": "整包一次审查",
-    "compare_right_desc": "设计系统+品牌手册+30 屏一起喂，模型自己找违规屏",
-    "compare_right_metric": "一次 1 轮",
-    "compare_insight": "上下文变长不等于注意力变准，喂得越全越要写清「只看哪节」",
-    "highlight_emoji": "🫠",
+    "compare_right_title": "AI 写代码改屏",
+    "compare_right_desc": "Codex 走 ADB 清广告，粒子屏保一次写好复刻 3 台",
+    "compare_right_metric": "耗时 1 晚",
+    "compare_insight": "屏幕的第一帧正在变成设计师的新画布，谁先设计谁先拿回注意力",
+    "highlight_emoji": "📺",
     "accent_color": "ocean"
   },
-  "dudu_voice": "兜兜觉得这条最值得写不是因为参数，是因为「砍半的价格 + 百万上下文」这个组合第一次让整包审查变成日常动作，而不是炫技。设计师该练的新技能是「写清楚让 AI 看哪节」。",
+  "dudu_voice": "兜兜觉得这条最妙的地方不是技术，是它提醒设计师：硬件上的界面也是界面，别只盯着 App 看。",
   "meta": {
-    "day": 185,
-    "date": "2026-10-25",
-    "generated_at": "2026-10-25T15:01:46.122304Z",
+    "day": 186,
+    "date": "2026-10-26",
+    "generated_at": "2026-10-26T17:34:54.764579Z",
     "mode": "rss"
   },
   "briefing": [
+    {
+      "title": "卡兹克手把手演示用 Codex 和 Claude 逆向改造现实硬件设备",
+      "summary": "数字生命卡兹克分享用 AI 逆向改造现实设备的实操教程，以公司 4 台会议室电视为例，通过 Codex 开启 ADB 调试连接电视，清理开机广告、重做简洁桌面和粒子动态屏保，并复刻到其余 3 台。",
+      "source": "X：卡兹克 (@Khazix0918)",
+      "url": "https://x.com/Khazix0918/status/2114579883527655853",
+      "published_at": "2026-10-26T04:48:25.000Z",
+      "category": "tip"
+    },
+    {
+      "title": "Kling 4.0 上线 Runware API，支持 30 秒 1080p 原生音频视频",
+      "summary": "Runware 宣布 Kling 4.0 发布首日上线其 API，可生成最长 30 秒的 1080p 视频，并支持原生音频。功能包括多关键帧（首、中、尾帧）、单请求最多 15 个输入（关键帧、参考图、参考视频与元素）以及基于提示词的已有片段编辑。价格自 $0.133 每秒起，未来 7 天常规定价享 15% 折扣；已有用",
+      "source": "X：可灵 Kling AI (@Kling_ai)",
+      "url": "https://x.com/Kling_ai/status/2114574035468386746",
+      "published_at": "2026-10-26T04:25:11.000Z",
+      "category": "ai-products"
+    },
+    {
+      "title": "AISI 发布 ReproBAIT 评测：AI 编码智能体可低成本复现部分生物 AI 工具",
+      "summary": "英国 AI Security Institute 与 SecureBio 合作推出 ReproBAIT 评测，测试 AI 编码智能体能否依据论文等公开信息和训练数据复现生物 AI 工具（BAITs）。",
+      "source": "英国 AI Security Institute：Blog（网页）",
+      "url": "https://www.aisi.gov.uk/blog/can-ai-coding-agents-rebuild-biological-ai-tools-from-a-paper",
+      "published_at": "2026-10-25T23:00:00.000Z",
+      "category": "paper"
+    },
+    {
+      "title": "让编程智能体使用已登录 Chrome 的六种方案实操指南",
+      "summary": "Browser Use 作者整理了让 Claude Code、Codex、Gemini CLI、Cursor 等编程智能体使用已登录 Chrome 的方法：Claude 订阅用户可用 claude --chrome 的 Claude in Chrome 扩展。",
+      "source": "Browser Use",
+      "url": "https://browser-use.com/posts/coding-agent-logged-in-chrome",
+      "published_at": "2026-10-25T00:00:00.000Z",
+      "category": "tip"
+    },
     {
       "title": "Kimi 发布开源旗舰模型 K3.1 Pro：2.8T 参数、100万 Token 上下文，实测 3D 与视频动效",
       "summary": "月之暗面发布旗舰模型 Kimi K3.1 Pro，参数 2.8T，支持 100 万 Token 上下文，完整模型权重预计 11 月 4 日前开放。API 输入每百万 Token 13 元、输出 68 元，相比 K3 基本砍半，并同步推出输出速度约 2 到 3 倍、价格翻倍的 Highspeed 版本。",
@@ -52,38 +83,6 @@
       "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687627&idx=1&sn=4816c8130f378587885913b465fd686f",
       "published_at": "2026-10-24T02:08:43.000Z",
       "category": "ai-models"
-    },
-    {
-      "title": "月之暗面 Kimi K3.1 Pro 上线 OpenRouter，1M 上下文多模态开源权重模型",
-      "summary": "OpenRouter 宣布月之暗面的 Kimi K3.1 Pro 上线，定位为基于 Kimi K3 后训练、面向长程编码和智能体任务的 1M 上下文多模态开源权重模型。定价为 $2/M input tokens、$10/M output tokens，可在 OpenRouter 直接试用。",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "url": "https://x.com/OpenRouter/status/2113699820124934334",
-      "published_at": "2026-10-23T18:31:22.000Z",
-      "category": "ai-products"
-    },
-    {
-      "title": "Kling 4.0 在 fal 上线并向所有客户开放 API 访问",
-      "summary": "fal 宣布 Kling 4.0 正式向公众开放，所有客户均可通过 API 访问。该模型支持最长 30 秒带音频的原生视频生成、最多 15 个图像/视频/元素参考、最多 10 个关键帧的精确控制，并提升了运动、角色一致性和电影感叙事表现。",
-      "source": "X：fal (@fal)",
-      "url": "https://x.com/fal/status/2113646807997620396",
-      "published_at": "2026-10-23T15:00:43.000Z",
-      "category": "ai-products"
-    },
-    {
-      "title": "Anthropic 介绍 Claude Duet 智能体的安全、隐私与凭证隔离设计",
-      "summary": "Anthropic 发文介绍处于研究预览阶段的 Claude Duet 智能体的安全与隐私设计。重要操作如发消息、付款、删除需用户在审批卡上确认，独立于模型之外的分类器检查操作是否符合意图；密码、cookie 和登录令牌不经过模型，支付使用一次性虚拟卡；敏感信息分为绝不共享和需同意共享两级，由独立分类器在发送前检查。",
-      "source": "Claude：Blog（网页）",
-      "url": "https://claude.com/blog/claude-duet-safety-privacy-and-security",
-      "published_at": "2026-10-23T00:00:00.000Z",
-      "category": "paper"
-    },
-    {
-      "title": "Claude 网页、桌面和移动端将默认启用 auto mode",
-      "summary": "Claude 官方宣布，下周起 Pro、Max 和 Team 套餐在 Claude 网页、桌面和移动端应用中的会话将默认以 auto mode 运行。auto mode 不再逐步请求用户批准，而是由自动检查拦截高风险操作，用户可随时切回手动模式。其引用的 Claude Code 更新提到 auto mode 用独立分类",
-      "source": "X：Claude (@claudeai)",
-      "url": "https://x.com/claudeai/status/2113360845409583307",
-      "published_at": "2026-10-22T20:04:24.000Z",
-      "category": "ai-products"
     }
   ]
 }

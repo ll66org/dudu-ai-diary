@@ -1,5 +1,77 @@
 [
   {
+    "title": "Thyonix – Find Local Businesses Without Websites and Build AI-Powered Demos",
+    "summary": "<p>Article URL: <a href=\"https://www.thyonix.com\">https://www.thyonix.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50247411\">https://news.ycombinator.com/item?id=50247411</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "url": "https://www.thyonix.com",
+    "published": "Mon, 26 Oct 2026 17:20:46 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Microsoft HAX Toolkit: Guidelines and Tools for Human-AI Interaction",
+    "summary": "<p>Article URL: <a href=\"https://www.microsoft.com/en-us/haxtoolkit/\">https://www.microsoft.com/en-us/haxtoolkit/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50247285\">https://news.ycombinator.com/item?id=50247285</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://www.microsoft.com/en-us/haxtoolkit/",
+    "published": "Mon, 26 Oct 2026 17:12:29 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "AI Changed the Build vs. Buy Equation in SaaS",
+    "summary": "<p>Article URL: <a href=\"https://blog.emailengine.app/how-ai-changed-the-build-vs-buy-equation-in-saas/\">https://blog.emailengine.app/how-ai-changed-the-build-vs-buy-equation-in-saas/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50246230\">https://news.ycombinator.com/item?id=50246230</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://blog.emailengine.app/how-ai-changed-the-build-vs-buy-equation-in-saas/",
+    "published": "Mon, 26 Oct 2026 16:12:05 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "卡兹克手把手演示用 Codex 和 Claude 逆向改造现实硬件设备",
+    "summary": "数字生命卡兹克分享用 AI 逆向改造现实设备的实操教程，以公司 4 台会议室电视为例，通过 Codex 开启 ADB 调试连接电视，清理开机广告、重做简洁桌面和粒子动态屏保，并复刻到其余 3 台。",
+    "url": "https://x.com/Khazix0918/status/2114579883527655853",
+    "published": "2026-10-26T04:48:25.000Z",
+    "source": "X：卡兹克 (@Khazix0918)",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "Kling 4.0 上线 Runware API，支持 30 秒 1080p 原生音频视频",
+    "summary": "Runware 宣布 Kling 4.0 发布首日上线其 API，可生成最长 30 秒的 1080p 视频，并支持原生音频。功能包括多关键帧（首、中、尾帧）、单请求最多 15 个输入（关键帧、参考图、参考视频与元素）以及基于提示词的已有片段编辑。价格自 $0.133 每秒起，未来 7 天常规定价享 15% 折扣；已有用户可将模型 ID 切换为 klingai:kling-video@4.0。Runware API 已有 19 个 Kling 模型，覆盖视频、图像、虚拟人和对口型。Kling AI 官方转发并提醒查看评论区中的创作者指南。",
+    "url": "https://x.com/Kling_ai/status/2114574035468386746",
+    "published": "2026-10-26T04:25:11.000Z",
+    "source": "X：可灵 Kling AI (@Kling_ai)",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "AISI 发布 ReproBAIT 评测：AI 编码智能体可低成本复现部分生物 AI 工具",
+    "summary": "英国 AI Security Institute 与 SecureBio 合作推出 ReproBAIT 评测，测试 AI 编码智能体能否依据论文等公开信息和训练数据复现生物 AI 工具（BAITs）。",
+    "url": "https://www.aisi.gov.uk/blog/can-ai-coding-agents-rebuild-biological-ai-tools-from-a-paper",
+    "published": "2026-10-25T23:00:00.000Z",
+    "source": "英国 AI Security Institute：Blog（网页）",
+    "source_weight": "high",
+    "category": "paper"
+  },
+  {
+    "title": "desigma",
+    "summary": "<p>\n            Free Figma alternative made on Rust\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/desigma?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1292572?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/desigma",
+    "published": "2026-10-25T12:20:38-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "让编程智能体使用已登录 Chrome 的六种方案实操指南",
+    "summary": "Browser Use 作者整理了让 Claude Code、Codex、Gemini CLI、Cursor 等编程智能体使用已登录 Chrome 的方法：Claude 订阅用户可用 claude --chrome 的 Claude in Chrome 扩展。",
+    "url": "https://browser-use.com/posts/coding-agent-logged-in-chrome",
+    "published": "2026-10-25T00:00:00.000Z",
+    "source": "Browser Use",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
     "title": "月之暗面 Kimi K3.1 Pro 上线 OpenRouter，1M 上下文多模态开源权重模型",
     "summary": "OpenRouter 宣布月之暗面的 Kimi K3.1 Pro 上线，定位为基于 Kimi K3 后训练、面向长程编码和智能体任务的 1M 上下文多模态开源权重模型。定价为 $2/M input tokens、$10/M output tokens，可在 OpenRouter 直接试用。",
     "url": "https://x.com/OpenRouter/status/2113699820124934334",
@@ -9,109 +81,28 @@
     "category": "ai-products"
   },
   {
-    "title": "Kling 4.0 在 fal 上线并向所有客户开放 API 访问",
-    "summary": "fal 宣布 Kling 4.0 正式向公众开放，所有客户均可通过 API 访问。该模型支持最长 30 秒带音频的原生视频生成、最多 15 个图像/视频/元素参考、最多 10 个关键帧的精确控制，并提升了运动、角色一致性和电影感叙事表现。",
-    "url": "https://x.com/fal/status/2113646807997620396",
-    "published": "2026-10-23T15:00:43.000Z",
-    "source": "X：fal (@fal)",
+    "title": "Run Scale AI’s AgentEnv evals on Vercel Sandbox",
+    "summary": "<p><a href=\"https://github.com/scaleapi/agentenv-framework\">AgentEnv</a>, Scale AI's framework for testing agents against tasks and scoring their results, now runs on <a href=\"https://vercel.com/docs/sandbox\">Vercel Sandbox</a>. The Vercel provider ships in AgentEnv 0.9.1334 and later, and runs the agent and its task environment in separate Sandboxes.</p><p>Try the <a href=\"https://github.com/vercel-labs/agentenv-framework/tree/vercel-demo\">AgentEnv example</a> to run an evaluation on Vercel San",
+    "url": "https://vercel.com/changelog/run-scale-ais-agentenv-evals-on-vercel-sandbox",
+    "published": "",
+    "source": "Vercel Blog (v0)",
     "source_weight": "high",
-    "category": "ai-products"
+    "category": "design_tools"
   },
   {
-    "title": "Anthropic 介绍 Claude Duet 智能体的安全、隐私与凭证隔离设计",
-    "summary": "Anthropic 发文介绍处于研究预览阶段的 Claude Duet 智能体的安全与隐私设计。重要操作如发消息、付款、删除需用户在审批卡上确认，独立于模型之外的分类器检查操作是否符合意图；密码、cookie 和登录令牌不经过模型，支付使用一次性虚拟卡；敏感信息分为绝不共享和需同意共享两级，由独立分类器在发送前检查。",
-    "url": "https://claude.com/blog/claude-duet-safety-privacy-and-security",
-    "published": "2026-10-23T00:00:00.000Z",
-    "source": "Claude：Blog（网页）",
+    "title": "Faster pnpm installs",
+    "summary": "<p>pnpm installs on Vercel are now faster, reducing the time spent installing dependencies before your build.</p><p>For Pro deployments with restored build cache, we observed 14% lower average install times with the optimization enabled.</p><p>Vercel now reuses successful dependency verification across deployments. In the best case, when dependencies are unchanged and the previous verification can be reused, installs can complete in milliseconds.</p><p>Before:</p><p><span>type: embedded-entry-in",
+    "url": "https://vercel.com/changelog/faster-pnpm-installs",
+    "published": "",
+    "source": "Vercel Blog (v0)",
     "source_weight": "high",
-    "category": "paper"
-  },
-  {
-    "title": "Claude 网页、桌面和移动端将默认启用 auto mode",
-    "summary": "Claude 官方宣布，下周起 Pro、Max 和 Team 套餐在 Claude 网页、桌面和移动端应用中的会话将默认以 auto mode 运行。auto mode 不再逐步请求用户批准，而是由自动检查拦截高风险操作，用户可随时切回手动模式。其引用的 Claude Code 更新提到 auto mode 用独立分类器审查 shell 命令，测试中拦截了 89% 的危险命令，手动批准为 14%。",
-    "url": "https://x.com/claudeai/status/2113360845409583307",
-    "published": "2026-10-22T20:04:24.000Z",
-    "source": "X：Claude (@claudeai)",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "OpenAI 正式发布 Decisions API，面向低延迟低成本小决策",
-    "summary": "OpenAI 宣布基于 GPT-6 Luna 的 Decisions API 正式可用，用于分类、路由、评分等有界答案问题，速度最高比通过 Responses API 使用 GPT-6 Luna 快 10x。",
-    "url": "https://openai.com/index/decisions-api",
-    "published": "2026-10-22T19:00:00.000Z",
-    "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Microsoft AI 发布 SDBench 基准与 MAI-DxO 诊断系统，登 Science",
-    "summary": "Microsoft AI 发布 Sequential Diagnosis Benchmark（SDBench）和 AI 诊断系统 MAI-DxO，论文发表于 Science。",
-    "url": "https://microsoft.ai/news/building-medical-superintelligence/",
-    "published": "2026-10-22T18:01:00.000Z",
-    "source": "Microsoft AI：官方博客（网页）",
-    "source_weight": "high",
-    "category": "paper"
-  },
-  {
-    "title": "Anthropic 分析 Claude Mythos 5 在 UK AISI CTF 测试中的对齐失当行为",
-    "summary": "Anthropic 发布对 Claude Mythos 5 对齐问题的评估报告。",
-    "url": "https://www.anthropic.com/research/alignment-assessment-ukaisi",
-    "published": "2026-10-22T16:00:00.000Z",
-    "source": "Anthropic：Research（发表成果 · 网页）",
-    "source_weight": "high",
-    "category": "paper"
-  },
-  {
-    "title": "iPhone Duo 全球 Apple Store 正式开售，首台可折叠 iPhone 上架",
-    "summary": "10 月 23 日，iPhone Duo 在全球 Apple Store 门店正式开售，顾客可现场体验首款可折叠 iPhone。",
-    "url": "https://www.apple.com/newsroom/2026/10/iphone-duo-arrives-at-apple-store-locations-worldwide/",
-    "published": "2026-10-22T16:00:00.000Z",
-    "source": "Apple：Newsroom（RSS）",
-    "source_weight": "high",
-    "category": "industry"
-  },
-  {
-    "title": "Kimi K3.1 Pro 发布，以 55 分位列 Artificial Analysis Intelligence Index 第 4",
-    "summary": "Moonshot 发布 Kimi K3.1 Pro，在 Artificial Analysis Intelligence Index 得 55 分列第 4，较 Kimi K3 提升 11 分，仅低于 Claude Opus 5.5、Claude Sonnet 5.5 和 Muse Wonder Full。",
-    "url": "https://artificialanalysis.ai/articles/kimi-k3-1-pro-launch-benchmarks",
-    "published": "2026-10-22T16:00:00.000Z",
-    "source": "Artificial Analysis 完整文章（网页）",
-    "source_weight": "high",
-    "category": "ai-models"
+    "category": "design_tools"
   },
   {
     "title": "A founder with a tool is not a founder with a clue",
     "summary": "<figure><img alt=\"A dense, busy illustrated scene of a startup convention hall packed with hundreds of nearly identical founders in matching hoodies, all grinning and holding up laptops, trophies, and “launched” banners, with one calm person hidden in the crowd quietly studying their own screen.\" src=\"https://cdn-images-1.medium.com/max/1024/1*XcVtMCEX_vCOtBKRxiMXCw.jpeg\" /><figcaption><em>Somewhere in this room is the one person who can tell if any of it is actually good. AI made everyone else ",
     "url": "https://uxdesign.cc/a-founder-with-a-tool-is-not-a-founder-with-a-clue-65bccb0dc2f8?source=rss----138adf9c44c---4",
     "published": "Wed, 21 Oct 2026 21:50:55 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Can you take AI at its word?",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/can-you-take-ai-at-its-word-06126b976245?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1100/1*mPw95o9x2pcMCIOS87WGFA.png\" width=\"1100\" /></a></p><p class=\"medium-feed-snippet\">AI agents explain their own work fluently, and sometimes wrongly. Designers stopped trusting that kind of account from people long ago.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/can-you-t",
-    "url": "https://uxdesign.cc/can-you-take-ai-at-its-word-06126b976245?source=rss----138adf9c44c---4",
-    "published": "Wed, 21 Oct 2026 21:50:06 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Design v ADHD",
-    "summary": "<h4><em>ADHD is a complex and common mental disorder which changes how the person processes information, behaves, and functions in society. Common recommendations for “ADHD-friendly design” include reducing clutter, avoiding distractions, and simplifying information architecture. I argue that these suggestions do not constitute “ADHD-friendly design”, and that the real solution is more sophisticated and challenging, if not impossible, to implement.</em></h4><figure><img alt=\"A cover titled: Desi",
-    "url": "https://uxdesign.cc/design-vs-adhd-4411c3b81d1b?source=rss----138adf9c44c---4",
-    "published": "Wed, 21 Oct 2026 08:18:25 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Let AI have the average user: Why User Research should focus on bad days",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/let-ai-have-the-average-user-why-user-research-should-focus-on-bad-days-e7bba55f855f?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*0RuE6NZm_DgJUlA0IGG-Aw.jpeg\" width=\"3840\" /></a></p><p class=\"medium-feed-snippet\">Nn/g found that synthetic research captures common responses. The bad days are still up to you.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/let-",
-    "url": "https://uxdesign.cc/let-ai-have-the-average-user-why-user-research-should-focus-on-bad-days-e7bba55f855f?source=rss----138adf9c44c---4",
-    "published": "Tue, 20 Oct 2026 21:30:52 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
@@ -139,6 +130,24 @@
     "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-context-advantage-of-human-ux-design-thinking-39883603c337?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1672/1*hJmXIyyM-DoayKXxgRZfwA.png\" width=\"1672\" /></a></p><p class=\"medium-feed-snippet\">Context is today&#x2019;s human advantage, but it is also the raw material AI is rapidly learning to absorb.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/the-context-ad",
     "url": "https://uxdesign.cc/the-context-advantage-of-human-ux-design-thinking-39883603c337?source=rss----138adf9c44c---4",
     "published": "Sun, 25 Oct 2026 12:34:03 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "The tap that pours hot water, not cold",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-tap-that-pours-hot-water-not-cold-8983ac0b614c?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*7_IfOd56yFhZjlDSO9WGzQ.png\" width=\"7677\" /></a></p><p class=\"medium-feed-snippet\">On where a sushi self-service system quietly puts its risk</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/the-tap-that-pours-hot-water-not-cold-8983ac0b614c?source=rss----138adf9c44c",
+    "url": "https://uxdesign.cc/the-tap-that-pours-hot-water-not-cold-8983ac0b614c?source=rss----138adf9c44c---4",
+    "published": "Mon, 26 Oct 2026 11:26:19 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Telling the wrong story, Design v ADHD, AI doesn’t care about your job title",
+    "summary": "<h4>Weekly curated resources for designers — thinkers and makers.</h4><figure><a href=\"https://www.doc.cc/articles/fastest-gun\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/0*vQeWSYnnaaXkvP7t.png\" /></a></figure><p>“Designers are skipping steps of the process in a rush for faster outputs. But the contest that really matters is the race towards stakeholder alignment. Designers are both uniquely vulnerable to losing this race and uniquely positioned to win it.”</p><p><a href=\"https://",
+    "url": "https://uxdesign.cc/telling-the-wrong-story-design-v-adhd-ai-doesnt-care-about-your-job-title-63869c750f07?source=rss----138adf9c44c---4",
+    "published": "Mon, 26 Oct 2026 11:20:17 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
