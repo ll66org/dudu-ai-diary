@@ -1,14 +1,14 @@
 {
-  "fetched_at": "2026-10-26T17:34:47.833196Z",
-  "total_candidates": 20,
+  "fetched_at": "2026-10-27T16:49:15.973070Z",
+  "total_candidates": 25,
   "source_stats": {
     "Figma Blog": {
       "found": 0,
       "total": 0
     },
     "Vercel Blog (v0)": {
-      "found": 2,
-      "total": 1707
+      "found": 1,
+      "total": 1713
     },
     "Cursor Changelog": {
       "found": 0,
@@ -24,14 +24,14 @@
     },
     "Lovable Blog": {
       "found": 0,
-      "total": 171
+      "total": 172
     },
     "Bolt (StackBlitz) Blog": {
       "found": 0,
       "total": 66
     },
     "Smashing Magazine": {
-      "found": 2,
+      "found": 1,
       "total": 40
     },
     "UX Collective": {
@@ -51,7 +51,7 @@
       "total": 20
     },
     "Hacker News (设计向)": {
-      "found": 3,
+      "found": 5,
       "total": 20
     },
     "Product Hunt": {
@@ -64,27 +64,27 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 186,
-  "today_date": "2026-10-26",
+  "dudu_day": 187,
+  "today_date": "2026-10-27",
   "used_titles": [
-    "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
     "Numan 如何用 LangGraph 和 LangSmith 构建评测优先的 AI 健康教练 Nu",
     "fal 联合 bfl_ai 发布后训练视频模型 FLUX 3 Max",
     "SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源",
     "MiniMax Code 桌面端推出 Mini App 长运行应用功能",
     "Kimi 发布开源旗舰模型 K3.1 Pro：2.8T 参数、100万 Token 上下文，实测 3D 与视频动效",
-    "Kimi 发布开源旗舰模型 K3.1 Pro：2.8T 参数、100万 Token 上下文，实测 3D 与视频动效"
+    "Kimi 发布开源旗舰模型 K3.1 Pro：2.8T 参数、100万 Token 上下文，实测 3D 与视频动效",
+    "卡兹克手把手演示用 Codex 和 Claude 逆向改造现实硬件设备"
   ],
   "used_tools": [
-    "X：邵猛 (@shao__meng)",
     "LangChain：Blog（RSS）",
     "X：fal (@fal)",
     "X：Rohan Paul (@rohanpaul_ai)",
     "MiniMax：Blog（网页）",
     "公众号：数字生命卡兹克",
-    "公众号：数字生命卡兹克"
+    "公众号：数字生命卡兹克",
+    "X：卡兹克 (@Khazix0918)"
   ],
-  "briefing_total": 18,
-  "briefing_design": 6,
+  "briefing_total": 34,
+  "briefing_design": 12,
   "briefing_count": 5
 }

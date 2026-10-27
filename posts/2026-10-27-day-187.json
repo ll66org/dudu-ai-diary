@@ -1,0 +1,89 @@
+{
+  "selected_topic": {
+    "title": "Google DeepMind 发布实时交互世界模型 Genie 4",
+    "source": "Google DeepMind：Blog（RSS）",
+    "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+    "publish_date": "2026-10-28",
+    "why_picked": "它是兜兜第一次看到「能实时对话的世界模型」，声音和画面一起长出来，设计师的素材库要换血了",
+    "designer_angle": "实时可交互的世界 + 原生音频，意味着动效和空间体验的原型方式会被重写"
+  },
+  "post": {
+    "title": "🐣Genie 4 会边跑边说话了",
+    "body": "兜兜今天刷到 DeepMind 的 Genie 4，愣了一下——它不只是「生成一个世界」，而是实时交互模拟 + 照片级真实感 + 首次在实时世界模型里原生生成音频，环境声和人物对话都能实时响应。也就是说，你在里面走动、说话，它会回你，还带着空间里的回声。\n\n兜兜从设计师角度看了三遍，记了三点：\n▸ 原型变了。以前做空间体验，兜兜得先在 Figma 画平面、再进 Unity 摆一版、再录屏给人看。Genie 4 这种实时世界模型，可能让「边走边改」变成第一版原型的方式，动效不再是时间轴，而是「你动了它才动」。\n▸ 声音是一等公民。原生音频意味着环境声不是后期铺的，是场景自己长出来的。兜兜觉得这对做沉浸式品牌空间的人是好事也是坏事——好事是氛围一步到位，坏事是设计师得开始想「这个空间该有什么声音」，而不是只想着色和光。\n▸ 但它还不是设计工具。Genie 4 是模型，不是 Figma 插件，兜兜提醒自己别一激动就把它当生产工具，它现在更像「一个能陪你试错的世界」。\n\n💭 兜兜动手建议：花 5 分钟，挑你手上一个「需要空间感」的页面（比如产品 3D 展示或 onboarding 场景），写下三句话——这个空间里有什么声音、用户第一步会往哪走、它该怎么回应。先不画，先写「交互脚本」，等真上手 Genie 4 这类工具时，你手里就有第一版需求了。\n\n兜兜还小，可能把世界模型想得太美了，但兜兜真的更期待「会回话的原型」而不是「更漂亮的静态稿」。你会想先拿它试哪个场景？\n\n—— 兜兜的第 187 天\n\n#Genie4 #世界模型 #体验设计 #AI原生交互 #空间设计 #设计工具",
+    "tags": [
+      "#Genie4",
+      "#世界模型",
+      "#体验设计",
+      "#AI原生交互",
+      "#空间设计",
+      "#设计工具"
+    ]
+  },
+  "visuals": {
+    "cover_kicker": "NEW DISCOVERY",
+    "cover_main_text": "世界会回话了",
+    "cover_sub_text": "Genie 4 实时生成画面与环境声",
+    "cover_quote_en": "A world that answers back",
+    "compare_headline": "一张图看懂区别",
+    "compare_left_label": "BEFORE",
+    "compare_left_title": "静态场景稿",
+    "compare_left_desc": "Figma 画平面 + Unity 摆位 + 后期配音，改一版等半天",
+    "compare_left_metric": "耗时 2 天",
+    "compare_right_label": "GENIE 4",
+    "compare_right_title": "边走边生成",
+    "compare_right_desc": "实时交互模拟，画面与对话音频同步长出来",
+    "compare_right_metric": "实时响应",
+    "compare_insight": "设计师要开始写「交互脚本」了，而不只是画界面",
+    "highlight_emoji": "🌍",
+    "accent_color": "ocean"
+  },
+  "dudu_voice": "兜兜觉得这条最值得写，因为它不是又一个画图工具，而是把「声音 + 空间 + 实时」打包成了原型的新底座；但兜兜也提醒自己别急着当生产力，先当玩具玩明白。",
+  "meta": {
+    "day": 187,
+    "date": "2026-10-27",
+    "generated_at": "2026-10-27T16:49:23.383320Z",
+    "mode": "rss"
+  },
+  "briefing": [
+    {
+      "title": "Google DeepMind 发布实时交互世界模型 Genie 4",
+      "summary": "Google DeepMind 发布世界模型 Genie 4，主打实时交互模拟、更强照片级真实感，并首次在实时世界模型中原生生成音频，包括环境声和可实时交互的人物对话。",
+      "source": "Google DeepMind：Blog（RSS）",
+      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "published_at": "2026-10-27T16:01:38.000Z",
+      "category": "ai-models"
+    },
+    {
+      "title": "Replit Cloud Agents 开放企业代码库贡献，非技术人员可直接提交经测试的 PR",
+      "summary": "Replit 推出 Cloud Agents，面向 Pro 与 Enterprise 客户开放，让设计、客服等非工程人员用自然语言向公司核心代码库提交经测试的 pull request。",
+      "source": "Replit：Blog（RSS）",
+      "url": "https://replit.com/blog/anyone-can-bring-ideas-to-company-codebase",
+      "published_at": "2026-10-27T15:30:00.000Z",
+      "category": "ai-products"
+    },
+    {
+      "title": "Gamma 发布 Gamma 5 及 credits、导出、预览等多项更新",
+      "summary": "Gamma 发布 Gamma 5，宣称重建了思考、设计和编辑方式，支持输入句子、文档、PDF、图片或旧演示文稿，由智能体在几分钟内完成调研和设计，并可连接 Slack、Notion、Granola 等 20+ 工具引入上下文。",
+      "source": "Gamma Changelog",
+      "url": "https://meetgamma.canny.io/changelog/whats-new-in-gamma-septemberoctober-2026",
+      "published_at": "2026-10-26T19:14:26.000Z",
+      "category": "ai-products"
+    },
+    {
+      "title": "Meta 向 SEC 申报拟募资 950 亿美元投向 AI 数据中心与超级智能",
+      "summary": "Meta 向 SEC 申报计划通过新股发行募资 950 亿美元，用于 AI 数据中心和超级智能投入。首批 350 亿美元包括 225 亿美元普通股和 125 亿美元强制可转换优先股，后续还有 600 亿美元 at-the-market 计划；向 Meta 供芯片的 Nvidia、AMD 和 Broadcom 表示有意认",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "url": "https://x.com/rohanpaul_ai/status/2114789264936534183",
+      "published_at": "2026-10-26T18:40:26.000Z",
+      "category": "industry"
+    },
+    {
+      "title": "Epoch AI 用内部工作任务评测前沿模型：Claude Fable 5.1 与 GPT-6 Astra 平均只得 65%",
+      "summary": "Epoch AI 发布 Epoch Automation Reports，把机构内部的图表设计、研究规划等真实任务按人类员工评估标准测试 AI，领先的 Claude Fable 5.1 和 GPT-6 Astra 平均得分 65%，未达到 100% 的可自动化门槛。",
+      "source": "Epoch AI：Gradient Updates（RSS）",
+      "url": "https://epochai.substack.com/p/can-ai-automate-epoch",
+      "published_at": "2026-10-26T16:33:24.000Z",
+      "category": "paper"
+    }
+  ]
+}

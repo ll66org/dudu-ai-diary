@@ -1,39 +1,111 @@
 [
   {
-    "title": "Thyonix – Find Local Businesses Without Websites and Build AI-Powered Demos",
-    "summary": "<p>Article URL: <a href=\"https://www.thyonix.com\">https://www.thyonix.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50247411\">https://news.ycombinator.com/item?id=50247411</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
-    "url": "https://www.thyonix.com",
-    "published": "Mon, 26 Oct 2026 17:20:46 +0000",
+    "title": "Show HN: Crulon – Business phone where AI does the work, humans make the calls",
+    "summary": "<p>Hi HN, I’m Rayhan. Crulon is a business phone system where an AI agent answers the line and your team works alongside it. You can talk with our demo agent right in your browser, no sign-up: <a href=\"https://crulon.ai/#talk\" rel=\"nofollow\">https://crulon.ai/#talk</a><p>Why I built it: I’ve spent eight years as a software and network engineer, mostly building tools for internet providers, and kept watching small support teams lose customers in the seams. Calls missed after hours. Calls passed f",
+    "url": "https://crulon.ai/#talk",
+    "published": "Tue, 27 Oct 2026 16:10:26 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Microsoft HAX Toolkit: Guidelines and Tools for Human-AI Interaction",
-    "summary": "<p>Article URL: <a href=\"https://www.microsoft.com/en-us/haxtoolkit/\">https://www.microsoft.com/en-us/haxtoolkit/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50247285\">https://news.ycombinator.com/item?id=50247285</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://www.microsoft.com/en-us/haxtoolkit/",
-    "published": "Mon, 26 Oct 2026 17:12:29 +0000",
+    "title": "Show HN: Weir - Catch credential leaks in the AI agents you build and use",
+    "summary": "<p>Hi HN. Weir is for one problem: credentials crossing the boundaries of your AI agent.<p>For agents you build, Weir plants fake credentials where real ones would live, runs the agent's normal flows, and checks what comes out: telemetry, logs, console output, model requests, and requests to other services. It looks for those exact values, including common encoded forms, and reports where they went without printing the credential.<p>pip install weir-scan\nweir canary judge --sample<p>That sample ",
+    "url": "https://github.com/IdoGol24/weir",
+    "published": "Tue, 27 Oct 2026 16:07:29 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "AI Changed the Build vs. Buy Equation in SaaS",
-    "summary": "<p>Article URL: <a href=\"https://blog.emailengine.app/how-ai-changed-the-build-vs-buy-equation-in-saas/\">https://blog.emailengine.app/how-ai-changed-the-build-vs-buy-equation-in-saas/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50246230\">https://news.ycombinator.com/item?id=50246230</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://blog.emailengine.app/how-ai-changed-the-build-vs-buy-equation-in-saas/",
-    "published": "Mon, 26 Oct 2026 16:12:05 +0000",
+    "title": "Show HN: Snippet – An Always-On AI Agent",
+    "summary": "<p>Hi HN, I built an always on always listening AI Agent, here's some backstory:<p>I've always struggled with the attention problem while developing. Even with agents, I can work fast, but I don't know if I can keep working for long, or if I can come back to a problem once I get distracted. So a little while ago I built Snippet for myself.<p>It's an always-on, code-first agent based on my own struggles with writing code. It tracks, it remembers, it speaks and it listens. Always on, unless my bat",
+    "url": "https://snippet.wacht.dev/",
+    "published": "Tue, 27 Oct 2026 15:59:59 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "卡兹克手把手演示用 Codex 和 Claude 逆向改造现实硬件设备",
-    "summary": "数字生命卡兹克分享用 AI 逆向改造现实设备的实操教程，以公司 4 台会议室电视为例，通过 Codex 开启 ADB 调试连接电视，清理开机广告、重做简洁桌面和粒子动态屏保，并复刻到其余 3 台。",
-    "url": "https://x.com/Khazix0918/status/2114579883527655853",
-    "published": "2026-10-26T04:48:25.000Z",
-    "source": "X：卡兹克 (@Khazix0918)",
+    "title": "The Duality of the AI Build-Out",
+    "summary": "<p>Article URL: <a href=\"https://revise.io/blog/10-27-2026/the-duality-of-the-ai-build-out\">https://revise.io/blog/10-27-2026/the-duality-of-the-ai-build-out</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50261132\">https://news.ycombinator.com/item?id=50261132</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://revise.io/blog/10-27-2026/the-duality-of-the-ai-build-out",
+    "published": "Tue, 27 Oct 2026 15:51:48 +0000",
+    "source": "Hacker News (设计向)",
     "source_weight": "high",
-    "category": "tip"
+    "category": "ai_tech"
+  },
+  {
+    "title": "Can You Make a 3D Game with AI, If You Don't Know How to Do Anything?",
+    "summary": "<p>Article URL: <a href=\"https://buildtounderstand.substack.com/p/can-you-make-a-3d-game-if-you-dont\">https://buildtounderstand.substack.com/p/can-you-make-a-3d-game-if-you-dont</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50261110\">https://news.ycombinator.com/item?id=50261110</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+    "url": "https://buildtounderstand.substack.com/p/can-you-make-a-3d-game-if-you-dont",
+    "published": "Tue, 27 Oct 2026 15:50:22 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Google DeepMind 发布实时交互世界模型 Genie 4",
+    "summary": "Google DeepMind 发布世界模型 Genie 4，主打实时交互模拟、更强照片级真实感，并首次在实时世界模型中原生生成音频，包括环境声和可实时交互的人物对话。",
+    "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+    "published": "2026-10-27T16:01:38.000Z",
+    "source": "Google DeepMind：Blog（RSS）",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "Replit Cloud Agents 开放企业代码库贡献，非技术人员可直接提交经测试的 PR",
+    "summary": "Replit 推出 Cloud Agents，面向 Pro 与 Enterprise 客户开放，让设计、客服等非工程人员用自然语言向公司核心代码库提交经测试的 pull request。",
+    "url": "https://replit.com/blog/anyone-can-bring-ideas-to-company-codebase",
+    "published": "2026-10-27T15:30:00.000Z",
+    "source": "Replit：Blog（RSS）",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "Gamma 发布 Gamma 5 及 credits、导出、预览等多项更新",
+    "summary": "Gamma 发布 Gamma 5，宣称重建了思考、设计和编辑方式，支持输入句子、文档、PDF、图片或旧演示文稿，由智能体在几分钟内完成调研和设计，并可连接 Slack、Notion、Granola 等 20+ 工具引入上下文。",
+    "url": "https://meetgamma.canny.io/changelog/whats-new-in-gamma-septemberoctober-2026",
+    "published": "2026-10-26T19:14:26.000Z",
+    "source": "Gamma Changelog",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "Meta 向 SEC 申报拟募资 950 亿美元投向 AI 数据中心与超级智能",
+    "summary": "Meta 向 SEC 申报计划通过新股发行募资 950 亿美元，用于 AI 数据中心和超级智能投入。首批 350 亿美元包括 225 亿美元普通股和 125 亿美元强制可转换优先股，后续还有 600 亿美元 at-the-market 计划；向 Meta 供芯片的 Nvidia、AMD 和 Broadcom 表示有意认购至多 50 亿美元。",
+    "url": "https://x.com/rohanpaul_ai/status/2114789264936534183",
+    "published": "2026-10-26T18:40:26.000Z",
+    "source": "X：Rohan Paul (@rohanpaul_ai)",
+    "source_weight": "high",
+    "category": "industry"
+  },
+  {
+    "title": "Epoch AI 用内部工作任务评测前沿模型：Claude Fable 5.1 与 GPT-6 Astra 平均只得 65%",
+    "summary": "Epoch AI 发布 Epoch Automation Reports，把机构内部的图表设计、研究规划等真实任务按人类员工评估标准测试 AI，领先的 Claude Fable 5.1 和 GPT-6 Astra 平均得分 65%，未达到 100% 的可自动化门槛。",
+    "url": "https://epochai.substack.com/p/can-ai-automate-epoch",
+    "published": "2026-10-26T16:33:24.000Z",
+    "source": "Epoch AI：Gradient Updates（RSS）",
+    "source_weight": "high",
+    "category": "paper"
+  },
+  {
+    "title": "Apple Creator Studio 推出更新：Final Cut Pro 集成 MotionVFX，Keynote、Pages、Numbers 新增智能助手与 MCP 支持",
+    "summary": "Apple 为 Creator Studio 推出更新，Final Cut Pro for Mac 内置 MotionVFX 视觉效果库并接入含视频素材的 Content Hub。",
+    "url": "https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/",
+    "published": "2026-10-26T16:00:00.000Z",
+    "source": "Apple：Newsroom（RSS）",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "PulseDev",
+    "summary": "<p>\n            Click any UI bug on localhost and your AI agent fixes it\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/pulsedev?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1293889?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/pulsedev",
+    "published": "2026-10-26T15:47:46-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
   },
   {
     "title": "Kling 4.0 上线 Runware API，支持 30 秒 1080p 原生音频视频",
@@ -45,6 +117,24 @@
     "category": "ai-products"
   },
   {
+    "title": "OpenAI 发布 GPT-6.1 Terra，主打高效计算机操作与更低成本",
+    "summary": "OpenAI 发布 GPT-6.1 Terra，定位快速高效的计算机使用与视觉推理模型，标准 API 定价比 GPT-5.6 Terra 和 GPT-6.1 Sol 低 50%，为每百万输入 token $1、缓存输入 $0.05、输出 $5。",
+    "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
+    "published": "2026-10-26T00:00:00.000Z",
+    "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "OpenAI 宣布模型产出三项数学成果并与学界协作发布",
+    "summary": "OpenAI 宣布其模型在调和分析、复杂度理论和量子场论方面取得三项成果，包括证明各维度的 local smoothing 猜想（进而解决 Kakeya 猜想与 Stein 限制猜想）、在 Lean 中验证 ETH 为假、以及给出 QCD 与纯 Yang–Mills 理论的严格存在性证明。",
+    "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+    "published": "2026-10-26T00:00:00.000Z",
+    "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+    "source_weight": "high",
+    "category": "paper"
+  },
+  {
     "title": "AISI 发布 ReproBAIT 评测：AI 编码智能体可低成本复现部分生物 AI 工具",
     "summary": "英国 AI Security Institute 与 SecureBio 合作推出 ReproBAIT 评测，测试 AI 编码智能体能否依据论文等公开信息和训练数据复现生物 AI 工具（BAITs）。",
     "url": "https://www.aisi.gov.uk/blog/can-ai-coding-agents-rebuild-biological-ai-tools-from-a-paper",
@@ -52,15 +142,6 @@
     "source": "英国 AI Security Institute：Blog（网页）",
     "source_weight": "high",
     "category": "paper"
-  },
-  {
-    "title": "desigma",
-    "summary": "<p>\n            Free Figma alternative made on Rust\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/desigma?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1292572?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/desigma",
-    "published": "2026-10-25T12:20:38-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
   },
   {
     "title": "让编程智能体使用已登录 Chrome 的六种方案实操指南",
@@ -72,15 +153,6 @@
     "category": "tip"
   },
   {
-    "title": "月之暗面 Kimi K3.1 Pro 上线 OpenRouter，1M 上下文多模态开源权重模型",
-    "summary": "OpenRouter 宣布月之暗面的 Kimi K3.1 Pro 上线，定位为基于 Kimi K3 后训练、面向长程编码和智能体任务的 1M 上下文多模态开源权重模型。定价为 $2/M input tokens、$10/M output tokens，可在 OpenRouter 直接试用。",
-    "url": "https://x.com/OpenRouter/status/2113699820124934334",
-    "published": "2026-10-23T18:31:22.000Z",
-    "source": "X：OpenRouter (@OpenRouter)",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
     "title": "Run Scale AI’s AgentEnv evals on Vercel Sandbox",
     "summary": "<p><a href=\"https://github.com/scaleapi/agentenv-framework\">AgentEnv</a>, Scale AI's framework for testing agents against tasks and scoring their results, now runs on <a href=\"https://vercel.com/docs/sandbox\">Vercel Sandbox</a>. The Vercel provider ships in AgentEnv 0.9.1334 and later, and runs the agent and its task environment in separate Sandboxes.</p><p>Try the <a href=\"https://github.com/vercel-labs/agentenv-framework/tree/vercel-demo\">AgentEnv example</a> to run an evaluation on Vercel San",
     "url": "https://vercel.com/changelog/run-scale-ais-agentenv-evals-on-vercel-sandbox",
@@ -90,37 +162,19 @@
     "category": "design_tools"
   },
   {
-    "title": "Faster pnpm installs",
-    "summary": "<p>pnpm installs on Vercel are now faster, reducing the time spent installing dependencies before your build.</p><p>For Pro deployments with restored build cache, we observed 14% lower average install times with the optimization enabled.</p><p>Vercel now reuses successful dependency verification across deployments. In the best case, when dependencies are unchanged and the previous verification can be reused, installs can complete in milliseconds.</p><p>Before:</p><p><span>type: embedded-entry-in",
-    "url": "https://vercel.com/changelog/faster-pnpm-installs",
-    "published": "",
-    "source": "Vercel Blog (v0)",
-    "source_weight": "high",
-    "category": "design_tools"
-  },
-  {
-    "title": "A founder with a tool is not a founder with a clue",
-    "summary": "<figure><img alt=\"A dense, busy illustrated scene of a startup convention hall packed with hundreds of nearly identical founders in matching hoodies, all grinning and holding up laptops, trophies, and “launched” banners, with one calm person hidden in the crowd quietly studying their own screen.\" src=\"https://cdn-images-1.medium.com/max/1024/1*XcVtMCEX_vCOtBKRxiMXCw.jpeg\" /><figcaption><em>Somewhere in this room is the one person who can tell if any of it is actually good. AI made everyone else ",
-    "url": "https://uxdesign.cc/a-founder-with-a-tool-is-not-a-founder-with-a-clue-65bccb0dc2f8?source=rss----138adf9c44c---4",
-    "published": "Wed, 21 Oct 2026 21:50:55 GMT",
+    "title": "The time AI saves designers usually disappears. Here’s how to keep it.",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-time-ai-saves-designers-usually-disappears-heres-how-to-keep-it-61eb38e1ed69?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*dZrEcUcZH_5ulg0g4yd0zQ.jpeg\" width=\"4252\" /></a></p><p class=\"medium-feed-snippet\">What a survey of 521 UX professionals found about AI in UX</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/the-time-ai-saves-designers-usually-disappear",
+    "url": "https://uxdesign.cc/the-time-ai-saves-designers-usually-disappears-heres-how-to-keep-it-61eb38e1ed69?source=rss----138adf9c44c---4",
+    "published": "Tue, 27 Oct 2026 11:13:45 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
   },
   {
-    "title": "Embracing Playful Imperfection With The CSS `random()` Function",
-    "summary": "Design systems thrive on consistency, so where does randomness fit in? Through playful demos of organic typography, bouncing letters, and splayed cards, Brecht De Ruyte shows how the new CSS `random()` function brings a little imperfection to the web without JavaScript libraries or preprocessor loops that generate hundreds of lines of static CSS.",
-    "url": "https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/",
-    "published": "Tue, 20 Oct 2026 10:00:00 GMT",
-    "source": "Smashing Magazine",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Buy vs. build is now also a UX decision, especially in enterprise",
-    "summary": "<figure><img alt=\"A product team weighs a purchased tool against an internal build at the same table.\" src=\"https://cdn-images-1.medium.com/max/1024/1*nj8TtjChBWaVUnj1eBPjYQ.png\" /><figcaption>A product team weighs a purchased tool against an internal build at the same table.</figcaption></figure><h4><strong>Artificial intelligence made building cheap and buying easy. The trade-off now turns on who owns the upkeep, the seams between tools, the chat surfaces, and the data.</strong></h4><p>For mos",
-    "url": "https://uxdesign.cc/buy-versus-build-is-now-also-a-ux-decision-especially-in-enterprise-6b4345715c63?source=rss----138adf9c44c---4",
-    "published": "Thu, 22 Oct 2026 21:55:36 GMT",
+    "title": "Going nowhere fast",
+    "summary": "<h4>When speed disguises itself as progress.</h4><figure><img alt=\"White sports car, trailing speed lines and dust, has raced up to a red traffic light.\" src=\"https://cdn-images-1.medium.com/max/1024/1*IwXAfMroOpeuRe7S5QtCxQ.png\" /><figcaption>One driver worked hard to get to a stoplight. (Rounded Bevel Icons)</figcaption></figure><p><strong>I distinctly remember my father driving the speed limit down a two-way street in the Bronx when a car swung out from behind us and cut into our lane with a ",
+    "url": "https://uxdesign.cc/going-nowhere-fast-7436dd29c54f?source=rss----138adf9c44c---4",
+    "published": "Tue, 27 Oct 2026 11:13:03 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
@@ -130,6 +184,24 @@
     "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-context-advantage-of-human-ux-design-thinking-39883603c337?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1672/1*hJmXIyyM-DoayKXxgRZfwA.png\" width=\"1672\" /></a></p><p class=\"medium-feed-snippet\">Context is today&#x2019;s human advantage, but it is also the raw material AI is rapidly learning to absorb.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/the-context-ad",
     "url": "https://uxdesign.cc/the-context-advantage-of-human-ux-design-thinking-39883603c337?source=rss----138adf9c44c---4",
     "published": "Sun, 25 Oct 2026 12:34:03 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Building an AI-ready design system library: Code → Figma with MCP.",
+    "summary": "<h4>In-System Design</h4><h4>A practical guide for designers: why my design system starts in code, and how I build, check and maintain the Figma library.</h4><figure><img alt=\"cover\" src=\"https://cdn-images-1.medium.com/max/1024/0*z97zDowA9lacbpjQ.jpeg\" /></figure><p><strong><em>In-System Design: a three-part series.<br />Part 1: Building an AI-ready design system: Code → Figma</em></strong><em> (you are here)<br />Part 2: AI prototyping inside your design system (3 November 2026)<br />Part 3: F",
+    "url": "https://uxdesign.cc/building-an-ai-ready-design-system-library-code-figma-with-mcp-ec5d9e8c90d2?source=rss----138adf9c44c---4",
+    "published": "Mon, 26 Oct 2026 21:33:16 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Does Apple’s HomeView reduce effort, or ask for our attention?",
+    "summary": "<h4><strong>Truly useful domestic technology fades into the background. Too many smart home screens demand centre stage.</strong></h4><figure><img alt=\"Apple HomeView\" src=\"https://cdn-images-1.medium.com/max/1024/1*HqM6Z9MMwRlQ4ebnhQ-scw.png\" /><figcaption>The Apple HomeView, image credit: Apple.</figcaption></figure><p>Apple’s latest foray into the home automation market is the <a href=\"https://www.apple.com/apple-homeview/\">HomeView</a>, a 7 inch touch screen with integrated speaker designed ",
+    "url": "https://uxdesign.cc/does-apples-homeview-reduce-effort-or-ask-for-our-attention-ad7e892d17e2?source=rss----138adf9c44c---4",
+    "published": "Mon, 26 Oct 2026 21:32:18 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
@@ -148,33 +220,6 @@
     "summary": "<h4>Weekly curated resources for designers — thinkers and makers.</h4><figure><a href=\"https://www.doc.cc/articles/fastest-gun\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/0*vQeWSYnnaaXkvP7t.png\" /></a></figure><p>“Designers are skipping steps of the process in a rush for faster outputs. But the contest that really matters is the race towards stakeholder alignment. Designers are both uniquely vulnerable to losing this race and uniquely positioned to win it.”</p><p><a href=\"https://",
     "url": "https://uxdesign.cc/telling-the-wrong-story-design-v-adhd-ai-doesnt-care-about-your-job-title-63869c750f07?source=rss----138adf9c44c---4",
     "published": "Mon, 26 Oct 2026 11:20:17 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Accordion Icons: Which Work Best?",
-    "summary": "A closer look at accordion icons, why split menus are harmful, and why it’s better not to have icons and text labels link to different actions. Plus, why the caret is the safest icon choice. You’ll find more [useful guides](https://www.smashingmagazine.com/category/guides/) and [online workshops](https://smashingconf.com/online-workshops) here on Smashing Magazine, so make sure to browse and explore.",
-    "url": "https://smashingmagazine.com/2026/10/accordion-icons-which-work-best/",
-    "published": "Fri, 23 Oct 2026 13:00:00 GMT",
-    "source": "Smashing Magazine",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Entering Atomic Design from the screen",
-    "summary": "<h4>You don’t always have to build from atoms. Sometimes, you need to discover them.</h4><figure><img alt=\"Entering Atomic Design from the Screen\" src=\"https://cdn-images-1.medium.com/max/1024/1*VzTw6df1odp5SeGo_Hmchw.png\" /></figure><p><a href=\"https://atomicdesign.bradfrost.com/\"><strong>Atomic Design</strong></a> is one of the core mental models of modern design systems. It gives us a common language for describing the interface as a hierarchy: atoms, molecules, organisms, templates, and page",
-    "url": "https://uxdesign.cc/entering-atomic-design-from-the-screen-bae744ecc288?source=rss----138adf9c44c---4",
-    "published": "Fri, 23 Oct 2026 11:16:30 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Supersonic dreams: how post-war France invented the future, and then stopped",
-    "summary": "<h4>Concorde, nuclear power and Minitel took three different paths. What can they tell us about Europe’s next technological bets?</h4><figure><img alt=\"Landscape illustration in a vintage French poster style: Concorde flies above a nuclear power station, with a golden ribbon leading to a Minitel terminal.\" src=\"https://cdn-images-1.medium.com/max/1024/1*mgcWfk9HECAUO3cwP0aRYw.png\" /><figcaption>Concorde, nuclear power and Minitel. AI-generated Illustration</figcaption></figure><p>I’ve spent the ",
-    "url": "https://uxdesign.cc/supersonic-dreams-how-post-war-france-invented-the-future-and-then-stopped-fe2cb26dc7cc?source=rss----138adf9c44c---4",
-    "published": "Fri, 23 Oct 2026 11:15:20 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"

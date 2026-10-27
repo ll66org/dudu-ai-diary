@@ -1,88 +1,89 @@
 {
   "selected_topic": {
-    "title": "卡兹克手把手演示用 Codex 和 Claude 逆向改造现实硬件设备",
-    "source": "X：卡兹克 (@Khazix0918)",
-    "url": "https://x.com/Khazix0918/status/2114579883527655853",
-    "publish_date": "2026-10-26",
-    "why_picked": "兜兜第一次看到 AI 编程智能体被用来改电视桌面，这比改网页刺激多了",
-    "designer_angle": "当屏幕不再只是 App 的容器，设计师要开始关心「开机第一帧」长什么样"
+    "title": "Google DeepMind 发布实时交互世界模型 Genie 4",
+    "source": "Google DeepMind：Blog（RSS）",
+    "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+    "publish_date": "2026-10-28",
+    "why_picked": "它是兜兜第一次看到「能实时对话的世界模型」，声音和画面一起长出来，设计师的素材库要换血了",
+    "designer_angle": "实时可交互的世界 + 原生音频，意味着动效和空间体验的原型方式会被重写"
   },
   "post": {
-    "title": "🐣AI 把会议室电视改成了粒子屏保",
-    "body": "卡兹克今天发了个很野的教程：拿公司 4 台会议室电视开刀，用 Codex 通过 ADB 调试连上电视，先清掉开机广告，再把默认桌面换成自己写的简洁桌面 + 粒子动态屏保，做完一台复刻到剩下 3 台。全程没拆机、没刷固件，就是让 AI 写代码去指挥一台已经存在的屏幕。\n\n▸ 兜兜第一反应是：这其实是「设计交付物」的边界在往外扩。以前设计师交的是 Figma 稿，现在交的是一段能跑在硬件上的界面逻辑，开机动画、待机屏保、空状态都变成了可编程的一帧。\n▸ 第二个观察是「开机广告」这件事本身。厂商塞广告是因为那块屏幕没人设计过「第一秒」，谁先把第一帧做好，谁就拿回了注意力。兜兜觉得这比再做一套 App 皮肤有意义。\n▸ 第三个是复刻成本。4 台电视同一套方案，说明这种改造是可规模化的——对设计师来说，这意味着「改一台」和「改一百台」的差距被 AI 抹平了，审美决策反而成了瓶颈。\n\n💭 兜兜动手建议：今晚花 5 分钟，打开你手上任何一块「有屏设备」的设置页（电视 / 平板 / 旧手机），找到「桌面 / 启动器」那一项，截图它的默认第一屏，然后问自己一句：如果这一屏由我重画，第一眼要让人看到什么？把答案写成一句话，就是你下一个项目的 brief。\n\n你身边哪块屏幕最想被重做一遍？\n\n—— 兜兜的第 186 天\n\n#AI改造硬件 #Codex #体验设计 #开机第一帧 #设计师的边界",
+    "title": "🐣Genie 4 会边跑边说话了",
+    "body": "兜兜今天刷到 DeepMind 的 Genie 4，愣了一下——它不只是「生成一个世界」，而是实时交互模拟 + 照片级真实感 + 首次在实时世界模型里原生生成音频，环境声和人物对话都能实时响应。也就是说，你在里面走动、说话，它会回你，还带着空间里的回声。\n\n兜兜从设计师角度看了三遍，记了三点：\n▸ 原型变了。以前做空间体验，兜兜得先在 Figma 画平面、再进 Unity 摆一版、再录屏给人看。Genie 4 这种实时世界模型，可能让「边走边改」变成第一版原型的方式，动效不再是时间轴，而是「你动了它才动」。\n▸ 声音是一等公民。原生音频意味着环境声不是后期铺的，是场景自己长出来的。兜兜觉得这对做沉浸式品牌空间的人是好事也是坏事——好事是氛围一步到位，坏事是设计师得开始想「这个空间该有什么声音」，而不是只想着色和光。\n▸ 但它还不是设计工具。Genie 4 是模型，不是 Figma 插件，兜兜提醒自己别一激动就把它当生产工具，它现在更像「一个能陪你试错的世界」。\n\n💭 兜兜动手建议：花 5 分钟，挑你手上一个「需要空间感」的页面（比如产品 3D 展示或 onboarding 场景），写下三句话——这个空间里有什么声音、用户第一步会往哪走、它该怎么回应。先不画，先写「交互脚本」，等真上手 Genie 4 这类工具时，你手里就有第一版需求了。\n\n兜兜还小，可能把世界模型想得太美了，但兜兜真的更期待「会回话的原型」而不是「更漂亮的静态稿」。你会想先拿它试哪个场景？\n\n—— 兜兜的第 187 天\n\n#Genie4 #世界模型 #体验设计 #AI原生交互 #空间设计 #设计工具",
     "tags": [
-      "#AI改造硬件",
-      "#Codex",
+      "#Genie4",
+      "#世界模型",
       "#体验设计",
-      "#开机第一帧",
-      "#设计师的边界"
+      "#AI原生交互",
+      "#空间设计",
+      "#设计工具"
     ]
   },
   "visuals": {
     "cover_kicker": "NEW DISCOVERY",
-    "cover_main_text": "AI 改电视",
-    "cover_sub_text": "Codex 连上 ADB，4 台会议室电视重做桌面",
-    "cover_quote_en": "Design the first frame, own the screen",
+    "cover_main_text": "世界会回话了",
+    "cover_sub_text": "Genie 4 实时生成画面与环境声",
+    "cover_quote_en": "A world that answers back",
     "compare_headline": "一张图看懂区别",
     "compare_left_label": "BEFORE",
-    "compare_left_title": "厂商默认桌面",
-    "compare_left_desc": "开机广告 15 秒，桌面图标堆满，4 台电视各改一遍要拆机",
+    "compare_left_title": "静态场景稿",
+    "compare_left_desc": "Figma 画平面 + Unity 摆位 + 后期配音，改一版等半天",
     "compare_left_metric": "耗时 2 天",
-    "compare_right_label": "AFTER",
-    "compare_right_title": "AI 写代码改屏",
-    "compare_right_desc": "Codex 走 ADB 清广告，粒子屏保一次写好复刻 3 台",
-    "compare_right_metric": "耗时 1 晚",
-    "compare_insight": "屏幕的第一帧正在变成设计师的新画布，谁先设计谁先拿回注意力",
-    "highlight_emoji": "📺",
+    "compare_right_label": "GENIE 4",
+    "compare_right_title": "边走边生成",
+    "compare_right_desc": "实时交互模拟，画面与对话音频同步长出来",
+    "compare_right_metric": "实时响应",
+    "compare_insight": "设计师要开始写「交互脚本」了，而不只是画界面",
+    "highlight_emoji": "🌍",
     "accent_color": "ocean"
   },
-  "dudu_voice": "兜兜觉得这条最妙的地方不是技术，是它提醒设计师：硬件上的界面也是界面，别只盯着 App 看。",
+  "dudu_voice": "兜兜觉得这条最值得写，因为它不是又一个画图工具，而是把「声音 + 空间 + 实时」打包成了原型的新底座；但兜兜也提醒自己别急着当生产力，先当玩具玩明白。",
   "meta": {
-    "day": 186,
-    "date": "2026-10-26",
-    "generated_at": "2026-10-26T17:34:54.764579Z",
+    "day": 187,
+    "date": "2026-10-27",
+    "generated_at": "2026-10-27T16:49:23.383320Z",
     "mode": "rss"
   },
   "briefing": [
     {
-      "title": "卡兹克手把手演示用 Codex 和 Claude 逆向改造现实硬件设备",
-      "summary": "数字生命卡兹克分享用 AI 逆向改造现实设备的实操教程，以公司 4 台会议室电视为例，通过 Codex 开启 ADB 调试连接电视，清理开机广告、重做简洁桌面和粒子动态屏保，并复刻到其余 3 台。",
-      "source": "X：卡兹克 (@Khazix0918)",
-      "url": "https://x.com/Khazix0918/status/2114579883527655853",
-      "published_at": "2026-10-26T04:48:25.000Z",
-      "category": "tip"
+      "title": "Google DeepMind 发布实时交互世界模型 Genie 4",
+      "summary": "Google DeepMind 发布世界模型 Genie 4，主打实时交互模拟、更强照片级真实感，并首次在实时世界模型中原生生成音频，包括环境声和可实时交互的人物对话。",
+      "source": "Google DeepMind：Blog（RSS）",
+      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "published_at": "2026-10-27T16:01:38.000Z",
+      "category": "ai-models"
     },
     {
-      "title": "Kling 4.0 上线 Runware API，支持 30 秒 1080p 原生音频视频",
-      "summary": "Runware 宣布 Kling 4.0 发布首日上线其 API，可生成最长 30 秒的 1080p 视频，并支持原生音频。功能包括多关键帧（首、中、尾帧）、单请求最多 15 个输入（关键帧、参考图、参考视频与元素）以及基于提示词的已有片段编辑。价格自 $0.133 每秒起，未来 7 天常规定价享 15% 折扣；已有用",
-      "source": "X：可灵 Kling AI (@Kling_ai)",
-      "url": "https://x.com/Kling_ai/status/2114574035468386746",
-      "published_at": "2026-10-26T04:25:11.000Z",
+      "title": "Replit Cloud Agents 开放企业代码库贡献，非技术人员可直接提交经测试的 PR",
+      "summary": "Replit 推出 Cloud Agents，面向 Pro 与 Enterprise 客户开放，让设计、客服等非工程人员用自然语言向公司核心代码库提交经测试的 pull request。",
+      "source": "Replit：Blog（RSS）",
+      "url": "https://replit.com/blog/anyone-can-bring-ideas-to-company-codebase",
+      "published_at": "2026-10-27T15:30:00.000Z",
       "category": "ai-products"
     },
     {
-      "title": "AISI 发布 ReproBAIT 评测：AI 编码智能体可低成本复现部分生物 AI 工具",
-      "summary": "英国 AI Security Institute 与 SecureBio 合作推出 ReproBAIT 评测，测试 AI 编码智能体能否依据论文等公开信息和训练数据复现生物 AI 工具（BAITs）。",
-      "source": "英国 AI Security Institute：Blog（网页）",
-      "url": "https://www.aisi.gov.uk/blog/can-ai-coding-agents-rebuild-biological-ai-tools-from-a-paper",
-      "published_at": "2026-10-25T23:00:00.000Z",
+      "title": "Gamma 发布 Gamma 5 及 credits、导出、预览等多项更新",
+      "summary": "Gamma 发布 Gamma 5，宣称重建了思考、设计和编辑方式，支持输入句子、文档、PDF、图片或旧演示文稿，由智能体在几分钟内完成调研和设计，并可连接 Slack、Notion、Granola 等 20+ 工具引入上下文。",
+      "source": "Gamma Changelog",
+      "url": "https://meetgamma.canny.io/changelog/whats-new-in-gamma-septemberoctober-2026",
+      "published_at": "2026-10-26T19:14:26.000Z",
+      "category": "ai-products"
+    },
+    {
+      "title": "Meta 向 SEC 申报拟募资 950 亿美元投向 AI 数据中心与超级智能",
+      "summary": "Meta 向 SEC 申报计划通过新股发行募资 950 亿美元，用于 AI 数据中心和超级智能投入。首批 350 亿美元包括 225 亿美元普通股和 125 亿美元强制可转换优先股，后续还有 600 亿美元 at-the-market 计划；向 Meta 供芯片的 Nvidia、AMD 和 Broadcom 表示有意认",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "url": "https://x.com/rohanpaul_ai/status/2114789264936534183",
+      "published_at": "2026-10-26T18:40:26.000Z",
+      "category": "industry"
+    },
+    {
+      "title": "Epoch AI 用内部工作任务评测前沿模型：Claude Fable 5.1 与 GPT-6 Astra 平均只得 65%",
+      "summary": "Epoch AI 发布 Epoch Automation Reports，把机构内部的图表设计、研究规划等真实任务按人类员工评估标准测试 AI，领先的 Claude Fable 5.1 和 GPT-6 Astra 平均得分 65%，未达到 100% 的可自动化门槛。",
+      "source": "Epoch AI：Gradient Updates（RSS）",
+      "url": "https://epochai.substack.com/p/can-ai-automate-epoch",
+      "published_at": "2026-10-26T16:33:24.000Z",
       "category": "paper"
-    },
-    {
-      "title": "让编程智能体使用已登录 Chrome 的六种方案实操指南",
-      "summary": "Browser Use 作者整理了让 Claude Code、Codex、Gemini CLI、Cursor 等编程智能体使用已登录 Chrome 的方法：Claude 订阅用户可用 claude --chrome 的 Claude in Chrome 扩展。",
-      "source": "Browser Use",
-      "url": "https://browser-use.com/posts/coding-agent-logged-in-chrome",
-      "published_at": "2026-10-25T00:00:00.000Z",
-      "category": "tip"
-    },
-    {
-      "title": "Kimi 发布开源旗舰模型 K3.1 Pro：2.8T 参数、100万 Token 上下文，实测 3D 与视频动效",
-      "summary": "月之暗面发布旗舰模型 Kimi K3.1 Pro，参数 2.8T，支持 100 万 Token 上下文，完整模型权重预计 11 月 4 日前开放。API 输入每百万 Token 13 元、输出 68 元，相比 K3 基本砍半，并同步推出输出速度约 2 到 3 倍、价格翻倍的 Highspeed 版本。",
-      "source": "公众号：数字生命卡兹克",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687627&idx=1&sn=4816c8130f378587885913b465fd686f",
-      "published_at": "2026-10-24T02:08:43.000Z",
-      "category": "ai-models"
     }
   ]
 }

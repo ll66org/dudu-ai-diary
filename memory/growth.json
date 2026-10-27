@@ -1,5 +1,5 @@
 {
-  "day_count": 186,
+  "day_count": 187,
   "history": [
     {
       "day": 20,
@@ -1112,6 +1112,13 @@
       "date": "2026-10-26",
       "topic": "卡兹克手把手演示用 Codex 和 Claude 逆向改造现实硬件设备",
       "source": "X：卡兹克 (@Khazix0918)",
+      "mode": "rss"
+    },
+    {
+      "day": 187,
+      "date": "2026-10-27",
+      "topic": "Google DeepMind 发布实时交互世界模型 Genie 4",
+      "source": "Google DeepMind：Blog（RSS）",
       "mode": "rss"
     }
   ],
