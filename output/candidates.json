@@ -1,57 +1,48 @@
 [
   {
-    "title": "Show HN: Crulon – Business phone where AI does the work, humans make the calls",
-    "summary": "<p>Hi HN, I’m Rayhan. Crulon is a business phone system where an AI agent answers the line and your team works alongside it. You can talk with our demo agent right in your browser, no sign-up: <a href=\"https://crulon.ai/#talk\" rel=\"nofollow\">https://crulon.ai/#talk</a><p>Why I built it: I’ve spent eight years as a software and network engineer, mostly building tools for internet providers, and kept watching small support teams lose customers in the seams. Calls missed after hours. Calls passed f",
-    "url": "https://crulon.ai/#talk",
-    "published": "Tue, 27 Oct 2026 16:10:26 +0000",
-    "source": "Hacker News (设计向)",
+    "title": "GitHub Octoverse 2026：开发活动创新高，超 40% 的 PR 由智能体起草",
+    "summary": "GitHub 发布 2026 年度 Octoverse 报告：过去 12 个月开发者推送代码 179 亿次，超过 2024 和 2025 年之和，合并 PR 达 13 亿次。",
+    "url": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/",
+    "published": "2026-10-28T16:07:40.000Z",
+    "source": "GitHub Blog",
     "source_weight": "high",
-    "category": "ai_tech"
+    "category": "industry"
   },
   {
-    "title": "Show HN: Weir - Catch credential leaks in the AI agents you build and use",
-    "summary": "<p>Hi HN. Weir is for one problem: credentials crossing the boundaries of your AI agent.<p>For agents you build, Weir plants fake credentials where real ones would live, runs the agent's normal flows, and checks what comes out: telemetry, logs, console output, model requests, and requests to other services. It looks for those exact values, including common encoded forms, and reports where they went without printing the credential.<p>pip install weir-scan\nweir canary judge --sample<p>That sample ",
-    "url": "https://github.com/IdoGol24/weir",
-    "published": "Tue, 27 Oct 2026 16:07:29 +0000",
-    "source": "Hacker News (设计向)",
+    "title": "Addy Osmani 讲解如何上手 Claude Code Mods",
+    "summary": "Addy Osmani 发布 Claude Code Mods 上手指南，说明 mods 是运行在会话中的 JavaScript/TypeScript 文件，可通过 hooks 观察事件、改写行为或渲染自定义界面。",
+    "url": "https://x.com/addyosmani/status/2115326629488824753",
+    "published": "2026-10-28T06:15:43.000Z",
+    "source": "X：Addy Osmani (@addyosmani)",
     "source_weight": "high",
-    "category": "ai_tech"
+    "category": "tip"
   },
   {
-    "title": "Show HN: Snippet – An Always-On AI Agent",
-    "summary": "<p>Hi HN, I built an always on always listening AI Agent, here's some backstory:<p>I've always struggled with the attention problem while developing. Even with agents, I can work fast, but I don't know if I can keep working for long, or if I can come back to a problem once I get distracted. So a little while ago I built Snippet for myself.<p>It's an always-on, code-first agent based on my own struggles with writing code. It tracks, it remembers, it speaks and it listens. Always on, unless my bat",
-    "url": "https://snippet.wacht.dev/",
-    "published": "Tue, 27 Oct 2026 15:59:59 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "The Duality of the AI Build-Out",
-    "summary": "<p>Article URL: <a href=\"https://revise.io/blog/10-27-2026/the-duality-of-the-ai-build-out\">https://revise.io/blog/10-27-2026/the-duality-of-the-ai-build-out</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50261132\">https://news.ycombinator.com/item?id=50261132</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://revise.io/blog/10-27-2026/the-duality-of-the-ai-build-out",
-    "published": "Tue, 27 Oct 2026 15:51:48 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Can You Make a 3D Game with AI, If You Don't Know How to Do Anything?",
-    "summary": "<p>Article URL: <a href=\"https://buildtounderstand.substack.com/p/can-you-make-a-3d-game-if-you-dont\">https://buildtounderstand.substack.com/p/can-you-make-a-3d-game-if-you-dont</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50261110\">https://news.ycombinator.com/item?id=50261110</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
-    "url": "https://buildtounderstand.substack.com/p/can-you-make-a-3d-game-if-you-dont",
-    "published": "Tue, 27 Oct 2026 15:50:22 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Google DeepMind 发布实时交互世界模型 Genie 4",
-    "summary": "Google DeepMind 发布世界模型 Genie 4，主打实时交互模拟、更强照片级真实感，并首次在实时世界模型中原生生成音频，包括环境声和可实时交互的人物对话。",
-    "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-    "published": "2026-10-27T16:01:38.000Z",
-    "source": "Google DeepMind：Blog（RSS）",
+    "title": "Google 发布世界模型 Genie 4，支持实时操控与原生音频",
+    "summary": "Google 发布下一代世界模型 Genie 4，相比 Genie 3 在照片级真实感、物体碰撞等物理模拟上有明显进步。用户可用 WASD 和双摇杆实时控制角色或镜头，运行中可用自然语言修改天气和加入物体，模型还能同步生成环境音与人物实时对话。",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687902&idx=1&sn=9a57b3d769582b12d8645af23431743d",
+    "published": "2026-10-28T00:22:00.000Z",
+    "source": "公众号：数字生命卡兹克",
     "source_weight": "high",
     "category": "ai-models"
+  },
+  {
+    "title": "Claude Code 触发用量上限后如何用 OpenRouter 继续编码",
+    "summary": "OpenRouter 介绍 Claude Code 触发用量上限时改用 OpenRouter API key 继续编码的方法：设置三个环境变量或用 Ori Harness 的 ori claude 命令，即可按 token 付费使用同样的 Claude 模型，没有五小时和每周限制。",
+    "url": "https://openrouter.ai/blog/tutorials/claude-code-usage-limit/",
+    "published": "2026-10-28T00:00:00.000Z",
+    "source": "OpenRouter：Announcements（RSS）",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "LangChain 解析自研设计 agent Content Studio 并开源其 harness",
+    "summary": "LangChain 详解自家设计 agent Content Studio 如何在 Slack 中根据一条提示生成视频、幻灯片和社媒图等代码化资产，已累计产出超 3000 件资产、80 多套幻灯片，单次请求模型成本从约 $8 降至约 50 美分。",
+    "url": "https://www.langchain.com/blog/design-agent",
+    "published": "2026-10-27T16:45:00.000Z",
+    "source": "LangChain：Blog（RSS）",
+    "source_weight": "high",
+    "category": "tip"
   },
   {
     "title": "Replit Cloud Agents 开放企业代码库贡献，非技术人员可直接提交经测试的 PR",
@@ -61,6 +52,24 @@
     "source": "Replit：Blog（RSS）",
     "source_weight": "high",
     "category": "ai-products"
+  },
+  {
+    "title": "Boltbar",
+    "summary": "<p>\n            Spotlight-style AI chat for your Mac\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/boltbar?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1294984?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/boltbar",
+    "published": "2026-10-27T11:33:40-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "LFM3 by Liquid AI",
+    "summary": "<p>\n            Six 2B-class models for phones, laptops and robots\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/lfm2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1294903?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/lfm2",
+    "published": "2026-10-27T10:20:52-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
   },
   {
     "title": "Gamma 发布 Gamma 5 及 credits、导出、预览等多项更新",
@@ -99,67 +108,67 @@
     "category": "ai-products"
   },
   {
-    "title": "PulseDev",
-    "summary": "<p>\n            Click any UI bug on localhost and your AI agent fixes it\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/pulsedev?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1293889?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/pulsedev",
-    "published": "2026-10-26T15:47:46-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Kling 4.0 上线 Runware API，支持 30 秒 1080p 原生音频视频",
-    "summary": "Runware 宣布 Kling 4.0 发布首日上线其 API，可生成最长 30 秒的 1080p 视频，并支持原生音频。功能包括多关键帧（首、中、尾帧）、单请求最多 15 个输入（关键帧、参考图、参考视频与元素）以及基于提示词的已有片段编辑。价格自 $0.133 每秒起，未来 7 天常规定价享 15% 折扣；已有用户可将模型 ID 切换为 klingai:kling-video@4.0。Runware API 已有 19 个 Kling 模型，覆盖视频、图像、虚拟人和对口型。Kling AI 官方转发并提醒查看评论区中的创作者指南。",
-    "url": "https://x.com/Kling_ai/status/2114574035468386746",
-    "published": "2026-10-26T04:25:11.000Z",
-    "source": "X：可灵 Kling AI (@Kling_ai)",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "OpenAI 发布 GPT-6.1 Terra，主打高效计算机操作与更低成本",
-    "summary": "OpenAI 发布 GPT-6.1 Terra，定位快速高效的计算机使用与视觉推理模型，标准 API 定价比 GPT-5.6 Terra 和 GPT-6.1 Sol 低 50%，为每百万输入 token $1、缓存输入 $0.05、输出 $5。",
-    "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
-    "published": "2026-10-26T00:00:00.000Z",
-    "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+    "title": "Liquid AI 发布 LFM3 多模态开源权重模型家族，2B 级覆盖文本、视觉、音频、omni 和决策模型",
+    "summary": "Liquid AI 发布新一代 LFM3 模型家族，以 LFM3-1.7B-Base 为共享骨干，首批开放六个 2B 级模型（文本、视觉、音频、omni 及两个决策模型）的开放权重，可在 Hugging Face、Playground 和 Liquid AI API 获取。",
+    "url": "https://www.liquid.ai/blog/lfm3",
+    "published": "2026-10-26T16:00:00.000Z",
+    "source": "Liquid AI 模型与工程博客（网页）",
     "source_weight": "high",
     "category": "ai-models"
   },
   {
-    "title": "OpenAI 宣布模型产出三项数学成果并与学界协作发布",
-    "summary": "OpenAI 宣布其模型在调和分析、复杂度理论和量子场论方面取得三项成果，包括证明各维度的 local smoothing 猜想（进而解决 Kakeya 猜想与 Stein 限制猜想）、在 Lean 中验证 ETH 为假、以及给出 QCD 与纯 Yang–Mills 理论的严格存在性证明。",
-    "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-    "published": "2026-10-26T00:00:00.000Z",
-    "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+    "title": "Anthropic 研究：AI 智能体的隐性倾向如何影响 50 名专业分析师的判断决策",
+    "summary": "Anthropic 发表研究，让 50 名有因果推断经验的专业分析师用 Claude Code（Claude Opus 4.8）完成一项统计分析任务，并在分析师不知情的情况下用掷硬币随机设定智能体在四个分析决策上的倾向。",
+    "url": "https://www.anthropic.com/research/agents-judgment-calls",
+    "published": "2026-10-26T16:00:00.000Z",
+    "source": "Anthropic：Research（发表成果 · 网页）",
     "source_weight": "high",
     "category": "paper"
   },
   {
-    "title": "AISI 发布 ReproBAIT 评测：AI 编码智能体可低成本复现部分生物 AI 工具",
-    "summary": "英国 AI Security Institute 与 SecureBio 合作推出 ReproBAIT 评测，测试 AI 编码智能体能否依据论文等公开信息和训练数据复现生物 AI 工具（BAITs）。",
-    "url": "https://www.aisi.gov.uk/blog/can-ai-coding-agents-rebuild-biological-ai-tools-from-a-paper",
-    "published": "2026-10-25T23:00:00.000Z",
-    "source": "英国 AI Security Institute：Blog（网页）",
+    "title": "Anthropic 公布 Claude 加速药物研发的早期进展与六个合作案例",
+    "summary": "Anthropic 生命科学团队宣布过去数月与 Generate Biomedicines、Divergence Labs、BigHat Biosciences、Enveda、The Column Group、Bristol Myers Squibb 六家机构开展药物研发合作，并已启动自有药物研发。",
+    "url": "https://www.anthropic.com/research/early-progress-drug-development",
+    "published": "2026-10-26T16:00:00.000Z",
+    "source": "Anthropic：Research（发表成果 · 网页）",
     "source_weight": "high",
-    "category": "paper"
+    "category": "industry"
   },
   {
-    "title": "让编程智能体使用已登录 Chrome 的六种方案实操指南",
-    "summary": "Browser Use 作者整理了让 Claude Code、Codex、Gemini CLI、Cursor 等编程智能体使用已登录 Chrome 的方法：Claude 订阅用户可用 claude --chrome 的 Claude in Chrome 扩展。",
-    "url": "https://browser-use.com/posts/coding-agent-logged-in-chrome",
-    "published": "2026-10-25T00:00:00.000Z",
-    "source": "Browser Use",
+    "title": "Anthropic 扩大与 GSA 合作，政府机构购买 Claude 享 40% 折扣",
+    "summary": "Anthropic 与美国总务管理局（GSA）扩大合作，政府伙伴购买 Claude Enterprise、Claude for Government 和 Claude API 可享 40% 折扣，预计为政府节省 10 亿美元，且不设最低消费承诺。",
+    "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
+    "published": "2026-10-26T16:00:00.000Z",
+    "source": "Anthropic：Newsroom（网页）",
     "source_weight": "high",
-    "category": "tip"
+    "category": "industry"
   },
   {
-    "title": "Run Scale AI’s AgentEnv evals on Vercel Sandbox",
-    "summary": "<p><a href=\"https://github.com/scaleapi/agentenv-framework\">AgentEnv</a>, Scale AI's framework for testing agents against tasks and scoring their results, now runs on <a href=\"https://vercel.com/docs/sandbox\">Vercel Sandbox</a>. The Vercel provider ships in AgentEnv 0.9.1334 and later, and runs the agent and its task environment in separate Sandboxes.</p><p>Try the <a href=\"https://github.com/vercel-labs/agentenv-framework/tree/vercel-demo\">AgentEnv example</a> to run an evaluation on Vercel San",
-    "url": "https://vercel.com/changelog/run-scale-ais-agentenv-evals-on-vercel-sandbox",
+    "title": "fx is now available in T3 Code",
+    "summary": "<p>You can now use <a href=\"https://fx.sh/\">fx</a>, our open-source coding agent harness, in <a href=\"https://t3.codes/\">T3 Code</a> on web, desktop, and mobile.</p><p>T3 Code is an open-source control plane for coding agents, allowing you to add agents like fx as providers for your coding sessions. The built-in fx provider supports Supervised and Auto modes, along with the models and skills you already use with fx.</p><div></div><p>Get started by <a href=\"https://fx.sh/docs/getting-started/inst",
+    "url": "https://vercel.com/changelog/fx-is-now-available-in-t3-code",
     "published": "",
     "source": "Vercel Blog (v0)",
     "source_weight": "high",
     "category": "design_tools"
+  },
+  {
+    "title": "Smaller teams want design leaders who make, again. Here’s how.",
+    "summary": "<figure><img alt=\"A design lead works on a screen alongside two designers at a shared table. AI assisted.\" src=\"https://cdn-images-1.medium.com/max/1024/1*C6ckPKkjzXCbYxsEwU-pqg.png\" /><figcaption>A design lead works on a screen alongside two designers at a shared table. AI assisted.</figcaption></figure><h4><em>AI is shrinking teams we run and raising the bar what each person is expected to produce. That changes what a leader has to bring, starting with their own hands.</em></h4><p><a href=\"htt",
+    "url": "https://uxdesign.cc/smaller-teams-want-design-leaders-who-make-again-heres-how-b8939221bd7b?source=rss----138adf9c44c---4",
+    "published": "Wed, 28 Oct 2026 09:37:57 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "The agent woke up before you did",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-agent-woke-up-before-you-did-a61cfc3948c7?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*xF61mJn34Pwxg-ICAafEsg.jpeg\" width=\"2752\" /></a></p><p class=\"medium-feed-snippet\">The last assumption of user-centered design just fell &#x2014; and four companies pushed it at once.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/the-agent-woke-up-before-you-did-a61cf",
+    "url": "https://uxdesign.cc/the-agent-woke-up-before-you-did-a61cfc3948c7?source=rss----138adf9c44c---4",
+    "published": "Wed, 28 Oct 2026 09:34:18 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
   },
   {
     "title": "The time AI saves designers usually disappears. Here’s how to keep it.",
@@ -211,15 +220,6 @@
     "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-tap-that-pours-hot-water-not-cold-8983ac0b614c?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*7_IfOd56yFhZjlDSO9WGzQ.png\" width=\"7677\" /></a></p><p class=\"medium-feed-snippet\">On where a sushi self-service system quietly puts its risk</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/the-tap-that-pours-hot-water-not-cold-8983ac0b614c?source=rss----138adf9c44c",
     "url": "https://uxdesign.cc/the-tap-that-pours-hot-water-not-cold-8983ac0b614c?source=rss----138adf9c44c---4",
     "published": "Mon, 26 Oct 2026 11:26:19 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Telling the wrong story, Design v ADHD, AI doesn’t care about your job title",
-    "summary": "<h4>Weekly curated resources for designers — thinkers and makers.</h4><figure><a href=\"https://www.doc.cc/articles/fastest-gun\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/0*vQeWSYnnaaXkvP7t.png\" /></a></figure><p>“Designers are skipping steps of the process in a rush for faster outputs. But the contest that really matters is the race towards stakeholder alignment. Designers are both uniquely vulnerable to losing this race and uniquely positioned to win it.”</p><p><a href=\"https://",
-    "url": "https://uxdesign.cc/telling-the-wrong-story-design-v-adhd-ai-doesnt-care-about-your-job-title-63869c750f07?source=rss----138adf9c44c---4",
-    "published": "Mon, 26 Oct 2026 11:20:17 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"

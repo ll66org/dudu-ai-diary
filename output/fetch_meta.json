@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-27T16:49:15.973070Z",
+  "fetched_at": "2026-10-28T17:18:10.676154Z",
   "total_candidates": 25,
   "source_stats": {
     "Figma Blog": {
@@ -8,7 +8,7 @@
     },
     "Vercel Blog (v0)": {
       "found": 1,
-      "total": 1713
+      "total": 1721
     },
     "Cursor Changelog": {
       "found": 0,
@@ -35,7 +35,7 @@
       "total": 40
     },
     "UX Collective": {
-      "found": 7,
+      "found": 9,
       "total": 10
     },
     "Designer News": {
@@ -51,11 +51,11 @@
       "total": 20
     },
     "Hacker News (设计向)": {
-      "found": 5,
-      "total": 20
+      "found": 0,
+      "total": 0
     },
     "Product Hunt": {
-      "found": 1,
+      "found": 2,
       "total": 50
     },
     "Designer News (AI Design)": {
@@ -64,27 +64,27 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 187,
-  "today_date": "2026-10-27",
+  "dudu_day": 188,
+  "today_date": "2026-10-28",
   "used_titles": [
-    "Numan 如何用 LangGraph 和 LangSmith 构建评测优先的 AI 健康教练 Nu",
     "fal 联合 bfl_ai 发布后训练视频模型 FLUX 3 Max",
     "SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源",
     "MiniMax Code 桌面端推出 Mini App 长运行应用功能",
     "Kimi 发布开源旗舰模型 K3.1 Pro：2.8T 参数、100万 Token 上下文，实测 3D 与视频动效",
     "Kimi 发布开源旗舰模型 K3.1 Pro：2.8T 参数、100万 Token 上下文，实测 3D 与视频动效",
-    "卡兹克手把手演示用 Codex 和 Claude 逆向改造现实硬件设备"
+    "卡兹克手把手演示用 Codex 和 Claude 逆向改造现实硬件设备",
+    "Google DeepMind 发布实时交互世界模型 Genie 4"
   ],
   "used_tools": [
-    "LangChain：Blog（RSS）",
     "X：fal (@fal)",
     "X：Rohan Paul (@rohanpaul_ai)",
     "MiniMax：Blog（网页）",
     "公众号：数字生命卡兹克",
     "公众号：数字生命卡兹克",
-    "X：卡兹克 (@Khazix0918)"
+    "X：卡兹克 (@Khazix0918)",
+    "Google DeepMind：Blog（RSS）"
   ],
-  "briefing_total": 34,
-  "briefing_design": 12,
+  "briefing_total": 51,
+  "briefing_design": 20,
   "briefing_count": 5
 }

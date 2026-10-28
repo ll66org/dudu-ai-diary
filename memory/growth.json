@@ -1,5 +1,5 @@
 {
-  "day_count": 187,
+  "day_count": 188,
   "history": [
     {
       "day": 20,
@@ -1119,6 +1119,13 @@
       "date": "2026-10-27",
       "topic": "Google DeepMind 发布实时交互世界模型 Genie 4",
       "source": "Google DeepMind：Blog（RSS）",
+      "mode": "rss"
+    },
+    {
+      "day": 188,
+      "date": "2026-10-28",
+      "topic": "GitHub Octoverse 2026：开发活动创新高，超 40% 的 PR 由智能体起草",
+      "source": "GitHub Blog",
       "mode": "rss"
     }
   ],
