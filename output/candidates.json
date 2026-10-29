@@ -1,12 +1,129 @@
 [
   {
-    "title": "GitHub Octoverse 2026：开发活动创新高，超 40% 的 PR 由智能体起草",
-    "summary": "GitHub 发布 2026 年度 Octoverse 报告：过去 12 个月开发者推送代码 179 亿次，超过 2024 和 2025 年之和，合并 PR 达 13 亿次。",
-    "url": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/",
-    "published": "2026-10-28T16:07:40.000Z",
-    "source": "GitHub Blog",
+    "title": "腾讯混元发布 Hy-Nomas 技术报告并开源 Hy-Nomas-Bench",
+    "summary": "腾讯混元发布 Hy-Nomas 开源交互式视频世界模型的技术报告（arXiv:2610.36729），并开源 Hy-Nomas-Bench 数据集用于可复现研究。官方还用 Hy-Nomas 重现 Genie 4 示例并放出对比视频，演示无需排队即可试用，地址为 https://hy-nomas.hy.tencent.com/。",
+    "url": "https://x.com/TencentHunyuan/status/2115851165904814283",
+    "published": "2026-10-29T17:00:03.000Z",
+    "source": "X：腾讯混元 (@TencentHunyuan)",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "Gemini 新增文档、PDF、演示文稿和表格的直接生成、预览与编辑功能",
+    "summary": "Google Gemini 宣布可直接在应用内生成、预览和编辑文档、PDF、演示文稿、表格等多种文件。支持把手写笔记转成 PDF 学习指南、手动调整内容、高亮部分让 Gemini 修改文字或视觉元素，并可继续追问。",
+    "url": "https://x.com/GeminiApp/status/2115845164824711247",
+    "published": "2026-10-29T16:36:12.000Z",
+    "source": "X：Gemini (@GeminiApp)",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "404 Media 起底 Proton 内部 AI 转型之争：CEO Andy Yen 强推 AI 引发恐惧文化",
+    "summary": "404 Media 采访九名现任与离职 Proton 员工并查阅内部文件，报道 CEO Andy Yen 强推 AI 转型引发的内部冲突。10 月公司 90% 代码由 AI 编写，多使用 Anthropic 的 Claude；Yen 称今年是最后一年招聘工程师，并宣布将以可能决定去留的重新面试评估员工 AI 使用情况。",
+    "url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/",
+    "published": "2026-10-29T14:21:49.000Z",
+    "source": "404 Media（RSS）",
     "source_weight": "high",
     "category": "industry"
+  },
+  {
+    "title": "The Verge 解读 Anthropic S-1：约 8500 亿美元 compute 承诺押注递归自我改进",
+    "summary": "The Verge 作者分析 Anthropic S-1，认为其商业模式依赖高速增长：2026 上半年营收同比增长 14 倍至 $16.3 billion，净收入留存率 900%，但不可撤销采购承诺合计 $265.6 billion，加上未开始的租赁协议 $321.4 billion 及其他协议，未来 20 年承诺至少约 $850 billion。",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
+    "published": "2026-10-29T13:30:00.000Z",
+    "source": "The Verge：AI（RSS）",
+    "source_weight": "high",
+    "category": "industry"
+  },
+  {
+    "title": "Addy Osmani 谈你可能对 Claude 过度提示了",
+    "summary": "Addy Osmani 撰文称新版 Claude 模型所需提示词比多数人习惯的更少，针对 Opus 5.5 建议用单一明确目标加验证条件让 Claude 自主工作，从 /effort medium 起步按需调整。",
+    "url": "https://x.com/addyosmani/status/2115688494865465370",
+    "published": "2026-10-29T06:13:39.000Z",
+    "source": "X：Addy Osmani (@addyosmani)",
+    "source_weight": "high",
+    "category": "tip"
+  },
+  {
+    "title": "vLLM 发布 Mistral Large 4 Day 0 支持",
+    "summary": "vLLM 团队宣布对 Mistral 新旗舰模型 Mistral Large 4 提供 Day 0 支持，该模型为 1T 参数、每 token 激活 49B 的原生多模态 MoE 模型，采用 MLA 稀疏注意力加 DSA top-k 索引器、跨层 KV 共享、NoPE、SSMax 和 LeRoPE 等新架构，并内置 DSpark 推测解码草稿器与 Pixtral 视觉编码器。",
+    "url": "https://vllm.ai/blog/2026-10-29-mistral-large-4",
+    "published": "2026-10-29T00:00:00.000Z",
+    "source": "vLLM 官方博客（RSS）",
+    "source_weight": "high",
+    "category": "ai-products"
+  },
+  {
+    "title": "Mistral Large 4（Le Chonk）登陆 Hugging Face：1T 参数 MoE 多模态开源权重模型",
+    "summary": "Hugging Face 发布 Mistral Large 4（Le Chonk）的上线博客，模型为多模态多语言 MoE 架构，总参数约 1T、激活 49B、上下文窗口 1M token。",
+    "url": "https://huggingface.co/blog/mistral-large4",
+    "published": "2026-10-29T00:00:00.000Z",
+    "source": "Hugging Face 官方团队博客",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "Anthropic 报告：Claude 研究模型在 Chrome、Safari、Android、Windows、Linux 发现漏洞并串联 5 条攻击链",
+    "summary": "Anthropic 于 10 月 27 日发布研究报告，称一个未公开的内部 Claude 研究模型在 Chrome、Safari、Android、Windows 和 Linux 中发现漏洞，串联出 5 条可实际运行的攻击链，相关漏洞已按协调披露流程报告并修复。",
+    "url": "https://www.ithome.com/1/019/268.htm",
+    "published": "2026-10-28T22:35:25.040Z",
+    "source": "IT之家·人工智能",
+    "source_weight": "high",
+    "category": "paper"
+  },
+  {
+    "title": "Ed Zitron 长文解析 Anthropic S-1：称其把散户当作退出流动性",
+    "summary": "Ed Zitron 撰文批评 Anthropic 的 S-1 招股书，指其仅披露 Q2 盈利数据、省略 Q3 现金状况和付款明细，是在公司基本面变化前误导投资者。",
+    "url": "https://www.wheresyoured.at/exit-liquidity/",
+    "published": "2026-10-28T17:51:00.000Z",
+    "source": "Ed Zitron 长文 / Where’s Your Ed At（RSS）",
+    "source_weight": "high",
+    "category": "opinion"
+  },
+  {
+    "title": "犹他州 10 个州政府部门 34 名开发者试点使用 Claude Code",
+    "summary": "Boris Cherny 介绍犹他州向 10 个州政府部门的 34 名开发者提供了 Claude Code。试点显示 80% 的开发者在 30 分钟内搭好可用环境，71% 的开发者在为期四周的试点结束前报告节省了 20 小时以上时间。该推文引用了 Anthropic 与 GSA 合作将 Claude 以 40% 折扣提供给联邦及各级政府的公告作为背景。",
+    "url": "https://x.com/bcherny/status/2115491259381072269",
+    "published": "2026-10-28T17:09:54.000Z",
+    "source": "X：Boris Cherny (@bcherny)",
+    "source_weight": "high",
+    "category": "industry"
+  },
+  {
+    "title": "OpenMOSS 发布开源图像生成模型 MOSS-Image，主打长文本渲染与可编辑布局",
+    "summary": "OpenMOSS 发布开放权重图像生成模型 MOSS-Image，采用 5B 参数单流 DiT 从零预训练，支持最长 4K token 提示词、中英文长文本渲染和可编辑的 JSON Layout。",
+    "url": "https://openmoss.ai/blog/cn/moss-image/",
+    "published": "2026-10-28T16:00:00.000Z",
+    "source": "OpenMOSS / 复旦NLP / 上海创智 / MOSI（网页）",
+    "source_weight": "high",
+    "category": "ai-models"
+  },
+  {
+    "title": "AssemblyAI",
+    "summary": "<p>\n            text-to-speech built for voice agents\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/assemblyai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1296456?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/assemblyai",
+    "published": "2026-10-28T15:35:24-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Floot in ChatGPT",
+    "summary": "<p>\n            Build and publish real apps without leaving ChatGPT\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/floot?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1296361?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/floot",
+    "published": "2026-10-28T13:14:10-07:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Trakkr 研究：追踪 1285 条 AI 引用统计的溯源路径",
+    "summary": "Trakkr Research 向 ChatGPT、Perplexity、Gemini、Claude 和 Google AI Overviews 提出 200 个要求数字的问题，并追踪其中 1285 条统计的引用链路，结果只有 40% 到达说法一致的研究，8% 到达但数字或语境已变，40% 无法核查，11% 无处可溯。",
+    "url": "https://trakkr.ai/trakkr-research/zombie-stats",
+    "published": "2026-10-28T08:00:00.000Z",
+    "source": "Hacker News：AI 热帖",
+    "source_weight": "high",
+    "category": "paper"
   },
   {
     "title": "Addy Osmani 讲解如何上手 Claude Code Mods",
@@ -27,199 +144,82 @@
     "category": "ai-models"
   },
   {
-    "title": "Claude Code 触发用量上限后如何用 OpenRouter 继续编码",
-    "summary": "OpenRouter 介绍 Claude Code 触发用量上限时改用 OpenRouter API key 继续编码的方法：设置三个环境变量或用 Ori Harness 的 ori claude 命令，即可按 token 付费使用同样的 Claude 模型，没有五小时和每周限制。",
-    "url": "https://openrouter.ai/blog/tutorials/claude-code-usage-limit/",
-    "published": "2026-10-28T00:00:00.000Z",
-    "source": "OpenRouter：Announcements（RSS）",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "LangChain 解析自研设计 agent Content Studio 并开源其 harness",
-    "summary": "LangChain 详解自家设计 agent Content Studio 如何在 Slack 中根据一条提示生成视频、幻灯片和社媒图等代码化资产，已累计产出超 3000 件资产、80 多套幻灯片，单次请求模型成本从约 $8 降至约 50 美分。",
-    "url": "https://www.langchain.com/blog/design-agent",
-    "published": "2026-10-27T16:45:00.000Z",
-    "source": "LangChain：Blog（RSS）",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "Replit Cloud Agents 开放企业代码库贡献，非技术人员可直接提交经测试的 PR",
-    "summary": "Replit 推出 Cloud Agents，面向 Pro 与 Enterprise 客户开放，让设计、客服等非工程人员用自然语言向公司核心代码库提交经测试的 pull request。",
-    "url": "https://replit.com/blog/anyone-can-bring-ideas-to-company-codebase",
-    "published": "2026-10-27T15:30:00.000Z",
-    "source": "Replit：Blog（RSS）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Boltbar",
-    "summary": "<p>\n            Spotlight-style AI chat for your Mac\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/boltbar?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1294984?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/boltbar",
-    "published": "2026-10-27T11:33:40-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "LFM3 by Liquid AI",
-    "summary": "<p>\n            Six 2B-class models for phones, laptops and robots\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/lfm2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1294903?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/lfm2",
-    "published": "2026-10-27T10:20:52-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Gamma 发布 Gamma 5 及 credits、导出、预览等多项更新",
-    "summary": "Gamma 发布 Gamma 5，宣称重建了思考、设计和编辑方式，支持输入句子、文档、PDF、图片或旧演示文稿，由智能体在几分钟内完成调研和设计，并可连接 Slack、Notion、Granola 等 20+ 工具引入上下文。",
-    "url": "https://meetgamma.canny.io/changelog/whats-new-in-gamma-septemberoctober-2026",
-    "published": "2026-10-26T19:14:26.000Z",
-    "source": "Gamma Changelog",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Meta 向 SEC 申报拟募资 950 亿美元投向 AI 数据中心与超级智能",
-    "summary": "Meta 向 SEC 申报计划通过新股发行募资 950 亿美元，用于 AI 数据中心和超级智能投入。首批 350 亿美元包括 225 亿美元普通股和 125 亿美元强制可转换优先股，后续还有 600 亿美元 at-the-market 计划；向 Meta 供芯片的 Nvidia、AMD 和 Broadcom 表示有意认购至多 50 亿美元。",
-    "url": "https://x.com/rohanpaul_ai/status/2114789264936534183",
-    "published": "2026-10-26T18:40:26.000Z",
-    "source": "X：Rohan Paul (@rohanpaul_ai)",
-    "source_weight": "high",
-    "category": "industry"
-  },
-  {
-    "title": "Epoch AI 用内部工作任务评测前沿模型：Claude Fable 5.1 与 GPT-6 Astra 平均只得 65%",
-    "summary": "Epoch AI 发布 Epoch Automation Reports，把机构内部的图表设计、研究规划等真实任务按人类员工评估标准测试 AI，领先的 Claude Fable 5.1 和 GPT-6 Astra 平均得分 65%，未达到 100% 的可自动化门槛。",
-    "url": "https://epochai.substack.com/p/can-ai-automate-epoch",
-    "published": "2026-10-26T16:33:24.000Z",
-    "source": "Epoch AI：Gradient Updates（RSS）",
-    "source_weight": "high",
-    "category": "paper"
-  },
-  {
-    "title": "Apple Creator Studio 推出更新：Final Cut Pro 集成 MotionVFX，Keynote、Pages、Numbers 新增智能助手与 MCP 支持",
-    "summary": "Apple 为 Creator Studio 推出更新，Final Cut Pro for Mac 内置 MotionVFX 视觉效果库并接入含视频素材的 Content Hub。",
-    "url": "https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/",
-    "published": "2026-10-26T16:00:00.000Z",
-    "source": "Apple：Newsroom（RSS）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Liquid AI 发布 LFM3 多模态开源权重模型家族，2B 级覆盖文本、视觉、音频、omni 和决策模型",
-    "summary": "Liquid AI 发布新一代 LFM3 模型家族，以 LFM3-1.7B-Base 为共享骨干，首批开放六个 2B 级模型（文本、视觉、音频、omni 及两个决策模型）的开放权重，可在 Hugging Face、Playground 和 Liquid AI API 获取。",
-    "url": "https://www.liquid.ai/blog/lfm3",
-    "published": "2026-10-26T16:00:00.000Z",
-    "source": "Liquid AI 模型与工程博客（网页）",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "Anthropic 研究：AI 智能体的隐性倾向如何影响 50 名专业分析师的判断决策",
-    "summary": "Anthropic 发表研究，让 50 名有因果推断经验的专业分析师用 Claude Code（Claude Opus 4.8）完成一项统计分析任务，并在分析师不知情的情况下用掷硬币随机设定智能体在四个分析决策上的倾向。",
-    "url": "https://www.anthropic.com/research/agents-judgment-calls",
-    "published": "2026-10-26T16:00:00.000Z",
-    "source": "Anthropic：Research（发表成果 · 网页）",
-    "source_weight": "high",
-    "category": "paper"
-  },
-  {
-    "title": "Anthropic 公布 Claude 加速药物研发的早期进展与六个合作案例",
-    "summary": "Anthropic 生命科学团队宣布过去数月与 Generate Biomedicines、Divergence Labs、BigHat Biosciences、Enveda、The Column Group、Bristol Myers Squibb 六家机构开展药物研发合作，并已启动自有药物研发。",
-    "url": "https://www.anthropic.com/research/early-progress-drug-development",
-    "published": "2026-10-26T16:00:00.000Z",
-    "source": "Anthropic：Research（发表成果 · 网页）",
-    "source_weight": "high",
-    "category": "industry"
-  },
-  {
-    "title": "Anthropic 扩大与 GSA 合作，政府机构购买 Claude 享 40% 折扣",
-    "summary": "Anthropic 与美国总务管理局（GSA）扩大合作，政府伙伴购买 Claude Enterprise、Claude for Government 和 Claude API 可享 40% 折扣，预计为政府节省 10 亿美元，且不设最低消费承诺。",
-    "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
-    "published": "2026-10-26T16:00:00.000Z",
-    "source": "Anthropic：Newsroom（网页）",
-    "source_weight": "high",
-    "category": "industry"
-  },
-  {
-    "title": "fx is now available in T3 Code",
-    "summary": "<p>You can now use <a href=\"https://fx.sh/\">fx</a>, our open-source coding agent harness, in <a href=\"https://t3.codes/\">T3 Code</a> on web, desktop, and mobile.</p><p>T3 Code is an open-source control plane for coding agents, allowing you to add agents like fx as providers for your coding sessions. The built-in fx provider supports Supervised and Auto modes, along with the models and skills you already use with fx.</p><div></div><p>Get started by <a href=\"https://fx.sh/docs/getting-started/inst",
-    "url": "https://vercel.com/changelog/fx-is-now-available-in-t3-code",
+    "title": "IP geolocation now covers more visitors at higher resolution",
+    "summary": "<p><a href=\"https://vercel.com/docs/headers/request-headers\">IP geolocation</a> on Vercel now resolves visitor locations with finer network granularity, delivering city-level data for nearly all requests and postal-code data for 90% of traffic.</p><p>Geolocation data is now refreshed more often, so locations keep up as IP ranges are reassigned and routing changes. This is enabled for all projects with no code or configuration changes required. Existing geolocation headers along with the <a href=",
+    "url": "https://vercel.com/changelog/improved-ip-geolocation-data",
     "published": "",
     "source": "Vercel Blog (v0)",
     "source_weight": "high",
     "category": "design_tools"
   },
   {
+    "title": "The fx adapter now runs the harness on the host",
+    "summary": "<p>The fx adapter for the AI SDK’s <code>HarnessAgent</code> now uses <code>libfx</code>, the TypeScript library for fx. The harness and model requests run in your application’s process, while built-in filesystem and shell operations remain isolated in the sandbox.</p><p>This simplifies sandbox setup: you no longer need to install fx inside the sandbox, run a sandbox bridge, or expose a sandbox port. Model credentials stay on the host, outside the environment where the agent runs commands.</p><p",
+    "url": "https://vercel.com/changelog/fx-harness-adapter-now-separates-host-and-sandbox",
+    "published": "",
+    "source": "Vercel Blog (v0)",
+    "source_weight": "high",
+    "category": "design_tools"
+  },
+  {
+    "title": "Vercel Plugin is now available in Antigravity",
+    "summary": "<div></div><p>The <a href=\"https://vercel.com/plugin\">Vercel Plugin</a> is now available in the <a href=\"https://antigravity.google/\">Google Antigravity</a> marketplace.</p><p>Use the Vercel Plugin to give your Antigravity agent guidance on Vercel APIs and recommended patterns, with skills for products such as <a href=\"https://ai-sdk.dev/\">AI SDK</a>, <a href=\"https://vercel.com/docs/functions\">Vercel Functions</a>, and <a href=\"https://useworkflow.dev/\">Workflow</a>.</p><p>This demo shows an An",
+    "url": "https://vercel.com/changelog/vercel-plugin-is-now-available-in-antigravity",
+    "published": "",
+    "source": "Vercel Blog (v0)",
+    "source_weight": "high",
+    "category": "design_tools"
+  },
+  {
+    "title": "Mistral Large 4 updated weights and lower pricing on AI Gateway",
+    "summary": "<p><a href=\"https://vercel.com/ai-gateway/models/mistral-large-4\">Mistral Large 4 from Mistral</a> now uses updated weights on <a href=\"https://vercel.com/docs/ai-gateway\">AI Gateway</a>, with lower pricing for input, cached input, and output tokens.</p><p>According to <a href=\"https://mistral.ai/news/mistral-large-4-oss/\">Mistral’s release announcement</a>, the updated weights improve agentic coding and defensive cybersecurity, with greater token efficiency on coding tasks. The release also imp",
+    "url": "https://vercel.com/changelog/mistral-large-4-updated-weights-and-lower-pricing-on-ai-gateway",
+    "published": "",
+    "source": "Vercel Blog (v0)",
+    "source_weight": "high",
+    "category": "design_tools"
+  },
+  {
+    "title": "How I stopped dreading AI and started studying it full-time",
+    "summary": "<p>By June 2026, I couldn’t open an app without being told I was falling behind. My Instagram saves were full of designers building agents over a weekend. LinkedIn was a steady stream of people who had “shipped it with Cursor.” And the job listings I was tailoring my resume to kept asking for things like evals, MCP, AI prototyping and Claude Code: words I half recognized and could not have explained in an interview.</p><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*pdkmyYmJK",
+    "url": "https://uxdesign.cc/how-i-stopped-dreading-ai-and-started-studying-it-full-time-fee7afc2b967?source=rss----138adf9c44c---4",
+    "published": "Wed, 28 Oct 2026 23:24:01 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Designing for AI deep research: lessons from Google, Perplexity and Microsoft",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/designing-for-ai-deep-research-lessons-from-google-perplexity-and-microsoft-b32fa2f21e7e?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*Tqg1rP0B6d3ahTwuShJERg.png\" width=\"4800\" /></a></p><p class=\"medium-feed-snippet\">6 UX questions for AI research tasks that take time</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/designing-for-ai-deep-research-lessons-from-g",
+    "url": "https://uxdesign.cc/designing-for-ai-deep-research-lessons-from-google-perplexity-and-microsoft-b32fa2f21e7e?source=rss----138adf9c44c---4",
+    "published": "Wed, 28 Oct 2026 23:23:05 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "The AI reckoning in UX was 20 years in the making",
+    "summary": "<figure><img alt=\"A layered, aged archival collage showing three overlapping eras of the design profession stacked like sediment, faded late-1990s office textures at the bottom, mid-2010s training-era textures in the middle, and present-day screen textures at the top, in muted sepia and newsprint tones.\" src=\"https://cdn-images-1.medium.com/max/1024/1*a2iNZ8zUu9mUqD6fCTWN2A.jpeg\" /><figcaption><em>The field has blown up and rebuilt itself three times in twenty years. This is the third.</em></fig",
+    "url": "https://uxdesign.cc/the-ai-reckoning-in-ux-was-20-years-in-the-making-ecd7e36185de?source=rss----138adf9c44c---4",
+    "published": "Wed, 28 Oct 2026 23:22:26 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Autonomy by design: how gamification and AI can respect (or rewrite) our choices",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/autonomy-by-design-how-gamification-and-ai-can-respect-or-rewrite-our-choices-122ad795ec57?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*62KpMnOToALw-E7f\" width=\"5998\" /></a></p><p class=\"medium-feed-snippet\">All design influences behavior. The ethical line is whether people can see the influence and still choose otherwise.</p><p class=\"medium-feed-link\"><a href=\"https://",
+    "url": "https://uxdesign.cc/autonomy-by-design-how-gamification-and-ai-can-respect-or-rewrite-our-choices-122ad795ec57?source=rss----138adf9c44c---4",
+    "published": "Wed, 28 Oct 2026 23:21:43 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
     "title": "Smaller teams want design leaders who make, again. Here’s how.",
     "summary": "<figure><img alt=\"A design lead works on a screen alongside two designers at a shared table. AI assisted.\" src=\"https://cdn-images-1.medium.com/max/1024/1*C6ckPKkjzXCbYxsEwU-pqg.png\" /><figcaption>A design lead works on a screen alongside two designers at a shared table. AI assisted.</figcaption></figure><h4><em>AI is shrinking teams we run and raising the bar what each person is expected to produce. That changes what a leader has to bring, starting with their own hands.</em></h4><p><a href=\"htt",
     "url": "https://uxdesign.cc/smaller-teams-want-design-leaders-who-make-again-heres-how-b8939221bd7b?source=rss----138adf9c44c---4",
     "published": "Wed, 28 Oct 2026 09:37:57 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "The agent woke up before you did",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-agent-woke-up-before-you-did-a61cfc3948c7?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*xF61mJn34Pwxg-ICAafEsg.jpeg\" width=\"2752\" /></a></p><p class=\"medium-feed-snippet\">The last assumption of user-centered design just fell &#x2014; and four companies pushed it at once.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/the-agent-woke-up-before-you-did-a61cf",
-    "url": "https://uxdesign.cc/the-agent-woke-up-before-you-did-a61cfc3948c7?source=rss----138adf9c44c---4",
-    "published": "Wed, 28 Oct 2026 09:34:18 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "The time AI saves designers usually disappears. Here’s how to keep it.",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-time-ai-saves-designers-usually-disappears-heres-how-to-keep-it-61eb38e1ed69?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*dZrEcUcZH_5ulg0g4yd0zQ.jpeg\" width=\"4252\" /></a></p><p class=\"medium-feed-snippet\">What a survey of 521 UX professionals found about AI in UX</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/the-time-ai-saves-designers-usually-disappear",
-    "url": "https://uxdesign.cc/the-time-ai-saves-designers-usually-disappears-heres-how-to-keep-it-61eb38e1ed69?source=rss----138adf9c44c---4",
-    "published": "Tue, 27 Oct 2026 11:13:45 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Going nowhere fast",
-    "summary": "<h4>When speed disguises itself as progress.</h4><figure><img alt=\"White sports car, trailing speed lines and dust, has raced up to a red traffic light.\" src=\"https://cdn-images-1.medium.com/max/1024/1*IwXAfMroOpeuRe7S5QtCxQ.png\" /><figcaption>One driver worked hard to get to a stoplight. (Rounded Bevel Icons)</figcaption></figure><p><strong>I distinctly remember my father driving the speed limit down a two-way street in the Bronx when a car swung out from behind us and cut into our lane with a ",
-    "url": "https://uxdesign.cc/going-nowhere-fast-7436dd29c54f?source=rss----138adf9c44c---4",
-    "published": "Tue, 27 Oct 2026 11:13:03 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "The context advantage of human UX",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-context-advantage-of-human-ux-design-thinking-39883603c337?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1672/1*hJmXIyyM-DoayKXxgRZfwA.png\" width=\"1672\" /></a></p><p class=\"medium-feed-snippet\">Context is today&#x2019;s human advantage, but it is also the raw material AI is rapidly learning to absorb.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/the-context-ad",
-    "url": "https://uxdesign.cc/the-context-advantage-of-human-ux-design-thinking-39883603c337?source=rss----138adf9c44c---4",
-    "published": "Sun, 25 Oct 2026 12:34:03 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Building an AI-ready design system library: Code → Figma with MCP.",
-    "summary": "<h4>In-System Design</h4><h4>A practical guide for designers: why my design system starts in code, and how I build, check and maintain the Figma library.</h4><figure><img alt=\"cover\" src=\"https://cdn-images-1.medium.com/max/1024/0*z97zDowA9lacbpjQ.jpeg\" /></figure><p><strong><em>In-System Design: a three-part series.<br />Part 1: Building an AI-ready design system: Code → Figma</em></strong><em> (you are here)<br />Part 2: AI prototyping inside your design system (3 November 2026)<br />Part 3: F",
-    "url": "https://uxdesign.cc/building-an-ai-ready-design-system-library-code-figma-with-mcp-ec5d9e8c90d2?source=rss----138adf9c44c---4",
-    "published": "Mon, 26 Oct 2026 21:33:16 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Does Apple’s HomeView reduce effort, or ask for our attention?",
-    "summary": "<h4><strong>Truly useful domestic technology fades into the background. Too many smart home screens demand centre stage.</strong></h4><figure><img alt=\"Apple HomeView\" src=\"https://cdn-images-1.medium.com/max/1024/1*HqM6Z9MMwRlQ4ebnhQ-scw.png\" /><figcaption>The Apple HomeView, image credit: Apple.</figcaption></figure><p>Apple’s latest foray into the home automation market is the <a href=\"https://www.apple.com/apple-homeview/\">HomeView</a>, a 7 inch touch screen with integrated speaker designed ",
-    "url": "https://uxdesign.cc/does-apples-homeview-reduce-effort-or-ask-for-our-attention-ad7e892d17e2?source=rss----138adf9c44c---4",
-    "published": "Mon, 26 Oct 2026 21:32:18 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "The tap that pours hot water, not cold",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-tap-that-pours-hot-water-not-cold-8983ac0b614c?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*7_IfOd56yFhZjlDSO9WGzQ.png\" width=\"7677\" /></a></p><p class=\"medium-feed-snippet\">On where a sushi self-service system quietly puts its risk</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/the-tap-that-pours-hot-water-not-cold-8983ac0b614c?source=rss----138adf9c44c",
-    "url": "https://uxdesign.cc/the-tap-that-pours-hot-water-not-cold-8983ac0b614c?source=rss----138adf9c44c---4",
-    "published": "Mon, 26 Oct 2026 11:26:19 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"

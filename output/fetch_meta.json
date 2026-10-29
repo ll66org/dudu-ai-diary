@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-28T17:18:10.676154Z",
+  "fetched_at": "2026-10-29T17:30:41.755716Z",
   "total_candidates": 25,
   "source_stats": {
     "Figma Blog": {
@@ -7,8 +7,8 @@
       "total": 0
     },
     "Vercel Blog (v0)": {
-      "found": 1,
-      "total": 1721
+      "found": 4,
+      "total": 2097
     },
     "Cursor Changelog": {
       "found": 0,
@@ -23,8 +23,8 @@
       "total": 0
     },
     "Lovable Blog": {
-      "found": 0,
-      "total": 172
+      "found": 1,
+      "total": 173
     },
     "Bolt (StackBlitz) Blog": {
       "found": 0,
@@ -35,7 +35,7 @@
       "total": 40
     },
     "UX Collective": {
-      "found": 9,
+      "found": 10,
       "total": 10
     },
     "Designer News": {
@@ -64,27 +64,27 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 188,
-  "today_date": "2026-10-28",
+  "dudu_day": 189,
+  "today_date": "2026-10-29",
   "used_titles": [
-    "fal 联合 bfl_ai 发布后训练视频模型 FLUX 3 Max",
     "SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源",
     "MiniMax Code 桌面端推出 Mini App 长运行应用功能",
     "Kimi 发布开源旗舰模型 K3.1 Pro：2.8T 参数、100万 Token 上下文，实测 3D 与视频动效",
     "Kimi 发布开源旗舰模型 K3.1 Pro：2.8T 参数、100万 Token 上下文，实测 3D 与视频动效",
     "卡兹克手把手演示用 Codex 和 Claude 逆向改造现实硬件设备",
-    "Google DeepMind 发布实时交互世界模型 Genie 4"
+    "Google DeepMind 发布实时交互世界模型 Genie 4",
+    "GitHub Octoverse 2026：开发活动创新高，超 40% 的 PR 由智能体起草"
   ],
   "used_tools": [
-    "X：fal (@fal)",
     "X：Rohan Paul (@rohanpaul_ai)",
     "MiniMax：Blog（网页）",
     "公众号：数字生命卡兹克",
     "公众号：数字生命卡兹克",
     "X：卡兹克 (@Khazix0918)",
-    "Google DeepMind：Blog（RSS）"
+    "Google DeepMind：Blog（RSS）",
+    "GitHub Blog"
   ],
-  "briefing_total": 51,
-  "briefing_design": 20,
+  "briefing_total": 59,
+  "briefing_design": 22,
   "briefing_count": 5
 }

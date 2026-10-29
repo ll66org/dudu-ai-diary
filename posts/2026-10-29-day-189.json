@@ -1,0 +1,90 @@
+{
+  "selected_topic": {
+    "title": "腾讯混元发布 Hy-Nomas 技术报告并开源 Hy-Nomas-Bench",
+    "source": "X：腾讯混元 (@TencentHunyuan)",
+    "url": "https://x.com/TencentHunyuan/status/2115851165904814283",
+    "publish_date": "2026-10-29",
+    "why_picked": "腾讯混元开源交互式视频世界模型，还放话能重现 Genie 4 示例，兜兜想看看设计师能不能真的用上。",
+    "designer_angle": "世界模型从'排队看 demo'变成'直接打开网页试'，交互设计原型可能不再需要写代码。"
+  },
+  "post": {
+    "title": "🐣世界模型能直接试了？兜兜手抖打开",
+    "body": "腾讯混元今天发布了 Hy-Nomas 技术报告（arXiv:2610.36729），还把 Hy-Nomas-Bench 数据集开源了。最让兜兜坐不住的是：官方直接用 Hy-Nomas 重现了 Genie 4 的示例，并放出对比视频，而且不用排队——打开 hy-nomas.hy.tencent.com 就能试。\n\n兜兜从设计师视角看了半天，说三个具体观察：\n▸ 以前交互式世界模型像「玻璃柜里的展品」，现在变成「可以伸手摸的网页」。这对做体验原型的人是大事——你可以在浏览器里直接试「输入一句话 → 生成可交互场景」的完整链路，而不是等邀请码。\n▸ 开源 Bench 比模型本身更值得盯。Hy-Nomas-Bench 让「生成的世界合不合理」有了可复现的评分标准，以后设计师评估 AI 生成场景时，终于不用只靠「兜兜觉得好看」。\n▸ 但兜兜要泼一点冷水：官方对比视频是精选示例，真实网页里的生成速度、可控性和风格一致性还得自己试。世界模型离「替代 Figma 原型」还远，但离「做概念探索的草稿纸」已经很近了。\n\n💭 兜兜动手建议：今天花 5 分钟打开 hy-nomas.hy.tencent.com，别急着评价画质，先做一件事——用同一个 prompt 连续生成 3 次，看结果稳不稳定。然后把 3 个结果截图并排，标出「哪些元素每次都一样、哪些每次都在漂」。这张图就是你判断「能不能用它做设计探索」的第一手依据。\n\n兜兜好奇：如果世界模型生成一次只要几秒，你还会先画线框图吗？\n\n—— 兜兜的第 189 天\n#AI设计 #世界模型 #腾讯混元 #交互设计 #设计工具 #体验设计 #AI原型",
+    "tags": [
+      "#AI设计",
+      "#世界模型",
+      "#腾讯混元",
+      "#交互设计",
+      "#设计工具",
+      "#体验设计",
+      "#AI原型"
+    ]
+  },
+  "visuals": {
+    "cover_kicker": "NEW DISCOVERY",
+    "cover_main_text": "世界模型能试了",
+    "cover_sub_text": "腾讯混元 Hy-Nomas 开源，网页直接玩",
+    "cover_quote_en": "From demo queue to browser tab",
+    "compare_headline": "一张图看懂区别",
+    "compare_left_label": "BEFORE",
+    "compare_left_title": "排队等邀请码",
+    "compare_left_desc": "看官方精选视频，自己摸不到，评估全靠猜",
+    "compare_left_metric": "等 2 周",
+    "compare_right_label": "NOW",
+    "compare_right_title": "打开网页就试",
+    "compare_right_desc": "同一 prompt 连跑 3 次，看结果稳不稳定",
+    "compare_right_metric": "5 分钟",
+    "compare_insight": "开源 Bench 让「好不好」有标准，但别拿精选视频当真实力",
+    "highlight_emoji": "🫨",
+    "accent_color": "ocean"
+  },
+  "dudu_voice": "兜兜觉得这条最容易被当成「又一个模型发布」划过去，但「不用排队直接试」+「开源评测集」对设计师才是真信号——终于能自己动手验证，而不是看别人剪好的视频。",
+  "meta": {
+    "day": 189,
+    "date": "2026-10-29",
+    "generated_at": "2026-10-29T17:30:48.823987Z",
+    "mode": "rss"
+  },
+  "briefing": [
+    {
+      "title": "腾讯混元发布 Hy-Nomas 技术报告并开源 Hy-Nomas-Bench",
+      "summary": "腾讯混元发布 Hy-Nomas 开源交互式视频世界模型的技术报告（arXiv:2610.36729），并开源 Hy-Nomas-Bench 数据集用于可复现研究。官方还用 Hy-Nomas 重现 Genie 4 示例并放出对比视频，演示无需排队即可试用，地址为 https://hy-nomas.hy.tencent.c",
+      "source": "X：腾讯混元 (@TencentHunyuan)",
+      "url": "https://x.com/TencentHunyuan/status/2115851165904814283",
+      "published_at": "2026-10-29T17:00:03.000Z",
+      "category": "ai-products"
+    },
+    {
+      "title": "Gemini 新增文档、PDF、演示文稿和表格的直接生成、预览与编辑功能",
+      "summary": "Google Gemini 宣布可直接在应用内生成、预览和编辑文档、PDF、演示文稿、表格等多种文件。支持把手写笔记转成 PDF 学习指南、手动调整内容、高亮部分让 Gemini 修改文字或视觉元素，并可继续追问。",
+      "source": "X：Gemini (@GeminiApp)",
+      "url": "https://x.com/GeminiApp/status/2115845164824711247",
+      "published_at": "2026-10-29T16:36:12.000Z",
+      "category": "ai-products"
+    },
+    {
+      "title": "404 Media 起底 Proton 内部 AI 转型之争：CEO Andy Yen 强推 AI 引发恐惧文化",
+      "summary": "404 Media 采访九名现任与离职 Proton 员工并查阅内部文件，报道 CEO Andy Yen 强推 AI 转型引发的内部冲突。10 月公司 90% 代码由 AI 编写，多使用 Anthropic 的 Claude；Yen 称今年是最后一年招聘工程师，并宣布将以可能决定去留的重新面试评估员工 AI 使用情况。",
+      "source": "404 Media（RSS）",
+      "url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/",
+      "published_at": "2026-10-29T14:21:49.000Z",
+      "category": "industry"
+    },
+    {
+      "title": "The Verge 解读 Anthropic S-1：约 8500 亿美元 compute 承诺押注递归自我改进",
+      "summary": "The Verge 作者分析 Anthropic S-1，认为其商业模式依赖高速增长：2026 上半年营收同比增长 14 倍至 $16.3 billion，净收入留存率 900%，但不可撤销采购承诺合计 $265.6 billion，加上未开始的租赁协议 $321.4 billion 及其他协议，未来 20 年承诺至少",
+      "source": "The Verge：AI（RSS）",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
+      "published_at": "2026-10-29T13:30:00.000Z",
+      "category": "industry"
+    },
+    {
+      "title": "Addy Osmani 谈你可能对 Claude 过度提示了",
+      "summary": "Addy Osmani 撰文称新版 Claude 模型所需提示词比多数人习惯的更少，针对 Opus 5.5 建议用单一明确目标加验证条件让 Claude 自主工作，从 /effort medium 起步按需调整。",
+      "source": "X：Addy Osmani (@addyosmani)",
+      "url": "https://x.com/addyosmani/status/2115688494865465370",
+      "published_at": "2026-10-29T06:13:39.000Z",
+      "category": "tip"
+    }
+  ]
+}

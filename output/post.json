@@ -1,88 +1,89 @@
 {
   "selected_topic": {
-    "title": "GitHub Octoverse 2026：开发活动创新高，超 40% 的 PR 由智能体起草",
-    "source": "GitHub Blog",
-    "url": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/",
-    "publish_date": "2026-10-28",
-    "why_picked": "40% 的 PR 是智能体起草的——这已经不是在写代码，是在重新分配'谁来做设计决策'。",
-    "designer_angle": "当代码由 agent 起草，设计师的交付物从'标注稿'变成'可运行的意图'，D2C 的最后一道墙被推倒了。"
+    "title": "腾讯混元发布 Hy-Nomas 技术报告并开源 Hy-Nomas-Bench",
+    "source": "X：腾讯混元 (@TencentHunyuan)",
+    "url": "https://x.com/TencentHunyuan/status/2115851165904814283",
+    "publish_date": "2026-10-29",
+    "why_picked": "腾讯混元开源交互式视频世界模型，还放话能重现 Genie 4 示例，兜兜想看看设计师能不能真的用上。",
+    "designer_angle": "世界模型从'排队看 demo'变成'直接打开网页试'，交互设计原型可能不再需要写代码。"
   },
   "post": {
-    "title": "🐣 40% 的 PR 是 AI 写的，设计师该慌吗",
-    "body": "兜兜今天打开 GitHub 的年度报告 Octoverse 2026，看到一个数字愣了三秒：过去 12 个月，超过 40% 的 pull request 是由智能体起草的。合并 PR 达到 13 亿次，代码推送 179 亿次——比 2024 和 2025 两年加起来还多。\n\n兜兜画了个对比：左边是以前设计师交标注稿、等前端排期；右边是现在一个 agent 就能把设计意图直接推成 PR。区别不在速度，在「谁做决策」。\n\n▸ 观察一：PR 变多了，但评审变贵了。13 亿次合并意味着大量代码需要人来看，设计师如果不懂读 diff，就没法判断「这个间距被 agent 改对了吗」。\n▸ 观察二：D2C 的最后一道墙倒了。以前设计稿到代码之间隔着「还原度」这个玄学，现在 agent 起草的 PR 就是还原结果本身——设计 token 有没有被正确使用，看 PR 比看截图准。\n▸ 观察三：兜兜更喜欢把 agent 当「实习生」而不是「外包」。实习生写的 PR 你会逐行看，外包写的你只看结果——40% 这个比例下，逐行看才安全。\n\n💭 兜兜动手建议：花 5 分钟，打开你最近一个项目的 PR 列表，找一条 agent 起草的，用 GitHub 的「Files changed」逐行看它有没有偷偷改你的 spacing token。看完你会对「还原度」这个词有全新的理解。\n\n你最近一次 review 的 PR，是真人写的还是 agent 写的？\n\n—— 兜兜的第 188 天\n\n#GitHubOctoverse #AI编程 #设计还原 #D2C #设计师成长 #Agent工作流",
+    "title": "🐣世界模型能直接试了？兜兜手抖打开",
+    "body": "腾讯混元今天发布了 Hy-Nomas 技术报告（arXiv:2610.36729），还把 Hy-Nomas-Bench 数据集开源了。最让兜兜坐不住的是：官方直接用 Hy-Nomas 重现了 Genie 4 的示例，并放出对比视频，而且不用排队——打开 hy-nomas.hy.tencent.com 就能试。\n\n兜兜从设计师视角看了半天，说三个具体观察：\n▸ 以前交互式世界模型像「玻璃柜里的展品」，现在变成「可以伸手摸的网页」。这对做体验原型的人是大事——你可以在浏览器里直接试「输入一句话 → 生成可交互场景」的完整链路，而不是等邀请码。\n▸ 开源 Bench 比模型本身更值得盯。Hy-Nomas-Bench 让「生成的世界合不合理」有了可复现的评分标准，以后设计师评估 AI 生成场景时，终于不用只靠「兜兜觉得好看」。\n▸ 但兜兜要泼一点冷水：官方对比视频是精选示例，真实网页里的生成速度、可控性和风格一致性还得自己试。世界模型离「替代 Figma 原型」还远，但离「做概念探索的草稿纸」已经很近了。\n\n💭 兜兜动手建议：今天花 5 分钟打开 hy-nomas.hy.tencent.com，别急着评价画质，先做一件事——用同一个 prompt 连续生成 3 次，看结果稳不稳定。然后把 3 个结果截图并排，标出「哪些元素每次都一样、哪些每次都在漂」。这张图就是你判断「能不能用它做设计探索」的第一手依据。\n\n兜兜好奇：如果世界模型生成一次只要几秒，你还会先画线框图吗？\n\n—— 兜兜的第 189 天\n#AI设计 #世界模型 #腾讯混元 #交互设计 #设计工具 #体验设计 #AI原型",
     "tags": [
-      "#GitHubOctoverse",
-      "#AI编程",
-      "#设计还原",
-      "#D2C",
-      "#设计师成长",
-      "#Agent工作流"
+      "#AI设计",
+      "#世界模型",
+      "#腾讯混元",
+      "#交互设计",
+      "#设计工具",
+      "#体验设计",
+      "#AI原型"
     ]
   },
   "visuals": {
-    "cover_kicker": "OCTOVERSE 2026",
-    "cover_main_text": "40% 的 PR 是 AI 写的",
-    "cover_sub_text": "设计师的交付物正在变成可运行的意图",
-    "cover_quote_en": "The pull request is the new design handoff",
-    "compare_headline": "一张图看懂交付变化",
+    "cover_kicker": "NEW DISCOVERY",
+    "cover_main_text": "世界模型能试了",
+    "cover_sub_text": "腾讯混元 Hy-Nomas 开源，网页直接玩",
+    "cover_quote_en": "From demo queue to browser tab",
+    "compare_headline": "一张图看懂区别",
     "compare_left_label": "BEFORE",
-    "compare_left_title": "标注稿等排期",
-    "compare_left_desc": "设计师交 Figma 标注，前端排期两周，还原度全靠口头对齐",
-    "compare_left_metric": "周期 2 周",
-    "compare_right_label": "AFTER",
-    "compare_right_title": "意图变 PR",
-    "compare_right_desc": "agent 按设计 token 起草 PR，设计师直接 review diff 改间距",
-    "compare_right_metric": "周期 2 小时",
-    "compare_insight": "别再只盯还原度截图了，能读懂 PR diff 的设计师才守得住设计系统。",
-    "highlight_emoji": "😳",
+    "compare_left_title": "排队等邀请码",
+    "compare_left_desc": "看官方精选视频，自己摸不到，评估全靠猜",
+    "compare_left_metric": "等 2 周",
+    "compare_right_label": "NOW",
+    "compare_right_title": "打开网页就试",
+    "compare_right_desc": "同一 prompt 连跑 3 次，看结果稳不稳定",
+    "compare_right_metric": "5 分钟",
+    "compare_insight": "开源 Bench 让「好不好」有标准，但别拿精选视频当真实力",
+    "highlight_emoji": "🫨",
     "accent_color": "ocean"
   },
-  "dudu_voice": "兜兜看到 40% 这个数字第一反应是「那评审的人够吗」，第二反应是「设计师得学会看 diff 了」。这可能是今年最该让设计师警惕的一条数据。",
+  "dudu_voice": "兜兜觉得这条最容易被当成「又一个模型发布」划过去，但「不用排队直接试」+「开源评测集」对设计师才是真信号——终于能自己动手验证，而不是看别人剪好的视频。",
   "meta": {
-    "day": 188,
-    "date": "2026-10-28",
-    "generated_at": "2026-10-28T17:18:17.450587Z",
+    "day": 189,
+    "date": "2026-10-29",
+    "generated_at": "2026-10-29T17:30:48.823987Z",
     "mode": "rss"
   },
   "briefing": [
     {
-      "title": "GitHub Octoverse 2026：开发活动创新高，超 40% 的 PR 由智能体起草",
-      "summary": "GitHub 发布 2026 年度 Octoverse 报告：过去 12 个月开发者推送代码 179 亿次，超过 2024 和 2025 年之和，合并 PR 达 13 亿次。",
-      "source": "GitHub Blog",
-      "url": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/",
-      "published_at": "2026-10-28T16:07:40.000Z",
+      "title": "腾讯混元发布 Hy-Nomas 技术报告并开源 Hy-Nomas-Bench",
+      "summary": "腾讯混元发布 Hy-Nomas 开源交互式视频世界模型的技术报告（arXiv:2610.36729），并开源 Hy-Nomas-Bench 数据集用于可复现研究。官方还用 Hy-Nomas 重现 Genie 4 示例并放出对比视频，演示无需排队即可试用，地址为 https://hy-nomas.hy.tencent.c",
+      "source": "X：腾讯混元 (@TencentHunyuan)",
+      "url": "https://x.com/TencentHunyuan/status/2115851165904814283",
+      "published_at": "2026-10-29T17:00:03.000Z",
+      "category": "ai-products"
+    },
+    {
+      "title": "Gemini 新增文档、PDF、演示文稿和表格的直接生成、预览与编辑功能",
+      "summary": "Google Gemini 宣布可直接在应用内生成、预览和编辑文档、PDF、演示文稿、表格等多种文件。支持把手写笔记转成 PDF 学习指南、手动调整内容、高亮部分让 Gemini 修改文字或视觉元素，并可继续追问。",
+      "source": "X：Gemini (@GeminiApp)",
+      "url": "https://x.com/GeminiApp/status/2115845164824711247",
+      "published_at": "2026-10-29T16:36:12.000Z",
+      "category": "ai-products"
+    },
+    {
+      "title": "404 Media 起底 Proton 内部 AI 转型之争：CEO Andy Yen 强推 AI 引发恐惧文化",
+      "summary": "404 Media 采访九名现任与离职 Proton 员工并查阅内部文件，报道 CEO Andy Yen 强推 AI 转型引发的内部冲突。10 月公司 90% 代码由 AI 编写，多使用 Anthropic 的 Claude；Yen 称今年是最后一年招聘工程师，并宣布将以可能决定去留的重新面试评估员工 AI 使用情况。",
+      "source": "404 Media（RSS）",
+      "url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/",
+      "published_at": "2026-10-29T14:21:49.000Z",
       "category": "industry"
     },
     {
-      "title": "Addy Osmani 讲解如何上手 Claude Code Mods",
-      "summary": "Addy Osmani 发布 Claude Code Mods 上手指南，说明 mods 是运行在会话中的 JavaScript/TypeScript 文件，可通过 hooks 观察事件、改写行为或渲染自定义界面。",
+      "title": "The Verge 解读 Anthropic S-1：约 8500 亿美元 compute 承诺押注递归自我改进",
+      "summary": "The Verge 作者分析 Anthropic S-1，认为其商业模式依赖高速增长：2026 上半年营收同比增长 14 倍至 $16.3 billion，净收入留存率 900%，但不可撤销采购承诺合计 $265.6 billion，加上未开始的租赁协议 $321.4 billion 及其他协议，未来 20 年承诺至少",
+      "source": "The Verge：AI（RSS）",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
+      "published_at": "2026-10-29T13:30:00.000Z",
+      "category": "industry"
+    },
+    {
+      "title": "Addy Osmani 谈你可能对 Claude 过度提示了",
+      "summary": "Addy Osmani 撰文称新版 Claude 模型所需提示词比多数人习惯的更少，针对 Opus 5.5 建议用单一明确目标加验证条件让 Claude 自主工作，从 /effort medium 起步按需调整。",
       "source": "X：Addy Osmani (@addyosmani)",
-      "url": "https://x.com/addyosmani/status/2115326629488824753",
-      "published_at": "2026-10-28T06:15:43.000Z",
-      "category": "tip"
-    },
-    {
-      "title": "Google 发布世界模型 Genie 4，支持实时操控与原生音频",
-      "summary": "Google 发布下一代世界模型 Genie 4，相比 Genie 3 在照片级真实感、物体碰撞等物理模拟上有明显进步。用户可用 WASD 和双摇杆实时控制角色或镜头，运行中可用自然语言修改天气和加入物体，模型还能同步生成环境音与人物实时对话。",
-      "source": "公众号：数字生命卡兹克",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687902&idx=1&sn=9a57b3d769582b12d8645af23431743d",
-      "published_at": "2026-10-28T00:22:00.000Z",
-      "category": "ai-models"
-    },
-    {
-      "title": "Claude Code 触发用量上限后如何用 OpenRouter 继续编码",
-      "summary": "OpenRouter 介绍 Claude Code 触发用量上限时改用 OpenRouter API key 继续编码的方法：设置三个环境变量或用 Ori Harness 的 ori claude 命令，即可按 token 付费使用同样的 Claude 模型，没有五小时和每周限制。",
-      "source": "OpenRouter：Announcements（RSS）",
-      "url": "https://openrouter.ai/blog/tutorials/claude-code-usage-limit/",
-      "published_at": "2026-10-28T00:00:00.000Z",
-      "category": "tip"
-    },
-    {
-      "title": "LangChain 解析自研设计 agent Content Studio 并开源其 harness",
-      "summary": "LangChain 详解自家设计 agent Content Studio 如何在 Slack 中根据一条提示生成视频、幻灯片和社媒图等代码化资产，已累计产出超 3000 件资产、80 多套幻灯片，单次请求模型成本从约 $8 降至约 50 美分。",
-      "source": "LangChain：Blog（RSS）",
-      "url": "https://www.langchain.com/blog/design-agent",
-      "published_at": "2026-10-27T16:45:00.000Z",
+      "url": "https://x.com/addyosmani/status/2115688494865465370",
+      "published_at": "2026-10-29T06:13:39.000Z",
       "category": "tip"
     }
   ]
