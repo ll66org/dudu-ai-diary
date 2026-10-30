@@ -1,179 +1,44 @@
 [
   {
-    "title": "腾讯混元发布 Hy-Nomas 技术报告并开源 Hy-Nomas-Bench",
-    "summary": "腾讯混元发布 Hy-Nomas 开源交互式视频世界模型的技术报告（arXiv:2610.36729），并开源 Hy-Nomas-Bench 数据集用于可复现研究。官方还用 Hy-Nomas 重现 Genie 4 示例并放出对比视频，演示无需排队即可试用，地址为 https://hy-nomas.hy.tencent.com/。",
-    "url": "https://x.com/TencentHunyuan/status/2115851165904814283",
-    "published": "2026-10-29T17:00:03.000Z",
-    "source": "X：腾讯混元 (@TencentHunyuan)",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Gemini 新增文档、PDF、演示文稿和表格的直接生成、预览与编辑功能",
-    "summary": "Google Gemini 宣布可直接在应用内生成、预览和编辑文档、PDF、演示文稿、表格等多种文件。支持把手写笔记转成 PDF 学习指南、手动调整内容、高亮部分让 Gemini 修改文字或视觉元素，并可继续追问。",
-    "url": "https://x.com/GeminiApp/status/2115845164824711247",
-    "published": "2026-10-29T16:36:12.000Z",
-    "source": "X：Gemini (@GeminiApp)",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "404 Media 起底 Proton 内部 AI 转型之争：CEO Andy Yen 强推 AI 引发恐惧文化",
-    "summary": "404 Media 采访九名现任与离职 Proton 员工并查阅内部文件，报道 CEO Andy Yen 强推 AI 转型引发的内部冲突。10 月公司 90% 代码由 AI 编写，多使用 Anthropic 的 Claude；Yen 称今年是最后一年招聘工程师，并宣布将以可能决定去留的重新面试评估员工 AI 使用情况。",
-    "url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/",
-    "published": "2026-10-29T14:21:49.000Z",
-    "source": "404 Media（RSS）",
-    "source_weight": "high",
-    "category": "industry"
-  },
-  {
-    "title": "The Verge 解读 Anthropic S-1：约 8500 亿美元 compute 承诺押注递归自我改进",
-    "summary": "The Verge 作者分析 Anthropic S-1，认为其商业模式依赖高速增长：2026 上半年营收同比增长 14 倍至 $16.3 billion，净收入留存率 900%，但不可撤销采购承诺合计 $265.6 billion，加上未开始的租赁协议 $321.4 billion 及其他协议，未来 20 年承诺至少约 $850 billion。",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
-    "published": "2026-10-29T13:30:00.000Z",
-    "source": "The Verge：AI（RSS）",
-    "source_weight": "high",
-    "category": "industry"
-  },
-  {
-    "title": "Addy Osmani 谈你可能对 Claude 过度提示了",
-    "summary": "Addy Osmani 撰文称新版 Claude 模型所需提示词比多数人习惯的更少，针对 Opus 5.5 建议用单一明确目标加验证条件让 Claude 自主工作，从 /effort medium 起步按需调整。",
-    "url": "https://x.com/addyosmani/status/2115688494865465370",
-    "published": "2026-10-29T06:13:39.000Z",
-    "source": "X：Addy Osmani (@addyosmani)",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "vLLM 发布 Mistral Large 4 Day 0 支持",
-    "summary": "vLLM 团队宣布对 Mistral 新旗舰模型 Mistral Large 4 提供 Day 0 支持，该模型为 1T 参数、每 token 激活 49B 的原生多模态 MoE 模型，采用 MLA 稀疏注意力加 DSA top-k 索引器、跨层 KV 共享、NoPE、SSMax 和 LeRoPE 等新架构，并内置 DSpark 推测解码草稿器与 Pixtral 视觉编码器。",
-    "url": "https://vllm.ai/blog/2026-10-29-mistral-large-4",
-    "published": "2026-10-29T00:00:00.000Z",
-    "source": "vLLM 官方博客（RSS）",
-    "source_weight": "high",
-    "category": "ai-products"
-  },
-  {
-    "title": "Mistral Large 4（Le Chonk）登陆 Hugging Face：1T 参数 MoE 多模态开源权重模型",
-    "summary": "Hugging Face 发布 Mistral Large 4（Le Chonk）的上线博客，模型为多模态多语言 MoE 架构，总参数约 1T、激活 49B、上下文窗口 1M token。",
-    "url": "https://huggingface.co/blog/mistral-large4",
-    "published": "2026-10-29T00:00:00.000Z",
-    "source": "Hugging Face 官方团队博客",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "Anthropic 报告：Claude 研究模型在 Chrome、Safari、Android、Windows、Linux 发现漏洞并串联 5 条攻击链",
-    "summary": "Anthropic 于 10 月 27 日发布研究报告，称一个未公开的内部 Claude 研究模型在 Chrome、Safari、Android、Windows 和 Linux 中发现漏洞，串联出 5 条可实际运行的攻击链，相关漏洞已按协调披露流程报告并修复。",
-    "url": "https://www.ithome.com/1/019/268.htm",
-    "published": "2026-10-28T22:35:25.040Z",
-    "source": "IT之家·人工智能",
-    "source_weight": "high",
-    "category": "paper"
-  },
-  {
-    "title": "Ed Zitron 长文解析 Anthropic S-1：称其把散户当作退出流动性",
-    "summary": "Ed Zitron 撰文批评 Anthropic 的 S-1 招股书，指其仅披露 Q2 盈利数据、省略 Q3 现金状况和付款明细，是在公司基本面变化前误导投资者。",
-    "url": "https://www.wheresyoured.at/exit-liquidity/",
-    "published": "2026-10-28T17:51:00.000Z",
-    "source": "Ed Zitron 长文 / Where’s Your Ed At（RSS）",
-    "source_weight": "high",
-    "category": "opinion"
-  },
-  {
-    "title": "犹他州 10 个州政府部门 34 名开发者试点使用 Claude Code",
-    "summary": "Boris Cherny 介绍犹他州向 10 个州政府部门的 34 名开发者提供了 Claude Code。试点显示 80% 的开发者在 30 分钟内搭好可用环境，71% 的开发者在为期四周的试点结束前报告节省了 20 小时以上时间。该推文引用了 Anthropic 与 GSA 合作将 Claude 以 40% 折扣提供给联邦及各级政府的公告作为背景。",
-    "url": "https://x.com/bcherny/status/2115491259381072269",
-    "published": "2026-10-28T17:09:54.000Z",
-    "source": "X：Boris Cherny (@bcherny)",
-    "source_weight": "high",
-    "category": "industry"
-  },
-  {
-    "title": "OpenMOSS 发布开源图像生成模型 MOSS-Image，主打长文本渲染与可编辑布局",
-    "summary": "OpenMOSS 发布开放权重图像生成模型 MOSS-Image，采用 5B 参数单流 DiT 从零预训练，支持最长 4K token 提示词、中英文长文本渲染和可编辑的 JSON Layout。",
-    "url": "https://openmoss.ai/blog/cn/moss-image/",
-    "published": "2026-10-28T16:00:00.000Z",
-    "source": "OpenMOSS / 复旦NLP / 上海创智 / MOSI（网页）",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "AssemblyAI",
-    "summary": "<p>\n            text-to-speech built for voice agents\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/assemblyai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1296456?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/assemblyai",
-    "published": "2026-10-28T15:35:24-07:00",
+    "title": "Canva Brush",
+    "summary": "<p>\n            Canva Brush: a vision-language model that edits your designs\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/canva?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1297603?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/canva",
+    "published": "2026-10-29T12:23:23-07:00",
     "source": "Product Hunt",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Floot in ChatGPT",
-    "summary": "<p>\n            Build and publish real apps without leaving ChatGPT\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/floot?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1296361?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/floot",
-    "published": "2026-10-28T13:14:10-07:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Trakkr 研究：追踪 1285 条 AI 引用统计的溯源路径",
-    "summary": "Trakkr Research 向 ChatGPT、Perplexity、Gemini、Claude 和 Google AI Overviews 提出 200 个要求数字的问题，并追踪其中 1285 条统计的引用链路，结果只有 40% 到达说法一致的研究，8% 到达但数字或语境已变，40% 无法核查，11% 无处可溯。",
-    "url": "https://trakkr.ai/trakkr-research/zombie-stats",
-    "published": "2026-10-28T08:00:00.000Z",
-    "source": "Hacker News：AI 热帖",
-    "source_weight": "high",
-    "category": "paper"
-  },
-  {
-    "title": "Addy Osmani 讲解如何上手 Claude Code Mods",
-    "summary": "Addy Osmani 发布 Claude Code Mods 上手指南，说明 mods 是运行在会话中的 JavaScript/TypeScript 文件，可通过 hooks 观察事件、改写行为或渲染自定义界面。",
-    "url": "https://x.com/addyosmani/status/2115326629488824753",
-    "published": "2026-10-28T06:15:43.000Z",
-    "source": "X：Addy Osmani (@addyosmani)",
-    "source_weight": "high",
-    "category": "tip"
-  },
-  {
-    "title": "Google 发布世界模型 Genie 4，支持实时操控与原生音频",
-    "summary": "Google 发布下一代世界模型 Genie 4，相比 Genie 3 在照片级真实感、物体碰撞等物理模拟上有明显进步。用户可用 WASD 和双摇杆实时控制角色或镜头，运行中可用自然语言修改天气和加入物体，模型还能同步生成环境音与人物实时对话。",
-    "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687902&idx=1&sn=9a57b3d769582b12d8645af23431743d",
-    "published": "2026-10-28T00:22:00.000Z",
-    "source": "公众号：数字生命卡兹克",
-    "source_weight": "high",
-    "category": "ai-models"
-  },
-  {
-    "title": "IP geolocation now covers more visitors at higher resolution",
-    "summary": "<p><a href=\"https://vercel.com/docs/headers/request-headers\">IP geolocation</a> on Vercel now resolves visitor locations with finer network granularity, delivering city-level data for nearly all requests and postal-code data for 90% of traffic.</p><p>Geolocation data is now refreshed more often, so locations keep up as IP ranges are reassigned and routing changes. This is enabled for all projects with no code or configuration changes required. Existing geolocation headers along with the <a href=",
-    "url": "https://vercel.com/changelog/improved-ip-geolocation-data",
+    "title": "Introducing Geist Serif",
+    "summary": "<p>Geist started as a monospace typeface for developers, built for the editors and terminals where they spend their day doing their work. From there it grew into Geist Sans for product interfaces, and then into Geist Pixel, which was inspired by the grids of early computer screens.</p><p>Today, we're adding a new member to the family: <a href=\"https://vercel.com/font?type=serif\">Geist Serif</a>.</p><div></div><p>Geist Serif is a high-contrast display serif built on the same foundations as Geist ",
+    "url": "https://vercel.com/blog/introducing-geist-serif",
     "published": "",
     "source": "Vercel Blog (v0)",
     "source_weight": "high",
     "category": "design_tools"
   },
   {
-    "title": "The fx adapter now runs the harness on the host",
-    "summary": "<p>The fx adapter for the AI SDK’s <code>HarnessAgent</code> now uses <code>libfx</code>, the TypeScript library for fx. The harness and model requests run in your application’s process, while built-in filesystem and shell operations remain isolated in the sandbox.</p><p>This simplifies sandbox setup: you no longer need to install fx inside the sandbox, run a sandbox bridge, or expose a sandbox port. Model credentials stay on the host, outside the environment where the agent runs commands.</p><p",
-    "url": "https://vercel.com/changelog/fx-harness-adapter-now-separates-host-and-sandbox",
+    "title": "Ling 3.1 Flash 1019 now available on AI Gateway for free",
+    "summary": "<p><a href=\"https://vercel.com/ai-gateway/models/ling-3.1-flash-1019\">Ling 3.1 Flash 1019 from InclusionAI</a> is now available on <a href=\"https://vercel.com/docs/ai-gateway\">AI Gateway</a>, free until November 3, 2026.</p><p>The updated model is designed for coding, multi-step reasoning, and agents that use tools. Its 1M-token context window supports workflows involving long documents, code, and extended task histories.</p><p>Use <code>inclusionai/ling-3.1-flash-1019</code> as the model name:<",
+    "url": "https://vercel.com/changelog/ling-3-1-flash-1019-now-available-on-ai-gateway-for-free",
     "published": "",
     "source": "Vercel Blog (v0)",
     "source_weight": "high",
     "category": "design_tools"
   },
   {
-    "title": "Vercel Plugin is now available in Antigravity",
-    "summary": "<div></div><p>The <a href=\"https://vercel.com/plugin\">Vercel Plugin</a> is now available in the <a href=\"https://antigravity.google/\">Google Antigravity</a> marketplace.</p><p>Use the Vercel Plugin to give your Antigravity agent guidance on Vercel APIs and recommended patterns, with skills for products such as <a href=\"https://ai-sdk.dev/\">AI SDK</a>, <a href=\"https://vercel.com/docs/functions\">Vercel Functions</a>, and <a href=\"https://useworkflow.dev/\">Workflow</a>.</p><p>This demo shows an An",
-    "url": "https://vercel.com/changelog/vercel-plugin-is-now-available-in-antigravity",
+    "title": "Add liveness checks to your Daemons",
+    "summary": "<p><a href=\"https://vercel.com/daemons\">Vercel Daemons</a> now support configuring HTTP liveness checks.</p><p>Start with an HTTP endpoint in your daemon that reports its health. Keep it lightweight so it responds quickly, and have it return an error status when the daemon is no longer healthy:</p><div></div><p>The daemon configuration now accepts a <code>livenessProbe</code> value pointing at that endpoint:</p><div></div><p>Vercel periodically requests the endpoint and restarts the daemon's con",
+    "url": "https://vercel.com/changelog/add-liveness-checks-to-your-daemons",
     "published": "",
     "source": "Vercel Blog (v0)",
     "source_weight": "high",
     "category": "design_tools"
   },
   {
-    "title": "Mistral Large 4 updated weights and lower pricing on AI Gateway",
-    "summary": "<p><a href=\"https://vercel.com/ai-gateway/models/mistral-large-4\">Mistral Large 4 from Mistral</a> now uses updated weights on <a href=\"https://vercel.com/docs/ai-gateway\">AI Gateway</a>, with lower pricing for input, cached input, and output tokens.</p><p>According to <a href=\"https://mistral.ai/news/mistral-large-4-oss/\">Mistral’s release announcement</a>, the updated weights improve agentic coding and defensive cybersecurity, with greater token efficiency on coding tasks. The release also imp",
-    "url": "https://vercel.com/changelog/mistral-large-4-updated-weights-and-lower-pricing-on-ai-gateway",
+    "title": "Strix now supports Vercel AI Gateway",
+    "summary": "<p><a href=\"https://strix.ai\">Strix</a>, the open-source AI penetration testing tool, can now run on any of the 400+ models on Vercel <a href=\"https://vercel.com/docs/ai-gateway\">AI Gateway</a>.</p><p>Strix can reach models from Anthropic, OpenAI, Kimi, GLM, Deepseek, and others through a single API with no markup, removing the need to sign up for multiple providers. Usage and cost are tracked across all models in AI Gateway. </p><p>Strix selects the Gateway through <code>STRIX_LLM</code>, where",
+    "url": "https://vercel.com/changelog/strix-now-supports-vercel-ai-gateway",
     "published": "",
     "source": "Vercel Blog (v0)",
     "source_weight": "high",
@@ -189,8 +54,8 @@
     "category": "design_communities"
   },
   {
-    "title": "Designing for AI deep research: lessons from Google, Perplexity and Microsoft",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/designing-for-ai-deep-research-lessons-from-google-perplexity-and-microsoft-b32fa2f21e7e?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*Tqg1rP0B6d3ahTwuShJERg.png\" width=\"4800\" /></a></p><p class=\"medium-feed-snippet\">6 UX questions for AI research tasks that take time</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/designing-for-ai-deep-research-lessons-from-g",
+    "title": "Beyond chatbots: UX for deep AI research",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/designing-for-ai-deep-research-lessons-from-google-perplexity-and-microsoft-b32fa2f21e7e?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*Tqg1rP0B6d3ahTwuShJERg.png\" width=\"4800\" /></a></p><p class=\"medium-feed-snippet\">What Gemini, Perplexity, Copilot and Consensus do when an answer takes time</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/designing-for-ai-deep",
     "url": "https://uxdesign.cc/designing-for-ai-deep-research-lessons-from-google-perplexity-and-microsoft-b32fa2f21e7e?source=rss----138adf9c44c---4",
     "published": "Wed, 28 Oct 2026 23:23:05 GMT",
     "source": "UX Collective",
@@ -220,6 +85,42 @@
     "summary": "<figure><img alt=\"A design lead works on a screen alongside two designers at a shared table. AI assisted.\" src=\"https://cdn-images-1.medium.com/max/1024/1*C6ckPKkjzXCbYxsEwU-pqg.png\" /><figcaption>A design lead works on a screen alongside two designers at a shared table. AI assisted.</figcaption></figure><h4><em>AI is shrinking teams we run and raising the bar what each person is expected to produce. That changes what a leader has to bring, starting with their own hands.</em></h4><p><a href=\"htt",
     "url": "https://uxdesign.cc/smaller-teams-want-design-leaders-who-make-again-heres-how-b8939221bd7b?source=rss----138adf9c44c---4",
     "published": "Wed, 28 Oct 2026 09:37:57 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "The agent woke up before you did",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-agent-woke-up-before-you-did-a61cfc3948c7?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*xF61mJn34Pwxg-ICAafEsg.jpeg\" width=\"2752\" /></a></p><p class=\"medium-feed-snippet\">The last assumption of user-centered design just fell &#x2014; and four companies pushed it at once.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/the-agent-woke-up-before-you-did-a61cf",
+    "url": "https://uxdesign.cc/the-agent-woke-up-before-you-did-a61cfc3948c7?source=rss----138adf9c44c---4",
+    "published": "Wed, 28 Oct 2026 09:34:18 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "The time AI saves designers usually disappears. Here’s how to keep it.",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-time-ai-saves-designers-usually-disappears-heres-how-to-keep-it-61eb38e1ed69?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*dZrEcUcZH_5ulg0g4yd0zQ.jpeg\" width=\"4252\" /></a></p><p class=\"medium-feed-snippet\">What a survey of 521 UX professionals found about AI in UX</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/the-time-ai-saves-designers-usually-disappear",
+    "url": "https://uxdesign.cc/the-time-ai-saves-designers-usually-disappears-heres-how-to-keep-it-61eb38e1ed69?source=rss----138adf9c44c---4",
+    "published": "Tue, 27 Oct 2026 11:13:45 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Going nowhere fast",
+    "summary": "<h4>When speed disguises itself as progress.</h4><figure><img alt=\"White sports car, trailing speed lines and dust, has raced up to a red traffic light.\" src=\"https://cdn-images-1.medium.com/max/1024/1*IwXAfMroOpeuRe7S5QtCxQ.png\" /><figcaption>One driver worked hard to get to a stoplight. (Rounded Bevel Icons by Tristan)</figcaption></figure><p><strong>I distinctly remember my father driving the speed limit down a two-way street in the Bronx when a car swung out from behind us and cut into our l",
+    "url": "https://uxdesign.cc/going-nowhere-fast-7436dd29c54f?source=rss----138adf9c44c---4",
+    "published": "Tue, 27 Oct 2026 11:13:03 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Building an AI-ready design system library: Code → Figma with MCP.",
+    "summary": "<h4>In-System Design</h4><h4>A practical guide for designers: why my design system starts in code, and how I build, check and maintain the Figma library.</h4><figure><img alt=\"cover\" src=\"https://cdn-images-1.medium.com/max/1024/0*z97zDowA9lacbpjQ.jpeg\" /></figure><p><strong><em>In-System Design: a three-part series.<br />Part 1: Building an AI-ready design system: Code → Figma</em></strong><em> (you are here)<br />Part 2: AI prototyping inside your design system (3 November 2026)<br />Part 3: F",
+    "url": "https://uxdesign.cc/building-an-ai-ready-design-system-library-code-figma-with-mcp-ec5d9e8c90d2?source=rss----138adf9c44c---4",
+    "published": "Mon, 26 Oct 2026 21:33:16 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"

@@ -1,5 +1,5 @@
 {
-  "day_count": 189,
+  "day_count": 190,
   "history": [
     {
       "day": 20,
@@ -1133,6 +1133,13 @@
       "date": "2026-10-29",
       "topic": "腾讯混元发布 Hy-Nomas 技术报告并开源 Hy-Nomas-Bench",
       "source": "X：腾讯混元 (@TencentHunyuan)",
+      "mode": "rss"
+    },
+    {
+      "day": 190,
+      "date": "2026-10-30",
+      "topic": "Canva Brush",
+      "source": "Product Hunt",
       "mode": "rss"
     }
   ],

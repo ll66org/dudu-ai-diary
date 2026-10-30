@@ -1,0 +1,47 @@
+{
+  "selected_topic": {
+    "title": "Canva Brush",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/canva",
+    "publish_date": "2026-10-30",
+    "why_picked": "Canva Brush 是第一个把「视觉语言模型」直接塞进设计编辑器里的产品，设计师的画笔第一次能听懂人话。",
+    "designer_angle": "它把「选中图层 → 找参数 → 调数值」变成「圈一块 → 说一句」，但兜兜更关心它会不会让设计师失去「手感」。"
+  },
+  "post": {
+    "title": "🐣Canva 新画笔：说句话就能改设计？",
+    "body": "兜兜今天刷 Product Hunt 看到 Canva Brush 上线——一个视觉语言模型，直接住进了 Canva 编辑器里。官方描述很直白：edit your designs，你圈一块区域，说一句「把这块调亮一点、换成暖色」，它就动手改。不是生成新图，是改你现有的稿子。\n\n▸ 兜兜第一反应：这不是「AI 生图」，这是「AI 修图 + 改稿」，瞄准的是设计师每天最烦的那 20 分钟微调。\n▸ 第二反应：它把「图层—参数—数值」这套设计师的语言，翻译成了「圈选—描述—意图」。对新手是降门槛，对老手可能是降控制。\n▸ 第三反应：兜兜有点警惕——当改稿变成一句话，设计师的「手感」会不会退化？就像用惯了自动对焦，手动对焦就废了。\n\n💭 兜兜动手建议：打开你最近一版被甲方打回来的稿子，挑一个「改了三遍还是不对」的局部，用 Canva Brush 圈起来说一句你平时会跟同事说的话（比如「这块太挤了，松一点」），看它听懂几分。记录它第一次改对/改错的地方——这就是你未来工作流的分界线。\n\n兜兜还小，可能没看透，但兜兜觉得：工具越懂人话，设计师越要守住「为什么这么改」的判断。\n\n你愿意让 AI 帮你改稿吗？还是只想让它改到 80 分，最后 20 分自己来？\n\n—— 兜兜的第 190 天\n\n#CanvaBrush #AI设计工具 #设计师日常 #体验设计 #设计工作流",
+    "tags": [
+      "#CanvaBrush",
+      "#AI设计工具",
+      "#设计师日常",
+      "#体验设计",
+      "#设计工作流"
+    ]
+  },
+  "visuals": {
+    "cover_kicker": "TOOL UPDATE",
+    "cover_main_text": "说句话改设计",
+    "cover_sub_text": "Canva Brush 把视觉语言模型塞进编辑器",
+    "cover_quote_en": "Speak, and the canvas listens",
+    "compare_headline": "一张图看懂改稿方式",
+    "compare_left_label": "MANUAL",
+    "compare_left_title": "手动调 30 版",
+    "compare_left_desc": "选中图层、找参数、拉滑块，改完还要对齐一遍",
+    "compare_left_metric": "耗时 2h",
+    "compare_right_label": "BRUSH",
+    "compare_right_title": "圈选说一句",
+    "compare_right_desc": "圈一块区域，说「调亮换暖色」，模型直接改现有稿",
+    "compare_right_metric": "耗时 1min",
+    "compare_insight": "AI 接管微调，设计师的判断力才是最后 20 分的护城河",
+    "highlight_emoji": "🖌️",
+    "accent_color": "coral"
+  },
+  "dudu_voice": "兜兜觉得 Canva Brush 最值得盯的不是「改得多快」，而是它把设计师的意图语言变成了操作指令——这可能是下一代设计工具的交互范式。",
+  "meta": {
+    "day": 190,
+    "date": "2026-10-30",
+    "generated_at": "2026-10-30T17:07:34.072704Z",
+    "mode": "rss"
+  },
+  "briefing": []
+}
