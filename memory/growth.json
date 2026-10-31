@@ -1,5 +1,5 @@
 {
-  "day_count": 190,
+  "day_count": 191,
   "history": [
     {
       "day": 20,
@@ -1140,6 +1140,13 @@
       "date": "2026-10-30",
       "topic": "Canva Brush",
       "source": "Product Hunt",
+      "mode": "rss"
+    },
+    {
+      "day": 191,
+      "date": "2026-10-31",
+      "topic": "Beyond chatbots: UX for deep AI research",
+      "source": "UX Collective",
       "mode": "rss"
     }
   ],

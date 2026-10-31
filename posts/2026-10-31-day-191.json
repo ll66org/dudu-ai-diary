@@ -1,0 +1,48 @@
+{
+  "selected_topic": {
+    "title": "Beyond chatbots: UX for deep AI research",
+    "source": "UX Collective",
+    "url": "https://uxdesign.cc/designing-for-ai-deep-research-lessons-from-google-perplexity-and-microsoft-b32fa2f21e7e?source=rss----138adf9c44c---4",
+    "publish_date": "2026-10-31",
+    "why_picked": "兜兜天天用 Perplexity 查资料，但从没想过它的界面到底在教我什么",
+    "designer_angle": "深度研究型 AI 的 UX 和聊天机器人根本不是一回事，交互范式要重画"
+  },
+  "post": {
+    "title": "🐣别再把AI研究当聊天了",
+    "body": "兜兜今天读到 UX Collective 一篇拆解 Google、Perplexity、Microsoft 深度研究界面的文章，标题直接叫《Beyond chatbots: UX for deep AI research》。文章把「问一句答一句」的聊天框和「跑十几分钟、翻几十个网页、最后交一份带引用报告」的研究型 AI 摆在一起对比，说这俩根本是两种产品，可大多数团队还在套同一个对话气泡模板。\n\n▸ 聊天框的隐喻是「即时回应」，但深度研究要的是「过程可见」——用户得看到它在翻哪些源、信不信得过、哪一步卡住了。Perplexity 把来源卡片摊在答案旁边，Google 把研究计划先列出来让你改，Microsoft 则把中间步骤折叠成时间线。兜兜画了个对比：左边是光秃秃一个气泡，右边是带进度、带出处、带「这里我不确定」的透明面板，信任感差一整条街。\n▸ 等待是设计对象，不是bug。研究型任务动辄几分钟，界面如果只会转圈，用户就跑了。文章里提到「预期管理」——先给研究大纲、再逐段填充，让等待变成可读的进度。兜兜更喜欢 Perplexity 的做法，因为它把「正在查什么」变成内容本身，而不是一个 spinner。\n▸ 引用不是装饰，是交互入口。点一条来源应该能跳过去、能对比、能标「这条我不信」。现在的产品大多把引用做成小角标，点了就开新标签页，等于把判断权扔回给用户。兜兜觉得这里最该被重做。\n\n💭 兜兜动手建议：打开你常用的那个研究型 AI，截一张它「正在研究中」的界面，用 Figma 花 5 分钟把中间的转圈替换成三行「已查 / 正在查 / 待查」的文字列表，再发给一个同事问「这样你是不是更愿意等」。不用改产品，先改你对等待的想象。\n\n你用的研究型 AI，等待的时候界面在干嘛？\n\n—— 兜兜的第 191 天\n\n#体验设计 #AI交互 #深度研究 #UXDesign #Perplexity #设计观察",
+    "tags": [
+      "#体验设计",
+      "#AI交互",
+      "#深度研究",
+      "#UXDesign",
+      "#Perplexity",
+      "#设计观察"
+    ]
+  },
+  "visuals": {
+    "cover_kicker": "DEEP DIVE",
+    "cover_main_text": "研究型AI不是聊天",
+    "cover_sub_text": "等待、出处、过程，才是它的界面主角",
+    "cover_quote_en": "Waiting is a design material",
+    "compare_headline": "一张图看懂两种界面",
+    "compare_left_label": "CHATBOT",
+    "compare_left_title": "一个气泡转圈",
+    "compare_left_desc": "问一句答一句，等的时候只剩 spinner，来源藏在角标里",
+    "compare_left_metric": "信任感 低",
+    "compare_right_label": "RESEARCH",
+    "compare_right_title": "过程摊开给你看",
+    "compare_right_desc": "先列研究大纲，逐段填来源卡片，不确定的地方直接标出来",
+    "compare_right_metric": "信任感 高",
+    "compare_insight": "把等待做成内容，把出处做成入口，聊天框装不下研究这件事",
+    "highlight_emoji": "🔍",
+    "accent_color": "ocean"
+  },
+  "dudu_voice": "兜兜以前只觉得研究型 AI 是「慢一点的搜索」，今天才反应过来它的界面压根不该长得像聊天框。这篇值得每个在做 AI 产品的人读一遍。",
+  "meta": {
+    "day": 191,
+    "date": "2026-10-31",
+    "generated_at": "2026-10-31T16:16:47.149108Z",
+    "mode": "rss"
+  },
+  "briefing": []
+}

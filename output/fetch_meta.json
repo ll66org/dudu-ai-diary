@@ -1,14 +1,14 @@
 {
-  "fetched_at": "2026-10-30T17:07:27.250910Z",
-  "total_candidates": 14,
+  "fetched_at": "2026-10-31T16:16:39.769758Z",
+  "total_candidates": 11,
   "source_stats": {
     "Figma Blog": {
       "found": 0,
       "total": 0
     },
     "Vercel Blog (v0)": {
-      "found": 4,
-      "total": 2105
+      "found": 0,
+      "total": 2108
     },
     "Cursor Changelog": {
       "found": 0,
@@ -31,7 +31,7 @@
       "total": 66
     },
     "Smashing Magazine": {
-      "found": 0,
+      "found": 1,
       "total": 40
     },
     "UX Collective": {
@@ -64,25 +64,25 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 190,
-  "today_date": "2026-10-30",
+  "dudu_day": 191,
+  "today_date": "2026-10-31",
   "used_titles": [
-    "MiniMax Code 桌面端推出 Mini App 长运行应用功能",
     "Kimi 发布开源旗舰模型 K3.1 Pro：2.8T 参数、100万 Token 上下文，实测 3D 与视频动效",
     "Kimi 发布开源旗舰模型 K3.1 Pro：2.8T 参数、100万 Token 上下文，实测 3D 与视频动效",
     "卡兹克手把手演示用 Codex 和 Claude 逆向改造现实硬件设备",
     "Google DeepMind 发布实时交互世界模型 Genie 4",
     "GitHub Octoverse 2026：开发活动创新高，超 40% 的 PR 由智能体起草",
-    "腾讯混元发布 Hy-Nomas 技术报告并开源 Hy-Nomas-Bench"
+    "腾讯混元发布 Hy-Nomas 技术报告并开源 Hy-Nomas-Bench",
+    "Canva Brush"
   ],
   "used_tools": [
-    "MiniMax：Blog（网页）",
     "公众号：数字生命卡兹克",
     "公众号：数字生命卡兹克",
     "X：卡兹克 (@Khazix0918)",
     "Google DeepMind：Blog（RSS）",
     "GitHub Blog",
-    "X：腾讯混元 (@TencentHunyuan)"
+    "X：腾讯混元 (@TencentHunyuan)",
+    "Product Hunt"
   ],
   "briefing_total": 0,
   "briefing_design": 0,

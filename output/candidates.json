@@ -1,48 +1,12 @@
 [
   {
-    "title": "Canva Brush",
-    "summary": "<p>\n            Canva Brush: a vision-language model that edits your designs\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/canva?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1297603?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/canva",
-    "published": "2026-10-29T12:23:23-07:00",
+    "title": "AC Bridge",
+    "summary": "<p>\n            Your smart lights show when Claude Code or Codex needs you.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/ac-bridge?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1299153?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/ac-bridge",
+    "published": "2026-10-30T21:20:01-07:00",
     "source": "Product Hunt",
     "source_weight": "high",
     "category": "ai_tech"
-  },
-  {
-    "title": "Introducing Geist Serif",
-    "summary": "<p>Geist started as a monospace typeface for developers, built for the editors and terminals where they spend their day doing their work. From there it grew into Geist Sans for product interfaces, and then into Geist Pixel, which was inspired by the grids of early computer screens.</p><p>Today, we're adding a new member to the family: <a href=\"https://vercel.com/font?type=serif\">Geist Serif</a>.</p><div></div><p>Geist Serif is a high-contrast display serif built on the same foundations as Geist ",
-    "url": "https://vercel.com/blog/introducing-geist-serif",
-    "published": "",
-    "source": "Vercel Blog (v0)",
-    "source_weight": "high",
-    "category": "design_tools"
-  },
-  {
-    "title": "Ling 3.1 Flash 1019 now available on AI Gateway for free",
-    "summary": "<p><a href=\"https://vercel.com/ai-gateway/models/ling-3.1-flash-1019\">Ling 3.1 Flash 1019 from InclusionAI</a> is now available on <a href=\"https://vercel.com/docs/ai-gateway\">AI Gateway</a>, free until November 3, 2026.</p><p>The updated model is designed for coding, multi-step reasoning, and agents that use tools. Its 1M-token context window supports workflows involving long documents, code, and extended task histories.</p><p>Use <code>inclusionai/ling-3.1-flash-1019</code> as the model name:<",
-    "url": "https://vercel.com/changelog/ling-3-1-flash-1019-now-available-on-ai-gateway-for-free",
-    "published": "",
-    "source": "Vercel Blog (v0)",
-    "source_weight": "high",
-    "category": "design_tools"
-  },
-  {
-    "title": "Add liveness checks to your Daemons",
-    "summary": "<p><a href=\"https://vercel.com/daemons\">Vercel Daemons</a> now support configuring HTTP liveness checks.</p><p>Start with an HTTP endpoint in your daemon that reports its health. Keep it lightweight so it responds quickly, and have it return an error status when the daemon is no longer healthy:</p><div></div><p>The daemon configuration now accepts a <code>livenessProbe</code> value pointing at that endpoint:</p><div></div><p>Vercel periodically requests the endpoint and restarts the daemon's con",
-    "url": "https://vercel.com/changelog/add-liveness-checks-to-your-daemons",
-    "published": "",
-    "source": "Vercel Blog (v0)",
-    "source_weight": "high",
-    "category": "design_tools"
-  },
-  {
-    "title": "Strix now supports Vercel AI Gateway",
-    "summary": "<p><a href=\"https://strix.ai\">Strix</a>, the open-source AI penetration testing tool, can now run on any of the 400+ models on Vercel <a href=\"https://vercel.com/docs/ai-gateway\">AI Gateway</a>.</p><p>Strix can reach models from Anthropic, OpenAI, Kimi, GLM, Deepseek, and others through a single API with no markup, removing the need to sign up for multiple providers. Usage and cost are tracked across all models in AI Gateway. </p><p>Strix selects the Gateway through <code>STRIX_LLM</code>, where",
-    "url": "https://vercel.com/changelog/strix-now-supports-vercel-ai-gateway",
-    "published": "",
-    "source": "Vercel Blog (v0)",
-    "source_weight": "high",
-    "category": "design_tools"
   },
   {
     "title": "How I stopped dreading AI and started studying it full-time",
@@ -109,10 +73,19 @@
   },
   {
     "title": "Going nowhere fast",
-    "summary": "<h4>When speed disguises itself as progress.</h4><figure><img alt=\"White sports car, trailing speed lines and dust, has raced up to a red traffic light.\" src=\"https://cdn-images-1.medium.com/max/1024/1*IwXAfMroOpeuRe7S5QtCxQ.png\" /><figcaption>One driver worked hard to get to a stoplight. (Rounded Bevel Icons by Tristan)</figcaption></figure><p><strong>I distinctly remember my father driving the speed limit down a two-way street in the Bronx when a car swung out from behind us and cut into our l",
+    "summary": "<h3>Going Nowhere Fast</h3><h4>When speed disguises itself as progress.</h4><figure><img alt=\"White sports car, trailing speed lines and dust, has raced up to a red traffic light.\" src=\"https://cdn-images-1.medium.com/max/1024/1*IwXAfMroOpeuRe7S5QtCxQ.png\" /><figcaption>One driver worked hard to get to a stoplight. (Rounded Bevel Icons by Tristan)</figcaption></figure><p><strong>I distinctly remember my father driving the speed limit down a two-way street in the Bronx when a car swung out from b",
     "url": "https://uxdesign.cc/going-nowhere-fast-7436dd29c54f?source=rss----138adf9c44c---4",
     "published": "Tue, 27 Oct 2026 11:13:03 GMT",
     "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "A Spark Of Color In November’s Gray (2026 Wallpapers Edition)",
+    "summary": "Let’s kick of November with a new collection of desktop wallpapers! Designed by creatives from across the globe, the wallpapers come in a variety of screen resolutions and can be downloaded for free. Enjoy!",
+    "url": "https://smashingmagazine.com/2026/10/desktop-wallpaper-calendars-november-2026/",
+    "published": "Sat, 31 Oct 2026 08:00:00 GMT",
+    "source": "Smashing Magazine",
     "source_weight": "medium",
     "category": "design_communities"
   },
