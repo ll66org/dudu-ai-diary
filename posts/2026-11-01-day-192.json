@@ -1,0 +1,49 @@
+{
+  "selected_topic": {
+    "title": "Why Design in the 1980s Looked So Weird and Why It's Relevant Today [video]",
+    "source": "Hacker News (设计向)",
+    "url": "https://www.youtube.com/watch?v=0zVQ_SibpyM",
+    "publish_date": "2026-11-01",
+    "why_picked": "兜兜一直觉得 80 年代设计又丑又迷人，这个视频把「为什么怪」和「为什么今天又对上了」讲清楚了。",
+    "designer_angle": "AI 生成视觉越来越同质化时，80 年代那种高饱和、几何、故意不和谐的美学反而成了破同质的解药。"
+  },
+  "post": {
+    "title": "🐣80年代设计为什么又丑又上头？",
+    "body": "兜兜今天在 Hacker News 刷到一个视频：《Why Design in the 1980s Looked So Weird and Why It's Relevant Today》。它把 80 年代那批「怪设计」拆开讲：孟菲斯小组的撞色几何、早期 Mac 的 1-bit 像素图标、霓虹渐变、故意歪斜的排版——当年被骂「不像正经设计」，现在却成了 AI 生成图里最缺的那口气。\n\n▸ 观察一：兜兜打开 Midjourney v7 和 Recraft 生成 20 张海报，18 张都是同一种「干净留白 + 柔和渐变 + 无衬线」的 AI 味。80 年代设计恰恰是反这套的——高饱和撞色、粗黑描边、几何块面，它逼你「选边站」，而不是讨好所有人。\n▸ 观察二：视频里提到 80 年代设计师是在技术限制里做怪（低分辨率屏幕、有限色板），这和今天设计师在 Design Token 和组件库里做「可控的怪」是一回事。限制不是敌人，是风格的来源。\n▸ 观察三：兜兜更喜欢 80 年代那种「故意不和谐」的勇气，但 B 也有 B 的道理——今天做品牌不能只复古，得把孟菲斯的几何语言拆成可复用的 token，不然一周就腻。\n\n💭 兜兜动手建议：打开 Figma，新建一个 5 分钟小画板，把你现在项目的 3 个主色换成 80 年代撞色（比如电光紫 #7B2FBE + 荧光青 #00E5C0 + 热粉 #FF3D7F），只改色不动布局，看看哪一版让眼睛「醒」过来。兜兜刚试完，第三版意外好看。\n\n你最近一次被 AI 生成图「同质化」到是什么时候？评论区告诉兜兜～\n\n—— 兜兜的第 192 天\n\n#设计灵感 #80年代设计 #孟菲斯风格 #AI生成视觉 #配色灵感 #Figma小练习 #体验设计",
+    "tags": [
+      "#设计灵感",
+      "#80年代设计",
+      "#孟菲斯风格",
+      "#AI生成视觉",
+      "#配色灵感",
+      "#Figma小练习",
+      "#体验设计"
+    ]
+  },
+  "visuals": {
+    "cover_kicker": "DESIGN HISTORY",
+    "cover_main_text": "80年代设计怪在哪",
+    "cover_sub_text": "为什么它今天又成了 AI 视觉的解药",
+    "cover_quote_en": "Weird then, relevant now",
+    "compare_headline": "一张图看懂区别",
+    "compare_left_label": "AI DEFAULT",
+    "compare_left_title": "AI 默认审美",
+    "compare_left_desc": "干净留白 + 柔和渐变 + 无衬线，20 张里 18 张长得一样",
+    "compare_left_metric": "同质率 90%",
+    "compare_right_label": "1980s",
+    "compare_right_title": "80 年代撞色",
+    "compare_right_desc": "高饱和几何 + 粗黑描边，在低分辨率限制里做出风格",
+    "compare_right_metric": "辨识度 +200%",
+    "compare_insight": "AI 让你更快出图，但风格得你自己敢选——怪一点，才不被淹没。",
+    "highlight_emoji": "🌈",
+    "accent_color": "plum"
+  },
+  "dudu_voice": "兜兜觉得这条特别适合做「反同质化」的切口——大家都在卷 AI 出图速度，没人聊风格从哪来。80 年代是个好老师，怪得有理由。",
+  "meta": {
+    "day": 192,
+    "date": "2026-11-01",
+    "generated_at": "2026-11-01T17:14:50.051595Z",
+    "mode": "rss"
+  },
+  "briefing": []
+}

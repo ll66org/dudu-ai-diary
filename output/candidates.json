@@ -1,10 +1,55 @@
 [
   {
-    "title": "AC Bridge",
-    "summary": "<p>\n            Your smart lights show when Claude Code or Codex needs you.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/ac-bridge?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1299153?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/ac-bridge",
-    "published": "2026-10-30T21:20:01-07:00",
-    "source": "Product Hunt",
+    "title": "USWDS: The United States Web Design System",
+    "summary": "<p>Article URL: <a href=\"https://designsystem.digital.gov/\">https://designsystem.digital.gov/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50327175\">https://news.ycombinator.com/item?id=50327175</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "url": "https://designsystem.digital.gov/",
+    "published": "Sun, 01 Nov 2026 16:35:26 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Codedict – a no-AI code index that cut my Claude Code tokens by 63%",
+    "summary": "<p>Article URL: <a href=\"https://github.com/Marqueos/codedict\">https://github.com/Marqueos/codedict</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50326786\">https://news.ycombinator.com/item?id=50326786</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://github.com/Marqueos/codedict",
+    "published": "Sun, 01 Nov 2026 15:54:21 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Exploring Super-Agent Design: Towards a More Autonomous Agent System",
+    "summary": "<p>Article URL: <a href=\"https://twitter.com/DeepSeekHarness/status/2116857257245987236\">https://twitter.com/DeepSeekHarness/status/2116857257245987236</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50326523\">https://news.ycombinator.com/item?id=50326523</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "url": "https://twitter.com/DeepSeekHarness/status/2116857257245987236",
+    "published": "Sun, 01 Nov 2026 15:25:07 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Why Design in the 1980s Looked So Weird and Why It's Relevant Today [video]",
+    "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=0zVQ_SibpyM\">https://www.youtube.com/watch?v=0zVQ_SibpyM</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50326260\">https://news.ycombinator.com/item?id=50326260</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "url": "https://www.youtube.com/watch?v=0zVQ_SibpyM",
+    "published": "Sun, 01 Nov 2026 14:53:37 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "The Sims Game Design Documents (1997)",
+    "summary": "<p>Article URL: <a href=\"https://donhopkins.com/home/TheSimsDesignDocuments/\">https://donhopkins.com/home/TheSimsDesignDocuments/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50325759\">https://news.ycombinator.com/item?id=50325759</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+    "url": "https://donhopkins.com/home/TheSimsDesignDocuments/",
+    "published": "Sun, 01 Nov 2026 14:00:12 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
+    "summary": "<p>Article URL: <a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy\">https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=5",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
+    "published": "Sun, 01 Nov 2026 13:47:24 +0000",
+    "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
@@ -13,15 +58,6 @@
     "summary": "<p>By June 2026, I couldn’t open an app without being told I was falling behind. My Instagram saves were full of designers building agents over a weekend. LinkedIn was a steady stream of people who had “shipped it with Cursor.” And the job listings I was tailoring my resume to kept asking for things like evals, MCP, AI prototyping and Claude Code: words I half recognized and could not have explained in an interview.</p><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*pdkmyYmJK",
     "url": "https://uxdesign.cc/how-i-stopped-dreading-ai-and-started-studying-it-full-time-fee7afc2b967?source=rss----138adf9c44c---4",
     "published": "Wed, 28 Oct 2026 23:24:01 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Beyond chatbots: UX for deep AI research",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/designing-for-ai-deep-research-lessons-from-google-perplexity-and-microsoft-b32fa2f21e7e?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*Tqg1rP0B6d3ahTwuShJERg.png\" width=\"4800\" /></a></p><p class=\"medium-feed-snippet\">What Gemini, Perplexity, Copilot and Consensus do when an answer takes time</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/designing-for-ai-deep",
-    "url": "https://uxdesign.cc/designing-for-ai-deep-research-lessons-from-google-perplexity-and-microsoft-b32fa2f21e7e?source=rss----138adf9c44c---4",
-    "published": "Wed, 28 Oct 2026 23:23:05 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
@@ -45,37 +81,28 @@
     "category": "design_communities"
   },
   {
-    "title": "Smaller teams want design leaders who make, again. Here’s how.",
-    "summary": "<figure><img alt=\"A design lead works on a screen alongside two designers at a shared table. AI assisted.\" src=\"https://cdn-images-1.medium.com/max/1024/1*C6ckPKkjzXCbYxsEwU-pqg.png\" /><figcaption>A design lead works on a screen alongside two designers at a shared table. AI assisted.</figcaption></figure><h4><em>AI is shrinking teams we run and raising the bar what each person is expected to produce. That changes what a leader has to bring, starting with their own hands.</em></h4><p><a href=\"htt",
-    "url": "https://uxdesign.cc/smaller-teams-want-design-leaders-who-make-again-heres-how-b8939221bd7b?source=rss----138adf9c44c---4",
-    "published": "Wed, 28 Oct 2026 09:37:57 GMT",
+    "title": "When colors pass but palettes fail",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/when-colors-pass-but-palettes-fail-55b7210f8e4d?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1860/1*CbBydIIo0J2Xk9HmxB1EYg.png\" width=\"1860\" /></a></p><p class=\"medium-feed-snippet\">The accessibility challenge of generative AI diverging color palettes.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/when-colors-pass-but-palettes-fail-55b7210f8e4d?source=rss----138ad",
+    "url": "https://uxdesign.cc/when-colors-pass-but-palettes-fail-55b7210f8e4d?source=rss----138adf9c44c---4",
+    "published": "Sun, 01 Nov 2026 14:34:07 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
   },
   {
-    "title": "The agent woke up before you did",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-agent-woke-up-before-you-did-a61cfc3948c7?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*xF61mJn34Pwxg-ICAafEsg.jpeg\" width=\"2752\" /></a></p><p class=\"medium-feed-snippet\">The last assumption of user-centered design just fell &#x2014; and four companies pushed it at once.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/the-agent-woke-up-before-you-did-a61cf",
-    "url": "https://uxdesign.cc/the-agent-woke-up-before-you-did-a61cfc3948c7?source=rss----138adf9c44c---4",
-    "published": "Wed, 28 Oct 2026 09:34:18 GMT",
+    "title": "Your design system was never about components",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/your-design-system-was-never-the-components-9605130c3038?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1632/0*EBbFKwaDeO0sVSNR\" width=\"1632\" /></a></p><p class=\"medium-feed-snippet\">Google, Atlassian and Figma now ship a file for the reasons behind a design. Nothing makes the machine follow it.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/your-design-system-was-ne",
+    "url": "https://uxdesign.cc/your-design-system-was-never-the-components-9605130c3038?source=rss----138adf9c44c---4",
+    "published": "Sun, 01 Nov 2026 14:32:36 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
   },
   {
-    "title": "The time AI saves designers usually disappears. Here’s how to keep it.",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-time-ai-saves-designers-usually-disappears-heres-how-to-keep-it-61eb38e1ed69?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*dZrEcUcZH_5ulg0g4yd0zQ.jpeg\" width=\"4252\" /></a></p><p class=\"medium-feed-snippet\">What a survey of 521 UX professionals found about AI in UX</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/the-time-ai-saves-designers-usually-disappear",
-    "url": "https://uxdesign.cc/the-time-ai-saves-designers-usually-disappears-heres-how-to-keep-it-61eb38e1ed69?source=rss----138adf9c44c---4",
-    "published": "Tue, 27 Oct 2026 11:13:45 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Going nowhere fast",
-    "summary": "<h3>Going Nowhere Fast</h3><h4>When speed disguises itself as progress.</h4><figure><img alt=\"White sports car, trailing speed lines and dust, has raced up to a red traffic light.\" src=\"https://cdn-images-1.medium.com/max/1024/1*IwXAfMroOpeuRe7S5QtCxQ.png\" /><figcaption>One driver worked hard to get to a stoplight. (Rounded Bevel Icons by Tristan)</figcaption></figure><p><strong>I distinctly remember my father driving the speed limit down a two-way street in the Bronx when a car swung out from b",
-    "url": "https://uxdesign.cc/going-nowhere-fast-7436dd29c54f?source=rss----138adf9c44c---4",
-    "published": "Tue, 27 Oct 2026 11:13:03 GMT",
+    "title": "Samia Halaby and the Amiga 1000",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/samia-halaby-and-the-amiga-1000-8aae181666b9?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/831/1*JWGksfqy6Y6lG9Zbk4Uk5w.png\" width=\"831\" /></a></p><p class=\"medium-feed-snippet\">The unique features of the Motorola 68000 that facilitated an enchanting Golden Age for pixel art</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/samia-halaby-and-the-amiga-1000-8aae181666b9?",
+    "url": "https://uxdesign.cc/samia-halaby-and-the-amiga-1000-8aae181666b9?source=rss----138adf9c44c---4",
+    "published": "Sun, 01 Nov 2026 14:32:15 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
@@ -86,15 +113,6 @@
     "url": "https://smashingmagazine.com/2026/10/desktop-wallpaper-calendars-november-2026/",
     "published": "Sat, 31 Oct 2026 08:00:00 GMT",
     "source": "Smashing Magazine",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Building an AI-ready design system library: Code → Figma with MCP.",
-    "summary": "<h4>In-System Design</h4><h4>A practical guide for designers: why my design system starts in code, and how I build, check and maintain the Figma library.</h4><figure><img alt=\"cover\" src=\"https://cdn-images-1.medium.com/max/1024/0*z97zDowA9lacbpjQ.jpeg\" /></figure><p><strong><em>In-System Design: a three-part series.<br />Part 1: Building an AI-ready design system: Code → Figma</em></strong><em> (you are here)<br />Part 2: AI prototyping inside your design system (3 November 2026)<br />Part 3: F",
-    "url": "https://uxdesign.cc/building-an-ai-ready-design-system-library-code-figma-with-mcp-ec5d9e8c90d2?source=rss----138adf9c44c---4",
-    "published": "Mon, 26 Oct 2026 21:33:16 GMT",
-    "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
   }

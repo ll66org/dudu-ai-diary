@@ -1,5 +1,5 @@
 {
-  "day_count": 191,
+  "day_count": 192,
   "history": [
     {
       "day": 20,
@@ -1147,6 +1147,13 @@
       "date": "2026-10-31",
       "topic": "Beyond chatbots: UX for deep AI research",
       "source": "UX Collective",
+      "mode": "rss"
+    },
+    {
+      "day": 192,
+      "date": "2026-11-01",
+      "topic": "Why Design in the 1980s Looked So Weird and Why It's Relevant Today [video]",
+      "source": "Hacker News (设计向)",
       "mode": "rss"
     }
   ],
