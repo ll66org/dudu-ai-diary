@@ -1,48 +1,46 @@
 {
   "selected_topic": {
-    "title": "Why Design in the 1980s Looked So Weird and Why It's Relevant Today [video]",
+    "title": "Systemap – animated system design diagrams that run in the browser",
     "source": "Hacker News (设计向)",
-    "url": "https://www.youtube.com/watch?v=0zVQ_SibpyM",
-    "publish_date": "2026-11-01",
-    "why_picked": "兜兜一直觉得 80 年代设计又丑又迷人，这个视频把「为什么怪」和「为什么今天又对上了」讲清楚了。",
-    "designer_angle": "AI 生成视觉越来越同质化时，80 年代那种高饱和、几何、故意不和谐的美学反而成了破同质的解药。"
+    "url": "https://systemap.app/try",
+    "publish_date": "2026-11-03",
+    "why_picked": "兜兜第一次看到系统设计图能像动画一样在浏览器里跑起来，这直接戳中了设计师画流程图的痛点。",
+    "designer_angle": "它把静态的架构图变成了可交互、可演示的体验，设计师和工程师的协作方式可能被改写。"
   },
   "post": {
-    "title": "🐣80年代设计为什么又丑又上头？",
-    "body": "兜兜今天在 Hacker News 刷到一个视频：《Why Design in the 1980s Looked So Weird and Why It's Relevant Today》。它把 80 年代那批「怪设计」拆开讲：孟菲斯小组的撞色几何、早期 Mac 的 1-bit 像素图标、霓虹渐变、故意歪斜的排版——当年被骂「不像正经设计」，现在却成了 AI 生成图里最缺的那口气。\n\n▸ 观察一：兜兜打开 Midjourney v7 和 Recraft 生成 20 张海报，18 张都是同一种「干净留白 + 柔和渐变 + 无衬线」的 AI 味。80 年代设计恰恰是反这套的——高饱和撞色、粗黑描边、几何块面，它逼你「选边站」，而不是讨好所有人。\n▸ 观察二：视频里提到 80 年代设计师是在技术限制里做怪（低分辨率屏幕、有限色板），这和今天设计师在 Design Token 和组件库里做「可控的怪」是一回事。限制不是敌人，是风格的来源。\n▸ 观察三：兜兜更喜欢 80 年代那种「故意不和谐」的勇气，但 B 也有 B 的道理——今天做品牌不能只复古，得把孟菲斯的几何语言拆成可复用的 token，不然一周就腻。\n\n💭 兜兜动手建议：打开 Figma，新建一个 5 分钟小画板，把你现在项目的 3 个主色换成 80 年代撞色（比如电光紫 #7B2FBE + 荧光青 #00E5C0 + 热粉 #FF3D7F），只改色不动布局，看看哪一版让眼睛「醒」过来。兜兜刚试完，第三版意外好看。\n\n你最近一次被 AI 生成图「同质化」到是什么时候？评论区告诉兜兜～\n\n—— 兜兜的第 192 天\n\n#设计灵感 #80年代设计 #孟菲斯风格 #AI生成视觉 #配色灵感 #Figma小练习 #体验设计",
+    "title": "🐣系统图会动了！设计师的流程图要失业？",
+    "body": "兜兜今天在 Hacker News 上刷到一个叫 Systemap 的工具，它能让系统设计图在浏览器里直接跑起来——不是静态截图，是动画！比如数据流会沿着箭头移动，点击节点能展开细节，整个架构图像一个小型演示。\n\n▸ 兜兜觉得这对设计师来说是个信号：我们画的流程图、架构图，以后可能不再是给工程师看的“说明书”，而是可以交互的“体验原型”。\n▸ 但这也意味着，设计师要开始懂一点系统逻辑了，不然动画跑起来你都不知道哪个节点该亮。\n▸ 兜兜更喜欢它的一点是：它直接在浏览器里运行，不用装软件，分享链接就能看，这对远程协作太友好了。\n\n💭 兜兜动手建议：下次画用户旅程图或者服务蓝图时，试试用 Systemap 把关键路径做成动画，5 分钟就能让团队看懂数据怎么流动。\n\n你会想用动画来演示你的设计流程吗？\n\n—— 兜兜的第 193 天\n#设计工具 #系统设计 #交互设计 #动画演示 #设计师协作",
     "tags": [
-      "#设计灵感",
-      "#80年代设计",
-      "#孟菲斯风格",
-      "#AI生成视觉",
-      "#配色灵感",
-      "#Figma小练习",
-      "#体验设计"
+      "#设计工具",
+      "#系统设计",
+      "#交互设计",
+      "#动画演示",
+      "#设计师协作"
     ]
   },
   "visuals": {
-    "cover_kicker": "DESIGN HISTORY",
-    "cover_main_text": "80年代设计怪在哪",
-    "cover_sub_text": "为什么它今天又成了 AI 视觉的解药",
-    "cover_quote_en": "Weird then, relevant now",
+    "cover_kicker": "TOOL UPDATE",
+    "cover_main_text": "系统图动起来了",
+    "cover_sub_text": "浏览器里跑动画，设计师协作新方式",
+    "cover_quote_en": "Diagrams that move, ideas that flow.",
     "compare_headline": "一张图看懂区别",
-    "compare_left_label": "AI DEFAULT",
-    "compare_left_title": "AI 默认审美",
-    "compare_left_desc": "干净留白 + 柔和渐变 + 无衬线，20 张里 18 张长得一样",
-    "compare_left_metric": "同质率 90%",
-    "compare_right_label": "1980s",
-    "compare_right_title": "80 年代撞色",
-    "compare_right_desc": "高饱和几何 + 粗黑描边，在低分辨率限制里做出风格",
-    "compare_right_metric": "辨识度 +200%",
-    "compare_insight": "AI 让你更快出图，但风格得你自己敢选——怪一点，才不被淹没。",
-    "highlight_emoji": "🌈",
-    "accent_color": "plum"
+    "compare_left_label": "STATIC",
+    "compare_left_title": "静态截图",
+    "compare_left_desc": "画完导出 PNG，发群里等回复，改一版传一版",
+    "compare_left_metric": "耗时 2h",
+    "compare_right_label": "ANIMATED",
+    "compare_right_title": "动画演示",
+    "compare_right_desc": "浏览器里实时动画，链接分享，点击节点看细节",
+    "compare_right_metric": "耗时 5min",
+    "compare_insight": "设计师要拥抱动态表达，但别忘了逻辑清晰才是根本。",
+    "highlight_emoji": "✨",
+    "accent_color": "ocean"
   },
-  "dudu_voice": "兜兜觉得这条特别适合做「反同质化」的切口——大家都在卷 AI 出图速度，没人聊风格从哪来。80 年代是个好老师，怪得有理由。",
+  "dudu_voice": "兜兜觉得这个工具超酷，但也在想：动画会不会让简单的事情变复杂？不过先试了再说！",
   "meta": {
-    "day": 192,
-    "date": "2026-11-01",
-    "generated_at": "2026-11-01T17:14:50.051595Z",
+    "day": 193,
+    "date": "2026-11-02",
+    "generated_at": "2026-11-02T20:52:12.604369Z",
     "mode": "rss"
   },
   "briefing": []

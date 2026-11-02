@@ -1,81 +1,108 @@
 [
   {
-    "title": "USWDS: The United States Web Design System",
-    "summary": "<p>Article URL: <a href=\"https://designsystem.digital.gov/\">https://designsystem.digital.gov/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50327175\">https://news.ycombinator.com/item?id=50327175</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
-    "url": "https://designsystem.digital.gov/",
-    "published": "Sun, 01 Nov 2026 16:35:26 +0000",
+    "title": "I Built the Most AI-Pilled Company in the World",
+    "summary": "<p>Article URL: <a href=\"https://x.com/jsnnsa/article/2115623382721126826\">https://x.com/jsnnsa/article/2115623382721126826</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50342791\">https://news.ycombinator.com/item?id=50342791</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://x.com/jsnnsa/article/2115623382721126826",
+    "published": "Mon, 02 Nov 2026 19:59:49 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Codedict – a no-AI code index that cut my Claude Code tokens by 63%",
-    "summary": "<p>Article URL: <a href=\"https://github.com/Marqueos/codedict\">https://github.com/Marqueos/codedict</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50326786\">https://news.ycombinator.com/item?id=50326786</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://github.com/Marqueos/codedict",
-    "published": "Sun, 01 Nov 2026 15:54:21 +0000",
+    "title": "Secure AI Agents with Hazmat Suits, Not Self-Defense Classes",
+    "summary": "<p>Article URL: <a href=\"https://infisical.com/blog/ai-agent-security-hazmat-suits\">https://infisical.com/blog/ai-agent-security-hazmat-suits</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50342772\">https://news.ycombinator.com/item?id=50342772</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://infisical.com/blog/ai-agent-security-hazmat-suits",
+    "published": "Mon, 02 Nov 2026 19:58:43 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Exploring Super-Agent Design: Towards a More Autonomous Agent System",
-    "summary": "<p>Article URL: <a href=\"https://twitter.com/DeepSeekHarness/status/2116857257245987236\">https://twitter.com/DeepSeekHarness/status/2116857257245987236</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50326523\">https://news.ycombinator.com/item?id=50326523</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
-    "url": "https://twitter.com/DeepSeekHarness/status/2116857257245987236",
-    "published": "Sun, 01 Nov 2026 15:25:07 +0000",
+    "title": "Systemap – animated system design diagrams that run in the browser",
+    "summary": "<p>Article URL: <a href=\"https://systemap.app/try\">https://systemap.app/try</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50342632\">https://news.ycombinator.com/item?id=50342632</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://systemap.app/try",
+    "published": "Mon, 02 Nov 2026 19:48:50 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Why Design in the 1980s Looked So Weird and Why It's Relevant Today [video]",
-    "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=0zVQ_SibpyM\">https://www.youtube.com/watch?v=0zVQ_SibpyM</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50326260\">https://news.ycombinator.com/item?id=50326260</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
-    "url": "https://www.youtube.com/watch?v=0zVQ_SibpyM",
-    "published": "Sun, 01 Nov 2026 14:53:37 +0000",
+    "title": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
+    "summary": "<p>Article URL: <a href=\"https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html\">https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50342284\">https://news.ycombinator.com/item?id=50342284</a></p>\n<p>Points: 54</p>\n<p># Comments: 25</p>",
+    "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
+    "published": "Mon, 02 Nov 2026 19:27:37 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "The Sims Game Design Documents (1997)",
-    "summary": "<p>Article URL: <a href=\"https://donhopkins.com/home/TheSimsDesignDocuments/\">https://donhopkins.com/home/TheSimsDesignDocuments/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50325759\">https://news.ycombinator.com/item?id=50325759</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
-    "url": "https://donhopkins.com/home/TheSimsDesignDocuments/",
-    "published": "Sun, 01 Nov 2026 14:00:12 +0000",
+    "title": "AI video editing in DaVinci Resolve and MCP – workflow demonstration and test",
+    "summary": "<p>Article URL: <a href=\"https://primalvideo.com/guides/davinci-resolve-ai-assistance/\">https://primalvideo.com/guides/davinci-resolve-ai-assistance/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50341624\">https://news.ycombinator.com/item?id=50341624</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "url": "https://primalvideo.com/guides/davinci-resolve-ai-assistance/",
+    "published": "Mon, 02 Nov 2026 18:48:38 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
-    "summary": "<p>Article URL: <a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy\">https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=5",
-    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
-    "published": "Sun, 01 Nov 2026 13:47:24 +0000",
-    "source": "Hacker News (设计向)",
+    "title": "Help",
+    "summary": "<p>\n            The app designed for targeted and transparent help\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/help-381?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1301292?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/help-381",
+    "published": "2026-11-01T23:05:48-08:00",
+    "source": "Product Hunt",
     "source_weight": "high",
     "category": "ai_tech"
+  },
+  {
+    "title": "Friday Work",
+    "summary": "<p>\n            When Claude hits its limit, your task keeps going\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/friday-work?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1300949?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/friday-work",
+    "published": "2026-11-01T14:55:35-08:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Vercel MCP now renders deployments as an interactive card",
+    "summary": "<p><a href=\"https://vercel.com/docs/agent-resources/vercel-mcp\">Vercel MCP</a> can now show your deployments as an interactive card inside ChatGPT and other chat clients that support <a href=\"https://vercel.com/kb/guide/ai-sdk-mcp-apps\">MCP Apps</a>.</p><div></div><p>The card shows live deployment status, build logs, and source and commit details, with a Visit button once the deployment URL is ready. You can send logs into the chat to debug with the model, or open the fullscreen view to read the",
+    "url": "https://vercel.com/changelog/monitor-vercel-deployments-in-chatgpt",
+    "published": "",
+    "source": "Vercel Blog (v0)",
+    "source_weight": "high",
+    "category": "design_tools"
+  },
+  {
+    "title": "Flags Explorer redesigned for easier override sharing",
+    "summary": "<div></div><p><a href=\"https://vercel.com/docs/flags/flags-explorer\">Flags Explorer</a> is a tool in the Vercel Toolbar where you can see which feature flags are active on your end, and share them with your team, either by setting them for the branch or through a URL.</p><p>The Explorer surface has been redesigned to co-locate overrides, branch recommendations, and any related actions.</p><p>Whenever a branch has overrides set, they will be recommended to teammates visiting the deployment throug",
+    "url": "https://vercel.com/changelog/flags-explorer-redesigned-for-easier-override-sharing",
+    "published": "",
+    "source": "Vercel Blog (v0)",
+    "source_weight": "high",
+    "category": "design_tools"
+  },
+  {
+    "title": "Evaluate Vercel Flags from another project without sharing SDK keys.",
+    "summary": "<p><a href=\"https://vercel.com/docs/flags/vercel-flags/project-connections\">Project Connections</a> let applications evaluate flags defined in another Vercel project within the same team, without managing SDK keys.</p><div></div><p>Previously, sharing flags between projects required copying a server SDK key into an environment variable and managing it manually. Connected projects authenticate using their deployment’s identity. For local development, <code>vercel env pull</code> retrieves your pr",
+    "url": "https://vercel.com/changelog/evaluate-vercel-flags-from-another-project-without-sharing-sdk-keys",
+    "published": "",
+    "source": "Vercel Blog (v0)",
+    "source_weight": "high",
+    "category": "design_tools"
+  },
+  {
+    "title": "Blocking malicious npm packages before and during installation",
+    "summary": "<p>Vercel now checks for blocked npm packages before and during dependency installation in <a href=\"https://vercel.com/docs/builds\">builds</a>, helping prevent malicious install scripts from running.</p><p>The checks use a blocklist of specific package versions selected for blocking because of malware or security vulnerabilities, with new rules typically reaching new builds within minutes.</p><ul><li><p><b>Before installation</b>, Vercel checks supported lockfiles, including when dependencies ar",
+    "url": "https://vercel.com/changelog/blocking-malicious-npm-packages-before-and-during-installation",
+    "published": "",
+    "source": "Vercel Blog (v0)",
+    "source_weight": "high",
+    "category": "design_tools"
   },
   {
     "title": "How I stopped dreading AI and started studying it full-time",
     "summary": "<p>By June 2026, I couldn’t open an app without being told I was falling behind. My Instagram saves were full of designers building agents over a weekend. LinkedIn was a steady stream of people who had “shipped it with Cursor.” And the job listings I was tailoring my resume to kept asking for things like evals, MCP, AI prototyping and Claude Code: words I half recognized and could not have explained in an interview.</p><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*pdkmyYmJK",
     "url": "https://uxdesign.cc/how-i-stopped-dreading-ai-and-started-studying-it-full-time-fee7afc2b967?source=rss----138adf9c44c---4",
     "published": "Wed, 28 Oct 2026 23:24:01 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "The AI reckoning in UX was 20 years in the making",
-    "summary": "<figure><img alt=\"A layered, aged archival collage showing three overlapping eras of the design profession stacked like sediment, faded late-1990s office textures at the bottom, mid-2010s training-era textures in the middle, and present-day screen textures at the top, in muted sepia and newsprint tones.\" src=\"https://cdn-images-1.medium.com/max/1024/1*a2iNZ8zUu9mUqD6fCTWN2A.jpeg\" /><figcaption><em>The field has blown up and rebuilt itself three times in twenty years. This is the third.</em></fig",
-    "url": "https://uxdesign.cc/the-ai-reckoning-in-ux-was-20-years-in-the-making-ecd7e36185de?source=rss----138adf9c44c---4",
-    "published": "Wed, 28 Oct 2026 23:22:26 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Autonomy by design: how gamification and AI can respect (or rewrite) our choices",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/autonomy-by-design-how-gamification-and-ai-can-respect-or-rewrite-our-choices-122ad795ec57?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/0*62KpMnOToALw-E7f\" width=\"5998\" /></a></p><p class=\"medium-feed-snippet\">All design influences behavior. The ethical line is whether people can see the influence and still choose otherwise.</p><p class=\"medium-feed-link\"><a href=\"https://",
-    "url": "https://uxdesign.cc/autonomy-by-design-how-gamification-and-ai-can-respect-or-rewrite-our-choices-122ad795ec57?source=rss----138adf9c44c---4",
-    "published": "Wed, 28 Oct 2026 23:21:43 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
@@ -113,6 +140,33 @@
     "url": "https://smashingmagazine.com/2026/10/desktop-wallpaper-calendars-november-2026/",
     "published": "Sat, 31 Oct 2026 08:00:00 GMT",
     "source": "Smashing Magazine",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "State of a system",
+    "summary": "<h4>Almost eight years ago, I started working on a design system that I got the opportunity to revisit just a few years later. The second round became as big a push with far fewer people. Now, three years after ending the work I’m finally ready to share that experience.</h4><p>My thesis:</p><ul><li>A rigid design kit is a cache of design decisions, prone to becoming obsolete with the requirements constantly evolving.</li><li>Documenting practices and boundaries leaves powerless responsibility fo",
+    "url": "https://uxdesign.cc/state-of-a-system-5c8473db1e9?source=rss----138adf9c44c---4",
+    "published": "Mon, 02 Nov 2026 17:56:46 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Virtue ethics in everyday interface design",
+    "summary": "<h4>How wording, hierarchy, and moments of friction can support considered action.</h4><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*Hvb0cRI6R5Xo2gKlCDdrsw.png\" /><figcaption><em>Aristotle statue by Jerry Anderson at Southern Utah University’s Centurium, Cedar City, Utah. Image source: </em><a href=\"https://www.suu.edu/blog/2017/10/who-is-aristotle.html?utm_source=chatgpt.com\"><em>Southern Utah University</em></a><em>.</em></figcaption></figure><p>One thing that troubles me",
+    "url": "https://uxdesign.cc/virtue-ethics-in-everyday-interface-design-5f2aca841781?source=rss----138adf9c44c---4",
+    "published": "Mon, 02 Nov 2026 17:55:34 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Sparkle buttons, Autonomy by design, AI reckoning in UX, Figma with MCP",
+    "summary": "<h4>Weekly curated resources for designers — thinkers and makers.</h4><figure><a href=\"https://uxdesign.cc/nobody-asked-for-the-sparkle-button-ae54ab5065c6\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/0*cDeOhjaPESN4csOl.png\" /></a></figure><p>“Open any product you pay for and look at the top right corner. There is a sparkle. Behind it is a panel that slides in from the right, says “Ask anything”, and offers three suggestions you did not ask for. Close it and it comes back after the",
+    "url": "https://uxdesign.cc/sparkle-buttons-autonomy-by-design-ai-reckoning-in-ux-figma-with-mcp-c93e38fa36e3?source=rss----138adf9c44c---4",
+    "published": "Mon, 02 Nov 2026 10:22:22 GMT",
+    "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
   }

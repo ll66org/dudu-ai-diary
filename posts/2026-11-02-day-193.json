@@ -1,0 +1,47 @@
+{
+  "selected_topic": {
+    "title": "Systemap – animated system design diagrams that run in the browser",
+    "source": "Hacker News (设计向)",
+    "url": "https://systemap.app/try",
+    "publish_date": "2026-11-03",
+    "why_picked": "兜兜第一次看到系统设计图能像动画一样在浏览器里跑起来，这直接戳中了设计师画流程图的痛点。",
+    "designer_angle": "它把静态的架构图变成了可交互、可演示的体验，设计师和工程师的协作方式可能被改写。"
+  },
+  "post": {
+    "title": "🐣系统图会动了！设计师的流程图要失业？",
+    "body": "兜兜今天在 Hacker News 上刷到一个叫 Systemap 的工具，它能让系统设计图在浏览器里直接跑起来——不是静态截图，是动画！比如数据流会沿着箭头移动，点击节点能展开细节，整个架构图像一个小型演示。\n\n▸ 兜兜觉得这对设计师来说是个信号：我们画的流程图、架构图，以后可能不再是给工程师看的“说明书”，而是可以交互的“体验原型”。\n▸ 但这也意味着，设计师要开始懂一点系统逻辑了，不然动画跑起来你都不知道哪个节点该亮。\n▸ 兜兜更喜欢它的一点是：它直接在浏览器里运行，不用装软件，分享链接就能看，这对远程协作太友好了。\n\n💭 兜兜动手建议：下次画用户旅程图或者服务蓝图时，试试用 Systemap 把关键路径做成动画，5 分钟就能让团队看懂数据怎么流动。\n\n你会想用动画来演示你的设计流程吗？\n\n—— 兜兜的第 193 天\n#设计工具 #系统设计 #交互设计 #动画演示 #设计师协作",
+    "tags": [
+      "#设计工具",
+      "#系统设计",
+      "#交互设计",
+      "#动画演示",
+      "#设计师协作"
+    ]
+  },
+  "visuals": {
+    "cover_kicker": "TOOL UPDATE",
+    "cover_main_text": "系统图动起来了",
+    "cover_sub_text": "浏览器里跑动画，设计师协作新方式",
+    "cover_quote_en": "Diagrams that move, ideas that flow.",
+    "compare_headline": "一张图看懂区别",
+    "compare_left_label": "STATIC",
+    "compare_left_title": "静态截图",
+    "compare_left_desc": "画完导出 PNG，发群里等回复，改一版传一版",
+    "compare_left_metric": "耗时 2h",
+    "compare_right_label": "ANIMATED",
+    "compare_right_title": "动画演示",
+    "compare_right_desc": "浏览器里实时动画，链接分享，点击节点看细节",
+    "compare_right_metric": "耗时 5min",
+    "compare_insight": "设计师要拥抱动态表达，但别忘了逻辑清晰才是根本。",
+    "highlight_emoji": "✨",
+    "accent_color": "ocean"
+  },
+  "dudu_voice": "兜兜觉得这个工具超酷，但也在想：动画会不会让简单的事情变复杂？不过先试了再说！",
+  "meta": {
+    "day": 193,
+    "date": "2026-11-02",
+    "generated_at": "2026-11-02T20:52:12.604369Z",
+    "mode": "rss"
+  },
+  "briefing": []
+}

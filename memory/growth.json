@@ -1,5 +1,5 @@
 {
-  "day_count": 192,
+  "day_count": 193,
   "history": [
     {
       "day": 20,
@@ -1153,6 +1153,13 @@
       "day": 192,
       "date": "2026-11-01",
       "topic": "Why Design in the 1980s Looked So Weird and Why It's Relevant Today [video]",
+      "source": "Hacker News (设计向)",
+      "mode": "rss"
+    },
+    {
+      "day": 193,
+      "date": "2026-11-02",
+      "topic": "Systemap – animated system design diagrams that run in the browser",
       "source": "Hacker News (设计向)",
       "mode": "rss"
     }

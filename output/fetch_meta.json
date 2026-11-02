@@ -1,14 +1,14 @@
 {
-  "fetched_at": "2026-11-01T17:14:42.920011Z",
-  "total_candidates": 13,
+  "fetched_at": "2026-11-02T20:52:07.079987Z",
+  "total_candidates": 19,
   "source_stats": {
     "Figma Blog": {
       "found": 0,
       "total": 0
     },
     "Vercel Blog (v0)": {
-      "found": 0,
-      "total": 2108
+      "found": 4,
+      "total": 2113
     },
     "Cursor Changelog": {
       "found": 0,
@@ -51,11 +51,11 @@
       "total": 20
     },
     "Hacker News (设计向)": {
-      "found": 6,
+      "found": 5,
       "total": 20
     },
     "Product Hunt": {
-      "found": 0,
+      "found": 2,
       "total": 50
     },
     "Designer News (AI Design)": {
@@ -64,25 +64,25 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 192,
-  "today_date": "2026-11-01",
+  "dudu_day": 193,
+  "today_date": "2026-11-02",
   "used_titles": [
-    "Kimi 发布开源旗舰模型 K3.1 Pro：2.8T 参数、100万 Token 上下文，实测 3D 与视频动效",
     "卡兹克手把手演示用 Codex 和 Claude 逆向改造现实硬件设备",
     "Google DeepMind 发布实时交互世界模型 Genie 4",
     "GitHub Octoverse 2026：开发活动创新高，超 40% 的 PR 由智能体起草",
     "腾讯混元发布 Hy-Nomas 技术报告并开源 Hy-Nomas-Bench",
     "Canva Brush",
-    "Beyond chatbots: UX for deep AI research"
+    "Beyond chatbots: UX for deep AI research",
+    "Why Design in the 1980s Looked So Weird and Why It's Relevant Today [video]"
   ],
   "used_tools": [
-    "公众号：数字生命卡兹克",
     "X：卡兹克 (@Khazix0918)",
     "Google DeepMind：Blog（RSS）",
     "GitHub Blog",
     "X：腾讯混元 (@TencentHunyuan)",
     "Product Hunt",
-    "UX Collective"
+    "UX Collective",
+    "Hacker News (设计向)"
   ],
   "briefing_total": 0,
   "briefing_design": 0,
