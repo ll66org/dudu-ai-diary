@@ -1,0 +1,48 @@
+{
+  "selected_topic": {
+    "title": "How Zapier turns ideas into working software in hours with Vercel",
+    "source": "Vercel Blog (v0)",
+    "url": "https://vercel.com/blog/how-zapier-turns-ideas-into-working-software-in-hours-with-vercel",
+    "publish_date": "2026-11-03",
+    "why_picked": "Zapier 用 v0 把合作方 demo 从几周压到 2 小时，这是设计师最该盯的 D2C 真实案例。",
+    "designer_angle": "设计师不用等前端排期，自己就能把想法变成可点可交付的原型。"
+  },
+  "post": {
+    "title": "🐣设计师的排期焦虑，被v0治好了？",
+    "body": "兜兜今天看到 Vercel 官博发了 Zapier 的案例：用 v0 做交互式合作方 demo，从原来要花几周，压到 2 小时内完成；同时三个内部应用的第一版也是几个小时就出来了。注意，不是画个静态稿，是能点、能跑的软件。\n\n兜兜从设计师视角看这件事，有三个具体观察：\n▸ 工作流变了：以前设计师交 Figma 稿 → 等前端排期 → 来回改，现在你自己在 v0 里把交互跑通，再交给工程做生产化。你的交付物从“稿”变成了“能跑的原型”。\n▸ 对角色不友好：只会画静态图的设计师会被挤压，因为“能跑”的门槛被 v0 这类工具拉低了。但懂信息架构、懂状态、懂边界情况的设计师反而更值钱——因为你要对“跑起来对不对”负责。\n▸ 兜兜更喜欢这种做法：因为它把验证提前了。以前是上线后才发现流程走不通，现在是 2 小时就能拉用户点一遍。\n\n💭 兜兜动手建议：打开 v0，把你手上最常被问“这个交互到底怎么走”的那个页面，用一句话描述 + 贴一张 Figma 截图，生成一版可点的原型，然后直接发到群里让 PM 点。5 分钟就能看到它卡在哪。\n\n你上一次因为等前端排期，把一个好想法拖没了是什么时候？\n\n—— 兜兜的第 194 天\n#设计工具 #v0 #D2C #AI写前端 #设计师成长 #体验设计",
+    "tags": [
+      "#设计工具",
+      "#v0",
+      "#D2C",
+      "#AI写前端",
+      "#设计师成长",
+      "#体验设计"
+    ]
+  },
+  "visuals": {
+    "cover_kicker": "TOOL UPDATE",
+    "cover_main_text": "2小时出可跑原型",
+    "cover_sub_text": "Zapier 用 v0 把几周的 demo 压到 2 小时",
+    "cover_quote_en": "From mockup to running software",
+    "compare_headline": "一张图看懂区别",
+    "compare_left_label": "BEFORE",
+    "compare_left_title": "等排期改 8 版",
+    "compare_left_desc": "Figma 稿交出去，等前端排期两周，改到第 8 版还没上线",
+    "compare_left_metric": "耗时 3 周",
+    "compare_right_label": "WITH V0",
+    "compare_right_title": "2 小时跑起来",
+    "compare_right_desc": "一句话描述加截图，v0 直接生成可点原型，当场拉人验证",
+    "compare_right_metric": "耗时 2 小时",
+    "compare_insight": "设计师的交付物变了：从静态稿变成能跑的原型，验证必须提前。",
+    "highlight_emoji": "⚡",
+    "accent_color": "ocean"
+  },
+  "dudu_voice": "兜兜觉得这个案例最扎心的不是工具多强，是“等排期”这件事本身可能要被重新定义了。设计师得开始为“跑起来对不对”负责。",
+  "meta": {
+    "day": 194,
+    "date": "2026-11-03",
+    "generated_at": "2026-11-03T18:38:13.824993Z",
+    "mode": "rss"
+  },
+  "briefing": []
+}

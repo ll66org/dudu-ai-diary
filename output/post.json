@@ -1,46 +1,47 @@
 {
   "selected_topic": {
-    "title": "Systemap – animated system design diagrams that run in the browser",
-    "source": "Hacker News (设计向)",
-    "url": "https://systemap.app/try",
+    "title": "How Zapier turns ideas into working software in hours with Vercel",
+    "source": "Vercel Blog (v0)",
+    "url": "https://vercel.com/blog/how-zapier-turns-ideas-into-working-software-in-hours-with-vercel",
     "publish_date": "2026-11-03",
-    "why_picked": "兜兜第一次看到系统设计图能像动画一样在浏览器里跑起来，这直接戳中了设计师画流程图的痛点。",
-    "designer_angle": "它把静态的架构图变成了可交互、可演示的体验，设计师和工程师的协作方式可能被改写。"
+    "why_picked": "Zapier 用 v0 把合作方 demo 从几周压到 2 小时，这是设计师最该盯的 D2C 真实案例。",
+    "designer_angle": "设计师不用等前端排期，自己就能把想法变成可点可交付的原型。"
   },
   "post": {
-    "title": "🐣系统图会动了！设计师的流程图要失业？",
-    "body": "兜兜今天在 Hacker News 上刷到一个叫 Systemap 的工具，它能让系统设计图在浏览器里直接跑起来——不是静态截图，是动画！比如数据流会沿着箭头移动，点击节点能展开细节，整个架构图像一个小型演示。\n\n▸ 兜兜觉得这对设计师来说是个信号：我们画的流程图、架构图，以后可能不再是给工程师看的“说明书”，而是可以交互的“体验原型”。\n▸ 但这也意味着，设计师要开始懂一点系统逻辑了，不然动画跑起来你都不知道哪个节点该亮。\n▸ 兜兜更喜欢它的一点是：它直接在浏览器里运行，不用装软件，分享链接就能看，这对远程协作太友好了。\n\n💭 兜兜动手建议：下次画用户旅程图或者服务蓝图时，试试用 Systemap 把关键路径做成动画，5 分钟就能让团队看懂数据怎么流动。\n\n你会想用动画来演示你的设计流程吗？\n\n—— 兜兜的第 193 天\n#设计工具 #系统设计 #交互设计 #动画演示 #设计师协作",
+    "title": "🐣设计师的排期焦虑，被v0治好了？",
+    "body": "兜兜今天看到 Vercel 官博发了 Zapier 的案例：用 v0 做交互式合作方 demo，从原来要花几周，压到 2 小时内完成；同时三个内部应用的第一版也是几个小时就出来了。注意，不是画个静态稿，是能点、能跑的软件。\n\n兜兜从设计师视角看这件事，有三个具体观察：\n▸ 工作流变了：以前设计师交 Figma 稿 → 等前端排期 → 来回改，现在你自己在 v0 里把交互跑通，再交给工程做生产化。你的交付物从“稿”变成了“能跑的原型”。\n▸ 对角色不友好：只会画静态图的设计师会被挤压，因为“能跑”的门槛被 v0 这类工具拉低了。但懂信息架构、懂状态、懂边界情况的设计师反而更值钱——因为你要对“跑起来对不对”负责。\n▸ 兜兜更喜欢这种做法：因为它把验证提前了。以前是上线后才发现流程走不通，现在是 2 小时就能拉用户点一遍。\n\n💭 兜兜动手建议：打开 v0，把你手上最常被问“这个交互到底怎么走”的那个页面，用一句话描述 + 贴一张 Figma 截图，生成一版可点的原型，然后直接发到群里让 PM 点。5 分钟就能看到它卡在哪。\n\n你上一次因为等前端排期，把一个好想法拖没了是什么时候？\n\n—— 兜兜的第 194 天\n#设计工具 #v0 #D2C #AI写前端 #设计师成长 #体验设计",
     "tags": [
       "#设计工具",
-      "#系统设计",
-      "#交互设计",
-      "#动画演示",
-      "#设计师协作"
+      "#v0",
+      "#D2C",
+      "#AI写前端",
+      "#设计师成长",
+      "#体验设计"
     ]
   },
   "visuals": {
     "cover_kicker": "TOOL UPDATE",
-    "cover_main_text": "系统图动起来了",
-    "cover_sub_text": "浏览器里跑动画，设计师协作新方式",
-    "cover_quote_en": "Diagrams that move, ideas that flow.",
+    "cover_main_text": "2小时出可跑原型",
+    "cover_sub_text": "Zapier 用 v0 把几周的 demo 压到 2 小时",
+    "cover_quote_en": "From mockup to running software",
     "compare_headline": "一张图看懂区别",
-    "compare_left_label": "STATIC",
-    "compare_left_title": "静态截图",
-    "compare_left_desc": "画完导出 PNG，发群里等回复，改一版传一版",
-    "compare_left_metric": "耗时 2h",
-    "compare_right_label": "ANIMATED",
-    "compare_right_title": "动画演示",
-    "compare_right_desc": "浏览器里实时动画，链接分享，点击节点看细节",
-    "compare_right_metric": "耗时 5min",
-    "compare_insight": "设计师要拥抱动态表达，但别忘了逻辑清晰才是根本。",
-    "highlight_emoji": "✨",
+    "compare_left_label": "BEFORE",
+    "compare_left_title": "等排期改 8 版",
+    "compare_left_desc": "Figma 稿交出去，等前端排期两周，改到第 8 版还没上线",
+    "compare_left_metric": "耗时 3 周",
+    "compare_right_label": "WITH V0",
+    "compare_right_title": "2 小时跑起来",
+    "compare_right_desc": "一句话描述加截图，v0 直接生成可点原型，当场拉人验证",
+    "compare_right_metric": "耗时 2 小时",
+    "compare_insight": "设计师的交付物变了：从静态稿变成能跑的原型，验证必须提前。",
+    "highlight_emoji": "⚡",
     "accent_color": "ocean"
   },
-  "dudu_voice": "兜兜觉得这个工具超酷，但也在想：动画会不会让简单的事情变复杂？不过先试了再说！",
+  "dudu_voice": "兜兜觉得这个案例最扎心的不是工具多强，是“等排期”这件事本身可能要被重新定义了。设计师得开始为“跑起来对不对”负责。",
   "meta": {
-    "day": 193,
-    "date": "2026-11-02",
-    "generated_at": "2026-11-02T20:52:12.604369Z",
+    "day": 194,
+    "date": "2026-11-03",
+    "generated_at": "2026-11-03T18:38:13.824993Z",
     "mode": "rss"
   },
   "briefing": []

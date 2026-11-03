@@ -1,5 +1,5 @@
 {
-  "day_count": 193,
+  "day_count": 194,
   "history": [
     {
       "day": 20,
@@ -1161,6 +1161,13 @@
       "date": "2026-11-02",
       "topic": "Systemap – animated system design diagrams that run in the browser",
       "source": "Hacker News (设计向)",
+      "mode": "rss"
+    },
+    {
+      "day": 194,
+      "date": "2026-11-03",
+      "topic": "How Zapier turns ideas into working software in hours with Vercel",
+      "source": "Vercel Blog (v0)",
       "mode": "rss"
     }
   ],
