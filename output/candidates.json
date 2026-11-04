@@ -1,66 +1,111 @@
 [
   {
-    "title": "How Our AI Agents Write a Help Center",
-    "summary": "<p>Article URL: <a href=\"https://www.veludocs.com/blog/building-a-help-center-pipeline/\">https://www.veludocs.com/blog/building-a-help-center-pipeline/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50355859\">https://news.ycombinator.com/item?id=50355859</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
-    "url": "https://www.veludocs.com/blog/building-a-help-center-pipeline/",
-    "published": "Tue, 03 Nov 2026 18:16:32 +0000",
+    "title": "Show HN: Cassandra – free tool to check if you got affected by the Cursor hack",
+    "summary": "<p>Article URL: <a href=\"https://ciphero.ai/cassandra/hn\">https://ciphero.ai/cassandra/hn</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50369457\">https://news.ycombinator.com/item?id=50369457</a></p>\n<p>Points: 3</p>\n<p># Comments: 1</p>",
+    "url": "https://ciphero.ai/cassandra/hn",
+    "published": "Wed, 04 Nov 2026 18:19:46 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Counted \"AI\" on 37 website builder homepages, 2019 to now",
-    "summary": "<p>Article URL: <a href=\"https://scrollytelling.ai/website-builders-ai/\">https://scrollytelling.ai/website-builders-ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50355740\">https://news.ycombinator.com/item?id=50355740</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://scrollytelling.ai/website-builders-ai/",
-    "published": "Tue, 03 Nov 2026 18:09:44 +0000",
+    "title": "Accenture Contractor Linked Personal Claude AI Agent to Pentagon System",
+    "summary": "<p>Article URL: <a href=\"https://www.ibtimes.co.uk/claude-code-agent-pentagon-niprnet-access-allegations-1829425\">https://www.ibtimes.co.uk/claude-code-agent-pentagon-niprnet-access-allegations-1829425</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50369356\">https://news.ycombinator.com/item?id=50369356</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+    "url": "https://www.ibtimes.co.uk/claude-code-agent-pentagon-niprnet-access-allegations-1829425",
+    "published": "Wed, 04 Nov 2026 18:11:21 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Show HN: AIStoreHub – 1-Click CLI to Configure MCP Servers in Cursor and Claude",
-    "summary": "<p>We built this CLI (pip install aistorehub) to eliminate JSON syntax errors and missing $PATH binary crashes when adding Model Context Protocol servers to Cursor, Claude Desktop, and Windsurf.<p>Website & Registry: <a href=\"https://aistorehub.in\" rel=\"nofollow\">https://aistorehub.in</a>\nDocumentation: <a href=\"https://aistorehub.in/docs\" rel=\"nofollow\">https://aistorehub.in/docs</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50355152\">https://news.ycombinator.com",
-    "url": "https://pypi.org/project/aistorehub/",
-    "published": "Tue, 03 Nov 2026 17:33:25 +0000",
+    "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
+    "summary": "<p>Hi HN! I'm Luke from Kino (<a href=\"https://kino.ai\">https://kino.ai</a>). Kino lets you make great videos with your agents and your teammates. Storage of footage and assets, a rich video editor, and review links for teammates are all bundled into one. Your colleagues and Codex / Claude Code can work on the same timeline with review notes and footage all in one place. See a basic overview at <a href=\"https://kino.ai/walkthrough-video\">https://kino.ai/walkthrough-video</a> and our launch video",
+    "url": "https://news.ycombinator.com/item?id=50368804",
+    "published": "Wed, 04 Nov 2026 17:31:53 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Flockbay",
-    "summary": "<p>\n            Free AI game maker built on Godot\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/flockbay?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1302039?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/flockbay",
-    "published": "2026-11-02T11:12:01-08:00",
+    "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+    "summary": "<p>Article URL: <a href=\"https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times\">https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50368745\">https://news.ycombinator.com/item?id=50368745</a></p>\n<p>Points: 3</p>\n<p># Comments: 3</p>",
+    "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+    "published": "Wed, 04 Nov 2026 17:27:39 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Fedora Linux 45",
+    "summary": "<p>\n            GNOME 51: Wayland fixes, oo7 keys, and modern toolchains.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/fedora-linux-45?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1303614?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/fedora-linux-45",
+    "published": "2026-11-03T17:04:14-08:00",
     "source": "Product Hunt",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "How Zapier turns ideas into working software in hours with Vercel",
-    "summary": "<h2>Zapier on Vercel</h2><ul><li><p>Interactive partner demos in under two hours with v0, replacing a process that could take weeks</p></li><li><p>First versions of three internal applications, each built in one day</p></li><li><p>A shared daily briefing for more than 60 marketers, replacing individual efforts to assemble the same information</p></li><li><p>3.3 million sandboxes created in one month, isolating the code execution behind Zapier’s AI workloads</p></li></ul><hr /><p>Before the indus",
-    "url": "https://vercel.com/blog/how-zapier-turns-ideas-into-working-software-in-hours-with-vercel",
+    "title": "Kimi K3.1 Pro now has more ZDR providers on AI Gateway",
+    "summary": "<p><a href=\"https://vercel.com/ai-gateway/models/kimi-k3.1-pro\">Kimi K3.1 Pro</a> and its higher-speed version, <a href=\"https://vercel.com/ai-gateway/models/kimi-k3.1-pro-highspeed\">Kimi K3.1 Pro Highspeed</a>, are now available on <a href=\"https://vercel.com/ai-gateway\">AI Gateway</a> from more  <a href=\"https://vercel.com/docs/ai-gateway/security-and-compliance/zdr\">Zero Data Retention</a> (ZDR) providers. Until today, <a href=\"https://vercel.com/ai-gateway/models/providers/moonshotai\">Moonsh",
+    "url": "https://vercel.com/changelog/kimi-k3-1-pro-now-has-more-zdr-providers-on-ai-gateway",
     "published": "",
     "source": "Vercel Blog (v0)",
     "source_weight": "high",
     "category": "design_tools"
   },
   {
-    "title": "How OpenEvidence scales medical search for 650K doctors",
-    "summary": "<h3><b>OpenEvidence on Vercel</b></h3><ul><li><p>Serves 650,000 doctors with medical search</p></li><li><p>Completes production deployments in about five minutes</p></li><li><p>Absorbs traffic spikes without additional capacity provisioning</p></li><li><p>Reduced serverless spend by 90% with Fluid compute</p></li><li><p>Updates doctor- and patient-facing applications independently</p></li></ul><p><a href=\"https://openevidence.com/\">OpenEvidence</a> helps physicians find medical evidence during c",
-    "url": "https://vercel.com/blog/how-openevidence-scales-medical-search-for-doctors",
+    "title": "Vercel Security Review now in public beta",
+    "summary": "<p><a href=\"https://vercel.com/docs/agent/security-review\">Vercel Security Review</a> is now in public beta for Pro and Enterprise teams. Once enabled, every push to a connected GitHub repository is automatically reviewed for vulnerabilities, and findings are reported in the <a href=\"https://vercel.com/d?to=%2F%5Bteam%5D%2F~%2Fsecurity%2Fvulnerabilities\">Vulnerabilities dashboard</a>.</p><h2>What triggers a review</h2><p>Security Review runs automatically when code is pushed to a connected GitHu",
+    "url": "https://vercel.com/changelog/vercel-security-review-public-beta",
     "published": "",
     "source": "Vercel Blog (v0)",
     "source_weight": "high",
     "category": "design_tools"
   },
   {
-    "title": "Vercel MCP now supports Client ID Metadata Documents",
-    "summary": "<p>Any MCP client can now ask to connect to <a href=\"https://vercel.com/docs/agent-resources/vercel-mcp\">Vercel MCP</a>. You still log in and approve each connection, but the client no longer has to be reviewed by Vercel first. Previously, Vercel reviewed and allowlisted each client and its redirect URIs by hand, and anything not on the list was rejected.</p><p>To connect, a client publishes a Client ID Metadata Document (CIMD), a JSON file on its own domain that describes it, and uses that file",
-    "url": "https://vercel.com/changelog/vercel-mcp-now-supports-client-id-metadata-documents",
-    "published": "",
-    "source": "Vercel Blog (v0)",
-    "source_weight": "high",
+    "title": "How we built Lovable, and why we keep rebuilding it",
+    "summary": "Anton Osika shares lessons from building Lovable through 100,000 pull requests, from matching agent freedom to model ability to faster feedback loops and stateful sandboxes.",
+    "url": "https://lovable.dev/blog/how-we-built-lovable-and-why-we-keep-rebuilding-it",
+    "published": "Wed, 04 Nov 2026 12:30:00 GMT",
+    "source": "Lovable Blog",
+    "source_weight": "medium",
     "category": "design_tools"
+  },
+  {
+    "title": "Everyone is building AI agents. Who’s designing the stop button?",
+    "summary": "<h4>We used to design predictable user flows. Now AI can interpret, decide, and act on its own. Here’s why the hardest design decisions happen where that autonomy ends.</h4><figure><img alt=\"Showing where AI stops in the flow — visual\" src=\"https://cdn-images-1.medium.com/max/1024/1*4xb0tuwC90tLWJBgYVaomg.png\" /><figcaption>Showing where AI stops in the flow — by gpt</figcaption></figure><p>In September 2025, researchers at Thinking Machines Lab ran the same prompt through a language model 1,000",
+    "url": "https://uxdesign.cc/your-ai-is-non-deterministic-but-your-product-cant-be-3ec2a0cf870c?source=rss----138adf9c44c---4",
+    "published": "Tue, 03 Nov 2026 22:40:34 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "I let AI build. I don’t let AI decide.",
+    "summary": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*Lytrg3JiMtGnqGvqQh-JSQ.png\" /><figcaption>A long workbench split down the middle, finished tools stacked on one side and a single open notebook on the other.</figcaption></figure><h4>My list of tasks I give models without a second thought and what I review until the tools evolve.</h4><p>I’ve used generative models for almost four years and designed machine learning applications for seven before that, so people ask what I delegat",
+    "url": "https://uxdesign.cc/i-let-ai-build-i-dont-let-ai-decide-b3892a87feb3?source=rss----138adf9c44c---4",
+    "published": "Tue, 03 Nov 2026 22:37:40 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "What do you do when a design solution is already pre-built?",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/what-do-you-do-when-a-design-solution-is-already-pre-built-85d20edba31f?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*Wjmf4Q14vkbPPzHd_jJgPA.jpeg\" width=\"6336\" /></a></p><p class=\"medium-feed-snippet\">How to deal with the &#x201c;Fastest Idea in the Room&#x201d;</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/what-do-you-do-when-a-design-solution-is-already-pr",
+    "url": "https://uxdesign.cc/what-do-you-do-when-a-design-solution-is-already-pre-built-85d20edba31f?source=rss----138adf9c44c---4",
+    "published": "Tue, 03 Nov 2026 22:36:49 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Agents struggle with the same bad UX we do",
+    "summary": "<h4>Computer-use agents can’t guess, improvise, or ask a coworker. That makes them the most honest usability testers we’ve ever had.</h4><figure><img alt=\"Two buttons, one says Continue, the other Submit\" src=\"https://cdn-images-1.medium.com/max/1024/1*P84_tG2F_rrE_MWlHlPGJA.jpeg\" /></figure><p>The first time I watched an agent fail on a vendor portal, I recognized the failure immediately. Not because I understood the model. Because I’d failed in exactly the same place myself.</p><p>For example,",
+    "url": "https://uxdesign.cc/agents-struggle-with-the-same-bad-ux-we-do-98415f2b8981?source=rss----138adf9c44c---4",
+    "published": "Tue, 03 Nov 2026 22:36:33 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
   },
   {
     "title": "What I learned teaching AI prototyping at university",
@@ -99,24 +144,6 @@
     "category": "design_communities"
   },
   {
-    "title": "Your design system was never about components",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/your-design-system-was-never-the-components-9605130c3038?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1632/0*EBbFKwaDeO0sVSNR\" width=\"1632\" /></a></p><p class=\"medium-feed-snippet\">Google, Atlassian and Figma now ship a file for the reasons behind a design. Nothing makes the machine follow it.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/your-design-system-was-ne",
-    "url": "https://uxdesign.cc/your-design-system-was-never-the-components-9605130c3038?source=rss----138adf9c44c---4",
-    "published": "Sun, 01 Nov 2026 14:32:36 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Samia Halaby and the Amiga 1000",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/samia-halaby-and-the-amiga-1000-8aae181666b9?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/831/1*JWGksfqy6Y6lG9Zbk4Uk5w.png\" width=\"831\" /></a></p><p class=\"medium-feed-snippet\">The unique features of the Motorola 68000 that facilitated an enchanting Golden Age for pixel art</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/samia-halaby-and-the-amiga-1000-8aae181666b9?",
-    "url": "https://uxdesign.cc/samia-halaby-and-the-amiga-1000-8aae181666b9?source=rss----138adf9c44c---4",
-    "published": "Sun, 01 Nov 2026 14:32:15 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
     "title": "A Spark Of Color In November’s Gray (2026 Wallpapers Edition)",
     "summary": "Let’s kick of November with a new collection of desktop wallpapers! Designed by creatives from across the globe, the wallpapers come in a variety of screen resolutions and can be downloaded for free. Enjoy!",
     "url": "https://smashingmagazine.com/2026/10/desktop-wallpaper-calendars-november-2026/",
@@ -150,6 +177,15 @@
     "published": "Mon, 02 Nov 2026 10:22:22 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Smashing AI Conference",
+    "summary": "<p>The AI 2027 Conference is a live online day for designers and engineers on where AI stands today, what to expect in 2027, and where teams are getting it right.</p>\n<hr />\n<p><small><a href=\"https://css-tricks.com/smashing-ai-conference/\" rel=\"nofollow\">Smashing AI Conference</a> originally handwritten and published with love on <a href=\"https://css-tricks.com\" rel=\"nofollow\">CSS-Tricks</a>. You should really <a href=\"https://css-tricks.com/newsletters/\">get the newsletter</a> as well.</p>",
+    "url": "https://css-tricks.com/smashing-ai-conference/",
+    "published": "Wed, 04 Nov 2026 15:02:51 +0000",
+    "source": "CSS-Tricks",
+    "source_weight": "low",
     "category": "design_communities"
   }
 ]

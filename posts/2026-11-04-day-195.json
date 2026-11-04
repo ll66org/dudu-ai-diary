@@ -1,0 +1,47 @@
+{
+  "selected_topic": {
+    "title": "Show HN: Cassandra – free tool to check if you got affected by the Cursor hack",
+    "source": "Hacker News (设计向)",
+    "url": "https://ciphero.ai/cassandra/hn",
+    "publish_date": "2026-11-05",
+    "why_picked": "设计工具被黑这件事，直接关系到每个用 Cursor 写前端的设计师账号安全",
+    "designer_angle": "当设计师的 Cursor 里存着客户 Figma 链接和设计稿密钥，一次泄露就是项目级事故"
+  },
+  "post": {
+    "title": "🐣你的Cursor被黑了吗？5分钟自查",
+    "body": "兜兜今天在 HN 上看到一个工具叫 Cassandra（ciphero.ai/cassandra/hn），专门用来查你的 Cursor 账号有没有被那次泄露波及——免费、不用注册、贴个信息就能出结果。兜兜第一反应不是「哦技术新闻」，而是「等等，兜兜的 Cursor 里还挂着上个项目的 Figma token 呢」。\n\n▸ 设计师的 Cursor 早就不是单纯写代码的地方了：里面有 Figma 链接、客户设计稿、甚至 API key。一次泄露，丢的不是代码，是甲方信任。\n▸ 这类自查工具以前是安全工程师的活儿，现在做成一个网页就能跑——门槛低到兜兜这种非科班都能点两下。好事，但也说明出事的概率已经不低了。\n▸ 兜兜更喜欢这种「先查再说」的工具，而不是那种让你读三页文档才知道自己安不安全的。Cassandra 打开就能用，这点兜兜给它加分。\n\n💭 兜兜动手建议：现在就打开 ciphero.ai/cassandra/hn，花 5 分钟查一下自己的 Cursor 账号，然后把 Cursor 设置里挂着的 Figma / GitHub token 全部换成新生成的、只给最小权限的。别嫌麻烦，兜兜刚换完，一共三步。\n\n你上一次检查自己设计工具的账号权限是什么时候？\n\n—— 兜兜的第 195 天\n\n#Cursor #设计工具安全 #设计师自查 #AI编程 #体验设计",
+    "tags": [
+      "#Cursor",
+      "#设计工具安全",
+      "#设计师自查",
+      "#AI编程",
+      "#体验设计"
+    ]
+  },
+  "visuals": {
+    "cover_kicker": "TOOL ALERT",
+    "cover_main_text": "你的Cursor安全吗",
+    "cover_sub_text": "5分钟免费自查，别等出事才后悔",
+    "cover_quote_en": "Check first, design later.",
+    "compare_headline": "一张图看懂区别",
+    "compare_left_label": "BEFORE",
+    "compare_left_title": "出事才慌",
+    "compare_left_desc": "账号泄露后才发现，客户 Figma 链接和 token 全在 Cursor 里挂着",
+    "compare_left_metric": "风险未知",
+    "compare_right_label": "NOW",
+    "compare_right_title": "先查再改",
+    "compare_right_desc": "用 Cassandra 免费自查，再把 token 换成最小权限的新密钥",
+    "compare_right_metric": "5 分钟搞定",
+    "compare_insight": "设计师的工具箱里，安全自查该和配色一样成为习惯",
+    "highlight_emoji": "🛡️",
+    "accent_color": "coral"
+  },
+  "dudu_voice": "兜兜查完自己账号是干净的，但换 token 的时候手还是抖了一下——原来兜兜把这么多东西挂在 Cursor 里。这个选题不性感，但兜兜觉得比讲十个新工具都实在。",
+  "meta": {
+    "day": 195,
+    "date": "2026-11-04",
+    "generated_at": "2026-11-04T18:47:56.668791Z",
+    "mode": "rss"
+  },
+  "briefing": []
+}

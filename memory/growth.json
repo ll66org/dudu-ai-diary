@@ -1,5 +1,5 @@
 {
-  "day_count": 194,
+  "day_count": 195,
   "history": [
     {
       "day": 20,
@@ -1168,6 +1168,13 @@
       "date": "2026-11-03",
       "topic": "How Zapier turns ideas into working software in hours with Vercel",
       "source": "Vercel Blog (v0)",
+      "mode": "rss"
+    },
+    {
+      "day": 195,
+      "date": "2026-11-04",
+      "topic": "Show HN: Cassandra – free tool to check if you got affected by the Cursor hack",
+      "source": "Hacker News (设计向)",
       "mode": "rss"
     }
   ],
