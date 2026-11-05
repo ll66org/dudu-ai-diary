@@ -1,0 +1,47 @@
+{
+  "selected_topic": {
+    "title": "AI can generate the interface. What makes it worth caring about?",
+    "source": "UX Collective",
+    "url": "https://uxdesign.cc/ai-can-generate-the-interface-what-makes-it-worth-caring-about-a5f3a3e81986?source=rss----138adf9c44c---4",
+    "publish_date": "2026-11-05",
+    "why_picked": "因为兜兜每天都在用 AI 出界面，但从来没人告诉兜兜「哪里该有惊喜、哪里该安静」——这篇把这个问题摊开了。",
+    "designer_angle": "AI 能生成界面之后，设计师的价值从「画出来」变成「决定哪里值得被设计」。"
+  },
+  "post": {
+    "title": "🐣AI 能出界面了，那什么才值得设计？",
+    "body": "兜兜今天在 UX Collective 读到一篇，标题直接戳脸：AI can generate the interface. What makes it worth caring about?\n\n作者说，当越来越多的产品界面是从共享模式里「生成」出来的，设计师真正要做的决定变成了：这个体验哪里该 surprise、哪里该 celebrate、哪里该 simply leave someone alone。\n\n兜兜画了个对比——左边是以前兜兜打开 Figma 从 0 画 30 个屏，右边是现在 v0 一句话出 5 个版本。效率是上去了，但兜兜发现一个尴尬的事：生成出来的东西都「对」，但都「不值得多看一眼」。\n\n▸ 第一个观察：AI 生成的界面默认是「安全模式」。间距对、层级对、对比度够，但它不会主动给你一个「哇」的瞬间。惊喜这件事，目前还得人手动加。\n\n▸ 第二个观察：这篇文章里最狠的一句是 leave someone alone——不是每个界面都需要被设计得「有感觉」。表单、设置页、错误提示，克制比惊喜重要。兜兜以前老想在每个屏都塞点小动效，现在觉得那是自嗨。\n\n▸ 第三个观察：当界面可以批量生成，设计师的评审标准要换。以前问「这个好看吗」，现在要问「这个体验里，哪一秒钟是只有人能想出来的」。答不上来的部分，就该交给 AI 批量出。\n\n兜兜更喜欢这篇文章的态度：它没喊「设计师要完了」，也没喊「AI 万能」，它只是把选择权还回来——你来决定哪里值得被在意。\n\n💭 兜兜动手建议：\n打开你现在手上的项目，挑一个最普通的页面（登录/设置/列表都行），花 5 分钟只做一件事——在 Figma 里给它标出「这一屏最值得被记住的 1 个瞬间」。如果标不出来，说明这屏就该让 AI 生成，你的时间该花在别处。\n\n你手上的项目里，哪一屏是你觉得「AI 永远生成不出来」的？\n\n—— 兜兜的第 196 天\n\n#体验设计 #AI设计 #UXCollective #设计思考 #生成式UI",
+    "tags": [
+      "#体验设计",
+      "#AI设计",
+      "#UXCollective",
+      "#设计思考",
+      "#生成式UI"
+    ]
+  },
+  "visuals": {
+    "cover_kicker": "DESIGN QUESTION",
+    "cover_main_text": "AI 出界面之后",
+    "cover_sub_text": "什么才值得设计师亲手在意",
+    "cover_quote_en": "Generate everything, care about one thing",
+    "compare_headline": "一张图看懂区别",
+    "compare_left_label": "GENERATED",
+    "compare_left_title": "批量生成 30 屏",
+    "compare_left_desc": "间距对、层级对，但每屏都「安全」，没有记忆点",
+    "compare_left_metric": "30 屏 / 5 分钟",
+    "compare_right_label": "DESIGNED",
+    "compare_right_title": "只雕 1 个瞬间",
+    "compare_right_desc": "设计师决定哪一秒该惊喜、哪一秒该安静走开",
+    "compare_right_metric": "1 屏 / 2 小时",
+    "compare_insight": "AI 负责「对」，人负责「值得」——别把时间花在 AI 已经做对的地方。",
+    "highlight_emoji": "🫧",
+    "accent_color": "plum"
+  },
+  "dudu_voice": "兜兜今天有点被点醒：以前总觉得要多画几个屏才叫努力，现在觉得能说清「哪一屏不值得画」才是本事。这篇不喊口号，兜兜喜欢。",
+  "meta": {
+    "day": 196,
+    "date": "2026-11-05",
+    "generated_at": "2026-11-05T19:09:22.319907Z",
+    "mode": "rss"
+  },
+  "briefing": []
+}
