@@ -1,14 +1,14 @@
 {
-  "fetched_at": "2026-11-05T19:09:14.467317Z",
-  "total_candidates": 15,
+  "fetched_at": "2026-11-06T18:18:32.182518Z",
+  "total_candidates": 18,
   "source_stats": {
     "Figma Blog": {
       "found": 0,
       "total": 0
     },
     "Vercel Blog (v0)": {
-      "found": 0,
-      "total": 2124
+      "found": 3,
+      "total": 2131
     },
     "Cursor Changelog": {
       "found": 0,
@@ -31,7 +31,7 @@
       "total": 66
     },
     "Smashing Magazine": {
-      "found": 2,
+      "found": 3,
       "total": 40
     },
     "UX Collective": {
@@ -64,25 +64,25 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 196,
-  "today_date": "2026-11-05",
+  "dudu_day": 197,
+  "today_date": "2026-11-06",
   "used_titles": [
-    "腾讯混元发布 Hy-Nomas 技术报告并开源 Hy-Nomas-Bench",
     "Canva Brush",
     "Beyond chatbots: UX for deep AI research",
     "Why Design in the 1980s Looked So Weird and Why It's Relevant Today [video]",
     "Systemap – animated system design diagrams that run in the browser",
     "How Zapier turns ideas into working software in hours with Vercel",
-    "Show HN: Cassandra – free tool to check if you got affected by the Cursor hack"
+    "Show HN: Cassandra – free tool to check if you got affected by the Cursor hack",
+    "AI can generate the interface. What makes it worth caring about?"
   ],
   "used_tools": [
-    "X：腾讯混元 (@TencentHunyuan)",
     "Product Hunt",
     "UX Collective",
     "Hacker News (设计向)",
     "Hacker News (设计向)",
     "Vercel Blog (v0)",
-    "Hacker News (设计向)"
+    "Hacker News (设计向)",
+    "UX Collective"
   ],
   "briefing_total": 0,
   "briefing_design": 0,

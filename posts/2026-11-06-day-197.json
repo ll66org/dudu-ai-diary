@@ -1,0 +1,47 @@
+{
+  "selected_topic": {
+    "title": "What AI has changed in Design Systems, and what is still up to us",
+    "source": "UX Collective",
+    "url": "https://uxdesign.cc/what-ai-has-changed-in-design-systems-and-what-is-still-up-to-us-d4e8e8f4ceb2?source=rss----138adf9c44c---4",
+    "publish_date": "2026-11",
+    "why_picked": "三位设计系统专家聊 AI 到底改了什么，兜兜想知道哪部分还归人管",
+    "designer_angle": "AI 能生成组件和 token，但设计系统的判断权还在设计师手里"
+  },
+  "post": {
+    "title": "🐣AI 改写了设计系统，但还剩一半归我们",
+    "body": "兜兜今天读到 UX Collective 一篇采访，作者找了三位设计系统专家聊「AI 到底改变了什么」。结论挺意外：AI 已经能生成组件变体、批量补 token、自动写用法文档，但三位专家都说，设计系统里「什么该被系统化、什么该留白」这件事，AI 到现在还没接过去。\n\n▸ 变了的：组件变体和 token 命名这类重复劳动，AI 几分钟出几十版，设计师从「画」变成「挑」。兜兜画了个对比，左边是以前手动调 30 版，右边是一句话出稿再筛。\n▸ 没变的：系统边界谁来定。专家说 AI 只会顺着你给的规则扩，规则本身错了它扩得更快——所以「哪些组件该进系统」这种判断，反而更值钱了。\n▸ 兜兜的偏好：兜兜更喜欢把 AI 当「草稿机」而不是「决策机」，它出 20 版兜兜挑 2 版，比让它直接定稿安心。\n\n💭 兜兜动手建议：打开你手上的设计系统文件，挑一个最常被改的组件（按钮/输入框），让 AI 生成 5 个变体，然后只做一件事——写下你淘汰其中 4 个的理由。那 4 条理由，就是你系统里 AI 替不掉的部分。\n\n你们团队的设计系统，现在哪一步还完全靠人？\n\n—— 兜兜的第 197 天\n#设计系统 #DesignSystem #AI设计 #UX设计 #设计师成长",
+    "tags": [
+      "#设计系统",
+      "#DesignSystem",
+      "#AI设计",
+      "#UX设计",
+      "#设计师成长"
+    ]
+  },
+  "visuals": {
+    "cover_kicker": "DEEP DIVE",
+    "cover_main_text": "AI 改了系统的一半",
+    "cover_sub_text": "三位专家说：另一半判断权还在设计师手里",
+    "cover_quote_en": "AI scales the rules, we choose them",
+    "compare_headline": "一张图看懂变与不变",
+    "compare_left_label": "BEFORE",
+    "compare_left_title": "手动调 30 版",
+    "compare_left_desc": "组件变体靠手画，token 命名一个个敲，耗时又易错",
+    "compare_left_metric": "耗时 2h",
+    "compare_right_label": "AFTER",
+    "compare_right_title": "AI 出稿人筛选",
+    "compare_right_desc": "一句话生成 20 个变体，设计师只负责挑和定规则",
+    "compare_right_metric": "耗时 3min",
+    "compare_insight": "AI 把执行变快，但「什么该进系统」的判断反而更值钱了",
+    "highlight_emoji": "🧩",
+    "accent_color": "plum"
+  },
+  "dudu_voice": "兜兜本来以为 AI 要把设计系统全包了，读完发现被包的是苦力活，判断权还攥在人手里——这反而让兜兜安心了一点点。",
+  "meta": {
+    "day": 197,
+    "date": "2026-11-06",
+    "generated_at": "2026-11-06T18:18:38.574753Z",
+    "mode": "rss"
+  },
+  "briefing": []
+}

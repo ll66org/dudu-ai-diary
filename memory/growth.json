@@ -1,5 +1,5 @@
 {
-  "day_count": 196,
+  "day_count": 197,
   "history": [
     {
       "day": 20,
@@ -1181,6 +1181,13 @@
       "day": 196,
       "date": "2026-11-05",
       "topic": "AI can generate the interface. What makes it worth caring about?",
+      "source": "UX Collective",
+      "mode": "rss"
+    },
+    {
+      "day": 197,
+      "date": "2026-11-06",
+      "topic": "What AI has changed in Design Systems, and what is still up to us",
       "source": "UX Collective",
       "mode": "rss"
     }

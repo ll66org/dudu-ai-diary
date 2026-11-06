@@ -1,27 +1,45 @@
 [
   {
-    "title": "CC Auto Review",
-    "summary": "<p>\n            macOS app that reviews GitHub PRs w/ your local Claude Code\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/cc-auto-review?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1304978?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/cc-auto-review",
-    "published": "2026-11-04T20:54:13-08:00",
+    "title": "Cursor Craft",
+    "summary": "<p>\n            Custom cursors for Mac\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/cursor-craft?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1306099?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/cursor-craft",
+    "published": "2026-11-05T17:53:45-08:00",
     "source": "Product Hunt",
     "source_weight": "high",
     "category": "ai_tech"
+  },
+  {
+    "title": "Vercel CLI can now set new projects to expire",
+    "summary": "<p>You can now set a new project to expire when you deploy it with <a href=\"https://vercel.com/docs/cli\">Vercel CLI</a>. Expired projects are deleted automatically, so prototypes, demos, and test apps don't need cleaning up by hand.</p><p>Run <code>vercel deploy</code> with <code>--delete-project-after</code> and a duration:</p><div></div><p>Supported durations are <code>1h</code>, <code>1d</code>, <code>1w</code>, <code>2w</code>, and <code>30d</code>, and the CLI prints the date and time when ",
+    "url": "https://vercel.com/changelog/vercel-cli-can-now-set-new-projects-to-expire",
+    "published": "",
+    "source": "Vercel Blog (v0)",
+    "source_weight": "high",
+    "category": "design_tools"
+  },
+  {
+    "title": "Vercel Tracing is now generally available",
+    "summary": "<p><a href=\"https://vercel.com/docs/tracing\">Vercel Tracing</a> is now generally available on all plans. You can now search and inspect traces from the <a href=\"https://vercel.com/docs/tracing/configure-tracing\">dashboard</a> or the <a href=\"https://vercel.com/docs/cli/traces\">Vercel CLI</a>, and new Next.js projects get tracing by default. Pricing is unchanged from the beta.</p><h3>Browse and search traces in the dashboard</h3><p>In beta, you could only open a trace per request from the Logs pa",
+    "url": "https://vercel.com/changelog/vercel-tracing-is-now-generally-available",
+    "published": "",
+    "source": "Vercel Blog (v0)",
+    "source_weight": "high",
+    "category": "design_tools"
+  },
+  {
+    "title": "Token Pass credit now applies automatically across AI Gateway",
+    "summary": "<div></div><p><a href=\"https://vercel.com/docs/ai-gateway/token-pass\">Token Pass</a> credit now applies automatically to included model usage through <a href=\"https://vercel.com/docs/ai-gateway\">AI Gateway</a>, whether a request authenticates with an API key, OIDC token, or <a href=\"https://fx.sh/\">fx</a> login. No dedicated Token Pass API key is required, though you can still create one from the dashboard or the CLI for keys scoped only to featured models and providers.</p><p>When Token Pass cr",
+    "url": "https://vercel.com/changelog/token-pass-credit-now-applies-automatically-across-ai-gateway",
+    "published": "",
+    "source": "Vercel Blog (v0)",
+    "source_weight": "high",
+    "category": "design_tools"
   },
   {
     "title": "In a world of panic, calm and certainty win",
     "summary": "<figure><img alt=\"A single still figure seen from behind while the surrounding scene blurs with motion, suggesting one calm person in the middle of chaos, in warm, muted light.\" src=\"https://cdn-images-1.medium.com/max/1024/1*zSsldV0F5S3ylnTNDWr-Rg.jpeg\" /><figcaption><em>You can dread the future or help build it. The people who come through this already chose.</em></figcaption></figure><h4>While panic around what AI means for our industry is the reflex right now, calm is a decision. The calm th",
     "url": "https://uxdesign.cc/in-a-world-of-panic-calm-and-certainty-win-525c17dd927f?source=rss----138adf9c44c---4",
     "published": "Wed, 04 Nov 2026 22:13:21 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "AI can generate the interface. What makes it worth caring about?",
-    "summary": "<h4><em>As more product work is generated from shared patterns, designers need to decide where an experience should surprise, celebrate, or simply leave someone alone.</em></h4><p>Imagine asking an AI tool to design a task-completion state.</p><p>The result has a checkmark, a friendly message, and a small burst of confetti. It uses the right components. The spacing matches the system. The animation is polished.</p><p>Now imagine that same response after two different tasks.</p><p>In one, someone",
-    "url": "https://uxdesign.cc/ai-can-generate-the-interface-what-makes-it-worth-caring-about-a5f3a3e81986?source=rss----138adf9c44c---4",
-    "published": "Wed, 04 Nov 2026 22:12:46 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
@@ -63,24 +81,6 @@
     "category": "design_communities"
   },
   {
-    "title": "Agents struggle with the same bad UX we do",
-    "summary": "<h4>Computer-use agents can’t guess, improvise, or ask a coworker. That makes them the most honest usability testers we’ve ever had.</h4><figure><img alt=\"Two buttons, one says Continue, the other Submit\" src=\"https://cdn-images-1.medium.com/max/1024/1*P84_tG2F_rrE_MWlHlPGJA.jpeg\" /></figure><p>The first time I watched an agent fail on a vendor portal, I recognized the failure immediately. Not because I understood the model. Because I’d failed in exactly the same place myself.</p><p>For example,",
-    "url": "https://uxdesign.cc/agents-struggle-with-the-same-bad-ux-we-do-98415f2b8981?source=rss----138adf9c44c---4",
-    "published": "Tue, 03 Nov 2026 22:36:33 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "What I learned teaching AI prototyping at university",
-    "summary": "<h4><em>Teaching students how to prototype with AI tools instead of Figma revealed exciting possibilities and uncomfortable trade-offs. It also offered valuable insight into how non-tech people can create apps with generative AI.</em></h4><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*_aggjPMjQBpRc_sWKZZ7zA.png\" /></figure><p>I teach digital prototyping to fashion design undergraduates and master’s students at UPM’s Fashion School. My course focuses on exploring app concepts",
-    "url": "https://uxdesign.cc/what-i-learned-teaching-ai-prototyping-at-university-b9fff222625e?source=rss----138adf9c44c---4",
-    "published": "Tue, 03 Nov 2026 10:09:09 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
     "title": "Modern CSS Might Make Your Front-End More Complex",
     "summary": "Replacing JavaScript with a modern CSS feature can simplify a piece of code while making the wider application harder to reason about. Gabriel Shoyombo explores what happens when logic is split between CSS and JavaScript, sharing practical guidance to help you keep complexity in check during migration.",
     "url": "https://smashingmagazine.com/2026/11/modern-css-might-make-your-front-end-more-complex/",
@@ -100,7 +100,7 @@
   },
   {
     "title": "Everyone’s got a quick question",
-    "summary": "<h4><em>And you shouldn’t have to answer them all.</em></h4><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*JPAmI462BwsTRggkR1Ybfw.gif\" /><figcaption>Frequently asked questions in my inbox, recreated.</figcaption></figure><h3>I became the team’s search engine</h3><p>Every team has a person everyone reaches out to. They know where things live, why a decision went the way it did, and who to ask when you’re stuck. If you’re on a team, you’ve probably messaged yours today. 😏</p><",
+    "summary": "<h4><em>And you shouldn’t have to answer them all.</em></h4><p><em>There’s an interactive version of this story. </em><a href=\"https://le-goat.netlify.app/?utm_source=medium\"><strong><em>Explore it </em></strong><em>→</em></a></p><figure><img alt=\"Animation: Slack messages pile up one after another until they fill the screen, each a quick question from a teammate, such as “do we have the recording from Tuesday’s session?”, “where does the date picker live in our design system?” and “where’s the ",
     "url": "https://uxdesign.cc/everyones-got-a-quick-question-374a736ff7cb?source=rss----138adf9c44c---4",
     "published": "Thu, 05 Nov 2026 10:47:24 GMT",
     "source": "UX Collective",
@@ -113,6 +113,33 @@
     "url": "https://smashingmagazine.com/2026/10/desktop-wallpaper-calendars-november-2026/",
     "published": "Sat, 31 Oct 2026 08:00:00 GMT",
     "source": "Smashing Magazine",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "A New Community For In-House UX People",
+    "summary": "We’ve been working on something new! We’ve teamed up for a **new small community** for people doing UX-inside organizations &mdash; with weekly calls and a shared library of the business cases, templates, and research plans that have actually worked for other folks. [Jump to details](https://uxinsiders.boagworld.com/).",
+    "url": "https://smashingmagazine.com/2026/11/ux-insiders-community-in-house-ux-people/",
+    "published": "Fri, 06 Nov 2026 08:00:00 GMT",
+    "source": "Smashing Magazine",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Berrypicking still beats the single answer for search, even in the world of AI",
+    "summary": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*7nKkTkUX4iDwlOFBMtt4kg.png\" /><figcaption>A searcher moves through scattered sources, collecting one useful piece at each stop.</figcaption></figure><h4>In 1989 <em>Marcia Bates showed that people search by gathering, shifting, and revising as they go. Her ideas explain what AI still misses and what is still relevant from research done 47 years ago.</em></h4><p>Much of what product teams are learning about artificial intelligenc",
+    "url": "https://uxdesign.cc/berrypicking-still-beats-the-single-answer-for-search-even-in-the-world-of-ai-6d7174099500?source=rss----138adf9c44c---4",
+    "published": "Fri, 06 Nov 2026 04:13:24 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Native is a floor, not a ceiling",
+    "summary": "<h4>With AI, a polished look costs nothing. Native brings what can’t be drawn, and it moves with the system, one step ahead of what imitates it.</h4><figure><img alt=\"A collection of iOS UI components in the Liquid Glass design, in dark mode: a keyboard, a tab bar, an action menu, an alert, buttons, toggles and sliders, laid out at an angle.\" src=\"https://cdn-images-1.medium.com/max/1024/1*tmilNueBY4CBfNN99ZX5vA.jpeg\" /></figure><p><em>An AI assistant helped me write this. The ideas, the experie",
+    "url": "https://uxdesign.cc/native-is-a-floor-not-a-ceiling-09bc4f27ddce?source=rss----138adf9c44c---4",
+    "published": "Fri, 06 Nov 2026 04:12:29 GMT",
+    "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
   },
