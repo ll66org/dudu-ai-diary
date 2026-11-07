@@ -1,5 +1,5 @@
 {
-  "day_count": 197,
+  "day_count": 198,
   "history": [
     {
       "day": 20,
@@ -1189,6 +1189,13 @@
       "date": "2026-11-06",
       "topic": "What AI has changed in Design Systems, and what is still up to us",
       "source": "UX Collective",
+      "mode": "rss"
+    },
+    {
+      "day": 198,
+      "date": "2026-11-07",
+      "topic": "Show HN: Twombly – A collaborative canvas for your agent's design explorations",
+      "source": "Hacker News (设计向)",
       "mode": "rss"
     }
   ],
