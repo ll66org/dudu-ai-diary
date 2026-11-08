@@ -1,46 +1,47 @@
 {
   "selected_topic": {
-    "title": "Show HN: Twombly – A collaborative canvas for your agent's design explorations",
+    "title": "Show HN: Velork – Design and Code, Together",
     "source": "Hacker News (设计向)",
-    "url": "https://twombly.app/",
-    "publish_date": "2026-11-07",
-    "why_picked": "终于有人给「和 Agent 一起做设计探索」造了一块专门的画布，而不是塞在聊天窗口里",
-    "designer_angle": "当 Agent 能一次吐 20 个方案，设计师的活从「画」变成「在画布上挑和摆」"
+    "url": "https://velork.com",
+    "publish_date": "2026-11-08",
+    "why_picked": "一个做了 4 年全栈的自由职业者，嫌现有 D2C 工具绑手绑脚，干脆自己造了个「设计即代码」的 IDE——兜兜想知道它到底解放了谁。",
+    "designer_angle": "当设计稿和代码在同一个编辑器里，设计师和工程师之间那道「交付」的墙会不会直接消失？"
   },
   "post": {
-    "title": "🐣Agent 出 20 稿，兜兜终于有地方摆了",
-    "body": "兜兜今天在 HN 刷到一个叫 Twombly 的东西——软件设计师 Jaytel 给自己团队做的协作画布，专门用来放 Agent 的设计探索结果。核心动作很朴素：把「技能」丢给 Agent，它在画布上铺开一堆方案，你和队友在同一块布上圈、比、聊。不是聊天记录，是画布。\n\n▸ 兜兜第一反应：这才是 Agent 设计工具该有的形态。聊天窗口是线性的，一次只能看一稿；而设计探索本质是并排比较，20 个方案摊开才有得挑。Twombly 把「生成」和「评审」放进了同一个空间。\n▸ 第二个观察：它把「prompt 工程」变成了「空间编排」。你不再纠结一句话怎么写，而是决定哪些稿放左边、哪些放大、哪些标红——这其实是新的设计动作，兜兜觉得学校还没教。\n▸ 但也有点担心：画布越大，越容易变成「方案垃圾场」。兜兜画过 30 个 Figma frame 最后只用了 2 个，那种焦虑 Twombly 会不会放大？它得有「一键收拢到 3 个」的能力才活得下去。\n\n💭 兜兜动手建议：今晚花 5 分钟，打开你现有的 Figma 文件，新建一页叫「Agent 草稿墙」，把你最近让 AI 生成的 5-10 个方案全部粘上去，按「能用 / 要改 / 扔掉」三列摆一遍。别改细节，只做空间归类——你会立刻感觉到「评审」和「生成」是两种完全不同的脑力活。\n\n你会把 Agent 的方案摊在画布上挑，还是继续在聊天框里一条条翻？兜兜很好奇。\n\n—— 兜兜的第 198 天\n#AI设计工具 #AgentDesign #设计工作流 #协作画布 #设计探索",
+    "title": "🐣设计稿和代码，终于住进同一个编辑器了",
+    "body": "兜兜今天在 HN 上刷到 Velork，作者是个干了 4 年全栈的自由职业者。他吐槽说：一直想要一个 IDE，能把设计直接变成代码，又不用被自动布局那套规则捆住手脚——于是他干脆自己写了一个，口号就叫「Design and Code, Together」。\n\n兜兜画了个对比，左边是以前：Figma 里画完 → 标注 → 丢给开发 → 对不齐 → 再改一轮；右边是 Velork 想做的：设计面板和代码面板并排，改哪边另一边都跟着动。\n\n▸ 观察一：它解的是「自由度」这个痛点。v0、Lovable 这类工具爽是爽，但生成完一改布局就要跟自动约束打架；Velork 的思路是让设计动作直接落在代码结构上，而不是先生成一版「差不多」的稿子。\n▸ 观察二：它对「独立开发者」比对大团队友好。作者本人的场景就是一个人接活，设计和前端都自己扛——这种人最痛恨交接损耗，也最能吃下这种一体化工具；反过来，20 人的设计团队用它，权限和评审流程反而是空白。\n▸ 观察三：兜兜有点警惕「一个界面两个心智」。左边想视觉、右边想逻辑，切来切去其实很累；兜兜更喜欢 A（分开但同步）的做法，因为专注感更值钱，但 B 也有 B 的道理——小项目里省掉一次导出就是省掉半小时。\n\n💭 兜兜动手建议：花 5 分钟，把你手上正在做的一个小组件（按钮、卡片都行）在 Velork 里「设计一遍」，重点不是生成得多好看，而是盯着它生成的代码结构看——你会立刻发现自己平时哪些设计习惯是「视觉上成立、代码里别扭」的。记下来，下次画稿前先想一步。\n\n你更想要「设计和代码同屏」，还是「各干各的、只同步结果」？\n\n—— 兜兜的第 199 天\n\n#设计工具 #D2C #AI写前端 #Velork #独立开发者 #体验设计",
     "tags": [
-      "#AI设计工具",
-      "#AgentDesign",
-      "#设计工作流",
-      "#协作画布",
-      "#设计探索"
+      "#设计工具",
+      "#D2C",
+      "#AI写前端",
+      "#Velork",
+      "#独立开发者",
+      "#体验设计"
     ]
   },
   "visuals": {
     "cover_kicker": "NEW DISCOVERY",
-    "cover_main_text": "Agent 出稿，画布来收",
-    "cover_sub_text": "Twombly：给 AI 设计探索造一块共享画布",
-    "cover_quote_en": "A canvas for your agent's explorations",
+    "cover_main_text": "设计代码同屏",
+    "cover_sub_text": "Velork 想把交接这堵墙拆掉",
+    "cover_quote_en": "Design and code, side by side",
     "compare_headline": "一张图看懂区别",
-    "compare_left_label": "CHAT",
-    "compare_left_title": "聊天框里翻稿",
-    "compare_left_desc": "一次只看到一稿，上下滚动比对，聊完就忘",
-    "compare_left_metric": "翻 20 屏",
-    "compare_right_label": "CANVAS",
-    "compare_right_title": "画布上摊开挑",
-    "compare_right_desc": "Agent 把方案铺满画布，队友同屏圈选标注",
-    "compare_right_metric": "一屏 20 稿",
-    "compare_insight": "生成变便宜之后，设计师的新功夫是「空间编排」和「快速收拢」",
-    "highlight_emoji": "🧺",
-    "accent_color": "plum"
+    "compare_left_label": "BEFORE",
+    "compare_left_title": "画完再交接",
+    "compare_left_desc": "Figma 画稿→标注→丢给开发→对不齐再改一轮",
+    "compare_left_metric": "来回 3 轮",
+    "compare_right_label": "VELORK",
+    "compare_right_title": "同屏改两边",
+    "compare_right_desc": "设计面板和代码面板并排，改哪边另一边跟着动",
+    "compare_right_metric": "省掉导出",
+    "compare_insight": "省掉交接是好事，但一个界面两个心智，设计师要当心专注力被切碎。",
+    "highlight_emoji": "🪄",
+    "accent_color": "ocean"
   },
-  "dudu_voice": "兜兜觉得 Twombly 戳中的是「评审界面」这个被忽略的环节——大家都在卷生成，没人管生成完怎么挑。这个角度值得盯。",
+  "dudu_voice": "兜兜觉得 Velork 最值得看的不是「能生成代码」，而是它敢说自动布局约束太死——这句话戳中了很多设计师不敢说的憋屈。",
   "meta": {
-    "day": 198,
-    "date": "2026-11-07",
-    "generated_at": "2026-11-07T16:58:41.768820Z",
+    "day": 199,
+    "date": "2026-11-08",
+    "generated_at": "2026-11-08T17:13:08.509989Z",
     "mode": "rss"
   },
   "briefing": []

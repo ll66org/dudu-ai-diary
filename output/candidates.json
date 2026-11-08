@@ -1,84 +1,57 @@
 [
   {
-    "title": "Show HN: AIVim – an open-source, Vim-inspired AI editor",
-    "summary": "<p>I thought it would be cool to have a modern, Vim-inspired editor with AI, so I built AIVim. Just revamped it. Try it in an isolated Python environment with Ollama or a hosted API. Fast token generation makes the interaction feel responsive.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50405893\">https://news.ycombinator.com/item?id=50405893</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://news.ycombinator.com/item?id=50405893",
-    "published": "Sat, 07 Nov 2026 16:39:45 +0000",
+    "title": "I built a visual UI editor extension for Rust in VS Code (Iced, egui, Slint)",
+    "summary": "<p>Article URL: <a href=\"https://github.com/c0mbit/ruxel-studio\">https://github.com/c0mbit/ruxel-studio</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50414454\">https://news.ycombinator.com/item?id=50414454</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://github.com/c0mbit/ruxel-studio",
+    "published": "Sun, 08 Nov 2026 16:10:59 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Native Shell (NSH) is a native UI framework. Build once, native everywhere",
-    "summary": "<p>Article URL: <a href=\"https://github.com/longbridge/nsh\">https://github.com/longbridge/nsh</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50405790\">https://news.ycombinator.com/item?id=50405790</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://github.com/longbridge/nsh",
-    "published": "Sat, 07 Nov 2026 16:23:03 +0000",
+    "title": "Show HN: Velork – Design and Code, Together",
+    "summary": "<p>Hi HN! :)<p>I’ve been working as a fullstack freelancer for over 4 years now. I always wanted some kind of IDE where I could take designs, turn them into code, and not be restricted to using auto layout and all that stuff.<p>Back at the beginning of 2020, before LLMs and AI were a thing, I was sitting with a friend of mine trying to figure out how to take a design, even one built with absolute values, and turn it into a working web app. I tried and failed :(<p>Today I’m launching Velork! It’s",
+    "url": "https://velork.com",
+    "published": "Sun, 08 Nov 2026 15:31:19 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Show HN: Twombly – A collaborative canvas for your agent's design explorations",
-    "summary": "<p>I'm Jaytel a software designer.<p>Twombly is the sharable and collaborative canvas I built for myself and my team to reflect how we design and work with agents today.<p>Just give the skill to your agent and instantly spin up an freeform canvas for your agent to design on.<p>Click Share and your team gets one link, with live cursors, following, comments pinned to frames, and voice huddles. The agent can read those comments back and see which frame you're looking at, so it iterates on your team",
-    "url": "https://twombly.app/",
-    "published": "Sat, 07 Nov 2026 15:10:10 +0000",
+    "title": "Gg is Git good. An UI to inspect and update Git repos",
+    "summary": "<p>Article URL: <a href=\"https://github.com/baol/gg\">https://github.com/baol/gg</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50413567\">https://news.ycombinator.com/item?id=50413567</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+    "url": "https://github.com/baol/gg",
+    "published": "Sun, 08 Nov 2026 14:16:24 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "The Developer's Design Advantage: Why UX and UI Matter with Kathryn Grayson Nanz [video]",
-    "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=aoJ-7ozu8h0\">https://www.youtube.com/watch?v=aoJ-7ozu8h0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50405130\">https://news.ycombinator.com/item?id=50405130</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://www.youtube.com/watch?v=aoJ-7ozu8h0",
-    "published": "Sat, 07 Nov 2026 15:00:20 +0000",
+    "title": "Archimedes: AI agents that design physical things",
+    "summary": "<p>Article URL: <a href=\"https://standardphysics.com/archimedes\">https://standardphysics.com/archimedes</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50413440\">https://news.ycombinator.com/item?id=50413440</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "url": "https://standardphysics.com/archimedes",
+    "published": "Sun, 08 Nov 2026 13:59:08 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "DeepSeek V4.1 Flash 1017 Ultrafast now available on AI Gateway",
-    "summary": "<p><a href=\"https://vercel.com/ai-gateway/models/deepseek-v4.1-flash-1017-ultrafast\">DeepSeek V4.1 Flash 1017 Ultrafast</a> is now available on AI Gateway through Fireworks. This model can generate upwards of <b>1,000 tokens per second</b>.</p><p>Ultrafast serves the October 17 update of DeepSeek V4.1 Flash through Fireworks' accelerated serverless endpoint. It is suited to interactive coding, reasoning, and agentic workflows where applications need to generate output and move to the next step q",
-    "url": "https://vercel.com/changelog/deepseek-v4-1-flash-1017-ultrafast-now-available-on-ai-gateway",
-    "published": "",
-    "source": "Vercel Blog (v0)",
+    "title": "LLMs are terrible at designing AI systems",
+    "summary": "<p>Article URL: <a href=\"https://www.seangoedecke.com/llms-are-terrible-at-designing-ai-systems/\">https://www.seangoedecke.com/llms-are-terrible-at-designing-ai-systems/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50412713\">https://news.ycombinator.com/item?id=50412713</a></p>\n<p>Points: 5</p>\n<p># Comments: 1</p>",
+    "url": "https://www.seangoedecke.com/llms-are-terrible-at-designing-ai-systems/",
+    "published": "Sun, 08 Nov 2026 12:33:58 +0000",
+    "source": "Hacker News (设计向)",
     "source_weight": "high",
-    "category": "design_tools"
+    "category": "ai_tech"
   },
   {
-    "title": "Chat SDK agents can now stream generative UI with json-render",
-    "summary": "<div></div><p>You can now stream generative UI from your <a href=\"https://chat-sdk.dev\">Chat SDK</a> agent with <a href=\"https://json-render.dev\">json-render</a>.</p><p>With a typed catalog of components, the agent writes a JSON spec that <code>json-render</code> converts into a Chat SDK card. Each adapter then posts the card in its platform’s native format, such as Block Kit on Slack and Adaptive Cards on Teams.</p><p>The catalog covers tables, charts, buttons, and more, so there’s no separate ",
-    "url": "https://vercel.com/changelog/json-render-and-chat-sdk-agents",
-    "published": "",
-    "source": "Vercel Blog (v0)",
+    "title": "Agent Clan",
+    "summary": "<p>\n            Command your Claude Code and Codex agents with gestures\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/agent-clan?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1307984?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/agent-clan",
+    "published": "2026-11-07T09:52:26-08:00",
+    "source": "Product Hunt",
     "source_weight": "high",
-    "category": "design_tools"
-  },
-  {
-    "title": "AI Gateway adds DeepSeek Search and Fetch tools",
-    "summary": "<p><a href=\"https://vercel.com/ai-gateway/models/deepseek-search\">DeepSeek Search</a> and <a href=\"https://vercel.com/ai-gateway/models/deepseek-fetch\">DeepSeek Fetch</a> are now available through <a href=\"https://vercel.com/ai-gateway\">AI Gateway</a>. Search finds relevant pages with titles, URLs, and summaries. Fetch retrieves page content as Markdown for your model to read.</p><p>Use both tools with any model that supports tool calling, using one AI Gateway API key. No separate DeepSeek accou",
-    "url": "https://vercel.com/changelog/ai-gateway-adds-deepseek-search-and-fetch-tools",
-    "published": "",
-    "source": "Vercel Blog (v0)",
-    "source_weight": "high",
-    "category": "design_tools"
-  },
-  {
-    "title": "Vercel CLI can now set new projects to expire",
-    "summary": "<p>You can now set a new project to expire when you deploy it with <a href=\"https://vercel.com/docs/cli\">Vercel CLI</a>. Expired projects are deleted automatically, so prototypes, demos, and test apps don't need cleaning up by hand.</p><p>Run <code>vercel deploy</code> with <code>--delete-project-after</code> and a duration:</p><div></div><p>Supported durations are <code>1h</code>, <code>1d</code>, <code>1w</code>, <code>2w</code>, and <code>30d</code>, and the CLI prints the date and time when ",
-    "url": "https://vercel.com/changelog/vercel-cli-can-now-set-new-projects-to-expire",
-    "published": "",
-    "source": "Vercel Blog (v0)",
-    "source_weight": "high",
-    "category": "design_tools"
-  },
-  {
-    "title": "Vercel Tracing is now generally available",
-    "summary": "<p><a href=\"https://vercel.com/docs/tracing\">Vercel Tracing</a> is now generally available on all plans. You can now search and inspect traces from the <a href=\"https://vercel.com/docs/tracing/configure-tracing\">dashboard</a> or the <a href=\"https://vercel.com/docs/cli/traces\">Vercel CLI</a>, and new Next.js projects get tracing by default. Pricing is unchanged from the beta.</p><h3>Browse and search traces in the dashboard</h3><p>In beta, you could only open a trace per request from the Logs pa",
-    "url": "https://vercel.com/changelog/vercel-tracing-is-now-generally-available",
-    "published": "",
-    "source": "Vercel Blog (v0)",
-    "source_weight": "high",
-    "category": "design_tools"
+    "category": "ai_tech"
   },
   {
     "title": "In a world of panic, calm and certainty win",
@@ -94,15 +67,6 @@
     "summary": "<h4>We used to design predictable user flows. Now AI can interpret, decide, and act on its own. Here’s why the hardest design decisions happen where that autonomy ends.</h4><figure><img alt=\"Showing where AI stops in the flow — visual\" src=\"https://cdn-images-1.medium.com/max/1024/1*4xb0tuwC90tLWJBgYVaomg.png\" /><figcaption>Showing where AI stops in the flow — by gpt</figcaption></figure><p>In September 2025, researchers at Thinking Machines Lab ran the same prompt through a language model 1,000",
     "url": "https://uxdesign.cc/your-ai-is-non-deterministic-but-your-product-cant-be-3ec2a0cf870c?source=rss----138adf9c44c---4",
     "published": "Tue, 03 Nov 2026 22:40:34 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "I let AI build. I don’t let AI decide.",
-    "summary": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*Lytrg3JiMtGnqGvqQh-JSQ.png\" /><figcaption>A long workbench split down the middle, finished tools stacked on one side and a single open notebook on the other.</figcaption></figure><h4>My list of tasks I give models without a second thought and what I review until the tools evolve.</h4><p>I’ve used generative models for almost four years and designed machine learning applications for seven before that, so people ask what I delegat",
-    "url": "https://uxdesign.cc/i-let-ai-build-i-dont-let-ai-decide-b3892a87feb3?source=rss----138adf9c44c---4",
-    "published": "Tue, 03 Nov 2026 22:37:40 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"

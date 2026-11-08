@@ -1,5 +1,5 @@
 {
-  "day_count": 198,
+  "day_count": 199,
   "history": [
     {
       "day": 20,
@@ -1195,6 +1195,13 @@
       "day": 198,
       "date": "2026-11-07",
       "topic": "Show HN: Twombly – A collaborative canvas for your agent's design explorations",
+      "source": "Hacker News (设计向)",
+      "mode": "rss"
+    },
+    {
+      "day": 199,
+      "date": "2026-11-08",
+      "topic": "Show HN: Velork – Design and Code, Together",
       "source": "Hacker News (设计向)",
       "mode": "rss"
     }
