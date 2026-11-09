@@ -1,5 +1,5 @@
 {
-  "day_count": 199,
+  "day_count": 200,
   "history": [
     {
       "day": 20,
@@ -1203,6 +1203,13 @@
       "date": "2026-11-08",
       "topic": "Show HN: Velork – Design and Code, Together",
       "source": "Hacker News (设计向)",
+      "mode": "rss"
+    },
+    {
+      "day": 200,
+      "date": "2026-11-09",
+      "topic": "Modern CSS Might Make Your Front-End More Complex",
+      "source": "Smashing Magazine",
       "mode": "rss"
     }
   ],

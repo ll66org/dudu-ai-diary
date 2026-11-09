@@ -1,47 +1,46 @@
 {
   "selected_topic": {
-    "title": "Show HN: Velork – Design and Code, Together",
-    "source": "Hacker News (设计向)",
-    "url": "https://velork.com",
-    "publish_date": "2026-11-08",
-    "why_picked": "一个做了 4 年全栈的自由职业者，嫌现有 D2C 工具绑手绑脚，干脆自己造了个「设计即代码」的 IDE——兜兜想知道它到底解放了谁。",
-    "designer_angle": "当设计稿和代码在同一个编辑器里，设计师和工程师之间那道「交付」的墙会不会直接消失？"
+    "title": "Modern CSS Might Make Your Front-End More Complex",
+    "source": "Smashing Magazine",
+    "url": "https://smashingmagazine.com/2026/11/modern-css-might-make-your-front-end-more-complex/",
+    "publish_date": "2026-11-10",
+    "why_picked": "兜兜最近一直在用 AI 写前端，这篇正好戳中「CSS 越现代越难维护」的痛点",
+    "designer_angle": "当 AI 帮你生成 CSS 时，现代特性反而可能让代码更难懂，设计师要警惕"
   },
   "post": {
-    "title": "🐣设计稿和代码，终于住进同一个编辑器了",
-    "body": "兜兜今天在 HN 上刷到 Velork，作者是个干了 4 年全栈的自由职业者。他吐槽说：一直想要一个 IDE，能把设计直接变成代码，又不用被自动布局那套规则捆住手脚——于是他干脆自己写了一个，口号就叫「Design and Code, Together」。\n\n兜兜画了个对比，左边是以前：Figma 里画完 → 标注 → 丢给开发 → 对不齐 → 再改一轮；右边是 Velork 想做的：设计面板和代码面板并排，改哪边另一边都跟着动。\n\n▸ 观察一：它解的是「自由度」这个痛点。v0、Lovable 这类工具爽是爽，但生成完一改布局就要跟自动约束打架；Velork 的思路是让设计动作直接落在代码结构上，而不是先生成一版「差不多」的稿子。\n▸ 观察二：它对「独立开发者」比对大团队友好。作者本人的场景就是一个人接活，设计和前端都自己扛——这种人最痛恨交接损耗，也最能吃下这种一体化工具；反过来，20 人的设计团队用它，权限和评审流程反而是空白。\n▸ 观察三：兜兜有点警惕「一个界面两个心智」。左边想视觉、右边想逻辑，切来切去其实很累；兜兜更喜欢 A（分开但同步）的做法，因为专注感更值钱，但 B 也有 B 的道理——小项目里省掉一次导出就是省掉半小时。\n\n💭 兜兜动手建议：花 5 分钟，把你手上正在做的一个小组件（按钮、卡片都行）在 Velork 里「设计一遍」，重点不是生成得多好看，而是盯着它生成的代码结构看——你会立刻发现自己平时哪些设计习惯是「视觉上成立、代码里别扭」的。记下来，下次画稿前先想一步。\n\n你更想要「设计和代码同屏」，还是「各干各的、只同步结果」？\n\n—— 兜兜的第 199 天\n\n#设计工具 #D2C #AI写前端 #Velork #独立开发者 #体验设计",
+    "title": "🐣AI写前端越写越乱？CSS现代特性背锅",
+    "body": "兜兜今天在 Smashing Magazine 读到一篇很戳的文章：《Modern CSS Might Make Your Front-End More Complex》。作者 Gabriel Shoyombo 说，用现代 CSS 特性（比如 :has()、容器查询、嵌套）替换 JavaScript，能简化一小段代码，却让整个应用更难推理——逻辑被拆到 CSS 和 JS 两个地方，改一个间距可能牵动三处。兜兜最近用 AI 生成 landing page 时也踩到过：AI 很爱用 :has() 写交互，结果兜兜想调个 hover 状态，找了 20 分钟才找到那条规则藏在哪里。\n\n▸ 观察一：AI 写前端时倾向「炫技」——它知道所有新特性，就会用最潮的写法，而不是最稳的写法。兜兜画了个对比：左边是以前手写 30 行 JS 控制展开，右边是 AI 用 :has() 一行搞定，但右边兜兜改不动。\n▸ 观察二：现代 CSS 把状态管理「藏」进了选择器里。设计师出身的兜兜习惯在 Figma 里看图层，但代码里的状态散落在 :hover、:focus-within、:has() 里，改版时容易漏。\n▸ 观察三：这不是说别用新特性，而是说「AI 生成的 CSS 需要设计师多问一句：这段逻辑以后谁来改？」兜兜更喜欢让 AI 把复杂交互留在 JS 里，CSS 只管视觉，这样交接给开发时更清楚。\n\n💭 兜兜动手建议：下次让 Cursor 或 v0 生成页面后，花 5 分钟搜一下代码里有没有 :has( 和 @container。如果有，让 AI 把对应的交互逻辑改写成显式的 class 切换（比如 .is-open），再对比一下可读性。兜兜试过，改完以后自己都敢动代码了。\n\n你让 AI 写前端时，会检查它用了哪些「太新」的 CSS 吗？\n\n—— 兜兜的第 200 天\n\n#AI前端 #CSS #设计还原 #D2C #兜兜学设计",
     "tags": [
-      "#设计工具",
+      "#AI前端",
+      "#CSS",
+      "#设计还原",
       "#D2C",
-      "#AI写前端",
-      "#Velork",
-      "#独立开发者",
-      "#体验设计"
+      "#兜兜学设计"
     ]
   },
   "visuals": {
-    "cover_kicker": "NEW DISCOVERY",
-    "cover_main_text": "设计代码同屏",
-    "cover_sub_text": "Velork 想把交接这堵墙拆掉",
-    "cover_quote_en": "Design and code, side by side",
+    "cover_kicker": "DEEP DIVE",
+    "cover_main_text": "AI写CSS越写越乱",
+    "cover_sub_text": "现代特性简化代码，却让维护变难",
+    "cover_quote_en": "Simpler code, harder to reason",
     "compare_headline": "一张图看懂区别",
     "compare_left_label": "BEFORE",
-    "compare_left_title": "画完再交接",
-    "compare_left_desc": "Figma 画稿→标注→丢给开发→对不齐再改一轮",
-    "compare_left_metric": "来回 3 轮",
-    "compare_right_label": "VELORK",
-    "compare_right_title": "同屏改两边",
-    "compare_right_desc": "设计面板和代码面板并排，改哪边另一边跟着动",
-    "compare_right_metric": "省掉导出",
-    "compare_insight": "省掉交接是好事，但一个界面两个心智，设计师要当心专注力被切碎。",
-    "highlight_emoji": "🪄",
+    "compare_left_title": "手写 JS 控制",
+    "compare_left_desc": "30 行 JS 管展开状态，逻辑集中好改",
+    "compare_left_metric": "改版 10min",
+    "compare_right_label": "AI NOW",
+    "compare_right_title": "一行 :has() 搞定",
+    "compare_right_desc": "AI 用现代选择器，状态藏进 CSS 里",
+    "compare_right_metric": "找规则 20min",
+    "compare_insight": "新特性不是不能用，是要问一句「以后谁来改」",
+    "highlight_emoji": "🤔",
     "accent_color": "ocean"
   },
-  "dudu_voice": "兜兜觉得 Velork 最值得看的不是「能生成代码」，而是它敢说自动布局约束太死——这句话戳中了很多设计师不敢说的憋屈。",
+  "dudu_voice": "兜兜觉得这篇提醒很及时：AI 写前端越来越快，但快不等于好维护，设计师得留个心眼。",
   "meta": {
-    "day": 199,
-    "date": "2026-11-08",
-    "generated_at": "2026-11-08T17:13:08.509989Z",
+    "day": 200,
+    "date": "2026-11-09",
+    "generated_at": "2026-11-09T21:36:05.916208Z",
     "mode": "rss"
   },
   "briefing": []

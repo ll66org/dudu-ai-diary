@@ -1,14 +1,14 @@
 {
-  "fetched_at": "2026-11-08T17:13:00.337253Z",
-  "total_candidates": 17,
+  "fetched_at": "2026-11-09T21:35:57.319734Z",
+  "total_candidates": 20,
   "source_stats": {
     "Figma Blog": {
       "found": 0,
       "total": 0
     },
     "Vercel Blog (v0)": {
-      "found": 0,
-      "total": 2135
+      "found": 5,
+      "total": 2142
     },
     "Cursor Changelog": {
       "found": 0,
@@ -23,8 +23,8 @@
       "total": 0
     },
     "Lovable Blog": {
-      "found": 0,
-      "total": 174
+      "found": 1,
+      "total": 175
     },
     "Bolt (StackBlitz) Blog": {
       "found": 0,
@@ -43,7 +43,7 @@
       "total": 0
     },
     "CSS-Tricks": {
-      "found": 3,
+      "found": 4,
       "total": 15
     },
     "A List Apart": {
@@ -51,11 +51,11 @@
       "total": 20
     },
     "Hacker News (设计向)": {
-      "found": 5,
-      "total": 20
+      "found": 0,
+      "total": 0
     },
     "Product Hunt": {
-      "found": 1,
+      "found": 0,
       "total": 50
     },
     "Designer News (AI Design)": {
@@ -64,24 +64,24 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 199,
-  "today_date": "2026-11-08",
+  "dudu_day": 200,
+  "today_date": "2026-11-09",
   "used_titles": [
-    "Why Design in the 1980s Looked So Weird and Why It's Relevant Today [video]",
     "Systemap – animated system design diagrams that run in the browser",
     "How Zapier turns ideas into working software in hours with Vercel",
     "Show HN: Cassandra – free tool to check if you got affected by the Cursor hack",
     "AI can generate the interface. What makes it worth caring about?",
     "What AI has changed in Design Systems, and what is still up to us",
-    "Show HN: Twombly – A collaborative canvas for your agent's design explorations"
+    "Show HN: Twombly – A collaborative canvas for your agent's design explorations",
+    "Show HN: Velork – Design and Code, Together"
   ],
   "used_tools": [
-    "Hacker News (设计向)",
     "Hacker News (设计向)",
     "Vercel Blog (v0)",
     "Hacker News (设计向)",
     "UX Collective",
     "UX Collective",
+    "Hacker News (设计向)",
     "Hacker News (设计向)"
   ],
   "briefing_total": 0,

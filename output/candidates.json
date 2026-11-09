@@ -1,75 +1,48 @@
 [
   {
-    "title": "I built a visual UI editor extension for Rust in VS Code (Iced, egui, Slint)",
-    "summary": "<p>Article URL: <a href=\"https://github.com/c0mbit/ruxel-studio\">https://github.com/c0mbit/ruxel-studio</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50414454\">https://news.ycombinator.com/item?id=50414454</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://github.com/c0mbit/ruxel-studio",
-    "published": "Sun, 08 Nov 2026 16:10:59 +0000",
-    "source": "Hacker News (设计向)",
+    "title": "Decision models take 26% of requests; Anthropic now wins new teams 2:1",
+    "summary": "<p><i>AI Gateway Production Index — November 2026</i></p><p>Every month, <a href=\"https://vercel.com/ai-gateway\">AI Gateway</a> routes more than 100 trillion tokens between production applications and AI labs. That traffic gives us a view of what AI usage looks like in today’s enterprise and startup landscape across language, decision, voice, image, and video models. We publish it here monthly. See the Production Index reports from <a href=\"https://vercel.com/blog/deepseek-overtakes-google-on-vo",
+    "url": "https://vercel.com/blog/ai-gateway-production-index-november-2026",
+    "published": "",
+    "source": "Vercel Blog (v0)",
     "source_weight": "high",
-    "category": "ai_tech"
+    "category": "design_tools"
   },
   {
-    "title": "Show HN: Velork – Design and Code, Together",
-    "summary": "<p>Hi HN! :)<p>I’ve been working as a fullstack freelancer for over 4 years now. I always wanted some kind of IDE where I could take designs, turn them into code, and not be restricted to using auto layout and all that stuff.<p>Back at the beginning of 2020, before LLMs and AI were a thing, I was sitting with a friend of mine trying to figure out how to take a design, even one built with absolute values, and turn it into a working web app. I tried and failed :(<p>Today I’m launching Velork! It’s",
-    "url": "https://velork.com",
-    "published": "Sun, 08 Nov 2026 15:31:19 +0000",
-    "source": "Hacker News (设计向)",
+    "title": "Build disk space on Vercel increased to 64 GB",
+    "summary": "<p>Disk space for <a href=\"https://vercel.com/docs/builds\">Vercel builds</a> has increased from 32 GB to 64 GB on Basic and Standard machines, matching the capacity already available on Enhanced and Turbo.</p><p>The additional space provides more room for the packages your project uses and the files generated during a build, reducing the risk of running out of disk space.</p><p>The change applies automatically across all plans and build machine types at no additional charge, with no configuratio",
+    "url": "https://vercel.com/changelog/build-disk-space-on-vercel-increased-to-64-gb",
+    "published": "",
+    "source": "Vercel Blog (v0)",
     "source_weight": "high",
-    "category": "ai_tech"
+    "category": "design_tools"
   },
   {
-    "title": "Gg is Git good. An UI to inspect and update Git repos",
-    "summary": "<p>Article URL: <a href=\"https://github.com/baol/gg\">https://github.com/baol/gg</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50413567\">https://news.ycombinator.com/item?id=50413567</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
-    "url": "https://github.com/baol/gg",
-    "published": "Sun, 08 Nov 2026 14:16:24 +0000",
-    "source": "Hacker News (设计向)",
+    "title": "Vercel Container Registry now supports 2 GB compressed image layers",
+    "summary": "<p><a href=\"https://vercel.com/docs/container-registry\">Vercel Container Registry</a> now supports compressed image layers of up to 2 GB each, up from 500 MB, the total image size limit stays 15 GB. </p><p>The registry works with standard workflows like <code>docker push</code>, <code>docker pull</code>, and <code>docker tag</code>, and pushing an image creates the repository on the fly.</p><div></div><p>Repositories can be <a href=\"https://vercel.com/changelog/vercel-container-registry-reposito",
+    "url": "https://vercel.com/changelog/vercel-container-registry-now-supports-2-gb-compressed-image-layers",
+    "published": "",
+    "source": "Vercel Blog (v0)",
     "source_weight": "high",
-    "category": "ai_tech"
+    "category": "design_tools"
   },
   {
-    "title": "Archimedes: AI agents that design physical things",
-    "summary": "<p>Article URL: <a href=\"https://standardphysics.com/archimedes\">https://standardphysics.com/archimedes</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50413440\">https://news.ycombinator.com/item?id=50413440</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
-    "url": "https://standardphysics.com/archimedes",
-    "published": "Sun, 08 Nov 2026 13:59:08 +0000",
-    "source": "Hacker News (设计向)",
+    "title": "Claude Fable 5.2 now available on AI Gateway",
+    "summary": "<p><a href=\"https://vercel.com/ai-gateway/models/claude-fable-5.2\">Claude Fable 5.2</a> from <a href=\"https://vercel.com/ai-gateway/models/providers/anthropic\">Anthropic</a> is now available on <a href=\"https://vercel.com/ai-gateway\">AI Gateway</a>.</p><p>Fable 5.2 is built for open-ended technical work and improves on earlier Fable models in coding, reasoning, and vision. It can run long, ambiguous tasks unattended, and works as an orchestrator that hands simpler tasks to smaller models, or as ",
+    "url": "https://vercel.com/changelog/claude-fable-5-2-now-available-on-ai-gateway",
+    "published": "",
+    "source": "Vercel Blog (v0)",
     "source_weight": "high",
-    "category": "ai_tech"
+    "category": "design_tools"
   },
   {
-    "title": "LLMs are terrible at designing AI systems",
-    "summary": "<p>Article URL: <a href=\"https://www.seangoedecke.com/llms-are-terrible-at-designing-ai-systems/\">https://www.seangoedecke.com/llms-are-terrible-at-designing-ai-systems/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50412713\">https://news.ycombinator.com/item?id=50412713</a></p>\n<p>Points: 5</p>\n<p># Comments: 1</p>",
-    "url": "https://www.seangoedecke.com/llms-are-terrible-at-designing-ai-systems/",
-    "published": "Sun, 08 Nov 2026 12:33:58 +0000",
-    "source": "Hacker News (设计向)",
+    "title": "Muse Ember now available on AI Gateway",
+    "summary": "<p><a href=\"https://vercel.com/ai-gateway/models/muse-ember\">Muse Ember</a> from <a href=\"https://vercel.com/ai-gateway/models/providers/meta\">Meta</a> is now available on <a href=\"https://vercel.com/ai-gateway\">AI Gateway</a>. It is a lightweight reasoning model for the high-volume parts of an agent run, such as coding sub-tasks, tool calls, and document analysis.</p><p>Muse Ember handles the bounded tasks agents repeat many times in a single run, like implementing a helper function, calling a ",
+    "url": "https://vercel.com/changelog/muse-ember-now-available-on-ai-gateway",
+    "published": "",
+    "source": "Vercel Blog (v0)",
     "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Agent Clan",
-    "summary": "<p>\n            Command your Claude Code and Codex agents with gestures\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/agent-clan?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1307984?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/agent-clan",
-    "published": "2026-11-07T09:52:26-08:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "In a world of panic, calm and certainty win",
-    "summary": "<figure><img alt=\"A single still figure seen from behind while the surrounding scene blurs with motion, suggesting one calm person in the middle of chaos, in warm, muted light.\" src=\"https://cdn-images-1.medium.com/max/1024/1*zSsldV0F5S3ylnTNDWr-Rg.jpeg\" /><figcaption><em>You can dread the future or help build it. The people who come through this already chose.</em></figcaption></figure><h4>While panic around what AI means for our industry is the reflex right now, calm is a decision. The calm th",
-    "url": "https://uxdesign.cc/in-a-world-of-panic-calm-and-certainty-win-525c17dd927f?source=rss----138adf9c44c---4",
-    "published": "Wed, 04 Nov 2026 22:13:21 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Everyone is building AI agents. Who’s designing the stop button?",
-    "summary": "<h4>We used to design predictable user flows. Now AI can interpret, decide, and act on its own. Here’s why the hardest design decisions happen where that autonomy ends.</h4><figure><img alt=\"Showing where AI stops in the flow — visual\" src=\"https://cdn-images-1.medium.com/max/1024/1*4xb0tuwC90tLWJBgYVaomg.png\" /><figcaption>Showing where AI stops in the flow — by gpt</figcaption></figure><p>In September 2025, researchers at Thinking Machines Lab ran the same prompt through a language model 1,000",
-    "url": "https://uxdesign.cc/your-ai-is-non-deterministic-but-your-product-cant-be-3ec2a0cf870c?source=rss----138adf9c44c---4",
-    "published": "Tue, 03 Nov 2026 22:40:34 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
+    "category": "design_tools"
   },
   {
     "title": "Modern CSS Might Make Your Front-End More Complex",
@@ -90,13 +63,58 @@
     "category": "design_communities"
   },
   {
-    "title": "Everyone’s got a quick question",
-    "summary": "<h4><em>And you shouldn’t have to answer them all.</em></h4><figure><img alt=\"Animation: Slack messages pile up one after another until they fill the screen, each a quick question from a teammate, such as “do we have the recording from Tuesday’s session?”, “where does the date picker live in our design system?” and “where’s the timesheet link again?”\" src=\"https://cdn-images-1.medium.com/max/1024/1*JPAmI462BwsTRggkR1Ybfw.gif\" /><figcaption>Frequently asked questions in my inbox, recreated.</figc",
-    "url": "https://uxdesign.cc/everyones-got-a-quick-question-374a736ff7cb?source=rss----138adf9c44c---4",
-    "published": "Thu, 05 Nov 2026 10:47:24 GMT",
+    "title": "Design by numbers, Teaching AI prototyping, Context is the new UI",
+    "summary": "<h4>Weekly curated resources for designers — thinkers and makers.</h4><figure><a href=\"https://uxdesign.cc/ai-can-generate-the-interface-what-makes-it-worth-caring-about-a5f3a3e81986\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/0*cheGTOf2ADgr71G_.png\" /></a></figure><p>“As AI becomes more capable of assembling interfaces from established patterns, this distinction deserves more attention. We are getting better at telling tools what belongs to our product. We also need to decide wha",
+    "url": "https://uxdesign.cc/design-by-numbers-teaching-ai-prototyping-context-is-the-new-ui-c88a432a8df8?source=rss----138adf9c44c---4",
+    "published": "Mon, 09 Nov 2026 12:20:07 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
+  },
+  {
+    "title": "What a ruler leaves out",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/what-a-ruler-leaves-out-9250724a7f85?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*K1XZYBwlp7qoA0rIrwBDAg.png\" width=\"5285\" /></a></p><p class=\"medium-feed-snippet\">On designing tools as rules &#x2014; and what they quietly subtract from the world</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/what-a-ruler-leaves-out-9250724a7f85?source=rss----138adf9c44c---4",
+    "url": "https://uxdesign.cc/what-a-ruler-leaves-out-9250724a7f85?source=rss----138adf9c44c---4",
+    "published": "Mon, 09 Nov 2026 12:13:57 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Five pairs of hands: what the typesetters can teach designers about AI",
+    "summary": "<h3>Five pairs of hands</h3><h4><em>A conversation with Christian Crumlish, on typesetters, AI, the jobs merging around us, and the work you would keep doing anyway.</em></h4><figure><img alt=\"Five pair of hands working together in clay\" src=\"https://cdn-images-1.medium.com/max/1024/0*DzAiRRarpyntojbB\" /><figcaption>Photo by <a href=\"https://unsplash.com/@karen1974?utm_source=medium&amp;utm_medium=referral\">Karen Maes</a> on <a href=\"https://unsplash.com?utm_source=medium&amp;utm_medium=referral",
+    "url": "https://uxdesign.cc/five-pairs-of-hands-what-the-typesetters-can-teach-designers-about-ai-9d6b8e8c2285?source=rss----138adf9c44c---4",
+    "published": "Mon, 09 Nov 2026 12:13:36 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Infinite tokens: the new country club flex",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/infinite-tokens-the-new-country-club-flex-0e5e523756c3?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*ziDsIfdLKyBvDamwWxR8iw.png\" width=\"2732\" /></a></p><p class=\"medium-feed-snippet\">Well-chosen constraints organize your thinking.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/infinite-tokens-the-new-country-club-flex-0e5e523756c3?source=rss----138adf9c44c---",
+    "url": "https://uxdesign.cc/infinite-tokens-the-new-country-club-flex-0e5e523756c3?source=rss----138adf9c44c---4",
+    "published": "Mon, 09 Nov 2026 12:11:27 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Before you ship your Wrapped this year",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/before-you-ship-your-wrapped-this-year-a0a47ee191f8?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1920/1*f8MrIkWv43elnf0C929CmA.gif\" width=\"1920\" /></a></p><p class=\"medium-feed-snippet\">What last December&#x2019;s recaps got right, what changed in 2026, and the step almost nobody takes.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/before-you-ship-your-wrapped-thi",
+    "url": "https://uxdesign.cc/before-you-ship-your-wrapped-this-year-a0a47ee191f8?source=rss----138adf9c44c---4",
+    "published": "Mon, 09 Nov 2026 12:11:16 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "The Radish AI team joins Lovable to scale agentic capabilities for businesses",
+    "summary": "Lovable has acquired the team behind Radish AI, an agentic infrastructure platform. Its co-founders join our engineering team in London and Stockholm to build the agent capabilities and infrastructure behind Lovable.",
+    "url": "https://lovable.dev/blog/radish-ai-team-joins-lovable",
+    "published": "Mon, 09 Nov 2026 12:00:00 GMT",
+    "source": "Lovable Blog",
+    "source_weight": "medium",
+    "category": "design_tools"
   },
   {
     "title": "A New Community For In-House UX People",
@@ -139,6 +157,15 @@
     "summary": "<p>Stu created tidy-typography.css: a style reset for taming typography with modern CSS features for everything from fluid typography and vertical rhythm, to hyphens and variable fonts.</p>\n<hr />\n<p><small><a href=\"https://css-tricks.com/taming-typography-modern-css-reset/\" rel=\"nofollow\">Taming Typography: Building a Modern CSS Reset</a> originally handwritten and published with love on <a href=\"https://css-tricks.com\" rel=\"nofollow\">CSS-Tricks</a>. You should really <a href=\"https://css-trick",
     "url": "https://css-tricks.com/taming-typography-modern-css-reset/",
     "published": "Thu, 05 Nov 2026 14:55:31 +0000",
+    "source": "CSS-Tricks",
+    "source_weight": "low",
+    "category": "design_communities"
+  },
+  {
+    "title": "CSS-Tricks, Version 20",
+    "summary": "<p>Things look a little different around here? I hope so because we just pushed a site redesign! Here's everything new with the 20th(!!) version of CSS-Tricks.</p>\n<hr />\n<p><small><a href=\"https://css-tricks.com/css-tricks-version-20/\" rel=\"nofollow\">CSS-Tricks, Version 20</a> originally handwritten and published with love on <a href=\"https://css-tricks.com\" rel=\"nofollow\">CSS-Tricks</a>. You should really <a href=\"https://css-tricks.com/newsletters/\">get the newsletter</a> as well.</p>",
+    "url": "https://css-tricks.com/css-tricks-version-20/",
+    "published": "Mon, 09 Nov 2026 15:49:48 +0000",
     "source": "CSS-Tricks",
     "source_weight": "low",
     "category": "design_communities"
