@@ -1,66 +1,57 @@
 [
   {
-    "title": "Decision models take 26% of requests; Anthropic now wins new teams 2:1",
-    "summary": "<p><i>AI Gateway Production Index — November 2026</i></p><p>Every month, <a href=\"https://vercel.com/ai-gateway\">AI Gateway</a> routes more than 100 trillion tokens between production applications and AI labs. That traffic gives us a view of what AI usage looks like in today’s enterprise and startup landscape across language, decision, voice, image, and video models. We publish it here monthly. See the Production Index reports from <a href=\"https://vercel.com/blog/deepseek-overtakes-google-on-vo",
-    "url": "https://vercel.com/blog/ai-gateway-production-index-november-2026",
+    "title": "Gemini 4 Carbon now available on AI Gateway",
+    "summary": "<p><a href=\"https://vercel.com/ai-gateway/models/gemini-4-carbon\">Gemini 4 Carbon from Google</a> is now available on AI Gateway. It is available at 50% off through November 30, 2026:</p><p>Gemini 4 Carbon is built for complex software engineering, sustained agentic work, and cybersecurity defense. It has a 1M-token context window for working with large codebases and long inputs.</p><p>On engineering tasks, Carbon carries demanding work through multiple stages, with improvements in coding, full-",
+    "url": "https://vercel.com/changelog/gemini-4-carbon-now-available-on-ai-gateway",
     "published": "",
     "source": "Vercel Blog (v0)",
     "source_weight": "high",
     "category": "design_tools"
   },
   {
-    "title": "Build disk space on Vercel increased to 64 GB",
-    "summary": "<p>Disk space for <a href=\"https://vercel.com/docs/builds\">Vercel builds</a> has increased from 32 GB to 64 GB on Basic and Standard machines, matching the capacity already available on Enhanced and Turbo.</p><p>The additional space provides more room for the packages your project uses and the files generated during a build, reducing the risk of running out of disk space.</p><p>The change applies automatically across all plans and build machine types at no additional charge, with no configuratio",
-    "url": "https://vercel.com/changelog/build-disk-space-on-vercel-increased-to-64-gb",
+    "title": "Speed Insights and Web Analytics now support custom environments",
+    "summary": "<p><a href=\"https://vercel.com/docs/speed-insights\">Speed Insights</a> and <a href=\"https://vercel.com/docs/analytics\">Web Analytics</a> now fully support <a href=\"https://vercel.com/docs/deployments/environments#custom-environments\">custom environments</a>.</p><p>Previously, data captured on deployments to a custom environment was attributed to the Preview environment. That data is now attributed to the custom environment it came from, so you can track performance and traffic for staging, QA, o",
+    "url": "https://vercel.com/changelog/speed-insights-and-web-analytics-now-support-custom-environments",
     "published": "",
     "source": "Vercel Blog (v0)",
     "source_weight": "high",
     "category": "design_tools"
   },
   {
-    "title": "Vercel Container Registry now supports 2 GB compressed image layers",
-    "summary": "<p><a href=\"https://vercel.com/docs/container-registry\">Vercel Container Registry</a> now supports compressed image layers of up to 2 GB each, up from 500 MB, the total image size limit stays 15 GB. </p><p>The registry works with standard workflows like <code>docker push</code>, <code>docker pull</code>, and <code>docker tag</code>, and pushing an image creates the repository on the fly.</p><div></div><p>Repositories can be <a href=\"https://vercel.com/changelog/vercel-container-registry-reposito",
-    "url": "https://vercel.com/changelog/vercel-container-registry-now-supports-2-gb-compressed-image-layers",
-    "published": "",
-    "source": "Vercel Blog (v0)",
-    "source_weight": "high",
-    "category": "design_tools"
-  },
-  {
-    "title": "Claude Fable 5.2 now available on AI Gateway",
-    "summary": "<p><a href=\"https://vercel.com/ai-gateway/models/claude-fable-5.2\">Claude Fable 5.2</a> from <a href=\"https://vercel.com/ai-gateway/models/providers/anthropic\">Anthropic</a> is now available on <a href=\"https://vercel.com/ai-gateway\">AI Gateway</a>.</p><p>Fable 5.2 is built for open-ended technical work and improves on earlier Fable models in coding, reasoning, and vision. It can run long, ambiguous tasks unattended, and works as an orchestrator that hands simpler tasks to smaller models, or as ",
-    "url": "https://vercel.com/changelog/claude-fable-5-2-now-available-on-ai-gateway",
-    "published": "",
-    "source": "Vercel Blog (v0)",
-    "source_weight": "high",
-    "category": "design_tools"
-  },
-  {
-    "title": "Muse Ember now available on AI Gateway",
-    "summary": "<p><a href=\"https://vercel.com/ai-gateway/models/muse-ember\">Muse Ember</a> from <a href=\"https://vercel.com/ai-gateway/models/providers/meta\">Meta</a> is now available on <a href=\"https://vercel.com/ai-gateway\">AI Gateway</a>. It is a lightweight reasoning model for the high-volume parts of an agent run, such as coding sub-tasks, tool calls, and document analysis.</p><p>Muse Ember handles the bounded tasks agents repeat many times in a single run, like implementing a helper function, calling a ",
-    "url": "https://vercel.com/changelog/muse-ember-now-available-on-ai-gateway",
-    "published": "",
-    "source": "Vercel Blog (v0)",
-    "source_weight": "high",
-    "category": "design_tools"
-  },
-  {
-    "title": "Modern CSS Might Make Your Front-End More Complex",
-    "summary": "Replacing JavaScript with a modern CSS feature can simplify a piece of code while making the wider application harder to reason about. Gabriel Shoyombo explores what happens when logic is split between CSS and JavaScript, sharing practical guidance to help you keep complexity in check during migration.",
-    "url": "https://smashingmagazine.com/2026/11/modern-css-might-make-your-front-end-more-complex/",
-    "published": "Tue, 03 Nov 2026 10:00:00 GMT",
-    "source": "Smashing Magazine",
+    "title": "Find it, fix it, ship it: building secure apps on Lovable",
+    "summary": "What Lovable handles, flags, and fixes to keep your app secure, and the one thing we still need you to do.",
+    "url": "https://lovable.dev/blog/find-it-fix-it-ship-it",
+    "published": "Tue, 10 Nov 2026 14:00:00 GMT",
+    "source": "Lovable Blog",
     "source_weight": "medium",
-    "category": "design_communities"
+    "category": "design_tools"
   },
   {
-    "title": "Design by numbers: is AI ruining UX or just pouring gasoline on the fire?",
-    "summary": "<h4>Everyone seems to be asking whether AI will replace UX designers. I think that’s the wrong question.</h4><figure><img alt=\"A paint-by-numbers illustration of a smartphone showing a generic app screen\" src=\"https://cdn-images-1.medium.com/max/1024/1*NxZYfrz8aLvN2VAE-JFQKQ.png\" /><figcaption>Following the numbers gets you a picture but doesn’t make you an artist | Russell Pinkston</figcaption></figure><p>In March 2025, the Computer History Museum and IEEE Spectrum staged <a href=\"https://compu",
-    "url": "https://uxdesign.cc/design-by-numbers-is-ai-ruining-ux-or-just-pouring-gasoline-on-the-fire-24164d49e422?source=rss----138adf9c44c---4",
-    "published": "Thu, 05 Nov 2026 10:49:10 GMT",
+    "title": "What being the new kid taught me about persuasion as a designer",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/what-being-the-new-kid-taught-me-about-persuasion-as-a-designer-c731818f91d9?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*CC58LbAG6zbjSnfTzjfBtg.jpeg\" width=\"5760\" /></a></p><p class=\"medium-feed-snippet\">People don&#x2019;t say yes to ideas. They say yes to who they get to be.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/what-being-the-new-kid-taught-me-a",
+    "url": "https://uxdesign.cc/what-being-the-new-kid-taught-me-about-persuasion-as-a-designer-c731818f91d9?source=rss----138adf9c44c---4",
+    "published": "Tue, 10 Nov 2026 12:09:18 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
+  },
+  {
+    "title": "Every new medium gets called cheating",
+    "summary": "<h4><em>How a machine I didn’t trust taught me to be bad at things again.</em></h4><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/0*nMvP-oS9EeG8QApU.jpg\" /><figcaption>Monet’s Impression Sunrise would not have existed if someone hadn’t invented the right medium (<a href=\"https://www.arthistoryproject.com/artists/claude-monet/impression-sunrise/\">Source</a>)</figcaption></figure><h3>I was a skeptic.</h3><p>Let the record show, I too, was against it.</p><p>When <a href=\"https://",
+    "url": "https://uxdesign.cc/every-new-medium-gets-called-cheating-b990d7d53c0e?source=rss----138adf9c44c---4",
+    "published": "Tue, 10 Nov 2026 12:09:06 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "How we moved our frontend off Firestore and built Lovable Realtime",
+    "summary": "How we replaced frontend Firestore listeners with a Go and NATS realtime service, with reactive authorization, server-shaped payloads, and 2.06 million live subscriptions.",
+    "url": "https://lovable.dev/blog/lovable-realtime-service",
+    "published": "Tue, 10 Nov 2026 11:30:00 GMT",
+    "source": "Lovable Blog",
+    "source_weight": "medium",
+    "category": "design_tools"
   },
   {
     "title": "Design by numbers, Teaching AI prototyping, Context is the new UI",
@@ -108,15 +99,6 @@
     "category": "design_communities"
   },
   {
-    "title": "The Radish AI team joins Lovable to scale agentic capabilities for businesses",
-    "summary": "Lovable has acquired the team behind Radish AI, an agentic infrastructure platform. Its co-founders join our engineering team in London and Stockholm to build the agent capabilities and infrastructure behind Lovable.",
-    "url": "https://lovable.dev/blog/radish-ai-team-joins-lovable",
-    "published": "Mon, 09 Nov 2026 12:00:00 GMT",
-    "source": "Lovable Blog",
-    "source_weight": "medium",
-    "category": "design_tools"
-  },
-  {
     "title": "A New Community For In-House UX People",
     "summary": "We’ve been working on something new! We’ve teamed up for a **new small community** for people doing UX-inside organizations &mdash; with weekly calls and a shared library of the business cases, templates, and research plans that have actually worked for other folks. [Jump to details](https://uxinsiders.boagworld.com/).",
     "url": "https://smashingmagazine.com/2026/11/ux-insiders-community-in-house-ux-people/",
@@ -130,15 +112,6 @@
     "summary": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*7nKkTkUX4iDwlOFBMtt4kg.png\" /><figcaption>A searcher moves through scattered sources, collecting one useful piece at each stop.</figcaption></figure><h4>In 1989 <em>Marcia Bates showed that people search by gathering, shifting, and revising as they go. Her ideas explain what AI still misses and what is still relevant from research done 47 years ago.</em></h4><p>Much of what product teams are learning about artificial intelligenc",
     "url": "https://uxdesign.cc/berrypicking-still-beats-the-single-answer-for-search-even-in-the-world-of-ai-6d7174099500?source=rss----138adf9c44c---4",
     "published": "Fri, 06 Nov 2026 04:13:24 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Native is a floor, not a ceiling",
-    "summary": "<h4>With AI, a polished look costs nothing. Native brings what can’t be drawn, and it moves with the system, one step ahead of what imitates it.</h4><figure><img alt=\"A collection of iOS UI components in the Liquid Glass design, in dark mode: a keyboard, a tab bar, an action menu, an alert, buttons, toggles and sliders, laid out at an angle.\" src=\"https://cdn-images-1.medium.com/max/1024/1*tmilNueBY4CBfNN99ZX5vA.jpeg\" /></figure><p><em>An AI assistant helped me write this. The ideas, the experie",
-    "url": "https://uxdesign.cc/native-is-a-floor-not-a-ceiling-09bc4f27ddce?source=rss----138adf9c44c---4",
-    "published": "Fri, 06 Nov 2026 04:12:29 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"

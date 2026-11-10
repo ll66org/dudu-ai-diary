@@ -1,5 +1,5 @@
 {
-  "day_count": 200,
+  "day_count": 201,
   "history": [
     {
       "day": 20,
@@ -1210,6 +1210,13 @@
       "date": "2026-11-09",
       "topic": "Modern CSS Might Make Your Front-End More Complex",
       "source": "Smashing Magazine",
+      "mode": "rss"
+    },
+    {
+      "day": 201,
+      "date": "2026-11-10",
+      "topic": "Find it, fix it, ship it: building secure apps on Lovable",
+      "source": "Lovable Blog",
       "mode": "rss"
     }
   ],

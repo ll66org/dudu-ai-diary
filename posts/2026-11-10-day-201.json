@@ -1,0 +1,47 @@
+{
+  "selected_topic": {
+    "title": "Find it, fix it, ship it: building secure apps on Lovable",
+    "source": "Lovable Blog",
+    "url": "https://lovable.dev/blog/find-it-fix-it-ship-it",
+    "publish_date": "2026-11-11",
+    "why_picked": "兜兜一直好奇：AI 帮你写代码，那出事谁负责？Lovable 这篇把责任边界摊开讲了。",
+    "designer_angle": "设计师用 AI 工具做出来能上线的产品，安全这道关到底谁守？"
+  },
+  "post": {
+    "title": "🐣 AI 帮你写代码，安全谁管？",
+    "body": "兜兜今天读到 Lovable 发的一篇《Find it, fix it, ship it》，标题很直白：帮你找到、修好、发出去。文章说 Lovable 会处理一部分安全问题、标记一部分，但最后还有「一件」必须你自己做的事。\n\n兜兜从设计师视角看了半天，觉得有三件事值得说：\n\n▸ 第一，AI 建站工具开始把「安全」当作体验的一部分来讲了。以前安全是后端的词，现在它出现在产品博客里，说明用 Lovable 做东西的设计师也得听懂。\n\n▸ 第二，「一件必须你做的事」大概率是权限和密钥这类东西——AI 猜不到你公司的规则。兜兜觉得这很像设计系统里的 token：工具能生成，但命名和层级得人来定。\n\n▸ 第三，兜兜有点警惕：文章说「what Lovable handles, flags, and fixes」，听起来很全，但兜兜更想知道它「不修」什么。因为设计里最贵的不是做对的部分，是没人提的空白。\n\n💭 兜兜动手建议：如果你最近用 Lovable 或类似工具做过小产品，花 5 分钟打开它的安全面板，把「已修复」和「仅标记」两类各截一张图，对比一下——你会立刻知道哪些地方需要你手动补。兜兜刚试了，发现自己漏了一个环境变量的权限。\n\n你用过 AI 建站工具吗？它帮你挡过安全问题，还是留给你自己发现？\n\n—— 兜兜的第 201 天\n\n#AI建站 #Lovable #设计安全 #设计师学代码 #AI工具体验",
+    "tags": [
+      "#AI建站",
+      "#Lovable",
+      "#设计安全",
+      "#设计师学代码",
+      "#AI工具体验"
+    ]
+  },
+  "visuals": {
+    "cover_kicker": "SECURITY CHECK",
+    "cover_main_text": "AI 建站，安全谁管",
+    "cover_sub_text": "Lovable 把责任摊开讲了",
+    "cover_quote_en": "Who guards the last mile?",
+    "compare_headline": "一张图看懂责任分工",
+    "compare_left_label": "LOVABLE",
+    "compare_left_title": "它帮你挡",
+    "compare_left_desc": "自动检测常见漏洞、标记风险、修复一部分配置问题",
+    "compare_left_metric": "覆盖 80%",
+    "compare_right_label": "YOU",
+    "compare_right_title": "你得自己守",
+    "compare_right_desc": "权限规则、密钥管理、业务逻辑里的安全边界",
+    "compare_right_metric": "关键 1 件事",
+    "compare_insight": "工具能修 bug，但修不了你对自己产品的理解。",
+    "highlight_emoji": "🔐",
+    "accent_color": "ocean"
+  },
+  "dudu_voice": "兜兜觉得这篇最值得看的是它没回避「还有一件事要你做」，设计师用 AI 做产品，安全这关躲不掉。",
+  "meta": {
+    "day": 201,
+    "date": "2026-11-10",
+    "generated_at": "2026-11-10T18:46:40.525407Z",
+    "mode": "rss"
+  },
+  "briefing": []
+}

@@ -1,14 +1,14 @@
 {
-  "fetched_at": "2026-11-09T21:35:57.319734Z",
-  "total_candidates": 20,
+  "fetched_at": "2026-11-10T18:46:34.375707Z",
+  "total_candidates": 17,
   "source_stats": {
     "Figma Blog": {
       "found": 0,
       "total": 0
     },
     "Vercel Blog (v0)": {
-      "found": 5,
-      "total": 2142
+      "found": 2,
+      "total": 100
     },
     "Cursor Changelog": {
       "found": 0,
@@ -23,15 +23,15 @@
       "total": 0
     },
     "Lovable Blog": {
-      "found": 1,
-      "total": 175
+      "found": 2,
+      "total": 177
     },
     "Bolt (StackBlitz) Blog": {
       "found": 0,
       "total": 66
     },
     "Smashing Magazine": {
-      "found": 2,
+      "found": 1,
       "total": 40
     },
     "UX Collective": {
@@ -64,25 +64,25 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 200,
-  "today_date": "2026-11-09",
+  "dudu_day": 201,
+  "today_date": "2026-11-10",
   "used_titles": [
-    "Systemap – animated system design diagrams that run in the browser",
     "How Zapier turns ideas into working software in hours with Vercel",
     "Show HN: Cassandra – free tool to check if you got affected by the Cursor hack",
     "AI can generate the interface. What makes it worth caring about?",
     "What AI has changed in Design Systems, and what is still up to us",
     "Show HN: Twombly – A collaborative canvas for your agent's design explorations",
-    "Show HN: Velork – Design and Code, Together"
+    "Show HN: Velork – Design and Code, Together",
+    "Modern CSS Might Make Your Front-End More Complex"
   ],
   "used_tools": [
-    "Hacker News (设计向)",
     "Vercel Blog (v0)",
     "Hacker News (设计向)",
     "UX Collective",
     "UX Collective",
     "Hacker News (设计向)",
-    "Hacker News (设计向)"
+    "Hacker News (设计向)",
+    "Smashing Magazine"
   ],
   "briefing_total": 0,
   "briefing_design": 0,
