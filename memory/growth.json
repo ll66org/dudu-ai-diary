@@ -1,5 +1,5 @@
 {
-  "day_count": 201,
+  "day_count": 202,
   "history": [
     {
       "day": 20,
@@ -1217,6 +1217,13 @@
       "date": "2026-11-10",
       "topic": "Find it, fix it, ship it: building secure apps on Lovable",
       "source": "Lovable Blog",
+      "mode": "rss"
+    },
+    {
+      "day": 202,
+      "date": "2026-11-11",
+      "topic": "AI Prototyping inside your design system. A hands-on guide for design & product teams.",
+      "source": "UX Collective",
       "mode": "rss"
     }
   ],

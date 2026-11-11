@@ -1,30 +1,30 @@
 [
   {
-    "title": "Gemini 4 Carbon now available on AI Gateway",
-    "summary": "<p><a href=\"https://vercel.com/ai-gateway/models/gemini-4-carbon\">Gemini 4 Carbon from Google</a> is now available on AI Gateway. It is available at 50% off through November 30, 2026:</p><p>Gemini 4 Carbon is built for complex software engineering, sustained agentic work, and cybersecurity defense. It has a 1M-token context window for working with large codebases and long inputs.</p><p>On engineering tasks, Carbon carries demanding work through multiple stages, with improvements in coding, full-",
-    "url": "https://vercel.com/changelog/gemini-4-carbon-now-available-on-ai-gateway",
+    "title": "Mister Blocks",
+    "summary": "<p>\n            Take a picture of your LEGO and AI will make a build\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/mister-blocks?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1312257?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/mister-blocks",
+    "published": "2026-11-10T19:26:18-08:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Gemini Decision 1 now available on AI Gateway",
+    "summary": "<p><a href=\"https://vercel.com/ai-gateway/models/gemini-decision-1\">Gemini Decision 1 from Google</a> is now available on AI Gateway. The multimodal decision model works with text, images, audio, video, and PDF documents, returning Boolean probabilities, choices, and scores. Use it to route requests, check policies, filter agent tools, or rank results without generating output tokens.</p><p>Use <code>google/gemini-decision-1</code> with the AI SDK, TypeSafe-compatible API, or Decisions API.</p><",
+    "url": "https://vercel.com/changelog/gemini-decision-1-now-available-on-ai-gateway",
     "published": "",
     "source": "Vercel Blog (v0)",
     "source_weight": "high",
     "category": "design_tools"
   },
   {
-    "title": "Speed Insights and Web Analytics now support custom environments",
-    "summary": "<p><a href=\"https://vercel.com/docs/speed-insights\">Speed Insights</a> and <a href=\"https://vercel.com/docs/analytics\">Web Analytics</a> now fully support <a href=\"https://vercel.com/docs/deployments/environments#custom-environments\">custom environments</a>.</p><p>Previously, data captured on deployments to a custom environment was attributed to the Preview environment. That data is now attributed to the custom environment it came from, so you can track performance and traffic for staging, QA, o",
-    "url": "https://vercel.com/changelog/speed-insights-and-web-analytics-now-support-custom-environments",
-    "published": "",
-    "source": "Vercel Blog (v0)",
-    "source_weight": "high",
-    "category": "design_tools"
-  },
-  {
-    "title": "Find it, fix it, ship it: building secure apps on Lovable",
-    "summary": "What Lovable handles, flags, and fixes to keep your app secure, and the one thing we still need you to do.",
-    "url": "https://lovable.dev/blog/find-it-fix-it-ship-it",
-    "published": "Tue, 10 Nov 2026 14:00:00 GMT",
-    "source": "Lovable Blog",
+    "title": "AI Prototyping inside your design system. A hands-on guide for design & product teams.",
+    "summary": "<h4>In-System Design</h4><h4>Why builders hand you a lookalike, what has to exist before an agent can use your components, and the MCP setup I use.</h4><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/0*GVeuczf4PnCJn95b.jpeg\" /></figure><p>Prototyping in code is what designers do now, at least according to LinkedIn. I tried it, and after two days I wanted to throw my laptop into the sea. Good news: I came out with a process I actually like, and that works, and that is what this ",
+    "url": "https://uxdesign.cc/ai-prototyping-inside-your-design-system-a-hands-on-guide-for-design-product-teams-44825904c08d?source=rss----138adf9c44c---4",
+    "published": "Tue, 10 Nov 2026 23:34:58 GMT",
+    "source": "UX Collective",
     "source_weight": "medium",
-    "category": "design_tools"
+    "category": "design_communities"
   },
   {
     "title": "What being the new kid taught me about persuasion as a designer",
@@ -45,15 +45,6 @@
     "category": "design_communities"
   },
   {
-    "title": "How we moved our frontend off Firestore and built Lovable Realtime",
-    "summary": "How we replaced frontend Firestore listeners with a Go and NATS realtime service, with reactive authorization, server-shaped payloads, and 2.06 million live subscriptions.",
-    "url": "https://lovable.dev/blog/lovable-realtime-service",
-    "published": "Tue, 10 Nov 2026 11:30:00 GMT",
-    "source": "Lovable Blog",
-    "source_weight": "medium",
-    "category": "design_tools"
-  },
-  {
     "title": "Design by numbers, Teaching AI prototyping, Context is the new UI",
     "summary": "<h4>Weekly curated resources for designers — thinkers and makers.</h4><figure><a href=\"https://uxdesign.cc/ai-can-generate-the-interface-what-makes-it-worth-caring-about-a5f3a3e81986\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/0*cheGTOf2ADgr71G_.png\" /></a></figure><p>“As AI becomes more capable of assembling interfaces from established patterns, this distinction deserves more attention. We are getting better at telling tools what belongs to our product. We also need to decide wha",
     "url": "https://uxdesign.cc/design-by-numbers-teaching-ai-prototyping-context-is-the-new-ui-c88a432a8df8?source=rss----138adf9c44c---4",
@@ -72,7 +63,7 @@
     "category": "design_communities"
   },
   {
-    "title": "Five pairs of hands: what the typesetters can teach designers about AI",
+    "title": "Your design job is merging with the ones next to it",
     "summary": "<h3>Five pairs of hands</h3><h4><em>A conversation with Christian Crumlish, on typesetters, AI, the jobs merging around us, and the work you would keep doing anyway.</em></h4><figure><img alt=\"Five pair of hands working together in clay\" src=\"https://cdn-images-1.medium.com/max/1024/0*DzAiRRarpyntojbB\" /><figcaption>Photo by <a href=\"https://unsplash.com/@karen1974?utm_source=medium&amp;utm_medium=referral\">Karen Maes</a> on <a href=\"https://unsplash.com?utm_source=medium&amp;utm_medium=referral",
     "url": "https://uxdesign.cc/five-pairs-of-hands-what-the-typesetters-can-teach-designers-about-ai-9d6b8e8c2285?source=rss----138adf9c44c---4",
     "published": "Mon, 09 Nov 2026 12:13:36 GMT",
@@ -105,24 +96,6 @@
     "published": "Fri, 06 Nov 2026 08:00:00 GMT",
     "source": "Smashing Magazine",
     "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Berrypicking still beats the single answer for search, even in the world of AI",
-    "summary": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*7nKkTkUX4iDwlOFBMtt4kg.png\" /><figcaption>A searcher moves through scattered sources, collecting one useful piece at each stop.</figcaption></figure><h4>In 1989 <em>Marcia Bates showed that people search by gathering, shifting, and revising as they go. Her ideas explain what AI still misses and what is still relevant from research done 47 years ago.</em></h4><p>Much of what product teams are learning about artificial intelligenc",
-    "url": "https://uxdesign.cc/berrypicking-still-beats-the-single-answer-for-search-even-in-the-world-of-ai-6d7174099500?source=rss----138adf9c44c---4",
-    "published": "Fri, 06 Nov 2026 04:13:24 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Smashing AI Conference",
-    "summary": "<p>The AI 2027 Conference is a live online day for designers and engineers on where AI stands today, what to expect in 2027, and where teams are getting it right.</p>\n<hr />\n<p><small><a href=\"https://css-tricks.com/smashing-ai-conference/\" rel=\"nofollow\">Smashing AI Conference</a> originally handwritten and published with love on <a href=\"https://css-tricks.com\" rel=\"nofollow\">CSS-Tricks</a>. You should really <a href=\"https://css-tricks.com/newsletters/\">get the newsletter</a> as well.</p>",
-    "url": "https://css-tricks.com/smashing-ai-conference/",
-    "published": "Wed, 04 Nov 2026 15:02:51 +0000",
-    "source": "CSS-Tricks",
-    "source_weight": "low",
     "category": "design_communities"
   },
   {
