@@ -1,27 +1,63 @@
 [
   {
-    "title": "Mister Blocks",
-    "summary": "<p>\n            Take a picture of your LEGO and AI will make a build\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/mister-blocks?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1312257?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/mister-blocks",
-    "published": "2026-11-10T19:26:18-08:00",
+    "title": "Crossfade",
+    "summary": "<p>\n            Let your coding agent design in your open Figma file\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/crossfade?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1313559?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/crossfade",
+    "published": "2026-11-11T18:56:39-08:00",
     "source": "Product Hunt",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Gemini Decision 1 now available on AI Gateway",
-    "summary": "<p><a href=\"https://vercel.com/ai-gateway/models/gemini-decision-1\">Gemini Decision 1 from Google</a> is now available on AI Gateway. The multimodal decision model works with text, images, audio, video, and PDF documents, returning Boolean probabilities, choices, and scores. Use it to route requests, check policies, filter agent tools, or rank results without generating output tokens.</p><p>Use <code>google/gemini-decision-1</code> with the AI SDK, TypeSafe-compatible API, or Decisions API.</p><",
-    "url": "https://vercel.com/changelog/gemini-decision-1-now-available-on-ai-gateway",
+    "title": "Foxpit",
+    "summary": "<p>\n            Run Claude Code, Codex & OpenCode as one AI team\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/foxpit?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1313278?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/foxpit",
+    "published": "2026-11-11T12:10:39-08:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Gemini 4 Hydrogen now available on AI Gateway",
+    "summary": "<p><a href=\"https://vercel.com/ai-gateway/models/gemini-4-hydrogen\">Gemini 4 Hydrogen from Google</a> is now available on AI Gateway.</p><p>Gemini 4 Hydrogen succeeds Gemini 3.8 Flash, improving agentic coding, knowledge work, and tool use while staying in the same latency class. It handles longer engineering tasks and produces better-researched documents, spreadsheets, and presentations in fewer agent steps.</p><p>Hydrogen follows system instructions, formatting requirements, and task boundarie",
+    "url": "https://vercel.com/changelog/gemini-4-hydrogen-now-available-on-ai-gateway",
     "published": "",
     "source": "Vercel Blog (v0)",
     "source_weight": "high",
     "category": "design_tools"
   },
   {
-    "title": "AI Prototyping inside your design system. A hands-on guide for design & product teams.",
-    "summary": "<h4>In-System Design</h4><h4>Why builders hand you a lookalike, what has to exist before an agent can use your components, and the MCP setup I use.</h4><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/0*GVeuczf4PnCJn95b.jpeg\" /></figure><p>Prototyping in code is what designers do now, at least according to LinkedIn. I tried it, and after two days I wanted to throw my laptop into the sea. Good news: I came out with a process I actually like, and that works, and that is what this ",
-    "url": "https://uxdesign.cc/ai-prototyping-inside-your-design-system-a-hands-on-guide-for-design-product-teams-44825904c08d?source=rss----138adf9c44c---4",
-    "published": "Tue, 10 Nov 2026 23:34:58 GMT",
+    "title": "Why are we cloning Photoshop?",
+    "summary": "<h4>AI is making it easy to recreate professional tools. I suspect there’s a bigger opportunity being overlooked.</h4><figure><img alt=\"Editing in PhotoCraft\" src=\"https://cdn-images-1.medium.com/max/1024/1*Xh48AEBSG8maSKJqeuFfvQ.png\" /><figcaption>Editing in PhotoCraft</figcaption></figure><p><a href=\"https://uk.pcmag.com/ai/168210/ai-built-a-photoshop-clone-in-24-hours-is-this-piracy-plagiarism-or-progress\">October saw the release of PhotoCraft</a>, an open-source Photoshop clone built with AI",
+    "url": "https://uxdesign.cc/why-are-we-cloning-photoshop-52e6e165eef7?source=rss----138adf9c44c---4",
+    "published": "Wed, 11 Nov 2026 22:20:42 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Every click has a price now. Who designs how that “feels”?",
+    "summary": "<h4>As the all-you-can-eat AI era is ending, UX designers must adapt to a new reality</h4><figure><img alt=\"An cover illustration titled “Every click has a price now. Who designs how that feels?” showing a concerned UX designer working on a laptop, surrounded by AI pricing interface elements. A credit balance shows 1,180 credits remaining, while another message translates that balance into approximately three more prototypes. The illustration highlights how UX design can make AI token consumptio",
+    "url": "https://uxdesign.cc/every-click-has-a-price-now-who-designs-how-that-feels-e3f00b6cabb8?source=rss----138adf9c44c---4",
+    "published": "Wed, 11 Nov 2026 22:15:19 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "The bathroom flaws that infuriate every designer",
+    "summary": "<h3>Throne Room Politics: Inside Designers Obsession with Bathrooms</h3><h4>How one close look at everyday bathroom flaw will permeantly ruin your routine.</h4><p>I paused, leaving the bathroom. Something strange was happening, but what was it?</p><p>There was a woman in a wheelchair who had finished washing her hands. She seemed stuck, but she wasn’t stuck. She kept reaching and reaching, unable to get something, but what couldn’t she get?</p><p>“Can I help you?” I mustered up the courage to as",
+    "url": "https://uxdesign.cc/the-bathroom-flaws-that-infuriate-every-designer-a26d50145d47?source=rss----138adf9c44c---4",
+    "published": "Wed, 11 Nov 2026 22:10:34 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "In-system design: from code to Figma and back. Prototyping in your real design system",
+    "summary": "<h4>In-System Design 3/3</h4><h4>A practical guide for designers: why I stopped choosing between canvas and code, and how one prototype travels both ways.</h4><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/0*Eh6X8C_0RO5wInpt.jpeg\" /></figure><blockquote><em>For designers who know Figma well and have never written production code, and for the design system teams around them. Every technical word is explained in the box at the end.</em></blockquote><p>I have a confession that do",
+    "url": "https://uxdesign.cc/in-system-design-from-code-to-figma-and-back-prototyping-in-your-real-design-system-7372b128de9a?source=rss----138adf9c44c---4",
+    "published": "Wed, 11 Nov 2026 22:08:32 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
@@ -63,33 +99,6 @@
     "category": "design_communities"
   },
   {
-    "title": "Your design job is merging with the ones next to it",
-    "summary": "<h3>Five pairs of hands</h3><h4><em>A conversation with Christian Crumlish, on typesetters, AI, the jobs merging around us, and the work you would keep doing anyway.</em></h4><figure><img alt=\"Five pair of hands working together in clay\" src=\"https://cdn-images-1.medium.com/max/1024/0*DzAiRRarpyntojbB\" /><figcaption>Photo by <a href=\"https://unsplash.com/@karen1974?utm_source=medium&amp;utm_medium=referral\">Karen Maes</a> on <a href=\"https://unsplash.com?utm_source=medium&amp;utm_medium=referral",
-    "url": "https://uxdesign.cc/five-pairs-of-hands-what-the-typesetters-can-teach-designers-about-ai-9d6b8e8c2285?source=rss----138adf9c44c---4",
-    "published": "Mon, 09 Nov 2026 12:13:36 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Infinite tokens: the new country club flex",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/infinite-tokens-the-new-country-club-flex-0e5e523756c3?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*ziDsIfdLKyBvDamwWxR8iw.png\" width=\"2732\" /></a></p><p class=\"medium-feed-snippet\">Well-chosen constraints organize your thinking.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/infinite-tokens-the-new-country-club-flex-0e5e523756c3?source=rss----138adf9c44c---",
-    "url": "https://uxdesign.cc/infinite-tokens-the-new-country-club-flex-0e5e523756c3?source=rss----138adf9c44c---4",
-    "published": "Mon, 09 Nov 2026 12:11:27 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Before you ship your Wrapped this year",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/before-you-ship-your-wrapped-this-year-a0a47ee191f8?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1920/1*f8MrIkWv43elnf0C929CmA.gif\" width=\"1920\" /></a></p><p class=\"medium-feed-snippet\">What last December&#x2019;s recaps got right, what changed in 2026, and the step almost nobody takes.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/before-you-ship-your-wrapped-thi",
-    "url": "https://uxdesign.cc/before-you-ship-your-wrapped-this-year-a0a47ee191f8?source=rss----138adf9c44c---4",
-    "published": "Mon, 09 Nov 2026 12:11:16 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
     "title": "A New Community For In-House UX People",
     "summary": "We’ve been working on something new! We’ve teamed up for a **new small community** for people doing UX-inside organizations &mdash; with weekly calls and a shared library of the business cases, templates, and research plans that have actually worked for other folks. [Jump to details](https://uxinsiders.boagworld.com/).",
     "url": "https://smashingmagazine.com/2026/11/ux-insiders-community-in-house-ux-people/",
@@ -99,10 +108,10 @@
     "category": "design_communities"
   },
   {
-    "title": "Taming Typography: Building a Modern CSS Reset",
-    "summary": "<p>Stu created tidy-typography.css: a style reset for taming typography with modern CSS features for everything from fluid typography and vertical rhythm, to hyphens and variable fonts.</p>\n<hr />\n<p><small><a href=\"https://css-tricks.com/taming-typography-modern-css-reset/\" rel=\"nofollow\">Taming Typography: Building a Modern CSS Reset</a> originally handwritten and published with love on <a href=\"https://css-tricks.com\" rel=\"nofollow\">CSS-Tricks</a>. You should really <a href=\"https://css-trick",
-    "url": "https://css-tricks.com/taming-typography-modern-css-reset/",
-    "published": "Thu, 05 Nov 2026 14:55:31 +0000",
+    "title": "Beyond 12 Columns: Designing Layouts With Personality",
+    "summary": "<p>Too many websites look alike. They use familiar layouts, repeat the same patterns, and often leave little impression once you’ve moved on. Andy Clarke explores how understanding a company’s story can lead to more distinctive designs, using modular and compound grids to create layouts with character.</p>\n<hr />\n<p><small><a href=\"https://css-tricks.com/beyond-12-columns/\" rel=\"nofollow\">Beyond 12 Columns: Designing Layouts With Personality</a> originally handwritten and published with love on ",
+    "url": "https://css-tricks.com/beyond-12-columns/",
+    "published": "Thu, 12 Nov 2026 16:06:55 +0000",
     "source": "CSS-Tricks",
     "source_weight": "low",
     "category": "design_communities"

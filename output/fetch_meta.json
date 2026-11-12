@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-11-11T18:51:17.376821Z",
-  "total_candidates": 14,
+  "fetched_at": "2026-11-12T19:04:02.036133Z",
+  "total_candidates": 15,
   "source_stats": {
     "Figma Blog": {
       "found": 0,
@@ -35,7 +35,7 @@
       "total": 40
     },
     "UX Collective": {
-      "found": 8,
+      "found": 9,
       "total": 10
     },
     "Designer News": {
@@ -55,7 +55,7 @@
       "total": 0
     },
     "Product Hunt": {
-      "found": 1,
+      "found": 2,
       "total": 50
     },
     "Designer News (AI Design)": {
@@ -64,25 +64,25 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 202,
-  "today_date": "2026-11-11",
+  "dudu_day": 203,
+  "today_date": "2026-11-12",
   "used_titles": [
-    "Show HN: Cassandra – free tool to check if you got affected by the Cursor hack",
     "AI can generate the interface. What makes it worth caring about?",
     "What AI has changed in Design Systems, and what is still up to us",
     "Show HN: Twombly – A collaborative canvas for your agent's design explorations",
     "Show HN: Velork – Design and Code, Together",
     "Modern CSS Might Make Your Front-End More Complex",
-    "Find it, fix it, ship it: building secure apps on Lovable"
+    "Find it, fix it, ship it: building secure apps on Lovable",
+    "AI Prototyping inside your design system. A hands-on guide for design & product teams."
   ],
   "used_tools": [
-    "Hacker News (设计向)",
     "UX Collective",
     "UX Collective",
     "Hacker News (设计向)",
     "Hacker News (设计向)",
     "Smashing Magazine",
-    "Lovable Blog"
+    "Lovable Blog",
+    "UX Collective"
   ],
   "briefing_total": 0,
   "briefing_design": 0,

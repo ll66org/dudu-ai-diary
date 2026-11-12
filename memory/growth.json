@@ -1,5 +1,5 @@
 {
-  "day_count": 202,
+  "day_count": 203,
   "history": [
     {
       "day": 20,
@@ -1223,6 +1223,13 @@
       "day": 202,
       "date": "2026-11-11",
       "topic": "AI Prototyping inside your design system. A hands-on guide for design & product teams.",
+      "source": "UX Collective",
+      "mode": "rss"
+    },
+    {
+      "day": 203,
+      "date": "2026-11-12",
+      "topic": "Why are we cloning Photoshop?",
       "source": "UX Collective",
       "mode": "rss"
     }

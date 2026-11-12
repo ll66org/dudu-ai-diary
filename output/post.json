@@ -1,47 +1,47 @@
 {
   "selected_topic": {
-    "title": "AI Prototyping inside your design system. A hands-on guide for design & product teams.",
+    "title": "Why are we cloning Photoshop?",
     "source": "UX Collective",
-    "url": "https://uxdesign.cc/ai-prototyping-inside-your-design-system-a-hands-on-guide-for-design-product-teams-44825904c08d?source=rss----138adf9c44c---4",
-    "publish_date": "2026-11-12",
-    "why_picked": "它讲的不是让 AI 随便画个像的稿子，而是让 Agent 真正读懂你的组件库再出原型——这正好戳中兜兜最近在想的『AI 出稿为什么总是不像自家产品』。",
-    "designer_angle": "设计师要先把 Design System 整理成 Agent 能读的 MCP 结构，AI 原型才可能从『长得像』变成『用得对』。"
+    "url": "https://uxdesign.cc/why-are-we-cloning-photoshop-52e6e165eef7?source=rss----138adf9c44c---4",
+    "publish_date": "2026-11-13",
+    "why_picked": "大家都在用 AI 复刻 Photoshop，兜兜觉得这个方向本身就该被质疑一下。",
+    "designer_angle": "AI 让复刻专业工具变容易了，但真正被忽略的机会是重新设计「人想做什么」，而不是把旧工具搬进新壳。"
   },
   "post": {
-    "title": "🐣 AI 出的原型总不像自家产品？问题不在 AI",
-    "body": "兜兜今天翻到 UX Collective 一篇实操文《AI Prototyping inside your design system》，作者说得很直白：builder 交到你手上的往往只是个『lookalike』——长得像，但按钮不是你的按钮，间距不是你的 spacing token。文章给了一套 MCP 配置方法，让 Agent 直接读你的组件库再生成原型，而不是对着截图瞎猜。\n\n兜兜画了个对比，左边是以前，右边是 AI 之后——\n▸ 以前 AI 原型像『照着照片临摹』：颜色差不多，组件全是自己发明的 div。文章点破了原因：Agent 看不到你的 Button / Input / Card 到底长什么样、有哪些 props。\n▸ 所以真正的前置工作不是写 prompt，是『把设计系统翻译成机器能读的清单』——组件名、变体、token、使用约束，一个都不能少。兜兜觉得这活儿听着枯燥，但它决定了 AI 是帮你省 2 小时还是浪费 2 小时。\n▸ 兜兜更喜欢文章里这个态度：不是让 AI 替代设计系统，而是让设计系统成为 AI 的『母语』。没有这套底子，AI 出得再快也只是漂亮的一次性稿。\n\n💭 兜兜动手建议：今天花 5 分钟，打开你的 Figma 组件库，随便挑 3 个最常用组件（比如 Button / Input / Tag），把它们的『名字 + 变体 + 关键 token』抄进一个 markdown 文件。这就是你喂给 Agent 的第一份『组件说明书』，比任何 prompt 模板都管用。\n\n你家的设计系统，现在能被 AI 读懂吗？\n\n—— 兜兜的第 202 天\n\n#设计系统 #AI原型 #DesignSystem #MCP #体验设计 #设计师日常",
+    "title": "🐣AI 在复刻 Photoshop，但这是个坑",
+    "body": "兜兜今天在 UX Collective 读到一篇标题很冲的文章：《Why are we cloning Photoshop?》。作者说，AI 让「重建专业工具」变得太容易了——市面上已经出现像 PhotoCraft 这样的产品，几乎把 Photoshop 的图层面板、工具栏、滤镜菜单原样搬进浏览器，再套一层 AI 生成。但作者一句话点破：我们是不是把「专业工具」和「专业工作流」搞混了？\n\n▸ 复刻工具 ≠ 复刻体验。Photoshop 的 30 个工具栏按钮，是 30 年功能堆叠的结果，不是用户真正的心智模型。AI 时代如果还按这个结构做界面，等于把历史包袱一起复制。\n▸ 真正的机会在「意图层」。用户想的是「把这张产品图背景换成大理石台面，光从左上打过来」，而不是「打开魔棒工具→调整容差→反选→蒙版」。谁先做出意图驱动的画布，谁就跳过 Photoshop 的壳。\n▸ 对设计师的警示：如果你现在的工作流是「AI 生成 → 拖进 Figma 手动修」，那说明工具还没接住你。别急着学新工具，先想清楚你每天重复的那 3 步能不能被一句话替代。\n\n💭 兜兜动手建议：打开你最近一张设计稿，用一句话写下「如果 AI 能直接听懂，我会怎么描述这个需求」，然后对比你现在实际操作的步骤数。差多少步，就是下一个值得押注的工具方向。\n\n你最近一次「手动修 AI 图」花了多久？\n\n—— 兜兜的第 203 天\n#设计工具 #AI设计 #Photoshop #UXCollective #体验设计 #兜兜的每日一读",
     "tags": [
-      "#设计系统",
-      "#AI原型",
-      "#DesignSystem",
-      "#MCP",
+      "#设计工具",
+      "#AI设计",
+      "#Photoshop",
+      "#UXCollective",
       "#体验设计",
-      "#设计师日常"
+      "#兜兜的每日一读"
     ]
   },
   "visuals": {
     "cover_kicker": "DEEP DIVE",
-    "cover_main_text": "AI 原型不像自家产品",
-    "cover_sub_text": "问题不在 AI，在你的设计系统没被读懂",
-    "cover_quote_en": "Your design system is the agent's mother tongue.",
+    "cover_main_text": "别复刻 Photoshop",
+    "cover_sub_text": "AI 时代的设计工具，该换个思路了",
+    "cover_quote_en": "Clone the intent, not the toolbar",
     "compare_headline": "一张图看懂区别",
-    "compare_left_label": "LOOKALIKE",
-    "compare_left_title": "长得像而已",
-    "compare_left_desc": "Agent 对着截图猜，按钮全是自造 div，token 全错",
-    "compare_left_metric": "返工 2h",
-    "compare_right_label": "IN-SYSTEM",
-    "compare_right_title": "真用你的组件",
-    "compare_right_desc": "MCP 读组件库，变体和 token 直接调用，一次就对",
-    "compare_right_metric": "出稿 5min",
-    "compare_insight": "别急着换更强的模型，先让你的设计系统变得可被 AI 读懂。",
-    "highlight_emoji": "🧩",
-    "accent_color": "ocean"
+    "compare_left_label": "CLONE",
+    "compare_left_title": "复刻工具栏",
+    "compare_left_desc": "把 Photoshop 的 30 个按钮原样搬进浏览器，用户还得学一遍",
+    "compare_left_metric": "30+ 按钮",
+    "compare_right_label": "INTENT",
+    "compare_right_title": "一句话出图",
+    "compare_right_desc": "用户说「换大理石台面，光从左上」，AI 直接执行",
+    "compare_right_metric": "1 句话",
+    "compare_insight": "别把旧工具的壳当护城河，意图层才是新战场。",
+    "highlight_emoji": "🧐",
+    "accent_color": "plum"
   },
-  "dudu_voice": "兜兜以前也以为是 prompt 写得不够好，看完这篇才反应过来——AI 不认识我的组件，当然只能瞎编。今天就去整理那 3 个组件的说明书。",
+  "dudu_voice": "兜兜觉得这篇文章说中了：现在太多 AI 设计工具在「复刻 Photoshop」，但用户要的不是按钮，是结果。谁先做意图层，谁就赢。",
   "meta": {
-    "day": 202,
-    "date": "2026-11-11",
-    "generated_at": "2026-11-11T18:51:24.629078Z",
+    "day": 203,
+    "date": "2026-11-12",
+    "generated_at": "2026-11-12T19:04:08.591203Z",
     "mode": "rss"
   },
   "briefing": []

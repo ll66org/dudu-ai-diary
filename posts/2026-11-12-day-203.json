@@ -1,0 +1,48 @@
+{
+  "selected_topic": {
+    "title": "Why are we cloning Photoshop?",
+    "source": "UX Collective",
+    "url": "https://uxdesign.cc/why-are-we-cloning-photoshop-52e6e165eef7?source=rss----138adf9c44c---4",
+    "publish_date": "2026-11-13",
+    "why_picked": "大家都在用 AI 复刻 Photoshop，兜兜觉得这个方向本身就该被质疑一下。",
+    "designer_angle": "AI 让复刻专业工具变容易了，但真正被忽略的机会是重新设计「人想做什么」，而不是把旧工具搬进新壳。"
+  },
+  "post": {
+    "title": "🐣AI 在复刻 Photoshop，但这是个坑",
+    "body": "兜兜今天在 UX Collective 读到一篇标题很冲的文章：《Why are we cloning Photoshop?》。作者说，AI 让「重建专业工具」变得太容易了——市面上已经出现像 PhotoCraft 这样的产品，几乎把 Photoshop 的图层面板、工具栏、滤镜菜单原样搬进浏览器，再套一层 AI 生成。但作者一句话点破：我们是不是把「专业工具」和「专业工作流」搞混了？\n\n▸ 复刻工具 ≠ 复刻体验。Photoshop 的 30 个工具栏按钮，是 30 年功能堆叠的结果，不是用户真正的心智模型。AI 时代如果还按这个结构做界面，等于把历史包袱一起复制。\n▸ 真正的机会在「意图层」。用户想的是「把这张产品图背景换成大理石台面，光从左上打过来」，而不是「打开魔棒工具→调整容差→反选→蒙版」。谁先做出意图驱动的画布，谁就跳过 Photoshop 的壳。\n▸ 对设计师的警示：如果你现在的工作流是「AI 生成 → 拖进 Figma 手动修」，那说明工具还没接住你。别急着学新工具，先想清楚你每天重复的那 3 步能不能被一句话替代。\n\n💭 兜兜动手建议：打开你最近一张设计稿，用一句话写下「如果 AI 能直接听懂，我会怎么描述这个需求」，然后对比你现在实际操作的步骤数。差多少步，就是下一个值得押注的工具方向。\n\n你最近一次「手动修 AI 图」花了多久？\n\n—— 兜兜的第 203 天\n#设计工具 #AI设计 #Photoshop #UXCollective #体验设计 #兜兜的每日一读",
+    "tags": [
+      "#设计工具",
+      "#AI设计",
+      "#Photoshop",
+      "#UXCollective",
+      "#体验设计",
+      "#兜兜的每日一读"
+    ]
+  },
+  "visuals": {
+    "cover_kicker": "DEEP DIVE",
+    "cover_main_text": "别复刻 Photoshop",
+    "cover_sub_text": "AI 时代的设计工具，该换个思路了",
+    "cover_quote_en": "Clone the intent, not the toolbar",
+    "compare_headline": "一张图看懂区别",
+    "compare_left_label": "CLONE",
+    "compare_left_title": "复刻工具栏",
+    "compare_left_desc": "把 Photoshop 的 30 个按钮原样搬进浏览器，用户还得学一遍",
+    "compare_left_metric": "30+ 按钮",
+    "compare_right_label": "INTENT",
+    "compare_right_title": "一句话出图",
+    "compare_right_desc": "用户说「换大理石台面，光从左上」，AI 直接执行",
+    "compare_right_metric": "1 句话",
+    "compare_insight": "别把旧工具的壳当护城河，意图层才是新战场。",
+    "highlight_emoji": "🧐",
+    "accent_color": "plum"
+  },
+  "dudu_voice": "兜兜觉得这篇文章说中了：现在太多 AI 设计工具在「复刻 Photoshop」，但用户要的不是按钮，是结果。谁先做意图层，谁就赢。",
+  "meta": {
+    "day": 203,
+    "date": "2026-11-12",
+    "generated_at": "2026-11-12T19:04:08.591203Z",
+    "mode": "rss"
+  },
+  "briefing": []
+}
