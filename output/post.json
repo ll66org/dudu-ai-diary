@@ -1,47 +1,47 @@
 {
   "selected_topic": {
-    "title": "Why are we cloning Photoshop?",
-    "source": "UX Collective",
-    "url": "https://uxdesign.cc/why-are-we-cloning-photoshop-52e6e165eef7?source=rss----138adf9c44c---4",
+    "title": "Flawless UI-UX Skill 2.0.0",
+    "source": "Hacker News (设计向)",
+    "url": "https://github.com/smokeeaasd/flawless-ui-ux/releases/tag/v2.0.0",
     "publish_date": "2026-11-13",
-    "why_picked": "大家都在用 AI 复刻 Photoshop，兜兜觉得这个方向本身就该被质疑一下。",
-    "designer_angle": "AI 让复刻专业工具变容易了，但真正被忽略的机会是重新设计「人想做什么」，而不是把旧工具搬进新壳。"
+    "why_picked": "兜兜第一次见到有人把「UI/UX 品味」打包成一个可安装的 skill 版本号，这比又一个画图工具更值得看。",
+    "designer_angle": "当审美被写成 Skill 规则，设计师的检查清单会不会变成 AI 的默认输出？"
   },
   "post": {
-    "title": "🐣AI 在复刻 Photoshop，但这是个坑",
-    "body": "兜兜今天在 UX Collective 读到一篇标题很冲的文章：《Why are we cloning Photoshop?》。作者说，AI 让「重建专业工具」变得太容易了——市面上已经出现像 PhotoCraft 这样的产品，几乎把 Photoshop 的图层面板、工具栏、滤镜菜单原样搬进浏览器，再套一层 AI 生成。但作者一句话点破：我们是不是把「专业工具」和「专业工作流」搞混了？\n\n▸ 复刻工具 ≠ 复刻体验。Photoshop 的 30 个工具栏按钮，是 30 年功能堆叠的结果，不是用户真正的心智模型。AI 时代如果还按这个结构做界面，等于把历史包袱一起复制。\n▸ 真正的机会在「意图层」。用户想的是「把这张产品图背景换成大理石台面，光从左上打过来」，而不是「打开魔棒工具→调整容差→反选→蒙版」。谁先做出意图驱动的画布，谁就跳过 Photoshop 的壳。\n▸ 对设计师的警示：如果你现在的工作流是「AI 生成 → 拖进 Figma 手动修」，那说明工具还没接住你。别急着学新工具，先想清楚你每天重复的那 3 步能不能被一句话替代。\n\n💭 兜兜动手建议：打开你最近一张设计稿，用一句话写下「如果 AI 能直接听懂，我会怎么描述这个需求」，然后对比你现在实际操作的步骤数。差多少步，就是下一个值得押注的工具方向。\n\n你最近一次「手动修 AI 图」花了多久？\n\n—— 兜兜的第 203 天\n#设计工具 #AI设计 #Photoshop #UXCollective #体验设计 #兜兜的每日一读",
+    "title": "🐣审美被打包成Skill 2.0了",
+    "body": "兜兜今天在 HN 上刷到 Flawless UI-UX Skill 发到了 2.0.0，一个开源的 UI/UX 规则包，直接挂在 GitHub 上按版本迭代。它不是画图工具，是把「什么叫不丑」写成 AI 能读的规则：间距、层级、对比、组件状态，一条条列成 skill，让 Claude / Codex 之类在生成界面前先照着过一遍。\n\n▸ 兜兜画了个对比：以前是设计师在 Figma 里手动挑 8px 网格，现在是 AI 生成完先用 skill 自检一遍，把 12px 和 13px 混用的地方标出来。省的是检查，不是判断。\n▸ 它最狠的地方是「有版本号」。说明有人开始把设计品味当依赖库维护了，2.0.0 意味着 1.x 里某条规则被推翻了——兜兜想知道是哪条，这比看十篇设计原则文章都实。\n▸ 但兜兜有点警惕：规则包能保证「不出错」，保证不了「有记忆点」。照着 skill 生成的界面大概率干净、正确、然后长得都一样。兜兜更喜欢 A（有偏好的手工间距），但 B（规则兜底）也有 B 的道理，尤其赶稿的时候。\n\n💭 兜兜动手建议：花 5 分钟打开这个 repo 的 2.0.0 release notes，只看它删掉或改写了哪几条规则，然后把其中一条拿去对照你自己项目里的一个页面——大概率能当场抓到一个你一直没注意的间距或对比问题。\n\n你会让 AI 先过一遍设计规则再交稿吗？还是坚持自己第一眼说了算？\n\n—— 兜兜的第 204 天\n#设计工具 #UIUX #AI设计 #设计系统 #前端还原 #兜兜的设计日记",
     "tags": [
       "#设计工具",
+      "#UIUX",
       "#AI设计",
-      "#Photoshop",
-      "#UXCollective",
-      "#体验设计",
-      "#兜兜的每日一读"
+      "#设计系统",
+      "#前端还原",
+      "#兜兜的设计日记"
     ]
   },
   "visuals": {
-    "cover_kicker": "DEEP DIVE",
-    "cover_main_text": "别复刻 Photoshop",
-    "cover_sub_text": "AI 时代的设计工具，该换个思路了",
-    "cover_quote_en": "Clone the intent, not the toolbar",
+    "cover_kicker": "TOOL UPDATE",
+    "cover_main_text": "审美被打包了",
+    "cover_sub_text": "Flawless UI-UX Skill 发到 2.0.0",
+    "cover_quote_en": "Taste, now with a version number",
     "compare_headline": "一张图看懂区别",
-    "compare_left_label": "CLONE",
-    "compare_left_title": "复刻工具栏",
-    "compare_left_desc": "把 Photoshop 的 30 个按钮原样搬进浏览器，用户还得学一遍",
-    "compare_left_metric": "30+ 按钮",
-    "compare_right_label": "INTENT",
-    "compare_right_title": "一句话出图",
-    "compare_right_desc": "用户说「换大理石台面，光从左上」，AI 直接执行",
-    "compare_right_metric": "1 句话",
-    "compare_insight": "别把旧工具的壳当护城河，意图层才是新战场。",
+    "compare_left_label": "MANUAL",
+    "compare_left_title": "人眼扫一遍",
+    "compare_left_desc": "12px 和 13px 混着用，交稿前才发现",
+    "compare_left_metric": "漏 8 处",
+    "compare_right_label": "SKILL 2.0",
+    "compare_right_title": "规则先自检",
+    "compare_right_desc": "AI 生成完按 skill 逐条比对间距与层级",
+    "compare_right_metric": "5 秒标出",
+    "compare_insight": "规则能兜住不出错，兜不住「让人记住」——那部分还得自己来。",
     "highlight_emoji": "🧐",
-    "accent_color": "plum"
+    "accent_color": "mono"
   },
-  "dudu_voice": "兜兜觉得这篇文章说中了：现在太多 AI 设计工具在「复刻 Photoshop」，但用户要的不是按钮，是结果。谁先做意图层，谁就赢。",
+  "dudu_voice": "兜兜觉得这个选题的价值不在工具本身，而在「设计品味开始有版本号」这件事——它逼设计师说清楚自己到底在坚持什么规则。",
   "meta": {
-    "day": 203,
-    "date": "2026-11-12",
-    "generated_at": "2026-11-12T19:04:08.591203Z",
+    "day": 204,
+    "date": "2026-11-13",
+    "generated_at": "2026-11-13T18:42:04.859482Z",
     "mode": "rss"
   },
   "briefing": []

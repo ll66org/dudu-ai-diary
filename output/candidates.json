@@ -1,39 +1,93 @@
 [
   {
-    "title": "Crossfade",
-    "summary": "<p>\n            Let your coding agent design in your open Figma file\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/crossfade?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1313559?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/crossfade",
-    "published": "2026-11-11T18:56:39-08:00",
+    "title": "Show HN: AI Juggler – Orchestrate your desktop Claude and Codex apps",
+    "summary": "<p>Article URL: <a href=\"https://github.com/figurehead-ai/AI-juggler\">https://github.com/figurehead-ai/AI-juggler</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50487349\">https://news.ycombinator.com/item?id=50487349</a></p>\n<p>Points: 2</p>\n<p># Comments: 1</p>",
+    "url": "https://github.com/figurehead-ai/AI-juggler",
+    "published": "Fri, 13 Nov 2026 18:06:55 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "How Allspice built a frontier hardware design agent",
+    "summary": "<p>Article URL: <a href=\"https://allspice.io/post/how-allspice-built-a-frontier-hardware-design-agent\">https://allspice.io/post/how-allspice-built-a-frontier-hardware-design-agent</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50487142\">https://news.ycombinator.com/item?id=50487142</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://allspice.io/post/how-allspice-built-a-frontier-hardware-design-agent",
+    "published": "Fri, 13 Nov 2026 17:53:03 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Advocacy groups sue AI giants to freeze new models, warning 'catastrophic' risks",
+    "summary": "<p>Article URL: <a href=\"https://apnews.com/article/artificial-intelligence-ai-lawsuit-cyberattacks-anthropic-openai-03ece37b96979fe834f60976648504ba\">https://apnews.com/article/artificial-intelligence-ai-lawsuit-cyberattacks-anthropic-openai-03ece37b96979fe834f60976648504ba</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50487126\">https://news.ycombinator.com/item?id=50487126</a></p>\n<p>Points: 3</p>\n<p># Comments: 3</p>",
+    "url": "https://apnews.com/article/artificial-intelligence-ai-lawsuit-cyberattacks-anthropic-openai-03ece37b96979fe834f60976648504ba",
+    "published": "Fri, 13 Nov 2026 17:52:00 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Flawless UI-UX Skill 2.0.0",
+    "summary": "<p>Article URL: <a href=\"https://github.com/smokeeaasd/flawless-ui-ux/releases/tag/v2.0.0\">https://github.com/smokeeaasd/flawless-ui-ux/releases/tag/v2.0.0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50486819\">https://news.ycombinator.com/item?id=50486819</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+    "url": "https://github.com/smokeeaasd/flawless-ui-ux/releases/tag/v2.0.0",
+    "published": "Fri, 13 Nov 2026 17:34:19 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Claude Meetings",
+    "summary": "<p>\n            Add Claude to your call and get work started as you talk\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/claude?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1314781?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/claude",
+    "published": "2026-11-12T18:24:55-08:00",
     "source": "Product Hunt",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Foxpit",
-    "summary": "<p>\n            Run Claude Code, Codex & OpenCode as one AI team\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/foxpit?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1313278?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/foxpit",
-    "published": "2026-11-11T12:10:39-08:00",
+    "title": "Replicate",
+    "summary": "<p>\n            Turn Webflow/Framer app into a Claude/Codex project for free\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/replicate-10?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1314761?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/replicate-10",
+    "published": "2026-11-12T18:06:54-08:00",
     "source": "Product Hunt",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Gemini 4 Hydrogen now available on AI Gateway",
-    "summary": "<p><a href=\"https://vercel.com/ai-gateway/models/gemini-4-hydrogen\">Gemini 4 Hydrogen from Google</a> is now available on AI Gateway.</p><p>Gemini 4 Hydrogen succeeds Gemini 3.8 Flash, improving agentic coding, knowledge work, and tool use while staying in the same latency class. It handles longer engineering tasks and produces better-researched documents, spreadsheets, and presentations in fewer agent steps.</p><p>Hydrogen follows system instructions, formatting requirements, and task boundarie",
-    "url": "https://vercel.com/changelog/gemini-4-hydrogen-now-available-on-ai-gateway",
+    "title": "WHOOP Humans",
+    "summary": "<p>\n            WHOOP's social network built around real health data\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/whoop?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1314743?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/whoop",
+    "published": "2026-11-12T17:35:46-08:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "GAtrends",
+    "summary": "<p>\n            Spike alerts for your keywords in Telegram, Claude, ChatGPT\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/gatrends?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1314471?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/gatrends",
+    "published": "2026-11-12T10:54:12-08:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Build cache size limit on Vercel increased to 5 GB",
+    "summary": "<p>The <a href=\"https://vercel.com/docs/builds#limits-and-resources\">build cache</a> size limit on all <a href=\"https://vercel.com/docs/builds/managing-builds#build-machines\">Vercel build machines</a> has been increased to 5 GB. This allows projects to save more installed dependencies and framework files for reuse between deployments, which can reduce install and build times.</p><p>Build machines are the compute environments that install dependencies and build your project before deployment. Pre",
+    "url": "https://vercel.com/changelog/build-cache-size-limit-on-vercel-increased-to-five-gb",
     "published": "",
     "source": "Vercel Blog (v0)",
     "source_weight": "high",
     "category": "design_tools"
   },
   {
-    "title": "Why are we cloning Photoshop?",
-    "summary": "<h4>AI is making it easy to recreate professional tools. I suspect there’s a bigger opportunity being overlooked.</h4><figure><img alt=\"Editing in PhotoCraft\" src=\"https://cdn-images-1.medium.com/max/1024/1*Xh48AEBSG8maSKJqeuFfvQ.png\" /><figcaption>Editing in PhotoCraft</figcaption></figure><p><a href=\"https://uk.pcmag.com/ai/168210/ai-built-a-photoshop-clone-in-24-hours-is-this-piracy-plagiarism-or-progress\">October saw the release of PhotoCraft</a>, an open-source Photoshop clone built with AI",
-    "url": "https://uxdesign.cc/why-are-we-cloning-photoshop-52e6e165eef7?source=rss----138adf9c44c---4",
-    "published": "Wed, 11 Nov 2026 22:20:42 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
+    "title": "Parallel Decisions now available on AI Gateway for free",
+    "summary": "<p><a href=\"https://vercel.com/ai-gateway/models/parallel-decisions-fast\">Parallel Decisions Fast</a> from Parallel is now available on <a href=\"https://vercel.com/ai-gateway\">AI Gateway</a> and is free through November 23, 2026.</p><p>It searches the live web to answer typed questions about companies, products, policies, and other changing information, returning probabilities and cited evidence for your application to act on.</p><p>Use it to enrich CRM records, check eligibility, route leads, o",
+    "url": "https://vercel.com/changelog/parallel-decisions-now-available-on-ai-gateway-for-free",
+    "published": "",
+    "source": "Vercel Blog (v0)",
+    "source_weight": "high",
+    "category": "design_tools"
   },
   {
     "title": "Every click has a price now. Who designs how that “feels”?",
@@ -81,29 +135,20 @@
     "category": "design_communities"
   },
   {
-    "title": "Design by numbers, Teaching AI prototyping, Context is the new UI",
-    "summary": "<h4>Weekly curated resources for designers — thinkers and makers.</h4><figure><a href=\"https://uxdesign.cc/ai-can-generate-the-interface-what-makes-it-worth-caring-about-a5f3a3e81986\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/0*cheGTOf2ADgr71G_.png\" /></a></figure><p>“As AI becomes more capable of assembling interfaces from established patterns, this distinction deserves more attention. We are getting better at telling tools what belongs to our product. We also need to decide wha",
-    "url": "https://uxdesign.cc/design-by-numbers-teaching-ai-prototyping-context-is-the-new-ui-c88a432a8df8?source=rss----138adf9c44c---4",
-    "published": "Mon, 09 Nov 2026 12:20:07 GMT",
+    "title": "The crooked plate that felt more human than the algorithm",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-crooked-plate-that-felt-more-human-than-the-algorithm-40bb4e5da147?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/710/0*fYWy32dkzlchhe4g\" width=\"710\" /></a></p><p class=\"medium-feed-snippet\">We have spent years teaching machines to be flawless. Now the flawlessness is beginning to feel like a kind of absence.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/the-cro",
+    "url": "https://uxdesign.cc/the-crooked-plate-that-felt-more-human-than-the-algorithm-40bb4e5da147?source=rss----138adf9c44c---4",
+    "published": "Fri, 13 Nov 2026 10:58:22 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
   },
   {
-    "title": "What a ruler leaves out",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/what-a-ruler-leaves-out-9250724a7f85?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*K1XZYBwlp7qoA0rIrwBDAg.png\" width=\"5285\" /></a></p><p class=\"medium-feed-snippet\">On designing tools as rules &#x2014; and what they quietly subtract from the world</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/what-a-ruler-leaves-out-9250724a7f85?source=rss----138adf9c44c---4",
-    "url": "https://uxdesign.cc/what-a-ruler-leaves-out-9250724a7f85?source=rss----138adf9c44c---4",
-    "published": "Mon, 09 Nov 2026 12:13:57 GMT",
+    "title": "AI is the new old design material",
+    "summary": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*JuPAwnD1n1gK7HhzzrR1Yw.png\" /><figcaption>A long workbench where hand tools, a stack of paper, and an open laptop share the same surface.</figcaption></figure><h4>Creative makers and builders have always learned their medium by working with it, from grinding pigments to HTML. Models are the next material, and you need to learn them by building.</h4><p>The field keeps arguing about whether designers should code, as if that questi",
+    "url": "https://uxdesign.cc/ai-is-the-new-old-design-material-0e7f83540c9a?source=rss----138adf9c44c---4",
+    "published": "Fri, 13 Nov 2026 02:33:09 GMT",
     "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "A New Community For In-House UX People",
-    "summary": "We’ve been working on something new! We’ve teamed up for a **new small community** for people doing UX-inside organizations &mdash; with weekly calls and a shared library of the business cases, templates, and research plans that have actually worked for other folks. [Jump to details](https://uxinsiders.boagworld.com/).",
-    "url": "https://smashingmagazine.com/2026/11/ux-insiders-community-in-house-ux-people/",
-    "published": "Fri, 06 Nov 2026 08:00:00 GMT",
-    "source": "Smashing Magazine",
     "source_weight": "medium",
     "category": "design_communities"
   },

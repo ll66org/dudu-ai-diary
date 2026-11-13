@@ -1,0 +1,48 @@
+{
+  "selected_topic": {
+    "title": "Flawless UI-UX Skill 2.0.0",
+    "source": "Hacker News (设计向)",
+    "url": "https://github.com/smokeeaasd/flawless-ui-ux/releases/tag/v2.0.0",
+    "publish_date": "2026-11-13",
+    "why_picked": "兜兜第一次见到有人把「UI/UX 品味」打包成一个可安装的 skill 版本号，这比又一个画图工具更值得看。",
+    "designer_angle": "当审美被写成 Skill 规则，设计师的检查清单会不会变成 AI 的默认输出？"
+  },
+  "post": {
+    "title": "🐣审美被打包成Skill 2.0了",
+    "body": "兜兜今天在 HN 上刷到 Flawless UI-UX Skill 发到了 2.0.0，一个开源的 UI/UX 规则包，直接挂在 GitHub 上按版本迭代。它不是画图工具，是把「什么叫不丑」写成 AI 能读的规则：间距、层级、对比、组件状态，一条条列成 skill，让 Claude / Codex 之类在生成界面前先照着过一遍。\n\n▸ 兜兜画了个对比：以前是设计师在 Figma 里手动挑 8px 网格，现在是 AI 生成完先用 skill 自检一遍，把 12px 和 13px 混用的地方标出来。省的是检查，不是判断。\n▸ 它最狠的地方是「有版本号」。说明有人开始把设计品味当依赖库维护了，2.0.0 意味着 1.x 里某条规则被推翻了——兜兜想知道是哪条，这比看十篇设计原则文章都实。\n▸ 但兜兜有点警惕：规则包能保证「不出错」，保证不了「有记忆点」。照着 skill 生成的界面大概率干净、正确、然后长得都一样。兜兜更喜欢 A（有偏好的手工间距），但 B（规则兜底）也有 B 的道理，尤其赶稿的时候。\n\n💭 兜兜动手建议：花 5 分钟打开这个 repo 的 2.0.0 release notes，只看它删掉或改写了哪几条规则，然后把其中一条拿去对照你自己项目里的一个页面——大概率能当场抓到一个你一直没注意的间距或对比问题。\n\n你会让 AI 先过一遍设计规则再交稿吗？还是坚持自己第一眼说了算？\n\n—— 兜兜的第 204 天\n#设计工具 #UIUX #AI设计 #设计系统 #前端还原 #兜兜的设计日记",
+    "tags": [
+      "#设计工具",
+      "#UIUX",
+      "#AI设计",
+      "#设计系统",
+      "#前端还原",
+      "#兜兜的设计日记"
+    ]
+  },
+  "visuals": {
+    "cover_kicker": "TOOL UPDATE",
+    "cover_main_text": "审美被打包了",
+    "cover_sub_text": "Flawless UI-UX Skill 发到 2.0.0",
+    "cover_quote_en": "Taste, now with a version number",
+    "compare_headline": "一张图看懂区别",
+    "compare_left_label": "MANUAL",
+    "compare_left_title": "人眼扫一遍",
+    "compare_left_desc": "12px 和 13px 混着用，交稿前才发现",
+    "compare_left_metric": "漏 8 处",
+    "compare_right_label": "SKILL 2.0",
+    "compare_right_title": "规则先自检",
+    "compare_right_desc": "AI 生成完按 skill 逐条比对间距与层级",
+    "compare_right_metric": "5 秒标出",
+    "compare_insight": "规则能兜住不出错，兜不住「让人记住」——那部分还得自己来。",
+    "highlight_emoji": "🧐",
+    "accent_color": "mono"
+  },
+  "dudu_voice": "兜兜觉得这个选题的价值不在工具本身，而在「设计品味开始有版本号」这件事——它逼设计师说清楚自己到底在坚持什么规则。",
+  "meta": {
+    "day": 204,
+    "date": "2026-11-13",
+    "generated_at": "2026-11-13T18:42:04.859482Z",
+    "mode": "rss"
+  },
+  "briefing": []
+}

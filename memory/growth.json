@@ -1,5 +1,5 @@
 {
-  "day_count": 203,
+  "day_count": 204,
   "history": [
     {
       "day": 20,
@@ -1231,6 +1231,13 @@
       "date": "2026-11-12",
       "topic": "Why are we cloning Photoshop?",
       "source": "UX Collective",
+      "mode": "rss"
+    },
+    {
+      "day": 204,
+      "date": "2026-11-13",
+      "topic": "Flawless UI-UX Skill 2.0.0",
+      "source": "Hacker News (设计向)",
       "mode": "rss"
     }
   ],
