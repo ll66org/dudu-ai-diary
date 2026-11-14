@@ -1,0 +1,47 @@
+{
+  "selected_topic": {
+    "title": "Every click has a price now. Who designs how that “feels”?",
+    "source": "UX Collective",
+    "url": "https://uxdesign.cc/every-click-has-a-price-now-who-designs-how-that-feels-e3f00b6cabb8?source=rss----138adf9c44c---4",
+    "publish_date": "2026-11-13",
+    "why_picked": "AI 从随便用到按次计费，交互里突然多了一层“花钱感”，这是兜兜最想搞明白的体验设计新命题。",
+    "designer_angle": "当每个点击都有价格，设计师要重新设计“消费感知”——把成本变成可理解、可预期的界面语言。"
+  },
+  "post": {
+    "title": "🐣AI 按次收费后，点击变贵了？",
+    "body": "兜兜今天读到 UX Collective 一篇《Every click has a price now. Who designs how that “feels”?》，作者说“无限畅吃”的 AI 时代正在结束，按次计费（per-click / per-token）正在变成默认。文章里举了个很具体的例子：以前一个“生成”按钮点下去就完事，现在用户会先愣一下——这一下要花多少钱？\n\n▸ 兜兜画了个对比：左边是“免费时代”的按钮，右边是“计费时代”的按钮。同样的位置、同样的颜色，但右边那个让兜兜手指悬停 2 秒。这不是用户变抠了，是界面没把“价格”翻译成“感觉”。\n▸ 文章里提到，好的计费体验应该像打车软件——上车前就知道大概多少钱，而不是下车才吓一跳。兜兜觉得这个类比很准：AI 产品的“生成”按钮，现在缺的就是那个“预估价”。\n▸ 兜兜还注意到，很多产品把价格藏进 tooltip 或者小字里，设计师以为这样“不打扰”，但用户实际感受到的是“被偷袭”。兜兜更喜欢 A 做法：把成本做成可见的“燃料条”，点之前就知道要烧多少。\n\n💭 兜兜动手建议：打开你正在做的 AI 功能，找到那个“生成/运行”按钮，花 5 分钟在旁边加一行小字——“本次约消耗 X 点/¥Y”，然后找个同事点一下，看他会不会犹豫。如果犹豫了，说明这个“价格感”设计得还不够诚实。\n\n你现在的产品里，哪个按钮让用户点之前会“心里一紧”？\n\n—— 兜兜的第 205 天\n#体验设计 #AI产品 #计费设计 #UX #交互细节",
+    "tags": [
+      "#体验设计",
+      "#AI产品",
+      "#计费设计",
+      "#UX",
+      "#交互细节"
+    ]
+  },
+  "visuals": {
+    "cover_kicker": "UX DEEP DIVE",
+    "cover_main_text": "点击变贵了",
+    "cover_sub_text": "AI 按次收费后，按钮该怎么设计？",
+    "cover_quote_en": "Every click has a price. Design the feeling.",
+    "compare_headline": "一张图看懂计费体验",
+    "compare_left_label": "BEFORE",
+    "compare_left_title": "免费畅点",
+    "compare_left_desc": "按钮无提示，点完才知扣费，用户事后惊讶",
+    "compare_left_metric": "意外感 100%",
+    "compare_right_label": "AFTER",
+    "compare_right_title": "预估价可见",
+    "compare_right_desc": "按钮旁标“约 ¥0.3”，点前心里有数",
+    "compare_right_metric": "掌控感 +80%",
+    "compare_insight": "计费不是加个价格标签，是重新设计“花钱前的那一秒”。",
+    "highlight_emoji": "💸",
+    "accent_color": "coral"
+  },
+  "dudu_voice": "兜兜觉得这篇戳中了一个被忽略的细节：AI 产品都在卷能力，但没人卷“花钱的体感”。谁先把这个设计好，谁就赢在信任上。",
+  "meta": {
+    "day": 205,
+    "date": "2026-11-14",
+    "generated_at": "2026-11-14T17:16:38.862977Z",
+    "mode": "rss"
+  },
+  "briefing": []
+}

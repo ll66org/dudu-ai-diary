@@ -1,93 +1,48 @@
 [
   {
-    "title": "Show HN: AI Juggler – Orchestrate your desktop Claude and Codex apps",
-    "summary": "<p>Article URL: <a href=\"https://github.com/figurehead-ai/AI-juggler\">https://github.com/figurehead-ai/AI-juggler</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50487349\">https://news.ycombinator.com/item?id=50487349</a></p>\n<p>Points: 2</p>\n<p># Comments: 1</p>",
-    "url": "https://github.com/figurehead-ai/AI-juggler",
-    "published": "Fri, 13 Nov 2026 18:06:55 +0000",
+    "title": "Cowork – Self-hosted task queue and dashboard for Claude, Codex, and AI agents",
+    "summary": "<p>Article URL: <a href=\"https://github.com/slashman413/cowork\">https://github.com/slashman413/cowork</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50498282\">https://news.ycombinator.com/item?id=50498282</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "url": "https://github.com/slashman413/cowork",
+    "published": "Sat, 14 Nov 2026 16:27:00 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "How Allspice built a frontier hardware design agent",
-    "summary": "<p>Article URL: <a href=\"https://allspice.io/post/how-allspice-built-a-frontier-hardware-design-agent\">https://allspice.io/post/how-allspice-built-a-frontier-hardware-design-agent</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50487142\">https://news.ycombinator.com/item?id=50487142</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://allspice.io/post/how-allspice-built-a-frontier-hardware-design-agent",
-    "published": "Fri, 13 Nov 2026 17:53:03 +0000",
+    "title": "Generative UI: C++ is still the King",
+    "summary": "<p>Article URL: <a href=\"https://ingresslabs.net/blog/prefab-or-cathedral\">https://ingresslabs.net/blog/prefab-or-cathedral</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50498176\">https://news.ycombinator.com/item?id=50498176</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://ingresslabs.net/blog/prefab-or-cathedral",
+    "published": "Sat, 14 Nov 2026 16:14:06 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Advocacy groups sue AI giants to freeze new models, warning 'catastrophic' risks",
-    "summary": "<p>Article URL: <a href=\"https://apnews.com/article/artificial-intelligence-ai-lawsuit-cyberattacks-anthropic-openai-03ece37b96979fe834f60976648504ba\">https://apnews.com/article/artificial-intelligence-ai-lawsuit-cyberattacks-anthropic-openai-03ece37b96979fe834f60976648504ba</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50487126\">https://news.ycombinator.com/item?id=50487126</a></p>\n<p>Points: 3</p>\n<p># Comments: 3</p>",
-    "url": "https://apnews.com/article/artificial-intelligence-ai-lawsuit-cyberattacks-anthropic-openai-03ece37b96979fe834f60976648504ba",
-    "published": "Fri, 13 Nov 2026 17:52:00 +0000",
+    "title": "Show HN: Scatter – better way to learn new things with AI",
+    "summary": "<p>Hi everyone! I've created a web app where one can explore topics on mindmap-like canvas with text, images, videos, interactive nodes. One can also add sources, choose different models for different roles and many more.<p>I'm in my fifth year of psychiatry residency and have adhd and always hated learning from textbooks or lately through chat interface, where I easily loose information from sight, can't branch out and generally feel constrained. So i worked for the last 6 months on an app that",
+    "url": "https://www.scatter.study/",
+    "published": "Sat, 14 Nov 2026 15:11:47 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Flawless UI-UX Skill 2.0.0",
-    "summary": "<p>Article URL: <a href=\"https://github.com/smokeeaasd/flawless-ui-ux/releases/tag/v2.0.0\">https://github.com/smokeeaasd/flawless-ui-ux/releases/tag/v2.0.0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50486819\">https://news.ycombinator.com/item?id=50486819</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
-    "url": "https://github.com/smokeeaasd/flawless-ui-ux/releases/tag/v2.0.0",
-    "published": "Fri, 13 Nov 2026 17:34:19 +0000",
+    "title": "China builds 800MW AI data center campus to rival US Stargate project",
+    "summary": "<p>Article URL: <a href=\"https://www.tomshardware.com/tech-industry/data-centers/china-builds-massive-800-megawatt-ai-data-center-campus-to-rival-us-stargate-project-galaxy-campus-delivers-first-120-megawatts-in-a-year-at-one-fifth-the-cost\">https://www.tomshardware.com/tech-industry/data-centers/china-builds-massive-800-megawatt-ai-data-center-campus-to-rival-us-stargate-project-galaxy-campus-delivers-first-120-megawatts-in-a-year-at-one-fifth-the-cost</a></p>\n<p>Comments URL: <a href=\"https://",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/china-builds-massive-800-megawatt-ai-data-center-campus-to-rival-us-stargate-project-galaxy-campus-delivers-first-120-megawatts-in-a-year-at-one-fifth-the-cost",
+    "published": "Sat, 14 Nov 2026 15:01:29 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Claude Meetings",
-    "summary": "<p>\n            Add Claude to your call and get work started as you talk\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/claude?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1314781?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/claude",
-    "published": "2026-11-12T18:24:55-08:00",
-    "source": "Product Hunt",
+    "title": "Navigating Open Source Software Development in the Generative AI Era",
+    "summary": "<p>Article URL: <a href=\"https://www.linuxfoundation.org/research/oss-development-gen-ai-era-2026\">https://www.linuxfoundation.org/research/oss-development-gen-ai-era-2026</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50497105\">https://news.ycombinator.com/item?id=50497105</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "url": "https://www.linuxfoundation.org/research/oss-development-gen-ai-era-2026",
+    "published": "Sat, 14 Nov 2026 14:03:04 +0000",
+    "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
-  },
-  {
-    "title": "Replicate",
-    "summary": "<p>\n            Turn Webflow/Framer app into a Claude/Codex project for free\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/replicate-10?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1314761?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/replicate-10",
-    "published": "2026-11-12T18:06:54-08:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "WHOOP Humans",
-    "summary": "<p>\n            WHOOP's social network built around real health data\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/whoop?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1314743?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/whoop",
-    "published": "2026-11-12T17:35:46-08:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "GAtrends",
-    "summary": "<p>\n            Spike alerts for your keywords in Telegram, Claude, ChatGPT\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/gatrends?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1314471?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/gatrends",
-    "published": "2026-11-12T10:54:12-08:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Build cache size limit on Vercel increased to 5 GB",
-    "summary": "<p>The <a href=\"https://vercel.com/docs/builds#limits-and-resources\">build cache</a> size limit on all <a href=\"https://vercel.com/docs/builds/managing-builds#build-machines\">Vercel build machines</a> has been increased to 5 GB. This allows projects to save more installed dependencies and framework files for reuse between deployments, which can reduce install and build times.</p><p>Build machines are the compute environments that install dependencies and build your project before deployment. Pre",
-    "url": "https://vercel.com/changelog/build-cache-size-limit-on-vercel-increased-to-five-gb",
-    "published": "",
-    "source": "Vercel Blog (v0)",
-    "source_weight": "high",
-    "category": "design_tools"
-  },
-  {
-    "title": "Parallel Decisions now available on AI Gateway for free",
-    "summary": "<p><a href=\"https://vercel.com/ai-gateway/models/parallel-decisions-fast\">Parallel Decisions Fast</a> from Parallel is now available on <a href=\"https://vercel.com/ai-gateway\">AI Gateway</a> and is free through November 23, 2026.</p><p>It searches the live web to answer typed questions about companies, products, policies, and other changing information, returning probabilities and cited evidence for your application to act on.</p><p>Use it to enrich CRM records, check eligibility, route leads, o",
-    "url": "https://vercel.com/changelog/parallel-decisions-now-available-on-ai-gateway-for-free",
-    "published": "",
-    "source": "Vercel Blog (v0)",
-    "source_weight": "high",
-    "category": "design_tools"
   },
   {
     "title": "Every click has a price now. Who designs how that “feels”?",
@@ -100,7 +55,7 @@
   },
   {
     "title": "The bathroom flaws that infuriate every designer",
-    "summary": "<h3>Throne Room Politics: Inside Designers Obsession with Bathrooms</h3><h4>How one close look at everyday bathroom flaw will permeantly ruin your routine.</h4><p>I paused, leaving the bathroom. Something strange was happening, but what was it?</p><p>There was a woman in a wheelchair who had finished washing her hands. She seemed stuck, but she wasn’t stuck. She kept reaching and reaching, unable to get something, but what couldn’t she get?</p><p>“Can I help you?” I mustered up the courage to as",
+    "summary": "<h4>How one close look at everyday bathroom flaw will permeantly ruin your routine.</h4><p>I paused, leaving the bathroom. Something strange was happening, but what was it?</p><p>There was a woman in a wheelchair who had finished washing her hands. She seemed stuck, but she wasn’t stuck. She kept reaching and reaching, unable to get something, but what couldn’t she get?</p><p>“Can I help you?” I mustered up the courage to ask, realizing she must think I’m the most awkward person just staring at ",
     "url": "https://uxdesign.cc/the-bathroom-flaws-that-infuriate-every-designer-a26d50145d47?source=rss----138adf9c44c---4",
     "published": "Wed, 11 Nov 2026 22:10:34 GMT",
     "source": "UX Collective",
@@ -117,19 +72,10 @@
     "category": "design_communities"
   },
   {
-    "title": "What being the new kid taught me about persuasion as a designer",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/what-being-the-new-kid-taught-me-about-persuasion-as-a-designer-c731818f91d9?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*CC58LbAG6zbjSnfTzjfBtg.jpeg\" width=\"5760\" /></a></p><p class=\"medium-feed-snippet\">People don&#x2019;t say yes to ideas. They say yes to who they get to be.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/what-being-the-new-kid-taught-me-a",
-    "url": "https://uxdesign.cc/what-being-the-new-kid-taught-me-about-persuasion-as-a-designer-c731818f91d9?source=rss----138adf9c44c---4",
-    "published": "Tue, 10 Nov 2026 12:09:18 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Every new medium gets called cheating",
-    "summary": "<h4><em>How a machine I didn’t trust taught me to be bad at things again.</em></h4><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/0*nMvP-oS9EeG8QApU.jpg\" /><figcaption>Monet’s Impression Sunrise would not have existed if someone hadn’t invented the right medium (<a href=\"https://www.arthistoryproject.com/artists/claude-monet/impression-sunrise/\">Source</a>)</figcaption></figure><h3>I was a skeptic.</h3><p>Let the record show, I too, was against it.</p><p>When <a href=\"https://",
-    "url": "https://uxdesign.cc/every-new-medium-gets-called-cheating-b990d7d53c0e?source=rss----138adf9c44c---4",
-    "published": "Tue, 10 Nov 2026 12:09:06 GMT",
+    "title": "Decision theatre or decision design?",
+    "summary": "<h4>AI has made information easy, but it has not made decisions simple. As machines produce more than we can read, our job is shifting from building knowledge to owning decisions. Are we ready?</h4><figure><img alt=\"Two identical “Approve” buttons for a caseworker reviewing AI-flagged benefit claims. In decision theatre, nothing supports the click: no time to look at hundreds of cases a day, only a risk score, no authority to override, and no feedback. In decision design, the same click rests on",
+    "url": "https://uxdesign.cc/decision-theatre-or-decision-design-f1604f178685?source=rss----138adf9c44c---4",
+    "published": "Fri, 13 Nov 2026 23:51:42 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
@@ -166,15 +112,6 @@
     "summary": "<p>Things look a little different around here? I hope so because we just pushed a site redesign! Here's everything new with the 20th(!!) version of CSS-Tricks.</p>\n<hr />\n<p><small><a href=\"https://css-tricks.com/css-tricks-version-20/\" rel=\"nofollow\">CSS-Tricks, Version 20</a> originally handwritten and published with love on <a href=\"https://css-tricks.com\" rel=\"nofollow\">CSS-Tricks</a>. You should really <a href=\"https://css-tricks.com/newsletters/\">get the newsletter</a> as well.</p>",
     "url": "https://css-tricks.com/css-tricks-version-20/",
     "published": "Mon, 09 Nov 2026 15:49:48 +0000",
-    "source": "CSS-Tricks",
-    "source_weight": "low",
-    "category": "design_communities"
-  },
-  {
-    "title": "RSS Club: CSS-Tricks Redesign Preview",
-    "summary": "<p>Hey you wonderful RSS subscribers! We just soft-pushed a site redesign and wanted to give ya'll the first heads-up. A full write-up is coming but here are the high-level details.</p>\n<hr />\n<p><small><a href=\"https://css-tricks.com/css-tricks-redesign-preview/\" rel=\"nofollow\">RSS Club: CSS-Tricks Redesign Preview</a> originally handwritten and published with love on <a href=\"https://css-tricks.com\" rel=\"nofollow\">CSS-Tricks</a>. You should really <a href=\"https://css-tricks.com/newsletters/\">",
-    "url": "https://css-tricks.com/css-tricks-redesign-preview/",
-    "published": "Fri, 06 Nov 2026 18:52:59 +0000",
     "source": "CSS-Tricks",
     "source_weight": "low",
     "category": "design_communities"
