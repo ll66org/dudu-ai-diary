@@ -1,57 +1,12 @@
 [
   {
-    "title": "Cowork – Self-hosted task queue and dashboard for Claude, Codex, and AI agents",
-    "summary": "<p>Article URL: <a href=\"https://github.com/slashman413/cowork\">https://github.com/slashman413/cowork</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50498282\">https://news.ycombinator.com/item?id=50498282</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
-    "url": "https://github.com/slashman413/cowork",
-    "published": "Sat, 14 Nov 2026 16:27:00 +0000",
-    "source": "Hacker News (设计向)",
+    "title": "Canvas by AgentGrid.io",
+    "summary": "<p>\n            Agentic Design Canvas - A visual way to collaborate with AI\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/agentgrid-io?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1317198?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/agentgrid-io",
+    "published": "2026-11-14T22:22:09-08:00",
+    "source": "Product Hunt",
     "source_weight": "high",
     "category": "ai_tech"
-  },
-  {
-    "title": "Generative UI: C++ is still the King",
-    "summary": "<p>Article URL: <a href=\"https://ingresslabs.net/blog/prefab-or-cathedral\">https://ingresslabs.net/blog/prefab-or-cathedral</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50498176\">https://news.ycombinator.com/item?id=50498176</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://ingresslabs.net/blog/prefab-or-cathedral",
-    "published": "Sat, 14 Nov 2026 16:14:06 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Show HN: Scatter – better way to learn new things with AI",
-    "summary": "<p>Hi everyone! I've created a web app where one can explore topics on mindmap-like canvas with text, images, videos, interactive nodes. One can also add sources, choose different models for different roles and many more.<p>I'm in my fifth year of psychiatry residency and have adhd and always hated learning from textbooks or lately through chat interface, where I easily loose information from sight, can't branch out and generally feel constrained. So i worked for the last 6 months on an app that",
-    "url": "https://www.scatter.study/",
-    "published": "Sat, 14 Nov 2026 15:11:47 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "China builds 800MW AI data center campus to rival US Stargate project",
-    "summary": "<p>Article URL: <a href=\"https://www.tomshardware.com/tech-industry/data-centers/china-builds-massive-800-megawatt-ai-data-center-campus-to-rival-us-stargate-project-galaxy-campus-delivers-first-120-megawatts-in-a-year-at-one-fifth-the-cost\">https://www.tomshardware.com/tech-industry/data-centers/china-builds-massive-800-megawatt-ai-data-center-campus-to-rival-us-stargate-project-galaxy-campus-delivers-first-120-megawatts-in-a-year-at-one-fifth-the-cost</a></p>\n<p>Comments URL: <a href=\"https://",
-    "url": "https://www.tomshardware.com/tech-industry/data-centers/china-builds-massive-800-megawatt-ai-data-center-campus-to-rival-us-stargate-project-galaxy-campus-delivers-first-120-megawatts-in-a-year-at-one-fifth-the-cost",
-    "published": "Sat, 14 Nov 2026 15:01:29 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Navigating Open Source Software Development in the Generative AI Era",
-    "summary": "<p>Article URL: <a href=\"https://www.linuxfoundation.org/research/oss-development-gen-ai-era-2026\">https://www.linuxfoundation.org/research/oss-development-gen-ai-era-2026</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50497105\">https://news.ycombinator.com/item?id=50497105</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
-    "url": "https://www.linuxfoundation.org/research/oss-development-gen-ai-era-2026",
-    "published": "Sat, 14 Nov 2026 14:03:04 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Every click has a price now. Who designs how that “feels”?",
-    "summary": "<h4>As the all-you-can-eat AI era is ending, UX designers must adapt to a new reality</h4><figure><img alt=\"An cover illustration titled “Every click has a price now. Who designs how that feels?” showing a concerned UX designer working on a laptop, surrounded by AI pricing interface elements. A credit balance shows 1,180 credits remaining, while another message translates that balance into approximately three more prototypes. The illustration highlights how UX design can make AI token consumptio",
-    "url": "https://uxdesign.cc/every-click-has-a-price-now-who-designs-how-that-feels-e3f00b6cabb8?source=rss----138adf9c44c---4",
-    "published": "Wed, 11 Nov 2026 22:15:19 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
   },
   {
     "title": "The bathroom flaws that infuriate every designer",
@@ -96,24 +51,6 @@
     "published": "Fri, 13 Nov 2026 02:33:09 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Beyond 12 Columns: Designing Layouts With Personality",
-    "summary": "<p>Too many websites look alike. They use familiar layouts, repeat the same patterns, and often leave little impression once you’ve moved on. Andy Clarke explores how understanding a company’s story can lead to more distinctive designs, using modular and compound grids to create layouts with character.</p>\n<hr />\n<p><small><a href=\"https://css-tricks.com/beyond-12-columns/\" rel=\"nofollow\">Beyond 12 Columns: Designing Layouts With Personality</a> originally handwritten and published with love on ",
-    "url": "https://css-tricks.com/beyond-12-columns/",
-    "published": "Thu, 12 Nov 2026 16:06:55 +0000",
-    "source": "CSS-Tricks",
-    "source_weight": "low",
-    "category": "design_communities"
-  },
-  {
-    "title": "CSS-Tricks, Version 20",
-    "summary": "<p>Things look a little different around here? I hope so because we just pushed a site redesign! Here's everything new with the 20th(!!) version of CSS-Tricks.</p>\n<hr />\n<p><small><a href=\"https://css-tricks.com/css-tricks-version-20/\" rel=\"nofollow\">CSS-Tricks, Version 20</a> originally handwritten and published with love on <a href=\"https://css-tricks.com\" rel=\"nofollow\">CSS-Tricks</a>. You should really <a href=\"https://css-tricks.com/newsletters/\">get the newsletter</a> as well.</p>",
-    "url": "https://css-tricks.com/css-tricks-version-20/",
-    "published": "Mon, 09 Nov 2026 15:49:48 +0000",
-    "source": "CSS-Tricks",
-    "source_weight": "low",
     "category": "design_communities"
   }
 ]

@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-11-14T17:16:31.817350Z",
-  "total_candidates": 13,
+  "fetched_at": "2026-11-15T17:56:32.036209Z",
+  "total_candidates": 6,
   "source_stats": {
     "Figma Blog": {
       "found": 0,
@@ -43,19 +43,19 @@
       "total": 0
     },
     "CSS-Tricks": {
-      "found": 2,
-      "total": 15
+      "found": 0,
+      "total": 0
     },
     "A List Apart": {
       "found": 0,
       "total": 20
     },
     "Hacker News (设计向)": {
-      "found": 6,
-      "total": 20
+      "found": 0,
+      "total": 0
     },
     "Product Hunt": {
-      "found": 0,
+      "found": 1,
       "total": 50
     },
     "Designer News (AI Design)": {
@@ -64,25 +64,25 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 205,
-  "today_date": "2026-11-14",
+  "dudu_day": 206,
+  "today_date": "2026-11-15",
   "used_titles": [
-    "Show HN: Twombly – A collaborative canvas for your agent's design explorations",
     "Show HN: Velork – Design and Code, Together",
     "Modern CSS Might Make Your Front-End More Complex",
     "Find it, fix it, ship it: building secure apps on Lovable",
     "AI Prototyping inside your design system. A hands-on guide for design & product teams.",
     "Why are we cloning Photoshop?",
-    "Flawless UI-UX Skill 2.0.0"
+    "Flawless UI-UX Skill 2.0.0",
+    "Every click has a price now. Who designs how that “feels”?"
   ],
   "used_tools": [
-    "Hacker News (设计向)",
     "Hacker News (设计向)",
     "Smashing Magazine",
     "Lovable Blog",
     "UX Collective",
     "UX Collective",
-    "Hacker News (设计向)"
+    "Hacker News (设计向)",
+    "UX Collective"
   ],
   "briefing_total": 0,
   "briefing_design": 0,

@@ -1,5 +1,5 @@
 {
-  "day_count": 205,
+  "day_count": 206,
   "history": [
     {
       "day": 20,
@@ -1244,6 +1244,13 @@
       "day": 205,
       "date": "2026-11-14",
       "topic": "Every click has a price now. Who designs how that “feels”?",
+      "source": "UX Collective",
+      "mode": "rss"
+    },
+    {
+      "day": 206,
+      "date": "2026-11-15",
+      "topic": "In-system design: from code to Figma and back. Prototyping in your real design system",
       "source": "UX Collective",
       "mode": "rss"
     }
