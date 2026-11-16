@@ -1,5 +1,5 @@
 {
-  "day_count": 206,
+  "day_count": 207,
   "history": [
     {
       "day": 20,
@@ -1251,6 +1251,13 @@
       "day": 206,
       "date": "2026-11-15",
       "topic": "In-system design: from code to Figma and back. Prototyping in your real design system",
+      "source": "UX Collective",
+      "mode": "rss"
+    },
+    {
+      "day": 207,
+      "date": "2026-11-16",
+      "topic": "Decision theatre or decision design?",
       "source": "UX Collective",
       "mode": "rss"
     }

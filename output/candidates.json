@@ -1,12 +1,12 @@
 [
   {
-    "title": "Canvas by AgentGrid.io",
-    "summary": "<p>\n            Agentic Design Canvas - A visual way to collaborate with AI\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/agentgrid-io?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1317198?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/agentgrid-io",
-    "published": "2026-11-14T22:22:09-08:00",
-    "source": "Product Hunt",
+    "title": "Hy4 Flash now available on AI Gateway for 50% off",
+    "summary": "<p><a href=\"https://vercel.com/ai-gateway/models/hy4-flash\">Hy4 Flash from Tencent</a> is now available on AI Gateway with an introductory 50% discount on input, cached input, and output tokens through November 29, 2026.</p><p>Hy4 Flash is the new lower-cost model in the Hy4 family. It keeps the full Hy4 feature set at roughly a tenth of the price per token: reasoning with preserved thinking across turns, tool calling, structured outputs, prompt caching, and image input, with the same 1M-token c",
+    "url": "https://vercel.com/changelog/hy4-flash-now-available-on-ai-gateway-for-50-off",
+    "published": "",
+    "source": "Vercel Blog (v0)",
     "source_weight": "high",
-    "category": "ai_tech"
+    "category": "design_tools"
   },
   {
     "title": "The bathroom flaws that infuriate every designer",
@@ -18,10 +18,10 @@
     "category": "design_communities"
   },
   {
-    "title": "In-system design: from code to Figma and back. Prototyping in your real design system",
-    "summary": "<h4>In-System Design 3/3</h4><h4>A practical guide for designers: why I stopped choosing between canvas and code, and how one prototype travels both ways.</h4><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/0*Eh6X8C_0RO5wInpt.jpeg\" /></figure><blockquote><em>For designers who know Figma well and have never written production code, and for the design system teams around them. Every technical word is explained in the box at the end.</em></blockquote><p>I have a confession that do",
-    "url": "https://uxdesign.cc/in-system-design-from-code-to-figma-and-back-prototyping-in-your-real-design-system-7372b128de9a?source=rss----138adf9c44c---4",
-    "published": "Wed, 11 Nov 2026 22:08:32 GMT",
+    "title": "The trash robot that doesn’t pick up, but hands out",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-trash-robot-that-doesnt-pick-up-but-hands-out-9f599d49f8d0?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*rJzIX7VSM6KLSfr7FqCJNQ.png\" width=\"10181\" /></a></p><p class=\"medium-feed-snippet\">On kawaii, embarrassment, and designing to invite</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/the-trash-robot-that-doesnt-pick-up-but-hands-out-9f599d49f8d0?source=rs",
+    "url": "https://uxdesign.cc/the-trash-robot-that-doesnt-pick-up-but-hands-out-9f599d49f8d0?source=rss----138adf9c44c---4",
+    "published": "Mon, 16 Nov 2026 12:16:15 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
@@ -51,6 +51,15 @@
     "published": "Fri, 13 Nov 2026 02:33:09 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Beyond 12 Columns: Designing Layouts With Personality",
+    "summary": "<p>Too many websites look alike. They use familiar layouts, repeat the same patterns, and often leave little impression once you’ve moved on. Andy Clarke explores how understanding a company’s story can lead to more distinctive designs, using modular and compound grids to create layouts with character.</p>\n<hr />\n<p><small><a href=\"https://css-tricks.com/beyond-12-columns/\" rel=\"nofollow\">Beyond 12 Columns: Designing Layouts With Personality</a> originally handwritten and published with love on ",
+    "url": "https://css-tricks.com/beyond-12-columns/",
+    "published": "Thu, 12 Nov 2026 16:06:55 +0000",
+    "source": "CSS-Tricks",
+    "source_weight": "low",
     "category": "design_communities"
   }
 ]
