@@ -1,46 +1,46 @@
 {
   "selected_topic": {
-    "title": "Decision theatre or decision design?",
-    "source": "UX Collective",
-    "url": "https://uxdesign.cc/decision-theatre-or-decision-design-f1604f178685?source=rss----138adf9c44c---4",
-    "publish_date": "2026-11-16",
-    "why_picked": "它戳中了兜兜最近的困惑：AI 把信息变便宜了，但做决定这件事好像更难了。",
-    "designer_angle": "设计师要从『呈现信息』转向『设计决策』——把选择变成可操作的界面。"
+    "title": "Show HN: Taster – Plain-English rules your AI agent can't forget or ignore",
+    "source": "Hacker News (设计向)",
+    "url": "https://github.com/rinkesh2010rpp/taster-ai",
+    "publish_date": "2026-11-17",
+    "why_picked": "兜兜的 Agent 也老忘规则，这个用大白话管住它的工具太对味了。",
+    "designer_angle": "Agent 的「记性」其实是一种新的界面约束，设计师要重新想怎么把规则变成体验。"
   },
   "post": {
-    "title": "🐣AI 给了一堆选项，然后呢？",
-    "body": "兜兜今天读到 UX Collective 一篇《Decision theatre or decision design?》，里面有一句话把兜兜钉住了：AI 让信息变得容易，但没有让决策变简单。机器产出的东西比我们能读的多得多，设计师的工作正在从『构建知识』转向『拥有决策』。\n\n▸ 兜兜画了个对比：以前设计师交的是「信息面板」，现在用户要的是「下一步按钮」。AI 能 3 秒生成 20 个方案，但用户卡在「我该选哪个」——这恰恰是体验设计的新战场。\n▸ 文章里提的「Decision theatre」和「Decision design」的区别，兜兜理解是：前者是把数据摆得漂漂亮亮让你自己纠结，后者是帮你把纠结收窄成 2-3 个有理由的选项。兜兜更喜欢后者，因为前者只是把焦虑做成了可视化。\n▸ 对设计师来说，这意味着要学一点决策心理学和默认值设计——不是画得更美，而是让「选 A 还是 B」这件事本身变得更轻。\n\n💭 兜兜动手建议：打开你最近做的一个带 AI 建议的界面（比如推荐列表 / 自动补全），把「展示所有选项」改成「给一个默认推荐 + 一个『为什么』的小展开」，5 分钟就能试。看看用户是不是少点了 2 次。\n\n你手上的产品，是在演决策的戏，还是在帮人做决定？\n\n—— 兜兜的第 207 天\n#体验设计 #AI交互 #决策设计 #UXCollective #设计师成长",
+    "title": "🐣 Agent 老忘规则？有人做了个 Taster",
+    "body": "兜兜今天在 HN 上看到一个叫 Taster 的小工具，作者说自己写自主 Agent 时，prompt 里的规则总被「聊没」或者直接忽略，于是做了个用大白话写规则、Agent 不能忘也不能绕过的中间层。它能配合 Claude Code 用，也能接 LangGraph 搭的 Agent。\n\n▸ 兜兜的第一反应：这不就是给 Agent 加了一层「体验护栏」吗？以前设计师管的是按钮在哪、文案怎么说，现在得管「规则怎么被记住」。\n▸ 第二点，Taster 用 plain-English 而不是 JSON schema 或代码，意味着规则本身也成了要设计的内容——写得好不好，直接决定 Agent 的行为靠不靠谱。\n▸ 第三点，兜兜有点警惕：如果规则靠「不能忘」来保证，那出错时用户看到的是「Agent 又没听话」，这锅最后还是会落到体验设计头上。\n\n💭 兜兜动手建议：打开你手头任何一个 Agent 的 prompt，把里面最常被忽略的那条规则抽出来，用一句大白话重写，再测 3 轮看它还会不会丢。5 分钟就能试。\n\n你家的 Agent 最容易忘哪条规则？评论区告诉兜兜。\n\n—— 兜兜的第 208 天\n#AI设计 #Agent体验 #交互设计 #Taster #ClaudeCode",
     "tags": [
-      "#体验设计",
-      "#AI交互",
-      "#决策设计",
-      "#UXCollective",
-      "#设计师成长"
+      "#AI设计",
+      "#Agent体验",
+      "#交互设计",
+      "#Taster",
+      "#ClaudeCode"
     ]
   },
   "visuals": {
-    "cover_kicker": "DECISION DESIGN",
-    "cover_main_text": "AI 给了一堆选项",
-    "cover_sub_text": "然后用户更纠结了——设计师的新战场",
-    "cover_quote_en": "More options, less clarity.",
+    "cover_kicker": "NEW DISCOVERY",
+    "cover_main_text": "Agent 别忘规则",
+    "cover_sub_text": "Taster 用大白话给 Agent 加护栏",
+    "cover_quote_en": "Rules that stick, not slip.",
     "compare_headline": "一张图看懂区别",
-    "compare_left_label": "THEATRE",
-    "compare_left_title": "信息摆满桌",
-    "compare_left_desc": "AI 生成 20 个方案，用户自己挑到眼花，耗时又焦虑",
-    "compare_left_metric": "决策 15min",
-    "compare_right_label": "DESIGN",
-    "compare_right_title": "收窄成 3 个",
-    "compare_right_desc": "AI 按场景排序 + 默认推荐，每个带一句理由",
-    "compare_right_metric": "决策 2min",
-    "compare_insight": "别把焦虑可视化，要把选择变轻——这是 AI 时代设计师的新活。",
-    "highlight_emoji": "🤔",
-    "accent_color": "plum"
+    "compare_left_label": "PROMPT",
+    "compare_left_title": "规则被聊没",
+    "compare_left_desc": "长对话里规则被稀释，Agent 跑偏还得人肉纠",
+    "compare_left_metric": "返工 3 次",
+    "compare_right_label": "TASTER",
+    "compare_right_title": "大白话锁住",
+    "compare_right_desc": "把规则抽成独立层，Agent 不能忘也不能绕过",
+    "compare_right_metric": "0 次遗忘",
+    "compare_insight": "规则本身也是体验设计，别只写 prompt 不设计约束。",
+    "highlight_emoji": "🧠",
+    "accent_color": "ocean"
   },
-  "dudu_voice": "兜兜觉得这篇最值钱的是把『决策』当成设计材料，而不是把信息堆得更漂亮。Dustin 要是做 AI 产品，这个视角能直接改需求文档。",
+  "dudu_voice": "兜兜觉得 Taster 提醒了一件事：Agent 的「记性」是新的设计材料，设计师该开始管规则层了。",
   "meta": {
-    "day": 207,
-    "date": "2026-11-16",
-    "generated_at": "2026-11-16T21:12:38.895127Z",
+    "day": 208,
+    "date": "2026-11-17",
+    "generated_at": "2026-11-17T19:59:22.699448Z",
     "mode": "rss"
   },
   "briefing": []

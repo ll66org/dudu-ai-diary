@@ -1,18 +1,81 @@
 [
   {
-    "title": "Hy4 Flash now available on AI Gateway for 50% off",
-    "summary": "<p><a href=\"https://vercel.com/ai-gateway/models/hy4-flash\">Hy4 Flash from Tencent</a> is now available on AI Gateway with an introductory 50% discount on input, cached input, and output tokens through November 29, 2026.</p><p>Hy4 Flash is the new lower-cost model in the Hy4 family. It keeps the full Hy4 feature set at roughly a tenth of the price per token: reasoning with preserved thinking across turns, tool calling, structured outputs, prompt caching, and image input, with the same 1M-token c",
-    "url": "https://vercel.com/changelog/hy4-flash-now-available-on-ai-gateway-for-50-off",
+    "title": "Show HN: Taster – Plain-English rules your AI agent can't forget or ignore",
+    "summary": "<p>I built it after rules in my own autonomous agent’s prompt kept getting lost or talked away. You can use it with Claude Code, or with agents built on LangGraph.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50535730\">https://news.ycombinator.com/item?id=50535730</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "url": "https://github.com/rinkesh2010rpp/taster-ai",
+    "published": "Tue, 17 Nov 2026 18:15:54 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Show HN: Faros Desktop, a local app to see your AI traces and extend your usage",
+    "summary": "<p>Hi HN, I’m Sachin, and I’ve spent the last couple of months working on Faros Desktop, a Mac app that visualizes how you use your local AI coding tools into one place and then makes recommendations to make your subscription spend go further.<p>As agents have replaced hands-on-keyboard work, the team and I wanted to better understand what’s in our session traces. Faros Desktop hydrates with on-device session history in Codex, Claude Code, Github Copilot, and Cursor to let users deep dive into a",
+    "url": "https://news.ycombinator.com/item?id=50535157",
+    "published": "Tue, 17 Nov 2026 17:42:22 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Decision-1.1 now available on AI Gateway",
+    "summary": "<p><a href=\"https://vercel.com/ai-gateway/models/decision-1.1\">Decision-1.1</a> from Microsoft AI is now available on AI Gateway.  It is more accurate, better calibrated, and faster than Decision-1.</p><p>The decision model returns structured answers instead of free-form text for tasks such as routing support requests, choosing which model should handle a request, selecting the next step in a workflow, or grading AI responses.</p><ul><li><p>Boolean: the probability that a condition is true</p></",
+    "url": "https://vercel.com/changelog/decision-1-1-now-available-on-ai-gateway",
     "published": "",
     "source": "Vercel Blog (v0)",
     "source_weight": "high",
     "category": "design_tools"
   },
   {
-    "title": "The bathroom flaws that infuriate every designer",
-    "summary": "<h4>How one close look at everyday bathroom flaw will permeantly ruin your routine.</h4><p>I paused, leaving the bathroom. Something strange was happening, but what was it?</p><p>There was a woman in a wheelchair who had finished washing her hands. She seemed stuck, but she wasn’t stuck. She kept reaching and reaching, unable to get something, but what couldn’t she get?</p><p>“Can I help you?” I mustered up the courage to ask, realizing she must think I’m the most awkward person just staring at ",
-    "url": "https://uxdesign.cc/the-bathroom-flaws-that-infuriate-every-designer-a26d50145d47?source=rss----138adf9c44c---4",
-    "published": "Wed, 11 Nov 2026 22:10:34 GMT",
+    "title": "MAI-Image-2.7 and MAI-Image-2.7-Flash now available on AI Gateway",
+    "summary": "<p>Microsoft’s <a href=\"https://vercel.com/ai-gateway/models/mai-image-2.7\">MAI-Image-2.7</a> and <a href=\"https://vercel.com/ai-gateway/models/mai-image-2.7-flash\">MAI-Image-2.7-Flash</a> are now available in public preview on <a href=\"https://vercel.com/ai-gateway\">AI Gateway</a>. Both increase the maximum output size to 2048 x 2048 pixels and add transparent backgrounds for generated and edited images.</p><p>Generate images from text or edit existing images with one AI Gateway API key, withou",
+    "url": "https://vercel.com/changelog/mai-image-2-7-and-mai-image-2-7-flash-now-available-on-ai-gateway",
+    "published": "",
+    "source": "Vercel Blog (v0)",
+    "source_weight": "high",
+    "category": "design_tools"
+  },
+  {
+    "title": "GPT-6.2 Astra and Sol now available on AI Gateway",
+    "summary": "<p><a href=\"https://vercel.com/ai-gateway/models/gpt-6.2-astra\">GPT-6.2 Astra</a> and <a href=\"https://vercel.com/ai-gateway/models/gpt-6.2-sol\">GPT-6.2 Sol</a> from <a href=\"https://vercel.com/ai-gateway/models/providers/openai\">OpenAI</a> are now available on <a href=\"https://vercel.com/ai-gateway\">AI Gateway</a>.</p><ul><li><p><b>GPT-6.2 Astra:</b> for complex, multi-step projects, with improvements to implementing and testing changes in existing codebases, following document templates, and c",
+    "url": "https://vercel.com/changelog/gpt-6-2-astra-and-sol-now-available-on-ai-gateway",
+    "published": "",
+    "source": "Vercel Blog (v0)",
+    "source_weight": "high",
+    "category": "design_tools"
+  },
+  {
+    "title": "Meet AI 2027 Conference (Dec 1)",
+    "summary": "Roll up your sleeves! Meet shiny new [AI 2027 Conference](https://smashingconf.com/ai-2027-conference), a friendly online conference on AI-ready design systems, AI + Figma and AI design patterns. What to expect in 2027 and where teams are getting AI right. [Jump to tickets.](https://smashingconf.com/ai-2027-conference/registration)",
+    "url": "https://smashingmagazine.com/2026/11/online-smashingconf-ai-2027/",
+    "published": "Tue, 17 Nov 2026 12:00:00 GMT",
+    "source": "Smashing Magazine",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "AI Sped Up The Build: How Can Accessibility Testing Keep Up?",
+    "summary": "AI has sped up how teams design and build, but quality assurance (QA) testing hasn’t kept pace, and the web may be getting less accessible. Drawing on new research, Andrew Chung explains what separates the teams whose accessibility efforts are keeping up, and how to embed human judgment into AI-enabled workflows without slowing delivery.",
+    "url": "https://smashingmagazine.com/2026/11/ai-sped-up-build-how-can-accessibility-testing-keep-up/",
+    "published": "Tue, 17 Nov 2026 08:00:00 GMT",
+    "source": "Smashing Magazine",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Why bother paying for software anymore?",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/why-bother-paying-for-software-anymore-e1f76093f772?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1600/1*TV7xQSMxyAg-Mgkm4Fat5g.png\" width=\"1600\" /></a></p><p class=\"medium-feed-snippet\">And why design is the answer AI bros didn&#x2019;t expect.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/why-bother-paying-for-software-anymore-e1f76093f772?source=rss----138adf9c4",
+    "url": "https://uxdesign.cc/why-bother-paying-for-software-anymore-e1f76093f772?source=rss----138adf9c44c---4",
+    "published": "Mon, 16 Nov 2026 21:27:14 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "UI edge cases: A reference guide",
+    "summary": "<h4>A practical reference guide for catching UI edge cases before they ship — organized by category, with how to test, how to detect them in the wild, and how to design a fix. With examples.</h4><figure><img alt=\"UI edge cases: A reference guide, a banner image.\" src=\"https://cdn-images-1.medium.com/max/1024/1*R_ZHpYkP3hc4ER5e4KuPsA.png\" /><figcaption>UI edge cases: A reference guide, a banner image.</figcaption></figure><h3>Introduction</h3><p>One day my colleague and I were at a workshop in a ",
+    "url": "https://uxdesign.cc/ui-edge-cases-a-reference-guide-e778061588ef?source=rss----138adf9c44c---4",
+    "published": "Mon, 16 Nov 2026 21:20:24 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
@@ -22,15 +85,6 @@
     "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-trash-robot-that-doesnt-pick-up-but-hands-out-9f599d49f8d0?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*rJzIX7VSM6KLSfr7FqCJNQ.png\" width=\"10181\" /></a></p><p class=\"medium-feed-snippet\">On kawaii, embarrassment, and designing to invite</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/the-trash-robot-that-doesnt-pick-up-but-hands-out-9f599d49f8d0?source=rs",
     "url": "https://uxdesign.cc/the-trash-robot-that-doesnt-pick-up-but-hands-out-9f599d49f8d0?source=rss----138adf9c44c---4",
     "published": "Mon, 16 Nov 2026 12:16:15 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Decision theatre or decision design?",
-    "summary": "<h4>AI has made information easy, but it has not made decisions simple. As machines produce more than we can read, our job is shifting from building knowledge to owning decisions. Are we ready?</h4><figure><img alt=\"Two identical “Approve” buttons for a caseworker reviewing AI-flagged benefit claims. In decision theatre, nothing supports the click: no time to look at hundreds of cases a day, only a risk score, no authority to override, and no feedback. In decision design, the same click rests on",
-    "url": "https://uxdesign.cc/decision-theatre-or-decision-design-f1604f178685?source=rss----138adf9c44c---4",
-    "published": "Fri, 13 Nov 2026 23:51:42 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"

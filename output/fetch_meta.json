@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-11-16T21:12:32.876826Z",
-  "total_candidates": 7,
+  "fetched_at": "2026-11-17T19:59:17.759107Z",
+  "total_candidates": 13,
   "source_stats": {
     "Figma Blog": {
       "found": 0,
       "total": 0
     },
     "Vercel Blog (v0)": {
-      "found": 1,
+      "found": 3,
       "total": 100
     },
     "Cursor Changelog": {
@@ -31,7 +31,7 @@
       "total": 66
     },
     "Smashing Magazine": {
-      "found": 0,
+      "found": 2,
       "total": 40
     },
     "UX Collective": {
@@ -51,8 +51,8 @@
       "total": 20
     },
     "Hacker News (设计向)": {
-      "found": 0,
-      "total": 0
+      "found": 2,
+      "total": 20
     },
     "Product Hunt": {
       "found": 0,
@@ -64,23 +64,23 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 207,
-  "today_date": "2026-11-16",
+  "dudu_day": 208,
+  "today_date": "2026-11-17",
   "used_titles": [
-    "Modern CSS Might Make Your Front-End More Complex",
     "Find it, fix it, ship it: building secure apps on Lovable",
     "AI Prototyping inside your design system. A hands-on guide for design & product teams.",
     "Why are we cloning Photoshop?",
     "Flawless UI-UX Skill 2.0.0",
     "Every click has a price now. Who designs how that “feels”?",
-    "In-system design: from code to Figma and back. Prototyping in your real design system"
+    "In-system design: from code to Figma and back. Prototyping in your real design system",
+    "Decision theatre or decision design?"
   ],
   "used_tools": [
-    "Smashing Magazine",
     "Lovable Blog",
     "UX Collective",
     "UX Collective",
     "Hacker News (设计向)",
+    "UX Collective",
     "UX Collective",
     "UX Collective"
   ],

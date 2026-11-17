@@ -1,5 +1,5 @@
 {
-  "day_count": 207,
+  "day_count": 208,
   "history": [
     {
       "day": 20,
@@ -1259,6 +1259,13 @@
       "date": "2026-11-16",
       "topic": "Decision theatre or decision design?",
       "source": "UX Collective",
+      "mode": "rss"
+    },
+    {
+      "day": 208,
+      "date": "2026-11-17",
+      "topic": "Show HN: Taster – Plain-English rules your AI agent can't forget or ignore",
+      "source": "Hacker News (设计向)",
       "mode": "rss"
     }
   ],
