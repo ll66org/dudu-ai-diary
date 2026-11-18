@@ -1,48 +1,66 @@
 [
   {
-    "title": "Show HN: Taster – Plain-English rules your AI agent can't forget or ignore",
-    "summary": "<p>I built it after rules in my own autonomous agent’s prompt kept getting lost or talked away. You can use it with Claude Code, or with agents built on LangGraph.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50535730\">https://news.ycombinator.com/item?id=50535730</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
-    "url": "https://github.com/rinkesh2010rpp/taster-ai",
-    "published": "Tue, 17 Nov 2026 18:15:54 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Show HN: Faros Desktop, a local app to see your AI traces and extend your usage",
-    "summary": "<p>Hi HN, I’m Sachin, and I’ve spent the last couple of months working on Faros Desktop, a Mac app that visualizes how you use your local AI coding tools into one place and then makes recommendations to make your subscription spend go further.<p>As agents have replaced hands-on-keyboard work, the team and I wanted to better understand what’s in our session traces. Faros Desktop hydrates with on-device session history in Codex, Claude Code, Github Copilot, and Cursor to let users deep dive into a",
-    "url": "https://news.ycombinator.com/item?id=50535157",
-    "published": "Tue, 17 Nov 2026 17:42:22 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Decision-1.1 now available on AI Gateway",
-    "summary": "<p><a href=\"https://vercel.com/ai-gateway/models/decision-1.1\">Decision-1.1</a> from Microsoft AI is now available on AI Gateway.  It is more accurate, better calibrated, and faster than Decision-1.</p><p>The decision model returns structured answers instead of free-form text for tasks such as routing support requests, choosing which model should handle a request, selecting the next step in a workflow, or grading AI responses.</p><ul><li><p>Boolean: the probability that a condition is true</p></",
-    "url": "https://vercel.com/changelog/decision-1-1-now-available-on-ai-gateway",
+    "title": "Introducing Vercel X",
+    "summary": "<p>Today we’re launching <a href=\"https://vercel.com/x\">Vercel X</a>, a six-week accelerator for AI founders at the idea and pre-seed stages.</p><p>Join a cohort of 40 teams at our San Francisco HQ and build alongside Vercel’s product leaders, designers, and engineers.</p><p>The program takes no equity for participation and offers access to a program-wide pool of more than $9M in credits from Vercel, AWS, Anthropic, OpenAI, and other partners.</p><p>Applications are now open through November 29,",
+    "url": "https://vercel.com/blog/vercel-x",
     "published": "",
     "source": "Vercel Blog (v0)",
     "source_weight": "high",
     "category": "design_tools"
   },
   {
-    "title": "MAI-Image-2.7 and MAI-Image-2.7-Flash now available on AI Gateway",
-    "summary": "<p>Microsoft’s <a href=\"https://vercel.com/ai-gateway/models/mai-image-2.7\">MAI-Image-2.7</a> and <a href=\"https://vercel.com/ai-gateway/models/mai-image-2.7-flash\">MAI-Image-2.7-Flash</a> are now available in public preview on <a href=\"https://vercel.com/ai-gateway\">AI Gateway</a>. Both increase the maximum output size to 2048 x 2048 pixels and add transparent backgrounds for generated and edited images.</p><p>Generate images from text or edit existing images with one AI Gateway API key, withou",
-    "url": "https://vercel.com/changelog/mai-image-2-7-and-mai-image-2-7-flash-now-available-on-ai-gateway",
+    "title": "Vercel Drives now reads files up to 6x faster",
+    "summary": "<p><a href=\"https://vercel.com/docs/sandbox/concepts/drives\">Vercel Drives</a> now reads files up to 6x faster.</p><p>The update improves cold-read performance. A new read-ahead algorithm uses your application’s access patterns to load data from persistent storage before it’s needed, reducing the time your code spends waiting.</p><p>All drives get this update automatically, with no SDK upgrade or configuration changes required. Read pricing is unchanged.</p><p>Learn more in the <a href=\"https://",
+    "url": "https://vercel.com/changelog/vercel-drives-now-reads-files-up-to-6x-faster",
     "published": "",
     "source": "Vercel Blog (v0)",
     "source_weight": "high",
     "category": "design_tools"
   },
   {
-    "title": "GPT-6.2 Astra and Sol now available on AI Gateway",
-    "summary": "<p><a href=\"https://vercel.com/ai-gateway/models/gpt-6.2-astra\">GPT-6.2 Astra</a> and <a href=\"https://vercel.com/ai-gateway/models/gpt-6.2-sol\">GPT-6.2 Sol</a> from <a href=\"https://vercel.com/ai-gateway/models/providers/openai\">OpenAI</a> are now available on <a href=\"https://vercel.com/ai-gateway\">AI Gateway</a>.</p><ul><li><p><b>GPT-6.2 Astra:</b> for complex, multi-step projects, with improvements to implementing and testing changes in existing codebases, following document templates, and c",
-    "url": "https://vercel.com/changelog/gpt-6-2-astra-and-sol-now-available-on-ai-gateway",
+    "title": "Single-second static deployments now support more assets",
+    "summary": "<p><a href=\"https://vercel.com/changelog/sub-second-artifact-deployments-are-now-supported-in-vercel-cli\">Instant deployments</a> let you deploy eligible static sites to Vercel in about a second, without a build step. They now support CSS, images, fonts, and other assets alongside HTML and Markdown.</p><p>Deploy a landing page with its stylesheet and images, or a report created by your coding agent, through the <a href=\"https://vercel.com/docs/cli/deploy\">Vercel CLI</a> or <a href=\"https://verce",
+    "url": "https://vercel.com/changelog/single-second-static-deployments-now-support-more-assets",
     "published": "",
     "source": "Vercel Blog (v0)",
     "source_weight": "high",
     "category": "design_tools"
+  },
+  {
+    "title": "Standard builds move to usage-based billing for new teams",
+    "summary": "<p>Starting today, new Pro and Enterprise teams no longer include a Standard build slot. This brings Standard builds under the same usage-based billing model as other build machines. </p><p>On Pro, Standard builds cost $0.014 per build minute, and your monthly usage credit applies to build usage. Enterprise rates follow your contract. Standard builds remain billable after switching from Elastic to Standard for teams covered by this change.</p><p>Select a build machine in <a href=\"https://vercel.",
+    "url": "https://vercel.com/changelog/standard-build-billing-new-teams",
+    "published": "",
+    "source": "Vercel Blog (v0)",
+    "source_weight": "high",
+    "category": "design_tools"
+  },
+  {
+    "title": "Two years of Lovable: more people with ideas, more power to act on them",
+    "summary": "New research, customer stories, and perspectives on how people are creating businesses, changing companies, and shaping the future with Lovable.",
+    "url": "https://lovable.dev/blog/two-years-of-lovable",
+    "published": "Wed, 18 Nov 2026 10:00:00 GMT",
+    "source": "Lovable Blog",
+    "source_weight": "medium",
+    "category": "design_tools"
+  },
+  {
+    "title": "What is a researcher’s worth?",
+    "summary": "<h4>Why the debate over research isn’t a technology story – and why effortless AI makes human friction our scarcest asset.</h4><figure><img alt=\"In a watercolor aesthetic, a boat with various scientific objects on it in the middle of a body of water. Where will they all go?\" src=\"https://cdn-images-1.medium.com/max/1024/0*0cFCJpNLtLhpGfGK\" /><figcaption>Image created by author, with Midjourney.</figcaption></figure><h4>We’re no stranger to this question.</h4><p>For many years, research practitio",
+    "url": "https://uxdesign.cc/what-is-a-researchers-worth-ea14c95c6d12?source=rss----138adf9c44c---4",
+    "published": "Tue, 17 Nov 2026 23:26:24 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Everyone knows sparkles mean AI. Use them to make design audits easier",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/everyone-knows-sparkles-mean-ai-use-them-to-make-design-audits-easier-bdacc76cef11?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1556/1*4RrFm9IcXORwVXjgB-_zlA.png\" width=\"1556\" /></a></p><p class=\"medium-feed-snippet\">How to decipher your PM&#x2019;s AI-generated mockup without losing hours</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/everyone-knows-sparkles-mean-",
+    "url": "https://uxdesign.cc/everyone-knows-sparkles-mean-ai-use-them-to-make-design-audits-easier-bdacc76cef11?source=rss----138adf9c44c---4",
+    "published": "Tue, 17 Nov 2026 23:25:21 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
   },
   {
     "title": "Meet AI 2027 Conference (Dec 1)",

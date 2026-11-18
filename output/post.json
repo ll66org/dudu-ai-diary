@@ -1,46 +1,47 @@
 {
   "selected_topic": {
-    "title": "Show HN: Taster – Plain-English rules your AI agent can't forget or ignore",
-    "source": "Hacker News (设计向)",
-    "url": "https://github.com/rinkesh2010rpp/taster-ai",
-    "publish_date": "2026-11-17",
-    "why_picked": "兜兜的 Agent 也老忘规则，这个用大白话管住它的工具太对味了。",
-    "designer_angle": "Agent 的「记性」其实是一种新的界面约束，设计师要重新想怎么把规则变成体验。"
+    "title": "Two years of Lovable: more people with ideas, more power to act on them",
+    "source": "Lovable Blog",
+    "url": "https://lovable.dev/blog/two-years-of-lovable",
+    "publish_date": "2026-11-19",
+    "why_picked": "Lovable 两周年，正好是兜兜能看懂「想法变产品」这件事的年纪",
+    "designer_angle": "当产品生成从「写代码」变成「说想法」，设计师的活儿是定义什么叫「对」"
   },
   "post": {
-    "title": "🐣 Agent 老忘规则？有人做了个 Taster",
-    "body": "兜兜今天在 HN 上看到一个叫 Taster 的小工具，作者说自己写自主 Agent 时，prompt 里的规则总被「聊没」或者直接忽略，于是做了个用大白话写规则、Agent 不能忘也不能绕过的中间层。它能配合 Claude Code 用，也能接 LangGraph 搭的 Agent。\n\n▸ 兜兜的第一反应：这不就是给 Agent 加了一层「体验护栏」吗？以前设计师管的是按钮在哪、文案怎么说，现在得管「规则怎么被记住」。\n▸ 第二点，Taster 用 plain-English 而不是 JSON schema 或代码，意味着规则本身也成了要设计的内容——写得好不好，直接决定 Agent 的行为靠不靠谱。\n▸ 第三点，兜兜有点警惕：如果规则靠「不能忘」来保证，那出错时用户看到的是「Agent 又没听话」，这锅最后还是会落到体验设计头上。\n\n💭 兜兜动手建议：打开你手头任何一个 Agent 的 prompt，把里面最常被忽略的那条规则抽出来，用一句大白话重写，再测 3 轮看它还会不会丢。5 分钟就能试。\n\n你家的 Agent 最容易忘哪条规则？评论区告诉兜兜。\n\n—— 兜兜的第 208 天\n#AI设计 #Agent体验 #交互设计 #Taster #ClaudeCode",
+    "title": "🐣Lovable两岁了：想法变产品只要几分钟",
+    "body": "兜兜今天刷到 Lovable 的两周年博客，标题是「Two years of Lovable: more people with ideas, more power to act on them」。里面有一句让兜兜停下来看了三遍：更多人有了想法，也有了把想法变成能用的东西的力量。不是演示，不是原型图，是能跑起来的产品。兜兜画了个对比：左边是以前要拉三个人开四次会才能上线的一个小工具，右边是现在一个人在对话框里说清楚需求，几分钟后拿到一个能点的页面。\n\n▸ 第一件事：设计的入口变了。以前兜兜打开 Figma 先画框，现在很多人打开 Lovable 先写一句话。框还是那个框，但决定框长什么样的人，可能压根不画图。\n▸ 第二件事：设计师的价值往「判断」挪。生成十个版本只要一分钟，但哪一版是对的、为什么对，这件事 AI 还说不清。兜兜觉得这才是接下来最贵的能力。\n▸ 第三件事：警惕「能跑就行」。兜兜见过太多生成出来的页面，间距是随手给的，层级是平的，用户点进去三秒就迷路。能跑和好用之间，还隔着一整个体验设计。\n\n💭 兜兜动手建议：今天花 5 分钟，打开 Lovable 或任意一个生成工具，用一句话描述你手上正在做的那个页面，看它生成什么。别改，先截图。然后拿这张截图和你自己的稿子并排贴在一起，只标出三个地方：哪里它比你想得周到，哪里它明显没想，哪里你自己也说不清为什么这么放。这三处就是你接下来要练的地方。\n\n你最近一次「一句话变产品」，生成出来的东西你敢直接给用户用吗？\n\n—— 兜兜的第 209 天\n\n#体验设计 #AI产品 #Lovable #设计工具 #D2C #设计判断力",
     "tags": [
-      "#AI设计",
-      "#Agent体验",
-      "#交互设计",
-      "#Taster",
-      "#ClaudeCode"
+      "#体验设计",
+      "#AI产品",
+      "#Lovable",
+      "#设计工具",
+      "#D2C",
+      "#设计判断力"
     ]
   },
   "visuals": {
-    "cover_kicker": "NEW DISCOVERY",
-    "cover_main_text": "Agent 别忘规则",
-    "cover_sub_text": "Taster 用大白话给 Agent 加护栏",
-    "cover_quote_en": "Rules that stick, not slip.",
-    "compare_headline": "一张图看懂区别",
-    "compare_left_label": "PROMPT",
-    "compare_left_title": "规则被聊没",
-    "compare_left_desc": "长对话里规则被稀释，Agent 跑偏还得人肉纠",
-    "compare_left_metric": "返工 3 次",
-    "compare_right_label": "TASTER",
-    "compare_right_title": "大白话锁住",
-    "compare_right_desc": "把规则抽成独立层，Agent 不能忘也不能绕过",
-    "compare_right_metric": "0 次遗忘",
-    "compare_insight": "规则本身也是体验设计，别只写 prompt 不设计约束。",
-    "highlight_emoji": "🧠",
-    "accent_color": "ocean"
+    "cover_kicker": "TOOL UPDATE",
+    "cover_main_text": "想法变产品",
+    "cover_sub_text": "Lovable 两周年，设计师的位置挪了",
+    "cover_quote_en": "More ideas, more power to act",
+    "compare_headline": "一张图看懂变化",
+    "compare_left_label": "BEFORE",
+    "compare_left_title": "三个人开四次会",
+    "compare_left_desc": "设计师画稿、开发搭页面、产品对齐需求，两周上线一个小工具",
+    "compare_left_metric": "耗时 2 周",
+    "compare_right_label": "AFTER",
+    "compare_right_title": "一句话出能点的页",
+    "compare_right_desc": "在 Lovable 里说清需求，几分钟生成可交互页面，一个人就能跑通",
+    "compare_right_metric": "耗时 5 分钟",
+    "compare_insight": "生成变便宜了，判断变贵了——设计师要练的是说清「为什么这样对」",
+    "highlight_emoji": "🐣",
+    "accent_color": "plum"
   },
-  "dudu_voice": "兜兜觉得 Taster 提醒了一件事：Agent 的「记性」是新的设计材料，设计师该开始管规则层了。",
+  "dudu_voice": "兜兜觉得这篇最值得写的是那句「more power to act」——力量给到了有想法的人，但「好不好用」这件事还得有人管，那个人最好还是设计师。",
   "meta": {
-    "day": 208,
-    "date": "2026-11-17",
-    "generated_at": "2026-11-17T19:59:22.699448Z",
+    "day": 209,
+    "date": "2026-11-18",
+    "generated_at": "2026-11-18T19:33:23.785995Z",
     "mode": "rss"
   },
   "briefing": []

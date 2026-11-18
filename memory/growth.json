@@ -1,5 +1,5 @@
 {
-  "day_count": 208,
+  "day_count": 209,
   "history": [
     {
       "day": 20,
@@ -1266,6 +1266,13 @@
       "date": "2026-11-17",
       "topic": "Show HN: Taster – Plain-English rules your AI agent can't forget or ignore",
       "source": "Hacker News (设计向)",
+      "mode": "rss"
+    },
+    {
+      "day": 209,
+      "date": "2026-11-18",
+      "topic": "Two years of Lovable: more people with ideas, more power to act on them",
+      "source": "Lovable Blog",
       "mode": "rss"
     }
   ],

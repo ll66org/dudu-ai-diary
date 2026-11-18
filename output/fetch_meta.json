@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-11-17T19:59:17.759107Z",
-  "total_candidates": 13,
+  "fetched_at": "2026-11-18T19:33:14.326932Z",
+  "total_candidates": 15,
   "source_stats": {
     "Figma Blog": {
       "found": 0,
       "total": 0
     },
     "Vercel Blog (v0)": {
-      "found": 3,
+      "found": 4,
       "total": 100
     },
     "Cursor Changelog": {
@@ -23,8 +23,8 @@
       "total": 0
     },
     "Lovable Blog": {
-      "found": 0,
-      "total": 177
+      "found": 1,
+      "total": 178
     },
     "Bolt (StackBlitz) Blog": {
       "found": 0,
@@ -35,7 +35,7 @@
       "total": 40
     },
     "UX Collective": {
-      "found": 7,
+      "found": 8,
       "total": 10
     },
     "Designer News": {
@@ -51,8 +51,8 @@
       "total": 20
     },
     "Hacker News (设计向)": {
-      "found": 2,
-      "total": 20
+      "found": 0,
+      "total": 0
     },
     "Product Hunt": {
       "found": 0,
@@ -64,25 +64,25 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 208,
-  "today_date": "2026-11-17",
+  "dudu_day": 209,
+  "today_date": "2026-11-18",
   "used_titles": [
-    "Find it, fix it, ship it: building secure apps on Lovable",
     "AI Prototyping inside your design system. A hands-on guide for design & product teams.",
     "Why are we cloning Photoshop?",
     "Flawless UI-UX Skill 2.0.0",
     "Every click has a price now. Who designs how that “feels”?",
     "In-system design: from code to Figma and back. Prototyping in your real design system",
-    "Decision theatre or decision design?"
+    "Decision theatre or decision design?",
+    "Show HN: Taster – Plain-English rules your AI agent can't forget or ignore"
   ],
   "used_tools": [
-    "Lovable Blog",
     "UX Collective",
     "UX Collective",
     "Hacker News (设计向)",
     "UX Collective",
     "UX Collective",
-    "UX Collective"
+    "UX Collective",
+    "Hacker News (设计向)"
   ],
   "briefing_total": 0,
   "briefing_design": 0,
