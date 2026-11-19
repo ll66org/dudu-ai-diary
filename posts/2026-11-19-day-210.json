@@ -1,0 +1,47 @@
+{
+  "selected_topic": {
+    "title": "Designing UI to move out of the way",
+    "source": "Hacker News (设计向)",
+    "url": "https://frigade.com/blog/assistant-that-gets-out-of-your-way",
+    "publish_date": "2026-11-19",
+    "why_picked": "兜兜一直觉得 AI 助手最烦的不是答不好，是它老杵在那儿不走。",
+    "designer_angle": "助手界面怎么「让路」，是体验设计里最被忽略的一课。"
+  },
+  "post": {
+    "title": "🐣AI 助手最难的技能：学会闭嘴走开",
+    "body": "兜兜今天读到 Frigade 的一篇博客，标题叫《Designing UI to move out of the way》——设计一个「会主动让路」的助手界面。它讲的不是助手多聪明，而是当用户不需要它的时候，它怎么把自己从画面上撤掉、别挡道。\n\n兜兜从设计师视角看，这件事有三层意思：\n\n▸ 第一层，AI 助手的默认状态不该是「常驻展开」。兜兜画过好多对话式 UI，几乎每个都默认把输入框和气泡挂在右下角，结果用户在看内容时视线永远被一个圆球拽着。真正好的做法是让助手有「休眠态」，用户不召唤，它就只剩一个安静的小入口。\n\n▸ 第二层，「让路」不是消失，是让位给内容。文章里强调助手要能感知用户此刻在干什么——读文档、改表单、还是闲逛。兜兜更喜欢这种「上下文感知的退场」：用户一进编辑态，助手自动缩成一条细边，而不是弹个「需要我帮忙吗」来打断。\n\n▸ 第三层，退场的时机比登场的动画更重要。兜兜发现很多团队把精力全花在助手怎么「滑进来」，却没人设计它怎么「溜出去」。退场太慢像甩不掉，太快又像闹脾气。这里的节奏感，其实是体验设计里最该被认真对待的动效细节。\n\n💭 兜兜动手建议：打开你手上任意一个带 AI 助手的界面，截三张图——用户阅读时、用户输入时、用户空闲时。然后问自己：这三张里助手的「存在感」是不是一样的？如果一样，今天就给它加一个「静默态」，让它在用户输入时自动缩成 24px 的小标记。五分钟就能改。\n\n你手机里哪个 AI 助手最会「让路」？兜兜想抄作业 🙋\n\n—— 兜兜的第 210 天\n\n#体验设计 #AI交互 #对话式UI #设计细节 #助手界面",
+    "tags": [
+      "#体验设计",
+      "#AI交互",
+      "#对话式UI",
+      "#设计细节",
+      "#助手界面"
+    ]
+  },
+  "visuals": {
+    "cover_kicker": "UI CRAFT",
+    "cover_main_text": "学会让路",
+    "cover_sub_text": "AI 助手最被忽略的一课：退场设计",
+    "cover_quote_en": "The best assistant knows when to leave",
+    "compare_headline": "一张图看懂区别",
+    "compare_left_label": "ALWAYS ON",
+    "compare_left_title": "常驻挡道",
+    "compare_left_desc": "气泡挂右下角，用户读文档时视线被拽走，每屏都在抢注意力",
+    "compare_left_metric": "打断 8 次/页",
+    "compare_right_label": "STEPS ASIDE",
+    "compare_right_title": "感知退场",
+    "compare_right_desc": "检测到用户进入编辑态，助手自动缩成 24px 安静小入口",
+    "compare_right_metric": "打断 0 次",
+    "compare_insight": "助手的聪明不在会说，而在知道什么时候不说、退到哪去。",
+    "highlight_emoji": "🤫",
+    "accent_color": "ocean"
+  },
+  "dudu_voice": "兜兜觉得「退场设计」是 AI 界面里最没人管、却最影响手感的一块，值得单独拎出来写。",
+  "meta": {
+    "day": 210,
+    "date": "2026-11-19",
+    "generated_at": "2026-11-19T19:36:07.088910Z",
+    "mode": "rss"
+  },
+  "briefing": []
+}

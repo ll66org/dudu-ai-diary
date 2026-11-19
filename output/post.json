@@ -1,47 +1,46 @@
 {
   "selected_topic": {
-    "title": "Two years of Lovable: more people with ideas, more power to act on them",
-    "source": "Lovable Blog",
-    "url": "https://lovable.dev/blog/two-years-of-lovable",
+    "title": "Designing UI to move out of the way",
+    "source": "Hacker News (设计向)",
+    "url": "https://frigade.com/blog/assistant-that-gets-out-of-your-way",
     "publish_date": "2026-11-19",
-    "why_picked": "Lovable 两周年，正好是兜兜能看懂「想法变产品」这件事的年纪",
-    "designer_angle": "当产品生成从「写代码」变成「说想法」，设计师的活儿是定义什么叫「对」"
+    "why_picked": "兜兜一直觉得 AI 助手最烦的不是答不好，是它老杵在那儿不走。",
+    "designer_angle": "助手界面怎么「让路」，是体验设计里最被忽略的一课。"
   },
   "post": {
-    "title": "🐣Lovable两岁了：想法变产品只要几分钟",
-    "body": "兜兜今天刷到 Lovable 的两周年博客，标题是「Two years of Lovable: more people with ideas, more power to act on them」。里面有一句让兜兜停下来看了三遍：更多人有了想法，也有了把想法变成能用的东西的力量。不是演示，不是原型图，是能跑起来的产品。兜兜画了个对比：左边是以前要拉三个人开四次会才能上线的一个小工具，右边是现在一个人在对话框里说清楚需求，几分钟后拿到一个能点的页面。\n\n▸ 第一件事：设计的入口变了。以前兜兜打开 Figma 先画框，现在很多人打开 Lovable 先写一句话。框还是那个框，但决定框长什么样的人，可能压根不画图。\n▸ 第二件事：设计师的价值往「判断」挪。生成十个版本只要一分钟，但哪一版是对的、为什么对，这件事 AI 还说不清。兜兜觉得这才是接下来最贵的能力。\n▸ 第三件事：警惕「能跑就行」。兜兜见过太多生成出来的页面，间距是随手给的，层级是平的，用户点进去三秒就迷路。能跑和好用之间，还隔着一整个体验设计。\n\n💭 兜兜动手建议：今天花 5 分钟，打开 Lovable 或任意一个生成工具，用一句话描述你手上正在做的那个页面，看它生成什么。别改，先截图。然后拿这张截图和你自己的稿子并排贴在一起，只标出三个地方：哪里它比你想得周到，哪里它明显没想，哪里你自己也说不清为什么这么放。这三处就是你接下来要练的地方。\n\n你最近一次「一句话变产品」，生成出来的东西你敢直接给用户用吗？\n\n—— 兜兜的第 209 天\n\n#体验设计 #AI产品 #Lovable #设计工具 #D2C #设计判断力",
+    "title": "🐣AI 助手最难的技能：学会闭嘴走开",
+    "body": "兜兜今天读到 Frigade 的一篇博客，标题叫《Designing UI to move out of the way》——设计一个「会主动让路」的助手界面。它讲的不是助手多聪明，而是当用户不需要它的时候，它怎么把自己从画面上撤掉、别挡道。\n\n兜兜从设计师视角看，这件事有三层意思：\n\n▸ 第一层，AI 助手的默认状态不该是「常驻展开」。兜兜画过好多对话式 UI，几乎每个都默认把输入框和气泡挂在右下角，结果用户在看内容时视线永远被一个圆球拽着。真正好的做法是让助手有「休眠态」，用户不召唤，它就只剩一个安静的小入口。\n\n▸ 第二层，「让路」不是消失，是让位给内容。文章里强调助手要能感知用户此刻在干什么——读文档、改表单、还是闲逛。兜兜更喜欢这种「上下文感知的退场」：用户一进编辑态，助手自动缩成一条细边，而不是弹个「需要我帮忙吗」来打断。\n\n▸ 第三层，退场的时机比登场的动画更重要。兜兜发现很多团队把精力全花在助手怎么「滑进来」，却没人设计它怎么「溜出去」。退场太慢像甩不掉，太快又像闹脾气。这里的节奏感，其实是体验设计里最该被认真对待的动效细节。\n\n💭 兜兜动手建议：打开你手上任意一个带 AI 助手的界面，截三张图——用户阅读时、用户输入时、用户空闲时。然后问自己：这三张里助手的「存在感」是不是一样的？如果一样，今天就给它加一个「静默态」，让它在用户输入时自动缩成 24px 的小标记。五分钟就能改。\n\n你手机里哪个 AI 助手最会「让路」？兜兜想抄作业 🙋\n\n—— 兜兜的第 210 天\n\n#体验设计 #AI交互 #对话式UI #设计细节 #助手界面",
     "tags": [
       "#体验设计",
-      "#AI产品",
-      "#Lovable",
-      "#设计工具",
-      "#D2C",
-      "#设计判断力"
+      "#AI交互",
+      "#对话式UI",
+      "#设计细节",
+      "#助手界面"
     ]
   },
   "visuals": {
-    "cover_kicker": "TOOL UPDATE",
-    "cover_main_text": "想法变产品",
-    "cover_sub_text": "Lovable 两周年，设计师的位置挪了",
-    "cover_quote_en": "More ideas, more power to act",
-    "compare_headline": "一张图看懂变化",
-    "compare_left_label": "BEFORE",
-    "compare_left_title": "三个人开四次会",
-    "compare_left_desc": "设计师画稿、开发搭页面、产品对齐需求，两周上线一个小工具",
-    "compare_left_metric": "耗时 2 周",
-    "compare_right_label": "AFTER",
-    "compare_right_title": "一句话出能点的页",
-    "compare_right_desc": "在 Lovable 里说清需求，几分钟生成可交互页面，一个人就能跑通",
-    "compare_right_metric": "耗时 5 分钟",
-    "compare_insight": "生成变便宜了，判断变贵了——设计师要练的是说清「为什么这样对」",
-    "highlight_emoji": "🐣",
-    "accent_color": "plum"
+    "cover_kicker": "UI CRAFT",
+    "cover_main_text": "学会让路",
+    "cover_sub_text": "AI 助手最被忽略的一课：退场设计",
+    "cover_quote_en": "The best assistant knows when to leave",
+    "compare_headline": "一张图看懂区别",
+    "compare_left_label": "ALWAYS ON",
+    "compare_left_title": "常驻挡道",
+    "compare_left_desc": "气泡挂右下角，用户读文档时视线被拽走，每屏都在抢注意力",
+    "compare_left_metric": "打断 8 次/页",
+    "compare_right_label": "STEPS ASIDE",
+    "compare_right_title": "感知退场",
+    "compare_right_desc": "检测到用户进入编辑态，助手自动缩成 24px 安静小入口",
+    "compare_right_metric": "打断 0 次",
+    "compare_insight": "助手的聪明不在会说，而在知道什么时候不说、退到哪去。",
+    "highlight_emoji": "🤫",
+    "accent_color": "ocean"
   },
-  "dudu_voice": "兜兜觉得这篇最值得写的是那句「more power to act」——力量给到了有想法的人，但「好不好用」这件事还得有人管，那个人最好还是设计师。",
+  "dudu_voice": "兜兜觉得「退场设计」是 AI 界面里最没人管、却最影响手感的一块，值得单独拎出来写。",
   "meta": {
-    "day": 209,
-    "date": "2026-11-18",
-    "generated_at": "2026-11-18T19:33:23.785995Z",
+    "day": 210,
+    "date": "2026-11-19",
+    "generated_at": "2026-11-19T19:36:07.088910Z",
     "mode": "rss"
   },
   "briefing": []

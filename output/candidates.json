@@ -1,48 +1,120 @@
 [
   {
-    "title": "Introducing Vercel X",
-    "summary": "<p>Today we’re launching <a href=\"https://vercel.com/x\">Vercel X</a>, a six-week accelerator for AI founders at the idea and pre-seed stages.</p><p>Join a cohort of 40 teams at our San Francisco HQ and build alongside Vercel’s product leaders, designers, and engineers.</p><p>The program takes no equity for participation and offers access to a program-wide pool of more than $9M in credits from Vercel, AWS, Anthropic, OpenAI, and other partners.</p><p>Applications are now open through November 29,",
-    "url": "https://vercel.com/blog/vercel-x",
+    "title": "Designing UI to move out of the way",
+    "summary": "<p>Article URL: <a href=\"https://frigade.com/blog/assistant-that-gets-out-of-your-way\">https://frigade.com/blog/assistant-that-gets-out-of-your-way</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50564592\">https://news.ycombinator.com/item?id=50564592</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://frigade.com/blog/assistant-that-gets-out-of-your-way",
+    "published": "Thu, 19 Nov 2026 19:00:50 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Show HN: Relic – An AI that only answers from what you've saved",
+    "summary": "<p>Hi HN, I’m Imran, one of 3 founders building Relic AI<p>We started building Relic because we constantly experienced the problem of saving a lot of resources online such as websites, PDFs, Youtube videos and podcasts, but when we actually needed any of them, we couldn’t find them because they were burried in various places.<p>We were saving stuff in open tabs, bookmarks, watch later lists and folders. But retrieving them when it mattered was a real problem for us. We spent a lot of time diggin",
+    "url": "https://relic-app.com",
+    "published": "Thu, 19 Nov 2026 18:53:31 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Show HN: Lintsure – Free local code check with rules from OWASP, EU AI Act",
+    "summary": "<p>Hi all,<p>Built this because it seemed cool, let me know what you think, anyone that can help me improve it, please reach out here in the comments or via the email placed on the website. It is open-source, its created with help of claude code ofcourse, mapped the rules with what was available publicly to read. I am in the Quality Assurance and Compliance world for 10 years now and found this as interesting side job to build. I am constantly updating it and giving it more strict approach on ho",
+    "url": "https://github.com/lintsure/lintsure",
+    "published": "Thu, 19 Nov 2026 18:50:47 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Design for Understandability",
+    "summary": "<p>Article URL: <a href=\"https://jschuster.org/blog/2026/11/19/design-for-understandability/\">https://jschuster.org/blog/2026/11/19/design-for-understandability/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50564381\">https://news.ycombinator.com/item?id=50564381</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "url": "https://jschuster.org/blog/2026/11/19/design-for-understandability/",
+    "published": "Thu, 19 Nov 2026 18:48:31 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "We asked 29 people building US data centers when AI capacity will arrive",
+    "summary": "<p>Article URL: <a href=\"https://www.latolabs.io/studies/ear-to-the-ground/\">https://www.latolabs.io/studies/ear-to-the-ground/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50564186\">https://news.ycombinator.com/item?id=50564186</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://www.latolabs.io/studies/ear-to-the-ground/",
+    "published": "Thu, 19 Nov 2026 18:36:35 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Agents don't need a new UI language. They need to reuse their knowledge",
+    "summary": "<p>Article URL: <a href=\"https://geastack.com/blog-typescript-is-enough\">https://geastack.com/blog-typescript-is-enough</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50563747\">https://news.ycombinator.com/item?id=50563747</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://geastack.com/blog-typescript-is-enough",
+    "published": "Thu, 19 Nov 2026 18:13:15 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Show HN: Design Engineering as a Service",
+    "summary": "<p>Article URL: <a href=\"https://www.designshippers.com/?deng\">https://www.designshippers.com/?deng</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50563731\">https://news.ycombinator.com/item?id=50563731</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://www.designshippers.com/?deng",
+    "published": "Thu, 19 Nov 2026 18:12:25 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Nuko",
+    "summary": "<p>\n            Motion design in your browser\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/nuko?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1322401?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/nuko",
+    "published": "2026-11-18T19:34:35-08:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Play That Back",
+    "summary": "<p>\n            A pro camera built for iPhone Duo\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/play-that-back?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1322260?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/play-that-back",
+    "published": "2026-11-18T15:42:14-08:00",
+    "source": "Product Hunt",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Vercel Billing CLI is now available",
+    "summary": "<p>You can now check your team’s billing overview, review and download invoices, and preview upcoming charges with the <a href=\"https://vercel.com/docs/cli/billing\">Vercel CLI</a>. All billing commands, including usage, contracts, and budgets, are now grouped under <code>vercel billing</code>.</p><p>Billing overview and invoice history are available on all plans, subject to your team’s existing billing permissions. Upcoming invoice estimates require an active paid subscription.</p><h3>Billing ov",
+    "url": "https://vercel.com/changelog/vercel-billing-cli-is-now-available",
     "published": "",
     "source": "Vercel Blog (v0)",
     "source_weight": "high",
     "category": "design_tools"
   },
   {
-    "title": "Vercel Drives now reads files up to 6x faster",
-    "summary": "<p><a href=\"https://vercel.com/docs/sandbox/concepts/drives\">Vercel Drives</a> now reads files up to 6x faster.</p><p>The update improves cold-read performance. A new read-ahead algorithm uses your application’s access patterns to load data from persistent storage before it’s needed, reducing the time your code spends waiting.</p><p>All drives get this update automatically, with no SDK upgrade or configuration changes required. Read pricing is unchanged.</p><p>Learn more in the <a href=\"https://",
-    "url": "https://vercel.com/changelog/vercel-drives-now-reads-files-up-to-6x-faster",
+    "title": "Liquid AI's d1.2 and d1.2-ultra are now available on AI Gateway",
+    "summary": "<p><a href=\"https://vercel.com/ai-gateway/models/d1.2\">Liquid AI’s d1.2</a> and <a href=\"https://vercel.com/ai-gateway/models/d1.2-ultra\">d1.2-ultra</a> are now available on AI Gateway with audio input and bounding box support.</p><p>These decision models return structured answers instead of generating text. Ask Boolean questions for yes/no probabilities, Choice questions to select a category, or Score questions to rate an input against a rubric. Multiple questions can share the same input in on",
+    "url": "https://vercel.com/changelog/liquid-ais-d1-2-and-d1-2-ultra-are-now-available-on-ai-gateway",
     "published": "",
     "source": "Vercel Blog (v0)",
     "source_weight": "high",
     "category": "design_tools"
   },
   {
-    "title": "Single-second static deployments now support more assets",
-    "summary": "<p><a href=\"https://vercel.com/changelog/sub-second-artifact-deployments-are-now-supported-in-vercel-cli\">Instant deployments</a> let you deploy eligible static sites to Vercel in about a second, without a build step. They now support CSS, images, fonts, and other assets alongside HTML and Markdown.</p><p>Deploy a landing page with its stylesheet and images, or a report created by your coding agent, through the <a href=\"https://vercel.com/docs/cli/deploy\">Vercel CLI</a> or <a href=\"https://verce",
-    "url": "https://vercel.com/changelog/single-second-static-deployments-now-support-more-assets",
-    "published": "",
-    "source": "Vercel Blog (v0)",
-    "source_weight": "high",
-    "category": "design_tools"
-  },
-  {
-    "title": "Standard builds move to usage-based billing for new teams",
-    "summary": "<p>Starting today, new Pro and Enterprise teams no longer include a Standard build slot. This brings Standard builds under the same usage-based billing model as other build machines. </p><p>On Pro, Standard builds cost $0.014 per build minute, and your monthly usage credit applies to build usage. Enterprise rates follow your contract. Standard builds remain billable after switching from Elastic to Standard for teams covered by this change.</p><p>Select a build machine in <a href=\"https://vercel.",
-    "url": "https://vercel.com/changelog/standard-build-billing-new-teams",
-    "published": "",
-    "source": "Vercel Blog (v0)",
-    "source_weight": "high",
-    "category": "design_tools"
-  },
-  {
-    "title": "Two years of Lovable: more people with ideas, more power to act on them",
-    "summary": "New research, customer stories, and perspectives on how people are creating businesses, changing companies, and shaping the future with Lovable.",
-    "url": "https://lovable.dev/blog/two-years-of-lovable",
-    "published": "Wed, 18 Nov 2026 10:00:00 GMT",
-    "source": "Lovable Blog",
+    "title": "If AI works from anywhere, why are we commuting to watch it?",
+    "summary": "<figure><img alt=\"A large open-plan office full of people at desks, each wearing headphones and facing their own screen, none of them interacting.\" src=\"https://cdn-images-1.medium.com/max/1024/1*F37au71Pq2XfgrOldFF-tg.jpeg\" /><figcaption>The collaboration they promised, in practice.</figcaption></figure><h4>Companies say it’s about collaboration. That’s garbage. The reality is a room full of people in headphones, doing alone what they could’ve done at home.</h4><figure><img alt=\"LinkedIn screen",
+    "url": "https://uxdesign.cc/if-ai-works-from-anywhere-why-are-we-commuting-to-watch-it-f903012aaa86?source=rss----138adf9c44c---4",
+    "published": "Wed, 18 Nov 2026 20:17:39 GMT",
+    "source": "UX Collective",
     "source_weight": "medium",
-    "category": "design_tools"
+    "category": "design_communities"
+  },
+  {
+    "title": "Too Claudified",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/too-claudified-9af067298b2a?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/600/0*k5uI3X8C4vFS2_ZB.jpg\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">A client rejected my motion work for looking machine-made. I&#x2019;d published the diagnosis five months earlier.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/too-claudified-9af067298b2a?source=rss----138adf9c4",
+    "url": "https://uxdesign.cc/too-claudified-9af067298b2a?source=rss----138adf9c44c---4",
+    "published": "Wed, 18 Nov 2026 20:17:05 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
   },
   {
     "title": "What is a researcher’s worth?",
@@ -81,6 +153,15 @@
     "category": "design_communities"
   },
   {
+    "title": "Send the Firefighters to the Fires",
+    "summary": "<h3>Send the firefighters to the fires</h3><h4><em>Enterprise software keeps forgetting a century of good advice about what deserves our attention.</em></h4><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/960/0*N3mJxsVmRdHoUFHX\" /><figcaption>House fire in New Zealand neighborhood</figcaption></figure><p>If a user’s job is to fix what’s broken, the screen should show what’s broken first. Sounds pretty obvious. It’s also not new. Frederick Taylor argued for it in 1903. Xerox PARC des",
+    "url": "https://uxdesign.cc/send-the-firefighters-to-the-fires-6cd7b1893ae7?source=rss----138adf9c44c---4",
+    "published": "Thu, 19 Nov 2026 12:54:05 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
     "title": "Why bother paying for software anymore?",
     "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/why-bother-paying-for-software-anymore-e1f76093f772?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1600/1*TV7xQSMxyAg-Mgkm4Fat5g.png\" width=\"1600\" /></a></p><p class=\"medium-feed-snippet\">And why design is the answer AI bros didn&#x2019;t expect.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/why-bother-paying-for-software-anymore-e1f76093f772?source=rss----138adf9c4",
     "url": "https://uxdesign.cc/why-bother-paying-for-software-anymore-e1f76093f772?source=rss----138adf9c44c---4",
@@ -105,33 +186,6 @@
     "published": "Mon, 16 Nov 2026 12:16:15 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "The crooked plate that felt more human than the algorithm",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-crooked-plate-that-felt-more-human-than-the-algorithm-40bb4e5da147?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/710/0*fYWy32dkzlchhe4g\" width=\"710\" /></a></p><p class=\"medium-feed-snippet\">We have spent years teaching machines to be flawless. Now the flawlessness is beginning to feel like a kind of absence.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/the-cro",
-    "url": "https://uxdesign.cc/the-crooked-plate-that-felt-more-human-than-the-algorithm-40bb4e5da147?source=rss----138adf9c44c---4",
-    "published": "Fri, 13 Nov 2026 10:58:22 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "AI is the new old design material",
-    "summary": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*JuPAwnD1n1gK7HhzzrR1Yw.png\" /><figcaption>A long workbench where hand tools, a stack of paper, and an open laptop share the same surface.</figcaption></figure><h4>Creative makers and builders have always learned their medium by working with it, from grinding pigments to HTML. Models are the next material, and you need to learn them by building.</h4><p>The field keeps arguing about whether designers should code, as if that questi",
-    "url": "https://uxdesign.cc/ai-is-the-new-old-design-material-0e7f83540c9a?source=rss----138adf9c44c---4",
-    "published": "Fri, 13 Nov 2026 02:33:09 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Beyond 12 Columns: Designing Layouts With Personality",
-    "summary": "<p>Too many websites look alike. They use familiar layouts, repeat the same patterns, and often leave little impression once you’ve moved on. Andy Clarke explores how understanding a company’s story can lead to more distinctive designs, using modular and compound grids to create layouts with character.</p>\n<hr />\n<p><small><a href=\"https://css-tricks.com/beyond-12-columns/\" rel=\"nofollow\">Beyond 12 Columns: Designing Layouts With Personality</a> originally handwritten and published with love on ",
-    "url": "https://css-tricks.com/beyond-12-columns/",
-    "published": "Thu, 12 Nov 2026 16:06:55 +0000",
-    "source": "CSS-Tricks",
-    "source_weight": "low",
     "category": "design_communities"
   }
 ]

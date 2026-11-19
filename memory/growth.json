@@ -1,5 +1,5 @@
 {
-  "day_count": 209,
+  "day_count": 210,
   "history": [
     {
       "day": 20,
@@ -1273,6 +1273,13 @@
       "date": "2026-11-18",
       "topic": "Two years of Lovable: more people with ideas, more power to act on them",
       "source": "Lovable Blog",
+      "mode": "rss"
+    },
+    {
+      "day": 210,
+      "date": "2026-11-19",
+      "topic": "Designing UI to move out of the way",
+      "source": "Hacker News (设计向)",
       "mode": "rss"
     }
   ],
