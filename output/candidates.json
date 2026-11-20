@@ -1,98 +1,26 @@
 [
   {
-    "title": "Designing UI to move out of the way",
-    "summary": "<p>Article URL: <a href=\"https://frigade.com/blog/assistant-that-gets-out-of-your-way\">https://frigade.com/blog/assistant-that-gets-out-of-your-way</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50564592\">https://news.ycombinator.com/item?id=50564592</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://frigade.com/blog/assistant-that-gets-out-of-your-way",
-    "published": "Thu, 19 Nov 2026 19:00:50 +0000",
+    "title": "Isolated Linux workstations for autonomous AI agents",
+    "summary": "<p>Article URL: <a href=\"https://github.com/Sanne/incus-spawn\">https://github.com/Sanne/incus-spawn</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50580089\">https://news.ycombinator.com/item?id=50580089</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://github.com/Sanne/incus-spawn",
+    "published": "Fri, 20 Nov 2026 19:04:23 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Show HN: Relic – An AI that only answers from what you've saved",
-    "summary": "<p>Hi HN, I’m Imran, one of 3 founders building Relic AI<p>We started building Relic because we constantly experienced the problem of saving a lot of resources online such as websites, PDFs, Youtube videos and podcasts, but when we actually needed any of them, we couldn’t find them because they were burried in various places.<p>We were saving stuff in open tabs, bookmarks, watch later lists and folders. But retrieving them when it mattered was a real problem for us. We spent a lot of time diggin",
-    "url": "https://relic-app.com",
-    "published": "Thu, 19 Nov 2026 18:53:31 +0000",
+    "title": "Aura v0.2.0: Turning AI Anti-Fraud into a Deterministic Engine",
+    "summary": "<p>Article URL: <a href=\"https://medium.com/@kate8382/aura-v0-2-0-turning-an-ai-anti-fraud-idea-into-a-real-engine-without-losing-my-mind-2e3e2022219d\">https://medium.com/@kate8382/aura-v0-2-0-turning-an-ai-anti-fraud-idea-into-a-real-engine-without-losing-my-mind-2e3e2022219d</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50579604\">https://news.ycombinator.com/item?id=50579604</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://medium.com/@kate8382/aura-v0-2-0-turning-an-ai-anti-fraud-idea-into-a-real-engine-without-losing-my-mind-2e3e2022219d",
+    "published": "Fri, 20 Nov 2026 18:35:22 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Show HN: Lintsure – Free local code check with rules from OWASP, EU AI Act",
-    "summary": "<p>Hi all,<p>Built this because it seemed cool, let me know what you think, anyone that can help me improve it, please reach out here in the comments or via the email placed on the website. It is open-source, its created with help of claude code ofcourse, mapped the rules with what was available publicly to read. I am in the Quality Assurance and Compliance world for 10 years now and found this as interesting side job to build. I am constantly updating it and giving it more strict approach on ho",
-    "url": "https://github.com/lintsure/lintsure",
-    "published": "Thu, 19 Nov 2026 18:50:47 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Design for Understandability",
-    "summary": "<p>Article URL: <a href=\"https://jschuster.org/blog/2026/11/19/design-for-understandability/\">https://jschuster.org/blog/2026/11/19/design-for-understandability/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50564381\">https://news.ycombinator.com/item?id=50564381</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
-    "url": "https://jschuster.org/blog/2026/11/19/design-for-understandability/",
-    "published": "Thu, 19 Nov 2026 18:48:31 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "We asked 29 people building US data centers when AI capacity will arrive",
-    "summary": "<p>Article URL: <a href=\"https://www.latolabs.io/studies/ear-to-the-ground/\">https://www.latolabs.io/studies/ear-to-the-ground/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50564186\">https://news.ycombinator.com/item?id=50564186</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://www.latolabs.io/studies/ear-to-the-ground/",
-    "published": "Thu, 19 Nov 2026 18:36:35 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Agents don't need a new UI language. They need to reuse their knowledge",
-    "summary": "<p>Article URL: <a href=\"https://geastack.com/blog-typescript-is-enough\">https://geastack.com/blog-typescript-is-enough</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50563747\">https://news.ycombinator.com/item?id=50563747</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://geastack.com/blog-typescript-is-enough",
-    "published": "Thu, 19 Nov 2026 18:13:15 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Show HN: Design Engineering as a Service",
-    "summary": "<p>Article URL: <a href=\"https://www.designshippers.com/?deng\">https://www.designshippers.com/?deng</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50563731\">https://news.ycombinator.com/item?id=50563731</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://www.designshippers.com/?deng",
-    "published": "Thu, 19 Nov 2026 18:12:25 +0000",
-    "source": "Hacker News (设计向)",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Nuko",
-    "summary": "<p>\n            Motion design in your browser\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/nuko?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1322401?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/nuko",
-    "published": "2026-11-18T19:34:35-08:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Play That Back",
-    "summary": "<p>\n            A pro camera built for iPhone Duo\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/play-that-back?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1322260?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/play-that-back",
-    "published": "2026-11-18T15:42:14-08:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Vercel Billing CLI is now available",
-    "summary": "<p>You can now check your team’s billing overview, review and download invoices, and preview upcoming charges with the <a href=\"https://vercel.com/docs/cli/billing\">Vercel CLI</a>. All billing commands, including usage, contracts, and budgets, are now grouped under <code>vercel billing</code>.</p><p>Billing overview and invoice history are available on all plans, subject to your team’s existing billing permissions. Upcoming invoice estimates require an active paid subscription.</p><h3>Billing ov",
-    "url": "https://vercel.com/changelog/vercel-billing-cli-is-now-available",
-    "published": "",
-    "source": "Vercel Blog (v0)",
-    "source_weight": "high",
-    "category": "design_tools"
-  },
-  {
-    "title": "Liquid AI's d1.2 and d1.2-ultra are now available on AI Gateway",
-    "summary": "<p><a href=\"https://vercel.com/ai-gateway/models/d1.2\">Liquid AI’s d1.2</a> and <a href=\"https://vercel.com/ai-gateway/models/d1.2-ultra\">d1.2-ultra</a> are now available on AI Gateway with audio input and bounding box support.</p><p>These decision models return structured answers instead of generating text. Ask Boolean questions for yes/no probabilities, Choice questions to select a category, or Score questions to rate an input against a rubric. Multiple questions can share the same input in on",
-    "url": "https://vercel.com/changelog/liquid-ais-d1-2-and-d1-2-ultra-are-now-available-on-ai-gateway",
+    "title": "Vercel completes ISO/IEC 42001:2023 certification",
+    "summary": "<p>Vercel has completed its ISO/IEC 42001:2023 certification, meeting the international standard for AI management systems.</p><p>This certification gives our customers confidence to ship fast with agents on Vercel, demonstrating how Vercel designs, builds, operates, and governs our AI products.</p><p>Our AI management system covers Vercel’s underlying infrastructure and core AI products, including AI Gateway, Vercel Agent, v0, AI-based open source software and frameworks, as well as the people ",
+    "url": "https://vercel.com/blog/vercel-completes-iso-iec-42001-2023-certification",
     "published": "",
     "source": "Vercel Blog (v0)",
     "source_weight": "high",
@@ -153,6 +81,15 @@
     "category": "design_communities"
   },
   {
+    "title": "Everyone’s got the tools. Not everyone’s got the tricks.",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/everyones-got-the-tools-not-everyone-s-got-the-tricks-986a5c154924?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2500/1*eRA1FOgoBk7_ahrimD3yBA.jpeg\" width=\"2500\" /></a></p><p class=\"medium-feed-snippet\">What skateboarding history can remind designers about tools, repertoire and improvisation.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/everyones-got-the-tools-not",
+    "url": "https://uxdesign.cc/everyones-got-the-tools-not-everyone-s-got-the-tricks-986a5c154924?source=rss----138adf9c44c---4",
+    "published": "Thu, 19 Nov 2026 21:36:22 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
     "title": "Send the Firefighters to the Fires",
     "summary": "<h3>Send the firefighters to the fires</h3><h4><em>Enterprise software keeps forgetting a century of good advice about what deserves our attention.</em></h4><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/960/0*N3mJxsVmRdHoUFHX\" /><figcaption>House fire in New Zealand neighborhood</figcaption></figure><p>If a user’s job is to fix what’s broken, the screen should show what’s broken first. Sounds pretty obvious. It’s also not new. Frederick Taylor argued for it in 1903. Xerox PARC des",
     "url": "https://uxdesign.cc/send-the-firefighters-to-the-fires-6cd7b1893ae7?source=rss----138adf9c44c---4",
@@ -186,6 +123,24 @@
     "published": "Mon, 16 Nov 2026 12:16:15 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Your ideas are in store at Lovable’s App Studio, opening soon in Atlanta",
+    "summary": "On December 2, Lovable App Studio opens for one day at Ponce City Market in Atlanta. Turn your idea into a working app with a Lovable expert, free and open to the public.",
+    "url": "https://lovable.dev/blog/lovable-app-studio-atlanta",
+    "published": "Fri, 20 Nov 2026 11:00:00 GMT",
+    "source": "Lovable Blog",
+    "source_weight": "medium",
+    "category": "design_tools"
+  },
+  {
+    "title": "Andy Clarke answers six questions about Standout Designs for the Web",
+    "summary": "<p class=\"wp-block-paragraph\">Web designer, author, and <a href=\"https://stuffandnonsense.co.uk\" rel=\"nofollow noopener\">Stuff &#38; Nonsense</a> founder Andy Clarke has released <em><a href=\"https://css-tricks.com/product/standout-web-design-for-the-web/\">Standout Designs for the Web</a></em>, a new e-book that encourages designers to move beyond familiar templates and conventional layouts to create more personality-driven websites.</p>\n<p class=\"wp-block-paragraph\">The book draws &#8230;</p>\n<",
+    "url": "https://css-tricks.com/andy-clarke-standout-designs-for-the-web-interview/",
+    "published": "Fri, 20 Nov 2026 15:03:47 +0000",
+    "source": "CSS-Tricks",
+    "source_weight": "low",
     "category": "design_communities"
   }
 ]

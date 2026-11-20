@@ -1,5 +1,5 @@
 {
-  "day_count": 210,
+  "day_count": 211,
   "history": [
     {
       "day": 20,
@@ -1280,6 +1280,13 @@
       "date": "2026-11-19",
       "topic": "Designing UI to move out of the way",
       "source": "Hacker News (设计向)",
+      "mode": "rss"
+    },
+    {
+      "day": 211,
+      "date": "2026-11-20",
+      "topic": "If AI works from anywhere, why are we commuting to watch it?",
+      "source": "UX Collective",
       "mode": "rss"
     }
   ],
