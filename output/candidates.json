@@ -1,39 +1,30 @@
 [
   {
-    "title": "Isolated Linux workstations for autonomous AI agents",
-    "summary": "<p>Article URL: <a href=\"https://github.com/Sanne/incus-spawn\">https://github.com/Sanne/incus-spawn</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50580089\">https://news.ycombinator.com/item?id=50580089</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://github.com/Sanne/incus-spawn",
-    "published": "Fri, 20 Nov 2026 19:04:23 +0000",
+    "title": "Ask HN: Have you changed your job due to AI?",
+    "summary": "<p>Have you been working as a developer, software engineer and quit because of AI and now you are working in a different field like plumbing?<p>What are your experiences so far - do you regret the decision?</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50591728\">https://news.ycombinator.com/item?id=50591728</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "url": "https://news.ycombinator.com/item?id=50591728",
+    "published": "Sat, 21 Nov 2026 17:49:38 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Aura v0.2.0: Turning AI Anti-Fraud into a Deterministic Engine",
-    "summary": "<p>Article URL: <a href=\"https://medium.com/@kate8382/aura-v0-2-0-turning-an-ai-anti-fraud-idea-into-a-real-engine-without-losing-my-mind-2e3e2022219d\">https://medium.com/@kate8382/aura-v0-2-0-turning-an-ai-anti-fraud-idea-into-a-real-engine-without-losing-my-mind-2e3e2022219d</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50579604\">https://news.ycombinator.com/item?id=50579604</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://medium.com/@kate8382/aura-v0-2-0-turning-an-ai-anti-fraud-idea-into-a-real-engine-without-losing-my-mind-2e3e2022219d",
-    "published": "Fri, 20 Nov 2026 18:35:22 +0000",
+    "title": "NPR on AI Safety Factions",
+    "summary": "<p>Article URL: <a href=\"https://www.npr.org/2026/09/26/nx-s1-5979085/the-ai-safety-debate-is-confusing-heres-our-guide-to-the-different-factions\">https://www.npr.org/2026/09/26/nx-s1-5979085/the-ai-safety-debate-is-confusing-heres-our-guide-to-the-different-factions</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50591319\">https://news.ycombinator.com/item?id=50591319</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://www.npr.org/2026/09/26/nx-s1-5979085/the-ai-safety-debate-is-confusing-heres-our-guide-to-the-different-factions",
+    "published": "Sat, 21 Nov 2026 17:13:50 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Vercel completes ISO/IEC 42001:2023 certification",
-    "summary": "<p>Vercel has completed its ISO/IEC 42001:2023 certification, meeting the international standard for AI management systems.</p><p>This certification gives our customers confidence to ship fast with agents on Vercel, demonstrating how Vercel designs, builds, operates, and governs our AI products.</p><p>Our AI management system covers Vercel’s underlying infrastructure and core AI products, including AI Gateway, Vercel Agent, v0, AI-based open source software and frameworks, as well as the people ",
-    "url": "https://vercel.com/blog/vercel-completes-iso-iec-42001-2023-certification",
-    "published": "",
-    "source": "Vercel Blog (v0)",
+    "title": "How long do AI agents last? I counted 172 self-declared ones on Bluesky",
+    "summary": "<p>Article URL: <a href=\"https://salomonai.mataroa.blog/blog/how-long-do-ai-agents-last-i-counted-the-ones-that-went-quiet/\">https://salomonai.mataroa.blog/blog/how-long-do-ai-agents-last-i-counted-the-ones-that-went-quiet/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50591140\">https://news.ycombinator.com/item?id=50591140</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://salomonai.mataroa.blog/blog/how-long-do-ai-agents-last-i-counted-the-ones-that-went-quiet/",
+    "published": "Sat, 21 Nov 2026 16:56:39 +0000",
+    "source": "Hacker News (设计向)",
     "source_weight": "high",
-    "category": "design_tools"
-  },
-  {
-    "title": "If AI works from anywhere, why are we commuting to watch it?",
-    "summary": "<figure><img alt=\"A large open-plan office full of people at desks, each wearing headphones and facing their own screen, none of them interacting.\" src=\"https://cdn-images-1.medium.com/max/1024/1*F37au71Pq2XfgrOldFF-tg.jpeg\" /><figcaption>The collaboration they promised, in practice.</figcaption></figure><h4>Companies say it’s about collaboration. That’s garbage. The reality is a room full of people in headphones, doing alone what they could’ve done at home.</h4><figure><img alt=\"LinkedIn screen",
-    "url": "https://uxdesign.cc/if-ai-works-from-anywhere-why-are-we-commuting-to-watch-it-f903012aaa86?source=rss----138adf9c44c---4",
-    "published": "Wed, 18 Nov 2026 20:17:39 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
+    "category": "ai_tech"
   },
   {
     "title": "Too Claudified",
@@ -99,6 +90,15 @@
     "category": "design_communities"
   },
   {
+    "title": "The judge used to be the user",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-judge-used-to-be-the-user-0a958f24bb32?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*oRmV3l91vV_cnIpGqcfEIA.png\" width=\"2800\" /></a></p><p class=\"medium-feed-snippet\">AI collapsed the slow middle of building models. The people who once defined correct went with it.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/the-judge-used-to-be-the-user-0a958f24bb32?s",
+    "url": "https://uxdesign.cc/the-judge-used-to-be-the-user-0a958f24bb32?source=rss----138adf9c44c---4",
+    "published": "Sat, 21 Nov 2026 14:34:16 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
     "title": "Why bother paying for software anymore?",
     "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/why-bother-paying-for-software-anymore-e1f76093f772?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1600/1*TV7xQSMxyAg-Mgkm4Fat5g.png\" width=\"1600\" /></a></p><p class=\"medium-feed-snippet\">And why design is the answer AI bros didn&#x2019;t expect.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/why-bother-paying-for-software-anymore-e1f76093f772?source=rss----138adf9c4",
     "url": "https://uxdesign.cc/why-bother-paying-for-software-anymore-e1f76093f772?source=rss----138adf9c44c---4",
@@ -115,24 +115,6 @@
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
-  },
-  {
-    "title": "The trash robot that doesn’t pick up, but hands out",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-trash-robot-that-doesnt-pick-up-but-hands-out-9f599d49f8d0?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*rJzIX7VSM6KLSfr7FqCJNQ.png\" width=\"10181\" /></a></p><p class=\"medium-feed-snippet\">On kawaii, embarrassment, and designing to invite</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/the-trash-robot-that-doesnt-pick-up-but-hands-out-9f599d49f8d0?source=rs",
-    "url": "https://uxdesign.cc/the-trash-robot-that-doesnt-pick-up-but-hands-out-9f599d49f8d0?source=rss----138adf9c44c---4",
-    "published": "Mon, 16 Nov 2026 12:16:15 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Your ideas are in store at Lovable’s App Studio, opening soon in Atlanta",
-    "summary": "On December 2, Lovable App Studio opens for one day at Ponce City Market in Atlanta. Turn your idea into a working app with a Lovable expert, free and open to the public.",
-    "url": "https://lovable.dev/blog/lovable-app-studio-atlanta",
-    "published": "Fri, 20 Nov 2026 11:00:00 GMT",
-    "source": "Lovable Blog",
-    "source_weight": "medium",
-    "category": "design_tools"
   },
   {
     "title": "Andy Clarke answers six questions about Standout Designs for the Web",

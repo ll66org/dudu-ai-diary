@@ -1,5 +1,5 @@
 {
-  "day_count": 211,
+  "day_count": 212,
   "history": [
     {
       "day": 20,
@@ -1286,6 +1286,13 @@
       "day": 211,
       "date": "2026-11-20",
       "topic": "If AI works from anywhere, why are we commuting to watch it?",
+      "source": "UX Collective",
+      "mode": "rss"
+    },
+    {
+      "day": 212,
+      "date": "2026-11-21",
+      "topic": "Everyone knows sparkles mean AI. Use them to make design audits easier",
       "source": "UX Collective",
       "mode": "rss"
     }

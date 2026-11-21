@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-11-20T19:13:56.575634Z",
-  "total_candidates": 16,
+  "fetched_at": "2026-11-21T18:09:40.949933Z",
+  "total_candidates": 14,
   "source_stats": {
     "Figma Blog": {
       "found": 0,
       "total": 0
     },
     "Vercel Blog (v0)": {
-      "found": 1,
+      "found": 0,
       "total": 100
     },
     "Cursor Changelog": {
@@ -23,7 +23,7 @@
       "total": 0
     },
     "Lovable Blog": {
-      "found": 1,
+      "found": 0,
       "total": 179
     },
     "Bolt (StackBlitz) Blog": {
@@ -51,7 +51,7 @@
       "total": 20
     },
     "Hacker News (设计向)": {
-      "found": 2,
+      "found": 3,
       "total": 20
     },
     "Product Hunt": {
@@ -64,25 +64,25 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 211,
-  "today_date": "2026-11-20",
+  "dudu_day": 212,
+  "today_date": "2026-11-21",
   "used_titles": [
-    "Flawless UI-UX Skill 2.0.0",
     "Every click has a price now. Who designs how that “feels”?",
     "In-system design: from code to Figma and back. Prototyping in your real design system",
     "Decision theatre or decision design?",
     "Show HN: Taster – Plain-English rules your AI agent can't forget or ignore",
     "Two years of Lovable: more people with ideas, more power to act on them",
-    "Designing UI to move out of the way"
+    "Designing UI to move out of the way",
+    "If AI works from anywhere, why are we commuting to watch it?"
   ],
   "used_tools": [
-    "Hacker News (设计向)",
     "UX Collective",
     "UX Collective",
     "UX Collective",
     "Hacker News (设计向)",
     "Lovable Blog",
-    "Hacker News (设计向)"
+    "Hacker News (设计向)",
+    "UX Collective"
   ],
   "briefing_total": 0,
   "briefing_design": 0,
