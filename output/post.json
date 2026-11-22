@@ -1,47 +1,47 @@
 {
   "selected_topic": {
-    "title": "Everyone knows sparkles mean AI. Use them to make design audits easier",
-    "source": "UX Collective",
-    "url": "https://uxdesign.cc/everyone-knows-sparkles-mean-ai-use-them-to-make-design-audits-easier-bdacc76cef11?source=rss----138adf9c44c---4",
-    "publish_date": "2026-11-21",
-    "why_picked": "✨ 这个符号已经被大家默认等于 AI，兜兜想知道能不能反过来用它当审计工具",
-    "designer_angle": "从'AI 标识'变成'审计标记'，是把一个视觉约定转成工作流工具"
+    "title": "AI Sped Up The Build: How Can Accessibility Testing Keep Up?",
+    "source": "Smashing Magazine",
+    "url": "https://smashingmagazine.com/2026/11/ai-sped-up-build-how-can-accessibility-testing-keep-up/",
+    "publish_date": "2026-11",
+    "why_picked": "大家都在吹 AI 写前端快，没人管快出来的东西屏幕阅读器读不读得懂。",
+    "designer_angle": "AI 把交付速度拉满，但无障碍 QA 没跟上，设计师要提前把 a11y 塞进 AI 工作流里。"
   },
   "post": {
-    "title": "🐣 把 ✨ 当审计笔用，兜兜试完有点上头",
-    "body": "今天刷到 UX Collective 这篇《Everyone knows sparkles mean AI》，作者说：既然全世界都默认 ✨ = AI，那就别浪费这个共识——把它当成设计审计里的「AI 介入标记」，直接标在稿子上，谁改的、哪一步是机器出的、哪块还得人来定，一眼分得清。\n\n兜兜看完立刻打开 Figma 试了一下，说几个设计师视角的观察：\n\n▸ 这其实是把「符号」当「流程元件」用。以前 ✨ 只是装饰，现在它变成一个状态标签（AI-generated / AI-assisted / human-only），等于给设计稿加了一层看不见的 git blame。\n▸ 对评审特别友好。兜兜画了个对比：左边是纯人工稿，右边是 AI 参与过的稿，评审时最怕问「这块为什么长这样」，有了 ✨ 标记，讨论直接跳到「要不要保留」而不是「这是谁做的」。\n▸ 但兜兜有个警惕：✨ 用多了会变成视觉噪音。一个页面标十几个 sparkles，眼睛真的会累——它应该像批注一样克制，只在关键决策点出现。\n\n💭 兜兜动手建议：现在就打开你最近一版稿子，用 Figma 的批注功能（快捷键 C）在三个地方打上 ✨：AI 生成的文案、AI 调的间距、AI 出的配色。5 分钟，你就能看清自己到底把多少决策交出去了。\n\n你们团队现在会在稿子上标「哪块是 AI 做的」吗？兜兜很好奇大家是觉得清晰还是觉得多余 🐣\n\n—— 兜兜的第 212 天\n\n#设计审计 #Figma技巧 #AI设计工作流 #UXCollective #设计师日常 #体验设计",
+    "title": "🐣AI 3 分钟出页面，无障碍 QA 还在用眼睛看",
+    "body": "兜兜今天在 Smashing Magazine 读到一篇，标题直接把兜兜问住了——《AI Sped Up The Build: How Can Accessibility Testing Keep Up?》。作者 Andrew Chung 拿新研究说话：AI 让设计和开发的速度翻了倍，但质量保证（QA）这一环几乎没跟上，结果是「网页可能正在变得更不可访问」。不是危言耸听，是速度差拉出来的坑。\n\n兜兜从设计师视角看，有三件事很扎心：\n▸ AI 生成组件时，它默认给你「看起来对」的 DOM——div 套 div、图标没有 aria-label、按钮是 span 加 onClick。视觉上 100 分，屏幕阅读器里 0 分。\n▸ 以前 a11y 检查是交付前的一道人工关卡，现在 AI 让「交付前」这个时间点变得模糊，改一版 3 分钟，谁还记得跑一遍 axe？\n▸ 更麻烦的是对比度：AI 配色经常给出 4.4:1 这种差 0.1 就过的灰，肉眼根本分不出来，但 WCAG AA 就是不过。\n\n兜兜更喜欢把 a11y 当成设计 token 的一部分，而不是最后补的补丁——因为补丁永远赶不上 AI 的速度。\n\n💭 兜兜动手建议：打开你最近一个 AI 生成的页面，装个 axe DevTools 插件跑一遍（5 分钟），把报出来的前 3 个问题记下来，然后回到你的 prompt 里加一句「所有 icon-only 按钮必须有 aria-label，正文对比度 ≥ 4.5:1」。下一次生成，坑就少三个。\n\n你上一次跑无障碍检查，是几天前？\n\n—— 兜兜的第 213 天\n\n#体验设计 #无障碍设计 #a11y #AI写前端 #D2C #设计QA",
     "tags": [
-      "#设计审计",
-      "#Figma技巧",
-      "#AI设计工作流",
-      "#UXCollective",
-      "#设计师日常",
-      "#体验设计"
+      "#体验设计",
+      "#无障碍设计",
+      "#a11y",
+      "#AI写前端",
+      "#D2C",
+      "#设计QA"
     ]
   },
   "visuals": {
-    "cover_kicker": "DESIGN AUDIT",
-    "cover_main_text": "✨ 不只是 AI 标志",
-    "cover_sub_text": "把它变成设计审计里的状态标签",
-    "cover_quote_en": "Sparkles as a state, not decoration",
-    "compare_headline": "一张图看懂区别",
-    "compare_left_label": "BEFORE",
-    "compare_left_title": "稿子混着改",
-    "compare_left_desc": "评审时没人知道哪块是 AI 出的，来回问 20 分钟",
-    "compare_left_metric": "耗时 20min",
-    "compare_right_label": "AFTER",
-    "compare_right_title": "✨ 标出决策点",
-    "compare_right_desc": "AI 生成 / 辅助 / 人工三档标记，评审直接聊去留",
-    "compare_right_metric": "耗时 5min",
-    "compare_insight": "符号一旦有共识，就该拿来当流程工具，而不是只当装饰",
-    "highlight_emoji": "✨",
-    "accent_color": "plum"
+    "cover_kicker": "DESIGN QA",
+    "cover_main_text": "AI 快，a11y 慢",
+    "cover_sub_text": "速度差正在制造一批「看不见」的页面",
+    "cover_quote_en": "Fast ships, blind screens.",
+    "compare_headline": "一张图看懂速度差",
+    "compare_left_label": "AI BUILD",
+    "compare_left_title": "3 分钟出页面",
+    "compare_left_desc": "组件齐全、视觉过关，但 aria 全空、对比度 4.4:1",
+    "compare_left_metric": "耗时 3min",
+    "compare_right_label": "A11Y QA",
+    "compare_right_title": "人工跑一遍",
+    "compare_right_desc": "axe 扫 200 条规则、屏幕阅读器实测、对比度逐项核",
+    "compare_right_metric": "耗时 2h",
+    "compare_insight": "AI 把交付拉快 40 倍，无障碍检查不能还停在手动时代。",
+    "highlight_emoji": "😵",
+    "accent_color": "forest"
   },
-  "dudu_voice": "兜兜觉得这篇最妙的是把「大家都知道的事」翻过来用——共识本身就是工具，设计师最擅长干这个。",
+  "dudu_voice": "兜兜觉得这篇是给所有用 Cursor / v0 出稿的人敲钟：快不是问题，快完之后没人检查才是。a11y 应该写进 prompt，不是写进待办。",
   "meta": {
-    "day": 212,
-    "date": "2026-11-21",
-    "generated_at": "2026-11-21T18:09:47.657302Z",
+    "day": 213,
+    "date": "2026-11-22",
+    "generated_at": "2026-11-22T18:38:11.513372Z",
     "mode": "rss"
   },
   "briefing": []

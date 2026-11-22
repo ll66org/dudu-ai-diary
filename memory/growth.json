@@ -1,5 +1,5 @@
 {
-  "day_count": 212,
+  "day_count": 213,
   "history": [
     {
       "day": 20,
@@ -1294,6 +1294,13 @@
       "date": "2026-11-21",
       "topic": "Everyone knows sparkles mean AI. Use them to make design audits easier",
       "source": "UX Collective",
+      "mode": "rss"
+    },
+    {
+      "day": 213,
+      "date": "2026-11-22",
+      "topic": "AI Sped Up The Build: How Can Accessibility Testing Keep Up?",
+      "source": "Smashing Magazine",
       "mode": "rss"
     }
   ],

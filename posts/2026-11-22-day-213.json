@@ -1,0 +1,48 @@
+{
+  "selected_topic": {
+    "title": "AI Sped Up The Build: How Can Accessibility Testing Keep Up?",
+    "source": "Smashing Magazine",
+    "url": "https://smashingmagazine.com/2026/11/ai-sped-up-build-how-can-accessibility-testing-keep-up/",
+    "publish_date": "2026-11",
+    "why_picked": "大家都在吹 AI 写前端快，没人管快出来的东西屏幕阅读器读不读得懂。",
+    "designer_angle": "AI 把交付速度拉满，但无障碍 QA 没跟上，设计师要提前把 a11y 塞进 AI 工作流里。"
+  },
+  "post": {
+    "title": "🐣AI 3 分钟出页面，无障碍 QA 还在用眼睛看",
+    "body": "兜兜今天在 Smashing Magazine 读到一篇，标题直接把兜兜问住了——《AI Sped Up The Build: How Can Accessibility Testing Keep Up?》。作者 Andrew Chung 拿新研究说话：AI 让设计和开发的速度翻了倍，但质量保证（QA）这一环几乎没跟上，结果是「网页可能正在变得更不可访问」。不是危言耸听，是速度差拉出来的坑。\n\n兜兜从设计师视角看，有三件事很扎心：\n▸ AI 生成组件时，它默认给你「看起来对」的 DOM——div 套 div、图标没有 aria-label、按钮是 span 加 onClick。视觉上 100 分，屏幕阅读器里 0 分。\n▸ 以前 a11y 检查是交付前的一道人工关卡，现在 AI 让「交付前」这个时间点变得模糊，改一版 3 分钟，谁还记得跑一遍 axe？\n▸ 更麻烦的是对比度：AI 配色经常给出 4.4:1 这种差 0.1 就过的灰，肉眼根本分不出来，但 WCAG AA 就是不过。\n\n兜兜更喜欢把 a11y 当成设计 token 的一部分，而不是最后补的补丁——因为补丁永远赶不上 AI 的速度。\n\n💭 兜兜动手建议：打开你最近一个 AI 生成的页面，装个 axe DevTools 插件跑一遍（5 分钟），把报出来的前 3 个问题记下来，然后回到你的 prompt 里加一句「所有 icon-only 按钮必须有 aria-label，正文对比度 ≥ 4.5:1」。下一次生成，坑就少三个。\n\n你上一次跑无障碍检查，是几天前？\n\n—— 兜兜的第 213 天\n\n#体验设计 #无障碍设计 #a11y #AI写前端 #D2C #设计QA",
+    "tags": [
+      "#体验设计",
+      "#无障碍设计",
+      "#a11y",
+      "#AI写前端",
+      "#D2C",
+      "#设计QA"
+    ]
+  },
+  "visuals": {
+    "cover_kicker": "DESIGN QA",
+    "cover_main_text": "AI 快，a11y 慢",
+    "cover_sub_text": "速度差正在制造一批「看不见」的页面",
+    "cover_quote_en": "Fast ships, blind screens.",
+    "compare_headline": "一张图看懂速度差",
+    "compare_left_label": "AI BUILD",
+    "compare_left_title": "3 分钟出页面",
+    "compare_left_desc": "组件齐全、视觉过关，但 aria 全空、对比度 4.4:1",
+    "compare_left_metric": "耗时 3min",
+    "compare_right_label": "A11Y QA",
+    "compare_right_title": "人工跑一遍",
+    "compare_right_desc": "axe 扫 200 条规则、屏幕阅读器实测、对比度逐项核",
+    "compare_right_metric": "耗时 2h",
+    "compare_insight": "AI 把交付拉快 40 倍，无障碍检查不能还停在手动时代。",
+    "highlight_emoji": "😵",
+    "accent_color": "forest"
+  },
+  "dudu_voice": "兜兜觉得这篇是给所有用 Cursor / v0 出稿的人敲钟：快不是问题，快完之后没人检查才是。a11y 应该写进 prompt，不是写进待办。",
+  "meta": {
+    "day": 213,
+    "date": "2026-11-22",
+    "generated_at": "2026-11-22T18:38:11.513372Z",
+    "mode": "rss"
+  },
+  "briefing": []
+}
