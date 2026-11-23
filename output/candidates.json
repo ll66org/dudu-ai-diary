@@ -1,54 +1,54 @@
 [
   {
-    "title": "Why Building Trust Through Real People Stands the Test of Time in SEO/AI Search",
-    "summary": "<p>Article URL: <a href=\"https://www.searchenginejournal.com/why-building-trust-through-real-people-stands-the-test-of-time-in-seo-ai-search/598110/\">https://www.searchenginejournal.com/why-building-trust-through-real-people-stands-the-test-of-time-in-seo-ai-search/598110/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50602258\">https://news.ycombinator.com/item?id=50602258</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://www.searchenginejournal.com/why-building-trust-through-real-people-stands-the-test-of-time-in-seo-ai-search/598110/",
-    "published": "Sun, 22 Nov 2026 18:12:45 +0000",
-    "source": "Hacker News (设计向)",
+    "title": "FigmaMCP",
+    "summary": "<p>\n            Let Claude Code or Codex edit your open Figma file\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/figmamcp?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1326848?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/figmamcp",
+    "published": "2026-11-22T15:28:02-08:00",
+    "source": "Product Hunt",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Ask HN: Could AI's RH proof have used human work found in its training data?",
-    "summary": "<p>When reading of third-party validations of AI's RH proof [0] that:<p>> While still possible, the proof exploiting a bug is vanishingly small now.<p>it makes me think we're realising in real-time that we're living through the most important time in human history. Moreso than during the invention of computers, the internet, or the wheel.<p>Problem: many people worked on RH, and some would have stored their attempts at proofs in places like GitHub or google docs - places that may have been ended",
-    "url": "https://news.ycombinator.com/item?id=50601701",
-    "published": "Sun, 22 Nov 2026 17:20:18 +0000",
-    "source": "Hacker News (设计向)",
+    "title": "Strict",
+    "summary": "<p>\n            Run GitHub Actions on any spare Mac or Linux machine\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/strict?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1326826?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/strict",
+    "published": "2026-11-22T15:04:09-08:00",
+    "source": "Product Hunt",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Too Claudified",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/too-claudified-9af067298b2a?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/600/0*k5uI3X8C4vFS2_ZB.jpg\" width=\"600\" /></a></p><p class=\"medium-feed-snippet\">A client rejected my motion work for looking machine-made. I&#x2019;d published the diagnosis five months earlier.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/too-claudified-9af067298b2a?source=rss----138adf9c4",
-    "url": "https://uxdesign.cc/too-claudified-9af067298b2a?source=rss----138adf9c44c---4",
-    "published": "Wed, 18 Nov 2026 20:17:05 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
+    "title": "Introducing Audited ZDR on AI Gateway",
+    "summary": "<p>AI is now used in every part of a business, and as a result, companies send source code, customer records, and regulated data through inference providers. </p><p>The assurance that no data is retained after processing is still publicly unverified. Payment platforms, cloud infrastructure, and most other layers that handle data this sensitive have a way to prove their controls to outside parties, and inference will follow the same path.</p><p>Today we are introducing Audited ZDR on AI Gateway. ",
+    "url": "https://vercel.com/blog/introducing-audited-zdr-on-ai-gateway",
+    "published": "",
+    "source": "Vercel Blog (v0)",
+    "source_weight": "high",
+    "category": "design_tools"
   },
   {
-    "title": "What is a researcher’s worth?",
-    "summary": "<h4>Why the debate over research isn’t a technology story – and why effortless AI makes human friction our scarcest asset.</h4><figure><img alt=\"In a watercolor aesthetic, a boat with various scientific objects on it in the middle of a body of water. Where will they all go?\" src=\"https://cdn-images-1.medium.com/max/1024/0*0cFCJpNLtLhpGfGK\" /><figcaption>Image created by author, with Midjourney.</figcaption></figure><h4>We’re no stranger to this question.</h4><p>For many years, research practitio",
-    "url": "https://uxdesign.cc/what-is-a-researchers-worth-ea14c95c6d12?source=rss----138adf9c44c---4",
-    "published": "Tue, 17 Nov 2026 23:26:24 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
+    "title": "Vercel Drives adds CLI commands and standalone SDKs",
+    "summary": "<p>You can now create, list, fork, and delete <a href=\"https://vercel.com/docs/drives\">Vercel Drives</a> with the new <code>vercel drives</code> commands or standalone SDKs for TypeScript (<code>@vercel/drives</code>) and Python (<code>vercel-drives</code>). Drives also have a <a href=\"https://vercel.com/docs/rest-api/drives/list-drives\">REST API</a> at <code>/v1/drives</code> and Drive-specific permissions, so managing them no longer requires Sandbox APIs or permissions.</p><p>With the latest V",
+    "url": "https://vercel.com/changelog/vercel-drives-adds-cli-commands-and-standalone-sdks",
+    "published": "",
+    "source": "Vercel Blog (v0)",
+    "source_weight": "high",
+    "category": "design_tools"
+  },
+  {
+    "title": "Catch missing feature flags before they reach production",
+    "summary": "<p><a href=\"https://vercel.com/docs/flags/vercel-flags\">Vercel Flags</a> can now block a deployment from reaching production if you’ve declared a flag in code but haven’t created it in your project. Without that definition, your app can silently fall back to the flag’s default value, even if that turns on a feature you meant to keep off.</p><p>The <b>Flag Definitions Present</b> <a href=\"https://vercel.com/docs/deployment-checks#native-deployment-checks\">Deployment Check</a> runs when a deployme",
+    "url": "https://vercel.com/changelog/catch-missing-feature-flags-before-they-reach-production",
+    "published": "",
+    "source": "Vercel Blog (v0)",
+    "source_weight": "high",
+    "category": "design_tools"
   },
   {
     "title": "Meet AI 2027 Conference (Dec 1)",
     "summary": "Roll up your sleeves! Meet shiny new [AI 2027 Conference](https://smashingconf.com/ai-2027-conference), a friendly online conference on AI-ready design systems, AI + Figma and AI design patterns. What to expect in 2027 and where teams are getting AI right. [Jump to tickets.](https://smashingconf.com/ai-2027-conference/registration)",
     "url": "https://smashingmagazine.com/2026/11/online-smashingconf-ai-2027/",
     "published": "Tue, 17 Nov 2026 12:00:00 GMT",
-    "source": "Smashing Magazine",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "AI Sped Up The Build: How Can Accessibility Testing Keep Up?",
-    "summary": "AI has sped up how teams design and build, but quality assurance (QA) testing hasn’t kept pace, and the web may be getting less accessible. Drawing on new research, Andrew Chung explains what separates the teams whose accessibility efforts are keeping up, and how to embed human judgment into AI-enabled workflows without slowing delivery.",
-    "url": "https://smashingmagazine.com/2026/11/ai-sped-up-build-how-can-accessibility-testing-keep-up/",
-    "published": "Tue, 17 Nov 2026 08:00:00 GMT",
     "source": "Smashing Magazine",
     "source_weight": "medium",
     "category": "design_communities"
@@ -63,10 +63,19 @@
     "category": "design_communities"
   },
   {
-    "title": "Send the Firefighters to the Fires",
-    "summary": "<h3>Send the firefighters to the fires</h3><h4><em>Enterprise software keeps forgetting a century of good advice about what deserves our attention.</em></h4><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/960/0*N3mJxsVmRdHoUFHX\" /><figcaption>House fire in New Zealand neighborhood</figcaption></figure><p>If a user’s job is to fix what’s broken, the screen should show what’s broken first. Sounds pretty obvious. It’s also not new. Frederick Taylor argued for it in 1903. Xerox PARC des",
-    "url": "https://uxdesign.cc/send-the-firefighters-to-the-fires-6cd7b1893ae7?source=rss----138adf9c44c---4",
-    "published": "Thu, 19 Nov 2026 12:54:05 GMT",
+    "title": "Seven things AI killed while you were measuring productivity",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/seven-things-ai-killed-while-you-were-measuring-productivity-b4499232ac3d?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*msGp5KJln6aNxzWp9gWq2A.jpeg\" width=\"2752\" /></a></p><p class=\"medium-feed-snippet\">Why 80% of executives see no AI impact &#x2014; and why they&#x2019;re looking in the wrong place.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/seven-things",
+    "url": "https://uxdesign.cc/seven-things-ai-killed-while-you-were-measuring-productivity-b4499232ac3d?source=rss----138adf9c44c---4",
+    "published": "Sun, 22 Nov 2026 23:17:56 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "How to write great skills",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/how-to-write-great-skills-91635bc45ada?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1600/0*85heaQKUTiTMedqq.png\" width=\"1600\" /></a></p><p class=\"medium-feed-snippet\">An advanced and practical guide to agent skills, learning from Matt Pocock, Nate Herk, Addy Osmani and Anthropic</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/how-to-write-great-skills-91635bc45ada?s",
+    "url": "https://uxdesign.cc/how-to-write-great-skills-91635bc45ada?source=rss----138adf9c44c---4",
+    "published": "Sun, 22 Nov 2026 23:17:32 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"
@@ -90,12 +99,48 @@
     "category": "design_communities"
   },
   {
-    "title": "Why bother paying for software anymore?",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/why-bother-paying-for-software-anymore-e1f76093f772?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1600/1*TV7xQSMxyAg-Mgkm4Fat5g.png\" width=\"1600\" /></a></p><p class=\"medium-feed-snippet\">And why design is the answer AI bros didn&#x2019;t expect.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/why-bother-paying-for-software-anymore-e1f76093f772?source=rss----138adf9c4",
-    "url": "https://uxdesign.cc/why-bother-paying-for-software-anymore-e1f76093f772?source=rss----138adf9c44c---4",
-    "published": "Mon, 16 Nov 2026 21:27:14 GMT",
+    "title": "Is product design a people industry or a tech industry?",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/is-product-design-a-people-industry-or-a-tech-industry-b8f9acc8cb6d?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1512/1*lss2kKfB5qTh4cToUtGOyQ.png\" width=\"1512\" /></a></p><p class=\"medium-feed-snippet\">The field talks about users and hires for prototyping. When money runs short, one half gets treated as optional.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/is-pr",
+    "url": "https://uxdesign.cc/is-product-design-a-people-industry-or-a-tech-industry-b8f9acc8cb6d?source=rss----138adf9c44c---4",
+    "published": "Mon, 23 Nov 2026 22:40:34 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Don’t make me read",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/dont-make-me-read-a6821e418bb1?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1280/0*AHUGuYftuptovWsy\" width=\"1280\" /></a></p><p class=\"medium-feed-snippet\">These newest findings on how people (don&#x2019;t) read on the internet can help you build your next great thing.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/dont-make-me-read-a6821e418bb1?source=rss----138adf",
+    "url": "https://uxdesign.cc/dont-make-me-read-a6821e418bb1?source=rss----138adf9c44c---4",
+    "published": "Mon, 23 Nov 2026 22:40:01 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Decision theater, Human.MD, What is a researcher’s worth",
+    "summary": "<h4><em>Weekly curated resources for designers — thinkers and makers.</em></h4><figure><a href=\"https://www.doc.cc/humankind/hesitation\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/0*BZ8QMn7gHiS5aq1A.png\" /></a></figure><p>“Conversing with a machine has no built-in friction. It does not hesitate. It just answers. It does not search for the right word, or wonder how the question will land, or brace for how the answer will be received. It simply responds.”</p><p><a href=\"https://www.",
+    "url": "https://uxdesign.cc/decision-theater-human-md-what-is-a-researchers-worth-d7687978bd26?source=rss----138adf9c44c---4",
+    "published": "Mon, 23 Nov 2026 12:18:14 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
+  },
+  {
+    "title": "Using Fallbacks for a Robust Front-End",
+    "summary": "<p>It’s important to use fallbacks to build a robust front end, either to quietly and discreetly avoid the error or to communicate it to our users.</p>\n<hr />\n<p><small><a href=\"https://css-tricks.com/using-frontend-fallbacks/\" rel=\"nofollow\">Using Fallbacks for a Robust Front-End</a> originally handwritten and published with love on <a href=\"https://css-tricks.com\" rel=\"nofollow\">CSS-Tricks</a>. You should really <a href=\"https://css-tricks.com/newsletters/\">get the newsletter</a> as well.</p>",
+    "url": "https://css-tricks.com/using-frontend-fallbacks/",
+    "published": "Mon, 23 Nov 2026 14:21:44 +0000",
+    "source": "CSS-Tricks",
+    "source_weight": "low",
+    "category": "design_communities"
+  },
+  {
+    "title": "Dev Material Archive",
+    "summary": "<p class=\"wp-block-paragraph\">A new <a href=\"https://dev-archive.org\" rel=\"nofollow noopener\">resource resurrecting lost web-dev articles and posts</a>:</p>\n<blockquote class=\"wp-block-quote is-layout-flow wp-block-quote-is-layout-flow\">\n<p class=\"wp-block-paragraph\">This is an archive of written articles about web development, web design, and web accessibility that once existed on the World Wide Web and which would otherwise be lost to </p>\n</blockquote>\n<p>&#8230;</p>\n<hr />\n<p><small><a href=",
+    "url": "https://css-tricks.com/dev-material-archive/",
+    "published": "Mon, 23 Nov 2026 14:18:50 +0000",
+    "source": "CSS-Tricks",
+    "source_weight": "low",
     "category": "design_communities"
   },
   {

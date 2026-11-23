@@ -1,5 +1,5 @@
 {
-  "day_count": 213,
+  "day_count": 214,
   "history": [
     {
       "day": 20,
@@ -1301,6 +1301,13 @@
       "date": "2026-11-22",
       "topic": "AI Sped Up The Build: How Can Accessibility Testing Keep Up?",
       "source": "Smashing Magazine",
+      "mode": "rss"
+    },
+    {
+      "day": 214,
+      "date": "2026-11-23",
+      "topic": "FigmaMCP",
+      "source": "Product Hunt",
       "mode": "rss"
     }
   ],
