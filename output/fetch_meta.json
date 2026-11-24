@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-11-23T22:54:45.523369Z",
-  "total_candidates": 17,
+  "fetched_at": "2026-11-24T21:27:49.989710Z",
+  "total_candidates": 13,
   "source_stats": {
     "Figma Blog": {
       "found": 0,
       "total": 0
     },
     "Vercel Blog (v0)": {
-      "found": 3,
+      "found": 2,
       "total": 100
     },
     "Cursor Changelog": {
@@ -31,7 +31,7 @@
       "total": 66
     },
     "Smashing Magazine": {
-      "found": 2,
+      "found": 0,
       "total": 40
     },
     "UX Collective": {
@@ -55,7 +55,7 @@
       "total": 0
     },
     "Product Hunt": {
-      "found": 2,
+      "found": 0,
       "total": 50
     },
     "Designer News (AI Design)": {
@@ -64,25 +64,25 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 214,
-  "today_date": "2026-11-23",
+  "dudu_day": 215,
+  "today_date": "2026-11-24",
   "used_titles": [
-    "Decision theatre or decision design?",
     "Show HN: Taster – Plain-English rules your AI agent can't forget or ignore",
     "Two years of Lovable: more people with ideas, more power to act on them",
     "Designing UI to move out of the way",
     "If AI works from anywhere, why are we commuting to watch it?",
     "Everyone knows sparkles mean AI. Use them to make design audits easier",
-    "AI Sped Up The Build: How Can Accessibility Testing Keep Up?"
+    "AI Sped Up The Build: How Can Accessibility Testing Keep Up?",
+    "FigmaMCP"
   ],
   "used_tools": [
-    "UX Collective",
     "Hacker News (设计向)",
     "Lovable Blog",
     "Hacker News (设计向)",
     "UX Collective",
     "UX Collective",
-    "Smashing Magazine"
+    "Smashing Magazine",
+    "Product Hunt"
   ],
   "briefing_total": 0,
   "briefing_design": 0,

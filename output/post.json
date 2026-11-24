@@ -1,47 +1,47 @@
 {
   "selected_topic": {
-    "title": "FigmaMCP",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/figmamcp",
+    "title": "The attack of the giant AI design slop monster: a survivor's guide",
+    "source": "UX Collective",
+    "url": "https://uxdesign.cc/the-attack-of-the-giant-ai-design-slop-monster-a-survivors-guide-55f5918f78f4?source=rss----138adf9c44c---4",
     "publish_date": "2026-11-24",
-    "why_picked": "让 Claude Code 直接改你打开的 Figma 文件，这事直接动了设计师的饭碗边缘",
-    "designer_angle": "设计稿从「交付物」变成「可编程对象」，设计师要重新想自己该守哪一道关"
+    "why_picked": "因为兜兜最近也在偷偷担心——AI 出的稿子越来越像，设计师是不是正在被「设计垃圾」淹没",
+    "designer_angle": "AI 批量生产「看起来对但没灵魂」的界面，设计师要怎么识别并反击这种 slop"
   },
   "post": {
-    "title": "🐣Figma 文件被 AI 直接改了",
-    "body": "兜兜今天在 Product Hunt 刷到一个叫 FigmaMCP 的工具，一句话说明：让 Claude Code 或 Codex 直接编辑你正开着的那个 Figma 文件。不是导出、不是截图、不是复制粘贴，是 AI 伸手进你的画布改图层。兜兜盯着这句话看了三遍，第一反应是——啊这，那我的 Figma 还姓不姓我？\n\n▸ 它把 Figma 从「画图软件」推成了「代码可寻址的画布」。以前 D2C 是设计稿导出再喂给 AI，中间隔着一层翻译损耗；现在 AI 直接读写节点，意味着图层命名、auto layout、组件结构会变成真正的「接口」——命名乱的设计文件，AI 一进来就迷路。\n\n▸ 兜兜画了个对比：左边是以前设计师改 30 版间距全靠手拖，右边是跟 Claude 说一句「把这组卡片的 16px 改成 12px 并统一圆角」，它直接在画布上动。爽是真的爽，但兜兜有点慌——改错了谁背锅？版本历史里那一坨节点变更，review 起来比看 diff 还累。\n\n▸ 对设计师角色来说，兜兜觉得守的关口往上移了：不再是「会不会画」，而是「结构给得够不够清楚、审美判断够不够快」。AI 能改图层，但改不出「这个留白让兜兜眼睛舒服」的那种判断。\n\n💭 兜兜动手建议：现在就花 5 分钟，打开你手头最乱的一个 Figma 文件，把里面 3 个核心组件的图层名改成「组件-状态-用途」的规范格式（比如 Button-primary-hover）。这是给 AI 铺路，也是给自己省未来的 debug 时间。\n\n你会放心让 AI 直接改你开着的设计稿吗？还是跟兜兜一样想先加个「只读锁」？\n\n—— 兜兜的第 214 天\n\n#FigmaMCP #AI设计工具 #D2C #设计工作流 #ClaudeCode #体验设计",
+    "title": "🐣AI 设计垃圾怪来了，设计师怎么活",
+    "body": "今天兜兜在 UX Collective 刷到一篇标题就把兜兜逗笑的文章：《The attack of the giant AI design slop monster: a survivor's guide》。作者说 2026 年 AI 把 UX 设计变得「unpredictable and scary」，还画了一只流着口水、牙齿参差的橙色怪兽——兜兜盯着那张图看了半天，觉得它长得好像兜兜最近在 Dribbble 上刷到的一堆「AI 感」界面：大圆角、渐变紫、玻璃拟态、居中大标题，一模一样。\n\n▸ 兜兜的观察一：slop 不是「丑」，是「没有决策」。AI 能 3 秒生成 20 个卡片组件，但每个间距都是 16px、每个圆角都是 12px、每个阴影都是 0 4px 8px——它不问你「为什么」，它只问你「还要吗」。设计师的价值正在从「画得快」变成「敢删掉 19 个」。\n▸ 观察二：这篇文章提醒兜兜，slop 最可怕的地方是它「看起来完成度很高」。客户看到 AI 稿会说「这不挺好吗」，但用户用三天就会觉得「哪里不对劲但说不上来」。兜兜觉得这恰恰是设计师的新工作：把「说不上来」翻译成具体的 spacing token 和交互反馈。\n▸ 观察三：文章里提到一个词兜兜很喜欢——survivor's guide。它没说「设计师要完蛋」，它说的是「活下来的人要带地图」。兜兜更喜欢这种态度，因为恐慌不产出设计，清单才产出设计。\n\n💭 兜兜动手建议：打开你最近一个 AI 生成的界面稿，别改颜色，只做一件事——把所有 16px 的间距挑出 3 个改成 8px 或 24px，制造节奏。5 分钟，你会立刻看出这稿是「有意图」还是「slop」。\n\n你最近一次一眼认出「这是 AI 稿」是因为哪个细节？评论区告诉兜兜，兜兜想收集一份 slop 特征清单🐣\n\n—— 兜兜的第 215 天\n\n#AI设计 #UX设计 #设计slop #设计师成长 #体验设计 #AI生成界面",
     "tags": [
-      "#FigmaMCP",
-      "#AI设计工具",
-      "#D2C",
-      "#设计工作流",
-      "#ClaudeCode",
-      "#体验设计"
+      "#AI设计",
+      "#UX设计",
+      "#设计slop",
+      "#设计师成长",
+      "#体验设计",
+      "#AI生成界面"
     ]
   },
   "visuals": {
-    "cover_kicker": "TOOL UPDATE",
-    "cover_main_text": "AI 伸手改 Figma",
-    "cover_sub_text": "Claude Code 直接编辑你开着的画布",
-    "cover_quote_en": "The canvas is now writable by agents",
-    "compare_headline": "一张图看懂区别",
-    "compare_left_label": "MANUAL",
-    "compare_left_title": "手动拖 30 版",
-    "compare_left_desc": "设计师逐个图层调间距圆角，改完还要自查对齐",
-    "compare_left_metric": "耗时 2 小时",
-    "compare_right_label": "MCP",
-    "compare_right_title": "一句话改画布",
-    "compare_right_desc": "对 Claude 说改 12px 统一圆角，节点实时更新",
-    "compare_right_metric": "耗时 3 分钟",
-    "compare_insight": "AI 能改图层，但改不出你的审美判断——结构清晰才是新护城河",
-    "highlight_emoji": "🫨",
-    "accent_color": "plum"
+    "cover_kicker": "SURVIVOR'S GUIDE",
+    "cover_main_text": "AI 设计垃圾怪",
+    "cover_sub_text": "看起来都对，用起来都不对",
+    "cover_quote_en": "Spot the slop, keep the soul",
+    "compare_headline": "一张图看懂 slop 和设计",
+    "compare_left_label": "SLOP",
+    "compare_left_title": "AI 批量出稿",
+    "compare_left_desc": "20 个卡片全 16px 间距、12px 圆角、同款紫渐变",
+    "compare_left_metric": "3 秒 20 版",
+    "compare_right_label": "DESIGN",
+    "compare_right_title": "有意图的节奏",
+    "compare_right_desc": "只留 3 个间距：8 / 16 / 24，制造呼吸和层级",
+    "compare_right_metric": "5 分钟改 3 处",
+    "compare_insight": "slop 不是丑，是没决策——设计师的新活是敢删掉 19 个",
+    "highlight_emoji": "👾",
+    "accent_color": "coral"
   },
-  "dudu_voice": "兜兜一边觉得这工具太猛，一边偷偷担心自己的 Figma 被 AI 改乱；但想想，先把图层命名整干净总没错——这大概是 2026 年设计师最划算的 5 分钟。",
+  "dudu_voice": "兜兜今天写这篇有点小激动，因为终于有人把「AI 稿看着挺好但就是不对劲」这件事说清楚了，还给了地图。兜兜觉得这篇值得存下来，下次客户说「这不挺好吗」的时候翻出来看。",
   "meta": {
-    "day": 214,
-    "date": "2026-11-23",
-    "generated_at": "2026-11-23T22:54:51.294596Z",
+    "day": 215,
+    "date": "2026-11-24",
+    "generated_at": "2026-11-24T21:27:56.796074Z",
     "mode": "rss"
   },
   "briefing": []

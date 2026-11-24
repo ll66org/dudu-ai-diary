@@ -1,57 +1,21 @@
 [
   {
-    "title": "FigmaMCP",
-    "summary": "<p>\n            Let Claude Code or Codex edit your open Figma file\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/figmamcp?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1326848?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/figmamcp",
-    "published": "2026-11-22T15:28:02-08:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Strict",
-    "summary": "<p>\n            Run GitHub Actions on any spare Mac or Linux machine\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/strict?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1326826?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/strict",
-    "published": "2026-11-22T15:04:09-08:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Introducing Audited ZDR on AI Gateway",
-    "summary": "<p>AI is now used in every part of a business, and as a result, companies send source code, customer records, and regulated data through inference providers. </p><p>The assurance that no data is retained after processing is still publicly unverified. Payment platforms, cloud infrastructure, and most other layers that handle data this sensitive have a way to prove their controls to outside parties, and inference will follow the same path.</p><p>Today we are introducing Audited ZDR on AI Gateway. ",
-    "url": "https://vercel.com/blog/introducing-audited-zdr-on-ai-gateway",
+    "title": "All Sandbox runtimes now use Vercel Managed Images",
+    "summary": "<p>All <a href=\"https://vercel.com/sandbox\">Vercel Sandbox</a> runtimes now use Vercel Managed Images (VMIs).</p><p>Legacy runtimes, such as <code>node22</code>, now use the open-source images in the <a href=\"https://github.com/vercel/sandbox\">vercel/sandbox repository</a>, distributed through Vercel Container Registry (VCR). Sandboxes created with these now come with 64 GB of storage and use the same infrastructure as sandboxes powered by VCR.</p><p>The universal image is released nightly, and ",
+    "url": "https://vercel.com/changelog/all-sandbox-runtimes-now-use-vercel-managed-images",
     "published": "",
     "source": "Vercel Blog (v0)",
     "source_weight": "high",
     "category": "design_tools"
   },
   {
-    "title": "Vercel Drives adds CLI commands and standalone SDKs",
-    "summary": "<p>You can now create, list, fork, and delete <a href=\"https://vercel.com/docs/drives\">Vercel Drives</a> with the new <code>vercel drives</code> commands or standalone SDKs for TypeScript (<code>@vercel/drives</code>) and Python (<code>vercel-drives</code>). Drives also have a <a href=\"https://vercel.com/docs/rest-api/drives/list-drives\">REST API</a> at <code>/v1/drives</code> and Drive-specific permissions, so managing them no longer requires Sandbox APIs or permissions.</p><p>With the latest V",
-    "url": "https://vercel.com/changelog/vercel-drives-adds-cli-commands-and-standalone-sdks",
+    "title": "Delete a run's data on demand in Workflow SDK",
+    "summary": "<p>The <a href=\"https://workflow-sdk.dev\">Workflow SDK</a> now lets you delete a finished run's stored data on demand. This feature gives you the ability to quickly meet compliance and security requirements when sensitive data needs to be purged from run payloads.</p><p>Deleting a run's data deletes any inputs, outputs, hook payloads, and error traces for the run and its related entities. This does <b>not</b> delete the run's <a href=\"https://workflow-sdk.dev/docs/observability/retention\">metada",
+    "url": "https://vercel.com/changelog/delete-run-data-workflow-sdk",
     "published": "",
     "source": "Vercel Blog (v0)",
     "source_weight": "high",
     "category": "design_tools"
-  },
-  {
-    "title": "Catch missing feature flags before they reach production",
-    "summary": "<p><a href=\"https://vercel.com/docs/flags/vercel-flags\">Vercel Flags</a> can now block a deployment from reaching production if you’ve declared a flag in code but haven’t created it in your project. Without that definition, your app can silently fall back to the flag’s default value, even if that turns on a feature you meant to keep off.</p><p>The <b>Flag Definitions Present</b> <a href=\"https://vercel.com/docs/deployment-checks#native-deployment-checks\">Deployment Check</a> runs when a deployme",
-    "url": "https://vercel.com/changelog/catch-missing-feature-flags-before-they-reach-production",
-    "published": "",
-    "source": "Vercel Blog (v0)",
-    "source_weight": "high",
-    "category": "design_tools"
-  },
-  {
-    "title": "Meet AI 2027 Conference (Dec 1)",
-    "summary": "Roll up your sleeves! Meet shiny new [AI 2027 Conference](https://smashingconf.com/ai-2027-conference), a friendly online conference on AI-ready design systems, AI + Figma and AI design patterns. What to expect in 2027 and where teams are getting AI right. [Jump to tickets.](https://smashingconf.com/ai-2027-conference/registration)",
-    "url": "https://smashingmagazine.com/2026/11/online-smashingconf-ai-2027/",
-    "published": "Tue, 17 Nov 2026 12:00:00 GMT",
-    "source": "Smashing Magazine",
-    "source_weight": "medium",
-    "category": "design_communities"
   },
   {
     "title": "Everyone’s got the tools. Not everyone’s got the tricks.",

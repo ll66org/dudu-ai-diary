@@ -1,5 +1,5 @@
 {
-  "day_count": 214,
+  "day_count": 215,
   "history": [
     {
       "day": 20,
@@ -1308,6 +1308,13 @@
       "date": "2026-11-23",
       "topic": "FigmaMCP",
       "source": "Product Hunt",
+      "mode": "rss"
+    },
+    {
+      "day": 215,
+      "date": "2026-11-24",
+      "topic": "The attack of the giant AI design slop monster: a survivor's guide",
+      "source": "UX Collective",
       "mode": "rss"
     }
   ],
