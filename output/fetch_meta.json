@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-11-24T21:27:49.989710Z",
-  "total_candidates": 13,
+  "fetched_at": "2026-11-25T20:36:22.036235Z",
+  "total_candidates": 17,
   "source_stats": {
     "Figma Blog": {
       "found": 0,
@@ -35,7 +35,7 @@
       "total": 40
     },
     "UX Collective": {
-      "found": 8,
+      "found": 9,
       "total": 10
     },
     "Designer News": {
@@ -55,7 +55,7 @@
       "total": 0
     },
     "Product Hunt": {
-      "found": 0,
+      "found": 3,
       "total": 50
     },
     "Designer News (AI Design)": {
@@ -64,25 +64,25 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 215,
-  "today_date": "2026-11-24",
+  "dudu_day": 216,
+  "today_date": "2026-11-25",
   "used_titles": [
-    "Show HN: Taster – Plain-English rules your AI agent can't forget or ignore",
     "Two years of Lovable: more people with ideas, more power to act on them",
     "Designing UI to move out of the way",
     "If AI works from anywhere, why are we commuting to watch it?",
     "Everyone knows sparkles mean AI. Use them to make design audits easier",
     "AI Sped Up The Build: How Can Accessibility Testing Keep Up?",
-    "FigmaMCP"
+    "FigmaMCP",
+    "The attack of the giant AI design slop monster: a survivor's guide"
   ],
   "used_tools": [
-    "Hacker News (设计向)",
     "Lovable Blog",
     "Hacker News (设计向)",
     "UX Collective",
     "UX Collective",
     "Smashing Magazine",
-    "Product Hunt"
+    "Product Hunt",
+    "UX Collective"
   ],
   "briefing_total": 0,
   "briefing_design": 0,

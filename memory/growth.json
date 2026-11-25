@@ -1,5 +1,5 @@
 {
-  "day_count": 215,
+  "day_count": 216,
   "history": [
     {
       "day": 20,
@@ -1315,6 +1315,13 @@
       "date": "2026-11-24",
       "topic": "The attack of the giant AI design slop monster: a survivor's guide",
       "source": "UX Collective",
+      "mode": "rss"
+    },
+    {
+      "day": 216,
+      "date": "2026-11-25",
+      "topic": "Standard builds for existing Pro teams have moved to usage-based billing",
+      "source": "Vercel Blog (v0)",
       "mode": "rss"
     }
   ],
