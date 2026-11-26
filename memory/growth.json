@@ -1,5 +1,5 @@
 {
-  "day_count": 216,
+  "day_count": 217,
   "history": [
     {
       "day": 20,
@@ -1322,6 +1322,13 @@
       "date": "2026-11-25",
       "topic": "Standard builds for existing Pro teams have moved to usage-based billing",
       "source": "Vercel Blog (v0)",
+      "mode": "rss"
+    },
+    {
+      "day": 217,
+      "date": "2026-11-26",
+      "topic": "What a rule-based checker found in 561 public projects, mostly AI-built",
+      "source": "Hacker News (设计向)",
       "mode": "rss"
     }
   ],

@@ -1,48 +1,48 @@
 [
   {
-    "title": "Omi X 2.0",
-    "summary": "<p>\n            Omi can build anything. Your $1B idea, live in production\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/omi-x?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1329892?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/omi-x",
-    "published": "2026-11-24T18:11:54-08:00",
+    "title": "GoLand Intelligence Now Available in Cursor and VS Code",
+    "summary": "<p>Article URL: <a href=\"https://blog.jetbrains.com/go/2026/11/25/go-by-goland-public-preview/\">https://blog.jetbrains.com/go/2026/11/25/go-by-goland-public-preview/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50659185\">https://news.ycombinator.com/item?id=50659185</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://blog.jetbrains.com/go/2026/11/25/go-by-goland-public-preview/",
+    "published": "Thu, 26 Nov 2026 20:11:32 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "What a rule-based checker found in 561 public projects, mostly AI-built",
+    "summary": "<p>Article URL: <a href=\"https://lintsure.com/research/561-projects\">https://lintsure.com/research/561-projects</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50657555\">https://news.ycombinator.com/item?id=50657555</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
+    "url": "https://lintsure.com/research/561-projects",
+    "published": "Thu, 26 Nov 2026 17:38:58 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Claude-Mem Cloud Sync",
+    "summary": "<p>\n            Switch devices. Keep your AI agents' memory.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/claude-mem?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1331659?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/claude-mem",
+    "published": "2026-11-25T23:58:18-08:00",
     "source": "Product Hunt",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Sen Việt (VieLotus-IM)",
-    "summary": "<p>\n            Smart Bilingual input method for macOS, Windows, and Linux.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/sen-vi-t-vielotus-im?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1329877?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/sen-vi-t-vielotus-im",
-    "published": "2026-11-24T17:44:41-08:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
+    "title": "Things you’re not supposed to say on LinkedIn",
+    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/things-youre-not-supposed-to-say-on-linkedin-a9c2ec2a0185?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1200/0*_AVuKoviXlIIw3W-\" width=\"1200\" /></a></p><p class=\"medium-feed-snippet\">What happens to how people write about work when readers can hire (or fire) them?</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/things-youre-not-supposed-to-say-on-linkedin-a9c2ec2a018",
+    "url": "https://uxdesign.cc/things-youre-not-supposed-to-say-on-linkedin-a9c2ec2a0185?source=rss----138adf9c44c---4",
+    "published": "Wed, 25 Nov 2026 22:34:52 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
   },
   {
-    "title": "Blink",
-    "summary": "<p>\n            Describe any trade and watch Blink build it\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/blink-35?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1329858?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/blink-35",
-    "published": "2026-11-24T17:17:35-08:00",
-    "source": "Product Hunt",
-    "source_weight": "high",
-    "category": "ai_tech"
-  },
-  {
-    "title": "Standard builds for existing Pro teams have moved to usage-based billing",
-    "summary": "<p>Existing Pro teams will no longer include a Standard build slot. This brings Standard builds under the same usage-based billing model as other build machines. </p><p>Standard builds cost $0.014 per build minute, and your monthly usage credit applies to build usage. Billing applies to all projects on the team.</p><p>See included and Standard build minutes for your team on the <a href=\"https://vercel.com/d?to=%2F%5Bteam%5D%2F%7E%2Fusage&amp;title=Go+to+Usage\">Usage page</a>. Select a build mach",
-    "url": "https://vercel.com/changelog/standard-builds-for-existing-pro-teams-have-moved-to-usage-based-billing",
-    "published": "",
-    "source": "Vercel Blog (v0)",
-    "source_weight": "high",
-    "category": "design_tools"
-  },
-  {
-    "title": "How Cozey turns its operators into software builders on Vercel",
-    "summary": "<ul><li><p>Employees outside engineering, including warehouse, finance, and support staff, are now building applications and deploying them to Vercel</p></li><li><p>Finance uses an app it built to review profit and loss weekly instead of monthly</p></li><li><p>Adopting <a href=\"https://vercel.com/docs/flags/vercel-flags\">Vercel Flags</a> allowed Cozey to retire a separate tool that cost approximately $80,000 annually</p></li><li><p>Six projects, including the storefront, use <a href=\"https://ver",
-    "url": "https://vercel.com/blog/how-cozey-turns-its-operators-into-software-builders-on-vercel",
-    "published": "",
-    "source": "Vercel Blog (v0)",
-    "source_weight": "high",
-    "category": "design_tools"
+    "title": "Future-proofing is dead and AI killed it",
+    "summary": "<figure><img alt=\"An illustration of a massive fortified wall being bypassed by a force curving around its end, evoking the Maginot Line.\" src=\"https://cdn-images-1.medium.com/max/1024/1*xO_rECibhj3Bjsk0jT5nTQ.jpeg\" /><figcaption>France built the most future-proofed thing on the planet and then opposition circumvented it.</figcaption></figure><h4>We have always tried to build things that outlast whatever comes next. AI makes that impossible. The solution is the opposite of what you think.</h4><p",
+    "url": "https://uxdesign.cc/future-proofing-is-dead-and-ai-killed-it-23368ce3cc02?source=rss----138adf9c44c---4",
+    "published": "Wed, 25 Nov 2026 22:34:12 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
+    "category": "design_communities"
   },
   {
     "title": "Futures thinking as an everyday design practice",
@@ -99,28 +99,10 @@
     "category": "design_communities"
   },
   {
-    "title": "Is product design a people industry or a tech industry?",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/is-product-design-a-people-industry-or-a-tech-industry-b8f9acc8cb6d?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1512/1*lss2kKfB5qTh4cToUtGOyQ.png\" width=\"1512\" /></a></p><p class=\"medium-feed-snippet\">The field talks about users and hires for prototyping. When money runs short, one half gets treated as optional.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/is-pr",
-    "url": "https://uxdesign.cc/is-product-design-a-people-industry-or-a-tech-industry-b8f9acc8cb6d?source=rss----138adf9c44c---4",
-    "published": "Mon, 23 Nov 2026 22:40:34 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Don’t make me read",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/dont-make-me-read-a6821e418bb1?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1280/0*AHUGuYftuptovWsy\" width=\"1280\" /></a></p><p class=\"medium-feed-snippet\">These newest findings on how people (don&#x2019;t) read on the internet can help you build your next great thing.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/dont-make-me-read-a6821e418bb1?source=rss----138adf",
-    "url": "https://uxdesign.cc/dont-make-me-read-a6821e418bb1?source=rss----138adf9c44c---4",
-    "published": "Mon, 23 Nov 2026 22:40:01 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
-    "title": "Decision theater, Human.MD, What is a researcher’s worth",
-    "summary": "<h4><em>Weekly curated resources for designers — thinkers and makers.</em></h4><figure><a href=\"https://www.doc.cc/humankind/hesitation\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/0*BZ8QMn7gHiS5aq1A.png\" /></a></figure><p>“Conversing with a machine has no built-in friction. It does not hesitate. It just answers. It does not search for the right word, or wonder how the question will land, or brace for how the answer will be received. It simply responds.”</p><p><a href=\"https://www.",
-    "url": "https://uxdesign.cc/decision-theater-human-md-what-is-a-researchers-worth-d7687978bd26?source=rss----138adf9c44c---4",
-    "published": "Mon, 23 Nov 2026 12:18:14 GMT",
+    "title": "Machines are trying to get gut feelings while you’re telling me to ignore mine",
+    "summary": "<h4>Intuition was always treated as the second-best kind of knowing. Now AI is learning it from itself; we’re learning from AI, and nobody’s minding the loop. Welp.</h4><figure><img alt=\"Image showing scrabble letters “Intuition”\" src=\"https://cdn-images-1.medium.com/max/1024/0*smZ6ATMVtUz6qucK.jpeg\" /><figcaption>By Edz Norton (<a href=\"https://unsplash.com/@edznorton\">source</a>)</figcaption></figure><p>I have a feeling about AI.</p><p>I know that’s an odd way to open an essay about AI, but he",
+    "url": "https://uxdesign.cc/machines-are-trying-to-get-gut-feelings-while-youre-telling-me-to-ignore-mine-17095e56f22d?source=rss----138adf9c44c---4",
+    "published": "Thu, 26 Nov 2026 12:18:31 GMT",
     "source": "UX Collective",
     "source_weight": "medium",
     "category": "design_communities"

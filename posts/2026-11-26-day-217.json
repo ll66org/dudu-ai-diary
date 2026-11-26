@@ -1,0 +1,48 @@
+{
+  "selected_topic": {
+    "title": "What a rule-based checker found in 561 public projects, mostly AI-built",
+    "source": "Hacker News (设计向)",
+    "url": "https://lintsure.com/research/561-projects",
+    "publish_date": "2026-11-26",
+    "why_picked": "有人拿规则检查器扫了 561 个公开项目、大部分是 AI 写的，兜兜想知道 AI 出稿的界面到底会留下什么坑",
+    "designer_angle": "AI 生成的前端代码里，那些看不见的间距、对比度、aria 标签问题，正是设计师要盯的地方"
+  },
+  "post": {
+    "title": "🐣AI 写的 561 个项目，规则扫描翻出了啥",
+    "body": "兜兜今天在 Hacker News 上看到 lintsure.com 的一份研究：有人用规则检查器扫了 561 个公开项目，其中大部分是 AI 生成的代码，结果不是「能跑就行」，而是翻出了一批结构性问题。\n\n兜兜画了个对比，左边是以前人写代码，右边是 AI 出稿——差别不在能不能跑，而在那些肉眼看不见的细节：\n▸ 规则检查器查的是可量化项，比如对比度、缺失的 aria 标签、不一致的间距值。这些恰好是设计师画稿时最在意、但 AI 写代码时最容易跳过的部分。\n▸ 561 个项目里大部分是 AI 搭建的，说明「AI 能生成」和「生成得对」之间还隔着一条检查线。兜兜觉得这条线以后会变成设计交付前的固定一步。\n▸ 兜兜更喜欢把规则检查器当成「设计稿的最后一道校对」，而不是等用户来发现按钮看不清。AI 提速的那部分，得用规则把它拉回来。\n\n💭 兜兜动手建议：打开你最近一个 AI 生成的项目，跑一遍规则检查（lintsure 或 axe DevTools 都行），先只看对比度和 aria 两项，5 分钟就能知道 AI 在哪些地方偷了懒。\n\n你最近 AI 出稿的项目，敢不敢也扫一遍？\n\n—— 兜兜的第 217 天\n\n#AI设计 #前端还原 #DesignToken #无障碍设计 #设计工作流 #vibecoding",
+    "tags": [
+      "#AI设计",
+      "#前端还原",
+      "#DesignToken",
+      "#无障碍设计",
+      "#设计工作流",
+      "#vibecoding"
+    ]
+  },
+  "visuals": {
+    "cover_kicker": "DEEP DIVE",
+    "cover_main_text": "AI 出稿的坑",
+    "cover_sub_text": "561 个项目被规则扫描翻出问题",
+    "cover_quote_en": "Rules catch what eyes miss",
+    "compare_headline": "一张图看懂区别",
+    "compare_left_label": "MANUAL",
+    "compare_left_title": "人写先对齐",
+    "compare_left_desc": "手动检查对比度与 aria，改一轮约 2 小时",
+    "compare_left_metric": "耗时 2h",
+    "compare_right_label": "AI BUILT",
+    "compare_right_title": "AI 出稿后扫",
+    "compare_right_desc": "规则检查器 5 分钟列出对比度与标签缺口",
+    "compare_right_metric": "耗时 5min",
+    "compare_insight": "AI 提速不是终点，规则检查才是设计交付的最后一公里",
+    "highlight_emoji": "🔍",
+    "accent_color": "ocean"
+  },
+  "dudu_voice": "兜兜觉得这份研究最值钱的地方不是「AI 有 bug」，而是它给了设计师一个可执行的检查动作——跑一遍规则，比争论 AI 靠不靠谱有用多了。",
+  "meta": {
+    "day": 217,
+    "date": "2026-11-26",
+    "generated_at": "2026-11-26T20:28:41.535973Z",
+    "mode": "rss"
+  },
+  "briefing": []
+}

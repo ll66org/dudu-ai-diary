@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-11-25T20:36:22.036235Z",
-  "total_candidates": 17,
+  "fetched_at": "2026-11-26T20:28:36.109585Z",
+  "total_candidates": 15,
   "source_stats": {
     "Figma Blog": {
       "found": 0,
       "total": 0
     },
     "Vercel Blog (v0)": {
-      "found": 2,
+      "found": 0,
       "total": 100
     },
     "Cursor Changelog": {
@@ -51,11 +51,11 @@
       "total": 20
     },
     "Hacker News (设计向)": {
-      "found": 0,
-      "total": 0
+      "found": 2,
+      "total": 20
     },
     "Product Hunt": {
-      "found": 3,
+      "found": 1,
       "total": 50
     },
     "Designer News (AI Design)": {
@@ -64,25 +64,25 @@
     }
   },
   "mode": "rss",
-  "dudu_day": 216,
-  "today_date": "2026-11-25",
+  "dudu_day": 217,
+  "today_date": "2026-11-26",
   "used_titles": [
-    "Two years of Lovable: more people with ideas, more power to act on them",
     "Designing UI to move out of the way",
     "If AI works from anywhere, why are we commuting to watch it?",
     "Everyone knows sparkles mean AI. Use them to make design audits easier",
     "AI Sped Up The Build: How Can Accessibility Testing Keep Up?",
     "FigmaMCP",
-    "The attack of the giant AI design slop monster: a survivor's guide"
+    "The attack of the giant AI design slop monster: a survivor's guide",
+    "Standard builds for existing Pro teams have moved to usage-based billing"
   ],
   "used_tools": [
-    "Lovable Blog",
     "Hacker News (设计向)",
     "UX Collective",
     "UX Collective",
     "Smashing Magazine",
     "Product Hunt",
-    "UX Collective"
+    "UX Collective",
+    "Vercel Blog (v0)"
   ],
   "briefing_total": 0,
   "briefing_design": 0,
