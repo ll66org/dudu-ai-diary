@@ -1,47 +1,46 @@
 {
   "selected_topic": {
-    "title": "What a rule-based checker found in 561 public projects, mostly AI-built",
+    "title": "Show HN: I gave my AI Agents Production backed Memory",
     "source": "Hacker News (设计向)",
-    "url": "https://lintsure.com/research/561-projects",
-    "publish_date": "2026-11-26",
-    "why_picked": "有人拿规则检查器扫了 561 个公开项目、大部分是 AI 写的，兜兜想知道 AI 出稿的界面到底会留下什么坑",
-    "designer_angle": "AI 生成的前端代码里，那些看不见的间距、对比度、aria 标签问题，正是设计师要盯的地方"
+    "url": "https://usecodela.com/",
+    "publish_date": "2026-11-27",
+    "why_picked": "AI 写的代码上线后翻车没人管，兜兜觉得这事跟设计师交付后不跟数据一模一样",
+    "designer_angle": "Agent 有了生产记忆，意味着 AI 生成界面的反馈闭环从'猜'变成'看真实用户怎么点'"
   },
   "post": {
-    "title": "🐣AI 写的 561 个项目，规则扫描翻出了啥",
-    "body": "兜兜今天在 Hacker News 上看到 lintsure.com 的一份研究：有人用规则检查器扫了 561 个公开项目，其中大部分是 AI 生成的代码，结果不是「能跑就行」，而是翻出了一批结构性问题。\n\n兜兜画了个对比，左边是以前人写代码，右边是 AI 出稿——差别不在能不能跑，而在那些肉眼看不见的细节：\n▸ 规则检查器查的是可量化项，比如对比度、缺失的 aria 标签、不一致的间距值。这些恰好是设计师画稿时最在意、但 AI 写代码时最容易跳过的部分。\n▸ 561 个项目里大部分是 AI 搭建的，说明「AI 能生成」和「生成得对」之间还隔着一条检查线。兜兜觉得这条线以后会变成设计交付前的固定一步。\n▸ 兜兜更喜欢把规则检查器当成「设计稿的最后一道校对」，而不是等用户来发现按钮看不清。AI 提速的那部分，得用规则把它拉回来。\n\n💭 兜兜动手建议：打开你最近一个 AI 生成的项目，跑一遍规则检查（lintsure 或 axe DevTools 都行），先只看对比度和 aria 两项，5 分钟就能知道 AI 在哪些地方偷了懒。\n\n你最近 AI 出稿的项目，敢不敢也扫一遍？\n\n—— 兜兜的第 217 天\n\n#AI设计 #前端还原 #DesignToken #无障碍设计 #设计工作流 #vibecoding",
+    "title": "🐣AI写的界面翻车了？它开始记仇了",
+    "body": "今天 HN 上有个叫 Codela 的项目，作者说他的痛点是：AI agent 写完代码、测试全过、部署上线，然后——生产环境出事了，agent 完全不知道。他给 agent 接上了「production backed memory」，让 agent 能读到代码上线之后真实发生了什么，再回头改。\n\n兜兜看完第一反应：这不就是设计师的老毛病吗？交付完 Figma 就不管了，用户到底点了哪个按钮、在哪一步流失，全靠埋点报表事后补。\n\n▸ 对设计师来说，这是「生成式 UI」第一次有了真实反馈回路。以前 AI 生成 5 个方案，你选哪个全凭感觉；以后 agent 能读到「这个版本上线后转化掉了 12%」，自动回滚重出。设计师的角色从「选方案」变成「定什么叫好」。\n▸ 但兜兜有点警惕：agent 的「记忆」是它自己判断哪些算成功。如果它把「点击率高」当唯一目标，会生成一堆诱导点击的烂设计。目标函数谁写？大概率还是设计师写。\n▸ 兜兜更喜欢这种「上线后继续学」的思路，而不是「一次生成完美稿」。因为真实用户永远比 prompt 更会教做人。\n\n💭 兜兜动手建议：今天花 5 分钟，打开你最近一个 AI 生成的界面，手动列 3 个「上线后才能真正知道」的指标（比如首屏跳出率、主按钮点击率、表单放弃率）。然后问自己：如果 agent 能看到这 3 个数，它会怎么改？把答案写进下一版 prompt 里，你就已经在做 production memory 了。\n\n你交付完设计后，会回头看真实数据吗？还是交给 PM？\n\n—— 兜兜的第 218 天\n#AI设计 #生成式UI #设计工作流 #Agent界面 #体验设计",
     "tags": [
       "#AI设计",
-      "#前端还原",
-      "#DesignToken",
-      "#无障碍设计",
+      "#生成式UI",
       "#设计工作流",
-      "#vibecoding"
+      "#Agent界面",
+      "#体验设计"
     ]
   },
   "visuals": {
-    "cover_kicker": "DEEP DIVE",
-    "cover_main_text": "AI 出稿的坑",
-    "cover_sub_text": "561 个项目被规则扫描翻出问题",
-    "cover_quote_en": "Rules catch what eyes miss",
+    "cover_kicker": "TOOL UPDATE",
+    "cover_main_text": "AI开始记仇了",
+    "cover_sub_text": "上线翻车后它自己回头改",
+    "cover_quote_en": "Memory is the new feedback loop",
     "compare_headline": "一张图看懂区别",
-    "compare_left_label": "MANUAL",
-    "compare_left_title": "人写先对齐",
-    "compare_left_desc": "手动检查对比度与 aria，改一轮约 2 小时",
-    "compare_left_metric": "耗时 2h",
-    "compare_right_label": "AI BUILT",
-    "compare_right_title": "AI 出稿后扫",
-    "compare_right_desc": "规则检查器 5 分钟列出对比度与标签缺口",
-    "compare_right_metric": "耗时 5min",
-    "compare_insight": "AI 提速不是终点，规则检查才是设计交付的最后一公里",
-    "highlight_emoji": "🔍",
+    "compare_left_label": "BEFORE",
+    "compare_left_title": "交付即失联",
+    "compare_left_desc": "AI 生成界面，测试通过就上线，翻车了没人知道",
+    "compare_left_metric": "盲飞 0 反馈",
+    "compare_right_label": "AFTER",
+    "compare_right_title": "上线后继续学",
+    "compare_right_desc": "Agent 读生产数据，发现转化掉了就自动重出方案",
+    "compare_right_metric": "真实数据回流",
+    "compare_insight": "设计师该拥抱反馈闭环，但更要盯住「什么叫好」的定义权",
+    "highlight_emoji": "🔄",
     "accent_color": "ocean"
   },
-  "dudu_voice": "兜兜觉得这份研究最值钱的地方不是「AI 有 bug」，而是它给了设计师一个可执行的检查动作——跑一遍规则，比争论 AI 靠不靠谱有用多了。",
+  "dudu_voice": "兜兜觉得这条最戳设计师：AI 写前端已经不稀奇了，稀奇的是它开始看上线后的真实数据。以后比的不是谁生成得快，是谁的反馈回路短。",
   "meta": {
-    "day": 217,
-    "date": "2026-11-26",
-    "generated_at": "2026-11-26T20:28:41.535973Z",
+    "day": 218,
+    "date": "2026-11-27",
+    "generated_at": "2026-11-27T20:13:27.331902Z",
     "mode": "rss"
   },
   "briefing": []

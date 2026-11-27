@@ -1,5 +1,5 @@
 {
-  "day_count": 217,
+  "day_count": 218,
   "history": [
     {
       "day": 20,
@@ -1328,6 +1328,13 @@
       "day": 217,
       "date": "2026-11-26",
       "topic": "What a rule-based checker found in 561 public projects, mostly AI-built",
+      "source": "Hacker News (设计向)",
+      "mode": "rss"
+    },
+    {
+      "day": 218,
+      "date": "2026-11-27",
+      "topic": "Show HN: I gave my AI Agents Production backed Memory",
       "source": "Hacker News (设计向)",
       "mode": "rss"
     }

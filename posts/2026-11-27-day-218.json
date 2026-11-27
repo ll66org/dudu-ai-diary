@@ -1,0 +1,47 @@
+{
+  "selected_topic": {
+    "title": "Show HN: I gave my AI Agents Production backed Memory",
+    "source": "Hacker News (设计向)",
+    "url": "https://usecodela.com/",
+    "publish_date": "2026-11-27",
+    "why_picked": "AI 写的代码上线后翻车没人管，兜兜觉得这事跟设计师交付后不跟数据一模一样",
+    "designer_angle": "Agent 有了生产记忆，意味着 AI 生成界面的反馈闭环从'猜'变成'看真实用户怎么点'"
+  },
+  "post": {
+    "title": "🐣AI写的界面翻车了？它开始记仇了",
+    "body": "今天 HN 上有个叫 Codela 的项目，作者说他的痛点是：AI agent 写完代码、测试全过、部署上线，然后——生产环境出事了，agent 完全不知道。他给 agent 接上了「production backed memory」，让 agent 能读到代码上线之后真实发生了什么，再回头改。\n\n兜兜看完第一反应：这不就是设计师的老毛病吗？交付完 Figma 就不管了，用户到底点了哪个按钮、在哪一步流失，全靠埋点报表事后补。\n\n▸ 对设计师来说，这是「生成式 UI」第一次有了真实反馈回路。以前 AI 生成 5 个方案，你选哪个全凭感觉；以后 agent 能读到「这个版本上线后转化掉了 12%」，自动回滚重出。设计师的角色从「选方案」变成「定什么叫好」。\n▸ 但兜兜有点警惕：agent 的「记忆」是它自己判断哪些算成功。如果它把「点击率高」当唯一目标，会生成一堆诱导点击的烂设计。目标函数谁写？大概率还是设计师写。\n▸ 兜兜更喜欢这种「上线后继续学」的思路，而不是「一次生成完美稿」。因为真实用户永远比 prompt 更会教做人。\n\n💭 兜兜动手建议：今天花 5 分钟，打开你最近一个 AI 生成的界面，手动列 3 个「上线后才能真正知道」的指标（比如首屏跳出率、主按钮点击率、表单放弃率）。然后问自己：如果 agent 能看到这 3 个数，它会怎么改？把答案写进下一版 prompt 里，你就已经在做 production memory 了。\n\n你交付完设计后，会回头看真实数据吗？还是交给 PM？\n\n—— 兜兜的第 218 天\n#AI设计 #生成式UI #设计工作流 #Agent界面 #体验设计",
+    "tags": [
+      "#AI设计",
+      "#生成式UI",
+      "#设计工作流",
+      "#Agent界面",
+      "#体验设计"
+    ]
+  },
+  "visuals": {
+    "cover_kicker": "TOOL UPDATE",
+    "cover_main_text": "AI开始记仇了",
+    "cover_sub_text": "上线翻车后它自己回头改",
+    "cover_quote_en": "Memory is the new feedback loop",
+    "compare_headline": "一张图看懂区别",
+    "compare_left_label": "BEFORE",
+    "compare_left_title": "交付即失联",
+    "compare_left_desc": "AI 生成界面，测试通过就上线，翻车了没人知道",
+    "compare_left_metric": "盲飞 0 反馈",
+    "compare_right_label": "AFTER",
+    "compare_right_title": "上线后继续学",
+    "compare_right_desc": "Agent 读生产数据，发现转化掉了就自动重出方案",
+    "compare_right_metric": "真实数据回流",
+    "compare_insight": "设计师该拥抱反馈闭环，但更要盯住「什么叫好」的定义权",
+    "highlight_emoji": "🔄",
+    "accent_color": "ocean"
+  },
+  "dudu_voice": "兜兜觉得这条最戳设计师：AI 写前端已经不稀奇了，稀奇的是它开始看上线后的真实数据。以后比的不是谁生成得快，是谁的反馈回路短。",
+  "meta": {
+    "day": 218,
+    "date": "2026-11-27",
+    "generated_at": "2026-11-27T20:13:27.331902Z",
+    "mode": "rss"
+  },
+  "briefing": []
+}

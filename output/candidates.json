@@ -1,27 +1,36 @@
 [
   {
-    "title": "GoLand Intelligence Now Available in Cursor and VS Code",
-    "summary": "<p>Article URL: <a href=\"https://blog.jetbrains.com/go/2026/11/25/go-by-goland-public-preview/\">https://blog.jetbrains.com/go/2026/11/25/go-by-goland-public-preview/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50659185\">https://news.ycombinator.com/item?id=50659185</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
-    "url": "https://blog.jetbrains.com/go/2026/11/25/go-by-goland-public-preview/",
-    "published": "Thu, 26 Nov 2026 20:11:32 +0000",
+    "title": "Show HN: I gave my AI Agents Production backed Memory",
+    "summary": "<p>Hi HN, I’m building Codela to help coding agents learn from what happens after their code ships.\nI realized that my AI agent writes a change, the tests pass, and it gets deployed. Then in production a problem happens, I fix it, but what it did wrong and why never reaches the agent, so futures session usually make the same mistake.<p>So I built Codela which checks every deploy against how my app actually behaves in production (via my monitoring tool signoz) , learns from the ones that broke it",
+    "url": "https://usecodela.com/",
+    "published": "Fri, 27 Nov 2026 19:58:45 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "What a rule-based checker found in 561 public projects, mostly AI-built",
-    "summary": "<p>Article URL: <a href=\"https://lintsure.com/research/561-projects\">https://lintsure.com/research/561-projects</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50657555\">https://news.ycombinator.com/item?id=50657555</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>",
-    "url": "https://lintsure.com/research/561-projects",
-    "published": "Thu, 26 Nov 2026 17:38:58 +0000",
+    "title": "Show HN: A local-first AI memory for your video footage",
+    "summary": "<p>I'm Ilias, the creator behind Orcah Studio (a local-first knowledge system that will transcribe, perform speaker diarization, analyse frames, and create multi-modal embeddings) using open-weight models<p>Demo video: <a href=\"https://youtu.be/9uUZrayDEgs\" rel=\"nofollow\">https://youtu.be/9uUZrayDEgs</a><p>I built a Docker-first solution, fully open source here: <a href=\"https://github.com/IliasHad/orcah-studio\" rel=\"nofollow\">https://github.com/IliasHad/orcah-studio</a><p>Plus, a desktop app th",
+    "url": "https://news.ycombinator.com/item?id=50670468",
+    "published": "Fri, 27 Nov 2026 19:02:01 +0000",
     "source": "Hacker News (设计向)",
     "source_weight": "high",
     "category": "ai_tech"
   },
   {
-    "title": "Claude-Mem Cloud Sync",
-    "summary": "<p>\n            Switch devices. Keep your AI agents' memory.\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/claude-mem?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1331659?app_id=339\">Link</a>\n          </p>",
-    "url": "https://www.producthunt.com/products/claude-mem",
-    "published": "2026-11-25T23:58:18-08:00",
+    "title": "The design philosophy behind Vulcan Veil",
+    "summary": "<p>Article URL: <a href=\"https://vulcanveil.com/blog/design-philosophy\">https://vulcanveil.com/blog/design-philosophy</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50670133\">https://news.ycombinator.com/item?id=50670133</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://vulcanveil.com/blog/design-philosophy",
+    "published": "Fri, 27 Nov 2026 18:31:30 +0000",
+    "source": "Hacker News (设计向)",
+    "source_weight": "high",
+    "category": "ai_tech"
+  },
+  {
+    "title": "Woomool",
+    "summary": "<p>\n            AI Canvas where thinking becomes tangible\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/woomool?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1332846?app_id=339\">Link</a>\n          </p>",
+    "url": "https://www.producthunt.com/products/woomool",
+    "published": "2026-11-26T21:09:46-08:00",
     "source": "Product Hunt",
     "source_weight": "high",
     "category": "ai_tech"
@@ -90,15 +99,6 @@
     "category": "design_communities"
   },
   {
-    "title": "Beyond the craft: Reclaiming Design as a Reflective Practice",
-    "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/beyond-the-pixel-reclaiming-design-as-a-reflective-practice-6f6789acb2bd?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1920/1*yrKkLri02dOVZkMwF1iI4g.jpeg\" width=\"1920\" /></a></p><p class=\"medium-feed-snippet\">Why reflective thinking in and on design action, not faster execution, is our real edge in the age of AI.</p><p class=\"medium-feed-link\"><a href=\"https://uxdesign.cc/beyond",
-    "url": "https://uxdesign.cc/beyond-the-pixel-reclaiming-design-as-a-reflective-practice-6f6789acb2bd?source=rss----138adf9c44c---4",
-    "published": "Tue, 24 Nov 2026 22:09:23 GMT",
-    "source": "UX Collective",
-    "source_weight": "medium",
-    "category": "design_communities"
-  },
-  {
     "title": "Machines are trying to get gut feelings while you’re telling me to ignore mine",
     "summary": "<h4>Intuition was always treated as the second-best kind of knowing. Now AI is learning it from itself; we’re learning from AI, and nobody’s minding the loop. Welp.</h4><figure><img alt=\"Image showing scrabble letters “Intuition”\" src=\"https://cdn-images-1.medium.com/max/1024/0*smZ6ATMVtUz6qucK.jpeg\" /><figcaption>By Edz Norton (<a href=\"https://unsplash.com/@edznorton\">source</a>)</figcaption></figure><p>I have a feeling about AI.</p><p>I know that’s an odd way to open an essay about AI, but he",
     "url": "https://uxdesign.cc/machines-are-trying-to-get-gut-feelings-while-youre-telling-me-to-ignore-mine-17095e56f22d?source=rss----138adf9c44c---4",
@@ -108,30 +108,12 @@
     "category": "design_communities"
   },
   {
-    "title": "Using Fallbacks for a Robust Front-End",
-    "summary": "<p>It’s important to use fallbacks to build a robust front end, either to quietly and discreetly avoid the error or to communicate it to our users.</p>\n<hr />\n<p><small><a href=\"https://css-tricks.com/using-frontend-fallbacks/\" rel=\"nofollow\">Using Fallbacks for a Robust Front-End</a> originally handwritten and published with love on <a href=\"https://css-tricks.com\" rel=\"nofollow\">CSS-Tricks</a>. You should really <a href=\"https://css-tricks.com/newsletters/\">get the newsletter</a> as well.</p>",
-    "url": "https://css-tricks.com/using-frontend-fallbacks/",
-    "published": "Mon, 23 Nov 2026 14:21:44 +0000",
-    "source": "CSS-Tricks",
-    "source_weight": "low",
-    "category": "design_communities"
-  },
-  {
-    "title": "Dev Material Archive",
-    "summary": "<p class=\"wp-block-paragraph\">A new <a href=\"https://dev-archive.org\" rel=\"nofollow noopener\">resource resurrecting lost web-dev articles and posts</a>:</p>\n<blockquote class=\"wp-block-quote is-layout-flow wp-block-quote-is-layout-flow\">\n<p class=\"wp-block-paragraph\">This is an archive of written articles about web development, web design, and web accessibility that once existed on the World Wide Web and which would otherwise be lost to </p>\n</blockquote>\n<p>&#8230;</p>\n<hr />\n<p><small><a href=",
-    "url": "https://css-tricks.com/dev-material-archive/",
-    "published": "Mon, 23 Nov 2026 14:18:50 +0000",
-    "source": "CSS-Tricks",
-    "source_weight": "low",
-    "category": "design_communities"
-  },
-  {
-    "title": "Andy Clarke answers six questions about Standout Designs for the Web",
-    "summary": "<p class=\"wp-block-paragraph\">Web designer, author, and <a href=\"https://stuffandnonsense.co.uk\" rel=\"nofollow noopener\">Stuff &#38; Nonsense</a> founder Andy Clarke has released <em><a href=\"https://css-tricks.com/product/standout-web-design-for-the-web/\">Standout Designs for the Web</a></em>, a new e-book that encourages designers to move beyond familiar templates and conventional layouts to create more personality-driven websites.</p>\n<p class=\"wp-block-paragraph\">The book draws &#8230;</p>\n<",
-    "url": "https://css-tricks.com/andy-clarke-standout-designs-for-the-web-interview/",
-    "published": "Fri, 20 Nov 2026 15:03:47 +0000",
-    "source": "CSS-Tricks",
-    "source_weight": "low",
+    "title": "How I use AI as a solo designer",
+    "summary": "<h4>Things that work well, and things that kind of failed.</h4><p>I’ve been part of a growing 30+ strong design team for 6 years — a great team with a wide skill set, within a large organization. When AI became popular, Figma Make was the natural thing to try, as it lived within Figma, with a few specks of usage in Gemini and assisted user interviews (Maze), resulting in tiny glimpses of impact. Things changed quite a lot in January, as I’ve decided to take on a new challenge in a B2B e-comm sca",
+    "url": "https://uxdesign.cc/how-do-i-use-ai-as-a-solo-designer-956a3954614e?source=rss----138adf9c44c---4",
+    "published": "Fri, 27 Nov 2026 11:22:26 GMT",
+    "source": "UX Collective",
+    "source_weight": "medium",
     "category": "design_communities"
   }
 ]
